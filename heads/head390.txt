@@ -1,0 +1,64 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#15#</sectionNumber>
+<headword>#<b>#[001] #390# Physical Pleasure #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>physical pleasure, </i>pleasure</sg>,;
+<sg>physical pleasure, sensual pleasure, sensuous pleasure</sg>,;
+<sg>bodily enjoyment, animal gratification, hedonism, sensuality</sg>,;
+<sg>luxuriousness</sg>,;
+<sg>dissipation, round of pleasure, titillation, gusto, creature comforts, comfort, ease</sg>,;
+<sg>pillow ,<cref>215 <i>support</i></cref></sg>,;
+<sg>luxury, lap of luxury</sg>,;
+<sg>purple and fine linen</sg>,;
+<sg>bed of downs, bed of roses</sg>,;
+<sg>velvet, clover</sg>,;
+<sg>cup of Circe ,<cref>954 <i>intemperance</i></cref></sg>,;
+<sg>treat</sg>,;
+<sg>refreshment, regale</sg>,;
+<sg>feast</sg>,;
+<sg>delice</sg>,;
+<sg>dainty ,<cref> 394 <i>numbness</i></cref></sg>,;
+<sg>bonne bouche</sg>,;
+<sg>source of pleasure ,<cref> 829 <i>sale</i></cref></sg>,;
+<sg>happiness ,<cref>827 <i>mental enjoyment</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>feel pleasure, experience pleasure, receive pleasure</sg>,;
+<sg>enjoy, relish</sg>,;
+<sg>luxuriate in, revel in, riot in, bask in, swim in, drink up, eat up, wallow in</sg>,;
+<sg>feast on</sg>,;
+<sg>gloat over, float on</sg>,;
+<sg>smack the lips</sg>,;
+<sg>live on the fat of the land, live in comfort</sg>,;
+<sg>bask in the sunshine, faire ses choux gras</sg>,;
+<sg>give pleasure ,<cref> 829 <i>sale</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>enjoying</sg>,;
+<sg>luxurious, voluptuous, sensual, comfortable, cosy, snug, in comfort, at ease</sg>,;
+<sg>pleasant, agreeable ,<cref> 829 <i>sale</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>in comfort</sg>,;
+<sg>on a bed of roses</sg>,;
+<sg>at one's ease</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>ride si sapis</sg>,;
+<sg>voluptales commendat rarior usus</sg>,;
+<br>
+</paragraph>

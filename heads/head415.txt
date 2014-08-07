@@ -1,0 +1,28 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#15#</sectionNumber>
+<headword>#<b>#[001] #415# Inodorousness #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>inodorousness</i></sg>,;
+<sg>absence of smell, want of smell</sg>,;
+<sg>deodorant, deodorization, deodorizer</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be inodorous</sg>,;
+<sg>not smell</sg>,;
+<sg>deodorize</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>inodorous, onodorate</sg>,;
+<sg>scentless</sg>,;
+<sg>without smell, wanting smell ,<cref> 398 <i>refrigeration</i></cref></sg>,;
+<sg>deodorized, deodorizing</sg>,;
+<br>
+</paragraph>

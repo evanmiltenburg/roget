@@ -1,0 +1,44 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#34#</sectionNumber>
+<headword>#<b>#[001] #853# Liberality #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>liberality, </i>generosity, munificence</sg>,;
+<sg>bounty, bounteousness, bountifulness</sg>,;
+<sg>hospitality</sg>,;
+<sg>charity ,<cref>906 <i>beneficence</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be liberal</sg>,;
+<sg>spend freely, bleed freely</sg>,;
+<sg>shower down upon</sg>,;
+<sg>open one's purse strings ,<cref>809 <i>disburse</i></cref></sg>,;
+<sg>spare no expense, give carte blanche</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>liberal, free, generous</sg>,;
+<sg>charitable ,<cref>906 <i>beneficent</i></cref></sg>,;
+<sg>hospitable</sg>,;
+<sg>bountiful, bounteous</sg>,;
+<sg>handsome</sg>,;
+<sg>unsparing, ungrudging</sg>,;
+<sg>unselfish</sg>,;
+<sg>open handed, free handed, full handed</sg>,;
+<sg>open hearted, large hearted, free hearted</sg>,;
+<sg>munificent, princely</sg>,;
+<sg>overpaid</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>handsome is that handsome does</sg>,;
+<br>
+</paragraph>

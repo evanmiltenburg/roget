@@ -1,0 +1,49 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#25#</sectionNumber>
+<headword>#<b>#[001] #578# Obliteration #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>obliteration</i></sg>,;
+<sg>erasure, rasure</sg>,;
+<sg>cancel, cancellation</sg>,;
+<sg>circumduction</sg>,;
+<sg>deletion, blot</sg>,;
+<sg>tabula rasa</sg>,;
+<sg>effacement, extinction</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>efface, obliterate, erase, raze, rase, expunge, cancel</sg>,;
+<sg>blot out, take out, rub out, scratch out, strike out, wipe out, wash out, sponge out</sg>,;
+<sg>wipe off, rub off</sg>,;
+<sg>wipe away</sg>,;
+<sg>deface, render illegible</sg>,;
+<sg>draw the pen through, apply the sponge</sg>,;
+<sg>be effaced </sg>,;
+<sg>leave no trace ,<cref> 550 <i>manifestation</i></cref></sg>,;
+<sg>leave not a rack behind</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>obliterated</sg>,;
+<sg>out of print</sg>,;
+<sg>printless</sg>,;
+<sg>leaving no trace</sg>,;
+<sg>intestate</sg>,;
+<sg>unrecorded, unregistered, unwritten</sg>,;
+<sg>Int</sg>,;
+<sg>dele</sg>,;
+<sg>out with it!,</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>delenda est Carthago</sg>,;
+<br>
+</paragraph>

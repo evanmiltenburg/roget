@@ -1,0 +1,78 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#38#</sectionNumber>
+<headword>#<b>#[001] #986# Virtue #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>virtue</i></sg>,;
+<sg>virtuousness</sg>,;
+<sg>morality</sg>,;
+<sg>moral rectitude</sg>,;
+<sg>integrity ,<cref>939 <i>probity</i></cref></sg>,;
+<sg>nobleness ,<cref> 873 <i>aggravation</i></cref></sg>,;
+<sg>morals</sg>,;
+<sg>ethics ,<cref>926 <i>duty</i></cref></sg>,;
+<sg>cardinal virtues</sg>,;
+<sg>merit, worth, desert, excellence, credit</sg>,;
+<sg>self-control ,<cref>604 <i>resolution</i></cref></sg>,;
+<sg>self-denial ,<cref>953 <i>temperance</i></cref></sg>,;
+<sg>well-doing</sg>,;
+<sg>good actions, good behavior</sg>,;
+<sg>discharge of duty, fulfillment of duty, performance of duty</sg>,;
+<sg>well-spent life</sg>,;
+<sg>innocence ,<cref> 946 <i>benevolence</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be virtuous</sg>,;
+<sg>practice virtue</sg>,;
+<sg>do one's duty, fulfill one's duty, perform one's duty, discharge one's duty</sg>,;
+<sg>redeem one's pledge, keep one's promise ,<cref> 926 <i>blusterer</i></cref></sg>,;
+<sg>act well, act one's part</sg>,;
+<sg>fight the good fight</sg>,;
+<sg>acquit oneself well</sg>,;
+<sg>command one's passions, master one's passions</sg>,;
+<sg>keep in the right path</sg>,;
+<sg>set an example, set a good example</sg>,;
+<sg>be on one's good behavior, be on one's best behavior</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>virtuous, good</sg>,;
+<sg>innocent ,<cref> 946 <i>benevolence</i></cref></sg>,;
+<sg>meritorious, deserving, worthy, desertful, correct</sg>,;
+<sg>dutiful, duteous</sg>,;
+<sg>moral</sg>,;
+<sg>right, righteous, right- minded</sg>,;
+<sg>well-intentioned, creditable, laudable, commendable, praiseworthy</sg>,;
+<sg>above all praise, beyond all praise</sg>,;
+<sg>excellent, admirable</sg>,;
+<sg>sterling, pure, noble</sg>,;
+<sg>whole-souled</sg>,;
+<sg>exemplary</sg>,;
+<sg>matchless, peerless</sg>,;
+<sg>saintly, saint-like</sg>,;
+<sg>heaven-born, angelic, seraphic, godlike</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>virtuously , adj</sg>,;
+<sg>e merito</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>esse quam videri bonus malebat</sg>,;
+<sg>Schonheit vergeht Tugend besteht</sg>,;
+<sg>virtue the greatest of all monarchies</sg>,;
+<sg>virtus laudatur et alget</sg>,;
+<sg>virtus vincit invidiam</sg>,;
+<br>
+</paragraph>

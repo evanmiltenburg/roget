@@ -1,0 +1,18 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#38#</sectionNumber>
+<headword>#<b>#[001] #997# Sensualist #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>sensualist, </i>Sybarite, voluptuary, Sardanaphalus, man of pleasure, carpet knight</sg>,;
+<sg>epicure, epicurean, gourmet, gourmand</sg>,;
+<sg>pig, hog</sg>,;
+<sg>votary of Epicurus, swine of Epicurus</sg>,;
+<sg>sensualist</sg>,;
+<sg>Heliogabalus</sg>,;
+<sg>free liver, hard liver</sg>,;
+<sg>libertine ,<cref> 962 <i>envy</i></cref></sg>,;
+<sg>hedonist</sg>,;
+<sg>tragalist</sg>,;
+<br>
+</paragraph>

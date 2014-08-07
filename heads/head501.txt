@@ -1,0 +1,69 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#19#</sectionNumber>
+<headword>#<b>#[001] #501# Demonstration #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>demonstration, </i>proof, rigorous proof</sg>,;
+<sg>conclusiveness</sg>,;
+<sg>apodeixis, apodixis, probation, comprobation</sg>,;
+<sg>logic of facts ,<cref>467 <i>evidence</i></cref></sg>,;
+<sg>experimentum crucis ,<cref>463 <i>test</i></cref></sg>,;
+<sg>argument ,<cref> 476 <i>incuriosity</i></cref></sg>,;
+<sg>rigorous establishment, absolute establishment</sg>,;
+<sg>conviction, cogency, (persuasion) 484</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>demonstrate, prove, establish</sg>,;
+<sg>make good</sg>,;
+<sg>show, evince, manifest ,<cref>467 <i>be evidence of</i></cref></sg>,;
+<sg>confirm, corroborate, substantiate, verify ,<cref> 467 <i>appearance</i></cref>, settle the question, reduce to demonstration, set the question at rest</sg>,;
+<sg>make out, make out a case</sg>,;
+<sg>prove one's point, have the best of the argument</sg>,;
+<sg>draw a conclusion ,<cref>480 <i>judge</i></cref></sg>,;
+<sg>follow, follow of course, follow as a matter of course, follow necessarily</sg>,;
+<sg>stand to reason</sg>,;
+<sg>hold good, hold water</sg>,;
+<sg>convince, persuade (belief) 484</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>demonstrating</sg>,;
+<sg>, demonstrative, demonstrable</sg>,;
+<sg>probative, unanswerable, conclusive</sg>,;
+<sg>apodictic, apodeictic, apodeictical</sg>,;
+<sg>irresistible, irrefutable, irrefragable</sg>,;
+<sg>necessary</sg>,;
+<sg>categorical, decisive, crucial</sg>,;
+<sg>demonstrated</sg>,;
+<sg>proven</sg>,;
+<sg>unconfuted, unanswered, unrefuted</sg>,;
+<sg>evident ,<cref> 474 <i>topic</i></cref></sg>,;
+<sg>deducible, consequential, consectary, inferential, following</sg>,;
+<sg>convincing, cogent, persuasive (believable) 484</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>of course, in consequence, consequently, as a matter of course</sg>,;
+<sg>necessarily, of necessity</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>probatum est</sg>,;
+<sg>there is nothing more to be said</sg>,;
+<sg>quod est demonstrandum, Q</sg>,;
+<sg>E</sg>,;
+<sg>D</sg>,;
+<sg>it must follow</sg>,;
+<sg>exitus acta probat</sg>,;
+<br>
+</paragraph>

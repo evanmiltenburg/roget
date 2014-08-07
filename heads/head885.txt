@@ -1,0 +1,88 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#36#</sectionNumber>
+<headword>#<b>#[001] #885# Ornament #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>ornament, </i>ornamentation, ornamental art</sg>,;
+<sg>ornature, ornateness</sg>,;
+<sg>adornment, decoration, embellishment</sg>,;
+<sg>architecture</sg>,;
+<sg>jewelry ,<cref> 847 <i>price</i></cref></sg>,;
+<sg>1</sg>,;
+<sg>garnish, polish, varnish, French polish, veneer, japanning, lacquer</sg>,;
+<sg>gilding, plating, ormolu, enamel, cloisonn_e</sg>,;
+<sg>cosmetics (in general), makeup</sg>,;
+<sg>eye shadow, rouge, face powder, lipstick, blush</sg>,;
+<sg>pattern, diaper, powdering, paneling, graining, pargeting</sg>,;
+<sg>detail</sg>,;
+<sg>repousse (convexity) 250</sg>,;
+<sg>texture ,<cref> 329 <i>world</i></cref></sg>,;
+<sg>richness</sg>,;
+<sg>tracery, molding, fillet, listel, strapwork, coquillage, flourish, fleur-de-lis, arabesque, fret, anthemion</sg>,;
+<sg>egg and tongue, egg and dart</sg>,;
+<sg>astragal, zigzag, acanthus, cartouche</sg>,;
+<sg>pilaster ,<cref>250 <i>projection</i></cref></sg>,;
+<sg>bead, beading</sg>,;
+<sg>champleve ware, cloisonne ware</sg>,;
+<sg>frost work, Moresque, Morisco, tooling</sg>,;
+<sg>embroidery</sg>,;
+<sg>brocade, brocatelle, galloon, lace, fringe, trapping, border, edging, trimming</sg>,;
+<sg>hanging, tapestry, arras</sg>,;
+<sg>millinery, ermine</sg>,;
+<sg>drap d'or</sg>,;
+<sg>wreath, festoon, garland, chaplet, flower, nosegay, bouquet, posy, daisies pied and violets blue, tassel,, knot</sg>,;
+<sg>shoulder knot, apaulette, epaulet, aigulet, frog</sg>,;
+<sg>star, rosette, bow</sg>,;
+<sg>feather, plume, pompom, panache, aigrette</sg>,;
+<sg>finery, frippery, gewgaw, gimcrack, tinsel, spangle, clinquant, pinchbeck, paste</sg>,;
+<sg>excess of ornament ,<cref>851 <i>vulgarity</i></cref></sg>,;
+<sg>gaud, pride</sg>,;
+<sg>illustration, illumination, vignette</sg>,;
+<sg>fleuron</sg>,;
+<sg>head piece, tail piece</sg>,;
+<sg>cul-de-lampe</sg>,;
+<sg>flowers of rhetoric ,<cref> 577 <i>record</i></cref></sg>,;
+<sg>work of art</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>ornament, embellish, enrich, decorate, adorn, bead, beautify, adonize</sg>,;
+<sg>smarten, furbish, polish, gild, varnish, whitewash, enamel, japan, lacquer, paint, grain</sg>,;
+<sg>garnish, trim, dizen, bedizen, prink, prank</sg>,;
+<sg>trick out, fig out</sg>,;
+<sg>deck, bedeck, dight, bedight, array</sg>,;
+<sg>begawd, titivate</sg>,;
+<sg>dress, dress up</sg>,;
+<sg>spangle, bespangle, powder</sg>,;
+<sg>embroider, work</sg>,;
+<sg>chase, emboss, fret, emblazon</sg>,;
+<sg>illuminate</sg>,;
+<sg>illustrate</sg>,;
+<sg>become ,<cref>23 <i>accord with</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>ornamented, beautified</sg>,;
+<sg>ornate, rich, gilt, begilt, tesselated, festooned</sg>,;
+<sg>champleve, cloisonne, topiary</sg>,;
+<sg>smart, gay, trickly, flowery, glittering</sg>,;
+<sg>new gilt, new spangled</sg>,;
+<sg>fine as a Mayday queen, fine as a fivepence, fine as a carrot fresh scraped</sg>,;
+<sg>pranked out, bedight, well-groomed</sg>,;
+<sg>in full dress ,<cref>852 <i>fashion</i></cref></sg>,;
+<sg>dressed to kill, dressed to the nines, dressed to advantage</sg>,;
+<sg>in Sunday best, en grand tenue, en grande toilette</sg>,;
+<sg>in best bib and tucker, endimanche</sg>,;
+<sg>showy, flashy</sg>,;
+<sg>gaudy ,<cref>851 <i>vulgar</i></cref></sg>,;
+<sg>garish, gairish</sg>,;
+<sg>gorgeous</sg>,;
+<sg>ornamental, decorative</sg>,;
+<sg>becoming ,<cref>23 <i>accordant</i></cref></sg>,;
+<br>
+</paragraph>

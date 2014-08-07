@@ -1,0 +1,59 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#3#</sectionNumber>
+<headword>#<b>#[001] #40# Subtraction #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>nonaddition, subtraction, </i>subtraction, subduction</sg>,;
+<sg>deduction, retrenchment</sg>,;
+<sg>removal, withdrawal</sg>,;
+<sg>ablation, sublation</sg>,;
+<sg>abstraction ,<cref>789 <i>taking</i></cref></sg>,;
+<sg>garbling,</sg>,;
+<sg>mutilation, detruncation</sg>,;
+<sg>amputation</sg>,;
+<sg>abscission, excision, recision</sg>,;
+<sg>curtailment ,<cref> 201 <i>size</i></cref></sg>,;
+<sg>minuend, subtrahend</sg>,;
+<sg>decrease ,<cref> 36 <i>inferiority</i></cref></sg>,;
+<sg>abrasion</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>subduct, subtract</sg>,;
+<sg>deduct, deduce</sg>,;
+<sg>bate, retrench</sg>,;
+<sg>remove, withdraw, take from, take away</sg>,;
+<sg>detract</sg>,;
+<sg>garble, mutilate, amputate, detruncate</sg>,;
+<sg>cut off, cut away, cut out</sg>,;
+<sg>abscind, excise</sg>,;
+<sg>pare, thin, prune, decimate</sg>,;
+<sg>abrade, scrape, file</sg>,;
+<sg>geld, castrate</sg>,;
+<sg>eliminate</sg>,;
+<sg>diminish ,<cref> 36 <i>inferiority</i></cref></sg>,;
+<sg>curtail ,<cref>201 <i>shorten</i></cref></sg>,;
+<sg>deprive of ,<cref>789 <i>take</i></cref></sg>,;
+<sg>weaken</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>subtracted</sg>,;
+<sg>subtractive</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>in deduction</sg>,;
+<sg>less</sg>,;
+<sg>short of</sg>,;
+<sg>minus, without, except, except for, excepting, with the exception of, barring, save, exclusive of, save and except, with a reservation</sg>,;
+<sg>not counting, if one doesn't count</sg>,;
+<br>
+</paragraph>

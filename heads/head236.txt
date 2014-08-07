@@ -1,0 +1,58 @@
+<classNumber>#2#</classNumber>
+<sectionNumber>#10#</sectionNumber>
+<headword>#<b>#[001] #236# Divestment #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>divestment</i></sg>,;
+<sg>taking off</sg>,;
+<sg>nudity</sg>,;
+<sg>bareness</sg>,;
+<sg>undress</sg>,;
+<sg>dishabille ,<cref> 225 <i>parallelism</i></cref></sg>,;
+<sg>the altogether</sg>,;
+<sg>nudation, denudation</sg>,;
+<sg>decortication, depilation, excoriation, desquamation</sg>,;
+<sg>molting</sg>,;
+<sg>exfoliation</sg>,;
+<sg>trichosis</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>divest</sg>,;
+<sg>uncover &c (cover) ,<cref> 223 <i>pendency</i></cref></sg>,;
+<sg>denude, bare, strip</sg>,;
+<sg>disfurnish</sg>,;
+<sg>undress, disrobe &c (dress, enrobe) ,<cref> 225 <i>parallelism</i></cref></sg>,;
+<sg>uncoif</sg>,;
+<sg>dismantle</sg>,;
+<sg>put off, take off, cast off</sg>,;
+<sg>doff</sg>,;
+<sg>peel, pare, decorticate, excoriate, skin, scalp, flay</sg>,;
+<sg>expose, lay open</sg>,;
+<sg>exfoliate, molt, mew</sg>,;
+<sg>cast the skin</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>divested</sg>,;
+<sg>bare, naked, nude</sg>,;
+<sg>undressed, undraped</sg>,;
+<sg>denuded</sg>,;
+<sg>exposed</sg>,;
+<sg>in dishabille</sg>,;
+<sg>bald, threadbare, ragged, callow, roofless</sg>,;
+<sg>in a state of nature, in nature's garb, in the buff, in native buff, in birthday suit</sg>,;
+<sg>in puris naturalibus</sg>,;
+<sg>with nothing on, stark naked, stark raving naked</sg>,;
+<sg>bald as a coot, bare as the back of one's hand</sg>,;
+<sg>out at elbows</sg>,;
+<sg>barefoot</sg>,;
+<sg>bareback, barebacked</sg>,;
+<sg>leafless, napless, hairless</sg>,;
+<br>
+</paragraph>

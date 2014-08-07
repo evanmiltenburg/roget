@@ -1,0 +1,50 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#15#</sectionNumber>
+<headword>#<b>#[001] #419# Sound #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>sound, </i>noise, strain</sg>,;
+<sg>accent, twang, intonation, tone</sg>,;
+<sg>cadence</sg>,;
+<sg>sonorousness</sg>,;
+<sg>audibility</sg>,;
+<sg>resonance ,<cref> 408 <i>bitterness</i></cref></sg>,;
+<sg>voice ,<cref> 580 <i>representation</i></cref></sg>,;
+<sg>aspirate</sg>,;
+<sg>ideophone</sg>,;
+<sg>rough breathing</sg>,;
+<sg>acoustics</sg>,;
+<sg>phonics, phonetics, phonology, phonography</sg>,;
+<sg>diacoustics, diaphonics</sg>,;
+<sg>phonetism</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>produce sound</sg>,;
+<sg>sound, make a noise</sg>,;
+<sg>give out sound, emit sound</sg>,;
+<sg>resound ,<cref> 408 <i>bitterness</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>sounding</sg>,;
+<sg>soniferous</sg>,;
+<sg>sonorous, sonorific</sg>,;
+<sg>resonant, audible, distinct</sg>,;
+<sg>stertorous</sg>,;
+<sg>phonetic</sg>,;
+<sg>phonic, phonocamptic</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>a thousand trills and quivering sounds</sg>,;
+<sg>forensis strepitus</sg>,;
+<br>
+</paragraph>

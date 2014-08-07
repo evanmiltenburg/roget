@@ -1,0 +1,39 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#31#</sectionNumber>
+<headword>#<b>#[001] #788# Resignation #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>resignation, </i>retirement, abdication, renunciation, abjuration</sg>,;
+<sg>abandonment, relinquishment</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>resign</sg>,;
+<sg>give up, throw up</sg>,;
+<sg>lay down, throw up the cards, wash one's hands of, abjure, renounce, forego, disclaim, retract</sg>,;
+<sg>deny ,<cref> 536 <i>omen</i></cref></sg>,;
+<sg>abrogate ,<cref> 756 <i>arms</i></cref></sg>,;
+<sg>desert ,<cref>624 <i>relinquish</i></cref></sg>,;
+<sg>get rid of ,<cref> 782 <i>restraint</i></cref></sg>,;
+<sg>abdicate</sg>,;
+<sg>vacate, vacate one's seat</sg>,;
+<sg>accept the stewardship of the Chiltern Hundreds</sg>,;
+<sg>retire</sg>,;
+<sg>tender one's resignation</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>abdicant</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>Othello's occupation's gone</sg>,;
+<br>
+</paragraph>

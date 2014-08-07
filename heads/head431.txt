@@ -1,0 +1,96 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#15#</sectionNumber>
+<headword>#<b>#[001] #431# Concord #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>melody concord, </i>melody, rhythm, measure</sg>,;
+<sg>rhyme ,<cref>597 <i>poetry</i></cref></sg>,;
+<sg>pitch, timbre, intonation, tone</sg>,;
+<sg>scale, gamut</sg>,;
+<sg>diapason</sg>,;
+<sg>diatonic chromatic scale, enharmonic scale</sg>,;
+<sg>key, clef, chords</sg>,;
+<sg>modulation, temperament, syncope, syncopation, preparation, suspension, resolution</sg>,;
+<sg>staff, stave, line, space, brace</sg>,;
+<sg>bar, rest</sg>,;
+<sg>appoggiato, appoggiatura</sg>,;
+<sg>acciaccatura</sg>,;
+<sg>note, musical note, notes of a scale</sg>,;
+<sg>sharp, flat, natural</sg>,;
+<sg>high note ,<cref>410 <i>shrillness</i></cref></sg>,;
+<sg>low note ,<cref> 408 <i>bitterness</i></cref></sg>,;
+<sg>interval</sg>,;
+<sg>semitone</sg>,;
+<sg>second, third, fourth </sg>,;
+<sg>diatessaron</sg>,;
+<sg>breve, semibreve, minim, crotchet, quaver</sg>,;
+<sg>semiquaver, demisemiquaver, hemidemisemiquaver</sg>,;
+<sg>sustained note, drone, burden</sg>,;
+<sg>tonic</sg>,;
+<sg>key note, leading note, fundamental note</sg>,;
+<sg>supertonic, mediant, dominant</sg>,;
+<sg>submediant, subdominant</sg>,;
+<sg>octave, tetrachord</sg>,;
+<sg>major key, minor key, major scale, minor scale, major mode, minor mode</sg>,;
+<sg>passage, phrase</sg>,;
+<sg>concord, harmony</sg>,;
+<sg>emmeleia</sg>,;
+<sg>unison, unisonance</sg>,;
+<sg>chime, homophony</sg>,;
+<sg>euphony, euphonism</sg>,;
+<sg>tonality</sg>,;
+<sg>consonance</sg>,;
+<sg>consent</sg>,;
+<sg>part</sg>,;
+<sg>harmony, harmonics</sg>,;
+<sg>thorough-bass, fundamental-bass</sg>,;
+<sg>counterpoint</sg>,;
+<sg>faburden</sg>,;
+<sg>piece of music ,<cref> 415 <i>inodorousness</i></cref></sg>,;
+<sg>composer, harmonist, contrapuntist (musician) 416</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be harmonious</sg>,;
+<sg>harmonize, chime, symphonize, transpose</sg>,;
+<sg>put in tune, tune, accord, string</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>harmonious, harmonical</sg>,;
+<sg>in concord</sg>,;
+<sg>, in tune, in concert</sg>,;
+<sg>unisonant, concentual, symphonizing, isotonic, homophonous, assonant</sg>,;
+<sg>ariose, consonant</sg>,;
+<sg>measured, rhythmical, diatonic, chromatic, enharmonic</sg>,;
+<sg>melodious, musical</sg>,;
+<sg>melic</sg>,;
+<sg>tuneful, tunable</sg>,;
+<sg>sweet, dulcet, canorous</sg>,;
+<sg>mellow, mellifluous</sg>,;
+<sg>soft, clear, clear as a bell</sg>,;
+<sg>silvery</sg>,;
+<sg>euphonious, euphonic, euphonical</sg>,;
+<sg>symphonious</sg>,;
+<sg>enchanting ,<cref>829 <i>pleasure- giving</i></cref></sg>,;
+<sg>fine-toned, full-toned, silver-toned</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>harmoniously, in harmony</sg>,;
+<sg>as one</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>the hidden soul of harmony</sg>,;
+<br>
+</paragraph>

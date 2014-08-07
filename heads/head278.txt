@@ -1,0 +1,80 @@
+<classNumber>#2#</classNumber>
+<sectionNumber>#12#</sectionNumber>
+<headword>#<b>#[001] #278# Navigation #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>navigation</i></sg>,;
+<sg>aquatics</sg>,;
+<sg>boating, yachting</sg>,;
+<sg>ship ,<cref> 273 <i>perforator</i></cref></sg>,;
+<sg>oar, paddle, screw, sail, canvas, aileron</sg>,;
+<sg>natation, swimming</sg>,;
+<sg>fin, flipper, fish's tail</sg>,;
+<sg>aerostation, aerostatics, aeronautics</sg>,;
+<sg>balloonery</sg>,;
+<sg>balloon ,<cref> 273 <i>perforator</i></cref></sg>,;
+<sg>ballooning, aviation, airmanship</sg>,;
+<sg>flying, flight, volitation</sg>,;
+<sg>wing, pinion</sg>,;
+<sg>rocketry, space travel, astronautics, orbital mechanics, orbiting</sg>,;
+<sg>voyage, sail, cruise, passage, circumnavigation, periplus</sg>,;
+<sg>headway, sternway, leeway</sg>,;
+<sg>fairway</sg>,;
+<sg>mariner ,<cref> 269 <i>fold</i></cref></sg>,;
+<sg>flight, trip</sg>,;
+<sg>shuttle, run, airlift</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>sail</sg>,;
+<sg>put to sea ,<cref>293 <i>depart</i></cref></sg>,;
+<sg>take ship, get under way</sg>,;
+<sg>set sail, spread sail, spread canvas</sg>,;
+<sg>gather way, have way on</sg>,;
+<sg>make sail, carry sail</sg>,;
+<sg>plow the waves, plow the deep, plow the main, plow the ocean</sg>,;
+<sg>walk the waters</sg>,;
+<sg>navigate, warp, luff, scud, boom, kedge</sg>,;
+<sg>drift, course, cruise, coast</sg>,;
+<sg>hug the shore, hug the land</sg>,;
+<sg>circumnavigate</sg>,;
+<sg>ply the oar, row, paddle, pull, scull, punt, steam</sg>,;
+<sg>swim, float</sg>,;
+<sg>buffet the waves, ride the storm, skim, effleurer, dive, wade</sg>,;
+<sg>fly, be wafted, hover, soar, flutter, jet, orbit, rocket</sg>,;
+<sg>take wing, take a flight, take off, ascend, blast off, land, alight</sg>,;
+<sg>wing one's flight, wing one's way</sg>,;
+<sg>aviate</sg>,;
+<sg>parachute, jump, glide</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>sailing</sg>,;
+<sg>volant, aerostatic</sg>,;
+<sg>seafaring, nautical, maritime, naval</sg>,;
+<sg>seagoing, coasting</sg>,;
+<sg>afloat</sg>,;
+<sg>navigable</sg>,;
+<sg>aerial, aeronautic</sg>,;
+<sg>grallatory</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>under way, under sail, under canvas, under steam</sg>,;
+<sg>on the wing, in flight, in orbit</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>bon voyage</sg>,;
+<sg>spread the thin oar and catch the driving gale</sg>,;
+<br>
+</paragraph>

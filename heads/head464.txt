@@ -1,0 +1,55 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#15#</sectionNumber>
+<headword>#<b>#[001] #464# Optical Instruments #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>optical instruments</i></sg>,;
+<sg>lens, meniscus, magnifier, sunglass, magnifying glass, hand lens</sg>,;
+<sg>microscope, megascope, tienoscope</sg>,;
+<sg>spectacles, specs, glasses, barnacles, goggles, eyeglass, pince-nez, monocle, reading glasses, bifocals</sg>,;
+<sg>contact lenses, soft lenses, hard lenses</sg>,;
+<sg>sunglasses, shades</sg>,;
+<sg>periscopic lens</sg>,;
+<sg>telescope, glass, lorgnette</sg>,;
+<sg>spyglass, opera glass, binocular, binoculars, field glass</sg>,;
+<sg>burning glass, convex lens, concave lens, convexo-concave lens, coated lens, multiple lens, compound lens, lens system, telephoto lens, wide-angle lens, fish-eye lens, zoom lens</sg>,;
+<sg>optical bench</sg>,;
+<sg>astronomical telescope, reflecting telescope, reflector, refracting telescope, refractor, Newtonian telescope, folded-path telescope, finder telescope, chromatoscope</sg>,;
+<sg>X-ray telescope</sg>,;
+<sg>radiotelescope, phased-array telescope, Very Large Array radiotelescope</sg>,;
+<sg>ultraviolet telescope</sg>,;
+<sg>infrared telescope</sg>,;
+<sg>star spectroscope</sg>,;
+<sg>space telescope</sg>,;
+<sg>altazimuth mount, equatorial mount</sg>,;
+<sg>refractometer, circular dichroism spectrometer</sg>,;
+<sg>interferometer</sg>,;
+<sg>phase-contrast microscope, fluorescence microscope, dissecting microscope</sg>,;
+<sg>electron microscope, transmission electron microscope</sg>,;
+<sg>scanning electron microscope, SEM</sg>,;
+<sg>scanning tunneling electron microscope</sg>,;
+<sg>objective lens, eyepiece, barrel, platform, focusing knob</sg>,;
+<sg>slide, slide glass, cover glass, counting chamber</sg>,;
+<sg>illuminator, light source, polarizer,  reticle, cross-hairs</sg>,;
+<sg>light pipe, fiber optics mirror, reflector, speculum</sg>,;
+<sg>looking- glass, pier-glass, cheval-glass, rear-view mirror, hand mirror, one-way mirror, magnifying mirror</sg>,;
+<sg>fun house</sg>,;
+<sg>prism, diffraction grating</sg>,;
+<sg>beam splitter, half-wave plate, quarter-wave plate</sg>,;
+<sg>camera lucida, camera obscura</sg>,;
+<sg>magic lantern ,<cref>448 <i>show</i></cref></sg>,;
+<sg>stereopticon</sg>,;
+<sg>chromatrope, thaumatrope</sg>,;
+<sg>stereoscope, pseudoscope, polyscope, kaleidoscope</sg>,;
+<sg>photometer, eriometer, actinometer, lucimeter, radiometer</sg>,;
+<sg>ligth detector, photodiode, photomultiplier, photodiode array, photocell</sg>,;
+<sg>X-ray diffractometer, goniometer</sg>,;
+<sg>spectrometer, monochrometer, UV spectrometer, visible spectrometer, Infrared spectrometer, Fourier transform infrared spectrometer, recording spectrometer</sg>,;
+<sg>densitometer, scanning densitometer, two-dimensional densitometer</sg>,;
+<sg>abdominoscope, gastroscope, helioscope, polariscope, polemoscope, spectroscope</sg>,;
+<sg>abdominoscopy</sg>,;
+<sg>gastroscopy</sg>,;
+<sg>microscopy, microscopist</sg>,;
+<br>
+</paragraph>

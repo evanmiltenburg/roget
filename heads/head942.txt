@@ -1,0 +1,75 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#37#</sectionNumber>
+<headword>#<b>#[001] #942# Endearment #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>endearment, </i>caress</sg>,;
+<sg>blandishment, blandiment</sg>,;
+<sg>panchement, fondling, billing and cooing, dalliance, necking, petting, sporting, sparking, hanky-panky</sg>,;
+<sg>caressing</sg>,;
+<sg>embrace, salute, kiss, buss, smack, osculation, deosculation</sg>,;
+<sg>amorous glances</sg>,;
+<sg>courtship, wooing, suit, addresses, the soft impeachment</sg>,;
+<sg>lovemaking</sg>,;
+<sg>serenading</sg>,;
+<sg>caterwauling</sg>,;
+<sg>flirting</sg>,;
+<sg>flirtation, gallantry</sg>,;
+<sg>coquetry</sg>,;
+<sg>true lover's knot, plighted love</sg>,;
+<sg>love tale, love token, love letter</sg>,;
+<sg>billet-doux, valentine</sg>,;
+<sg>honeymoon</sg>,;
+<sg>Strephon and Chloe</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>caress, fondle, pet, dandle</sg>,;
+<sg>pat, pat on the head, pat on the cheek</sg>,;
+<sg>chuck under the chin, smile upon, coax, wheedle, cosset, coddle, cocker, cockle</sg>,;
+<sg>make of, make much of</sg>,;
+<sg>cherish, foster, kill with kindness</sg>,;
+<sg>clasp, hug, cuddle</sg>,;
+<sg>fold in one's arms, strain in one's arms</sg>,;
+<sg>nestle, nuzzle</sg>,;
+<sg>embrace, kiss, buss, smack, blow a kiss</sg>,;
+<sg>salute ,<cref>894 <i>courtesy</i></cref></sg>,;
+<sg>fold to the heart, press to the bosom</sg>,;
+<sg>bill and coo, spoon, toy, dally, flirt, coquet</sg>,;
+<sg>gallivant, galavant</sg>,;
+<sg>philander</sg>,;
+<sg>make love</sg>,;
+<sg>pay one's court to, pay one's addresses to, pay one's attentions to</sg>,;
+<sg>serenade</sg>,;
+<sg>court, woo</sg>,;
+<sg>set one's cap at</sg>,;
+<sg>be sweet upon, look sweet upon</sg>,;
+<sg>ogle, cast sheep's eyes upon</sg>,;
+<sg>faire les yeux doux</sg>,;
+<sg>fall in love with, win the affections ,<cref>897 <i>love</i></cref></sg>,;
+<sg>die for</sg>,;
+<sg>propose</sg>,;
+<sg>make an offer, have an offer</sg>,;
+<sg>pop the question</sg>,;
+<sg>plight one's troth, plight one's faith</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>caressing</sg>,;
+<sg>sighing like furnace</sg>,;
+<sg>love-sick, spoony</sg>,;
+<sg>caressed</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>faint heart neer won fair lady</sg>,;
+<sg>kisses honeyed by oblivion</sg>,;
+<br>
+</paragraph>

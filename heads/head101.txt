@@ -1,0 +1,29 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#5#</sectionNumber>
+<headword>#<b>#[001] #101# Quadrisection #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>quadrisection, </i>quadripartition</sg>,;
+<sg>quartering</sg>,;
+<sg>fourth</sg>,;
+<sg>quart</sg>,;
+<sg>quarter, quartern</sg>,;
+<sg>farthing, fourthing</sg>,;
+<sg>quadrant</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>quarter, divide into four parts</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>quartered</sg>,;
+<sg>quadrifid, quadripartite</sg>,;
+<sg>rectangular</sg>,;
+<br>
+</paragraph>

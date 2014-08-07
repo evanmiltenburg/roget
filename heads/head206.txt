@@ -1,0 +1,87 @@
+<classNumber>#2#</classNumber>
+<sectionNumber>#10#</sectionNumber>
+<headword>#<b>#[001] #206# Nearness #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>nearness</i></sg>,;
+<sg>proximity, propinquity</sg>,;
+<sg>vicinity, vicinage</sg>,;
+<sg>neighborhood, adjacency</sg>,;
+<sg>contiguity ,<cref> 199 <i>contents</i></cref></sg>,;
+<sg>short distance, short step, short cut</sg>,;
+<sg>earshot, close quarters, stone's throw</sg>,;
+<sg>bow shot, gun shot, pistol shot</sg>,;
+<sg>hair's breadth, span</sg>,;
+<sg>purlieus, neighborhood, vicinage, environs, alentours, suburbs, confines, banlieue, borderland</sg>,;
+<sg>whereabouts</sg>,;
+<sg>bystander</sg>,;
+<sg>neighbor, borderer</sg>,;
+<sg>approach ,<cref> 286 <i>slowness</i></cref></sg>,;
+<sg>convergence ,<cref> 290 <i>deviation</i></cref></sg>,;
+<sg>perihelion</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be near</sg>,;
+<sg>adjoin, hang about, trench on</sg>,;
+<sg>border upon, verge upon</sg>,;
+<sg>stand by, approximate, tread on the heels of, cling to, clasp, hug</sg>,;
+<sg>huddle</sg>,;
+<sg>hang upon the skirts of, hover over</sg>,;
+<sg>burn</sg>,;
+<sg>touch ,<cref> 199 <i>contents</i></cref></sg>,;
+<sg>bring near, draw near ,<cref> 286 <i>slowness</i></cref></sg>,;
+<sg>converge ,<cref> 290 <i>deviation</i></cref></sg>,;
+<sg>crowd ,<cref> 72 <i>middle</i></cref></sg>,;
+<sg>place side by side</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>near, nigh</sg>,;
+<sg>close at hand, near at hand</sg>,;
+<sg>close, neighboring</sg>,;
+<sg>bordering upon, contiguous, adjacent, adjoining</sg>,;
+<sg>proximate, proximal</sg>,;
+<sg>at hand, handy</sg>,;
+<sg>near the mark, near run</sg>,;
+<sg>home, intimate</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>near, nigh</sg>,;
+<sg>hard by, fast by</sg>,;
+<sg>close to, close upon</sg>,;
+<sg>hard upon</sg>,;
+<sg>at the point of</sg>,;
+<sg>next door to</sg>,;
+<sg>within reach, within call, within hearing, within earshot</sg>,;
+<sg>within an ace of</sg>,;
+<sg>but a step, not far from, at no great distance</sg>,;
+<sg>on the verge of, on the brink of, on the skirts of</sg>,;
+<sg>in the environs</sg>,;
+<sg>at one's door, at one's feet, at one's elbow, at one's finger's end, at one's side</sg>,;
+<sg>on the tip of one's tongue</sg>,;
+<sg>under one's nose</sg>,;
+<sg>within a stone's throw</sg>,;
+<sg>in sight of, in presence of</sg>,;
+<sg>at close quarters</sg>,;
+<sg>cheek by jole, cheek by jowl</sg>,;
+<sg>beside, alongside, side by side, tete-a-tete</sg>,;
+<sg>in juxtaposition ,<cref>199 <i>touching</i></cref></sg>,;
+<sg>yardarm to yardarm, at the heels of</sg>,;
+<sg>on the confines of, at the threshold, bordering upon, verging to</sg>,;
+<sg>in the way</sg>,;
+<sg>about</sg>,;
+<sg>hereabouts, thereabouts</sg>,;
+<sg>roughly, in round numbers</sg>,;
+<sg>approximately, approximatively</sg>,;
+<sg>as good as, well-nigh</sg>,;
+<br>
+</paragraph>

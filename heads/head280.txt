@@ -1,0 +1,27 @@
+<classNumber>#2#</classNumber>
+<sectionNumber>#12#</sectionNumber>
+<headword>#<b>#[001] #280# Mariner #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>sailor, <i>mariner, </i>navigator</sg>,;
+<sg>seaman, seafarer, seafaring man</sg>,;
+<sg>dock walloper</sg>,;
+<sg>tar, jack tar, salt, able seaman, A</sg>,;
+<sg>B</sg>,;
+<sg>man-of-war's man, bluejacket, galiongee, galionji, marine, jolly, midshipman, middy</sg>,;
+<sg>skipper</sg>,;
+<sg>shipman, boatman, ferryman, waterman, lighterman, bargeman, longshoreman</sg>,;
+<sg>bargee, gondolier</sg>,;
+<sg>oar, oarsman</sg>,;
+<sg>rower</sg>,;
+<sg>boatswain, cockswain</sg>,;
+<sg>coxswain</sg>,;
+<sg>steersman, pilot</sg>,;
+<sg>crew</sg>,;
+<sg>aerial navigator, aeronaut, balloonist, Icarus</sg>,;
+<sg>aeroplanist, airman, aviator, birdman, man-bird, wizard of the air, aviatrix, flier, pilot, test pilot, glider pilot, bush pilot, navigator, flight attendant, steward, stewardess, crew</sg>,;
+<sg>astronaut, cosmonaut</sg>,;
+<sg>parachutist, paratrooper</sg>,;
+<br>
+</paragraph>

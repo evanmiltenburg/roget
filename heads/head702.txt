@@ -1,0 +1,162 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#27#</sectionNumber>
+<headword>#<b>#[001] #702# Preparation #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>preparation</i></sg>,;
+<sg>providing</sg>,;
+<sg>provision, providence</sg>,;
+<sg>anticipation ,<cref>510 <i>foresight</i></cref></sg>,;
+<sg>precaution, preconcertation, predisposition</sg>,;
+<sg>forecast ,<cref>626 <i>plan</i></cref></sg>,;
+<sg>rehearsal, note of preparation</sg>,;
+<sg>arrangement ,<cref> 60 <i>extraneousness</i></cref></sg>,;
+<sg>clearance</sg>,;
+<sg>adjustment ,<cref> 23 <i>copy</i></cref></sg>,;
+<sg>tuning</sg>,;
+<sg>equipment, outfit, accouterment, armament, array</sg>,;
+<sg>ripening</sg>,;
+<sg>maturation, evolution</sg>,;
+<sg>elaboration, concoction, digestion</sg>,;
+<sg>gestation, batching, incubation, sitting</sg>,;
+<sg>groundwork, first stone, cradle, stepping-stone</sg>,;
+<sg>foundation, scaffold ,<cref>215 <i>support</i></cref></sg>,;
+<sg>scaffolding, echafaudage</sg>,;
+<sg>training ,<cref>537 <i>education</i></cref></sg>,;
+<sg>inurement ,<cref>613 <i>habit</i></cref></sg>,;
+<sg>novitiate</sg>,;
+<sg>cooking, cookery</sg>,;
+<sg>brewing, culinary art</sg>,;
+<sg>tilling, plowing,, sowing</sg>,;
+<sg>semination, cultivation</sg>,;
+<sg>preparedness, readiness, ripeness, mellowness</sg>,;
+<sg>maturity</sg>,;
+<sg>un impromptu fait a loisir</sg>,;
+<sg>preparer, trainer</sg>,;
+<sg>pioneer, trailblazer</sg>,;
+<sg>avant-courrier, avant-coureur</sg>,;
+<sg>voortrekker</sg>,;
+<sg>sappers and miners, pavior, navvy</sg>,;
+<sg>packer, stevedore</sg>,;
+<sg>warming pan</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>prepare</sg>,;
+<sg>get ready, make ready</sg>,;
+<sg>make preparations, settle preliminaries, get up, sound the note of preparation</sg>,;
+<sg>set in order, put in order ,<cref>60 <i>arrange</i></cref></sg>,;
+<sg>forecast ,<cref>626 <i>plan</i></cref></sg>,;
+<sg>prepare the ground, plow the ground, dress the ground</sg>,;
+<sg>till the soil, cultivate the soil</sg>,;
+<sg>predispose, sow the seed, lay a train, dig a mine</sg>,;
+<sg>lay the groundwork, fix the groundwork, lay the basis, fix the basis, lay the foundations, fix the foundations</sg>,;
+<sg>dig the foundations, erect the scaffolding</sg>,;
+<sg>lay the first stone ,<cref>66 <i>begin</i></cref></sg>,;
+<sg>roughhew</sg>,;
+<sg>cut out work</sg>,;
+<sg>block out, hammer out</sg>,;
+<sg>lick into shape ,<cref>240 <i>form</i></cref></sg>,;
+<sg>elaborate, mature, ripen, mellow, season, bring to maturity</sg>,;
+<sg>nurture ,<cref>707 <i>aid</i></cref></sg>,;
+<sg>hatch, cook, brew</sg>,;
+<sg>temper, anneal, smelt</sg>,;
+<sg>barbecue</sg>,;
+<sg>infumate</sg>,;
+<sg>maturate</sg>,;
+<sg>equip, arm, man</sg>,;
+<sg>fit-out, fit up</sg>,;
+<sg>furnish, rig, dress, garnish, betrim, accouter, array, fettle, fledge</sg>,;
+<sg>dress up, furbish up, brush up, vamp up</sg>,;
+<sg>refurbish</sg>,;
+<sg>sharpen one's tools, trim one's foils, set, prime, attune</sg>,;
+<sg>whet the knife, whet the sword</sg>,;
+<sg>wind up, screw up</sg>,;
+<sg>adjust ,<cref>27 <i>fit</i></cref></sg>,;
+<sg>put in trim, put in train, put in gear, put in working order, put in tune, put in a groove for, put in harness</sg>,;
+<sg>pack</sg>,;
+<sg>train ,<cref>537 <i>teach</i></cref></sg>,;
+<sg>inure ,<cref>613 <i>habituate</i></cref></sg>,;
+<sg>breed</sg>,;
+<sg>prepare for </sg>,;
+<sg>rehearse</sg>,;
+<sg>make provision for</sg>,;
+<sg>take steps, take measures, take precautions</sg>,;
+<sg>provide, provide against</sg>,;
+<sg>beat up for recruits</sg>,;
+<sg>open the door to ,<cref>705 <i>facilitate</i></cref></sg>,;
+<sg>set one's house in order, make all snug</sg>,;
+<sg>clear the decks, clear for action</sg>,;
+<sg>close one's ranks</sg>,;
+<sg>shuffle the cards</sg>,;
+<sg>prepare oneself</sg>,;
+<sg>serve an apprenticeship ,<cref>539 <i>learn</i></cref></sg>,;
+<sg>lay oneself out for, get into harness, gird up one's loins, buckle on one's armor, reculer pour mieux sauter, prime and load, shoulder arms, get the steam up, put the horses to</sg>,;
+<sg>guard against, make sure against</sg>,;
+<sg>forearm, make sure, prepare for the evil day, have a rod in pickle, provide against a rainy day, feather one's nest</sg>,;
+<sg>lay in provisions ,<cref> 637 <i>absence of choice</i></cref></sg>,;
+<sg>make investments</sg>,;
+<sg>keep on foot</sg>,;
+<sg>be prepared, be ready</sg>,;
+<sg>hold oneself in readiness, keep one's powder dry</sg>,;
+<sg>lie in wait for ,<cref>507 <i>expect</i></cref></sg>,;
+<sg>anticipate ,<cref>510 <i>foresee</i></cref></sg>,;
+<sg>principiis obstare</sg>,;
+<sg>veniente occurrere morbo</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>preparing</sg>,;
+<sg>in preparation, in course of preparation, in agitation, in embryo, in hand, in train</sg>,;
+<sg>afoot, afloat</sg>,;
+<sg>on foot, on the stocks, on the anvil</sg>,;
+<sg>under consideration ,<cref>626 <i>plan</i></cref></sg>,;
+<sg>brewing, batching, forthcoming, brooding</sg>,;
+<sg>in store for, in reserve</sg>,;
+<sg>precautionary, provident</sg>,;
+<sg>preparative, preparatory</sg>,;
+<sg>provisional, inchoate, under revision</sg>,;
+<sg>preliminary ,<cref>62 <i>precedent</i></cref></sg>,;
+<sg>prepared</sg>,;
+<sg>in readiness</sg>,;
+<sg>ready, ready to one's band, ready made, ready cut and dried: made to one's hand, handy, on the table</sg>,;
+<sg>in gear</sg>,;
+<sg>in working order, in working gear</sg>,;
+<sg>snug</sg>,;
+<sg>in practice</sg>,;
+<sg>ripe, mature, mellow</sg>,;
+<sg>pukka</sg>,;
+<sg>practiced ,<cref>698 <i>skilled</i></cref></sg>,;
+<sg>labored, elaborate, highly-wrought, smelling of the lamp, worked up</sg>,;
+<sg>in full feather, in best bib and tucker</sg>,;
+<sg>in harness, at harness</sg>,;
+<sg>in the saddle, in arms, in battle array, in war paint</sg>,;
+<sg>up in arms</sg>,;
+<sg>armed at all points, armed to the teeth, armed cap a pie</sg>,;
+<sg>sword in hand</sg>,;
+<sg>booted and spurred</sg>,;
+<sg>in utrumque paratus, semper paratus</sg>,;
+<sg>on the alert ,<cref>459 <i>vigilant</i></cref></sg>,;
+<sg>at one's post</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>in preparation, in anticipation of</sg>,;
+<sg>against, for</sg>,;
+<sg>abroach</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>a bove majori discit arare minor</sg>,;
+<sg>looking before and after, si vis pacem para bellum</sg>,;
+<br>
+</paragraph>

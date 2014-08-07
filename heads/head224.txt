@@ -1,0 +1,122 @@
+<classNumber>#2#</classNumber>
+<sectionNumber>#10#</sectionNumber>
+<headword>#<b>#[001] #224# Support #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>support, </i>ground, foundation, base, basis</sg>,;
+<sg>terra firma</sg>,;
+<sg>bearing, fulcrum, bait, caudex crib</sg>,;
+<sg>point d'appui, pou sto, purchase footing, hold, locus standi</sg>,;
+<sg>landing place, landing stage</sg>,;
+<sg>stage, platform</sg>,;
+<sg>block</sg>,;
+<sg>rest, resting place</sg>,;
+<sg>groundwork, substratum, riprap, sustentation, subvention</sg>,;
+<sg>floor ,<cref>211 <i>basement</i></cref></sg>,;
+<sg>supporter</sg>,;
+<sg>aid ,<cref> 707 <i>disuse</i></cref></sg>,;
+<sg>prop, stand, anvil, fulciment</sg>,;
+<sg>cue rest, jigger</sg>,;
+<sg>monkey</sg>,;
+<sg>stay, shore, skid, rib, truss, bandage</sg>,;
+<sg>sleeper</sg>,;
+<sg>stirrup, stilts, shoe, sole, heel, splint, lap, bar, rod, boom, sprit, outrigger</sg>,;
+<sg>ratlings</sg>,;
+<sg>staff, stick, crutch, alpenstock, baton, staddle</sg>,;
+<sg>bourdon, cowlstaff, lathi, mahlstick</sg>,;
+<sg>post, pillar, shaft, thill, column, pilaster</sg>,;
+<sg>pediment, pedicle</sg>,;
+<sg>pedestal</sg>,;
+<sg>plinth, shank, leg, socle, zocle</sg>,;
+<sg>buttress, jamb, mullion, abutment</sg>,;
+<sg>baluster, banister, stanchion</sg>,;
+<sg>balustrade</sg>,;
+<sg>headstone</sg>,;
+<sg>upright</sg>,;
+<sg>door post, jamb, door jamb</sg>,;
+<sg>frame, framework</sg>,;
+<sg>scaffold, skeleton, beam, rafter, girder, lintel, joist, travis, trave, corner stone, summer, transom</sg>,;
+<sg>rung, round, step, sill</sg>,;
+<sg>angle rafter, hip rafter</sg>,;
+<sg>cantilever, modillion</sg>,;
+<sg>crown post, king post</sg>,;
+<sg>vertebra</sg>,;
+<sg>columella, backbone</sg>,;
+<sg>keystone</sg>,;
+<sg>axle, axletree</sg>,;
+<sg>axis</sg>,;
+<sg>arch, mainstay</sg>,;
+<sg>trunnion, pivot, rowlock</sg>,;
+<sg>peg ,<cref>214 <i>pendency</i></cref></sg>,;
+<sg>tiebeam ,<cref>45 <i>fastening</i></cref></sg>,;
+<sg>thole pin</sg>,;
+<sg>board, ledge, shelf, hob, bracket, trevet, trivet, arbor, rack</sg>,;
+<sg>mantel, mantle piece, mantleshelf</sg>,;
+<sg>slab, console</sg>,;
+<sg>counter, dresser</sg>,;
+<sg>flange, corbel</sg>,;
+<sg>table, trestle</sg>,;
+<sg>shoulder</sg>,;
+<sg>perch</sg>,;
+<sg>horse</sg>,;
+<sg>easel, desk</sg>,;
+<sg>clotheshorse, hatrack</sg>,;
+<sg>retable</sg>,;
+<sg>teapoy</sg>,;
+<sg>seat, throne, dais</sg>,;
+<sg>divan, musnud</sg>,;
+<sg>chair, bench, form, stool, sofa, settee, stall</sg>,;
+<sg>arm chair, easy chair, elbow chair, rocking chair</sg>,;
+<sg>couch, fauteuil, woolsack, ottoman, settle, squab, bench</sg>,;
+<sg>aparejo, faldstool, horn</sg>,;
+<sg>long chair, long sleeve chair, morris chair</sg>,;
+<sg>lamba chauki, lamba kursi</sg>,;
+<sg>saddle, pannel, pillion</sg>,;
+<sg>side saddle, pack saddle</sg>,;
+<sg>pommel</sg>,;
+<sg>bed, berth, pallet, tester, crib, cot, hammock, shakedown, trucklebed, cradle, litter, stretcher, bedstead</sg>,;
+<sg>four poster, French bed, bunk, kip, palang</sg>,;
+<sg>bedding, bichhona, mattress, paillasse</sg>,;
+<sg>pillow, bolster</sg>,;
+<sg>mat, rug, cushion</sg>,;
+<sg>footstool, hassock</sg>,;
+<sg>tabouret</sg>,;
+<sg>tripod, monopod</sg>,;
+<sg>Atlas, Persides, Atlantes, Caryatides, Hercules</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be supported </sg>,;
+<sg>lie on, sit on, recline on, lean on, loll on, rest on, stand on, step on, repose on, abut on, bear on, be based on </sg>,;
+<sg>have at one's back</sg>,;
+<sg>bestride, bestraddle</sg>,;
+<sg>support, bear, carry, hold, sustain, shoulder</sg>,;
+<sg>hold up, back up, bolster up, shore up</sg>,;
+<sg>uphold, upbear</sg>,;
+<sg>prop</sg>,;
+<sg>under prop, under pin, under set</sg>,;
+<sg>riprap</sg>,;
+<sg>bandage ,<cref> 43 <i>decrement</i></cref></sg>,;
+<sg>give support, furnish support, afford support, supply support, lend support, give foundations, furnish foundations, afford foundations, supply foundations, lend foundations</sg>,;
+<sg>bottom, found, base, ground, imbed, embed</sg>,;
+<sg>maintain, keep on foot</sg>,;
+<sg>aid ,<cref> 707 <i>disuse</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>supporting, supported</sg>,;
+<sg>fundamental</sg>,;
+<sg>dorsigerous</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>astride on, straddle</sg>,;
+<br>
+</paragraph>

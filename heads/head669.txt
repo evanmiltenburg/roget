@@ -1,0 +1,108 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#27#</sectionNumber>
+<headword>#<b>#[001] #669# Insufficiency #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>insufficiency</i></sg>,;
+<sg>inadequacy, inadequateness</sg>,;
+<sg>incompetence ,<cref>158 <i>impotence</i></cref></sg>,;
+<sg>deficiency ,<cref>53 <i>incompleteness</i></cref></sg>,;
+<sg>imperfection ,<cref> 651 <i>pursuit</i></cref></sg>,;
+<sg>shortcoming ,<cref> 304 <i>departure</i></cref></sg>,;
+<sg>paucity</sg>,;
+<sg>stint</sg>,;
+<sg>scantiness ,<cref>32 <i>smallness</i></cref></sg>,;
+<sg>none to spare, bare subsistence</sg>,;
+<sg>scarcity, dearth</sg>,;
+<sg>want, need, lack, poverty, exigency</sg>,;
+<sg>inanition, starvation, famine, drought</sg>,;
+<sg>dole, mite, pittance</sg>,;
+<sg>short allowance, short commons</sg>,;
+<sg>half rations</sg>,;
+<sg>banyan day</sg>,;
+<sg>emptiness, poorness</sg>,;
+<sg>depletion, vacancy, flaccidity</sg>,;
+<sg>ebb tide</sg>,;
+<sg>low water</sg>,;
+<sg>a beggarly account of empty boxes</sg>,;
+<sg>indigence ,<cref> 804 <i>observance</i></cref></sg>,;
+<sg>insolvency ,<cref>808 <i>nonpayment</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be insufficient</sg>,;
+<sg>not suffice ,<cref> 639 <i>predetermination</i></cref></sg>,;
+<sg>come short of ,<cref> 304 <i>departure</i></cref></sg>,;
+<sg>run dry</sg>,;
+<sg>want, lack, need, require</sg>,;
+<sg>caret</sg>,;
+<sg>be in want ,<cref>804 <i>poor</i></cref>, live from hand to mouth</sg>,;
+<sg>render insufficient  Adj</sg>,;
+<sg>drain of resources, impoverish ,<cref>638 <i>waste</i></cref></sg>,;
+<sg>stint ,<cref>819 <i>begrudge</i></cref></sg>,;
+<sg>put on short allowance</sg>,;
+<sg>do insufficiently</sg>,;
+<sg>scotch the snake</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>drain of resources, impoverish ,<cref>638 <i>waste</i></cref></sg>,;
+<sg>stint ,<cref>819 <i>begrudge</i></cref></sg>,;
+<sg>put on short allowance</sg>,;
+<sg>do insufficiently</sg>,;
+<sg>scotch the snake</sg>,;
+<sg>Adj</sg>,;
+<sg>insufficient, inadequate</sg>,;
+<sg>too little ,<cref> 32 <i>compensation</i></cref></sg>,;
+<sg>not enough ,<cref> 639 <i>predetermination</i></cref></sg>,;
+<sg>unequal to</sg>,;
+<sg>incompetent ,<cref>158 <i>impotent</i></cref></sg>,;
+<sg>weighed in the balance and found wanting</sg>,;
+<sg>perfunctory ,<cref>460 <i>neglect</i></cref></sg>,;
+<sg>deficient ,<cref>53 <i>incomplete</i></cref></sg>,;
+<sg>wanting,</sg>,;
+<sg>imperfect ,<cref> 651 <i>pursuit</i></cref></sg>,;
+<sg>ill-furnished, ill-provided, ill- stored, ill-off</sg>,;
+<sg>slack, at a low ebb</sg>,;
+<sg>empty, vacant, bare</sg>,;
+<sg>short of, out of, destitute of, devoid of, bereft of ,<cref> 789 <i>consignee</i></cref></sg>,;
+<sg>denuded of</sg>,;
+<sg>dry, drained</sg>,;
+<sg>unprovided, unsupplied, unfurnished</sg>,;
+<sg>unreplenished, unfed</sg>,;
+<sg>unstored, untreasured</sg>,;
+<sg>empty-handed</sg>,;
+<sg>meager, poor, thin, scrimp, sparing, spare, stinted</sg>,;
+<sg>starved, starving</sg>,;
+<sg>halfstarved, famine-stricken, famished</sg>,;
+<sg>jejune</sg>,;
+<sg>scant ,<cref>32 <i>small</i></cref></sg>,;
+<sg>scarce</sg>,;
+<sg>not to be had, not to be had for love or money, not to be had at any price</sg>,;
+<sg>scurvy</sg>,;
+<sg>stingy ,<cref> 819 <i>apportionment</i></cref></sg>,;
+<sg>at the end of one's tether</sg>,;
+<sg>without resources ,<cref> 632 <i>irresolution</i></cref></sg>,;
+<sg>in want ,<cref>804 <i>poor</i></cref></sg>,;
+<sg>in debt ,<cref> 806 <i>compromise</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>insufficiently</sg>,;
+<sg>in default of, for want of</sg>,;
+<sg>failing</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>semper avarus eget</sg>,;
+<br>
+</paragraph>

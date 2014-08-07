@@ -1,0 +1,39 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#39#</sectionNumber>
+<headword>#<b>#[001] #1029# Judeo-Christian Revelation #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>Judeo-christian revelation, </i>revelation, inspiration, afflatus</sg>,;
+<sg>theophany, theopneusty</sg>,;
+<sg>Word, Word of God</sg>,;
+<sg>Scripture</sg>,;
+<sg>the Scriptures, the Bible</sg>,;
+<sg>Holy Writ, Holy Scriptures</sg>,;
+<sg>inspired writings, Gospel</sg>,;
+<sg>Old Testament, Septuagint, Vulgate, Pentateuch</sg>,;
+<sg>Octateuch</sg>,;
+<sg>the Law, the Jewish Law, the Prophets</sg>,;
+<sg>major Prophets, minor Prophets</sg>,;
+<sg>Hagiographa, Hagiology</sg>,;
+<sg>Hierographa</sg>,;
+<sg>Apocrypha</sg>,;
+<sg>New Testament</sg>,;
+<sg>Gospels, Evangelists, Acts, Epistles, Apocalypse, Revelations</sg>,;
+<sg>Talmud</sg>,;
+<sg>Mishna, Masorah</sg>,;
+<sg>prophet ,<cref>513 <i>seer</i></cref></sg>,;
+<sg>evangelist, apostle, disciple, saint</sg>,;
+<sg>the Fathers, the Apostolical Fathers</sg>,;
+<sg>Holy Men of old, inspired penmen</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>scriptural, biblical, sacred, prophetic</sg>,;
+<sg>evangelical, evangelistic</sg>,;
+<sg>apostolic, apostolical</sg>,;
+<sg>inspired, theopneustic, theophneusted, apocalyptic, ecclesiastical, canonical, textuary</sg>,;
+<br>
+</paragraph>

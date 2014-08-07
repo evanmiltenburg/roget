@@ -1,0 +1,51 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#25#</sectionNumber>
+<headword>#<b>#[001] #586# Language #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>language</i></sg>,;
+<sg>phraseology ,<cref> 569 <i>veracity</i></cref></sg>,;
+<sg>speech ,<cref> 582 <i>painting</i></cref></sg>,;
+<sg>tongue, lingo, vernacular</sg>,;
+<sg>mother tongue, vulgar tongue, native tongue</sg>,;
+<sg>household words</sg>,;
+<sg>King's English, Queen's English</sg>,;
+<sg>dialect ,<cref> 563 <i>teaching</i></cref></sg>,;
+<sg>confusion of tongues, Babel, pasigraphie</sg>,;
+<sg>pantomime ,<cref>550 <i>signs</i></cref></sg>,;
+<sg>onomatopoeia</sg>,;
+<sg>betacism, mimmation, myatism, nunnation</sg>,;
+<sg>pasigraphy</sg>,;
+<sg>lexicology, philology, glossology, glottology</sg>,;
+<sg>linguistics, chrestomathy</sg>,;
+<sg>paleology, paleography</sg>,;
+<sg>comparative grammar</sg>,;
+<sg>literature, letters, polite literature, belles lettres, muses, humanities, literae humaniores, republic of letters, dead languages, classics</sg>,;
+<sg>genius of language</sg>,;
+<sg>scholarship ,<cref>492 <i>scholar</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>express by words ,<cref> 566 <i>teacher</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>lingual, linguistic</sg>,;
+<sg>dialectic</sg>,;
+<sg>vernacular, current</sg>,;
+<sg>bilingual</sg>,;
+<sg>diglot, hexaglot, polyglot</sg>,;
+<sg>literary</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>syllables govern the world</sg>,;
+<br>
+</paragraph>

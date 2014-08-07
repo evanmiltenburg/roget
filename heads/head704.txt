@@ -1,0 +1,50 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#27#</sectionNumber>
+<headword>#<b>#[001] #704# Essay #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>essay, </i>trial, endeavor, attempt</sg>,;
+<sg>aim, struggle, venture, adventure, speculation, coup d'essai, debut</sg>,;
+<sg>probation ,<cref>463 <i>experiment</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>try, essay</sg>,;
+<sg>experiment ,<cref> 463 <i>spectator</i></cref></sg>,;
+<sg>endeavor, strive</sg>,;
+<sg>tempt, attempt, make an attempt</sg>,;
+<sg>venture, adventure, speculate, take one's chance, tempt fortune</sg>,;
+<sg>try one's fortune, try one's luck, try one's hand</sg>,;
+<sg>use one's endeavor</sg>,;
+<sg>feel one's way, grope one's way, pick one's way</sg>,;
+<sg>try hard, push, make a bold push, use one's best endeavor</sg>,;
+<sg>do one's best ,<cref>686 <i>exertion</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>essaying</sg>,;
+<sg>experimental ,<cref> 463 <i>spectator</i></cref></sg>,;
+<sg>tentative, empirical, probationary</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>experimentally</sg>,;
+<sg>on trial, at a venture</sg>,;
+<sg>by rule of thumb</sg>,;
+<sg>if one may be so bold</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>aut non tentaris aut perfice</sg>,;
+<sg>chi non s'arrischia non guadagna</sg>,;
+<br>
+</paragraph>

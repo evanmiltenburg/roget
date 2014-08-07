@@ -1,0 +1,100 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#28#</sectionNumber>
+<headword>#<b>#[001] #709# Action #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>action, </i>performance</sg>,;
+<sg>doing,</sg>,;
+<sg>perpetration</sg>,;
+<sg>exercise, excitation</sg>,;
+<sg>movement, operation, evolution, work</sg>,;
+<sg>labor ,<cref>686 <i>exertion</i></cref></sg>,;
+<sg>praxis, execution</sg>,;
+<sg>procedure ,<cref>692 <i>conduct</i></cref></sg>,;
+<sg>handicraft</sg>,;
+<sg>business ,<cref> 625 <i>the drama</i></cref></sg>,;
+<sg>agency ,<cref>170 <i>power at work</i></cref></sg>,;
+<sg>deed, act, overt act, stitch, touch, gest transaction, job, doings, dealings, proceeding, measure, step, maneuver, bout, passage, move, stroke, blow</sg>,;
+<sg>coup, coup de main, coup d'etat</sg>,;
+<sg>tour de force ,<cref>882 <i>display</i></cref></sg>,;
+<sg>feat, exploit</sg>,;
+<sg>achievement ,<cref>729 <i>completion</i></cref></sg>,;
+<sg>handiwork, workmanship</sg>,;
+<sg>manufacture</sg>,;
+<sg>stroke of policy ,<cref>626 <i>plan</i></cref></sg>,;
+<sg>actor ,<cref>690 <i>doer</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>do, perform, execute</sg>,;
+<sg>achieve ,<cref>729 <i>complete</i></cref></sg>,;
+<sg>transact, enact</sg>,;
+<sg>commit, perpetrate, inflict</sg>,;
+<sg>exercise, prosecute, carry on, work, practice, play</sg>,;
+<sg>employ oneself, ply one's task</sg>,;
+<sg>officiate, have in hand ,<cref>625 <i>business</i></cref></sg>,;
+<sg>labor ,<cref> 686 <i>insalubrity</i></cref></sg>,;
+<sg>be at work</sg>,;
+<sg>pursue a course</sg>,;
+<sg>shape one's course ,<cref>692 <i>conduct</i></cref></sg>,;
+<sg>act, operate</sg>,;
+<sg>take action, take steps</sg>,;
+<sg>strike a blow, lift a finger, stretch forth one's hand</sg>,;
+<sg>take in hand ,<cref>676 <i>undertake</i></cref></sg>,;
+<sg>put oneself in motion</sg>,;
+<sg>put in practice</sg>,;
+<sg>carry into execution ,<cref>729 <i>complete</i></cref></sg>,;
+<sg>act upon</sg>,;
+<sg>be an actor ,<cref> 690 <i>relapse</i></cref></sg>,;
+<sg>take a part in, act a part in, play a part in, perform a part in</sg>,;
+<sg>participate in</sg>,;
+<sg>have a hand in, have a finger in the pie</sg>,;
+<sg>have to do with</sg>,;
+<sg>be a party to, be a participator in</sg>,;
+<sg>bear a hand, lend a hand</sg>,;
+<sg>pull an oar, run in a race</sg>,;
+<sg>mix oneself up with ,<cref>682 <i>meddle</i></cref></sg>,;
+<sg>be in action</sg>,;
+<sg>come into operation ,<cref>170 <i>power at work</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>doing</sg>,;
+<sg>acting</sg>,;
+<sg>in action</sg>,;
+<sg>in harness</sg>,;
+<sg>on duty</sg>,;
+<sg>in operation ,<cref> 170 <i>reproduction</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>in the act, in the midst of, in the thick of</sg>,;
+<sg>red-handed, in flagrante delicto</sg>,;
+<sg>while one's hand is in</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>action is eloquence</sg>,;
+<sg>actions speak louder than words</sg>,;
+<sg>actum aiunt ne agas</sg>,;
+<sg>awake, arise, or be forever fall'n</sg>,;
+<sg>dii pia facta vident</sg>,;
+<sg>faire sans dire</sg>,;
+<sg>fare fac</sg>,;
+<sg>fronte capillata post est occasio calva</sg>,;
+<sg>our deeds are sometimes better than our thoughts</sg>,;
+<sg>the great end of life is not knowledge but action</sg>,;
+<sg>thought is the soul of act</sg>,;
+<sg>vivre-ce nest pas respirer c'est agir</sg>,;
+<sg>we live in deeds not years</sg>,;
+<br>
+</paragraph>

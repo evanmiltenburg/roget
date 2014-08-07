@@ -1,0 +1,28 @@
+<classNumber>#2#</classNumber>
+<sectionNumber>#11#</sectionNumber>
+<headword>#<b>#[001] #261# Flatness #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>flatness</i></sg>,;
+<sg>smoothness ,<cref> 255 <i>curvature</i></cref></sg>,;
+<sg>plane</sg>,;
+<sg>level ,<cref> 213 <i>layer</i></cref></sg>,;
+<sg>plate, platter, table, tablet, slab</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>render flat, flatten</sg>,;
+<sg>level ,<cref> 213 <i>layer</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>flat, plane, even, flush, scutiform, discoid</sg>,;
+<sg>level ,<cref>213 <i>horizontal</i></cref></sg>,;
+<sg>flat as a pancake, flat as a fluke, flat as a flounder, flat as a board, flat as my hand</sg>,;
+<br>
+</paragraph>

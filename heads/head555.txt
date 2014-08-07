@@ -1,0 +1,92 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#24#</sectionNumber>
+<headword>#<b>#[001] #555# Disclosure #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>disclosure</i></sg>,;
+<sg>retection</sg>,;
+<sg>unveiling</sg>,;
+<sg>deterration, revealment, revelation</sg>,;
+<sg>exposition, exposure</sg>,;
+<sg>expose</sg>,;
+<sg>whole truth</sg>,;
+<sg>telltale ,<cref>532 <i>news</i></cref></sg>,;
+<sg>acknowledgment, avowal</sg>,;
+<sg>confession, confessional</sg>,;
+<sg>shrift</sg>,;
+<sg>bursting of a bubble</sg>,;
+<sg>denouement</sg>,;
+<sg>tattletale, snitch, fink, stool pigeon, canary</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>disclose, discover, dismask</sg>,;
+<sg>draw the veil, draw aside the veil, lift the veil, raise the veil, lift up the veil, remove the veil, tear aside the veil, tear the curtain</sg>,;
+<sg>unmask, unveil, unfold, uncover, unseal, unkennel</sg>,;
+<sg>take off the seal, break the seal</sg>,;
+<sg>lay open, lay bare</sg>,;
+<sg>expose</sg>,;
+<sg>open, open up</sg>,;
+<sg>bare, bring to light</sg>,;
+<sg>divulge, reveal, break</sg>,;
+<sg>squeal, tattle, sing, rat, snitch</sg>,;
+<sg>let into the secret</sg>,;
+<sg>reveal the secrets of the prison house</sg>,;
+<sg>tell ,<cref>527 <i>inform</i></cref></sg>,;
+<sg>breathe, utter, blab, peach</sg>,;
+<sg>let out, let fall, let drop, let slip, spill the beans, let the cat out of the bag</sg>,;
+<sg>betray</sg>,;
+<sg>tell tales, come out of school</sg>,;
+<sg>come out with</sg>,;
+<sg>give vent, give utterance to</sg>,;
+<sg>open the lips, blurt out, vent, whisper about</sg>,;
+<sg>speak out ,<cref>525 <i>make manifest</i></cref></sg>,;
+<sg>make public ,<cref> 531 <i>expectation</i></cref></sg>,;
+<sg>unriddle ,<cref>480 <i>find out</i></cref></sg>,;
+<sg>1</sg>,;
+<sg>split</sg>,;
+<sg>acknowledge, allow, concede, grant, admit, own, own up to, confess, avow, throw off all disguise, turn inside out, make a clean breast</sg>,;
+<sg>show one's hand, show one's cards</sg>,;
+<sg>unburden one's mind, disburden one's mind, disburden one's conscience, disburden one's heart</sg>,;
+<sg>open one's mind, lay bare one's mind, tell a piece of one's mind</sg>,;
+<sg>unbosom oneself, own to the soft impeachment</sg>,;
+<sg>say the truth, speak the truth</sg>,;
+<sg>turn King's evidence, Queen's evidence</sg>,;
+<sg>acknowledge the corn</sg>,;
+<sg>raise the mask, drop the mask, lift the mask, remove the mask, throw off the mask</sg>,;
+<sg>expose</sg>,;
+<sg>lay open</sg>,;
+<sg>undeceive, unbeguile</sg>,;
+<sg>disabuse, set right, correct, open the eyes of</sg>,;
+<sg>d_esillusionner</sg>,;
+<sg>be disclosed </sg>,;
+<sg>transpire, come to light</sg>,;
+<sg>come in sight ,<cref>446 <i>be visible</i></cref></sg>,;
+<sg>become known, escape the lips</sg>,;
+<sg>come out, ooze out, creep out, leak out, peep out, crop-out</sg>,;
+<sg>show its face, show its colors</sg>,;
+<sg>discover itself </sg>,;
+<sg>break through the clouds, flash on the mind</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>disclosed</sg>,;
+<sg>open, public ,<cref> 525 <i>fool</i></cref></sg>,;
+<sg>Int</sg>,;
+<sg>out with it!,</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>the murder is out</sg>,;
+<sg>a light breaks in upon one</sg>,;
+<sg>the scales fall from one's eyes</sg>,;
+<sg>the eyes are opened</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,136 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#35#</sectionNumber>
+<headword>#<b>#[001] #862# Excitation #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>excitation</i> of feeling</sg>,;
+<sg>mental excitement</sg>,;
+<sg>suscitation, galvanism, stimulation, piquance, piquancy, provocation, inspiration, calling forth, infection</sg>,;
+<sg>animation, agitation, perturbation</sg>,;
+<sg>subjugation, fascination, intoxication</sg>,;
+<sg>enravishment</sg>,;
+<sg>entrancement</sg>,;
+<sg>pressure, tension, high pressure</sg>,;
+<sg>unction, impressiveness</sg>,;
+<sg>trail of temper, casus belli</sg>,;
+<sg>irritation ,<cref>900 <i>anger</i></cref></sg>,;
+<sg>passion ,<cref>825 <i>state of excitability</i></cref></sg>,;
+<sg>thrill ,<cref>821 <i>feeling</i></cref></sg>,;
+<sg>repression of feeling ,<cref> 826 <i>booty</i></cref></sg>,;
+<sg>sensationalism, yellow journalism</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>excite, affect, touch, move, impress, strike, interest, animate, inspire, impassion, smite, infect</sg>,;
+<sg>stir the blood, fire the blood, warm the blood</sg>,;
+<sg>set astir</sg>,;
+<sg>wake, awake, awaken</sg>,;
+<sg>call forth</sg>,;
+<sg>evoke, provoke</sg>,;
+<sg>raise up, summon up, call up, wake up, blow up, get up, light up</sg>,;
+<sg>raise</sg>,;
+<sg>get up the steam, rouse, arouse, stir</sg>,;
+<sg>fire, kindle, enkindle, apply the torch, set on fire, inflame</sg>,;
+<sg>stimulate</sg>,;
+<sg>exsuscitate</sg>,;
+<sg>inspirit</sg>,;
+<sg>spirit up, stir up, work up, pique</sg>,;
+<sg>infuse life into, give new life to</sg>,;
+<sg>bring new blood, introduce new blood</sg>,;
+<sg>quicken</sg>,;
+<sg>sharpen, whet</sg>,;
+<sg>work upon ,<cref>615 <i>incite</i></cref></sg>,;
+<sg>hurry on, give a fillip, put on one's mettle</sg>,;
+<sg>fan the fire, fan the flame</sg>,;
+<sg>blow the coals, stir the embers</sg>,;
+<sg>fan into a flame</sg>,;
+<sg>foster, heat, warm, foment, raise to a fever heat</sg>,;
+<sg>keep up, keep the pot boiling</sg>,;
+<sg>revive, rekindle</sg>,;
+<sg>rake up, rip up</sg>,;
+<sg>stir the feelings, play on the feelings, come home to the feelings</sg>,;
+<sg>touch a string, touch a chord, touch the soul, touch the heart</sg>,;
+<sg>go to one's heart, penetrate, pierce, go through one, touch to the quick</sg>,;
+<sg>possess the soul, pervade the soul, penetrate the soul, imbrue the soul, absorb the soul, affect the soul, disturb the soul</sg>,;
+<sg>absorb, rivet the attention</sg>,;
+<sg>sink into the mind, sink into the heart</sg>,;
+<sg>prey on the mind, distract</sg>,;
+<sg>intoxicate</sg>,;
+<sg>overwhelm, overpower</sg>,;
+<sg>bouleverser, upset, turn one's head</sg>,;
+<sg>fascinate</sg>,;
+<sg>enrapture ,<cref>829 <i>give pleasure</i></cref></sg>,;
+<sg>agitate, perturb, ruffle, fluster, shake, disturb, startle, shock, stagger</sg>,;
+<sg>give one a shock, give one a turn</sg>,;
+<sg>strike all of a heap</sg>,;
+<sg>stun, astound, electrify, galvanize, petrify</sg>,;
+<sg>irritate, sting</sg>,;
+<sg>cut to the heart, cut to the quick</sg>,;
+<sg>try one's temper</sg>,;
+<sg>fool to the top of one's bent, pique</sg>,;
+<sg>infuriate, madden, make one's blood boil</sg>,;
+<sg>lash into fury ,<cref>900 <i>wrath</i></cref></sg>,;
+<sg>be excited</sg>,;
+<sg>flush up, flare up</sg>,;
+<sg>catch the infection</sg>,;
+<sg>thrill ,<cref>821 <i>feel</i></cref></sg>,;
+<sg>mantle</sg>,;
+<sg>work oneself up</sg>,;
+<sg>seethe, boil, simmer, foam, fume, flame, rage, rave</sg>,;
+<sg>run mad ,<cref>825 <i>passion</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>excited</sg>,;
+<sg>wrought up, up the qui vive, astir, sparkling</sg>,;
+<sg>in a quiver ,<cref> 821 <i>borrowing</i></cref>, in a fever, in a ferment, in a blaze, in a state of excitement</sg>,;
+<sg>in hysterics</sg>,;
+<sg>black in the face, overwrought, tense, taught, on a razor's edge</sg>,;
+<sg>hot, red-hot, flushed, feverish</sg>,;
+<sg>all of a twitter, in a pucker</sg>,;
+<sg>with quivering lips, with tears in one's eyes</sg>,;
+<sg>flaming</sg>,;
+<sg>boiling over</sg>,;
+<sg>ebullient, seething</sg>,;
+<sg>foaming at the mouth</sg>,;
+<sg>fuming, raging, carried away by passion, wild, raving, frantic, mad, distracted, beside oneself, out of one's wits, ready to burst, bouleverse, demoniacal</sg>,;
+<sg>lost, eperdu, tempest-tossed</sg>,;
+<sg>haggard</sg>,;
+<sg>ready to sink</sg>,;
+<sg>stung to the quick, up, on one's high ropes</sg>,;
+<sg>exciting, absorbing, riveting, distracting</sg>,;
+<sg>impressive, warm, glowing, fervid, swelling, imposing, spirit-stirring, thrilling</sg>,;
+<sg>high-wrought</sg>,;
+<sg>soul-stirring, soul-subduing</sg>,;
+<sg>heart-stirring, heart- swelling, heart-thrilling</sg>,;
+<sg>agonizing ,<cref>830 <i>painful</i></cref></sg>,;
+<sg>telling, sensational, hysterical</sg>,;
+<sg>overpowering, overwhelming</sg>,;
+<sg>more than flesh and blood can bear</sg>,;
+<sg>yellow</sg>,;
+<sg>piquant ,<cref>392 <i>pungent</i></cref></sg>,;
+<sg>spicy, appetizing, provocative, provoquant, tantalizing</sg>,;
+<sg>eager to go, anxious to go, chafing at the bit</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>till one is black in the face</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>the heart beating high, the heart going pitapat, the heart leaping into one's mouth</sg>,;
+<sg>the blood being up, the blood boiling in one's veins</sg>,;
+<sg>the eye glistening, the eyes in a fine frenzy rolling</sg>,;
+<sg>the head turned</sg>,;
+<sg>when the going gets tough, the tough get going</sg>,;
+<br>
+</paragraph>

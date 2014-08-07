@@ -1,0 +1,103 @@
+<classNumber>#2#</classNumber>
+<sectionNumber>#11#</sectionNumber>
+<headword>#<b>#[001] #271# Opening #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>opening, </i>hole, foramen</sg>,;
+<sg>puncture, perforation</sg>,;
+<sg>fontanel</sg>,;
+<sg>transforation</sg>,;
+<sg>pinhole, keyhole, loophole, porthole, peephole, mousehole, pigeonhole</sg>,;
+<sg>eye of a needle</sg>,;
+<sg>eyelet</sg>,;
+<sg>slot</sg>,;
+<sg>opening</sg>,;
+<sg>aperture, apertness</sg>,;
+<sg>hiation, yawning, oscitancy, dehiscence, patefaction, pandiculation</sg>,;
+<sg>chasm ,<cref>198 <i>interval</i></cref></sg>,;
+<sg>embrasure, window, casement</sg>,;
+<sg>abatjour</sg>,;
+<sg>light</sg>,;
+<sg>sky light, fan light</sg>,;
+<sg>lattice</sg>,;
+<sg>bay window, bow window</sg>,;
+<sg>oriel</sg>,;
+<sg>dormer, lantern</sg>,;
+<sg>outlet, inlet</sg>,;
+<sg>vent, vomitory</sg>,;
+<sg>embouchure</sg>,;
+<sg>orifice, mouth, sucker, muzzle, throat, gullet, weasand, wizen, nozzle</sg>,;
+<sg>placket</sg>,;
+<sg>portal, porch, gate, ostiary, postern, wicket, trapdoor, hatch, door</sg>,;
+<sg>arcade</sg>,;
+<sg>cellarway, driveway, gateway, doorway, hatchway, gangway</sg>,;
+<sg>lich gate</sg>,;
+<sg>way, path ,<cref> 627 <i>necessity</i></cref></sg>,;
+<sg>thoroughfare</sg>,;
+<sg>channel</sg>,;
+<sg>passage, passageway</sg>,;
+<sg>tube, pipe</sg>,;
+<sg>water pipe ,<cref> 350 <i>moisture</i></cref></sg>,;
+<sg>air pipe ,<cref> 351 <i>dryness</i></cref></sg>,;
+<sg>vessel, tubule, canal, gut, fistula</sg>,;
+<sg>adjutage, ajutage</sg>,;
+<sg>ostium</sg>,;
+<sg>smokestack</sg>,;
+<sg>chimney, flue, tap, funnel, gully, tunnel, main</sg>,;
+<sg>mine, pit, adit, shaft</sg>,;
+<sg>gallery</sg>,;
+<sg>alley, aisle, glade, vista</sg>,;
+<sg>bore, caliber</sg>,;
+<sg>pore</sg>,;
+<sg>blind orifice</sg>,;
+<sg>fulgurite, thundertube</sg>,;
+<sg>porousness, porosity</sg>,;
+<sg>sieve, cullender, colander</sg>,;
+<sg>cribble, riddle, screen</sg>,;
+<sg>honeycomb</sg>,;
+<sg>apertion, perforation</sg>,;
+<sg>piercing</sg>,;
+<sg>terebration, empalement, pertusion, puncture, acupuncture, penetration</sg>,;
+<sg>key ,<cref> 631 <i>perseverance</i></cref>, opener, master key, password, combination, passe- partout</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>open, ope, gape, yawn, bilge</sg>,;
+<sg>fly open</sg>,;
+<sg>perforate, pierce, empierce, tap, bore, drill</sg>,;
+<sg>mine ,<cref>252 <i>scoop out</i></cref></sg>,;
+<sg>tunnel</sg>,;
+<sg>transpierce, transfix</sg>,;
+<sg>enfilade, impale, spike, spear, gore, spit, stab, pink, puncture, lance, stick, prick, riddle, punch</sg>,;
+<sg>stave in</sg>,;
+<sg>cut a passage through</sg>,;
+<sg>make way for, make room for</sg>,;
+<sg>uncover, unclose, unrip</sg>,;
+<sg>lay open, cut open, rip open, throw open, pop open, blow open, pry open, tear open, pull open</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>open</sg>,;
+<sg>perforated</sg>,;
+<sg>perforate</sg>,;
+<sg>wide open, ajar, unclosed, unstopped</sg>,;
+<sg>oscitant, gaping, yawning</sg>,;
+<sg>patent</sg>,;
+<sg>tubular, cannular, fistulous</sg>,;
+<sg>pervious, permeable</sg>,;
+<sg>foraminous</sg>,;
+<sg>vesicular, vasicular</sg>,;
+<sg>porous, follicular, cribriform, honeycombed, infundibular, riddled</sg>,;
+<sg>tubulous, tubulated</sg>,;
+<sg>piped, tubate</sg>,;
+<sg>opening</sg>,;
+<sg>aperient</sg>,;
+<sg>Int</sg>,;
+<sg>open sesame!,</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,78 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#7#</sectionNumber>
+<headword>#<b>#[001] #157# Stability #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>stability</i></sg>,;
+<sg>immutability</sg>,;
+<sg>unchangeability,</sg>,;
+<sg>unchangeableness</sg>,;
+<sg>constancy</sg>,;
+<sg>stable equilibrium, immobility, soundness, vitality, stabiliment, stiffness, ankylosis, solidity, aplomb</sg>,;
+<sg>establishment, fixture</sg>,;
+<sg>rock, pillar, tower, foundation, leopard's spots, Ethiopia's skin</sg>,;
+<sg>permanence ,<cref> 141 <i>occasion</i></cref></sg>,;
+<sg>obstinacy ,<cref> 606 <i>voice</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be firm</sg>,;
+<sg>stick fast</sg>,;
+<sg>stand firm, keep firm, remain firm</sg>,;
+<sg>weather the storm, stay the course, stick to the course, keep the faith, don't give in, don't buckle under</sg>,;
+<sg>settle, establish, stablish, ascertain, fix, set, stabilitate</sg>,;
+<sg>retain, keep hold</sg>,;
+<sg>make good, make sure</sg>,;
+<sg>fasten ,<cref>43 <i>join</i></cref></sg>,;
+<sg>set on its legs, float</sg>,;
+<sg>perpetuate</sg>,;
+<sg>settle down</sg>,;
+<sg>strike roots, put down roots, take root</sg>,;
+<sg>take up one's abode ,<cref> 184 <i>tendency</i></cref></sg>,;
+<sg>build one's house on a rock</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>unchangeable, immutable</sg>,;
+<sg>unaltered, unalterable</sg>,;
+<sg>not to be changed, constant</sg>,;
+<sg>permanent ,<cref> 141 <i>occasion</i></cref></sg>,;
+<sg>invariable, undeviating</sg>,;
+<sg>stable, durable</sg>,;
+<sg>perennial ,<cref>110 <i>diuturnal</i></cref></sg>,;
+<sg>fixed, steadfast, firm, fast, steady, balanced</sg>,;
+<sg>confirmed, valid</sg>,;
+<sg>fiducial</sg>,;
+<sg>immovable, irremovable, riveted, rooted</sg>,;
+<sg>settled, established</sg>,;
+<sg>vested</sg>,;
+<sg>incontrovertible, stereotyped, indeclinable</sg>,;
+<sg>tethered, anchored, moored, at anchor, on a rock, rock solid, firm as a rock</sg>,;
+<sg>firmly seated, firmly established</sg>,;
+<sg>deep-rooted, ineradicable</sg>,;
+<sg>inveterate</sg>,;
+<sg>obstinate ,<cref> 606 <i>voice</i></cref></sg>,;
+<sg>transfixed, stuck fast, aground, high and dry, stranded</sg>,;
+<sg>stuck, jammed</sg>,;
+<sg>unremovable</sg>,;
+<sg>quiescent ,<cref> 265 <i>bluntness</i></cref></sg>,;
+<sg>deterioration ,<cref> 659 <i>requirement</i></cref></sg>,;
+<sg>indefeasible, irretrievable, intransmutable, incommutable, irresoluble, irrevocable, irreversible, reverseless, inextinguishable, irreducible</sg>,;
+<sg>indissoluble, indissolvable</sg>,;
+<sg>indestructible, undying, imperishable, incorruptible, indelible, indeciduous</sg>,;
+<sg>insusceptible, insusceptible of change</sg>,;
+<sg>Int</sg>,;
+<sg>stet</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>littera scripta manet</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,38 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#39#</sectionNumber>
+<headword>#<b>#[001] #1035# Idolatry #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>idolatry, </i>idolism</sg>,;
+<sg>demonism, demonolatry</sg>,;
+<sg>idol- worship, demon-worship, devil-worship, fire-worship</sg>,;
+<sg>zoolatry, fetishism, fetichism</sg>,;
+<sg>ecclesiolatry, heliolatry, Mariolatry, Bibliolatry</sg>,;
+<sg>deification, apotheosis, canonization</sg>,;
+<sg>hero worship</sg>,;
+<sg>sacrifices, hecatomb, holocaust</sg>,;
+<sg>human sacrifices, immolation, mactation, infanticide, self-immolation, suttee</sg>,;
+<sg>idol, golden calf, graven image, fetich, avatar, Juggernath, lares et penates</sg>,;
+<sg>Baal ,<cref> 986 <i>virtue</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>worship idols, worship pictures, worship relics</sg>,;
+<sg>deify, canonize</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>idolatrous</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>adorer le veau d'or</sg>,;
+<br>
+</paragraph>

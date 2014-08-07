@@ -1,0 +1,28 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#15#</sectionNumber>
+<headword>#<b>#[001] #452# Brown #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>brown</i></sg>,;
+<sg>bister ocher, sepia, Vandyke brown</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>render brown</sg>,;
+<sg>tan, embrown, bronze</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>brown, bay, dapple, auburn, castaneous, chestnut, nut-brown, cinnamon, russet, tawny, fuscous, chocolate, maroon, foxy, tan, brunette, whitey brown</sg>,;
+<sg>fawn-colored, snuff-colored, liver-colored</sg>,;
+<sg>brown as a berry, brown as mahogany, brown as the oak leaves</sg>,;
+<sg>khaki</sg>,;
+<sg>sun-burnt</sg>,;
+<sg>tanned</sg>,;
+<br>
+</paragraph>

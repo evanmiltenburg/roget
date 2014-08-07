@@ -1,0 +1,48 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#15#</sectionNumber>
+<headword>#<b>#[001] #417# Fetor #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>fetor</i></sg>,;
+<sg>bad</sg>,;
+<sg>smell, bad odor</sg>,;
+<sg>stench, stink</sg>,;
+<sg>foul odor, malodor</sg>,;
+<sg>empyreuma</sg>,;
+<sg>mustiness</sg>,;
+<sg>rancidity</sg>,;
+<sg>foulness ,<cref>653 <i>uncleanness</i></cref></sg>,;
+<sg>stoat, polecat, skunk</sg>,;
+<sg>assafoetida</sg>,;
+<sg>fungus, garlic</sg>,;
+<sg>stinkpot</sg>,;
+<sg>fitchet, fitchew, fourmart, peccary</sg>,;
+<sg>acridity ,<cref> 401 <i>fuel</i></cref></sg>,;
+<sg>1</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>have a bad smell</sg>,;
+<sg>smell</sg>,;
+<sg>stink, stink in the nostrils, stink like a polecat</sg>,;
+<sg>smell strong</sg>,;
+<sg>, smell offensively</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>fetid</sg>,;
+<sg>strong-smelling</sg>,;
+<sg>high, bad, strong, fulsome, offensive, noisome, rank, rancid, reasty, tainted, musty, fusty, frouzy</sg>,;
+<sg>olid, olidous</sg>,;
+<sg>nidorous</sg>,;
+<sg>smelling, stinking</sg>,;
+<sg>putrid ,<cref> 653 <i>relinquishment</i></cref></sg>,;
+<sg>suffocating, mephitic</sg>,;
+<sg>empyreumatic</sg>,;
+<br>
+</paragraph>

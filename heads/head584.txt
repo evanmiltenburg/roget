@@ -1,0 +1,56 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#25#</sectionNumber>
+<headword>#<b>#[001] #584# Engraving #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>engraving, </i>chalcography</sg>,;
+<sg>line engraving, mezzotint engraving, stipple engraving, chalk engraving</sg>,;
+<sg>dry point, bur</sg>,;
+<sg>etching, aquatinta</sg>,;
+<sg>chiseling</sg>,;
+<sg>plate engraving, copperplate engraving, steel engraving, wood engraving</sg>,;
+<sg>xylography, lignography, glyptography, cerography, lithography, chromolithography, photolithography, zincography, glyphography, xylograph, lignograph, glyptograph, cerograph, lithograph, chromolithograph, photolithograph, zincograph, glyphograph, holograph</sg>,;
+<sg>impression, print, engraving, plate</sg>,;
+<sg>steelplate, copperplate</sg>,;
+<sg>etching</sg>,;
+<sg>mezzotint, aquatint, lithotint</sg>,;
+<sg>cut, woodcut</sg>,;
+<sg>stereotype, graphotype, autotype, heliotype</sg>,;
+<sg>graver, burin, etching point, style</sg>,;
+<sg>plate, stone, wood block, negative</sg>,;
+<sg>die, punch, stamp</sg>,;
+<sg>printing</sg>,;
+<sg>plate printing, copperplate printing, anastatic printing, color printing, lithographic printing</sg>,;
+<sg>type printing ,<cref> 591 <i>misnomer</i></cref></sg>,;
+<sg>three-color process</sg>,;
+<sg>illustration, illumination</sg>,;
+<sg>half tone</sg>,;
+<sg>photogravure</sg>,;
+<sg>vignette, initial letter, cul de lampe, tailpiece</sg>,;
+<sg>lapidary, lapidarian</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>engrave, grave, stipple, scrape, etch</sg>,;
+<sg>bite, bite in</sg>,;
+<sg>lithograph</sg>,;
+<sg>print</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>insculptured</sg>,;
+<sg>engraved</sg>,;
+<sg>lapidary</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>sculpsit, imprimit</sg>,;
+<br>
+</paragraph>

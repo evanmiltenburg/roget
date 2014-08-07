@@ -1,0 +1,58 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#7#</sectionNumber>
+<headword>#<b>#[001] #150# Continuance in action #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>continuance in action, </i>continuance, continuation</sg>,;
+<sg>run</sg>,;
+<sg>perpetuation, prolongation</sg>,;
+<sg>persistence ,<cref>604 <i>perseverance</i></cref></sg>,;
+<sg>1</sg>,;
+<sg>repetition ,<cref> 104 <i>plurality </i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>continue, persist</sg>,;
+<sg>go on, jog on, keep on, run on, hold on</sg>,;
+<sg>abide, keep, pursue, stick to its course, take its course, maintain its course</sg>,;
+<sg>carry on, keep up</sg>,;
+<sg>sustain, uphold, hold up, keep on foot</sg>,;
+<sg>follow up, perpetuate</sg>,;
+<sg>maintain</sg>,;
+<sg>preserve ,<cref> 604 <i>elegance</i></cref></sg>,;
+<sg>1</sg>,;
+<sg>harp upon ,<cref>104 <i>repeat</i></cref></sg>,;
+<sg>keep going, keep alive, keep the pot boiling, keep up the ball, keep up the good work</sg>,;
+<sg>die in harness, die with one's boots on</sg>,;
+<sg>hold on the even tenor of one's way, pursue the even tenor of one's way</sg>,;
+<sg>let be</sg>,;
+<sg>stare super antiquas vias</sg>,;
+<sg>quieta non movere</sg>,;
+<sg>let things take their course</sg>,;
+<sg>stare decisis (Jurisprudence)</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>continuing</sg>,;
+<sg>uninterrupted, unintermitting, unvarying, unshifting</sg>,;
+<sg>unreversed, unstopped, unrevoked, unvaried</sg>,;
+<sg>sustained</sg>,;
+<sg>undying ,<cref>112 <i>perpetual</i></cref></sg>,;
+<sg>inconvertible</sg>,;
+<sg>Int</sg>,;
+<sg>keep it up!, go to it!, right away!, right on!, attaboy!,</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>nolumus leges Angliae mutari</sg>,;
+<sg>vestigia nulla retrorsum</sg>,;
+<sg>labitur et albetur</sg>,;
+<br>
+</paragraph>

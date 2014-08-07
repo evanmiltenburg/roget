@@ -1,0 +1,156 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#26#</sectionNumber>
+<headword>#<b>#[001] #643# Motive #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>motive, </i>springs of action, wellsprings of action</sg>,;
+<sg>reason, ground, call, principle</sg>,;
+<sg>by end, by purpose</sg>,;
+<sg>mainspring, primum mobile, keystone</sg>,;
+<sg>the why and the wherefore</sg>,;
+<sg>pro and con, reason why</sg>,;
+<sg>secret motive, arriere pensee</sg>,;
+<sg>intention ,<cref> 620 <i>description</i></cref></sg>,;
+<sg>inducement, consideration</sg>,;
+<sg>attraction</sg>,;
+<sg>loadstone</sg>,;
+<sg>magnet, magnetism, magnetic force</sg>,;
+<sg>allectation, allective</sg>,;
+<sg>temptation, enticement, agacerie, allurement, witchery</sg>,;
+<sg>bewitchment, bewitchery</sg>,;
+<sg>charm</sg>,;
+<sg>spell ,<cref> 993 <i>impenitence</i></cref></sg>,;
+<sg>fascination, blandishment, cajolery</sg>,;
+<sg>seduction, seducement</sg>,;
+<sg>honeyed words, voice of the tempter, song of the Sirens forbidden fruit, golden apple</sg>,;
+<sg>persuasibility, persuasibleness</sg>,;
+<sg>attractability</sg>,;
+<sg>impressibility, susceptibility</sg>,;
+<sg>softness</sg>,;
+<sg>persuasiveness, attractiveness</sg>,;
+<sg>tantalization</sg>,;
+<sg>influence, prompting, dictate, instance</sg>,;
+<sg>impulse, impulsion</sg>,;
+<sg>incitement, incitation</sg>,;
+<sg>press, instigation</sg>,;
+<sg>provocation ,<cref>824 <i>excitation of feeling</i></cref></sg>,;
+<sg>inspiration</sg>,;
+<sg>persuasion, suasion</sg>,;
+<sg>encouragement, advocacy</sg>,;
+<sg>exhortation</sg>,;
+<sg>advice ,<cref> 695 <i>refuge</i></cref></sg>,;
+<sg>solicitation ,<cref>765 <i>request</i></cref></sg>,;
+<sg>lobbyism</sg>,;
+<sg>pull</sg>,;
+<sg>incentive, stimulus, spur, fillip, whip, goad, ankus, rowel, provocative, whet, dram</sg>,;
+<sg>bribe, lure</sg>,;
+<sg>decoy, decoy duck</sg>,;
+<sg>bait, trail of a red herring</sg>,;
+<sg>bribery and corruption</sg>,;
+<sg>sop, sop for Cerberus</sg>,;
+<sg>prompter, tempter</sg>,;
+<sg>seducer, seductor</sg>,;
+<sg>instigator, firebrand, incendiary</sg>,;
+<sg>Siren, Circe</sg>,;
+<sg>agent provocateur</sg>,;
+<sg>lobbyist</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>induce, move</sg>,;
+<sg>draw, draw on</sg>,;
+<sg>bring in its train, give an impulse</sg>,;
+<sg>to</sg>,;
+<sg>inspire</sg>,;
+<sg>put up to, prompt, call up</sg>,;
+<sg>attract, beckon</sg>,;
+<sg>stimulate ,<cref>824 <i>excite</i></cref></sg>,;
+<sg>spirit up, inspirit</sg>,;
+<sg>rouse, arouse</sg>,;
+<sg>animate, incite, foment, provoke, instigate, set on, actuate</sg>,;
+<sg>act upon, work upon, operate upon</sg>,;
+<sg>encourage</sg>,;
+<sg>pat on the back, pat on the shoulder, clap on the back, clap on the shoulder</sg>,;
+<sg>influence, weigh with, bias, sway, incline, dispose, predispose, turn the scale, inoculate</sg>,;
+<sg>lead by the nose</sg>,;
+<sg>have influence with, have influence over, have influence upon, exercise influence with, exercise influence over, exercise influence upon</sg>,;
+<sg>go round, come round one</sg>,;
+<sg>turn the head, magnetize</sg>,;
+<sg>lobby</sg>,;
+<sg>persuade</sg>,;
+<sg>prevail with, prevail upon</sg>,;
+<sg>overcome, carry</sg>,;
+<sg>bring round to one's senses, bring to one's senses</sg>,;
+<sg>draw over, win over, gain over, come over, talk over</sg>,;
+<sg>procure, enlist, engage</sg>,;
+<sg>invite, court</sg>,;
+<sg>tempt, seduce, overpersuade, entice, allure, captivate, fascinate, bewitch, carry away, charm, conciliate, wheedle, coax, lure</sg>,;
+<sg>inveigle</sg>,;
+<sg>tantalize</sg>,;
+<sg>cajole ,<cref>545 <i>deceive</i></cref></sg>,;
+<sg>tamper with, bribe, suborn, grease the palm, bait with a silver hook, gild the pill, make things pleasant, put a sop into the pan, throw a sop to, bait the hook</sg>,;
+<sg>enforce, force</sg>,;
+<sg>impel ,<cref>276 <i>push</i></cref></sg>,;
+<sg>propel ,<cref> 284 <i>ship</i></cref></sg>,;
+<sg>whip, lash, goad, spur, prick, urge</sg>,;
+<sg>egg on, hound, hurry on</sg>,;
+<sg>drag ,<cref> 285 <i>velocity</i></cref></sg>,;
+<sg>exhort</sg>,;
+<sg>advise ,<cref> 695 <i>refuge</i></cref></sg>,;
+<sg>call upon </sg>,;
+<sg>press ,<cref>765 <i>request</i></cref></sg>,;
+<sg>advocate</sg>,;
+<sg>set an example, set the fashion</sg>,;
+<sg>keep in countenance</sg>,;
+<sg>be persuaded </sg>,;
+<sg>yield to temptation, come round</sg>,;
+<sg>concede ,<cref>762 <i>consent</i></cref></sg>,;
+<sg>obey a call</sg>,;
+<sg>follow advice, follow the bent, follow the dictates of</sg>,;
+<sg>act on principle</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>impulsive, motive</sg>,;
+<sg>suasive, suasory, persuasive, persuasory, hortative, hortatory</sg>,;
+<sg>protreptical</sg>,;
+<sg>inviting, tempting,</sg>,;
+<sg>suasive, suasory</sg>,;
+<sg>seductive, attractive</sg>,;
+<sg>fascinating ,<cref>829 <i>pleasing</i></cref></sg>,;
+<sg>provocative ,<cref>824 <i>exciting</i></cref></sg>,;
+<sg>induced</sg>,;
+<sg>disposed</sg>,;
+<sg>persuadable ,<cref>602 <i>docile</i></cref></sg>,;
+<sg>spellbound</sg>,;
+<sg>instinct with, smitten with, infatuated</sg>,;
+<sg>inspired</sg>,;
+<sg>by</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>because, therefore ,<cref>155 <i>cause</i></cref></sg>,;
+<sg>from this motive, from that motive</sg>,;
+<sg>for this reason, for that reason</sg>,;
+<sg>for</sg>,;
+<sg>by reason of, for the sake of, count of</sg>,;
+<sg>out of, from, as, forasmuch as</sg>,;
+<sg>for all the world</sg>,;
+<sg>on principle</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>fax mentis incendium gloriae</sg>,;
+<sg>temptation hath a music for all ears</sg>,;
+<sg>to beguile many and be beguiled by one</sg>,;
+<br>
+</paragraph>

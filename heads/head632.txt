@@ -1,0 +1,99 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#26#</sectionNumber>
+<headword>#<b>#[001] #632# Irresolution #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>irresolution, </i>infirmity of purpose, indecision</sg>,;
+<sg>indetermination, undetermination</sg>,;
+<sg>unsettlement</sg>,;
+<sg>uncertainty ,<cref> 475 <i>curiosity</i></cref></sg>,;
+<sg>demur, suspense</sg>,;
+<sg>hesitating</sg>,;
+<sg>, hesitation, hesitancy</sg>,;
+<sg>vacillation</sg>,;
+<sg>changeableness ,<cref> 149 <i>cessation</i></cref></sg>,;
+<sg>fluctuation</sg>,;
+<sg>alternation ,<cref>314 <i>oscillation</i></cref></sg>,;
+<sg>caprice ,<cref> 608 <i>speech</i></cref></sg>,;
+<sg>fickleness, levity, legerete</sg>,;
+<sg>pliancy ,<cref>324 <i>softness</i></cref></sg>,;
+<sg>weakness</sg>,;
+<sg>timidity ,<cref> 860 <i>sensibility</i></cref></sg>,;
+<sg>cowardice ,<cref> 862 <i>excitation</i></cref></sg>,;
+<sg>half measures</sg>,;
+<sg>waverer, ass between two bundles of hay</sg>,;
+<sg>shuttlecock, butterfly</sg>,;
+<sg>wimp</sg>,;
+<sg>doughface</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be irresolute</sg>,;
+<sg>hang in suspense, keep in suspense</sg>,;
+<sg>leave "ad referendum"</sg>,;
+<sg>think twice about, pause</sg>,;
+<sg>dawdle ,<cref>683 <i>inactivity</i></cref></sg>,;
+<sg>remain neuter</sg>,;
+<sg>dillydally, hesitate, boggle, hover, dacker, hum and haw, demur, not know one's own mind</sg>,;
+<sg>debate, balance</sg>,;
+<sg>dally with, coquet with</sg>,;
+<sg>will and will not, chaser-balancer</sg>,;
+<sg>go halfway, compromise, make a compromise</sg>,;
+<sg>be thrown off one's balance, stagger like a drunken man</sg>,;
+<sg>be afraid ,<cref> 860 <i>sensibility</i></cref></sg>,;
+<sg>let 'I dare not' wait upon 'I would'</sg>,;
+<sg>falter, waver vacillate ,<cref> 149 <i>cessation</i></cref></sg>,;
+<sg>change ,<cref> 140 <i>lateness</i></cref></sg>,;
+<sg>retract ,<cref> 607 <i>aphony</i></cref></sg>,;
+<sg>fluctuate</sg>,;
+<sg>pendulate</sg>,;
+<sg>alternate ,<cref>314 <i>oscillate</i></cref></sg>,;
+<sg>keep off and on, play fast and loose</sg>,;
+<sg>blow hot and cold ,<cref>608 <i>caprice</i></cref></sg>,;
+<sg>shuffle, palter, blink</sg>,;
+<sg>trim</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>irresolute, infirm of purpose, double-minded, half-hearted</sg>,;
+<sg>undecided, unresolved, undetermined</sg>,;
+<sg>shilly-shally</sg>,;
+<sg>fidgety, tremulous</sg>,;
+<sg>hesitating</sg>,;
+<sg>off one's balance</sg>,;
+<sg>at a loss ,<cref>475 <i>uncertain</i></cref></sg>,;
+<sg>vacillating</sg>,;
+<sg>unsteady ,<cref>149 <i>changeable</i></cref></sg>,;
+<sg>unsteadfast, fickle, without ballast</sg>,;
+<sg>capricious ,<cref> 608 <i>speech</i></cref></sg>,;
+<sg>volatile, frothy</sg>,;
+<sg>light, lightsome, light-minded</sg>,;
+<sg>giddy</sg>,;
+<sg>fast and loose</sg>,;
+<sg>weak, feeble-minded, frail</sg>,;
+<sg>timid, wimpish, wimpy ,<cref> 860 <i>sensibility</i></cref></sg>,;
+<sg>cowardly ,<cref> 862 <i>excitation</i></cref></sg>,;
+<sg>dough-faced</sg>,;
+<sg>facile</sg>,;
+<sg>pliant ,<cref>324 <i>soft</i></cref></sg>,;
+<sg>unable to say 'no', easy-going revocable, reversible</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>irresolutely</sg>,;
+<sg>irresolved, irresolvedly</sg>,;
+<sg>in faltering accents</sg>,;
+<sg>off and on</sg>,;
+<sg>from pillar to post</sg>,;
+<sg>seesaw ,<cref> 314 <i>transcursion</i></cref></sg>,;
+<sg>Int</sg>,;
+<sg>how happy could I be with either!</sg>,;
+<br>
+</paragraph>

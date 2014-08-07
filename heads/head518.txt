@@ -1,0 +1,131 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#20#</sectionNumber>
+<headword>#<b>#[001] #518# Truth #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>truth, </i>fact, reality ,<cref>1 <i>existence</i></cref></sg>,;
+<sg>plain fact, plain matter of fact</sg>,;
+<sg>nature ,<cref>5 <i>principle</i></cref></sg>,;
+<sg>truth, verity</sg>,;
+<sg>gospel, gospel truth, God's honest truth</sg>,;
+<sg>orthodoxy ,<cref> 983 <i>knave</i></cref></sg>,;
+<sg>1</sg>,;
+<sg>authenticity</sg>,;
+<sg>veracity ,<cref> 543 <i>intelligibility</i></cref></sg>,;
+<sg>correctness, correctitude</sg>,;
+<sg>accuracy, exactitude</sg>,;
+<sg>exactness, preciseness</sg>,;
+<sg>precision, delicacy</sg>,;
+<sg>rigor, mathematical precision, punctuality</sg>,;
+<sg>clockwork precision ,<cref>80 <i>regularity</i></cref></sg>,;
+<sg>conformity to rule</sg>,;
+<sg>nicety</sg>,;
+<sg>orthology</sg>,;
+<sg>ipsissima verba</sg>,;
+<sg>realism</sg>,;
+<sg>plain truth, honest truth, sober truth, naked truth, unalloyed truth, unqualified truth, stern truth, exact truth, intrinsic truth</sg>,;
+<sg>nuda veritas</sg>,;
+<sg>the very thing</sg>,;
+<sg>not an illusion ,<cref> 495 <i>probability</i></cref></sg>,;
+<sg>real Simon Pure</sg>,;
+<sg>unvarnished tale, unvarnished truth</sg>,;
+<sg>the truth the whole truth and nothing but the truth</sg>,;
+<sg>just the thing</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be true</sg>,;
+<sg>, be the case</sg>,;
+<sg>sand the test</sg>,;
+<sg>have the true ring</sg>,;
+<sg>hold good, hold true, hold water</sg>,;
+<sg>render true, prove true</sg>,;
+<sg>substantiate ,<cref>467 <i>evidence</i></cref></sg>,;
+<sg>get at the truth ,<cref>480 <i>discover</i></cref></sg>,;
+<sg>1</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>real, actual ,<cref>1 <i>existing</i></cref></sg>,;
+<sg>veritable, true</sg>,;
+<sg>right, correct</sg>,;
+<sg>certain ,<cref> 474 <i>topic</i></cref></sg>,;
+<sg>substantially true, categorically true, definitively true </sg>,;
+<sg>true to the letter, true as gospel</sg>,;
+<sg>unimpeachable</sg>,;
+<sg>veracious ,<cref> 543 <i>intelligibility</i></cref></sg>,;
+<sg>unreconfuted, unconfuted</sg>,;
+<sg>unideal, unimagined</sg>,;
+<sg>realistic</sg>,;
+<sg>exact, accurate, definite, precise, well-defined, just, just so, so</sg>,;
+<sg>strict, severe</sg>,;
+<sg>close ,<cref>17 <i>similar</i></cref></sg>,;
+<sg>literal</sg>,;
+<sg>rigid, rigorous</sg>,;
+<sg>scrupulous ,<cref>939 <i>conscientious</i></cref></sg>,;
+<sg>religiously exact, punctual, mathematical, scientific</sg>,;
+<sg>faithful, constant, unerring</sg>,;
+<sg>curious, particular, nice, delicate, fine</sg>,;
+<sg>clean-cut, clear-cut</sg>,;
+<sg>verified, empirically true, experimentally verified, substantiated, proven (demonstrated) 478</sg>,;
+<sg>rigorously true, unquestionably true</sg>,;
+<sg>true by definition</sg>,;
+<sg>genuine, authentic, legitimate</sg>,;
+<sg>orthodox ,<cref> 983 <i>knave</i></cref></sg>,;
+<sg>1</sg>,;
+<sg>official, ex officio</sg>,;
+<sg>pure, natural, sound, sterling</sg>,;
+<sg>unsophisticated, unadulterated, unvarnished, unalloyed, uncolored</sg>,;
+<sg>in its true colors</sg>,;
+<sg>pukka</sg>,;
+<sg>well-grounded, well founded</sg>,;
+<sg>solid, substantial, tangible, valid</sg>,;
+<sg>undistorted, undisguised</sg>,;
+<sg>unaffected, unexaggerated, unromantic, unflattering</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>truly</sg>,;
+<sg>verily, indeed, really, in reality</sg>,;
+<sg>with truth ,<cref>543 <i>veracity</i></cref></sg>,;
+<sg>certainly ,<cref>474 <i>certain</i></cref></sg>,;
+<sg>actually ,<cref>1 <i>existence</i></cref></sg>,;
+<sg>in effect ,<cref>5 <i>intrinsically</i></cref></sg>,;
+<sg>exactly</sg>,;
+<sg>ad amussim</sg>,;
+<sg>verbatim, verbatim et literatim</sg>,;
+<sg>word for word, literally, literatim, totidem vervis, sic, to the letter, chapter and verse, ipsissimis verbis</sg>,;
+<sg>ad unguem</sg>,;
+<sg>to an inch</sg>,;
+<sg>to a nicety, to a hair, to a tittle, to a turn, to a T</sg>,;
+<sg>au pied de la lettre</sg>,;
+<sg>neither more nor less</sg>,;
+<sg>in every respect, in all respects</sg>,;
+<sg>sous tous les rapports</sg>,;
+<sg>at any rate, at all events</sg>,;
+<sg>strictly speaking</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>the truth is, the fact is</sg>,;
+<sg>rem acu tetigisti</sg>,;
+<sg>en suivant la verite</sg>,;
+<sg>ex facto jus oritur</sg>,;
+<sg>la verita e figlia del empo</sg>,;
+<sg>locos y ninos dicen la verdad, crazy people and children tell the truth</sg>,;
+<sg>nihil est veritatis luce dulcius</sg>,;
+<sg>veritas nunquam perit</sg>,;
+<sg>veritatem dies aperit</sg>,;
+<sg>the truth, the whole truth, and nothing but the truth</sg>,;
+<sg>just the facts, ma'am, just the facts</sg>,;
+<br>
+</paragraph>

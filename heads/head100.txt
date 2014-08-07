@@ -1,0 +1,31 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#5#</sectionNumber>
+<headword>#<b>#[001] #100# Quadruplication #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>quadruplication</i></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>multiply by four, quadruplicate, biquadrate</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>fourfold, four times</sg>,;
+<sg>quadrable, quadrumanous, quadruple, quadruplicate, quadrible</sg>,;
+<sg>fourth</sg>,;
+<sg>quadrifoliate, quadrifoliolate, quadrigeminal, quadrigeminate, quadriplanar, quadriserial</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>four times</sg>,;
+<sg>in the fourth place, fourthly</sg>,;
+<br>
+</paragraph>

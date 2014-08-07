@@ -1,0 +1,52 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#34#</sectionNumber>
+<headword>#<b>#[001] #816# Transfer #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>transfer, </i>conveyance, assignment, alienation, abalienation</sg>,;
+<sg>demise, limitation</sg>,;
+<sg>conveyancing</sg>,;
+<sg>transmission ,<cref>270 <i>transference</i></cref></sg>,;
+<sg>enfeoffment, bargain and sale, lease and release</sg>,;
+<sg>exchange ,<cref>148 <i>interchange</i></cref></sg>,;
+<sg>barter ,<cref> 794 <i>offer</i></cref></sg>,;
+<sg>substitution ,<cref> 147 <i>change</i></cref></sg>,;
+<sg>succession, reversion</sg>,;
+<sg>shifting use, shifting trust</sg>,;
+<sg>devolution</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>transfer, convey</sg>,;
+<sg>alienate, alien</sg>,;
+<sg>assign</sg>,;
+<sg>grant ,<cref>784 <i>confer</i></cref></sg>,;
+<sg>consign</sg>,;
+<sg>make over, hand over</sg>,;
+<sg>pass, hand, transmit, negotiate</sg>,;
+<sg>hand down</sg>,;
+<sg>exchange ,<cref>148 <i>interchange</i></cref></sg>,;
+<sg>change hands, change hands from one to another</sg>,;
+<sg>devolve, succeed</sg>,;
+<sg>come into possession ,<cref>775 <i>acquire</i></cref></sg>,;
+<sg>abalienate</sg>,;
+<sg>disinherit</sg>,;
+<sg>dispossess ,<cref> 789 <i>consignee</i></cref></sg>,;
+<sg>substitute ,<cref> 147 <i>change</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>alienable, negotiable</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>estate coming into possession</sg>,;
+<br>
+</paragraph>

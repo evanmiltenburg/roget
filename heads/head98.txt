@@ -1,0 +1,25 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#5#</sectionNumber>
+<headword>#<b>#[001] #98# Trisection #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>trisection, </i>tripartition, trichotomy</sg>,;
+<sg>third, third part</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>trisect, divide into three parts</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>trifid</sg>,;
+<sg>trisected</sg>,;
+<sg>tripartite, trichotomous, trisulcate</sg>,;
+<sg>Triadelphous, triangular, tricuspid, tricapsular, tridental, tridentate, tridentiferous, trifoliate, trifurcate, trigonal, trigrammic, trigrammatic, tripetalous, tripodal, tripodic, triquetral, triquetrous</sg>,;
+<br>
+</paragraph>

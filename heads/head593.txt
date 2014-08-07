@@ -1,0 +1,22 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#25#</sectionNumber>
+<headword>#<b>#[001] #593# Grammar #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>grammar, </i>accidence, syntax, praxis, punctuation</sg>,;
+<sg>parts of speech</sg>,;
+<sg>jussive</sg>,;
+<sg>syllabication</sg>,;
+<sg>inflection, case, declension, conjugation</sg>,;
+<sg>us et norma loquendi</sg>,;
+<sg>Lindley Murray ,<cref>542 <i>schoolbook</i></cref></sg>,;
+<sg>correct style, philology ,<cref>560 <i>language</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>parse, punctuate, syllabicate</sg>,;
+<br>
+</paragraph>

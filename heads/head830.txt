@@ -1,0 +1,31 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#34#</sectionNumber>
+<headword>#<b>#[001] #830# Merchant #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>merchant, </i>trader, dealer, monger, chandler, salesman</sg>,;
+<sg>changer</sg>,;
+<sg>regrater</sg>,;
+<sg>shopkeeper, shopman</sg>,;
+<sg>tradesman, tradespeople, tradesfolk</sg>,;
+<sg>retailer</sg>,;
+<sg>chapman, hawker, huckster, higgler</sg>,;
+<sg>pedlar, colporteur, cadger, Autolycus</sg>,;
+<sg>sutler, vivandiere</sg>,;
+<sg>costerman, costermonger</sg>,;
+<sg>tallyman</sg>,;
+<sg>camelot</sg>,;
+<sg>faker</sg>,;
+<sg>vintner</sg>,;
+<sg>money broker, money changer, money lender</sg>,;
+<sg>cambist, usurer, moneyer, banker</sg>,;
+<sg>jobber</sg>,;
+<sg>broker ,<cref>758 <i>agent</i></cref></sg>,;
+<sg>buyer ,<cref> 795 <i>refusal</i></cref></sg>,;
+<sg>seller ,<cref> 796 <i>request</i></cref></sg>,;
+<sg>bear, bull</sg>,;
+<sg>concern</sg>,;
+<sg>firm ,<cref>712 <i>partnership</i></cref></sg>,;
+<br>
+</paragraph>

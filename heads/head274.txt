@@ -1,0 +1,18 @@
+<classNumber>#2#</classNumber>
+<sectionNumber>#11#</sectionNumber>
+<headword>#<b>#[001] #274# Stopper #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>stopper, </i>stopple</sg>,;
+<sg>plug, cork, bung, spike, spill, stopcock, tap</sg>,;
+<sg>rammer</sg>,;
+<sg>ram, ramrod</sg>,;
+<sg>piston</sg>,;
+<sg>stop-gap</sg>,;
+<sg>wadding, stuffing, padding, stopping, dossil, pledget, tompion, tourniquet</sg>,;
+<sg>cover ,<cref> 223 <i>pendency</i></cref></sg>,;
+<sg>valve, vent peg, spigot, slide valve</sg>,;
+<sg>janitor, doorkeeper, porter, warder, beadle, cerberus, ostiary</sg>,;
+<br>
+</paragraph>

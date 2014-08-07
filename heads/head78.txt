@@ -1,0 +1,27 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#4#</sectionNumber>
+<headword>#<b>#[001] #78# Focus #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>focus</i></sg>,;
+<sg>point of convergence ,<cref> 290 <i>deviation</i></cref></sg>,;
+<sg>corradiation</sg>,;
+<sg>center ,<cref> 222 <i>horizontality</i></cref></sg>,;
+<sg>gathering place, resort haunt retreat</sg>,;
+<sg>venue</sg>,;
+<sg>rendezvous</sg>,;
+<sg>rallying point, headquarters, home, club</sg>,;
+<sg>depot ,<cref>636 <i>store</i></cref></sg>,;
+<sg>trysting place</sg>,;
+<sg>place of meeting, place of resort, place of assignation</sg>,;
+<sg>point de reunion</sg>,;
+<sg>issue</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>bring to a point, bring to a focus, bring to an issue</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,69 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#29#</sectionNumber>
+<headword>#<b>#[001] #748# Resistance #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>resistance, </i>stand, front, oppugnation</sg>,;
+<sg>oppugnancy</sg>,;
+<sg>opposition ,<cref> 708 <i>misuse</i></cref></sg>,;
+<sg>renitence, renitency</sg>,;
+<sg>reluctation, recalcitration</sg>,;
+<sg>kicking</sg>,;
+<sg>repulse, rebuff</sg>,;
+<sg>insurrection ,<cref>742 <i>disobedience</i></cref></sg>,;
+<sg>strike</sg>,;
+<sg>turn out, lock out, barring out</sg>,;
+<sg>levee en masse, Jacquerie</sg>,;
+<sg>riot ,<cref>59 <i>disorder</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>resist</sg>,;
+<sg>not submit ,<cref> 725 <i>council</i></cref></sg>,;
+<sg>repugn, reluct, reluctate, withstand</sg>,;
+<sg>stand up against, strive against, bear up under, bear up against, be proof against, make head against</sg>,;
+<sg>stand, stand firm, stand one's ground, stand the brunt of, stand out</sg>,;
+<sg>hold one's grounds, hold one's own, hold out, hold firm</sg>,;
+<sg>breast the wave, breast the current</sg>,;
+<sg>stem the tide, stem the torrent</sg>,;
+<sg>face, confront, grapple with</sg>,;
+<sg>show a bold front ,<cref>861 <i>courage</i></cref></sg>,;
+<sg>present a front</sg>,;
+<sg>make a stand, take one's stand</sg>,;
+<sg>kick, kick against</sg>,;
+<sg>recalcitrate, kick against the pricks</sg>,;
+<sg>oppose ,<cref> 708 <i>misuse</i></cref></sg>,;
+<sg>fly in the face of</sg>,;
+<sg>lift the hand against ,<cref>716 <i>attack</i></cref></sg>,;
+<sg>rise up in arms ,<cref>722 <i>war</i></cref></sg>,;
+<sg>strike, turn out</sg>,;
+<sg>draw up a round robin ,<cref>932 <i>remonstrate</i></cref></sg>,;
+<sg>revolt ,<cref>742 <i>disobey</i></cref></sg>,;
+<sg>make a riot</sg>,;
+<sg>prendre le mors aux dents, take the bit between the teeth</sg>,;
+<sg>sell one's life dearly, die hard, keep at bay</sg>,;
+<sg>repel, repulse</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>resisting</sg>,;
+<sg>resistive, resistant</sg>,;
+<sg>refractory ,<cref>742 <i>disobedient</i></cref></sg>,;
+<sg>recalcitrant, renitent</sg>,;
+<sg>up in arms</sg>,;
+<sg>repulsive, repellant</sg>,;
+<sg>proof against</sg>,;
+<sg>unconquerable ,<cref>159 <i>strong</i></cref></sg>,;
+<sg>stubborn, unconquered</sg>,;
+<sg>indomitable ,<cref>604 <i>persevering</i></cref></sg>,;
+<sg>1</sg>,;
+<sg>unyielding ,<cref>606 <i>obstinate</i></cref></sg>,;
+<sg>Int</sg>,;
+<sg>hands off!, keep off!,</sg>,;
+<br>
+</paragraph>

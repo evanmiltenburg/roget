@@ -1,0 +1,44 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#4#</sectionNumber>
+<headword>#<b>#[001] #80# Inclusion #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>inclusion, </i>admission, comprehension, reception</sg>,;
+<sg>composition ,<cref>54 <i>inclusion in a compound</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be included in </sg>,;
+<sg>come under, fall under, range under</sg>,;
+<sg>belong to, pertain to</sg>,;
+<sg>range with</sg>,;
+<sg>merge in</sg>,;
+<sg>include, comprise, comprehend, contain, admit, embrace, receive</sg>,;
+<sg>inclose ,<cref>229 <i>circumscribe</i></cref></sg>,;
+<sg>embody, encircle</sg>,;
+<sg>reckon among, enumerate among, number among</sg>,;
+<sg>refer to</sg>,;
+<sg>place with, arrange with, place under</sg>,;
+<sg>take into account</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>included, including</sg>,;
+<sg>inclusive</sg>,;
+<sg>congener, congenerous</sg>,;
+<sg>of the same class ,<cref> 75 <i>term</i></cref></sg>,;
+<sg>encircling</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>a maximis ad minima, et hoc genus omne,  etc</sg>,;
+<sg>et coetera</sg>,;
+<br>
+</paragraph>

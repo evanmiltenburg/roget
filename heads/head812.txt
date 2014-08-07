@@ -1,0 +1,33 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#34#</sectionNumber>
+<headword>#<b>#[001] #812# Possessor #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>possessor, </i>holder</sg>,;
+<sg>occupant, occupier</sg>,;
+<sg>tenant</sg>,;
+<sg>person in possession, man in possession ,<cref> 777 <i>servant</i></cref></sg>,;
+<sg>renter, lodger, lessee, underlessee</sg>,;
+<sg>zemindar, ryot</sg>,;
+<sg>tenant on sufferance, tenant at will, tenant from year to year, tenant for years, tenant for life</sg>,;
+<sg>owner</sg>,;
+<sg>proprietor, proprietress, proprietary</sg>,;
+<sg>impropriator, master, mistress, lord</sg>,;
+<sg>land holder, land owner, landlord, land lady, slumlord</sg>,;
+<sg>lord of the manor, lord paramount</sg>,;
+<sg>heritor, laird, vavasour, landed gentry, mesne lord</sg>,;
+<sg>planter</sg>,;
+<sg>cestui-que-trust, beneficiary, mortgagor</sg>,;
+<sg>grantee, feoffee, releasee, relessee, devisee</sg>,;
+<sg>legatee, legatary</sg>,;
+<sg>trustee</sg>,;
+<sg>holder of the legal estate </sg>,;
+<sg>mortgagee</sg>,;
+<sg>right owner, rightful owner</sg>,;
+<sg>heir presumptive, heir apparent</sg>,;
+<sg>heiress</sg>,;
+<sg>inheritor, inheritress, inheritrix</sg>,;
+<sg>reversioner, remainderman</sg>,;
+<br>
+</paragraph>

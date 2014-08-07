@@ -1,0 +1,53 @@
+<classNumber>#2#</classNumber>
+<sectionNumber>#12#</sectionNumber>
+<headword>#<b>#[001] #320# Leap #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>leap, </i>jump, hop, spring, bound, vault, saltation</sg>,;
+<sg>ance, caper</sg>,;
+<sg>curvet, caracole</sg>,;
+<sg>gambade, gambado</sg>,;
+<sg>capriole, demivolt</sg>,;
+<sg>buck, buck jump</sg>,;
+<sg>hop skip and jump</sg>,;
+<sg>falcade</sg>,;
+<sg>kangaroo, jerboa</sg>,;
+<sg>chamois, goat, frog, grasshopper, flea</sg>,;
+<sg>buckjumper</sg>,;
+<sg>wallaby</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>leap</sg>,;
+<sg>jump up, jump over the moon</sg>,;
+<sg>hop, spring, bound, vault, ramp, cut capers, trip, skip, dance, caper</sg>,;
+<sg>buck, buck jump</sg>,;
+<sg>curvet, caracole</sg>,;
+<sg>foot it, bob, bounce, flounce, start</sg>,;
+<sg>frisk ,<cref>840 <i>amusement</i></cref></sg>,;
+<sg>jump about ,<cref>315 <i>agitation</i></cref></sg>,;
+<sg>trip it on the light fantastic toe, trip the light fantastic, dance oneself off one's legs, dance off one's shoes</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>leaping</sg>,;
+<sg>saltatory, frisky</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>on the light fantastic toe</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>di salto in salto</sg>,;
+<br>
+</paragraph>

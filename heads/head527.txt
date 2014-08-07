@@ -1,0 +1,110 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#20#</sectionNumber>
+<headword>#<b>#[001] #527# Insanity #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>insanity, </i>disordered reason, disordered intellect</sg>,;
+<sg>diseased mind, unsound mind, abnormal mind</sg>,;
+<sg>derangement, unsoundness</sg>,;
+<sg>psychosis</sg>,;
+<sg>neurosis</sg>,;
+<sg>cognitive disorder</sg>,;
+<sg>affective disorder</sg>,;
+<sg>insanity, lunacy</sg>,;
+<sg>madness</sg>,;
+<sg>mania, rabies, furor, mental alienation, aberration</sg>,;
+<sg>paranoia, schizophrenia</sg>,;
+<sg>dementation, dementia, demency</sg>,;
+<sg>phrenitis, phrensy, frenzy, raving, incoherence, wandering, delirium, calenture of the brain</sg>,;
+<sg>delusion, hallucination</sg>,;
+<sg>lycanthropy</sg>,;
+<sg>brain storm</sg>,;
+<sg>vertigo, dizziness, swimming</sg>,;
+<sg>sunstroke, coup de soleil, siriasis</sg>,;
+<sg>fanaticism, infatuation, craze</sg>,;
+<sg>oddity, eccentricity, twist, monomania (caprice) 608</sg>,;
+<sg>kleptodipsomania</sg>,;
+<sg>hypochondriasis  ,<cref>837 <i>low spirits</i></cref></sg>,;
+<sg>melancholia, depression, clinical depression, severe depression</sg>,;
+<sg>hysteria</sg>,;
+<sg>amentia</sg>,;
+<sg>screw loose, tile loose, slate loose</sg>,;
+<sg>bee in one's bonnet, rats in the upper story</sg>,;
+<sg>dotage ,<cref>499 <i>imbecility</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be insane</sg>,;
+<sg>become insane</sg>,;
+<sg>lose one's senses, lose one's reason, lose one's faculties, lose one's wits</sg>,;
+<sg>go mad, run mad, lose one's marbles, go crazy, go bonkers, flip one's wig, flip one's lid, flip out, flip one's bush</sg>,;
+<sg>rave, dote, ramble, wander</sg>,;
+<sg>drivel ,<cref>499 <i>be imbecile</i></cref></sg>,;
+<sg>have a screw loose</sg>,;
+<sg>, have a devil</sg>,;
+<sg>avoir le diable au corps</sg>,;
+<sg>lose one's head ,<cref>475 <i>be uncertain</i></cref></sg>,;
+<sg>render mad, drive mad</sg>,;
+<sg>madden, dementate, addle the wits, addle the brain, derange the head, infatuate, befool</sg>,;
+<sg>turn the brain, turn one's head</sg>,;
+<sg>drive one nuts</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>insane, mad, lunatic, loony</sg>,;
+<sg>crazy, crazed, aliene, non compos mentis</sg>,;
+<sg>not right, cracked, touched</sg>,;
+<sg>bereft of reason</sg>,;
+<sg>all possessed, unhinged, unsettled in one's mind</sg>,;
+<sg>insensate, reasonless, beside oneself, demented, daft</sg>,;
+<sg>phrenzied, frenzied, frenetic</sg>,;
+<sg>possessed, possessed with a devil</sg>,;
+<sg>deranged, maddened, moonstruck</sg>,;
+<sg>shatterpated</sg>,;
+<sg>mad-brained, scatter brained, shatter brained, crackbrained</sg>,;
+<sg>touched, tetched</sg>,;
+<sg>off one's head</sg>,;
+<sg>maniacal</sg>,;
+<sg>delirious, lightheaded, incoherent, rambling, doting, wandering</sg>,;
+<sg>frantic, raving, stark staring mad, stark raving mad, wild-eyed, berserk</sg>,;
+<sg>delusional, hallucinatory</sg>,;
+<sg>corybantic, dithyrambic</sg>,;
+<sg>rabid, giddy, vertiginous, wild</sg>,;
+<sg>haggard, mazed</sg>,;
+<sg>flighty</sg>,;
+<sg>distracted, distraught</sg>,;
+<sg>depressed</sg>,;
+<sg>agitated, hyped up</sg>,;
+<sg>bewildered ,<cref>475 <i>uncertain</i></cref></sg>,;
+<sg>mad as a March hare, mad as a hatter</sg>,;
+<sg>of unsound mind</sg>,;
+<sg>touched in one's head, wrong in one's head, not right in one's head, not in one's right mind, not right in one's wits, upper story</sg>,;
+<sg>out of one's mind, out of one's wits, out of one's skull, far gone, out of one's senses, out of one's wits</sg>,;
+<sg>not in one's right mind</sg>,;
+<sg>fanatical, infatuated, odd, eccentric</sg>,;
+<sg>hypped, hyppish</sg>,;
+<sg>spaced out</sg>,;
+<sg>imbecile, silly, ,<cref> 499 <i>reasoning,</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>like one possessed</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>the mind having lost its balance</sg>,;
+<sg>the reason under a cloud</sg>,;
+<sg>tet exaltee, tet montee</sg>,;
+<sg>ira furor brevis est</sg>,;
+<sg>omnes stultos insanire</sg>,;
+<br>
+</paragraph>

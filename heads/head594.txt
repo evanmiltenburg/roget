@@ -1,0 +1,33 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#25#</sectionNumber>
+<headword>#<b>#[001] #594# Solecism #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>solecism</i></sg>,;
+<sg>bad grammar, false grammar, faulty grammar</sg>,;
+<sg>slip of the pen, slip of the tongue</sg>,;
+<sg>lapsus linguae</sg>,;
+<sg>slipslop</sg>,;
+<sg>bull</sg>,;
+<sg>barbarism, impropriety</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>use bad grammar, faulty grammar</sg>,;
+<sg>solecize, commit a solecism</sg>,;
+<sg>murder the King's English, murder the Queen's English, break Priscian's head</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>ungrammatical</sg>,;
+<sg>incorrect, inaccurate</sg>,;
+<sg>faulty</sg>,;
+<sg>improper, incongruous</sg>,;
+<sg>solecistic, solecistical</sg>,;
+<br>
+</paragraph>

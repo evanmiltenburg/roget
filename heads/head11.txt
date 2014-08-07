@@ -1,0 +1,54 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#2#</sectionNumber>
+<headword>#<b>#[001] #11# Consanguinity #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>consanguinity, </i>relationship, kindred, blood</sg>,;
+<sg>parentage ,<cref>166 <i>paternity</i></cref></sg>,;
+<sg>filiation, affiliation</sg>,;
+<sg>lineage, agnation, connection, alliance</sg>,;
+<sg>family connection, family tie</sg>,;
+<sg>ties of blood</sg>,;
+<sg>nepotism</sg>,;
+<sg>kinsman, kinfolk</sg>,;
+<sg>kith and kin</sg>,;
+<sg>relation, relative</sg>,;
+<sg>connection</sg>,;
+<sg>sibling, sib</sg>,;
+<sg>next of kin</sg>,;
+<sg>uncle, aunt, nephew, niece</sg>,;
+<sg>cousin, cousin- german</sg>,;
+<sg>first cousin, second cousin</sg>,;
+<sg>cousin once removed, cousin twice removed</sg>,;
+<sg>ear relation, distant relation</sg>,;
+<sg>brother, sister, one's own flesh and blood</sg>,;
+<sg>family, fraternity</sg>,;
+<sg>brotherhood, sisterhood, cousinhood</sg>,;
+<sg>race, stock, generation</sg>,;
+<sg>sept ,<cref> 166 <i>strength</i></cref></sg>,;
+<sg>stirps, side</sg>,;
+<sg>strain</sg>,;
+<sg>breed, clan, tribe, nation</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be related to</sg>,;
+<sg>claim relationship with</sg>,;
+<sg>with</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>related, akin, consanguineous, of the blood, family, allied, collateral</sg>,;
+<sg>cognate, agnate, connate</sg>,;
+<sg>kindred</sg>,;
+<sg>affiliated</sg>,;
+<sg>fraternal</sg>,;
+<sg>intimately related, nearly related, closely related, remotely related, distantly related, allied</sg>,;
+<sg>german</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,26 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#15#</sectionNumber>
+<headword>#<b>#[001] #451# Gray #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>gray</i></sg>,;
+<sg>neutral tint, silver, pepper and salt, chiaroscuro, grisaille</sg>,;
+<sg>Payne's gray</sg>,;
+<sg>black ,<cref> 431 <i>concord</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>gray, grey</sg>,;
+<sg>iron-gray, dun, drab, dingy, leaden, livid, somber, sad, pearly, russet, roan</sg>,;
+<sg>calcareous, limy, favillous</sg>,;
+<sg>silver, silvery, silvered</sg>,;
+<sg>ashen, ashy</sg>,;
+<sg>cinereous, cineritious</sg>,;
+<sg>grizzly, grizzled</sg>,;
+<sg>slate-colored, stone-colored, mouse-colored, ash-colored</sg>,;
+<sg>cool</sg>,;
+<br>
+</paragraph>

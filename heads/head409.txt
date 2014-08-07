@@ -1,0 +1,30 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#15#</sectionNumber>
+<headword>#<b>#[001] #409# Condiment #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>condiment, </i>seasoning, sauce, spice, relish, appetizer</sg>,;
+<sg>salt</sg>,;
+<sg>mustard, grey poupon mustard</sg>,;
+<sg>pepper, black pepper, white pepper, peppercorn, curry, sauce piquante</sg>,;
+<sg>caviare, onion, garlic, pickle</sg>,;
+<sg>achar, allspice</sg>,;
+<sg>bell pepper, Jamaica pepper, green pepper</sg>,;
+<sg>chutney</sg>,;
+<sg>cubeb, pimento</sg>,;
+<sg>capsicum, red pepper, chili peppers, cayenne</sg>,;
+<sg>nutmeg, mace, cinnamon, oregano, cloves, fennel</sg>,;
+<sg>pot herbs, parsley, sage, rosemary, thyme, bay leaves, marjoram</sg>,;
+<sg>frankincense, balm, myrrh</sg>,;
+<sg>paprika</sg>,;
+<sg>saffron</sg>,;
+<sg>ginger, turmeric</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>season, spice, flavor, spice up ,<cref>392 <i>render pungent</i></cref></sg>,;
+<br>
+</paragraph>

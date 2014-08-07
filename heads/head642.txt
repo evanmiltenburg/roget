@@ -1,0 +1,38 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#26#</sectionNumber>
+<headword>#<b>#[001] #642# Desuetude #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>desuetude, </i>disusage</sg>,;
+<sg>obsolescence, disuse ,<cref> 678 <i>badness</i></cref></sg>,;
+<sg>want of habit, want of practice</sg>,;
+<sg>inusitation</sg>,;
+<sg>newness to</sg>,;
+<sg>new brooms</sg>,;
+<sg>infraction of usage ,<cref>83 <i>unconformity</i></cref></sg>,;
+<sg>nonprevalence</sg>,;
+<sg>a custom more honored in the breach than the observance</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be unaccustomed</sg>,;
+<sg>leave off a habit, cast off a habit, break off a habit, wean oneself of a habit, violate a habit, break through a habit, infringe a habit, leave off a custom, cast off a custom, break off a custom, wean oneself of a custom, violate a custom, break through a custom, infringe a custom, leave off a usage, cast off a usage, break off a usage, wean oneself of a usage, violate a usage, break through a usage, infringe a usage</sg>,;
+<sg>disuse ,<cref> 678 <i>badness</i></cref></sg>,;
+<sg>wear off</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>unaccustomed, unused, unwonted, unseasoned, uninured, unhabituated, untrained</sg>,;
+<sg>new</sg>,;
+<sg>green ,<cref>699 <i>unskilled</i></cref></sg>,;
+<sg>unhackneyed</sg>,;
+<sg>unusual ,<cref>83 <i>unconformable</i></cref></sg>,;
+<sg>nonobservant</sg>,;
+<sg>disused ,<cref> 678 <i>badness</i></cref></sg>,;
+<br>
+</paragraph>

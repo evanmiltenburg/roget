@@ -1,0 +1,78 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#7#</sectionNumber>
+<headword>#<b>#[001] #147# Change #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>change, </i>alteration, mutation, permutation, variation, modification, modulation, inflexion, mood, qualification, innovation, metastasis, deviation, turn, evolution, revolution</sg>,;
+<sg>diversion</sg>,;
+<sg>break</sg>,;
+<sg>transformation, transfiguration</sg>,;
+<sg>metamorphosis</sg>,;
+<sg>transmutation</sg>,;
+<sg>deoxidization</sg>,;
+<sg>transubstantiation</sg>,;
+<sg>mutagenesis transanimation, transmigration, metempsychosis</sg>,;
+<sg>avatar</sg>,;
+<sg>alterative</sg>,;
+<sg>conversion ,<cref>144 <i>gradual change</i></cref></sg>,;
+<sg>revolution &c (sudden or radical change) 146, inversion ,<cref>218 <i>reversal</i></cref></sg>,;
+<sg>displacement ,<cref> 185 <i>liability</i></cref></sg>,;
+<sg>transference ,<cref> 270 <i>furrow</i></cref></sg>,;
+<sg>changeableness ,<cref> 149 <i>cessation</i></cref></sg>,;
+<sg>tergiversation ,<cref>607 <i>change of mind</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>change, alter, vary, wax and wane</sg>,;
+<sg>modulate, diversify, qualify, tamper with</sg>,;
+<sg>turn, shift, veer, tack, chop, shuffle, swerve, warp, deviate, turn aside, evert, intervert</sg>,;
+<sg>pass to, take a turn, turn the corner, resume</sg>,;
+<sg>work a change, modify, vamp, superinduce</sg>,;
+<sg>transform, transfigure, transmute, transmogrify, transume</sg>,;
+<sg>metamorphose, ring the changes</sg>,;
+<sg>innovate, introduce new blood, shuffle the cards</sg>,;
+<sg>give a turn to, give a color to</sg>,;
+<sg>influence, turn the scale</sg>,;
+<sg>shift the scene, turn over a new leaf</sg>,;
+<sg>recast ,<cref> 146 <i>irregularity of recurrence</i></cref></sg>,;
+<sg>reverse ,<cref> 218 <i>shallowness</i></cref></sg>,;
+<sg>disturb ,<cref> 61 <i>order</i></cref></sg>,;
+<sg>convert into ,<cref> 144 <i>infrequency</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>changed</sg>,;
+<sg>newfangled</sg>,;
+<sg>changeable ,<cref> 149 <i>cessation</i></cref></sg>,;
+<sg>transitional</sg>,;
+<sg>modifiable</sg>,;
+<sg>alterative</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>mutatis mutandis</sg>,;
+<sg>Int</sg>,;
+<sg>quantum mutatus! ,</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>a change came o'er the spirit of my dream</sg>,;
+<sg>nous avons change tout cela</sg>,;
+<sg>tempora mutantur nos et mutamur in illis</sg>,;
+<sg>non sum qualis eram</sg>,;
+<sg>casaque tourner</sg>,;
+<sg>corpora lente augescent cito extinguuntur</sg>,;
+<sg>in statu quo ante bellum</sg>,;
+<sg>still ending and beginning still</sg>,;
+<sg>vox audita perit littera scripta manet</sg>,;
+<br>
+</paragraph>

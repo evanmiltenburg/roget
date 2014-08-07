@@ -1,0 +1,36 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#31#</sectionNumber>
+<headword>#<b>#[001] #771# Lenity #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>lenity, </i>lenience, leniency</sg>,;
+<sg>moderation ,<cref> 174 <i>posterity</i></cref></sg>,;
+<sg>tolerance, toleration</sg>,;
+<sg>mildness, gentleness</sg>,;
+<sg>favor, indulgence, indulgency</sg>,;
+<sg>clemency, mercy, forbearance, quarter</sg>,;
+<sg>compassion ,<cref> 914 <i>nobility</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be lenient</sg>,;
+<sg>tolerate, bear with</sg>,;
+<sg>parcere subjectis, give quarter</sg>,;
+<sg>indulge, allow one to have his own way, spoil</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>lenient</sg>,;
+<sg>mild, mild as milk</sg>,;
+<sg>gentle, soft</sg>,;
+<sg>tolerant, indulgent, easy-going</sg>,;
+<sg>clement ,<cref>914 <i>compassionate</i></cref></sg>,;
+<sg>forbearing</sg>,;
+<sg>long-suffering</sg>,;
+<br>
+</paragraph>

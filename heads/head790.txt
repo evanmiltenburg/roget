@@ -1,0 +1,42 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#31#</sectionNumber>
+<headword>#<b>#[001] #790# Deputy #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>deputy, </i>substitute, vice, proxy, locum tenens, badli, delegate, representative, next friend, surrogate, secondary</sg>,;
+<sg>regent, viceregent, vizier, minister, vicar</sg>,;
+<sg>premier ,<cref>694 <i>director</i></cref></sg>,;
+<sg>chancellor, prefect, provost, warden, lieutenant, archon, consul, proconsul</sg>,;
+<sg>viceroy ,<cref>745 <i>governor</i></cref></sg>,;
+<sg>commissioner ,<cref> 758 <i>completion</i></cref></sg>,;
+<sg>Tsung-li Yamen, Wai Wu Pu</sg>,;
+<sg>plenipotentiary, alter ego</sg>,;
+<sg>team, eight, eleven</sg>,;
+<sg>champion</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be deputy</sg>,;
+<sg>stand for, appear for, hold a brief for, answer for</sg>,;
+<sg>represent</sg>,;
+<sg>stand in the shoes of, walk in the shoes of</sg>,;
+<sg>stand in the stead of</sg>,;
+<sg>ablegate, accredit</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>acting, vice, vice regal</sg>,;
+<sg>accredited to</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>in behalf of</sg>,;
+<br>
+</paragraph>

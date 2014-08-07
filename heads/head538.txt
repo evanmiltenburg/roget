@@ -1,0 +1,72 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#22#</sectionNumber>
+<headword>#<b>#[001] #538# Supposition #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>supposition, </i>assumption, assumed position, postulation, condition, presupposition, hypothesis, blue sky hypothesis, postulate, postulatum, theory</sg>,;
+<sg>thesis, theorem</sg>,;
+<sg>data</sg>,;
+<sg>proposition, position</sg>,;
+<sg>proposal ,<cref>626 <i>plan</i></cref></sg>,;
+<sg>presumption ,<cref>484 <i>belief</i></cref></sg>,;
+<sg>divination</sg>,;
+<sg>conjecture</sg>,;
+<sg>guess, guesswork, speculation</sg>,;
+<sg>rough guess, shot, shot in the dark</sg>,;
+<sg>conjecturality</sg>,;
+<sg>surmise, suspicion, sneaking suspicion</sg>,;
+<sg>estimate, approximation (nearness) 197</sg>,;
+<sg>inkling, suggestion, hint, intimation, notion, impression</sg>,;
+<sg>bare supposition, vague supposition, loose supposition, loose suggestion</sg>,;
+<sg>association of ideas, (analogy) 514</sg>,;
+<sg>1</sg>,;
+<sg>metonym, metonymy, simile (metaphor) 521</sg>,;
+<sg>conceit, idea, thought</sg>,;
+<sg>original idea, invention (imagination) 515</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>suppose, conjecture, surmise, suspect, guess, divine</sg>,;
+<sg>theorize</sg>,;
+<sg>presume, presurmise, presuppose</sg>,;
+<sg>assume, fancy, wis, take it</sg>,;
+<sg>give a guess, speculate, believe, dare say, take it into one's head, take for granted</sg>,;
+<sg>imagine ,<cref> 515 <i>ignorance</i></cref></sg>,;
+<sg>put forth</sg>,;
+<sg>propound, propose</sg>,;
+<sg>start, put a case, submit, move, make a motion</sg>,;
+<sg>hazard out, throw out a suggestion, put forward a suggestion, put forward conjecture</sg>,;
+<sg>allude to, suggest, hint, put it into one's head</sg>,;
+<sg>suggest itself ,<cref>451 <i>thought</i></cref></sg>,;
+<sg>run in the head ,<cref>505 <i>memory</i></cref></sg>,;
+<sg>marvel if, wonder if, wonder whether</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>supposing</sg>,;
+<sg>given, mooted, postulatory</sg>,;
+<sg>assumed</sg>,;
+<sg>supposititious, suppositive, suppositious</sg>,;
+<sg>gratuitous, speculative, conjectural, hypothetical, theoretical, academic, supposable, presumptive, putative</sg>,;
+<sg>suppositional</sg>,;
+<sg>suggestive, allusive</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>if, if so be</sg>,;
+<sg>an</sg>,;
+<sg>on the supposition</sg>,;
+<sg>ex hypothesi</sg>,;
+<sg>in the case, in the event of</sg>,;
+<sg>quasi, as if, provided</sg>,;
+<sg>perhaps ,<cref>470 <i>by possibility</i></cref></sg>,;
+<sg>for aught one knows</sg>,;
+<br>
+</paragraph>

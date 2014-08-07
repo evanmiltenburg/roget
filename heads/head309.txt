@@ -1,0 +1,157 @@
+<classNumber>#2#</classNumber>
+<sectionNumber>#12#</sectionNumber>
+<headword>#<b>#[001] #309# Food #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>food, </i>eating</sg>,;
+<sg>deglutition, gulp, epulation, mastication, manducation, rumination</sg>,;
+<sg>gluttony ,<cref> 957 <i>gratitude</i></cref></sg>,;
+<sg>hippophagy, ichthyophagy</sg>,;
+<sg>(appetite) ,<cref> 865 <i>pleasure</i></cref></sg>,;
+<sg>mouth, jaws, mandible, mazard, gob, chops</sg>,;
+<sg>drinking</sg>,;
+<sg>potation, draught, libation</sg>,;
+<sg>carousal ,<cref>840 <i>amusement</i></cref></sg>,;
+<sg>drunkenness ,<cref> 959 <i>forgiveness</i></cref></sg>,;
+<sg>food, pabulum</sg>,;
+<sg>aliment, nourishment, nutriment</sg>,;
+<sg>sustenance, sustentation, sustention</sg>,;
+<sg>nurture, subsistence, provender, corn, feed, fodder, provision, ration, keep, commons, board</sg>,;
+<sg>commissariat ,<cref>637 <i>provision</i></cref></sg>,;
+<sg>prey, forage, pasture, pasturage</sg>,;
+<sg>fare, cheer</sg>,;
+<sg>diet, dietary</sg>,;
+<sg>regimen</sg>,;
+<sg>belly timber, staff of life</sg>,;
+<sg>bread, bread and cheese</sg>,;
+<sg>comestibles, eatables, victuals, edibles, ingesta</sg>,;
+<sg>grub, grubstake, prog, meat</sg>,;
+<sg>bread, bread stuffs</sg>,;
+<sg>cerealia</sg>,;
+<sg>cereals</sg>,;
+<sg>viands, cates, delicacy, dainty, creature comforts, contents of the larder, fleshpots</sg>,;
+<sg>festal board</sg>,;
+<sg>ambrosia</sg>,;
+<sg>good cheer, good living</sg>,;
+<sg>beef, bisquit, bun</sg>,;
+<sg>cornstarch</sg>,;
+<sg>cookie, cooky</sg>,;
+<sg>cracker, doughnut</sg>,;
+<sg>fatling</sg>,;
+<sg>hardtack, hoecake, hominy</sg>,;
+<sg>mutton, pilot bread</sg>,;
+<sg>pork</sg>,;
+<sg>roti, rusk, ship biscuit</sg>,;
+<sg>veal</sg>,;
+<sg>joint, piece de resistance, roast and boiled</sg>,;
+<sg>remove, entremet, releve, hash, rechauffe, stew, ragout, fricassee, mince</sg>,;
+<sg>pottage, potage, broth, soup, consomme, puree, spoonmeat</sg>,;
+<sg>pie, pasty, volauvent</sg>,;
+<sg>pudding, omelet</sg>,;
+<sg>pastry</sg>,;
+<sg>sweets ,<cref> 296 <i>traction</i></cref></sg>,;
+<sg>kickshaws</sg>,;
+<sg>condiment ,<cref> 393 <i>sensations of touch</i></cref></sg>,;
+<sg>appetizer, hors d'oeuvre</sg>,;
+<sg>main course, entree</sg>,;
+<sg>alligator pear, apple , apple slump</sg>,;
+<sg>artichoke</sg>,;
+<sg>ashcake, griddlecake, pancake, flapjack</sg>,;
+<sg>atole, avocado, banana, beche de mer, barbecue, beefsteak</sg>,;
+<sg>beet root</sg>,;
+<sg>blackberry, blancmange, bloater, bouilli, bouillon, breadfruit, chop suey</sg>,;
+<sg>chowder, chupatty, clam, compote, damper, fish, frumenty, grapes, hasty pudding, ice cream, lettuce, mango, mangosteen, mince pie, oatmeal, oyster, pineapple, porridge, porterhouse steak, salmis, sauerkraut, sea slug, sturgeon ("Albany beef"), succotash, supawn, trepang, vanilla, waffle, walnut</sg>,;
+<sg>table, cuisine, bill of fare, menu, table d'hote, ordinary, entree</sg>,;
+<sg>meal, repast, feed, spread</sg>,;
+<sg>mess</sg>,;
+<sg>dish, plate, course</sg>,;
+<sg>regale</sg>,;
+<sg>regalement, refreshment, entertainment</sg>,;
+<sg>refection, collation, picnic, feast, banquet, junket</sg>,;
+<sg>breakfast</sg>,;
+<sg>lunch, luncheon</sg>,;
+<sg>dejeuner, bever, tiffin, dinner, supper, snack, junk food, fast food, whet, bait, dessert</sg>,;
+<sg>potluck, table d'hote, dejeuner a la fourchette</sg>,;
+<sg>hearty meal, square meal, substantial meal, full meal</sg>,;
+<sg>blowout</sg>,;
+<sg>light refreshment</sg>,;
+<sg>bara, chotahazri</sg>,;
+<sg>bara khana</sg>,;
+<sg>mouthful, bolus, gobbet, morsel, sop, sippet</sg>,;
+<sg>drink, beverage, liquor, broth, soup</sg>,;
+<sg>potion, dram, draught, drench, swill</sg>,;
+<sg>nip, sip, sup, gulp</sg>,;
+<sg>wine, spirits, liqueur, beer, ale, malt liquor, Sir John Barleycorn, stingo, heavy wet</sg>,;
+<sg>grog, toddy, flip, purl, punch, negus, cup, bishop, wassail</sg>,;
+<sg>gin ,<cref>959 <i>intoxicating liquor</i></cref></sg>,;
+<sg>coffee, chocolate, cocoa, tea, the cup that cheers but not inebriates</sg>,;
+<sg>bock beer, lager beer, Pilsener beer, schenck beer</sg>,;
+<sg>Brazil tea, cider, claret, ice water, mate, mint julep</sg>,;
+<sg>near beer, 3</sg>,;
+<sg>2 beer, non- alcoholic beverage</sg>,;
+<sg>eating house ,<cref> 189 <i>inextension</i></cref></sg>,;
+<sg>diner</sg>,;
+<sg>hippophage</sg>,;
+<sg>glutton ,<cref> 957 <i>gratitude</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>eat, feed, fare, devour, swallow, take</sg>,;
+<sg>gulp, bolt, snap</sg>,;
+<sg>fall to</sg>,;
+<sg>despatch, dispatch</sg>,;
+<sg>discuss</sg>,;
+<sg>take down, get down, gulp down</sg>,;
+<sg>lay in, tuck in</sg>,;
+<sg>lick, pick, peck</sg>,;
+<sg>gormandize ,<cref> 957 <i>gratitude</i></cref></sg>,;
+<sg>bite, champ, munch, cranch, craunch, crunch, chew, masticate, nibble, gnaw, mumble</sg>,;
+<sg>live on</sg>,;
+<sg>feed upon, batten upon, fatten upon, feast upon</sg>,;
+<sg>browse, graze, crop, regale</sg>,;
+<sg>carouse ,<cref>840 <i>make merry</i></cref></sg>,;
+<sg>eat heartily, do justice to, play a good knife and fork, banquet</sg>,;
+<sg>break bread, break one's fast</sg>,;
+<sg>breakfast, lunch, dine, take tea, sup</sg>,;
+<sg>drink in, drink up, drink one's fill</sg>,;
+<sg>quaff, sip, sup</sg>,;
+<sg>suck, suck up</sg>,;
+<sg>lap</sg>,;
+<sg>swig</sg>,;
+<sg>swill, chugalug, tipple ,<cref>959 <i>be drunken</i></cref></sg>,;
+<sg>empty one's glass, drain the cup</sg>,;
+<sg>toss off, toss one's glass</sg>,;
+<sg>wash down, crack a bottle, wet one's whistle</sg>,;
+<sg>purvey ,<cref> 637 <i>absence of choice</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>eatable, edible, esculent, comestible, alimentary</sg>,;
+<sg>cereal, cibarious</sg>,;
+<sg>dietetic</sg>,;
+<sg>culinary</sg>,;
+<sg>nutritive, nutritious</sg>,;
+<sg>gastric</sg>,;
+<sg>succulent</sg>,;
+<sg>potable, potulent</sg>,;
+<sg>bibulous</sg>,;
+<sg>omnivorous, carnivorous, herbivorous, granivorous, graminivorous, phytivorous</sg>,;
+<sg>ichthyivorous</sg>,;
+<sg>omophagic, omophagous</sg>,;
+<sg>pantophagous, phytophagous, xylophagous</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>across the walnuts and the wine</sg>,;
+<sg>blessed hour of our dinners!</sg>,;
+<sg>now good digestion wait on appetite, and health on both!</sg>,;
+<sg>who can cloy the hungry edge of appetite? ,</sg>,;
+<br>
+</paragraph>

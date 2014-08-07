@@ -1,0 +1,103 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#29#</sectionNumber>
+<headword>#<b>#[001] #742# Discord #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>discord, </i>disagreement ,<cref> 24 <i>prototype</i></cref></sg>,;
+<sg>discord, disaccord, dissidence, dissonance</sg>,;
+<sg>jar, clash, shock</sg>,;
+<sg>jarring, jostling</sg>,;
+<sg>screw loose</sg>,;
+<sg>variance, difference, dissension, misunderstanding, cross purposes, odds, brouillerie</sg>,;
+<sg>division, split, rupture, disruption, division in the camp, house divided against itself, disunion, breach</sg>,;
+<sg>schism ,<cref>489 <i>dissent</i></cref></sg>,;
+<sg>feud, faction</sg>,;
+<sg>quarrel, dispute, tiff, tracasserie, squabble, altercation, barney, demel_e, snarl, spat, towrow, words, high words</sg>,;
+<sg>wrangling</sg>,;
+<sg>jangle, brabble, cross questions and crooked answers, snip-snap</sg>,;
+<sg>family jars</sg>,;
+<sg>polemics</sg>,;
+<sg>litigation</sg>,;
+<sg>strife ,<cref>720 <i>contention</i></cref></sg>,;
+<sg>warfare ,<cref> 722 <i>direction</i></cref></sg>,;
+<sg>outbreak, open rupture, declaration of war</sg>,;
+<sg>broil, brawl, row, racket, hubbub, rixation</sg>,;
+<sg>embroilment, embranglement, imbroglio, fracas, breach of the peace, piece of work, scrimmage, rumpus</sg>,;
+<sg>breeze, squall</sg>,;
+<sg>riot, disturbance ,<cref>59 <i>disorder</i></cref></sg>,;
+<sg>commotion ,<cref>315 <i>agitation</i></cref></sg>,;
+<sg>bear garden, Donnybrook, Donnybrook Fair</sg>,;
+<sg>subject of dispute, ground of quarrel, battle ground, disputed point</sg>,;
+<sg>bone of contention, bone to pick</sg>,;
+<sg>apple of discord, casus belli</sg>,;
+<sg>question at issue ,<cref>461 <i>subject of inquiry</i></cref></sg>,;
+<sg>vexed question, vexata quaestio, brand of discord</sg>,;
+<sg>troublous times</sg>,;
+<sg>cat-and-dog life</sg>,;
+<sg>contentiousness</sg>,;
+<sg>enmity ,<cref> 889 <i>taste</i></cref></sg>,;
+<sg>hate ,<cref> 898 <i>hopelessness</i></cref></sg>,;
+<sg>Kilkenny cats</sg>,;
+<sg>disputant ,<cref> 710 <i>inaction</i></cref></sg>,;
+<sg>strange bedfellows</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be discordant</sg>,;
+<sg>disagree, come amiss ,<cref> 24 <i>prototype</i></cref></sg>,;
+<sg>clash, jar, jostle, pull different ways, conflict, have no measures with, misunderstand one another</sg>,;
+<sg>live like cat and dog</sg>,;
+<sg>differ</sg>,;
+<sg>dissent ,<cref> 489 <i>measurement</i></cref></sg>,;
+<sg>have a bone to pick, have a crow to pluck with</sg>,;
+<sg>fall out, quarrel, dispute</sg>,;
+<sg>litigate</sg>,;
+<sg>controvert ,<cref>536 <i>deny</i></cref></sg>,;
+<sg>squabble, wrangle, jangle, brangle, bicker, nag</sg>,;
+<sg>spar ,<cref>720 <i>contend</i></cref></sg>,;
+<sg>have words</sg>,;
+<sg>with</sg>,;
+<sg>fall foul of</sg>,;
+<sg>split</sg>,;
+<sg>break with, break squares with, part company with</sg>,;
+<sg>declare war, try conclusions</sg>,;
+<sg>join issue, put in issue</sg>,;
+<sg>pick a quarrel, fasten a quarrel on</sg>,;
+<sg>sow dissension, stir up dissension</sg>,;
+<sg>embroil, entangle, disunite, widen the breach</sg>,;
+<sg>set at odds, set together by the ears</sg>,;
+<sg>set against, pit against</sg>,;
+<sg>get into hot water, fish in troubled waters, brawl</sg>,;
+<sg>kick up a row, kick up a dust</sg>,;
+<sg>turn the house out of window</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>discordant</sg>,;
+<sg>disagreeing</sg>,;
+<sg>out of tune, ajar, on bad terms, dissentient ,<cref> 489 <i>measurement</i></cref></sg>,;
+<sg>unreconciled, unpacified</sg>,;
+<sg>contentious ,<cref> 720 <i>workshop</i></cref></sg>,;
+<sg>quarrelsome, unpacific</sg>,;
+<sg>gladiatorial, controversial, polemic, disputatious</sg>,;
+<sg>factious</sg>,;
+<sg>litigious, litigant</sg>,;
+<sg>pettifogging</sg>,;
+<sg>at odds, at loggerheads, at daggers drawn, at variance, at issue, at cross purposes, at sixes and sevens, at feud, at high words</sg>,;
+<sg>up in arms, together by the ears, in hot water, embroiled</sg>,;
+<sg>torn, disunited</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>quot homines tot sententiae</sg>,;
+<sg>no love lost between them, non nostrum tantas componere lites</sg>,;
+<sg>Mars gravior sub pace latet</sg>,;
+<br>
+</paragraph>

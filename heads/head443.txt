@@ -1,0 +1,31 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#15#</sectionNumber>
+<headword>#<b>#[001] #443# Transparency #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>transparence, transparency</sg>,;
+<sg>clarity</sg>,;
+<sg>translucence, translucency</sg>,;
+<sg>diaphaneity</sg>,;
+<sg>lucidity, pellucidity, limpidity</sg>,;
+<sg>fluorescence</sg>,;
+<sg>transillumination, translumination</sg>,;
+<sg>transparent medium, glass, crystal, lymph, vitrite, water</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be transparent</sg>,;
+<sg>transmit light</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>transparent, pellucid, lucid, diaphanous, translucent, tralucent, relucent</sg>,;
+<sg>limpid, clear, serene, crystalline, clear as crystal, vitreous, transpicuous, glassy, hyaline</sg>,;
+<sg>hyaloid, vitreform</sg>,;
+<br>
+</paragraph>

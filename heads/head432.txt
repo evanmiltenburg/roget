@@ -1,0 +1,35 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#15#</sectionNumber>
+<headword>#<b>#[001] #432# Discord #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>discord, </i>discordance</sg>,;
+<sg>dissonance, cacophony, want of harmony, caterwauling</sg>,;
+<sg>harshness ,<cref> 410 <i>savoriness</i></cref></sg>,;
+<sg>Babel, Dutch concert, cat's concert</sg>,;
+<sg>marrowbones and cleavers</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be discordant</sg>,;
+<sg>jar ,<cref>410 <i>sound harshly</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>discordant</sg>,;
+<sg>dissonant, absonant</sg>,;
+<sg>out of tune, tuneless</sg>,;
+<sg>unmusical, untunable</sg>,;
+<sg>unmelodious, immelodious</sg>,;
+<sg>unharmonious, inharmonious</sg>,;
+<sg>singsong</sg>,;
+<sg>cacophonous</sg>,;
+<sg>harsh ,<cref> 410 <i>savoriness</i></cref></sg>,;
+<sg>jarring</sg>,;
+<br>
+</paragraph>

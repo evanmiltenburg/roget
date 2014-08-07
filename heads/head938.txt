@@ -1,0 +1,20 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#37#</sectionNumber>
+<headword>#<b>#[001] #938# Favorite #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>favorite, </i>pet, cosset, minion, idol, jewel, spoiled child, enfant gat_e</sg>,;
+<sg>led captain</sg>,;
+<sg>crony</sg>,;
+<sg>fondling</sg>,;
+<sg>apple of one's eye, man after one's own heart</sg>,;
+<sg>persona grata</sg>,;
+<sg>love,, dear, darling, duck, duckey, honey, sugar, jewel</sg>,;
+<sg>mopsey, moppet, princess</sg>,;
+<sg>sweetheart, sweetie ,<cref>897 <i>love</i></cref></sg>,;
+<sg>teacher's pet</sg>,;
+<sg>general favorite, universal favorite</sg>,;
+<sg>idol of the people</sg>,;
+<br>
+</paragraph>

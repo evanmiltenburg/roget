@@ -1,0 +1,66 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#3#</sectionNumber>
+<headword>#<b>#[001] #54# Part #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>part, </i>portion</sg>,;
+<sg>dose</sg>,;
+<sg>item, particular</sg>,;
+<sg>aught, any</sg>,;
+<sg>division, ward</sg>,;
+<sg>subdivision, section</sg>,;
+<sg>chapter, clause, count, paragraph, verse</sg>,;
+<sg>article, passage</sg>,;
+<sg>sector, segment</sg>,;
+<sg>fraction, fragment</sg>,;
+<sg>cantle, frustum</sg>,;
+<sg>detachment, parcel</sg>,;
+<sg>piece, lump, bit cut, cutting</sg>,;
+<sg>chip, chunk, collop, slice, scale</sg>,;
+<sg>lamina ,<cref> 204 <i>contraction</i></cref></sg>,;
+<sg>small part</sg>,;
+<sg>morsel, particle ,<cref>32 <i>smallness</i></cref></sg>,;
+<sg>installment, dividend</sg>,;
+<sg>share ,<cref>786 <i>allotment</i></cref></sg>,;
+<sg>debris, odds and ends, oddments, detritus</sg>,;
+<sg>excerpta</sg>,;
+<sg>member, limb, lobe, lobule, arm, wing, scion, branch, bough, joint, link, offshoot, ramification, twig, bush, spray, sprig</sg>,;
+<sg>runner</sg>,;
+<sg>leaf, leaflet</sg>,;
+<sg>stump</sg>,;
+<sg>component part ,<cref> 56 <i>incompleteness</i></cref></sg>,;
+<sg>sarmentum</sg>,;
+<sg>compartment</sg>,;
+<sg>department ,<cref>75 <i>class</i></cref></sg>,;
+<sg>county ,<cref>181 <i>region</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>part, divide, break ,<cref>44 <i>disjoin</i></cref></sg>,;
+<sg>partition ,<cref>786 <i>apportion</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>fractional, fragmentary</sg>,;
+<sg>sectional, aliquot</sg>,;
+<sg>divided</sg>,;
+<sg>in compartments, multifid</sg>,;
+<sg>disconnected</sg>,;
+<sg>partial</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>partly, in part, partially</sg>,;
+<sg>piecemeal, part by part</sg>,;
+<sg>by by installments, by snatches, by inches, by driblets</sg>,;
+<sg>bit by bit, inch by inch, foot by foot, drop by drop</sg>,;
+<sg>in detail, in lots</sg>,;
+<br>
+</paragraph>

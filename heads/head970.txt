@@ -1,0 +1,75 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#38#</sectionNumber>
+<headword>#<b>#[001] #970# Respect #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>respect, </i>regard, consideration</sg>,;
+<sg>courtesy ,<cref> 894 <i>affectation</i></cref></sg>,;
+<sg>attention, deference, reverence, honor, esteem, estimation, veneration, admiration</sg>,;
+<sg>approbation ,<cref> 931 <i>sociality</i></cref></sg>,;
+<sg>homage, fealty, obeisance, genuflection, kneeling prostration</sg>,;
+<sg>obsequiousness ,<cref> 886 <i>jewelry</i></cref></sg>,;
+<sg>salaam, kowtow, bow, presenting arms, salute</sg>,;
+<sg>respects, regards, duty, devoirs, egards</sg>,;
+<sg>devotion ,<cref>987 <i>piety</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>respect, regard</sg>,;
+<sg>revere, reverence</sg>,;
+<sg>hold in reverence, honor, venerate, hallow</sg>,;
+<sg>esteem ,<cref>931 <i>approve of</i></cref></sg>,;
+<sg>think much of</sg>,;
+<sg>entertain respect for, bear respect for</sg>,;
+<sg>look up to, defer to</sg>,;
+<sg>have a high opinion of, hold a high opinion of</sg>,;
+<sg>pay attention, pay respect</sg>,;
+<sg>to</sg>,;
+<sg>do honor to, render honor to</sg>,;
+<sg>do the honors, hail</sg>,;
+<sg>show courtesy ,<cref> 894 <i>affectation</i></cref></sg>,;
+<sg>salute, present arms</sg>,;
+<sg>do homage to, pay homage to</sg>,;
+<sg>pay tribute to, kneel to, bow to, bend the knee to</sg>,;
+<sg>fall down before, prostrate oneself, kiss the hem of one's garment</sg>,;
+<sg>worship ,<cref> 990 <i>good man</i></cref></sg>,;
+<sg>keep one's distance, make room, observe due decorum, stand upon ceremony</sg>,;
+<sg>command respect, inspire respect</sg>,;
+<sg>awe, inspire awe, impose, overawe, dazzle</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>respecting</sg>,;
+<sg>respectful, deferential, decorous, reverential, obsequious, ceremonious, bareheaded, cap in hand, on one's knees</sg>,;
+<sg>prostrate ,<cref>886 <i>servile</i></cref></sg>,;
+<sg>respected</sg>,;
+<sg>in high esteem, in high estimation</sg>,;
+<sg>time-honored, venerable, emeritus</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>in deference to</sg>,;
+<sg>with all respect, with all due respect, with due respect, with the highest respect</sg>,;
+<sg>with submission</sg>,;
+<sg>saving your grace, saving your presence</sg>,;
+<sg>salva sit reverentia</sg>,;
+<sg>pace tanti nominis</sg>,;
+<sg>Int</sg>,;
+<sg>hail!, all hail!, esto perpetua!, may your shadow never be less!,</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>and pluck up drowned honor by the locks</sg>,;
+<sg>his honor rooted in dishonor stood</sg>,;
+<sg>honor pricks me on</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,52 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#36#</sectionNumber>
+<headword>#<b>#[001] #881# Dullness #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>dullness, </i>heaviness, flatness</sg>,;
+<sg>infestivity &c 837, stupidity ,<cref> 499 <i>reasoning,</i></cref></sg>,;
+<sg>want of originality</sg>,;
+<sg>dearth of ideas</sg>,;
+<sg>prose, matter of fact</sg>,;
+<sg>heavy book, conte a dormir debout</sg>,;
+<sg>platitude</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be dull</sg>,;
+<sg>prose, take au serieux, be caught napping</sg>,;
+<sg>render dull</sg>,;
+<sg>damp, depress, throw cold water on, lay a wet blanket on</sg>,;
+<sg>fall flat upon the ear</sg>,;
+<sg>no joke, serious matter (importance) 642</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>dull, dull as ditch water</sg>,;
+<sg>unentertaining, uninteresting, flat, dry as dust</sg>,;
+<sg>unfunny, unlively, logy</sg>,;
+<sg>unimaginative</sg>,;
+<sg>insulse</sg>,;
+<sg>dry as dust</sg>,;
+<sg>prosy, prosing, prosaic</sg>,;
+<sg>matter of fact, commonplace, pedestrian, pointless</sg>,;
+<sg>weary stale flat and unprofitable</sg>,;
+<sg>stupid, slow, flat, insipid, vapid, humdrum, monotonous</sg>,;
+<sg>melancholic ,<cref> 837 <i>treasury</i></cref></sg>,;
+<sg>stolid ,<cref> 499 <i>reasoning,</i></cref></sg>,;
+<sg>plodding</sg>,;
+<sg>boring, tiresome, tedious ,<cref> 841 <i>debt</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>davus sum non Aedipus</sg>,;
+<sg>deadly dull and boring, DDB</sg>,;
+<br>
+</paragraph>

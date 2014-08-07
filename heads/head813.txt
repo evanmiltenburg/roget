@@ -1,0 +1,102 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#34#</sectionNumber>
+<headword>#<b>#[001] #813# Property #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>property, </i>possession, suum cuique, meum et tuum</sg>,;
+<sg>ownership, proprietorship, lordship</sg>,;
+<sg>seignority</sg>,;
+<sg>empire ,<cref>737 <i>dominion</i></cref></sg>,;
+<sg>interest, stake, estate, right, title, claim, demand, holding</sg>,;
+<sg>tenure ,<cref>777 <i>possession</i></cref></sg>,;
+<sg>vested interest, contingent interest, beneficial interest, equitable interest</sg>,;
+<sg>use, trust, benefit</sg>,;
+<sg>legal estate, equitable estate</sg>,;
+<sg>seizin, seisin</sg>,;
+<sg>absolute interest, paramount estate, freehold</sg>,;
+<sg>fee tail, fee simple</sg>,;
+<sg>estate in fee, estate in tail, estate tail</sg>,;
+<sg>estate in tail male, estate in tail female, estate in tail general</sg>,;
+<sg>limitation, term, lease, settlement, strict settlement, particular estate</sg>,;
+<sg>estate for life, estate for years, estate pur autre vie</sg>,;
+<sg>remainder, reversion, expectancy, possibility</sg>,;
+<sg>dower, dowry, jointure, appanage, inheritance, heritage, patrimony, alimony</sg>,;
+<sg>legacy ,<cref>784 <i>gift</i></cref></sg>,;
+<sg>Falcidian law, paternal estate, thirds</sg>,;
+<sg>assets, belongings, means, resources, circumstances</sg>,;
+<sg>wealth ,<cref> 803 <i>security</i></cref></sg>,;
+<sg>money ,<cref> 800 <i>release from engagement</i></cref></sg>,;
+<sg>what one is worth, what one will cut up for</sg>,;
+<sg>estate and effects</sg>,;
+<sg>landed property, landed real estate property</sg>,;
+<sg>realty</sg>,;
+<sg>land, lands</sg>,;
+<sg>tenements</sg>,;
+<sg>hereditaments</sg>,;
+<sg>corporeal hereditaments, incorporeal hereditaments</sg>,;
+<sg>acres</sg>,;
+<sg>ground ,<cref>342 <i>earth</i></cref></sg>,;
+<sg>acquest, messuage, toft</sg>,;
+<sg>territory, state, kingdom, principality, realm, empire, protectorate, sphere of influence</sg>,;
+<sg>manor, honor, domain, demesne</sg>,;
+<sg>farm, plantation, hacienda</sg>,;
+<sg>allodium ,<cref>748 <i>free</i></cref></sg>,;
+<sg>fief, fieff, feoff, feud, zemindary, dependency</sg>,;
+<sg>arado, merestead, ranch</sg>,;
+<sg>free lease-holds, copy lease-holds</sg>,;
+<sg>folkland</sg>,;
+<sg>chattels real</sg>,;
+<sg>fixtures, plant, heirloom</sg>,;
+<sg>easement</sg>,;
+<sg>right of common, right of user</sg>,;
+<sg>personal property, personal estate, personal effects</sg>,;
+<sg>personalty, chattels, goods, effects, movables</sg>,;
+<sg>stock, stock in trade</sg>,;
+<sg>things, traps, rattletraps, paraphernalia</sg>,;
+<sg>equipage ,<cref> 633 <i>obstinacy</i></cref></sg>,;
+<sg>parcels, appurtenances</sg>,;
+<sg>impedimenta</sg>,;
+<sg>luggage, baggage</sg>,;
+<sg>bag and baggage</sg>,;
+<sg>pelf</sg>,;
+<sg>cargo, lading</sg>,;
+<sg>rent roll</sg>,;
+<sg>income ,<cref>810 <i>receipts</i></cref></sg>,;
+<sg>maul and wedges</sg>,;
+<sg>patent, copyright</sg>,;
+<sg>chose in action</sg>,;
+<sg>credit ,<cref> 805 <i>nonobservance</i></cref></sg>,;
+<sg>debt ,<cref> 806 <i>compromise</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>possess ,<cref> 777 <i>servant</i></cref></sg>,;
+<sg>be the possessor of ,<cref> 779 <i>freedom</i></cref>, own</sg>,;
+<sg>have for one's own, have for one's very own</sg>,;
+<sg>come in for, inherit</sg>,;
+<sg>savor of the realty</sg>,;
+<sg>be one's property</sg>,;
+<sg>belong to</sg>,;
+<sg>appertain to, pertain to</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>one's own</sg>,;
+<sg>landed, predial, manorial, allodial</sg>,;
+<sg>free lease-hold, copy lease-hold</sg>,;
+<sg>feudal, feodal</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>to one's credit, to one's account</sg>,;
+<sg>to the good</sg>,;
+<sg>to one and his heirs for ever, to one and the heirs of his body, to one and his heirs and assigns, to one and his executors administrators and assigns</sg>,;
+<br>
+</paragraph>

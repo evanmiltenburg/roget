@@ -1,0 +1,87 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#36#</sectionNumber>
+<headword>#<b>#[001] #902# Rashness #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>rashness</i></sg>,;
+<sg>temerity, want of caution, imprudence, indiscretion</sg>,;
+<sg>overconfidence, presumption, audacity</sg>,;
+<sg>precipitancy, precipitation</sg>,;
+<sg>impetuosity</sg>,;
+<sg>levity</sg>,;
+<sg>foolhardihood, foolhardiness</sg>,;
+<sg>heedlessness, thoughtlessness ,<cref>458 <i>inattention</i></cref></sg>,;
+<sg>carelessness ,<cref>460 <i>neglect</i></cref></sg>,;
+<sg>desperation</sg>,;
+<sg>Quixotism, knight-errantry</sg>,;
+<sg>fire eating</sg>,;
+<sg>gaming, gambling</sg>,;
+<sg>blind bargain, leap in the dark, leap of faith, fool's paradise</sg>,;
+<sg>too many eggs in one basket</sg>,;
+<sg>desperado, rashling, madcap, daredevil, Hotspur, fire eater, bully, bravo, Hector, scapegrace, enfant perdu</sg>,;
+<sg>Don Quixote, knight-errant, Icarus</sg>,;
+<sg>adventurer</sg>,;
+<sg>gambler, gamester</sg>,;
+<sg>dynamitard</sg>,;
+<sg>boomer</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be rash</sg>,;
+<sg>stick at nothing, play a desperate game</sg>,;
+<sg>run into danger ,<cref> 665 <i>store</i></cref></sg>,;
+<sg>play with fire, play with edge tools</sg>,;
+<sg>carry too much sail, sail too near the wind, ride at single anchor, go out of one's depth</sg>,;
+<sg>take a leap in the dark, buy a pig in a poke</sg>,;
+<sg>donner tete baissee</sg>,;
+<sg>knock, one's bead against a wall ,<cref>699 <i>be unskillful</i></cref></sg>,;
+<sg>rush on destruction</sg>,;
+<sg>kick against the pricks, tempt Providence, go on a forlorn hope, go on a fool's errand</sg>,;
+<sg>reckon one's chickens before they are hatched, count one's chickens before they are hatched, reckon without one's host</sg>,;
+<sg>catch at straws</sg>,;
+<sg>trust to a broken reed, lean on a broken reed</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>rash, incautious, indiscreet</sg>,;
+<sg>imprudent, improvident, temerarious</sg>,;
+<sg>uncalculating</sg>,;
+<sg>heedless</sg>,;
+<sg>careless ,<cref>460 <i>neglectful</i></cref></sg>,;
+<sg>without ballast, heels over head, head over heels</sg>,;
+<sg>giddy ,<cref>458 <i>inattentive</i></cref></sg>,;
+<sg>wanton, reckless, wild, madcap</sg>,;
+<sg>desperate, devil-may-care</sg>,;
+<sg>hot-blooded, hotheaded, hotbrained</sg>,;
+<sg>headlong, headstrong</sg>,;
+<sg>breakneck</sg>,;
+<sg>foolhardy</sg>,;
+<sg>harebrained</sg>,;
+<sg>precipitate, impulsive</sg>,;
+<sg>overconfident, overweening</sg>,;
+<sg>venturesome, venturous</sg>,;
+<sg>adventurous, Quixotic, fire eating, cavalier</sg>,;
+<sg>janty, jaunty, free and easy</sg>,;
+<sg>off one's guard ,<cref>508 <i>inexpectant</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>post haste, a corps perdu, hand over head, tete baissee, headforemost</sg>,;
+<sg>happen what may, come what may</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>neck or nothing, the devil being in one</sg>,;
+<sg>non semper temeritas est felix</sg>,;
+<sg>paucis temeritas est bono multis malo</sg>,;
+<br>
+</paragraph>

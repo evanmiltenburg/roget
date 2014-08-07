@@ -1,0 +1,30 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#25#</sectionNumber>
+<headword>#<b>#[001] #585# Artist #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>artist</i></sg>,;
+<sg>painter, limner, drawer, sketcher, designer, engraver</sg>,;
+<sg>master, old master</sg>,;
+<sg>draftsman, draughtsman</sg>,;
+<sg>copyist, dauber, hack</sg>,;
+<sg>enamel, enameler, enamelist</sg>,;
+<sg>caricaturist</sg>,;
+<sg>historical painter, landscape painter, marine painter, flower painter, portrait painter, miniature painter, miniaturist, scene painter, sign painter, coach painter</sg>,;
+<sg>engraver</sg>,;
+<sg>Apelles</sg>,;
+<sg>sculptor, carver, chaser, modeler, figuriste, statuary</sg>,;
+<sg>Phidias, Praxiteles</sg>,;
+<sg>Royal Academician</sg>,;
+<sg>photographer, cinematographer, lensman, cameraman, camera technician, camera buff</sg>,;
+<sg>wildlife photographer</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>photo safari</sg>,;
+<sg>with gun and camera</sg>,;
+<br>
+</paragraph>

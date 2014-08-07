@@ -1,0 +1,38 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#8#</sectionNumber>
+<headword>#<b>#[001] #174# Posterity #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>posterity, </i>progeny, breed, issue, offspring, brood, litter, seed, farrow, spawn, spat</sg>,;
+<sg>family, grandchildren, heirs</sg>,;
+<sg>great-grandchild</sg>,;
+<sg>child, son, daughter</sg>,;
+<sg>butcha</sg>,;
+<sg>bantling, scion</sg>,;
+<sg>acrospire, plumule, shoot, sprout, olive-branch, sprit, branch</sg>,;
+<sg>off-shoot, off- set</sg>,;
+<sg>ramification</sg>,;
+<sg>descendant</sg>,;
+<sg>heir, heiress</sg>,;
+<sg>heir-apparent, heir- presumptive</sg>,;
+<sg>chip off the old block</sg>,;
+<sg>heredity</sg>,;
+<sg>rising generation</sg>,;
+<sg>straight descent, sonship, line, lineage, filiation, primogeniture</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>filial</sg>,;
+<sg>diphyletic</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>the child is father of the man</sg>,;
+<sg>the fruit doesn't fall far from the tree, like father, like son</sg>,;
+<br>
+</paragraph>

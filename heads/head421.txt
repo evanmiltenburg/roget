@@ -1,0 +1,69 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#15#</sectionNumber>
+<headword>#<b>#[001] #421# Loudness #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>loudness, </i>power</sg>,;
+<sg>loud noise, din</sg>,;
+<sg>blare</sg>,;
+<sg>clang, clangor</sg>,;
+<sg>clatter, noise, bombilation, roar, uproar, racket, hubbub, bobbery, fracas, charivari, trumpet blast, flourish of trumpets, fanfare, tintamarre, peal, swell, blast, larum, boom</sg>,;
+<sg>bang (explosion) 406</sg>,;
+<sg>resonance ,<cref> 408 <i>bitterness</i></cref></sg>,;
+<sg>vociferation, hullabaloo, ,<cref> 411 <i>unsavoriness</i></cref></sg>,;
+<sg>lungs</sg>,;
+<sg>Stentor</sg>,;
+<sg>artillery, cannon</sg>,;
+<sg>thunder</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be loud</sg>,;
+<sg>peal, swell, clang, boom, thunder, blare, fulminate, roar</sg>,;
+<sg>resound ,<cref> 408 <i>bitterness</i></cref></sg>,;
+<sg>speak up, shout ,<cref>411 <i>vociferate</i></cref></sg>,;
+<sg>bellow ,<cref>412 <i>cry as an animal</i></cref></sg>,;
+<sg>rend the air, rend the skies</sg>,;
+<sg>fill the air</sg>,;
+<sg>din in the ear, ring in the ear, thunder in the ear</sg>,;
+<sg>pierce the ears, split the ears, rend the ears, split the head</sg>,;
+<sg>deafen, stun</sg>,;
+<sg>faire le diable a quatre</sg>,;
+<sg>make one's windows shake, rattle the windows</sg>,;
+<sg>awaken the echoes, startle the echoes</sg>,;
+<sg>wake the dead</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>loud, sonorous</sg>,;
+<sg>high-sounding, big-sounding</sg>,;
+<sg>deep, full, powerful, noisy, blatant, clangorous, multisonous</sg>,;
+<sg>thundering, deafening</sg>,;
+<sg>trumpet-tongued</sg>,;
+<sg>ear-splitting, ear-rending, ear-deafening</sg>,;
+<sg>piercing</sg>,;
+<sg>obstreperous, rackety, uproarious</sg>,;
+<sg>enough to wake the dead, enough to wake seven sleepers</sg>,;
+<sg>shrill &c 410 clamorous ,<cref>411 <i>vociferous</i></cref> stentorian, stentorophonic</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>loudly</sg>,;
+<sg>aloud</sg>,;
+<sg>at the top of one's voice, at the top of one's lungs, lustily, in full cry</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>the air rings with</sg>,;
+<sg>the deep dread-bolted thunder</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,24 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#37#</sectionNumber>
+<headword>#<b>#[001] #951# Misanthropy #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>misanthropy, </i>incivism</sg>,;
+<sg>egotism ,<cref>943 <i>selfishness</i></cref></sg>,;
+<sg>moroseness ,<cref> 901 <i>cowardice</i></cref></sg>,;
+<sg>1</sg>,;
+<sg>cynicism</sg>,;
+<sg>misanthrope, misanthropist, egotist, cynic, man hater, Timon, Diogenes</sg>,;
+<sg>woman hater, misogynist</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>misanthropic, antisocial, unpatriotic</sg>,;
+<sg>egotistical ,<cref>943 <i>selfish</i></cref></sg>,;
+<sg>morose ,<cref> 901 <i>cowardice</i></cref></sg>,;
+<sg>1</sg>,;
+<br>
+</paragraph>

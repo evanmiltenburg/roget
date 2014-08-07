@@ -1,0 +1,96 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#8#</sectionNumber>
+<headword>#<b>#[001] #164# Power #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>power</i></sg>,;
+<sg>potency, potentiality</sg>,;
+<sg>jiva</sg>,;
+<sg>puissance, might, force, energy ,<cref> 171 <i>producer</i></cref></sg>,;
+<sg>dint</sg>,;
+<sg>right hand, right arm</sg>,;
+<sg>ascendency, sway, control</sg>,;
+<sg>prepotency, prepollence</sg>,;
+<sg>almightiness, omnipotence</sg>,;
+<sg>authority ,<cref> 737 <i>opposition</i></cref></sg>,;
+<sg>strength ,<cref> 159 <i>destiny</i></cref></sg>,;
+<sg>ability</sg>,;
+<sg>ableness</sg>,;
+<sg>competency</sg>,;
+<sg>efficacy</sg>,;
+<sg>efficiency, productivity, expertise (skill) 698</sg>,;
+<sg>validity, cogency</sg>,;
+<sg>enablement</sg>,;
+<sg>vantage ground</sg>,;
+<sg>influence ,<cref> 175 <i>productiveness</i></cref></sg>,;
+<sg>pressure</sg>,;
+<sg>conductivity</sg>,;
+<sg>elasticity</sg>,;
+<sg>gravity, electricity, magnetism, galvanism, voltaic electricity, voltaism, electromagnetism</sg>,;
+<sg>atomic power, nuclear power, thermonuclear power</sg>,;
+<sg>fuel cell</sg>,;
+<sg>hydraulic power, water power, hydroelectric power</sg>,;
+<sg>solar power, solar energy, solar panels</sg>,;
+<sg>tidal power</sg>,;
+<sg>wind power</sg>,;
+<sg>attraction</sg>,;
+<sg>vis inertiae, vis mortua, vis viva</sg>,;
+<sg>potential energy, dynamic energy</sg>,;
+<sg>dynamic friction, dynamic suction</sg>,;
+<sg>live circuit, live rail, live wire</sg>,;
+<sg>capability, capacity</sg>,;
+<sg>quid valeant humeri quid ferre recusent</sg>,;
+<sg>faculty, quality, attribute, endowment, virtue, gift, property, qualification, susceptibility</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be powerful</sg>,;
+<sg>gain power</sg>,;
+<sg>belong to, pertain to</sg>,;
+<sg>lie in one's power, be in one's power</sg>,;
+<sg>can, be able</sg>,;
+<sg>give power, confer power, exercise power</sg>,;
+<sg>empower, enable, invest</sg>,;
+<sg>indue, endue</sg>,;
+<sg>endow, arm</sg>,;
+<sg>strengthen ,<cref> 159 <i>destiny</i></cref></sg>,;
+<sg>compel ,<cref> 744 <i>defiance</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>powerful, puissant</sg>,;
+<sg>potential</sg>,;
+<sg>capable, able</sg>,;
+<sg>equal to, up to</sg>,;
+<sg>cogent, valid</sg>,;
+<sg>efficient, productive</sg>,;
+<sg>effective, effectual, efficacious, adequate, competent</sg>,;
+<sg>multipotent, plenipotent, omnipotent</sg>,;
+<sg>almighty</sg>,;
+<sg>forcible</sg>,;
+<sg>(energetic) 171</sg>,;
+<sg>influential ,<cref> 175 <i>productiveness</i></cref></sg>,;
+<sg>productive ,<cref> 168 <i>production</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>powerfully</sg>,;
+<sg>by virtue of, by dint of</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>a toute force</sg>,;
+<sg>dos moi pou sto kai kino ten gen</sg>,;
+<sg>eripuit coelo fulmen sceptrumque tyrannis</sg>,;
+<sg>fortis cadere cedere non potest</sg>,;
+<br>
+</paragraph>

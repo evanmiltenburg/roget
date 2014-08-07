@@ -1,0 +1,49 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#7#</sectionNumber>
+<headword>#<b>#[001] #154# Substitution #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>substitution, </i>commutation</sg>,;
+<sg>supplanting</sg>,;
+<sg>metaphor, metonymy ,<cref>521 <i>figure of speech</i></cref></sg>,;
+<sg>substitute, ersatz, makeshift, temporary expedient, replacement, succedaneum</sg>,;
+<sg>shift, pis aller, stopgap, jury rigging, jury mast, locum tenens, warming pan, dummy, scapegoat</sg>,;
+<sg>double</sg>,;
+<sg>changeling</sg>,;
+<sg>quid pro quo, alternative</sg>,;
+<sg>representative ,<cref>759 <i>deputy</i></cref></sg>,;
+<sg>palimpsest</sg>,;
+<sg>price, purchase money, consideration, equivalent</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>substitute, put in the place of, change for</sg>,;
+<sg>make way for, give place to</sg>,;
+<sg>supply the place of, take the place of</sg>,;
+<sg>supplant, supersede, replace, cut out, serve as a substitute</sg>,;
+<sg>step into stand in the shoes of</sg>,;
+<sg>jury rig, make a shift with, put up with</sg>,;
+<sg>borrow from Peter to pay Paul, take money out of one pocket and put it in another, cannibalize</sg>,;
+<sg>commute, redeem, compound for</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>substituted </sg>,;
+<sg>ersatz</sg>,;
+<sg>phony</sg>,;
+<sg>vicarious, subdititious</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>instead</sg>,;
+<sg>in place of, in lieu of, in the stead of, in the room of</sg>,;
+<sg>faute de mieux</sg>,;
+<br>
+</paragraph>

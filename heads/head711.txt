@@ -1,0 +1,170 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#28#</sectionNumber>
+<headword>#<b>#[001] #711# Activity #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>activity</i></sg>,;
+<sg>briskness, liveliness</sg>,;
+<sg>animation, life, vivacity, spirit, dash, energy</sg>,;
+<sg>snap, vim</sg>,;
+<sg>nimbleness, agility</sg>,;
+<sg>smartness, quickness</sg>,;
+<sg>velocity, ,<cref> 274 <i>stopper</i></cref></sg>,;
+<sg>alacrity, promptitude</sg>,;
+<sg>despatch, dispatch</sg>,;
+<sg>expedition</sg>,;
+<sg>haste ,<cref> 684 <i>disease</i></cref></sg>,;
+<sg>punctuality ,<cref>132 <i>early</i></cref></sg>,;
+<sg>eagerness, zeal, ardor, perfervidum aingenium, empressement, earnestness, intentness</sg>,;
+<sg>abandon</sg>,;
+<sg>vigor ,<cref>171 <i>physical energy</i></cref></sg>,;
+<sg>devotion ,<cref>604 <i>resolution</i></cref></sg>,;
+<sg>exertion ,<cref> 686 <i>insalubrity</i></cref></sg>,;
+<sg>industry, assiduity</sg>,;
+<sg>assiduousness</sg>,;
+<sg>sedulity</sg>,;
+<sg>laboriousness</sg>,;
+<sg>drudgery ,<cref>686 <i>labor</i></cref></sg>,;
+<sg>painstaking, diligence</sg>,;
+<sg>perseverance ,<cref> 604 <i>elegance</i></cref></sg>,;
+<sg>1</sg>,;
+<sg>indefatigation</sg>,;
+<sg>habits of business</sg>,;
+<sg>vigilance ,<cref> 459 <i>variegation</i></cref></sg>,;
+<sg>wakefulness</sg>,;
+<sg>sleeplessness, restlessness</sg>,;
+<sg>insomnia</sg>,;
+<sg>pervigilium, insomnium</sg>,;
+<sg>racketing</sg>,;
+<sg>movement, bustle, stir, fuss, ado, bother, pottering, fidget, fidgetiness</sg>,;
+<sg>flurry ,<cref>684 <i>haste</i></cref></sg>,;
+<sg>officiousness</sg>,;
+<sg>dabbling, meddling</sg>,;
+<sg>interference, interposition, intermeddling</sg>,;
+<sg>tampering with, intrigue</sg>,;
+<sg>press of business, no sinecure, plenty to do, many irons in the fire, great doings, busy hum of men, battle of life, thick of the action</sg>,;
+<sg>housewife, busy bee</sg>,;
+<sg>new brooms</sg>,;
+<sg>sharp fellow, sharp blade</sg>,;
+<sg>devotee, enthusiast, zealot, meddler, intermeddler, intriguer, busybody, pickthank</sg>,;
+<sg>hummer, hustler, live man, rustler</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be active</sg>,;
+<sg>busy oneself in</sg>,;
+<sg>stir, stir about, stir one's stumps</sg>,;
+<sg>bestir oneself, rouse oneself</sg>,;
+<sg>speed, hasten, peg away, lay about one, bustle, fuss</sg>,;
+<sg>raise up, kick up a dust</sg>,;
+<sg>push</sg>,;
+<sg>make a push, make a fuss, make a stir</sg>,;
+<sg>go ahead, push forward</sg>,;
+<sg>fight one's way, elbow one's way</sg>,;
+<sg>make progress ,<cref> 282 <i>carrier</i></cref></sg>,;
+<sg>toll ,<cref>686 <i>labor</i></cref></sg>,;
+<sg>plod, persist ,<cref>604 <i>persevere</i></cref></sg>,;
+<sg>1</sg>,;
+<sg>keep up the ball, keep the pot boiling</sg>,;
+<sg>look sharp</sg>,;
+<sg>have all one's eyes about one ,<cref>459 <i>vigilance</i></cref></sg>,;
+<sg>rise, arouse oneself, hustle, get up early, be about, keep moving, steal a march, kill two birds with one stone</sg>,;
+<sg>seize the opportunity ,<cref> 134 <i>age</i></cref>, lose no time, not lose a moment, make the most of one's time, not suffer the grass to grow under one's feet, improve the shining hour, make short work of</sg>,;
+<sg>dash off</sg>,;
+<sg>make haste ,<cref> 684 <i>disease</i></cref></sg>,;
+<sg>do one's best take pains ,<cref>686 <i>exert oneself</i></cref></sg>,;
+<sg>do wonders, work wonders</sg>,;
+<sg>have many irons in the fire, have one's hands full, have much on one's hands</sg>,;
+<sg>have other things to do, have other fish to fry</sg>,;
+<sg>be busy</sg>,;
+<sg>not have a moment to spare, not have a moment that one can call one's own</sg>,;
+<sg>have one's fling, run the round of</sg>,;
+<sg>go all lengths, stick at nothing, run riot</sg>,;
+<sg>outdo</sg>,;
+<sg>overdo, overact, overlay, overshoot the mark</sg>,;
+<sg>make a toil of a pleasure</sg>,;
+<sg>have a hand in ,<cref>680 <i>act in</i></cref></sg>,;
+<sg>take an active part, put in one's oar, have a finger in the pie, mix oneself up with, trouble, one's head about, intrigue</sg>,;
+<sg>agitate</sg>,;
+<sg>tamper with, meddle, moil</sg>,;
+<sg>intermeddle, interfere, interpose</sg>,;
+<sg>obtrude</sg>,;
+<sg>poke one's nose in, thrust one's nose in</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>active, brisk, brisk as a lark, brisk as a bee</sg>,;
+<sg>lively, animated, vivacious</sg>,;
+<sg>alive, alive and kicking</sg>,;
+<sg>frisky, spirited, stirring</sg>,;
+<sg>nimble, nimble as a squirrel</sg>,;
+<sg>agile</sg>,;
+<sg>light-footed, nimble-footed</sg>,;
+<sg>featly, tripping</sg>,;
+<sg>quick, prompt, yare, instant, ready, alert, spry, sharp, smart</sg>,;
+<sg>fast ,<cref>274 <i>swift</i></cref></sg>,;
+<sg>quick as a lamplighter, expeditious</sg>,;
+<sg>awake, broad awake</sg>,;
+<sg>go-ahead, live wide-awake ,<cref>498 <i>intelligent</i></cref></sg>,;
+<sg>forward, eager, strenuous, zealous, enterprising, in earnest</sg>,;
+<sg>resolute ,<cref> 604 <i>elegance</i></cref></sg>,;
+<sg>industrious, assiduous, diligent, sedulous, notable, painstaking</sg>,;
+<sg>intent ,<cref>457 <i>attention</i></cref></sg>,;
+<sg>indefatigable ,<cref>604 <i>persevering</i></cref></sg>,;
+<sg>1</sg>,;
+<sg>unwearied</sg>,;
+<sg>unsleeping, never tired</sg>,;
+<sg>plodding, hard-working ,<cref> 686 <i>insalubrity</i></cref></sg>,;
+<sg>businesslike, workaday</sg>,;
+<sg>bustling</sg>,;
+<sg>restless, restless as a hyena</sg>,;
+<sg>fussy, fidgety, pottering</sg>,;
+<sg>busy, busy as hen with one chicken</sg>,;
+<sg>working, at work, on duty, in harness</sg>,;
+<sg>up in arms</sg>,;
+<sg>on one's legs, at call</sg>,;
+<sg>up and doing, up and stirring</sg>,;
+<sg>busy, occupied</sg>,;
+<sg>hard at work, hard at it</sg>,;
+<sg>up to one's ears in, full of business, busy as a bee, busy as a one-armed paperhanger</sg>,;
+<sg>meddling</sg>,;
+<sg>meddlesome, pushing, officious, overofficious, intrigant</sg>,;
+<sg>astir, stirring</sg>,;
+<sg>agoing, afoot</sg>,;
+<sg>on foot</sg>,;
+<sg>in full swing</sg>,;
+<sg>eventful</sg>,;
+<sg>on the alert, ,<cref>459 <i>vigilant</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>actively</sg>,;
+<sg>with life and spirit, with might and main &c 686, with haste ,<cref> 684 <i>disease</i></cref>, with wings</sg>,;
+<sg>full tilt, in mediis rebus</sg>,;
+<sg>Int</sg>,;
+<sg>be alive, look alive, look sharp!, move on, push on!, keep moving!, go ahead!, stir your stumps!, age quod agis!, jaldi!, karo!, step lively!,</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>carpe diem, seize the day</sg>,;
+<sg>,<cref>134 <i>opportunity</i></cref> nulla dies sine linea</sg>,;
+<sg>nec mora nec requies</sg>,;
+<sg>the plot thickens</sg>,;
+<sg>No sooner said than done ,<cref>132 <i>early</i></cref></sg>,;
+<sg>veni vidi vici</sg>,;
+<sg>catch a weasel asleep</sg>,;
+<sg>abends wird der Faule fleissig</sg>,;
+<sg>dictum ac factum</sg>,;
+<sg>schwere Arbeit in der Jugend ist sanfte Ruhe im Alter, hard work in youth means soft rest in age</sg>,;
+<sg>the busy hum of men</sg>,;
+<br>
+</paragraph>

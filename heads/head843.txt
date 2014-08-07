@@ -1,0 +1,53 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#34#</sectionNumber>
+<headword>#<b>#[001] #843# Nonpayment #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>nonpayment</i></sg>,;
+<sg>default, defalcation</sg>,;
+<sg>protest, repudiation</sg>,;
+<sg>application of the sponge</sg>,;
+<sg>whitewashing</sg>,;
+<sg>insolvency, bankruptcy, failure</sg>,;
+<sg>insufficiency ,<cref> 640 <i>impulse</i></cref></sg>,;
+<sg>run upon a bank</sg>,;
+<sg>overdrawn account</sg>,;
+<sg>waste paper bonds</sg>,;
+<sg>dishonored bills, protested bills</sg>,;
+<sg>bogus check, bogus cheque, rubber check</sg>,;
+<sg>bankrupt, insolvent, debtor, lame duck, man of straw, welsher, stag, defaulter, levanter</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>not pay ,<cref> 807 <i>acquisition</i></cref></sg>,;
+<sg>fail, break, stop payment</sg>,;
+<sg>become insolvent, become bankrupt</sg>,;
+<sg>be gazetted</sg>,;
+<sg>protest, dishonor, repudiate, nullify, refuse payment</sg>,;
+<sg>pay under protest</sg>,;
+<sg>button up one's pockets, draw the purse strings</sg>,;
+<sg>apply the sponge</sg>,;
+<sg>pay over the left shoulder, get whitewashed</sg>,;
+<sg>swindle ,<cref> 791 <i>permission</i></cref></sg>,;
+<sg>run up bills, fly kites</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>not paying, non-paying, non-performing</sg>,;
+<sg>in debt ,<cref> 806 <i>compromise</i></cref></sg>,;
+<sg>behindhand, in arrear, behind in payments, in arrears</sg>,;
+<sg>beggared ,<cref>804 <i>poor</i></cref></sg>,;
+<sg>unable to make both ends meet, minus</sg>,;
+<sg>worse than nothing</sg>,;
+<sg>worthless</sg>,;
+<sg>insolvent, bankrupt, in the gazette, gazetted</sg>,;
+<sg>unpaid ,<cref>806 <i>outstanding</i></cref></sg>,;
+<sg>gratis ,<cref> 815 <i>relinquishment</i></cref></sg>,;
+<sg>unremunerated</sg>,;
+<br>
+</paragraph>

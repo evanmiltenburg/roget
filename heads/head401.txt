@@ -1,0 +1,41 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#15#</sectionNumber>
+<headword>#<b>#[001] #401# Fuel #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>fuel, </i>firing, combustible</sg>,;
+<sg>coal, wallsend, anthracite, culm, coke, carbon, charcoal, bituminous coal, tar shale</sg>,;
+<sg>turf, peat, firewood, bobbing, faggot, log</sg>,;
+<sg>cinder ,<cref>384 <i>products of combustion</i></cref></sg>,;
+<sg>ingle, tinder, touchwood</sg>,;
+<sg>sulphur, brimstone</sg>,;
+<sg>incense</sg>,;
+<sg>port-fire</sg>,;
+<sg>fire-barrel, fireball, brand</sg>,;
+<sg>amadou, bavin</sg>,;
+<sg>blind coal, glance coal</sg>,;
+<sg>German tinder, pyrotechnic sponge, punk, smudge</sg>,;
+<sg>solid fueled rocket</sg>,;
+<sg>wax, paraffin wax, paraffin oil</sg>,;
+<sg>lamp oil, whale oil</sg>,;
+<sg>oil, petroleum, gasoline, high octane gasoline, nitromethane, petrol, gas, juice, gasohol, alcohol, ethanol, methanol, fuel oil, kerosene, jet fuel, heating oil, number 2 oil, number 4 oil, naphtha</sg>,;
+<sg>rocket fuel, high specific impulse fuel, liquid hydrogen, liquid oxygen, lox</sg>,;
+<sg>natural gas, synthetic gas, synthesis gas, propane, butane, hydrogen</sg>,;
+<sg>brand, torch, fuse</sg>,;
+<sg>wick</sg>,;
+<sg>spill, match, light, lucifer, congreve, vesuvian, vesta, fusee, locofoco</sg>,;
+<sg>linstock</sg>,;
+<sg>candle ,<cref>423 <i>luminary</i></cref></sg>,;
+<sg>oil ,<cref>356 <i>grease</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>carbonaceous</sg>,;
+<sg>combustible, inflammable</sg>,;
+<sg>high octane, high specific impulse</sg>,;
+<sg>heat of combustion,</sg>,;
+<br>
+</paragraph>

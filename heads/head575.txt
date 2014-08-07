@@ -1,0 +1,71 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#24#</sectionNumber>
+<headword>#<b>#[001] #575# Exaggeration #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>exaggeration</i></sg>,;
+<sg>expansion ,<cref> 194 <i>displacement</i></cref></sg>,;
+<sg>hyperbole, stretch, strain, coloring</sg>,;
+<sg>high coloring, caricature, caricatura</sg>,;
+<sg>extravagance ,<cref>497 <i>nonsense</i></cref></sg>,;
+<sg>Baron Munchausen</sg>,;
+<sg>men in buckram, yarn, fringe, embroidery, traveler's tale</sg>,;
+<sg>fish story, gooseberry</sg>,;
+<sg>storm in a teacup</sg>,;
+<sg>much ado about nothing ,<cref>482 <i>overestimation</i></cref></sg>,;
+<sg>puff, puffery ,<cref>884 <i>boasting</i></cref></sg>,;
+<sg>rant ,<cref>577 <i>turgescence</i></cref></sg>,;
+<sg>figure of speech, facon de parler</sg>,;
+<sg>stretch of fancy, stretch of the imagination</sg>,;
+<sg>flight of fancy ,<cref>515 <i>imagination</i></cref></sg>,;
+<sg>false coloring ,<cref>544 <i>falsehood</i></cref></sg>,;
+<sg>aggravation ,<cref> 835 <i>money</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>exaggerate, magnify, pile up, aggravate</sg>,;
+<sg>amplify ,<cref>194 <i>expand</i></cref></sg>,;
+<sg>overestimate ,<cref> 482 <i>answer</i></cref></sg>,;
+<sg>hyperbolize</sg>,;
+<sg>overcharge, overstate, overdraw, overlay, overshoot the mark, overpraise</sg>,;
+<sg>make over much, over the most of</sg>,;
+<sg>strain, strain over a point</sg>,;
+<sg>stretch, stretch a point</sg>,;
+<sg>go great lengths</sg>,;
+<sg>spin a long yarn</sg>,;
+<sg>draw with a longbow, shoot with a longbow</sg>,;
+<sg>deal in the marvelous</sg>,;
+<sg>out-Herod Herod, run riot, talk at random</sg>,;
+<sg>heighten, overcolor</sg>,;
+<sg>color highly, color too highly</sg>,;
+<sg>broder</sg>,;
+<sg>flourish</sg>,;
+<sg>color ,<cref>544 <i>misrepresent</i></cref></sg>,;
+<sg>puff ,<cref>884 <i>boast</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>exaggerated</sg>,;
+<sg>overwrought</sg>,;
+<sg>bombastic ,<cref>577 <i>grandiloquent</i></cref></sg>,;
+<sg>hyperbolical, on stilts</sg>,;
+<sg>fabulous, extravagant, preposterous, egregious, outre, highflying</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>hyperbolically</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>excitabat enim fluctus in simpulo</sg>,;
+<br>
+</paragraph>

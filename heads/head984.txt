@@ -1,0 +1,49 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#38#</sectionNumber>
+<headword>#<b>#[001] #984# Disinterestedness #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>disinterestedness</i></sg>,;
+<sg>generosity</sg>,;
+<sg>liberality, liberalism</sg>,;
+<sg>altruism</sg>,;
+<sg>benevolence ,<cref> 906 <i>dislike</i></cref></sg>,;
+<sg>elevation, loftiness of purpose, exaltation, magnanimity</sg>,;
+<sg>chivalry, chivalrous spirit</sg>,;
+<sg>heroism, sublimity</sg>,;
+<sg>self-denial, self-abnegation, self-sacrifice, self-immolation, self-control ,<cref>604 <i>resolution</i></cref></sg>,;
+<sg>stoicism, devotion, martyrdom, suttee</sg>,;
+<sg>labor of love</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be disinterested</sg>,;
+<sg>make a sacrifice, lay one's head on the block</sg>,;
+<sg>put oneself in the place of others, do as one would be done by, do unto others as we would men should do unto us</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>disinterested</sg>,;
+<sg>unselfish</sg>,;
+<sg>self-denying, self-sacrificing, self- devoted</sg>,;
+<sg>generous</sg>,;
+<sg>handsome, liberal, noble, broad-minded</sg>,;
+<sg>noble-minded, high-minded</sg>,;
+<sg>princely, great, high, elevated, lofty, exalted, spirited, stoical, magnanimous</sg>,;
+<sg>great-hearted, large-hearted</sg>,;
+<sg>chivalrous, heroic, sublime</sg>,;
+<sg>unbought, unbribed</sg>,;
+<sg>uncorrupted ,<cref>939 <i>upright</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>non vobis solum</sg>,;
+<br>
+</paragraph>

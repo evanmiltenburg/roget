@@ -1,0 +1,62 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#4#</sectionNumber>
+<headword>#<b>#[001] #74# Discontinuity #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>discontinuity</i></sg>,;
+<sg>disjunction ,<cref> 44 <i>mixture</i></cref></sg>,;
+<sg>anacoluthon</sg>,;
+<sg>interruption, break, fracture, flaw, fault, crack, cut</sg>,;
+<sg>gap ,<cref>198 <i>interval</i></cref></sg>,;
+<sg>solution of continuity, caesura</sg>,;
+<sg>broken thread</sg>,;
+<sg>parenthesis, episode, rhapsody, patchwork</sg>,;
+<sg>intermission</sg>,;
+<sg>alternation ,<cref>138 <i>periodicity</i></cref></sg>,;
+<sg>dropping fire</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be discontinuous</sg>,;
+<sg>alternate, intermit, sputter, stop and start, hesitate</sg>,;
+<sg>discontinue, pause, interrupt</sg>,;
+<sg>intervene</sg>,;
+<sg>break, break in upon, break off</sg>,;
+<sg>interpose ,<cref> 228 <i>inversion</i></cref></sg>,;
+<sg>break the thread, snap the thread</sg>,;
+<sg>disconnect ,<cref>44 <i>disjoin</i></cref></sg>,;
+<sg>dissever</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>discontinuous, unsuccessive, broken, interrupted, dicousu</sg>,;
+<sg>disconnected, unconnected</sg>,;
+<sg>discrete, disjunctive</sg>,;
+<sg>fitful ,<cref>139 <i>irregular</i></cref></sg>,;
+<sg>spasmodic, desultory</sg>,;
+<sg>intermitting, occasional</sg>,;
+<sg>, intermittent</sg>,;
+<sg>alternate</sg>,;
+<sg>recurrent ,<cref>138 <i>periodic</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>at intervals</sg>,;
+<sg>by snatches, by jerks, by skips, by catches, by fits and starts</sg>,;
+<sg>skippingly, per saltum</sg>,;
+<sg>longo intervallo</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>like 'angel visits few and far between'</sg>,;
+<br>
+</paragraph>

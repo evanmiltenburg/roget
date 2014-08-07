@@ -1,0 +1,86 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#26#</sectionNumber>
+<headword>#<b>#[001] #628# Willingness #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>willingness, </i>voluntariness</sg>,;
+<sg>willing mind, heart</sg>,;
+<sg>disposition, inclination, leaning, animus</sg>,;
+<sg>frame of mind, humor, mood, vein</sg>,;
+<sg>bent ,<cref>820 <i>turn of mind</i></cref></sg>,;
+<sg>penchant ,<cref>865 <i>desire</i></cref></sg>,;
+<sg>aptitude ,<cref> 698 <i>alarm</i></cref></sg>,;
+<sg>docility, docibleness</sg>,;
+<sg>persuasibleness, persuasibility</sg>,;
+<sg>pliability ,<cref>324 <i>softness</i></cref></sg>,;
+<sg>geniality, cordiality</sg>,;
+<sg>goodwill</sg>,;
+<sg>alacrity, readiness, earnestness, forwardness</sg>,;
+<sg>eagerness ,<cref>865 <i>desire</i></cref></sg>,;
+<sg>asset ,<cref> 488 <i>identification</i></cref></sg>,;
+<sg>compliance ,<cref> 762 <i>trophy</i></cref></sg>,;
+<sg>pleasure ,<cref>600 <i>will</i></cref></sg>,;
+<sg>gratuitous service</sg>,;
+<sg>labor of love</sg>,;
+<sg>volunteer, volunteering</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be willing</sg>,;
+<sg>incline, lean to, mind, propend</sg>,;
+<sg>had as lief</sg>,;
+<sg>lend a willing ear, give a willing ear, turn a willing ear</sg>,;
+<sg>have a half a mind to, have a great mind to</sg>,;
+<sg>hold to, cling to</sg>,;
+<sg>desire ,<cref> 865 <i>pleasure</i></cref></sg>,;
+<sg>see fit, think good, think proper</sg>,;
+<sg>acquiesce ,<cref>488 <i>assent</i></cref></sg>,;
+<sg>comply with ,<cref> 762 <i>trophy</i></cref></sg>,;
+<sg>swallow the bait, nibble at the bait</sg>,;
+<sg>gorge the hook</sg>,;
+<sg>have no scruple of, make no scruple of</sg>,;
+<sg>make no bones of</sg>,;
+<sg>jump at, catch at</sg>,;
+<sg>meet halfway</sg>,;
+<sg>volunteer</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>willing, minded, fain, disposed, inclined, favorable</sg>,;
+<sg>favorably- minded, favorably inclined, favorably disposed</sg>,;
+<sg>nothing loth</sg>,;
+<sg>in the vein, in the mood, in the humor, in the mind</sg>,;
+<sg>ready, forward, earnest, eager</sg>,;
+<sg>bent upon ,<cref>865 <i>desirous</i></cref></sg>,;
+<sg>predisposed, propense</sg>,;
+<sg>docile</sg>,;
+<sg>persuadable, persuasible</sg>,;
+<sg>suasible, easily persuaded, facile, easy-going</sg>,;
+<sg>tractable ,<cref>324 <i>pliant</i></cref></sg>,;
+<sg>genial, gracious, cordial, cheering, hearty</sg>,;
+<sg>content ,<cref>488 <i>assenting</i></cref></sg>,;
+<sg>voluntary, gratuitous, spontaneous</sg>,;
+<sg>unasked &c (ask) ,<cref> 765 <i>mediocrity</i></cref></sg>,;
+<sg>unforced ,<cref>748 <i>free</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>willingly</sg>,;
+<sg>fain, freely, as lief, heart and soul</sg>,;
+<sg>with pleasure, with all one's heart, with open arms</sg>,;
+<sg>with good will, with right will</sg>,;
+<sg>de bonne volonte, ex animo</sg>,;
+<sg>con amore, heart in hand, nothing loth, without reluctance, of one's own accord, graciously, with a good grace</sg>,;
+<sg>a la bonne heure</sg>,;
+<sg>by all means, by all manner of means</sg>,;
+<sg>to one's heart's content</sg>,;
+<sg>yes ,<cref>488 <i>assent</i></cref></sg>,;
+<br>
+</paragraph>

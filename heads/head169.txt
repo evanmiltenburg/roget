@@ -1,0 +1,131 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#8#</sectionNumber>
+<headword>#<b>#[001] #169# Destruction #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>destruction</i></sg>,;
+<sg>waste, dissolution, breaking up</sg>,;
+<sg>diruption, disruption</sg>,;
+<sg>consumption</sg>,;
+<sg>disorganization</sg>,;
+<sg>fall, downfall, devastation, ruin, perdition, crash</sg>,;
+<sg>eboulement, smash, havoc, delabrement, debacle</sg>,;
+<sg>break down, break up, fall apart</sg>,;
+<sg>prostration</sg>,;
+<sg>desolation, bouleversement, wreck, wrack, shipwreck, cataclysm</sg>,;
+<sg>washout</sg>,;
+<sg>extinction, annihilation</sg>,;
+<sg>destruction of life ,<cref> 361 <i>conduit</i></cref></sg>,;
+<sg>knock-down blow</sg>,;
+<sg>doom, crack of doom</sg>,;
+<sg>destroying</sg>,;
+<sg>demolition, demolishment</sg>,;
+<sg>overthrow, subversion, suppression</sg>,;
+<sg>abolition ,<cref>756 <i>abrogation</i></cref></sg>,;
+<sg>biblioclasm</sg>,;
+<sg>sacrifice</sg>,;
+<sg>ravage, razzia</sg>,;
+<sg>inactivation</sg>,;
+<sg>incendiarism</sg>,;
+<sg>revolution ,<cref> 146 <i>irregularity of recurrence</i></cref></sg>,;
+<sg>extirpation ,<cref>301 <i>extraction</i></cref></sg>,;
+<sg>beginning of the end, commencement de la fin, road to ruin</sg>,;
+<sg>dilapidation ,<cref>659 <i>deterioration</i></cref></sg>,;
+<sg>sabotage</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be destroyed </sg>,;
+<sg>perish</sg>,;
+<sg>fall to the ground</sg>,;
+<sg>tumble, topple</sg>,;
+<sg>go to pieces, fall to pieces</sg>,;
+<sg>break up</sg>,;
+<sg>crumble to dust</sg>,;
+<sg>go to the dogs, go to the wall, go to smash, go to shivers, go to wreck, go to pot, go to wrack and ruin</sg>,;
+<sg>go by the board, go all to smash</sg>,;
+<sg>be all over, be all up, be all with</sg>,;
+<sg>totter to its fall</sg>,;
+<sg>destroy</sg>,;
+<sg>do away with, make away with</sg>,;
+<sg>nullify</sg>,;
+<sg>annual ,<cref> 756 <i>arms</i></cref></sg>,;
+<sg>sacrifice, demolish</sg>,;
+<sg>tear up</sg>,;
+<sg>overturn, overthrow, overwhelm</sg>,;
+<sg>upset, subvert, put an end to</sg>,;
+<sg>seal the doom of, do in, do for, dish, undo</sg>,;
+<sg>break up, cut up</sg>,;
+<sg>break down, cut down, pull down, mow down, blow down, beat down</sg>,;
+<sg>suppress, quash, put down, do a job on</sg>,;
+<sg>cut short, take off, blot out</sg>,;
+<sg>dispel, dissipate, dissolve</sg>,;
+<sg>consume</sg>,;
+<sg>smash, crash, quell, squash, squelch, crumple up, shatter, shiver</sg>,;
+<sg>batter to pieces, tear to pieces, crush to pieces, cut to pieces, shake to pieces, pull to pieces, pick to pieces</sg>,;
+<sg>laniate</sg>,;
+<sg>nip</sg>,;
+<sg>tear to rags, tear to tatters</sg>,;
+<sg>crush to atoms, knock to atoms</sg>,;
+<sg>ruin</sg>,;
+<sg>strike out</sg>,;
+<sg>throw over, knock down over</sg>,;
+<sg>fell, sink, swamp, scuttle, wreck, shipwreck, engulf, ingulf, submerge</sg>,;
+<sg>lay in ashes, lay in ruins</sg>,;
+<sg>sweep away, erase, wipe out, expunge, raze</sg>,;
+<sg>level with the dust, level with the ground</sg>,;
+<sg>waste</sg>,;
+<sg>atomize, vaporize</sg>,;
+<sg>deal destruction, desolate, devastate, lay waste, ravage gut</sg>,;
+<sg>disorganize</sg>,;
+<sg>dismantle ,<cref>645 <i>render useless</i></cref></sg>,;
+<sg>devour, swallow up, sap, mine, blast, bomb, blow to smithereens, drop the big one, confound</sg>,;
+<sg>exterminate, extinguish, quench, annihilate</sg>,;
+<sg>snuff out, put out, stamp out, trample out</sg>,;
+<sg>lay in the dust, trample in the dust</sg>,;
+<sg>prostrate</sg>,;
+<sg>tread under foot</sg>,;
+<sg>crush under foot, trample under foot</sg>,;
+<sg>lay the ax to the root of</sg>,;
+<sg>make short work of, make clean sweep of, make mincemeat of</sg>,;
+<sg>cut up root and branch, chop into pieces, cut into ribbons</sg>,;
+<sg>fling to the winds, scatter to the winds</sg>,;
+<sg>throw overboard</sg>,;
+<sg>strike at the root of, sap the foundations of, spring a mine, blow up, ravage with fire and sword</sg>,;
+<sg>cast to the dogs</sg>,;
+<sg>eradicate ,<cref> 301 <i>convergence</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>destroyed</sg>,;
+<sg>perishing</sg>,;
+<sg>trembling to its fall, nodding to its fall, tottering to its fall</sg>,;
+<sg>in course of destruction</sg>,;
+<sg>extinct</sg>,;
+<sg>all-destroying, all-devouring, all-engulfing</sg>,;
+<sg>destructive, subversive, ruinous, devastating</sg>,;
+<sg>incendiary, deletory</sg>,;
+<sg>destroying</sg>,;
+<sg>suicidal</sg>,;
+<sg>deadly ,<cref>361 <i>killing</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>with crushing effect, with a sledge hammer</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>delenda est Carthago</sg>,;
+<sg>dum Roma deliberat Saguntum perit</sg>,;
+<sg>ecrasez l'infame</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,25 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#36#</sectionNumber>
+<headword>#<b>#[001] #896# Laughingstock #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>laughingstock, </i>jestingstock, gazingstock</sg>,;
+<sg>butt, game, fair game</sg>,;
+<sg>April fool ,<cref>547 <i>dupe</i></cref></sg>,;
+<sg>original, oddity</sg>,;
+<sg>queer fish, odd fish</sg>,;
+<sg>quiz, square toes</sg>,;
+<sg>old monkey, old fogey, fogey monkey, fogy monkey</sg>,;
+<sg>buffoon ,<cref>844 <i>jester</i></cref></sg>,;
+<sg>pantomimist ,<cref>599 <i>actor</i></cref></sg>,;
+<sg>schlemiel</sg>,;
+<sg>jest ,<cref>842 <i>wit</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>dum vitant stulti vitia in contraria currunt</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,64 @@
+<classNumber>#2#</classNumber>
+<sectionNumber>#11#</sectionNumber>
+<headword>#<b>#[001] #266# Smoothness #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>smoothness</i></sg>,;
+<sg>polish, gloss</sg>,;
+<sg>lubricity, lubrication</sg>,;
+<sg>down, velvet, velure, silk, satin</sg>,;
+<sg>velveteen, velour, velours, velumen</sg>,;
+<sg>glass, ice</sg>,;
+<sg>slide</sg>,;
+<sg>bowling green ,<cref>213 <i>level</i></cref></sg>,;
+<sg>asphalt, wood pavement, flagstone, flags</sg>,;
+<sg>roller, steam roller, lawn roller, rolling pin, rolling mill</sg>,;
+<sg>sand paper, emery paper, emery cloth, sander</sg>,;
+<sg>flat iron, sad iron</sg>,;
+<sg>burnisher, turpentine and beeswax</sg>,;
+<sg>polish, shoe polish</sg>,;
+<sg>lapidary</sg>,;
+<sg>lapidary, lapidarian</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>smooth, smoothen</sg>,;
+<sg>plane</sg>,;
+<sg>file</sg>,;
+<sg>mow, shave</sg>,;
+<sg>level, roll</sg>,;
+<sg>macadamize</sg>,;
+<sg>polish, burnish, calender, glaze</sg>,;
+<sg>iron, hot-press, mangle</sg>,;
+<sg>lubricate ,<cref>332 <i>oil</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>smooth</sg>,;
+<sg>polished</sg>,;
+<sg>leiodermatous, slick, velutinous</sg>,;
+<sg>even</sg>,;
+<sg>level ,<cref> 213 <i>layer</i></cref></sg>,;
+<sg>plane ,<cref>251 <i>flat</i></cref></sg>,;
+<sg>sleek, glossy</sg>,;
+<sg>silken, silky</sg>,;
+<sg>lanate, downy, velvety</sg>,;
+<sg>glabrous, slippery, glassy, lubricous, oily, soft, unwrinkled</sg>,;
+<sg>smooth as glass, smooth as ice, smooth as monumental alabaster, smooth as velvet, smooth as oil</sg>,;
+<sg>slippery as an eel</sg>,;
+<sg>woolly ,<cref>256 <i>feathery</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>smooth as silk</sg>,;
+<sg>slippery as coonshit on a pump handle</sg>,;
+<sg>slippery as a greased pig</sg>,;
+<br>
+</paragraph>

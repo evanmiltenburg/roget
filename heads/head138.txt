@@ -1,0 +1,78 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#6#</sectionNumber>
+<headword>#<b>#[001] #138# Earliness #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>earliness</i></sg>,;
+<sg>morning ,<cref> 125 <i>different time</i></cref></sg>,;
+<sg>punctuality</sg>,;
+<sg>promptitude ,<cref>682 <i>activity</i></cref></sg>,;
+<sg>haste ,<cref>274 <i>velocity</i></cref></sg>,;
+<sg>suddenness ,<cref>113 <i>instantaneity</i></cref></sg>,;
+<sg>prematurity, precocity, precipitation, anticipation</sg>,;
+<sg>a stitch in time</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be early</sg>,;
+<sg>, be beforehand</sg>,;
+<sg>keep time, take time by the forelock, anticipate, forestall</sg>,;
+<sg>have the start, gain the start</sg>,;
+<sg>steal a march upon</sg>,;
+<sg>gain time, draw on futurity</sg>,;
+<sg>bespeak, secure, engage, preengage</sg>,;
+<sg>accelerate</sg>,;
+<sg>expedite ,<cref>274 <i>quicken</i></cref></sg>,;
+<sg>make haste ,<cref>684 <i>hurry</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>early, prime, forward</sg>,;
+<sg>prompt ,<cref>682 <i>active</i></cref></sg>,;
+<sg>summary</sg>,;
+<sg>premature, precipitate, precocious</sg>,;
+<sg>prevenient, anticipatory</sg>,;
+<sg>rath</sg>,;
+<sg>sudden ,<cref>113 <i>instantaneous</i></cref></sg>,;
+<sg>unexpected ,<cref> 508 <i>belief</i></cref></sg>,;
+<sg>near, near at hand</sg>,;
+<sg>immediate</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>early, soon, anon, betimes, rath</sg>,;
+<sg>eft, eftsoons</sg>,;
+<sg>ere long, before long, shortly</sg>,;
+<sg>beforehand</sg>,;
+<sg>prematurely</sg>,;
+<sg>precipitately ,<cref>684 <i>hastily</i></cref></sg>,;
+<sg>too soon</sg>,;
+<sg>before its time, before one's time</sg>,;
+<sg>in anticipation</sg>,;
+<sg>unexpectedly ,<cref> 508 <i>belief</i></cref></sg>,;
+<sg>suddenly ,<cref>113 <i>instantaneously</i></cref></sg>,;
+<sg>before one can say 'Jack Robinson', at short notice, extempore</sg>,;
+<sg>on the spur of the moment, on the spur of the occasion</sg>,;
+<sg>at once</sg>,;
+<sg>on the spot, on the instant</sg>,;
+<sg>at sight</sg>,;
+<sg>offhand, out of hand</sg>,;
+<sg>a' vue d'oeil</sg>,;
+<sg>straight, straightway, straightforth</sg>,;
+<sg>forthwith, incontinently, summarily, immediately, briefly, shortly, quickly, speedily, apace, before the ink is dry, almost immediately, presently at the first opportunity, in no long time, by and by, in a while, directly</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>no sooner said than done, immediately, if not sooner</sg>,;
+<sg>tout vient a temps pour qui sait attendre</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,35 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#38#</sectionNumber>
+<headword>#<b>#[001] #1003# Purity #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>purity</i></sg>,;
+<sg>decency, decorum, delicacy</sg>,;
+<sg>continence, chastity, honesty, virtue, modesty, shame</sg>,;
+<sg>pudicity, pucelage, virginity</sg>,;
+<sg>vestal, virgin, Joseph, Hippolytus</sg>,;
+<sg>Lucretia, Diana</sg>,;
+<sg>prude</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>pure, undefiled, modest, delicate, decent, decorous</sg>,;
+<sg>virginibus puerisque</sg>,;
+<sg>simon-pure</sg>,;
+<sg>chaste, continent, virtuous, honest, Platonic</sg>,;
+<sg>virgin, unsullied</sg>,;
+<sg>cherry</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>as chaste as unsunn'd snow</sg>,;
+<sg>a soul as white as heaven</sg>,;
+<sg>'tis Chastity, my brother, Chastity</sg>,;
+<sg>to the pure all things are pure</sg>,;
+<br>
+</paragraph>

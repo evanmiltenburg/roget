@@ -1,0 +1,56 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#25#</sectionNumber>
+<headword>#<b>#[001] #609# Stammering #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>stammering, </i>inarticulateness</sg>,;
+<sg>stammering</sg>,;
+<sg>hesitation</sg>,;
+<sg>impediment in one's speech</sg>,;
+<sg>titubancy, traulism</sg>,;
+<sg>whisper ,<cref>405 <i>faint sound</i></cref></sg>,;
+<sg>lisp, drawl, tardiloquence</sg>,;
+<sg>nasal tone, nasal accent</sg>,;
+<sg>twang</sg>,;
+<sg>falsetto ,<cref>581 <i>want of voice</i></cref></sg>,;
+<sg>broken voice, broken accents, broken sentences</sg>,;
+<sg>brogue ,<cref> 563 <i>teaching</i></cref></sg>,;
+<sg>slip of the tongue, lapsus linouae</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>stammer, stutter, hesitate, falter, hammer</sg>,;
+<sg>balbutiate, balbucinate, haw, hum and haw, be unable to put two words together</sg>,;
+<sg>mumble, mutter</sg>,;
+<sg>maud, mauder</sg>,;
+<sg>whisper ,<cref> 405 <i>insipidity</i></cref></sg>,;
+<sg>mince, lisp</sg>,;
+<sg>jabber, gibber</sg>,;
+<sg>sputter, splutter</sg>,;
+<sg>muffle, mump</sg>,;
+<sg>drawl, mouth</sg>,;
+<sg>croak</sg>,;
+<sg>speak thick, speak through the nose</sg>,;
+<sg>snuffle, clip one's words</sg>,;
+<sg>murder the language, murder the King's English, murder the Queen's English</sg>,;
+<sg>mispronounce, missay</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>stammering</sg>,;
+<sg>inarticulate, guttural, nasal</sg>,;
+<sg>tremulous</sg>,;
+<sg>affected</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>sotto voce ,<cref>405 <i>faintly</i></cref></sg>,;
+<br>
+</paragraph>

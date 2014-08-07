@@ -1,0 +1,47 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#15#</sectionNumber>
+<headword>#<b>#[001] #416# Fragrance #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>fragrance, </i>aroma, redolence, perfume, bouquet, essence, scent</sg>,;
+<sg>sweet smell, aromatic perfume</sg>,;
+<sg>agalloch, agallochium</sg>,;
+<sg>aloes wood</sg>,;
+<sg>bay rum</sg>,;
+<sg>calambac, calambour</sg>,;
+<sg>champak, horehound, lign-aloes, marrubium, mint, muskrat, napha water, olibanum, spirit of myrcia</sg>,;
+<sg>essential oil</sg>,;
+<sg>incense</sg>,;
+<sg>musk, frankincense</sg>,;
+<sg>pastil, pastille</sg>,;
+<sg>myrrh, perfumes of Arabia</sg>,;
+<sg>otto, ottar, attar</sg>,;
+<sg>bergamot, balm, civet, potpourri, pulvil</sg>,;
+<sg>nosegay</sg>,;
+<sg>scentbag</sg>,;
+<sg>sachet, smelling bottle, vinaigrette</sg>,;
+<sg>eau de Cologne, toilet water, lotion, after-shave lotion</sg>,;
+<sg>thurification</sg>,;
+<sg>perfumer</sg>,;
+<sg>eucalyptus oil, pinene</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be fragrant</sg>,;
+<sg>have a perfume</sg>,;
+<sg>smell sweet</sg>,;
+<sg>scent, perfume, embalm</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>fragrant, aromatic, redolent, spicy, savory, balmy, scented, sweet-smelling, sweet-scented</sg>,;
+<sg>perfumed, perfumatory</sg>,;
+<sg>thuriferous</sg>,;
+<sg>fragrant as a rose, muscadine, ambrosial</sg>,;
+<br>
+</paragraph>

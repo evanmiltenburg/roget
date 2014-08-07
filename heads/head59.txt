@@ -1,0 +1,38 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#3#</sectionNumber>
+<headword>#<b>#[001] #59# Component #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>component</i></sg>,;
+<sg>component part, integral part, integrant part</sg>,;
+<sg>element, constituent, ingredient, leaven</sg>,;
+<sg>part and parcel</sg>,;
+<sg>contents</sg>,;
+<sg>appurtenance</sg>,;
+<sg>feature</sg>,;
+<sg>member ,<cref>51 <i>part</i></cref></sg>,;
+<sg>personnel</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>enter into, enter into the composition of</sg>,;
+<sg>be a component</sg>,;
+<sg>be part of, form part of ,<cref> 51 <i>combination</i></cref></sg>,;
+<sg>merge in, be merged in</sg>,;
+<sg>be implicated in</sg>,;
+<sg>share in ,<cref>778 <i>participate</i></cref></sg>,;
+<sg>belong to, appertain to</sg>,;
+<sg>combine, inhere in, unite</sg>,;
+<sg>form, make, constitute, compose</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>forming</sg>,;
+<sg>inclusive</sg>,;
+<br>
+</paragraph>

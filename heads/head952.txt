@@ -1,0 +1,13 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#37#</sectionNumber>
+<headword>#<b>#[001] #952# Benefactor #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>benefactor, </i>savior, good genius, tutelary saint, guardian angel, good Samaritan</sg>,;
+<sg>pater patriae</sg>,;
+<sg>salt of the earth  (good man)</sg>,;
+<sg>948</sg>,;
+<sg>auxiliary ,<cref> 711 <i>activity</i></cref></sg>,;
+<br>
+</paragraph>

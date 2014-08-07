@@ -1,0 +1,49 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#27#</sectionNumber>
+<headword>#<b>#[001] #661# Means #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>means, </i>resources, wherewithal, ways and means</sg>,;
+<sg>capital ,<cref>800 <i>money</i></cref></sg>,;
+<sg>revenue</sg>,;
+<sg>stock in trade ,<cref> 636 <i>choice</i></cref></sg>,;
+<sg>provision ,<cref> 637 <i>absence of choice</i></cref></sg>,;
+<sg>a shot in the locker</sg>,;
+<sg>appliances ,<cref>633 <i>machinery</i></cref></sg>,;
+<sg>means and appliances</sg>,;
+<sg>conveniences</sg>,;
+<sg>cards to play</sg>,;
+<sg>expedients ,<cref>626 <i>measures</i></cref></sg>,;
+<sg>two strings to one's bow</sg>,;
+<sg>sheet anchor ,<cref>666 <i>safety</i></cref></sg>,;
+<sg>aid ,<cref> 707 <i>disuse</i></cref></sg>,;
+<sg>medium ,<cref> 631 <i>perseverance</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>find means, have means, possess means</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>instrumental ,<cref> 631 <i>perseverance</i></cref></sg>,;
+<sg>mechanical ,<cref> 633 <i>obstinacy</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>by means of, with</sg>,;
+<sg>by what means, by all means, by any means, by some means</sg>,;
+<sg>wherewith, herewith, therewith</sg>,;
+<sg>wherewithal</sg>,;
+<sg>how ,<cref>627 <i>in what manner</i></cref></sg>,;
+<sg>through ,<cref>631 <i>by the instrumentality of</i></cref></sg>,;
+<sg>with the aid of, by the aid of ,<cref>707 <i>assistance</i></cref></sg>,;
+<sg>by the agency of ,<cref> 170 <i>reproduction</i></cref></sg>,;
+<br>
+</paragraph>

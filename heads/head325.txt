@@ -1,0 +1,64 @@
+<classNumber>#2#</classNumber>
+<sectionNumber>#12#</sectionNumber>
+<headword>#<b>#[001] #325# Oscillation #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>oscillation</i></sg>,;
+<sg>vibration, libration</sg>,;
+<sg>motion of a pendulum</sg>,;
+<sg>nutation</sg>,;
+<sg>undulation</sg>,;
+<sg>pulsation</sg>,;
+<sg>pulse</sg>,;
+<sg>alternation</sg>,;
+<sg>coming and going</sg>,;
+<sg>ebb and flow, flux and reflux, ups and down</sg>,;
+<sg>fluctuation</sg>,;
+<sg>vacillation ,<cref>605 <i>irresolution</i></cref></sg>,;
+<sg>wave, vibratiuncle, swing, beat, shake, wag, seesaw, dance, lurch, dodge</sg>,;
+<sg>logan, loggan, rocking-stone, vibroscope</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>oscillate</sg>,;
+<sg>vibrate, librate</sg>,;
+<sg>alternate, undulate, wave</sg>,;
+<sg>rock, swing</sg>,;
+<sg>pulsate, beat</sg>,;
+<sg>wag, waggle</sg>,;
+<sg>nod, bob, courtesy, curtsy</sg>,;
+<sg>tick</sg>,;
+<sg>play</sg>,;
+<sg>wamble, wabble</sg>,;
+<sg>dangle, swag</sg>,;
+<sg>fluctuate, dance, curvet, reel, quake</sg>,;
+<sg>quiver, quaver</sg>,;
+<sg>shake, flicker</sg>,;
+<sg>wriggle</sg>,;
+<sg>roll, toss, pitch</sg>,;
+<sg>flounder, stagger, totter</sg>,;
+<sg>move up and down, bob up and down</sg>,;
+<sg>pass and repass, ebb and flow, come and go</sg>,;
+<sg>vacillate ,<cref> 605 <i>inelegance</i></cref></sg>,;
+<sg>teeter</sg>,;
+<sg>brandish, shake, flourish</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>oscillating</sg>,;
+<sg>oscillatory, undulatory, pulsatory, libratory, rectilinear</sg>,;
+<sg>vibratory, vibratile</sg>,;
+<sg>pendulous</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>to and fro, up and down, backwards and forwards, hither and yon, seesaw, zigzag, wibble-wabble, in and out, from side to side, like buckets in a well</sg>,;
+<br>
+</paragraph>

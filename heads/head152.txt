@@ -1,0 +1,47 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#7#</sectionNumber>
+<headword>#<b>#[001] #152# Reversion #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>reversion, </i>return</sg>,;
+<sg>revulsion</sg>,;
+<sg>turning point, turn of the tide</sg>,;
+<sg>status quo ante bellum</sg>,;
+<sg>calm before a storm</sg>,;
+<sg>alternation ,<cref>138 <i>periodicity</i></cref></sg>,;
+<sg>inversion ,<cref> 219 <i>summit</i></cref></sg>,;
+<sg>recoil ,<cref> 277 <i>journey</i></cref></sg>,;
+<sg>retreat, regression, retrogression ,<cref> 283 <i>vehicle</i></cref></sg>,;
+<sg>restoration ,<cref> 660 <i>instrumentality</i></cref></sg>,;
+<sg>relapse, recidivism ,<cref> 661 <i>means</i></cref></sg>,;
+<sg>atavism</sg>,;
+<sg>vicinism</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>revert, turn back, regress</sg>,;
+<sg>relapse ,<cref> 661 <i>means</i></cref></sg>,;
+<sg>recoil ,<cref> 277 <i>journey</i></cref></sg>,;
+<sg>retreat ,<cref> 283 <i>vehicle</i></cref></sg>,;
+<sg>restore ,<cref> 660 <i>instrumentality</i></cref></sg>,;
+<sg>undo, unmake</sg>,;
+<sg>turn the tide, roll back the tide, turn the scale, tip the scale</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>reverting</sg>,;
+<sg>regressive, revulsive, reactionary</sg>,;
+<sg>retrorse</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>a rebours</sg>,;
+<br>
+</paragraph>

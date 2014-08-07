@@ -1,0 +1,55 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#15#</sectionNumber>
+<headword>#<b>#[001] #402# Insulation   #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>insulation, fire extinction, </i>insulation, incombustible material, noncombustible material</sg>,;
+<sg>fire retardant, flame retardant</sg>,;
+<sg>fire wall, fire door</sg>,;
+<sg>incombustibility, incombustibleness</sg>,;
+<sg>extincteur</sg>,;
+<sg>fire annihilator</sg>,;
+<sg>amianth, amianthus</sg>,;
+<sg>earth-flax, mountain-flax</sg>,;
+<sg>asbestos</sg>,;
+<sg>fireman, fire fighter, fire eater, fire department, fire brigade, engine company</sg>,;
+<sg>pumper, fire truck, hook and ladder, aerial ladder, bucket</sg>,;
+<sg>fire hose, fire hydrant</sg>,;
+<sg>backfire, firebreak, trench</sg>,;
+<sg>aerial water bombardment</sg>,;
+<sg>wet blanket</sg>,;
+<sg>fire extinguisher, soda and acid extinguisher, dry chemical extinguisher, CO-two extinguisher, carbon tetrachloride, foam</sg>,;
+<sg>sprinklers, automatic sprinkler system</sg>,;
+<sg>fire bucket, sand bucket</sg>,;
+<sg>fire alarm, evacuation alarm,  fire code, fire regulations, fire</sg>,;
+<sg>fire inspector</sg>,;
+<sg>code violation, citation</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>go out, die out, burn out</sg>,;
+<sg>fizzle</sg>,;
+<sg>extinguish</sg>,;
+<sg>damp, slack, quench, smother</sg>,;
+<sg>put out, stamp out</sg>,;
+<sg>douse, snuff, snuff out, blow out</sg>,;
+<sg>fireproof, flameproof</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>incombustible</sg>,;
+<sg>nonflammable, uninflammable, unflammable</sg>,;
+<sg>fireproof</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>fight fire with fire</sg>,;
+<br>
+</paragraph>

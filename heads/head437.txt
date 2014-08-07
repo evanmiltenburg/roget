@@ -1,0 +1,38 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#15#</sectionNumber>
+<headword>#<b>#[001] #437# Deafness #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>deafness, </i>hardness of hearing, surdity</sg>,;
+<sg>inaudibility, inaudibleness</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be deaf</sg>,;
+<sg>have no ear</sg>,;
+<sg>shut one's ears, stop one's ears, close one's ears</sg>,;
+<sg>turn a deaf ear to</sg>,;
+<sg>render deaf, stun, deafen</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>deaf, earless, surd</sg>,;
+<sg>hard of hearing, dull of hearing</sg>,;
+<sg>deaf-mute, stunned, deafened</sg>,;
+<sg>stone deaf</sg>,;
+<sg>deaf as a post, deaf as an adder, deaf as a beetle, deaf as a trunkmaker</sg>,;
+<sg>inaudible, out of hearing</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>hear no evil</sg>,;
+<sg>(6) Light (i) LIGHT IN GENERAL</sg>,;
+<br>
+</paragraph>

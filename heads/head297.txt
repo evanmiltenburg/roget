@@ -1,0 +1,49 @@
+<classNumber>#2#</classNumber>
+<sectionNumber>#12#</sectionNumber>
+<headword>#<b>#[001] #297# Approach #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>approach, </i>approximation, appropinquation</sg>,;
+<sg>access</sg>,;
+<sg>appulse</sg>,;
+<sg>afflux, affluxion</sg>,;
+<sg>advent ,<cref>121 <i>approach of time</i></cref></sg>,;
+<sg>pursuit ,<cref> 622 <i>compendium</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>approach, approximate, appropinquate</sg>,;
+<sg>near</sg>,;
+<sg>get near, go near, draw near</sg>,;
+<sg>come to close quarters, come near</sg>,;
+<sg>move towards, set in towards</sg>,;
+<sg>drift</sg>,;
+<sg>make up to</sg>,;
+<sg>gain upon</sg>,;
+<sg>pursue ,<cref> 622 <i>compendium</i></cref></sg>,;
+<sg>tread on the heels of</sg>,;
+<sg>bear up</sg>,;
+<sg>make the land</sg>,;
+<sg>hug the shore, hug the land</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>approaching</sg>,;
+<sg>approximative</sg>,;
+<sg>affluent</sg>,;
+<sg>impending, imminent ,<cref>152 <i>destined</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>on the road</sg>,;
+<sg>Int</sg>,;
+<sg>come hither!, approach!, here!, come!, come near!, forward!,</sg>,;
+<br>
+</paragraph>

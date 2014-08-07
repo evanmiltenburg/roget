@@ -1,0 +1,68 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#35#</sectionNumber>
+<headword>#<b>#[001] #858# Affections #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>affections, </i>affect</sg>,;
+<sg>character, qualities, disposition, nature, spirit, tone</sg>,;
+<sg>temper, temperament</sg>,;
+<sg>diathesis, idiosyncrasy</sg>,;
+<sg>cast of mind, cast of soul, habit of mind, habit of soul, frame of mind, frame of soul</sg>,;
+<sg>predilection, turn, natural turn of mind</sg>,;
+<sg>bent, bias, predisposition, proneness, proclivity, propensity, propenseness, propension, propendency</sg>,;
+<sg>vein, humor, mood, grain, mettle</sg>,;
+<sg>sympathy ,<cref>897 <i>love</i></cref></sg>,;
+<sg>soul, heart, breast, bosom, inner man</sg>,;
+<sg>heart's core, heart's strings, heart's blood</sg>,;
+<sg>heart of hearts, bottom of one's heart, penetralia mentis</sg>,;
+<sg>secret and inmost recesses of the heart, cockles of one's heart</sg>,;
+<sg>inmost heart, inmost soul</sg>,;
+<sg>backbone</sg>,;
+<sg>passion, pervading spirit</sg>,;
+<sg>ruling passion, master passion</sg>,;
+<sg>furore</sg>,;
+<sg>fullness of the heart, heyday of the blood, flesh and blood, flow of soul</sg>,;
+<sg>energy, fervor, fire, force</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>have affections, possess affections</sg>,;
+<sg>be of a character</sg>,;
+<sg>be affected</sg>,;
+<sg>breathe</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>affected, characterized, formed, molded, cast</sg>,;
+<sg>attempered, tempered</sg>,;
+<sg>framed</sg>,;
+<sg>predisposed</sg>,;
+<sg>prone, inclined</sg>,;
+<sg>having a bias</sg>,;
+<sg>tinctured with, imbued with, penetrated with, eaten up with</sg>,;
+<sg>inborn, inbred, ingrained</sg>,;
+<sg>deep-rooted, ineffaceable, inveterate</sg>,;
+<sg>pathoscopic</sg>,;
+<sg>congenital, dyed in the wool, implanted by nature, inherent, in the grain</sg>,;
+<sg>affective</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>in one's heart</sg>,;
+<sg>at heart</sg>,;
+<sg>heart and soul ,<cref> 821 <i>borrowing</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>affection is a coal that must be cool'd else suffer'd it will set the heart on fire</sg>,;
+<br>
+</paragraph>

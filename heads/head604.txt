@@ -1,0 +1,36 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#25#</sectionNumber>
+<headword>#<b>#[001] #604# Elegance #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>elegance, </i>purity, grace, ease</sg>,;
+<sg>gracefulness, readiness</sg>,;
+<sg>concinnity, euphony, numerosity</sg>,;
+<sg>Atticism, classicalism, classicism</sg>,;
+<sg>well rounded periods, well turned periods, flowing periods</sg>,;
+<sg>the right word in the right place</sg>,;
+<sg>antithesis ,<cref> 577 <i>record</i></cref></sg>,;
+<sg>purist</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>point an antithesis, round a period</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>elegant, polished, classical, Attic, correct, Ciceronian, artistic</sg>,;
+<sg>chaste, pure, Saxon, academical</sg>,;
+<sg>graceful, easy, readable, fluent, flowing, tripping</sg>,;
+<sg>unaffected, natural, unlabored</sg>,;
+<sg>mellifluous</sg>,;
+<sg>euphonious, euphemism, euphemistic</sg>,;
+<sg>numerose, rhythmical</sg>,;
+<sg>felicitous, happy, neat</sg>,;
+<sg>well put, neatly put, well expressed, neatly expressed</sg>,;
+<br>
+</paragraph>

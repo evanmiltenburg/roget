@@ -1,0 +1,104 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#39#</sectionNumber>
+<headword>#<b>#[001] #1042# Rite #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>rite</i></sg>,;
+<sg>ceremony, ritual, liturgy, ceremonial</sg>,;
+<sg>ordinance, observance, function, duty</sg>,;
+<sg>form, formulary</sg>,;
+<sg>solemnity, sacrament</sg>,;
+<sg>incantation ,<cref>993 <i>spell</i></cref></sg>,;
+<sg>service, psalmody ,<cref>990 <i>worship</i></cref></sg>,;
+<sg>ministration</sg>,;
+<sg>preaching, preachment</sg>,;
+<sg>predication, sermon, homily, lecture, discourse, pastoral</sg>,;
+<sg>baptism, christening, chrism</sg>,;
+<sg>circumcision</sg>,;
+<sg>baptismal regeneration</sg>,;
+<sg>font</sg>,;
+<sg>confirmation</sg>,;
+<sg>imposition of hands, laying on of hands</sg>,;
+<sg>ordination ,<cref>995 <i>churchdom</i></cref></sg>,;
+<sg>excommunication</sg>,;
+<sg>Bar Mitzvah, Bas Mitzvah, Bris</sg>,;
+<sg>Eucharist, Lord's supper, communion</sg>,;
+<sg>the sacrament, the holy sacrament</sg>,;
+<sg>celebration, high celebration</sg>,;
+<sg>missa cantata</sg>,;
+<sg>asperges</sg>,;
+<sg>offertory</sg>,;
+<sg>introit</sg>,;
+<sg>consecration</sg>,;
+<sg>consubstantiation, transubstantiation</sg>,;
+<sg>real presence</sg>,;
+<sg>elements</sg>,;
+<sg>mass</sg>,;
+<sg>high mass, low mass, dry mass</sg>,;
+<sg>matrimony ,<cref> 903 <i>caution</i></cref></sg>,;
+<sg>burial ,<cref> 363 <i>semiliquidity</i></cref></sg>,;
+<sg>visitation of the sick</sg>,;
+<sg>seven sacraments, impanation, subpanation, extreme unction, viaticum, invocation of saints, canonization, transfiguration, auricular confession</sg>,;
+<sg>maceration, flagellation, sackcloth and ashes</sg>,;
+<sg>penance ,<cref>952 <i>atonement</i></cref></sg>,;
+<sg>telling of beads, processional</sg>,;
+<sg>thurification, incense, holy water, aspersion</sg>,;
+<sg>relics, rosary, beads, reliquary, host, cross, rood, crucifix, pax, pyx, agnus Dei, censer, thurible, patera</sg>,;
+<sg>eileton, Holy Grail</sg>,;
+<sg>prayer machine, prayer wheel</sg>,;
+<sg>Sangraal, urceus</sg>,;
+<sg>ritualism, ceremonialism</sg>,;
+<sg>sabbatism, sabbatarianism</sg>,;
+<sg>ritualist, sabbatarian</sg>,;
+<sg>holyday, feast, fast</sg>,;
+<sg>Sabbath, Pentecost</sg>,;
+<sg>Advent, Christmas, Epiphany</sg>,;
+<sg>Lent</sg>,;
+<sg>Passion week, Holy week</sg>,;
+<sg>Easter, Easter Sunday, Whitsuntide</sg>,;
+<sg>agape, Ascension Day, Candlemas, Ash Wednesday, Good Friday, Holy Thursday</sg>,;
+<sg>Lammas, Martinmas, Michaelmas</sg>,;
+<sg>All SAint's DAy, All Souls' Day</sg>,;
+<sg>Ramadan, Ramazan</sg>,;
+<sg>Bairam    Passover</sg>,;
+<sg>Shabuoth</sg>,;
+<sg>Yom Kippur, Day of Atonement</sg>,;
+<sg>Rosh Hashana, New Year</sg>,;
+<sg>Hanukkah, Chanukkah, Feast of Lights</sg>,;
+<sg>Purim, Feast of lots</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>perform service, do duty, minister, officiate, baptize, dip, sprinkle</sg>,;
+<sg>anoint, confirm, lay hands on</sg>,;
+<sg>give the sacrament, administer the sacrament</sg>,;
+<sg>administer extreme unction</sg>,;
+<sg>hear confession, administer holy penance, shrive</sg>,;
+<sg>excommunicate, ban with bell book and candle</sg>,;
+<sg>attend services, attend mass, go to mass, hear mass</sg>,;
+<sg>take the sacrament, receive the sacrament, receive communion, attend the sacrament, partake of the sacrament, partake of communion</sg>,;
+<sg>communicate</sg>,;
+<sg>receive extreme unction</sg>,;
+<sg>confess, go to confession, receive penance</sg>,;
+<sg>anele</sg>,;
+<sg>preach, sermonize, predicate, lecture</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>ritual, ritualistic</sg>,;
+<sg>ceremonial</sg>,;
+<sg>baptismal, eucharistical</sg>,;
+<sg>paschal</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>what art thou, thou idol ceremony?</sg>,;
+<br>
+</paragraph>

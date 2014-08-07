@@ -1,0 +1,42 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#34#</sectionNumber>
+<headword>#<b>#[001] #828# Purchase #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>purchase, </i>emption</sg>,;
+<sg>buying, purchasing, shopping</sg>,;
+<sg>preemption, refusal</sg>,;
+<sg>coemption, bribery</sg>,;
+<sg>slave trade</sg>,;
+<sg>buyer, purchaser, emptor, vendee</sg>,;
+<sg>patron, employer, client, customer, clientele</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>buy, purchase, invest in, procure</sg>,;
+<sg>rent ,<cref>788 <i>hire</i></cref></sg>,;
+<sg>repurchase, buy in</sg>,;
+<sg>keep in one's pay, bribe, suborn</sg>,;
+<sg>pay ,<cref> 807 <i>acquisition</i></cref></sg>,;
+<sg>spend ,<cref> 809 <i>possession</i></cref></sg>,;
+<sg>make a purchase, complete a purchase</sg>,;
+<sg>buy over the counter</sg>,;
+<sg>shop, market, go shopping</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>purchased</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>caveat emptor</sg>,;
+<sg>the customer is always right</sg>,;
+<br>
+</paragraph>

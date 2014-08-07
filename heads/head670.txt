@@ -1,0 +1,120 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#27#</sectionNumber>
+<headword>#<b>#[001] #670# Redundancy #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>redundancy, </i>redundance</sg>,;
+<sg>too much, too many</sg>,;
+<sg>superabundance, superfluity, superfluence, saturation</sg>,;
+<sg>nimiety, transcendency, exuberance, profuseness</sg>,;
+<sg>profusion ,<cref>639 <i>plenty</i></cref></sg>,;
+<sg>repletion, enough in all conscience, satis superque, lion's share</sg>,;
+<sg>more than enough ,<cref> 639 <i>predetermination</i></cref></sg>,;
+<sg>plethora, engorgement, congestion, load, surfeit, sickener</sg>,;
+<sg>turgescence ,<cref>194 <i>expansion</i></cref></sg>,;
+<sg>overdose, overmeasure, oversupply, overflow</sg>,;
+<sg>inundation ,<cref>348 <i>water</i></cref></sg>,;
+<sg>avalanche</sg>,;
+<sg>accumulation ,<cref>636 <i>store</i></cref></sg>,;
+<sg>heap ,<cref> 72 <i>middle</i></cref></sg>,;
+<sg>drug, drug in the market</sg>,;
+<sg>glut</sg>,;
+<sg>crowd</sg>,;
+<sg>burden</sg>,;
+<sg>excess</sg>,;
+<sg>surplus, overplus</sg>,;
+<sg>epact</sg>,;
+<sg>margin</sg>,;
+<sg>remainder ,<cref> 40 <i>subtraction</i></cref></sg>,;
+<sg>duplicate</sg>,;
+<sg>surplusage, expletive</sg>,;
+<sg>work of supererogation</sg>,;
+<sg>bonus, bonanza</sg>,;
+<sg>luxury</sg>,;
+<sg>intemperance ,<cref> 954 <i>pity</i></cref></sg>,;
+<sg>extravagance ,<cref>818 <i>prodigality</i></cref></sg>,;
+<sg>exorbitance, lavishment</sg>,;
+<sg>pleonasm ,<cref>573 <i>diffuseness</i></cref></sg>,;
+<sg>too many irons in the fire</sg>,;
+<sg>embarras de richesses</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>superabound, overabound</sg>,;
+<sg>know no bounds, swarm</sg>,;
+<sg>meet one at every turn</sg>,;
+<sg>creep with, crawl with, bristle with</sg>,;
+<sg>overflow</sg>,;
+<sg>run over, flow over, well over, brim over</sg>,;
+<sg>run riot</sg>,;
+<sg>overrun, overstock, overlay, overcharge, overdose, overfeed, overburden, overload, overdo, overwhelm, overshoot the mark ,<cref>303 <i>go beyond</i></cref></sg>,;
+<sg>surcharge, supersaturate, gorge, glut, load, drench, whelm, inundate, deluge, flood</sg>,;
+<sg>drug, drug the market</sg>,;
+<sg>hepatize</sg>,;
+<sg>choke, cloy, accloy, suffocate</sg>,;
+<sg>pile up, lay on thick</sg>,;
+<sg>impregnate with</sg>,;
+<sg>lavish ,<cref>818 <i>squander</i></cref></sg>,;
+<sg>send coals to Newcastle, carry coals to Newcastle, carry owls to Athens</sg>,;
+<sg>teach one's grandmother to suck eggs</sg>,;
+<sg>pisces natare docere</sg>,;
+<sg>kill the slain, gild refined gold, gild the lily, butter one's bread on both sides, put butter upon bacon</sg>,;
+<sg>employ a steam engine to crack a nut ,<cref>638 <i>waste</i></cref></sg>,;
+<sg>exaggerate ,<cref> 549 <i>interpreter</i></cref></sg>,;
+<sg>wallow in roll in ,<cref>639 <i>plenty</i></cref></sg>,;
+<sg>remain on one's hands, hang heavy on hand, go a begging</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>redundant</sg>,;
+<sg>too much, too many</sg>,;
+<sg>exuberant, inordinate, superabundant, excessive, overmuch, replete, profuse, lavish</sg>,;
+<sg>prodigal ,<cref> 818 <i>receiving</i></cref></sg>,;
+<sg>exorbitant</sg>,;
+<sg>overweening</sg>,;
+<sg>extravagant</sg>,;
+<sg>overcharged</sg>,;
+<sg>supersaturated, drenched, overflowing</sg>,;
+<sg>running over, running to waste, running down</sg>,;
+<sg>crammed to overflowing, filled to overflowing</sg>,;
+<sg>gorged, ready to burst</sg>,;
+<sg>dropsical, turgid, plethoric</sg>,;
+<sg>obese ,<cref> 194 <i>displacement</i></cref></sg>,;
+<sg>superfluous, unnecessary, needless, supervacaneous, uncalled for, to spare, in excess</sg>,;
+<sg>over and above ,<cref>40 <i>remainder</i></cref></sg>,;
+<sg>de trop</sg>,;
+<sg>adscititious ,<cref>37 <i>additional</i></cref></sg>,;
+<sg>supernumerary ,<cref>636 <i>reserve</i></cref></sg>,;
+<sg>on one's hands, spare, duplicate, supererogatory, expletive</sg>,;
+<sg>un peu fort</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>over, too, over and above</sg>,;
+<sg>overmuch, too much</sg>,;
+<sg>too far</sg>,;
+<sg>without measure, beyond measure, out of measure</sg>,;
+<sg>with a to spare</sg>,;
+<sg>over head and ears</sg>,;
+<sg>up to one's eyes, up to one's ears</sg>,;
+<sg>extra</sg>,;
+<sg>beyond the mark ,<cref>303 <i>transcursion</i></cref></sg>,;
+<sg>acervatim</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>it never rains but it pours</sg>,;
+<sg>fortuna multis dat nimium nulli satis</sg>,;
+<sg>2</sg>,;
+<sg>Degree of Subservience</sg>,;
+<br>
+</paragraph>

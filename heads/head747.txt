@@ -1,0 +1,63 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#29#</sectionNumber>
+<headword>#<b>#[001] #747# Retaliation #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>retaliation, </i>reprisal, retort, payback</sg>,;
+<sg>counter- stroke, counter-blast, counterplot, counter-project</sg>,;
+<sg>retribution, lex talionis</sg>,;
+<sg>reciprocation ,<cref>12 <i>reciprocity</i></cref></sg>,;
+<sg>tit for tat, give and take, blow for blow, quid pro quo, a Roland for an Oliver, measure for measure, diamond cut diamond, the biter bit, a game at which two can play</sg>,;
+<sg>reproof valiant, retort courteous</sg>,;
+<sg>recrimination ,<cref>938 <i>accusation</i></cref></sg>,;
+<sg>revenge ,<cref> 919 <i>vanity</i></cref></sg>,;
+<sg>compensation ,<cref> 30 <i>inequality</i></cref></sg>,;
+<sg>reaction ,<cref>277 <i>recoil</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>retaliate, retort, turn upon</sg>,;
+<sg>pay, pay off, pay back</sg>,;
+<sg>pay in one's own coin, pay in the same coin</sg>,;
+<sg>cap</sg>,;
+<sg>reciprocate ,<cref> 148 <i>permanence</i></cref></sg>,;
+<sg>turn the tables upon, return the compliment</sg>,;
+<sg>give a quid pro quo</sg>,;
+<sg>, give as much as one takes, give as good as one gets</sg>,;
+<sg>give and take, exchange fisticuffs</sg>,;
+<sg>be quits, be even with</sg>,;
+<sg>pay off old scores</sg>,;
+<sg>serve one right, be hoist on one's own petard, throw a stone in one's own garden, catch a Tartar</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>retaliating</sg>,;
+<sg>retaliatory, retaliative</sg>,;
+<sg>talionic</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>in retaliation</sg>,;
+<sg>en revanche</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>mutato nomine de te fabula narratur</sg>,;
+<sg>par pari refero</sg>,;
+<sg>tu quoque, you too</sg>,;
+<sg>you're another</sg>,;
+<sg>suo sibi gladio hunc jugulo</sg>,;
+<sg>a beau jeu beau retour</sg>,;
+<sg>litem _ç</sg>,;
+<sg>lite resolvit</sg>,;
+<br>
+</paragraph>

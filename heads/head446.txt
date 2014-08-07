@@ -1,0 +1,35 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#15#</sectionNumber>
+<headword>#<b>#[001] #446# Semitransparency #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>semitransparency, </i>translucency, semiopacity</sg>,;
+<sg>opalescence, milkiness, pearliness</sg>,;
+<sg>gauze, muslin</sg>,;
+<sg>film</sg>,;
+<sg>mica, mother-of-pearl, nacre</sg>,;
+<sg>mist ,<cref>353 <i>cloud</i></cref></sg>,;
+<sg>opal</sg>,;
+<sg>turbidity ,<cref> 426 <i>nonresonance</i></cref></sg>,;
+<sg>1</sg>,;
+<sg>Adj</sg>,;
+<sg>semitransparent, translucent, semipellucid, semidiaphanous, semiopacous, semiopaque</sg>,;
+<sg>opalescent, opaline</sg>,;
+<sg>pearly, milky</sg>,;
+<sg>frosted, nacreous</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>semitransparent, translucent, semipellucid, semidiaphanous, semiopacous, semiopaque</sg>,;
+<sg>opalescent, opaline</sg>,;
+<sg>pearly, milky</sg>,;
+<sg>frosted, nacreous</sg>,;
+<sg>V</sg>,;
+<sg>opalesce</sg>,;
+<sg>(ii) SPECIFIC LIGHT</sg>,;
+<br>
+</paragraph>

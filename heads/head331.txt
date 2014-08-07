@@ -1,0 +1,42 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#13#</sectionNumber>
+<headword>#<b>#[001] #331# Levity #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>levity</i></sg>,;
+<sg>lightness</sg>,;
+<sg>imponderability, buoyancy, volatility</sg>,;
+<sg>feather, dust, mote, down, thistle, down, flue, cobweb, gossamer, straw, cork, bubble, balloon</sg>,;
+<sg>float, buoy</sg>,;
+<sg>ether, air</sg>,;
+<sg>leaven, ferment, barm, yeast</sg>,;
+<sg>lighter-than-air balloon, helium balloon, hydrogen balloon, hot air balloon</sg>,;
+<sg>convection, thermal draft, thermal</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be light</sg>,;
+<sg>float, rise, swim, be buoyed up</sg>,;
+<sg>render light</sg>,;
+<sg>lighten, leaven</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>light, subtile, airy</sg>,;
+<sg>imponderous, imponderable</sg>,;
+<sg>astatic, weightless, ethereal, sublimated</sg>,;
+<sg>gossamery</sg>,;
+<sg>suberose, suberous</sg>,;
+<sg>uncompressed, volatile</sg>,;
+<sg>buoyant, floating</sg>,;
+<sg>portable</sg>,;
+<sg>light as a feather, light as a thistle, light as air</sg>,;
+<sg>lighter than air</sg>,;
+<sg>rise like a balloon, float like a balloon</sg>,;
+<br>
+</paragraph>

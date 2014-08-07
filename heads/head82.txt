@@ -1,0 +1,61 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#4#</sectionNumber>
+<headword>#<b>#[001] #82# Generality #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>generality, </i>generalization</sg>,;
+<sg>universality</sg>,;
+<sg>catholicity, catholicism</sg>,;
+<sg>miscellany, miscellaneousness</sg>,;
+<sg>dragnet</sg>,;
+<sg>common run</sg>,;
+<sg>worldwideness</sg>,;
+<sg>everyone, everybody</sg>,;
+<sg>all hands, all the world and his wife</sg>,;
+<sg>anybody, N or M, all sorts</sg>,;
+<sg>prevalence, run</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be general</sg>,;
+<sg>prevail, be going about, stalk abroad</sg>,;
+<sg>render general</sg>,;
+<sg>generalize</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>general, generic, collective</sg>,;
+<sg>broad, comprehensive, sweeping</sg>,;
+<sg>encyclopedical, widespread ,<cref>73 <i>dispersed</i></cref></sg>,;
+<sg>universal</sg>,;
+<sg>catholic, catholical</sg>,;
+<sg>common, worldwide</sg>,;
+<sg>ecumenical, oecumenical</sg>,;
+<sg>transcendental</sg>,;
+<sg>prevalent, prevailing, rife, epidemic, besetting</sg>,;
+<sg>all over, covered with</sg>,;
+<sg>Pan-American, Anglican, Pan-Hellenic, Pan-Germanic, slavic</sg>,;
+<sg>panharmonic</sg>,;
+<sg>every, all</sg>,;
+<sg>unspecified, impersonal</sg>,;
+<sg>customary ,<cref>613 <i>habitual</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>whatever, whatsoever</sg>,;
+<sg>to a man, one and all</sg>,;
+<sg>generally</sg>,;
+<sg>always, for better for worse</sg>,;
+<sg>in general, generally speaking</sg>,;
+<sg>speaking generally</sg>,;
+<sg>for the most part</sg>,;
+<sg>in the long run ,<cref>29 <i>on an average</i></cref></sg>,;
+<br>
+</paragraph>

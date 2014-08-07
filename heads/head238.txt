@@ -1,0 +1,70 @@
+<classNumber>#2#</classNumber>
+<sectionNumber>#10#</sectionNumber>
+<headword>#<b>#[001] #238# Interposition #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>interposition, </i>interjacence, intercurrence, intervenience, interlocation, interdigitation, interjection, interpolation, interlineation, interspersion, intercalation</sg>,;
+<sg>interpenetration</sg>,;
+<sg>permeation</sg>,;
+<sg>infiltration</sg>,;
+<sg>intervention, interference</sg>,;
+<sg>intrusion, obtrusion</sg>,;
+<sg>insinuation</sg>,;
+<sg>insertion ,<cref> 300 <i>repulsion</i></cref></sg>,;
+<sg>dovetailing</sg>,;
+<sg>embolism</sg>,;
+<sg>intermediary, intermedium</sg>,;
+<sg>go between, bodkin, intruder, interloper</sg>,;
+<sg>parenthesis, episode, flyleaf</sg>,;
+<sg>partition, septum, diaphragm</sg>,;
+<sg>midriff</sg>,;
+<sg>dissepiment</sg>,;
+<sg>party wall, panel, room divider</sg>,;
+<sg>halfway house</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>lie between, come between, get between</sg>,;
+<sg>intervene, slide in, interpenetrate, permeate</sg>,;
+<sg>put between, introduce, import, throw in, wedge in, edge in, jam in, worm in, foist in, run in, plow in, work in</sg>,;
+<sg>interpose, interject, intercalate, interpolate, interline, interleave, intersperse, interweave, interlard, interdigitate, sandwich in, fit in, squeeze in</sg>,;
+<sg>let in, dovetail, splice, mortise</sg>,;
+<sg>insinuate, smuggle</sg>,;
+<sg>infiltrate, ingrain</sg>,;
+<sg>interfere, put in an oar, thrust one's nose in</sg>,;
+<sg>intrude, obtrude</sg>,;
+<sg>have a finger in the pie</sg>,;
+<sg>introduce the thin end of the wedge</sg>,;
+<sg>thrust in ,<cref>300 <i>insert</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>interjacent, intercurrent, intervenient, intervening</sg>,;
+<sg>, intermediate, intermediary, intercalary, interstitial</sg>,;
+<sg>embolismal</sg>,;
+<sg>parenthetical, episodic</sg>,;
+<sg>mediterranean</sg>,;
+<sg>intrusive</sg>,;
+<sg>embosomed</sg>,;
+<sg>merged</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>between, betwixt</sg>,;
+<sg>twixt</sg>,;
+<sg>among, amongst</sg>,;
+<sg>amid, amidst</sg>,;
+<sg>mid, midst</sg>,;
+<sg>in the thick of</sg>,;
+<sg>betwixt and between</sg>,;
+<sg>sandwich-wise</sg>,;
+<sg>parenthetically, obiter dictum</sg>,;
+<br>
+</paragraph>

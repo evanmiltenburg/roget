@@ -1,0 +1,23 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#2#</sectionNumber>
+<headword>#<b>#[001] #21# Nonimitation #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>nonimitation, </i>no imitation</sg>,;
+<sg>originality</sg>,;
+<sg>creativeness</sg>,;
+<sg>invention, creation</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>unimitated, uncopied</sg>,;
+<sg>unmatched, unparalleled</sg>,;
+<sg>inimitable ,<cref> 13 <i>identity</i></cref></sg>,;
+<sg>unique, original</sg>,;
+<sg>creative, inventive, untranslated</sg>,;
+<sg>exceptional, rare, sui generis uncommon, unexampled</sg>,;
+<br>
+</paragraph>

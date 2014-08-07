@@ -1,0 +1,53 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#20#</sectionNumber>
+<headword>#<b>#[001] #516# Scholar #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>scholar, </i>connoisseur, savant, pundit, schoolman, professor, graduate, wrangler</sg>,;
+<sg>academician, academist</sg>,;
+<sg>master of arts, doctor, licentitate, gownsman</sg>,;
+<sg>philosopher, master of math</sg>,;
+<sg>scientist, clerk</sg>,;
+<sg>sophist, sophister</sg>,;
+<sg>linguist</sg>,;
+<sg>glossolinguist, philologist</sg>,;
+<sg>philologer</sg>,;
+<sg>lexicographer, glossographer</sg>,;
+<sg>grammarian</sg>,;
+<sg>litterateur, literati, dilettanti, illuminati, cogniscenti</sg>,;
+<sg>fellow, Hebraist, lexicologist, mullah, munshi, Sanskritish</sg>,;
+<sg>sinologist, sinologue</sg>,;
+<sg>Mezzofanti, admirable Crichton, Mecaenas</sg>,;
+<sg>bookworm, helluo librorum</sg>,;
+<sg>bibliophile, bibliomaniac</sg>,;
+<sg>bluestocking, bas-bleu</sg>,;
+<sg>bigwig, learned Theban, don</sg>,;
+<sg>Artium Baccalaureus, Artium Magister</sg>,;
+<sg>learned man, literary man</sg>,;
+<sg>homo multarum literarum</sg>,;
+<sg>man of learning, man of letters, man of education, man of genius</sg>,;
+<sg>antiquarian, antiquary</sg>,;
+<sg>archaeologist</sg>,;
+<sg>sage ,<cref>500 <i>wise man</i></cref></sg>,;
+<sg>pedant, doctrinaire</sg>,;
+<sg>pedagogue, Dr</sg>,;
+<sg>Pangloss</sg>,;
+<sg>pantologist, criminologist</sg>,;
+<sg>schoolboy ,<cref>541 <i>learner</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>learned ,<cref> 490 <i>evidence</i></cref></sg>,;
+<sg>brought up at the feet of Gamaliel</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>he was a scholar and a ripe and good one</sg>,;
+<sg>the manifold linguist</sg>,;
+<br>
+</paragraph>

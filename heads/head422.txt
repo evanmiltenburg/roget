@@ -1,0 +1,55 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#15#</sectionNumber>
+<headword>#<b>#[001] #422# Faintness #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>faintness</i></sg>,;
+<sg>faint sound, whisper, breath</sg>,;
+<sg>undertone, underbreath</sg>,;
+<sg>murmur, hum, susurration</sg>,;
+<sg>tinkle</sg>,;
+<sg>still small voice</sg>,;
+<sg>hoarseness</sg>,;
+<sg>raucity</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>whisper, breathe, murmur, purl, hum, gurgle, ripple, babble, flow</sg>,;
+<sg>tinkle</sg>,;
+<sg>mutter ,<cref>583 <i>speak imperfectly</i></cref></sg>,;
+<sg>susurrate</sg>,;
+<sg>steal on the ear</sg>,;
+<sg>melt in the air, float on the air</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>inaudible</sg>,;
+<sg>scarcely audible, just audible</sg>,;
+<sg>low, dull</sg>,;
+<sg>stifled, muffled</sg>,;
+<sg>hoarse, husky</sg>,;
+<sg>gentle, soft, faint</sg>,;
+<sg>floating</sg>,;
+<sg>purling, flowing</sg>,;
+<sg>whispered</sg>,;
+<sg>liquid</sg>,;
+<sg>soothing</sg>,;
+<sg>dulcet ,<cref>413 <i>melodious</i></cref></sg>,;
+<sg>susurrant, susurrous</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>in a whisper, with bated breath, sotto voce, between the teeth, aside</sg>,;
+<sg>piano, pianissimo</sg>,;
+<sg>d la sourdine</sg>,;
+<sg>out of earshot inaudibly</sg>,;
+<sg>(ii) SPECIFIC SOUNDS</sg>,;
+<br>
+</paragraph>

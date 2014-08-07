@@ -1,0 +1,115 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#36#</sectionNumber>
+<headword>#<b>#[001] #897# Hope #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>hope, </i>hopes</sg>,;
+<sg>desire ,<cref> 865 <i>pleasure</i></cref></sg>,;
+<sg>fervent hope, sanguine expectation, trust, confidence, reliance</sg>,;
+<sg>faith ,<cref>484 <i>belief</i></cref></sg>,;
+<sg>affiance, assurance</sg>,;
+<sg>secureness, security</sg>,;
+<sg>reassurance</sg>,;
+<sg>good omen, good auspices</sg>,;
+<sg>promise, well grounded hopes</sg>,;
+<sg>good prospect, bright prospect</sg>,;
+<sg>clear sky</sg>,;
+<sg>assumption, presumption</sg>,;
+<sg>anticipation ,<cref>507 <i>expectation</i></cref></sg>,;
+<sg>hopefulness, buoyancy, optimism, enthusiasm, heart of grace, aspiration</sg>,;
+<sg>optimist, utopian, utopist</sg>,;
+<sg>castles in the air, castles in Spain, chateaux en Espagne, le pot aut lait, Utopia, millennium</sg>,;
+<sg>day dream, golden dream</sg>,;
+<sg>dream of Alnaschar</sg>,;
+<sg>airy hopes, fool's paradise</sg>,;
+<sg>mirage ,<cref>443 <i>fallacies of vision</i></cref></sg>,;
+<sg>fond hope</sg>,;
+<sg>beam of hope, ray of hope, gleam of hope, glimmer of hope, flash of hope, dawn of hope, star of hope</sg>,;
+<sg>cheer</sg>,;
+<sg>bit of blue sky, silver lining, silver lining of the cloud, bottom of Pandora's box, balm in Gilead</sg>,;
+<sg>light at the end of the tunnel</sg>,;
+<sg>anchor, sheet anchor, mainstay</sg>,;
+<sg>staff ,<cref>215 <i>support</i></cref></sg>,;
+<sg>heaven ,<cref> 981 <i>probity</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>hope, trust, confide, rely on, put one's trust in</sg>,;
+<sg>lean upon</sg>,;
+<sg>pin one's hope upon, pin one's faith upon ,<cref>484 <i>believe</i></cref></sg>,;
+<sg>feel hope, entertain hope, harbor hope, indulge hope, cherish hope, feed hope, foster hope, nourish hope, encourage hope, cling to hope, live in hope,</sg>,;
+<sg>see land</sg>,;
+<sg>feel assured, rest assured, feel confident, rest confident</sg>,;
+<sg>presume</sg>,;
+<sg>promise oneself</sg>,;
+<sg>expect ,<cref>507 <i>look forward to</i></cref></sg>,;
+<sg>hope for ,<cref>865 <i>desire</i></cref></sg>,;
+<sg>anticipate</sg>,;
+<sg>be hopeful</sg>,;
+<sg>look on the bright side of, view on the sunny side, voir en couleur de rose, make the best of it, hope for the best</sg>,;
+<sg>put a good face upon, put a bold face upon, put the best face upon</sg>,;
+<sg>keep one's spirits up</sg>,;
+<sg>take heart, take heart of grace</sg>,;
+<sg>be of good heart, be of good cheer</sg>,;
+<sg>flatter oneself, lay the flattering unction to one's soul, catch at a straw,, hope against hope, reckon one's chickens before they are hatched, count one's chickens before they are hatched</sg>,;
+<sg>give hope, inspire hope, raise hope, hold out hope</sg>,;
+<sg>promise, bid fair, augur well, be in a fair way, look up, flatter, tell a flattering tale</sg>,;
+<sg>raise expectations (sentient subject)</sg>,;
+<sg>encourage, cheer, assure, reassure, buoy up, embolden</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>hoping</sg>,;
+<sg>in hopes</sg>,;
+<sg>hopeful, confident</sg>,;
+<sg>secure ,<cref>484 <i>certain</i></cref></sg>,;
+<sg>sanguine, in good heart, buoyed up, buoyant, elated, flushed, exultant, enthusiastic</sg>,;
+<sg>heartsome</sg>,;
+<sg>utopian</sg>,;
+<sg>unsuspecting, unsuspicious</sg>,;
+<sg>fearless, free from fear, free from suspicion, free from distrust, free from despair, exempt from fear, exempt from suspicion, exempt from distrust, exempt from despair</sg>,;
+<sg>undespairing, self reliant</sg>,;
+<sg>probable, on the high road to</sg>,;
+<sg>within sight of shore, within sight of land</sg>,;
+<sg>promising, propitious</sg>,;
+<sg>of promise, full of promise</sg>,;
+<sg>of good omen</sg>,;
+<sg>auspicious, de bon augure</sg>,;
+<sg>reassuring</sg>,;
+<sg>encouraging, cheering, inspiriting, looking up, bright, roseate, couleur de rose, rose-colored</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>hopefully</sg>,;
+<sg>Int</sg>,;
+<sg>God speed!,</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>nil desperandum</sg>,;
+<sg>never say die, dum spiro spero, latet scintillula forsan, all is for the best, spero meliora</sg>,;
+<sg>every cloud has a silver lining</sg>,;
+<sg>the wish being father to the thought</sg>,;
+<sg>hope told a flattering tale</sg>,;
+<sg>rusticus expectat dum defluat amnis</sg>,;
+<sg>at spes non fracta</sg>,;
+<sg>ego spem prietio non emo</sg>,;
+<sg>un Dieu est ma fiance</sg>,;
+<sg>hope! thou nurse of young desire</sg>,;
+<sg>in hoc signo spes mea</sg>,;
+<sg>in hoc signo vinces</sg>,;
+<sg>la speranza e il pan de miseri</sg>,;
+<sg>l'esperance est le songe d'un homme eveille</sg>,;
+<sg>the mighty hopes that make us men</sg>,;
+<sg>the sickening pang of hope deferred</sg>,;
+<br>
+</paragraph>

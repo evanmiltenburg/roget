@@ -1,0 +1,47 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#34#</sectionNumber>
+<headword>#<b>#[001] #819# Apportionment #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>apportionment, </i>allotment, consignment, assignment, appointment</sg>,;
+<sg>appropriation</sg>,;
+<sg>dispensation, distribution</sg>,;
+<sg>division, deal</sg>,;
+<sg>repartition, partition</sg>,;
+<sg>administration</sg>,;
+<sg>dividend, portion, contingent, share, allotment, fair share, allocation, lot, measure, dose</sg>,;
+<sg>dole, meed, pittance</sg>,;
+<sg>quantum, ration</sg>,;
+<sg>ratio, proportion, quota, modicum, mess, allowance</sg>,;
+<sg>suerte</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>apportion, divide</sg>,;
+<sg>distribute, administer, dispense</sg>,;
+<sg>billet, allot, detail, cast, share, mete</sg>,;
+<sg>portion out, parcel out, dole out</sg>,;
+<sg>deal, carve</sg>,;
+<sg>allocate, ration, ration out</sg>,;
+<sg>assign</sg>,;
+<sg>separate ,<cref> 44 <i>mixture</i></cref></sg>,;
+<sg>partition, assign, appropriate, appoint</sg>,;
+<sg>come in for one's share ,<cref>778 <i>participate</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>apportioning</sg>,;
+<sg>respective</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>respectively, each to each</sg>,;
+<br>
+</paragraph>

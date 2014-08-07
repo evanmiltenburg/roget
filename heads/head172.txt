@@ -1,0 +1,14 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#8#</sectionNumber>
+<headword>#<b>#[001] #172# Destroyer #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>destroyer</i> &c (destroy) ,<cref> 162 <i>attribution</i></cref></sg>,;
+<sg>cankerworm ,<cref>663 <i>bane</i></cref></sg>,;
+<sg>assassin ,<cref>361 <i>killer</i></cref></sg>,;
+<sg>executioner ,<cref>975 <i>punish</i></cref></sg>,;
+<sg>biblioclast, eidoloclast, iconoclast, idoloclast</sg>,;
+<sg>nihilist</sg>,;
+<br>
+</paragraph>

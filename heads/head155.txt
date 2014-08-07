@@ -1,0 +1,50 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#7#</sectionNumber>
+<headword>#<b>#[001] #155# Interchange #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>interchange, </i>exchange</sg>,;
+<sg>commutation, permutation, intermutation</sg>,;
+<sg>reciprocation, transposition, rearrangement</sg>,;
+<sg>shuffling</sg>,;
+<sg>alternation, reciprocity</sg>,;
+<sg>castling (at chess)</sg>,;
+<sg>hocus-pocus</sg>,;
+<sg>interchangeableness, interchangeability</sg>,;
+<sg>recombination</sg>,;
+<sg>combination ,<cref> 48 <i>connection</i></cref></sg>,;
+<sg>barter ,<cref> 794 <i>offer</i></cref></sg>,;
+<sg>tit for tat ,<cref>718 <i>retaliation</i></cref></sg>,;
+<sg>cross fire, battledore and shuttlecock</sg>,;
+<sg>quid pro quo</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>interchange, exchange, counterchange</sg>,;
+<sg>bandy, transpose, shuffle, change bands, swap, permute, reciprocate, commute</sg>,;
+<sg>give and take, return the compliment</sg>,;
+<sg>play at puss in the corner, play at battledore and shuttlecock</sg>,;
+<sg>retaliate ,<cref> 718 <i>refreshment</i></cref></sg>,;
+<sg>requite</sg>,;
+<sg>rearrange, recombine</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>interchanged</sg>,;
+<sg>reciprocal, mutual, commutative, interchangeable, intercurrent</sg>,;
+<sg>combinatorial</sg>,;
+<sg>recombinant</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>in exchange, vice versa, mutatis mutandis, backwards and forwards, by turns, turn and turn about</sg>,;
+<sg>each in his turn, everyone in his turn</sg>,;
+<br>
+</paragraph>

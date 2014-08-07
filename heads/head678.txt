@@ -1,0 +1,122 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#27#</sectionNumber>
+<headword>#<b>#[001] #678# Badness #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>badness, </i>hurtfulness</sg>,;
+<sg>virulence</sg>,;
+<sg>evil doer ,<cref> 913 <i>disrepute</i></cref></sg>,;
+<sg>bane ,<cref> 663 <i>substitute</i></cref></sg>,;
+<sg>plague spot ,<cref>657 <i>insalubrity</i></cref></sg>,;
+<sg>evil star, ill wind</sg>,;
+<sg>hoodoo</sg>,;
+<sg>Jonah</sg>,;
+<sg>snake in the grass, skeleton in the closet</sg>,;
+<sg>amari aliquid, thorn in the side</sg>,;
+<sg>malignity</sg>,;
+<sg>malevolence ,<cref> 907 <i>fastidiousness</i></cref></sg>,;
+<sg>tender mercies</sg>,;
+<sg>ill-treatment, annoyance, molestation, abuse, oppression, persecution, outrage</sg>,;
+<sg>misusage ,<cref> 679 <i>perfection</i></cref></sg>,;
+<sg>injury ,<cref>659 <i>damage</i></cref></sg>,;
+<sg>knockout drops</sg>,;
+<sg>badness</sg>,;
+<sg>peccancy, abomination</sg>,;
+<sg>painfulness ,<cref> 830 <i>merchant</i></cref></sg>,;
+<sg>pestilence ,<cref>655 <i>disease</i></cref></sg>,;
+<sg>guilt ,<cref> 947 <i>malevolence</i></cref></sg>,;
+<sg>depravity ,<cref> 945 <i>divorce</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be hurtful</sg>,;
+<sg>cause evil, produce evil, inflict evil, work evil, do evil ,<cref> 619 <i>book</i></cref></sg>,;
+<sg>damnify, endamage, hurt, harm</sg>,;
+<sg>injure ,<cref>659 <i>damage</i></cref></sg>,;
+<sg>pain ,<cref> 830 <i>merchant</i></cref></sg>,;
+<sg>wrong, aggrieve, oppress, persecute</sg>,;
+<sg>trample upon, tread upon, bear hard upon, put upon</sg>,;
+<sg>overburden</sg>,;
+<sg>weigh down, weigh heavy on</sg>,;
+<sg>victimize</sg>,;
+<sg>run down</sg>,;
+<sg>molest ,<cref> 830 <i>merchant</i></cref></sg>,;
+<sg>maltreat, abuse</sg>,;
+<sg>ill-use, ill-treat</sg>,;
+<sg>buffet, bruise, scratch, maul</sg>,;
+<sg>smite ,<cref>972 <i>scourge</i></cref></sg>,;
+<sg>do violence, do harm, do a mischief</sg>,;
+<sg>stab, pierce, outrage</sg>,;
+<sg>do mischief, make mischief</sg>,;
+<sg>bring into trouble</sg>,;
+<sg>destroy ,<cref> 162 <i>attribution</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>hurtful, harmful, scathful, baneful, baleful</sg>,;
+<sg>injurious, deleterious, detrimental, noxious, pernicious, mischievous, full of mischief, mischief-making, malefic, malignant, nocuous, noisome</sg>,;
+<sg>prejudicial</sg>,;
+<sg>disserviceable, disadvantageous</sg>,;
+<sg>wide-wasting</sg>,;
+<sg>unlucky, sinister</sg>,;
+<sg>obnoxious</sg>,;
+<sg>untoward, disastrous</sg>,;
+<sg>oppressive, burdensome, onerous</sg>,;
+<sg>malign ,<cref>907 <i>malevolent</i></cref></sg>,;
+<sg>corrupting &c (corrupt) ,<cref> 659 <i>requirement</i></cref></sg>,;
+<sg>virulent, venomous, envenomed, corrosive</sg>,;
+<sg>poisonous ,<cref>657 <i>morbific</i></cref></sg>,;
+<sg>deadly ,<cref>361 <i>killing</i></cref></sg>,;
+<sg>destructive ,<cref>162 <i>destroying</i></cref></sg>,;
+<sg>inauspicious ,<cref> 859 <i>feeling</i></cref></sg>,;
+<sg>bad, ill, arrant, as bad as bad can be, dreadful</sg>,;
+<sg>horrid, horrible</sg>,;
+<sg>dire</sg>,;
+<sg>rank, peccant, foul, fulsome</sg>,;
+<sg>rotten, rotten at the core</sg>,;
+<sg>vile, base, villainous</sg>,;
+<sg>mean ,<cref>643 <i>paltry</i></cref></sg>,;
+<sg>injured </sg>,;
+<sg>deteriorated ,<cref> 659 <i>requirement</i></cref></sg>,;
+<sg>unsatisfactory, exceptionable indifferent</sg>,;
+<sg>below par ,<cref>651 <i>imperfect</i></cref></sg>,;
+<sg>illcontrived, ill-conditioned</sg>,;
+<sg>wretched, sad, grievous, deplorable, lamentable</sg>,;
+<sg>pitiful, pitiable, woeful ,<cref>830 <i>painful</i></cref></sg>,;
+<sg>evil, wrong</sg>,;
+<sg>depraved ,<cref> 945 <i>divorce</i></cref></sg>,;
+<sg>shocking</sg>,;
+<sg>reprehensible ,<cref>932 <i>disapprove</i></cref></sg>,;
+<sg>hateful, hateful as a toad</sg>,;
+<sg>abominable, detestable, execrable, cursed, accursed, confounded</sg>,;
+<sg>damned, damnable</sg>,;
+<sg>infernal</sg>,;
+<sg>diabolic ,<cref>907 <i>malevolent</i></cref></sg>,;
+<sg>unadvisable ,<cref>647 <i>inexpedient</i></cref></sg>,;
+<sg>unprofitable ,<cref>645 <i>useless</i></cref></sg>,;
+<sg>incompetent ,<cref>699 <i>unskillful</i></cref></sg>,;
+<sg>irremediable ,<cref>859 <i>hopeless</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>badly</sg>,;
+<sg>wrong, ill</sg>,;
+<sg>to one's cost</sg>,;
+<sg>where the shoe pinches</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>bad is the best: the worst come to the worst</sg>,;
+<sg>herba mala presto cresco</sg>,;
+<sg>wrongs unredressed or insults unavenged</sg>,;
+<br>
+</paragraph>

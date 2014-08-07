@@ -1,0 +1,57 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#3#</sectionNumber>
+<headword>#<b>#[001] #48# Connection #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>connection, </i>vinculum, link</sg>,;
+<sg>connective, connection</sg>,;
+<sg>junction ,<cref> 43 <i>decrement</i></cref></sg>,;
+<sg>bond of union, copula, hyphen, intermedium</sg>,;
+<sg>bracket</sg>,;
+<sg>bridge, stepping-stone, isthmus</sg>,;
+<sg>bond, tendon, tendril</sg>,;
+<sg>fiber</sg>,;
+<sg>cord, cordage</sg>,;
+<sg>riband, ribbon, rope, guy, cable, line, halser, hawser, painter, moorings, wire, chain</sg>,;
+<sg>string ,<cref>205 <i>filament</i></cref></sg>,;
+<sg>fastener, fastening, tie</sg>,;
+<sg>ligament, ligature</sg>,;
+<sg>strap</sg>,;
+<sg>tackle, rigging</sg>,;
+<sg>standing rigging, running rigging</sg>,;
+<sg>traces, harness</sg>,;
+<sg>yoke</sg>,;
+<sg>band ribband, bandage</sg>,;
+<sg>brace, roller, fillet</sg>,;
+<sg>inkle</sg>,;
+<sg>with, withe, withy</sg>,;
+<sg>thong, braid</sg>,;
+<sg>girder, tiebeam</sg>,;
+<sg>girth, girdle, cestus, garter, halter, noose, lasso, surcingle, knot, running knot</sg>,;
+<sg>cabestro, cinch, lariat, legadero, oxreim</sg>,;
+<sg>suspenders</sg>,;
+<sg>pin, corking pin, nail, brad, tack, skewer, staple, corrugated fastener</sg>,;
+<sg>clamp, U-clamp, C-clamp</sg>,;
+<sg>cramp, cramp iron</sg>,;
+<sg>ratchet, detent, larigo, pawl</sg>,;
+<sg>terret, treenail, screw, button, buckle</sg>,;
+<sg>clasp, hasp, hinge, hank, catch, latch, bolt, latchet, tag</sg>,;
+<sg>tooth</sg>,;
+<sg>hook, hook and eye</sg>,;
+<sg>lock, holdfast, padlock, rivet</sg>,;
+<sg>anchor, grappling iron, trennel, stake, post</sg>,;
+<sg>cement, glue, gum, paste, size, wafer, solder, lute, putty, birdlime, mortar, stucco, plaster, grout</sg>,;
+<sg>viscum</sg>,;
+<sg>shackle, rein ,<cref>752 <i>means of restraint</i></cref></sg>,;
+<sg>prop ,<cref>215 <i>support</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>bridge over, span</sg>,;
+<sg>connect ,<cref> 43 <i>decrement</i></cref></sg>,;
+<sg>hang ,<cref> 214 <i>filament</i></cref></sg>,;
+<br>
+</paragraph>

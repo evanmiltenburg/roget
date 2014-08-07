@@ -1,0 +1,102 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#36#</sectionNumber>
+<headword>#<b>#[001] #909# Wonder #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>wonder, </i>marvel</sg>,;
+<sg>astonishment, amazement, wonderment, bewilderment</sg>,;
+<sg>amazedness</sg>,;
+<sg>admiration, awe</sg>,;
+<sg>stupor, stupefaction</sg>,;
+<sg>stound, fascination</sg>,;
+<sg>sensation</sg>,;
+<sg>surprise ,<cref>508 <i>inexpectation</i></cref></sg>,;
+<sg>note of admiration</sg>,;
+<sg>thaumaturgy ,<cref>992 <i>sorcery</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>wonder, marvel, admire</sg>,;
+<sg>be surprised</sg>,;
+<sg>start</sg>,;
+<sg>stare</sg>,;
+<sg>open one's eyes, rub one's eyes, turn up one's eyes</sg>,;
+<sg>gloar</sg>,;
+<sg>gape, open one's mouth, hold one's breath</sg>,;
+<sg>look aghast, stand aghast, stand agog</sg>,;
+<sg>look blank ,<cref>509 <i>disappointment</i></cref></sg>,;
+<sg>tombe des nues</sg>,;
+<sg>not believe one's eyes, not believe one's ears, not believe one's senses</sg>,;
+<sg>not be able to account for ,<cref>519 <i>unintelligible</i></cref></sg>,;
+<sg>not know whether one stands on one's head or one's heels</sg>,;
+<sg>surprise, astonish, amaze, astound</sg>,;
+<sg>dumfound, dumfounder</sg>,;
+<sg>startle, dazzle</sg>,;
+<sg>daze</sg>,;
+<sg>strike, strike with wonder, strike with awe</sg>,;
+<sg>electrify</sg>,;
+<sg>stun, stupefy, petrify, confound, bewilder, flabbergast, stagger, throw on one's beam ends, fascinate, turn the head, take away one's breath, strike dumb</sg>,;
+<sg>make one's hair stand on end, make one's tongue cleave to the roof of one's mouth</sg>,;
+<sg>make one stare</sg>,;
+<sg>take by surprise ,<cref>508 <i>be unexpected</i></cref></sg>,;
+<sg>be wonderful</sg>,;
+<sg>beggar description, beggar the imagination, baffle description</sg>,;
+<sg>stagger belief</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>surprised</sg>,;
+<sg>aghast, all agog, breathless, agape</sg>,;
+<sg>open- mouthed</sg>,;
+<sg>awestruck, thunderstruck, moonstruck, planet-struck</sg>,;
+<sg>spellbound</sg>,;
+<sg>lost in amazement, lost in wonder, lost in astonishment</sg>,;
+<sg>struck all of a heap, unable to believe one's senses, like a duck ion thunder</sg>,;
+<sg>wonderful, wondrous</sg>,;
+<sg>surprising</sg>,;
+<sg>unexpected ,<cref> 508 <i>belief</i></cref></sg>,;
+<sg>unheard of</sg>,;
+<sg>mysterious ,<cref>519 <i>inexplicable</i></cref></sg>,;
+<sg>miraculous</sg>,;
+<sg>indescribable, inexpressible, inaffable</sg>,;
+<sg>unutterable, unspeakable</sg>,;
+<sg>monstrous, prodigious, stupendous, marvelous</sg>,;
+<sg>inconceivable, incredible</sg>,;
+<sg>inimaginable, unimaginable</sg>,;
+<sg>strange ,<cref>83 <i>uncommon</i></cref></sg>,;
+<sg>passing strange</sg>,;
+<sg>striking</sg>,;
+<sg>overwhelming</sg>,;
+<sg>wonder-working</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>wonderfully,</sg>,;
+<sg>fearfully</sg>,;
+<sg>for a wonder, in the name of wonder</sg>,;
+<sg>strange to say</sg>,;
+<sg>mirabile dictu, mirabile visu</sg>,;
+<sg>to one's great surprise</sg>,;
+<sg>with wonder</sg>,;
+<sg>, with gaping mouth</sg>,;
+<sg>with open eyes, with upturned eyes</sg>,;
+<sg>Int</sg>,;
+<sg>lo, lo and behold!, O!, heyday!, halloo!, what!, indeed!, really!, surely!, humph!, hem!, good lack, good heavens, good gracious!, Ye gods!, good Lord!, good grief!, Holy cow!, My word!, Holy shit!, gad so!, welladay!, dear me!, only think!, lackadaisy!, my stars, my goodness!, gracious goodness!, goodness gracious!, mercy on us!, heavens and earth!, God bless me!, bless us, bless my heart!, odzookens!, O gemini!, adzooks!, hoity-toity!, strong!, Heaven save the mark, bless the mark!, can such things be!, zounds!, 'sdeath!, what on earth, what in the world!, who would have thought it!, ,<cref>508 <i>inexpectation</i></cref></sg>,;
+<sg>you don't say so!, You're kidding!</sg>,;
+<sg>No kidding? what do you say to that!, nous verrons!, how now!, where am I?</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>vox faucibus haesit</sg>,;
+<sg>one's hair standing on end</sg>,;
+<br>
+</paragraph>

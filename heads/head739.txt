@@ -1,0 +1,21 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#29#</sectionNumber>
+<headword>#<b>#[001] #739# Opponent #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>opponent, </i>antagonist, adversary</sg>,;
+<sg>adverse party, opposition</sg>,;
+<sg>enemy ,<cref> 891 <i>fashion</i></cref></sg>,;
+<sg>the other side</sg>,;
+<sg>assailant</sg>,;
+<sg>oppositionist, obstructive</sg>,;
+<sg>brawler, wrangler, brangler, disputant</sg>,;
+<sg>filibuster, obstructionist</sg>,;
+<sg>malcontent</sg>,;
+<sg>Jacobin, Fenian</sg>,;
+<sg>demagogue, reactionist</sg>,;
+<sg>rival, competitor</sg>,;
+<sg>bete noir</sg>,;
+<br>
+</paragraph>

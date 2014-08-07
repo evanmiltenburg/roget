@@ -1,0 +1,63 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#29#</sectionNumber>
+<headword>#<b>#[001] #744# Defiance #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>defiance</i></sg>,;
+<sg>daring</sg>,;
+<sg>dare</sg>,;
+<sg>challenge, cartel</sg>,;
+<sg>threat ,<cref> 909 <i>wonder</i></cref></sg>,;
+<sg>war cry, war whoop</sg>,;
+<sg>chest-beating, chest-thumping</sg>,;
+<sg>saber rattling</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>defy, dare, beard</sg>,;
+<sg>brave ,<cref>861 <i>courage</i></cref></sg>,;
+<sg>bid defiance to</sg>,;
+<sg>set at defiance, set at naught</sg>,;
+<sg>hurl defiance at</sg>,;
+<sg>dance the war dance, beat the war drums</sg>,;
+<sg>snap the fingers at, laugh to scorn</sg>,;
+<sg>disobey ,<cref> 742 <i>discord</i></cref></sg>,;
+<sg>show fight, show one's teeth, show a bold front</sg>,;
+<sg>bluster, look big, stand akimbo, beat one's chest</sg>,;
+<sg>double the fist, shake the fist</sg>,;
+<sg>threaten ,<cref> 909 <i>wonder</i></cref></sg>,;
+<sg>challenge, call out</sg>,;
+<sg>throw down the gauntlet, fling down the gauntlet, fling down the gage, fling down the glove, throw down the glove</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>defiant</sg>,;
+<sg>defying</sg>,;
+<sg>with 'with arms akimbo'</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>in defiance of, in the teeth of</sg>,;
+<sg>under one's very nose</sg>,;
+<sg>Int</sg>,;
+<sg>do your worst!, come if you dare!, come on!, marry come up!, hoity toity!,</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>noli me tangere</sg>,;
+<sg>nemo me impune lacessit</sg>,;
+<sg>don't tread on me</sg>,;
+<sg>don't you dare</sg>,;
+<sg>don't even think of it</sg>,;
+<sg>Go ahead, make my day!</sg>,;
+<br>
+</paragraph>

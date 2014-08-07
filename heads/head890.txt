@@ -1,0 +1,89 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#36#</sectionNumber>
+<headword>#<b>#[001] #890# Vulgarity #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>vulgarity, </i>vulgarism</sg>,;
+<sg>barbarism, Vandalism, Gothicism</sg>,;
+<sg>mauvis gout, bad taste</sg>,;
+<sg>gaucherie, awkwardness, want of tact</sg>,;
+<sg>ill-breeding ,<cref>895 <i>discourtesy</i></cref></sg>,;
+<sg>courseness</sg>,;
+<sg>indecorum, misbehavior</sg>,;
+<sg>lowness, homeliness</sg>,;
+<sg>low life, mauvais ton, rusticity</sg>,;
+<sg>boorishness</sg>,;
+<sg>brutality</sg>,;
+<sg>rowdyism, blackguardism</sg>,;
+<sg>ribaldry</sg>,;
+<sg>slang ,<cref>563 <i>neology</i></cref></sg>,;
+<sg>bad joke, mauvais plaisanterie</sg>,;
+<sg>gaudiness, tawdriness</sg>,;
+<sg>false ornament</sg>,;
+<sg>finery, frippery, trickery, tinsel, gewgaw, clinquant</sg>,;
+<sg>baroque, rococo</sg>,;
+<sg>rough diamond, tomboy, hoyden, cub, unlicked cub</sg>,;
+<sg>clown ,<cref>876 <i>commonalty</i></cref></sg>,;
+<sg>Goth, Vandal, Boeotian</sg>,;
+<sg>snob, cad, gent</sg>,;
+<sg>parvenu ,<cref> 876 <i>rejoicing</i></cref></sg>,;
+<sg>frump, dowdy</sg>,;
+<sg>slattern ,<cref> 653 <i>relinquishment</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be vulgar</sg>,;
+<sg>misbehave</sg>,;
+<sg>talk shop, smell of the shop</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>in bad taste vulgar, unrefined</sg>,;
+<sg>coarse, indecorous, ribald, gross</sg>,;
+<sg>unseemly, unbeseeming, unpresentable</sg>,;
+<sg>contra bonos mores</sg>,;
+<sg>ungraceful ,<cref>846 <i>ugly</i></cref></sg>,;
+<sg>dowdy</sg>,;
+<sg>slovenly ,<cref>653 <i>dirty</i></cref></sg>,;
+<sg>ungenteel, shabby genteel</sg>,;
+<sg>low, common, hoi polloi, ,<cref>876 <i>plebeian</i></cref></sg>,;
+<sg>uncourtly</sg>,;
+<sg>uncivil ,<cref>895 <i>discourteous</i></cref></sg>,;
+<sg>ill bred, ill mannered</sg>,;
+<sg>underbred</sg>,;
+<sg>ungentlemanly, ungentlemanlike</sg>,;
+<sg>unladylike, unfeminine</sg>,;
+<sg>wild, wild as an unbacked colt</sg>,;
+<sg>untutored, unschooled (ignorant) 491</sg>,;
+<sg>unkempt</sg>,;
+<sg>uncombed, untamed, unlicked, unpolished, uncouth</sg>,;
+<sg>plebeian</sg>,;
+<sg>incondite</sg>,;
+<sg>heavy, rude, awkward</sg>,;
+<sg>homely, homespun, home bred</sg>,;
+<sg>provincial, countrified, rustic</sg>,;
+<sg>boorish, clownish</sg>,;
+<sg>savage, brutish, blackguard, rowdy, snobbish</sg>,;
+<sg>barbarous, barbaric</sg>,;
+<sg>Gothic, unclassical, doggerel, heathenish, tramontane, outlandish</sg>,;
+<sg>uncultivated</sg>,;
+<sg>Bohemian</sg>,;
+<sg>obsolete ,<cref>124 <i>antiquated</i></cref></sg>,;
+<sg>unfashionable</sg>,;
+<sg>newfangled ,<cref>83 <i>unfamiliar</i></cref></sg>,;
+<sg>odd ,<cref>853 <i>ridiculous</i></cref></sg>,;
+<sg>particular</sg>,;
+<sg>affected ,<cref> 855 <i>greed</i></cref></sg>,;
+<sg>meretricious</sg>,;
+<sg>extravagant, monstrous, horrid</sg>,;
+<sg>shocking ,<cref>830 <i>painful</i></cref></sg>,;
+<sg>gaudy, tawdry, overornamented, baroque, rococo</sg>,;
+<sg>bedizened, tricked out, gingerbread</sg>,;
+<sg>obtrusive</sg>,;
+<br>
+</paragraph>

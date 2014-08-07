@@ -1,0 +1,80 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#32#</sectionNumber>
+<headword>#<b>#[001] #791# Permission #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>permission, </i>leave</sg>,;
+<sg>allowance, sufferance</sg>,;
+<sg>tolerance, toleration</sg>,;
+<sg>liberty, law, license, concession, grace</sg>,;
+<sg>indulgence ,<cref>740 <i>lenity</i></cref></sg>,;
+<sg>favor, dispensation, exemption, release</sg>,;
+<sg>connivance</sg>,;
+<sg>vouchsafement</sg>,;
+<sg>authorization, warranty, accordance, admission</sg>,;
+<sg>permit, warrant, brevet, precept, sanction, authority, firman</sg>,;
+<sg>hukm</sg>,;
+<sg>pass, passport</sg>,;
+<sg>furlough, license, carte blanche, ticket of leave</sg>,;
+<sg>grant, charter</sg>,;
+<sg>patent, letters patent</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>permit</sg>,;
+<sg>give permission</sg>,;
+<sg>, give power</sg>,;
+<sg>let, allow, admit</sg>,;
+<sg>suffer, bear with, tolerate, recognize</sg>,;
+<sg>concede ,<cref> 762 <i>trophy</i></cref></sg>,;
+<sg>accord, vouchsafe, favor, humor, gratify, indulge, stretch a point</sg>,;
+<sg>wink at, connive at</sg>,;
+<sg>shut one's eyes to</sg>,;
+<sg>grant, empower, charter, enfranchise, privilege, confer a privilege, license, authorize, warrant</sg>,;
+<sg>sanction</sg>,;
+<sg>intrust ,<cref>755 <i>commission</i></cref></sg>,;
+<sg>give carte blanche, give the reins to, give scope to ,<cref>748 <i>freedom</i></cref></sg>,;
+<sg>leave alone, leave it to one, leave the door open</sg>,;
+<sg>open the door to, open the flood gates</sg>,;
+<sg>give a loose to</sg>,;
+<sg>let off</sg>,;
+<sg>absolve ,<cref>970 <i>acquit</i></cref></sg>,;
+<sg>release, exonerate, dispense with</sg>,;
+<sg>ask permission, beg permission, request permission, ask leave, beg leave, request leave</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>permitting</sg>,;
+<sg>permissive, indulgent</sg>,;
+<sg>permitted</sg>,;
+<sg>patent, chartered, permissible, allowable, lawful, legitimate, legal</sg>,;
+<sg>legalized ,<cref>963 <i>law</i></cref></sg>,;
+<sg>licit</sg>,;
+<sg>unforbid, unforbidden</sg>,;
+<sg>unconditional</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>by leave, with leave, on leave</sg>,;
+<sg>speciali gratia</sg>,;
+<sg>under favor of</sg>,;
+<sg>pace</sg>,;
+<sg>ad libitum ,<cref>600 <i>freely) 748, (at will</i></cref></sg>,;
+<sg>by all means ,<cref>602 <i>willingly</i></cref></sg>,;
+<sg>yes ,<cref>488 <i>assent</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>avec permissin</sg>,;
+<sg>brevet d'invention</sg>,;
+<br>
+</paragraph>

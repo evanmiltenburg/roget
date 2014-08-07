@@ -1,0 +1,62 @@
+<classNumber>#2#</classNumber>
+<sectionNumber>#10#</sectionNumber>
+<headword>#<b>#[001] #204# Contraction #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>contraction, </i>reduction, diminution</sg>,;
+<sg>decrease of size ,<cref> 36 <i>inferiority</i></cref></sg>,;
+<sg>defalcation, decrement</sg>,;
+<sg>lessening, shrinking</sg>,;
+<sg>compaction</sg>,;
+<sg>tabes, collapse, emaciation, attenuation, tabefaction, consumption, marasmus, atrophy</sg>,;
+<sg>systole, neck, hourglass</sg>,;
+<sg>condensation, compression, compactness</sg>,;
+<sg>compendium ,<cref> 596 <i>perspicuity</i></cref></sg>,;
+<sg>squeezing</sg>,;
+<sg>strangulation</sg>,;
+<sg>corrugation</sg>,;
+<sg>astringency</sg>,;
+<sg>astringents, sclerotics</sg>,;
+<sg>contractility, compressibility</sg>,;
+<sg>coarctation</sg>,;
+<sg>inferiority in size</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>become small, become smaller</sg>,;
+<sg>lessen, decrease ,<cref> 36 <i>inferiority</i></cref></sg>,;
+<sg>grow less, dwindle, shrink, contract, narrow, shrivel, collapse, wither, lose flesh, wizen, fall away, waste, wane, ebb</sg>,;
+<sg>decay ,<cref>659 <i>deteriorate</i></cref></sg>,;
+<sg>be smaller than, fall short of</sg>,;
+<sg>not come up to ,<cref>34 <i>be inferior</i></cref></sg>,;
+<sg>render smaller, lessen, diminish, contract, draw in, narrow, coarctate</sg>,;
+<sg>boil down</sg>,;
+<sg>constrict, constringe</sg>,;
+<sg>condense, compress, squeeze, corrugate, crimp, crunch, crush, crumple up, warp, purse up, pack, squeeze, stow</sg>,;
+<sg>pinch, tighten, strangle</sg>,;
+<sg>cramp</sg>,;
+<sg>dwarf, bedwarf</sg>,;
+<sg>shorten ,<cref> 201 <i>size</i></cref></sg>,;
+<sg>circumscribe ,<cref> 229 <i>crossing</i></cref></sg>,;
+<sg>restrain ,<cref> 751 <i>warfare</i></cref></sg>,;
+<sg>(subtraction) 38 abrade, pare, reduce, attenuate, rub down, scrape, file, file down, grind, grind down, chip, shave, shear, wear down</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>contracting</sg>,;
+<sg>astringent</sg>,;
+<sg>shrunk, contracted</sg>,;
+<sg>strangulated, tabid, wizened, stunted</sg>,;
+<sg>waning</sg>,;
+<sg>neap, compact</sg>,;
+<sg>unexpanded &c (expand) ,<cref> 194 <i>displacement</i></cref></sg>,;
+<sg>contractile</sg>,;
+<sg>compressible</sg>,;
+<sg>smaller &c (small) ,<cref> 193 <i>location</i></cref></sg>,;
+<br>
+</paragraph>

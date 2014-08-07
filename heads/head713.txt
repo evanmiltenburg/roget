@@ -1,0 +1,85 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#28#</sectionNumber>
+<headword>#<b>#[001] #713# Haste #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>haste, </i>urgency</sg>,;
+<sg>despatch, dispatch</sg>,;
+<sg>acceleration, spurt, spirt, forced march, rush, dash</sg>,;
+<sg>speed, velocity ,<cref> 274 <i>stopper</i></cref></sg>,;
+<sg>precipitancy, precipitation, precipitousness</sg>,;
+<sg>impetuosity</sg>,;
+<sg>brusquerie</sg>,;
+<sg>hurry, drive, scramble, bustle, fuss, fidget, flurry, flutter, splutter</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>haste, hasten</sg>,;
+<sg>make haste, make a dash</sg>,;
+<sg>hurry on, dash on, whip on, push on, press on, press forward</sg>,;
+<sg>hurry, skurry, scuttle along, barrel along, bundle on, dart to and fro, bustle, flutter, scramble</sg>,;
+<sg>plunge, plunge headlong</sg>,;
+<sg>dash off</sg>,;
+<sg>rush ,<cref>173 <i>violence</i></cref></sg>,;
+<sg>express</sg>,;
+<sg>bestir oneself ,<cref>682 <i>be active</i></cref></sg>,;
+<sg>lose no time, lose not a moment, lose not an instant</sg>,;
+<sg>make short work of</sg>,;
+<sg>make the best of one's time, make the best of one's way</sg>,;
+<sg>be precipitate</sg>,;
+<sg>jump at, be in haste, be in a hurry</sg>,;
+<sg>have no time, have not a moment to lose, have not a moment to spare</sg>,;
+<sg>work against time</sg>,;
+<sg>quicken ,<cref> 274 <i>stopper</i></cref></sg>,;
+<sg>accelerate, expedite, put on, precipitate, urge, whip</sg>,;
+<sg>railroad</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>hasty, hurried, brusque</sg>,;
+<sg>scrambling, cursory, precipitate, headlong, furious, boisterous, impetuous, hotheaded</sg>,;
+<sg>feverish, fussy</sg>,;
+<sg>pushing</sg>,;
+<sg>in haste, in a hurry</sg>,;
+<sg>in hot haste, in all haste</sg>,;
+<sg>breathless, pressed for time, hard pressed, urgent</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>with haste, with all haste, with breathless speed</sg>,;
+<sg>in haste</sg>,;
+<sg>apace ,<cref>274 <i>swiftly</i></cref></sg>,;
+<sg>amain</sg>,;
+<sg>all at once ,<cref>113 <i>instantaneously</i></cref></sg>,;
+<sg>at short notice </sg>,;
+<sg>immediately ,<cref>132 <i>early</i></cref></sg>,;
+<sg>posthaste</sg>,;
+<sg>by cable, by express, by telegraph, by forced marches</sg>,;
+<sg>hastily, precipitately</sg>,;
+<sg>helter-skelter, hurry-skurry, holus-bolus</sg>,;
+<sg>slapdash, slap-bang</sg>,;
+<sg>full-tilt, full drive</sg>,;
+<sg>heels over head, head and shoulders, headlong, a corps perdu</sg>,;
+<sg>by fits and starts, by spurts</sg>,;
+<sg>hop skip and jump</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>sauve qui peut, every man for himself, devil take the hindmost, no time to be lost</sg>,;
+<sg>no sooner said than done ,<cref>132 <i>early</i></cref></sg>,;
+<sg>a word and a blow</sg>,;
+<sg>haste makes waste, maggiore fretta minore atto</sg>,;
+<sg>ohne Hast aber ohne Rast ,</sg>,;
+<sg>stand not upon the order of your going but go at once</sg>,;
+<sg>swift, swift, you dragons of the night</sg>,;
+<br>
+</paragraph>

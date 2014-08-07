@@ -1,0 +1,42 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#36#</sectionNumber>
+<headword>#<b>#[001] #873# Aggravation #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>aggravation, </i>worsening, heightening</sg>,;
+<sg>exacerbation</sg>,;
+<sg>exasperation</sg>,;
+<sg>overestimation ,<cref> 482 <i>answer</i></cref></sg>,;
+<sg>exaggeration ,<cref> 549 <i>interpreter</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>aggravate, render worse, heighten, embitter, sour</sg>,;
+<sg>exacerbate</sg>,;
+<sg>exasperate, envenom</sg>,;
+<sg>enrage, provoke, tease</sg>,;
+<sg>add fuel to the fire, add fuel to the flame</sg>,;
+<sg>fan the flame ,<cref>824 <i>excite</i></cref></sg>,;
+<sg>go from bad to worse ,<cref>659 <i>deteriorate</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>aggravated</sg>,;
+<sg>worse, unrelieved</sg>,;
+<sg>aggravable</sg>,;
+<sg>aggravating</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>out of the frying pan into the fire, from bad to worse, worse and worse</sg>,;
+<sg>Int</sg>,;
+<sg>so much the worse!,</sg>,;
+<br>
+</paragraph>

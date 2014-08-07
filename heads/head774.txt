@@ -1,0 +1,67 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#31#</sectionNumber>
+<headword>#<b>#[001] #774# Obedience #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>obedience</i></sg>,;
+<sg>observance ,<cref> 772 <i>command</i></cref></sg>,;
+<sg>compliance</sg>,;
+<sg>submission ,<cref> 725 <i>council</i></cref></sg>,;
+<sg>subjection ,<cref> 749 <i>contention</i></cref></sg>,;
+<sg>nonresistance</sg>,;
+<sg>passiveness, resignation</sg>,;
+<sg>allegiance, loyalty, fealty, homage, deference, devotion</sg>,;
+<sg>constancy, fidelity</sg>,;
+<sg>submissness, submissiveness</sg>,;
+<sg>ductility ,<cref>324 <i>softness</i></cref></sg>,;
+<sg>obsequiousness ,<cref>886 <i>servility</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be obedient</sg>,;
+<sg>obey, bear obedience to</sg>,;
+<sg>submit ,<cref> 725 <i>council</i></cref></sg>,;
+<sg>comply, answer the helm, come at one's call</sg>,;
+<sg>do one's bidding, do what one is told, do suit and service</sg>,;
+<sg>attend to orders, serve faithfully</sg>,;
+<sg>follow the lead of, follow to the world's end</sg>,;
+<sg>serve ,<cref> 746 <i>defense</i></cref></sg>,;
+<sg>play second fiddle</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>obedient</sg>,;
+<sg>complying, compliant</sg>,;
+<sg>loyal, faithful, devoted</sg>,;
+<sg>at one's call, at one's command, at one's orders, at one's beck and call</sg>,;
+<sg>under beck and call, under control</sg>,;
+<sg>restrainable</sg>,;
+<sg>resigned, passive</sg>,;
+<sg>submissive ,<cref> 725 <i>council</i></cref></sg>,;
+<sg>henpecked</sg>,;
+<sg>pliant ,<cref>324 <i>soft</i></cref></sg>,;
+<sg>unresisted</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>obediently</sg>,;
+<sg>in compliance with, in obedience to</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>to hear is to obey</sg>,;
+<sg>as you please, if you please</sg>,;
+<sg>your wish is my command</sg>,;
+<sg>as you wish</sg>,;
+<sg>no sooner said than done</sg>,;
+<br>
+</paragraph>

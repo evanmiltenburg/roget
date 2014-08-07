@@ -1,0 +1,62 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#20#</sectionNumber>
+<headword>#<b>#[001] #521# Absurdity #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>absurdity, </i>absurdness</sg>,;
+<sg>imbecility ,<cref> 499 <i>reasoning,</i></cref></sg>,;
+<sg>alogy, nonsense, utter nonsense</sg>,;
+<sg>paradox, inconsistency</sg>,;
+<sg>stultiloquy, stultiloquence</sg>,;
+<sg>nugacity</sg>,;
+<sg>blunder, muddle, bull</sg>,;
+<sg>Irishism, Hibernicism</sg>,;
+<sg>slipslop</sg>,;
+<sg>anticlimax, bathos</sg>,;
+<sg>sophism ,<cref> 477 <i>attention</i></cref></sg>,;
+<sg>farce, galimathias, amphigouri, rhapsody</sg>,;
+<sg>farrago ,<cref>59 <i>disorder</i></cref></sg>,;
+<sg>betise</sg>,;
+<sg>extravagance, romance</sg>,;
+<sg>sciamachy</sg>,;
+<sg>sell, pun, verbal quibble, macaronic</sg>,;
+<sg>jargon, fustian, twaddle, gibberish ,<cref>517 <i>no meaning</i></cref></sg>,;
+<sg>exaggeration ,<cref> 549 <i>interpreter</i></cref></sg>,;
+<sg>moonshine, stuff</sg>,;
+<sg>mare's nest, quibble, self- delusion</sg>,;
+<sg>vagary, tomfoolery, poppycock, mummery, monkey trick, boutade, escapade</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>play the fool ,<cref> 499 <i>reasoning,</i></cref></sg>,;
+<sg>talk nonsense, parler a tort et a travess</sg>,;
+<sg>battre la campagne</sg>,;
+<sg>hanemolia bazein</sg>,;
+<sg>be absurd</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>absurd, nonsensical, preposterous, egregious, senseless, inconsistent, ridiculous, extravagant, quibbling</sg>,;
+<sg>self-annulling, self- contradictory</sg>,;
+<sg>macaronic, punning</sg>,;
+<sg>foolish ,<cref> 499 <i>reasoning,</i></cref></sg>,;
+<sg>sophistical ,<cref> 477 <i>attention</i></cref></sg>,;
+<sg>unmeaning ,<cref> 517 <i>ignoramus</i></cref></sg>,;
+<sg>without rhyme or reason</sg>,;
+<sg>fantastic</sg>,;
+<sg>Int</sg>,;
+<sg>fiddlededee!, pish!, pho!, in the name of the Prophet--figs!</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>credat Judaeus Apella</sg>,;
+<sg>tell it to the marines</sg>,;
+<br>
+</paragraph>

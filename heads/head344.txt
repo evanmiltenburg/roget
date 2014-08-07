@@ -1,0 +1,36 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#14#</sectionNumber>
+<headword>#<b>#[001] #344# Fluidity #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>fluidity, </i>liquidity</sg>,;
+<sg>liquidness</sg>,;
+<sg>gaseity ,<cref> 334 <i>hardness</i></cref></sg>,;
+<sg>fluid, inelastic fluid</sg>,;
+<sg>liquid, liquor</sg>,;
+<sg>lymph, humor, juice, sap, serum, blood, serosity, gravy, rheum, ichor, sanies</sg>,;
+<sg>chyle</sg>,;
+<sg>solubility, solubleness</sg>,;
+<sg>hydrology, hydrostatics, hydrodynamics</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be fluid</sg>,;
+<sg>flow ,<cref>348 <i>water in motion</i></cref></sg>,;
+<sg>liquefy, melt, condense ,<cref> 335 <i>softness</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>liquid, fluid, serous, juicy, succulent, sappy</sg>,;
+<sg>ichorous</sg>,;
+<sg>fluent ,<cref>348 <i>flowing</i></cref></sg>,;
+<sg>liquefied ,<cref> 335 <i>softness</i></cref></sg>,;
+<sg>uncongealed</sg>,;
+<sg>soluble</sg>,;
+<br>
+</paragraph>

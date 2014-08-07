@@ -1,0 +1,105 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#27#</sectionNumber>
+<headword>#<b>#[001] #671# Importance #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>importance, </i>consequence, moment, prominence, consideration, mark, materialness</sg>,;
+<sg>import, significance, concern</sg>,;
+<sg>emphasis, interest</sg>,;
+<sg>greatness ,<cref> 31 <i>mean</i></cref></sg>,;
+<sg>superiority ,<cref> 33 <i>greatness</i></cref></sg>,;
+<sg>notability ,<cref>873 <i>repute</i></cref></sg>,;
+<sg>weight ,<cref>175 <i>influence</i></cref></sg>,;
+<sg>value ,<cref>648 <i>goodness</i></cref></sg>,;
+<sg>usefulness ,<cref> 644 <i>absence of motive</i></cref></sg>,;
+<sg>gravity, seriousness, solemnity</sg>,;
+<sg>no joke, no laughing matter</sg>,;
+<sg>pressure, urgency, stress</sg>,;
+<sg>matter of life and death</sg>,;
+<sg>memorabilia, notabilia, great doings</sg>,;
+<sg>red-letter day</sg>,;
+<sg>great thing, great point</sg>,;
+<sg>main chance, the be all and the end all</sg>,;
+<sg>cardinal point</sg>,;
+<sg>substance, gist ,<cref>5 <i>essence</i></cref></sg>,;
+<sg>sum and substance, gravamen, head and front</sg>,;
+<sg>important part, principal part, prominent part, essential part</sg>,;
+<sg>half the battle</sg>,;
+<sg>sine qua non</sg>,;
+<sg>breath of one's nostrils ,<cref>359 <i>life</i></cref></sg>,;
+<sg>cream, salt, core, kernel, heart, nucleus</sg>,;
+<sg>keynote, keystone</sg>,;
+<sg>corner stone</sg>,;
+<sg>trump card ,<cref>626 <i>device</i></cref></sg>,;
+<sg>salient points</sg>,;
+<sg>top sawyer, first fiddle, prima donna, chief</sg>,;
+<sg>triton among the minnows</sg>,;
+<sg>'it'</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be important</sg>,;
+<sg>, be somebody, be something</sg>,;
+<sg>import, signify, matter, boot, be an object</sg>,;
+<sg>carry weight ,<cref>175 <i>influence</i></cref></sg>,;
+<sg>make a figure ,<cref>873 <i>repute</i></cref></sg>,;
+<sg>be in the ascendant, come to the front, lead the way, take the lead, play first fiddle, throw all else into the shade</sg>,;
+<sg>lie at the root of</sg>,;
+<sg>deserve notice, merit notice, be worthy of notice, be worthy of regard, be worthy of consideration</sg>,;
+<sg>attach importance to, ascribe importance to, give importance to</sg>,;
+<sg>value, care for, set store upon, set store by</sg>,;
+<sg>mark ,<cref> 550 <i>manifestation</i></cref></sg>,;
+<sg>mark with a white stone, underline</sg>,;
+<sg>write in italics, put in italics, print in italics, print in capitals, print in large letters, put in large type, put in letters</sg>,;
+<sg>of gold</sg>,;
+<sg>accentuate, emphasize, lay stress on</sg>,;
+<sg>make a fuss about, make a fuss over, make a stir about, make a piece of work about, make much ado about</sg>,;
+<sg>make much ado of, make much of</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>important</sg>,;
+<sg>of importance</sg>,;
+<sg>momentous, material</sg>,;
+<sg>to the point</sg>,;
+<sg>not to be overlooked, not to be despised, not to be sneezed at</sg>,;
+<sg>egregious</sg>,;
+<sg>weighty ,<cref>175 <i>influential</i></cref></sg>,;
+<sg>of note ,<cref>873 <i>repute</i></cref></sg>,;
+<sg>notable, prominent, salient, signal</sg>,;
+<sg>memorable, remarkable</sg>,;
+<sg>unforgettable</sg>,;
+<sg>worthy of remark, worthy of notice</sg>,;
+<sg>never to be forgotten</sg>,;
+<sg>stirring, eventful</sg>,;
+<sg>grave, serious, earnest, noble, grand, solemn, impressive, commanding, imposing</sg>,;
+<sg>urgent, pressing, critical, instant</sg>,;
+<sg>paramount, essential, vital, all-absorbing, radical, cardinal, chief, main, prime, primary, principal, leading, capital, foremost, overruling</sg>,;
+<sg>of vital importance  in the front rank, first-rate</sg>,;
+<sg>superior ,<cref> 33 <i>greatness</i></cref></sg>,;
+<sg>considerable ,<cref>31 <i>great</i></cref></sg>,;
+<sg>marked</sg>,;
+<sg>rare ,<cref> 137 <i>adolescence</i></cref></sg>,;
+<sg>significant, telling, trenchant, emphatic, pregnant</sg>,;
+<sg>tanti</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>materially</sg>,;
+<sg>in the main</sg>,;
+<sg>above all, kat' exochin, par excellence, to crown all, to beat all</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>expende Hannibalem!</sg>,;
+<br>
+</paragraph>

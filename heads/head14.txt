@@ -1,0 +1,62 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#2#</sectionNumber>
+<headword>#<b>#[001] #14# Contrariety #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>contrariety, </i>contrast, foil, antithesis, oppositeness</sg>,;
+<sg>contradiction</sg>,;
+<sg>antagonism ,<cref>708 <i>opposition</i></cref></sg>,;
+<sg>clashing, repugnance</sg>,;
+<sg>inversion ,<cref> 218 <i>shallowness</i></cref></sg>,;
+<sg>the opposite, the reverse, the inverse, the converse, the antipodes, the antithesis, the other extreme</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be contrary</sg>,;
+<sg>contrast with, oppose</sg>,;
+<sg>diller toto coelo</sg>,;
+<sg>invert, reverse, turn the tables</sg>,;
+<sg>turn topsy-turvy, turn end for end, turn upside down, turn inside out</sg>,;
+<sg>contradict, contravene</sg>,;
+<sg>antagonize ,<cref> 708 <i>misuse</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>contrary, contrarious, contrariant</sg>,;
+<sg>opposite, counter, dead against</sg>,;
+<sg>converse, reverse</sg>,;
+<sg>opposed, antithetical, contrasted, antipodean, antagonistic, opposing</sg>,;
+<sg>conflicting, inconsistent, contradictory, at cross purposes</sg>,;
+<sg>negative</sg>,;
+<sg>hostile ,<cref> 703 <i>nonpreparation</i></cref></sg>,;
+<sg>differing toto coelo</sg>,;
+<sg>diametrically opposite</sg>,;
+<sg>diametrically opposed</sg>,;
+<sg>as opposite as black and white, as opposite as light and darkness, as opposite as fire and water, as opposite as the poles</sg>,;
+<sg>as different as night and day</sg>,;
+<sg>Hyperion to a satyr</sg>,;
+<sg>quite the contrary, quite the reverse</sg>,;
+<sg>no such thing, just the other way, tout au contraire</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>contrarily</sg>,;
+<sg>contra, contrariwise, per contra, on the contrary, nay rather</sg>,;
+<sg>vice versa</sg>,;
+<sg>on the other hand ,<cref>30 <i>in compensation</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>all concord's born of contraries</sg>,;
+<sg>Thesis, antithesis, synthesis</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,159 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#31#</sectionNumber>
+<headword>#<b>#[001] #767# Government #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>government, </i>legal authority, soveriegn, sovereign authority</sg>,;
+<sg>authority ,<cref> 737 <i>opposition</i></cref></sg>,;
+<sg>master ,<cref> 745 <i>attack</i></cref></sg>,;
+<sg>direction ,<cref> 693 <i>safety</i></cref></sg>,;
+<sg>national government, nation, state, country, nation- state, dominion, republic, empire, union, democratic republic</sg>,;
+<sg>kingdom, principality</sg>,;
+<sg>state government, state</sg>,;
+<sg>shire</sg>,;
+<sg>province</sg>,;
+<sg>county</sg>,;
+<sg>canton</sg>,;
+<sg>territory</sg>,;
+<sg>duchy, archduchy, archdukedom</sg>,;
+<sg>woiwodshaft</sg>,;
+<sg>commonwealth</sg>,;
+<sg>region ,<cref> 181 <i>moderation</i></cref></sg>,;
+<sg>property ,<cref> 780 <i>subjection</i></cref></sg>,;
+<sg>county, parish city, domain, tract, arrondissement, mofussil, commune</sg>,;
+<sg>wappentake, hundred, riding, lathe, garth, soke, tithing</sg>,;
+<sg>ward, precinct, bailiwick</sg>,;
+<sg>command, empire, sway, rule</sg>,;
+<sg>dominion, domination</sg>,;
+<sg>sovereignty, supremacy, suzerainty</sg>,;
+<sg>lordship, headship</sg>,;
+<sg>chiefdom</sg>,;
+<sg>seigniory, seigniority</sg>,;
+<sg>rule, sway, command, control, administer</sg>,;
+<sg>govern ,<cref>693 <i>direct</i></cref></sg>,;
+<sg>lead, preside over, reign, possess the throne, be seated on the throne, occupy the throne</sg>,;
+<sg>sway the scepter, wield the scepter</sg>,;
+<sg>wear the crown</sg>,;
+<sg>state, realm, body politic, posse comitatus</sg>,;
+<sg>judicature ,<cref> 965 <i>dueness</i></cref></sg>,;
+<sg>cabinet ,<cref>696 <i>council</i></cref></sg>,;
+<sg>seat of government, seat of authority</sg>,;
+<sg>headquarters</sg>,;
+<sg>accession</sg>,;
+<sg>installation ,<cref> 755 <i>combatant</i></cref></sg>,;
+<sg>politics ,<cref> 737 <i>opposition</i></cref></sg>,;
+<sg>1</sg>,;
+<sg>reign, regime, dynasty</sg>,;
+<sg>directorship, dictatorship</sg>,;
+<sg>protectorate, protectorship</sg>,;
+<sg>caliphate, pashalic, electorate</sg>,;
+<sg>presidency, presidentship</sg>,;
+<sg>administration</sg>,;
+<sg>proconsul, consulship</sg>,;
+<sg>prefecture</sg>,;
+<sg>seneschalship</sg>,;
+<sg>magistrature, magistracy</sg>,;
+<sg>monarchy</sg>,;
+<sg>kinghood, kingship</sg>,;
+<sg>royalty, regality</sg>,;
+<sg>aristarchy, aristocracy</sg>,;
+<sg>oligarchy, democracy, theocracy, demagogy</sg>,;
+<sg>commonwealth</sg>,;
+<sg>dominion</sg>,;
+<sg>heteronomy</sg>,;
+<sg>republic, republicanism</sg>,;
+<sg>socialism</sg>,;
+<sg>collectivism</sg>,;
+<sg>mob law, mobocracy, ochlocracy</sg>,;
+<sg>vox populi, imperium in imperio</sg>,;
+<sg>bureaucracy</sg>,;
+<sg>beadledom, bumbledom</sg>,;
+<sg>stratocracy</sg>,;
+<sg>military power, military government, junta</sg>,;
+<sg>feodality, feudal system, feudalism</sg>,;
+<sg>thearchy, theocracy, dinarchy</sg>,;
+<sg>duarchy, triarchy, heterarchy</sg>,;
+<sg>duumvirate</sg>,;
+<sg>triumvirate</sg>,;
+<sg>autocracy, autonomy</sg>,;
+<sg>limited monarchy</sg>,;
+<sg>constitutional government, constitutional monarchy</sg>,;
+<sg>home rule</sg>,;
+<sg>representative government</sg>,;
+<sg>monocracy, pantisocracy</sg>,;
+<sg>gynarchy, gynocracy, gynaeocracy</sg>,;
+<sg>petticoat government</sg>,;
+<sg>legislature, judiciary, administration</sg>,;
+<sg>office of the president, office of the prime minister, cabinet</sg>,;
+<sg>senate, house of representatives, parliament</sg>,;
+<sg>council ,<cref> 696 <i>pitfall</i></cref></sg>,;
+<sg>courts, supreme court</sg>,;
+<sg>state, interior, labor, health and human services, defense, education, agriculture, justice, commerce, treasury</sg>,;
+<sg>Federal Bureau of Investigation, FBI</sg>,;
+<sg>Central Intelligence Agency, CIA</sg>,;
+<sg>National Institutes of Health, NIH</sg>,;
+<sg>Postal Service, Post Office</sg>,;
+<sg>Federal Aviation Administration, FAA</sg>,;
+<sg>president, vice president, cabinet member, prime minister, minister</sg>,;
+<sg>senator, representatative, president pro tem, speaker of the house</sg>,;
+<sg>department head, section head, section chief</sg>,;
+<sg>federal judge, justice, justice of the supreme court, chief justice</sg>,;
+<sg>treasurer, secretary of the treasury</sg>,;
+<sg>director of the FBI</sg>,;
+<sg>governor, state cabinet member</sg>,;
+<sg>state senator, assemblyman, assemblywoman</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>govern, rule, have authority, hold authority, possess authority, exercise authority, exert authority, wield authority</sg>,;
+<sg>reign, be sovereign</sg>,;
+<sg>ascend the throne, mount the throne</sg>,;
+<sg>take the reins, take the reins into one's hand</sg>,;
+<sg>assume authority</sg>,;
+<sg>, assume the reins of government</sg>,;
+<sg>take command, assume command</sg>,;
+<sg>politics ,<cref> 737 <i>opposition</i></cref></sg>,;
+<sg>1</sg>,;
+<sg>be governed by, be in the power of, be a subject of, be a citizen of</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>regal, sovereign, governing</sg>,;
+<sg>royal, royalist</sg>,;
+<sg>monarchical, kingly</sg>,;
+<sg>imperial, imperiatorial</sg>,;
+<sg>princely</sg>,;
+<sg>feudal</sg>,;
+<sg>aristocratic, autocratic</sg>,;
+<sg>oligarchic</sg>,;
+<sg>republican, dynastic</sg>,;
+<sg>ruling</sg>,;
+<sg>regnant, gubernatorial</sg>,;
+<sg>imperious</sg>,;
+<sg>authoritative, executive, administrative, clothed with authority, official, departmental, ex officio, imperative, peremptory, overruling, absolute</sg>,;
+<sg>hegemonic, hegemonical</sg>,;
+<sg>authorized ,<cref>924 <i>due</i></cref></sg>,;
+<sg>government, public</sg>,;
+<sg>national, federal</sg>,;
+<sg>his majesty's, her majesty's</sg>,;
+<sg>state, county, city,  N</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>a dog's obeyed in office</sg>,;
+<sg>cada uno tiene su alguazil</sg>,;
+<sg>le Roi le veut</sg>,;
+<sg>regibus esse manus en nescio longas</sg>,;
+<sg>regnant populi</sg>,;
+<sg>the demigod Authority</sg>,;
+<sg>the right divine of kings to govern wrong</sg>,;
+<sg>uneasy lies the head that wears a crown</sg>,;
+<br>
+</paragraph>

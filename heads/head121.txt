@@ -1,0 +1,31 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#6#</sectionNumber>
+<headword>#<b>#[001] #121# Anachronism #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>anachronism, </i>metachronism, parachronism, prochronism</sg>,;
+<sg>prolepsis, misdate</sg>,;
+<sg>anticipation, antichronism</sg>,;
+<sg>disregard of time, neglect of time, oblivion of time</sg>,;
+<sg>intempestivity ,<cref> 135 <i>infant</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>misdate, antedate, postdate, backdate, overdate</sg>,;
+<sg>anticipate</sg>,;
+<sg>take no note of time, lose track of time</sg>,;
+<sg>anachronize</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>misdated</sg>,;
+<sg>undated</sg>,;
+<sg>overdue, past due</sg>,;
+<sg>out of date</sg>,;
+<br>
+</paragraph>

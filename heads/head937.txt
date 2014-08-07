@@ -1,0 +1,76 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#37#</sectionNumber>
+<headword>#<b>#[001] #937# Hate #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>hate, </i>hatred, vials of hate</sg>,;
+<sg>disaffection, disfavor</sg>,;
+<sg>alienation, estrangement, coolness</sg>,;
+<sg>enmity ,<cref> 889 <i>taste</i></cref></sg>,;
+<sg>animosity ,<cref> 900 <i>courage</i></cref></sg>,;
+<sg>umbrage, pique, grudge</sg>,;
+<sg>dudgeon, spleen bitterness, bitterness of feeling</sg>,;
+<sg>ill blood, bad blood</sg>,;
+<sg>acrimony</sg>,;
+<sg>malice ,<cref> 907 <i>fastidiousness</i></cref></sg>,;
+<sg>implacability ,<cref>919 <i>revenge</i></cref></sg>,;
+<sg>repugnance ,<cref>867 <i>dislike</i></cref></sg>,;
+<sg>misanthropy, demonophobia, gynephobia, negrophobia</sg>,;
+<sg>odium, unpopularity</sg>,;
+<sg>detestation, antipathy</sg>,;
+<sg>object of hatred, object of execration</sg>,;
+<sg>abomination, aversion, b=ete noire</sg>,;
+<sg>enemy ,<cref> 891 <i>fashion</i></cref></sg>,;
+<sg>bitter pill</sg>,;
+<sg>source of annoyance ,<cref> 830 <i>merchant</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>hate, detest, abominate, abhor, loathe</sg>,;
+<sg>recoil at, shudder at</sg>,;
+<sg>shrink from, view with horror, hold in abomination, revolt against, execrate</sg>,;
+<sg>scowl ,<cref> 895 <i>ridicule</i></cref></sg>,;
+<sg>disrelish ,<cref>867 <i>dislike</i></cref></sg>,;
+<sg>owe a grudge</sg>,;
+<sg>bear spleen, bear a grudge, bear malice ,<cref>907 <i>malevolence</i></cref></sg>,;
+<sg>conceive an aversion to, take a dislike to</sg>,;
+<sg>excite hatred, provoke hatred</sg>,;
+<sg>be hateful</sg>,;
+<sg>stink in the nostrils</sg>,;
+<sg>estrange, alienate, repel, set against, sow dissension, set by the ears, envenom, incense, irritate, rile</sg>,;
+<sg>horrify ,<cref> 830 <i>merchant</i></cref></sg>,;
+<sg>roil</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>hating</sg>,;
+<sg>abhorrent</sg>,;
+<sg>averse from ,<cref>867 <i>disliking</i></cref></sg>,;
+<sg>set against</sg>,;
+<sg>bitter ,<cref>895 <i>acrimonious</i></cref></sg>,;
+<sg>implacable ,<cref>919 <i>revengeful</i></cref></sg>,;
+<sg>unloved, unbeloved, unlamented, undeplored, unmourned, uncared for, unendeared, un-valued</sg>,;
+<sg>disliked ,<cref> 867 <i>pleasurableness</i></cref></sg>,;
+<sg>crossed in love, forsaken, rejected, lovelorn, jilted</sg>,;
+<sg>obnoxious, hateful, odious, abominable, repulsive, offensive, shocking</sg>,;
+<sg>disgusting ,<cref>830 <i>disagreeable</i></cref></sg>,;
+<sg>reprehensible</sg>,;
+<sg>invidious, spiteful</sg>,;
+<sg>malicious ,<cref> 907 <i>fastidiousness</i></cref></sg>,;
+<sg>insulting, irritating, provoking</sg>,;
+<sg>at daggers drawn</sg>,;
+<sg>not on speaking terms ,<cref>889 <i>enmity</i></cref></sg>,;
+<sg>at loggerheads</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>no love lost between</sg>,;
+<br>
+</paragraph>

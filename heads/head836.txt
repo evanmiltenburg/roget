@@ -1,0 +1,19 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#34#</sectionNumber>
+<headword>#<b>#[001] #836# Treasurer #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>treasurer</i></sg>,;
+<sg>bursar, bursary</sg>,;
+<sg>purser, purse bearer</sg>,;
+<sg>cash keeper, banker</sg>,;
+<sg>depositary</sg>,;
+<sg>questor, receiver, steward, trustee, accountant, Accountant General, almoner, liquidator, paymaster, cashier, teller</sg>,;
+<sg>cambist</sg>,;
+<sg>money changer ,<cref>797 <i>merchant</i></cref></sg>,;
+<sg>financier</sg>,;
+<sg>Secretary of the Treasury</sg>,;
+<sg>Chancellor of the Exchequer, minister of finance</sg>,;
+<br>
+</paragraph>

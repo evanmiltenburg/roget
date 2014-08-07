@@ -1,0 +1,71 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#6#</sectionNumber>
+<headword>#<b>#[001] #116# Diuturnity #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>diuturnity</i></sg>,;
+<sg>a long time, a length of time</sg>,;
+<sg>an age, a century, an eternity</sg>,;
+<sg>slowness ,<cref> 275 <i>motion</i></cref></sg>,;
+<sg>perpetuity ,<cref> 112 <i>neverness</i></cref></sg>,;
+<sg>blue moon, coon's age, dog's age</sg>,;
+<sg>durableness, durability</sg>,;
+<sg>persistence, endlessness, lastingness</sg>,;
+<sg>continuance, standing</sg>,;
+<sg>permanence ,<cref>150 <i>stability</i></cref></sg>,;
+<sg>survival, survivance</sg>,;
+<sg>longevity ,<cref>128 <i>age</i></cref></sg>,;
+<sg>distance of time</sg>,;
+<sg>protraction of time, prolongation of time, extension of time</sg>,;
+<sg>delay ,<cref>133 <i>lateness</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>last, endure, stand, remain, abide, continue, brave a thousand years</sg>,;
+<sg>tarry ,<cref>133 <i>be late</i></cref></sg>,;
+<sg>drag on, drag its slow length along, drag a lengthening chain</sg>,;
+<sg>protract, prolong</sg>,;
+<sg>spin out, eke out, draw out, lengthen out</sg>,;
+<sg>temporize</sg>,;
+<sg>gain time, make time, talk against time</sg>,;
+<sg>outlast, outlive</sg>,;
+<sg>survive</sg>,;
+<sg>live to fight again</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>durable</sg>,;
+<sg>lasting</sg>,;
+<sg>of long duration, of long-standing</sg>,;
+<sg>permanent, endless, chronic, long-standing</sg>,;
+<sg>intransient, intransitive</sg>,;
+<sg>intransmutable, persistent</sg>,;
+<sg>lifelong, livelong</sg>,;
+<sg>longeval, long-lived, macrobiotic, diuturnal, evergreen, perennial</sg>,;
+<sg>sempervirent, sempervirid</sg>,;
+<sg>unrelenting, unintermitting, unremitting</sg>,;
+<sg>perpetual ,<cref> 112 <i>neverness</i></cref></sg>,;
+<sg>lingering, protracted, prolonged, spun out</sg>,;
+<sg>long-pending, long-winded</sg>,;
+<sg>slow ,<cref> 275 <i>motion</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>long</sg>,;
+<sg>for a long time, for an age, for ages, for ever so long, for many a long day</sg>,;
+<sg>long ago ,<cref>122 <i>in a past time</i></cref></sg>,;
+<sg>longo intervallo</sg>,;
+<sg>all the day long, all the year round</sg>,;
+<sg>the livelong day, as the day is long, morning noon and night</sg>,;
+<sg>hour after hour, day after day, </sg>,;
+<sg>for good</sg>,;
+<sg>permanently</sg>,;
+<br>
+</paragraph>

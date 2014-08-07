@@ -1,0 +1,23 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#4#</sectionNumber>
+<headword>#<b>#[001] #69# Sequel #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>sequel, </i>suffix, successor</sg>,;
+<sg>tail, queue, train, wake, trail, rear</sg>,;
+<sg>retinue, suite</sg>,;
+<sg>appendix, postscript</sg>,;
+<sg>epilogue</sg>,;
+<sg>peroration</sg>,;
+<sg>codicil</sg>,;
+<sg>continuation, sequela</sg>,;
+<sg>appendage</sg>,;
+<sg>tail piece, heelpiece</sg>,;
+<sg>tag, more last words</sg>,;
+<sg>colophon</sg>,;
+<sg>aftercome, aftergrowth, afterpart, afterpiece, aftercourse, afterthought, aftergame</sg>,;
+<sg>arriere pensee, second thoughts</sg>,;
+<sg>outgrowth</sg>,;
+<br>
+</paragraph>

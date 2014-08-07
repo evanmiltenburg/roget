@@ -1,0 +1,42 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#39#</sectionNumber>
+<headword>#<b>#[001] #1024# Heaven #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>heaven</i></sg>,;
+<sg>kingdom of heaven, kingdom of God</sg>,;
+<sg>heavenly kingdom</sg>,;
+<sg>throne of God</sg>,;
+<sg>presence of God</sg>,;
+<sg>inheritance of the saints in light</sg>,;
+<sg>Paradise, Eden, Zion, abode of the blessed</sg>,;
+<sg>celestial bliss, glory</sg>,;
+<sg>Olympus</sg>,;
+<sg>Elysium (paradise), Elysian fields, Arcadia, bowers of bliss, garden of the Hesperides, third heaven</sg>,;
+<sg>Valhalla, Walhalla (Scandinavian)</sg>,;
+<sg>Nirvana (Buddhist)</sg>,;
+<sg>happy hunting grounds</sg>,;
+<sg>Alfardaws, Assama</sg>,;
+<sg>Falak al aflak  the highest heaven (Mohammedan)</sg>,;
+<sg>future state, eternal home, eternal reward</sg>,;
+<sg>resurrection, translation</sg>,;
+<sg>resuscitation ,<cref> 660 <i>instrumentality</i></cref></sg>,;
+<sg>apotheosis, deification</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>heavenly, celestial, supernal, unearthly, from on high, paradisiacal, beatific, elysian</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>looks through nature up to the nature's god</sg>,;
+<sg>the great world's altarstairs, that slope through darkness up to God</sg>,;
+<sg>the treasury of everlasting joy</sg>,;
+<sg>vigeur de dessus</sg>,;
+<br>
+</paragraph>

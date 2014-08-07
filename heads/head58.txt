@@ -1,0 +1,52 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#3#</sectionNumber>
+<headword>#<b>#[001] #58# Exclusion #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>exclusion, </i>nonadmission, omission, exception, rejection, repudiation</sg>,;
+<sg>exile ,<cref>893 <i>seclusion</i></cref></sg>,;
+<sg>noninclusion, preclusion, prohibition</sg>,;
+<sg>separation, segregation, seposition, elimination, expulsion</sg>,;
+<sg>cofferdam</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be excluded from </sg>,;
+<sg>exclude, bar</sg>,;
+<sg>leave out, shut out, bar out</sg>,;
+<sg>reject, repudiate, blackball</sg>,;
+<sg>lay apart, put apart, set apart, lay aside, put aside</sg>,;
+<sg>relegate, segregate</sg>,;
+<sg>throw overboard</sg>,;
+<sg>strike off, strike out</sg>,;
+<sg>neglect ,<cref> 460 <i>vision</i></cref></sg>,;
+<sg>banish ,<cref>893 <i>seclude</i></cref></sg>,;
+<sg>separate ,<cref>44 <i>disjoin</i></cref></sg>,;
+<sg>pass over, omit</sg>,;
+<sg>garble</sg>,;
+<sg>eliminate, weed, winnow</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>excluding</sg>,;
+<sg>exclusive</sg>,;
+<sg>excluded</sg>,;
+<sg>unrecounted, not included in</sg>,;
+<sg>inadmissible</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>exclusive of, barring</sg>,;
+<sg>except</sg>,;
+<sg>with the exception of</sg>,;
+<sg>save</sg>,;
+<sg>bating</sg>,;
+<br>
+</paragraph>

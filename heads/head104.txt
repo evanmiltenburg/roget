@@ -1,0 +1,37 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#5#</sectionNumber>
+<headword>#<b>#[001] #104# Plurality  #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>plurality</i></sg>,;
+<sg>a number, a certain number</sg>,;
+<sg>one or two, two or three </sg>,;
+<sg>a few, several</sg>,;
+<sg>multitude ,<cref> 102 <i>five </i></cref></sg>,;
+<sg>majority</sg>,;
+<sg>multitude ,<cref> 102 <i>five </i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>plural, more than one, upwards of</sg>,;
+<sg>some, several, a few</sg>,;
+<sg>certain</sg>,;
+<sg>not alone ,<cref> 87 <i>unconformity</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>et cetera,  etc</sg>,;
+<sg>among other things, inter alia</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>non deficit alter</sg>,;
+<br>
+</paragraph>

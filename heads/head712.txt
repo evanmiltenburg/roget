@@ -1,0 +1,164 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#28#</sectionNumber>
+<headword>#<b>#[001] #712# Inactivity #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>inactivity</i></sg>,;
+<sg>inaction ,<cref> 681 <i>cleanness</i></cref></sg>,;
+<sg>inertness ,<cref> 172 <i>destroyer</i></cref></sg>,;
+<sg>obstinacy ,<cref> 606 <i>voice</i></cref></sg>,;
+<sg>lull ,<cref>142 <i>cessation</i></cref></sg>,;
+<sg>quiescence ,<cref> 265 <i>bluntness</i></cref></sg>,;
+<sg>rust, rustiness</sg>,;
+<sg>idleness, remissness</sg>,;
+<sg>sloth, indolence, indiligence</sg>,;
+<sg>dawdling</sg>,;
+<sg>ergophobia, otiosity</sg>,;
+<sg>dullness</sg>,;
+<sg>languor</sg>,;
+<sg>segnity, segnitude</sg>,;
+<sg>lentor</sg>,;
+<sg>sluggishness ,<cref>275 <i>slowness</i></cref></sg>,;
+<sg>procrastination ,<cref>133 <i>delay</i></cref></sg>,;
+<sg>torpor, torpidity, torpescence</sg>,;
+<sg>stupor ,<cref>823 <i>insensibility</i></cref></sg>,;
+<sg>somnolence</sg>,;
+<sg>drowsiness</sg>,;
+<sg>nodding</sg>,;
+<sg>oscitation, oscitancy</sg>,;
+<sg>pandiculation, hypnotism, lethargy</sg>,;
+<sg>statuvolence heaviness, heavy eyelids</sg>,;
+<sg>sleep, slumber</sg>,;
+<sg>sound sleep, heavy sleep, balmy sleep</sg>,;
+<sg>Morpheus</sg>,;
+<sg>Somnus</sg>,;
+<sg>coma, trance, ecstasis, dream, hibernation, nap, doze, snooze, siesta, wink of sleep, forty winks, snore</sg>,;
+<sg>hypnology</sg>,;
+<sg>dull work</sg>,;
+<sg>pottering</sg>,;
+<sg>relaxation ,<cref>47 <i>loosening</i></cref></sg>,;
+<sg>Castle of Indolence</sg>,;
+<sg>lullaby, sedative, tranquilizer, hypnotic, sleeping pill, relaxant, anaesthetic, general anaesthetic ,<cref> 174 <i>posterity</i></cref></sg>,;
+<sg>torpedo</sg>,;
+<sg>idler, drone, droil, dawdle, mopus</sg>,;
+<sg>do- little faineant, dummy, sleeping partner</sg>,;
+<sg>afternoon farmer</sg>,;
+<sg>truant ,<cref>623 <i>runaway</i></cref></sg>,;
+<sg>bummer, loafer, goldbrick, goldbicker, lounger, lazzarone</sg>,;
+<sg>lubber, lubbard</sg>,;
+<sg>slow coach  (slow</sg>,;
+<sg>) 275</sg>,;
+<sg>opium eater, lotus eater</sg>,;
+<sg>slug</sg>,;
+<sg>lag, sluggard, slugabed</sg>,;
+<sg>slumberer, dormouse, marmot</sg>,;
+<sg>waiter on Providence, fruges consumere natus</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be inactive</sg>,;
+<sg>do nothing ,<cref> 681 <i>cleanness</i></cref></sg>,;
+<sg>move slowly ,<cref> 275 <i>motion</i></cref></sg>,;
+<sg>let the grass grow under one's feet</sg>,;
+<sg>take one's time, dawdle, drawl, droil, lag, hang back, slouch</sg>,;
+<sg>loll, lollop</sg>,;
+<sg>lounge, poke, loaf, loiter</sg>,;
+<sg>go to sleep over</sg>,;
+<sg>sleep at one's post, ne battre que d'une aile</sg>,;
+<sg>take it easy, take things as they come</sg>,;
+<sg>lead an easy life, vegetate, swim with the stream, eat the bread of idleness</sg>,;
+<sg>loll in the lap of luxury, loll in the lap of indolence</sg>,;
+<sg>waste time, consume time, kill time, lose time</sg>,;
+<sg>burn daylight, waste the precious hours</sg>,;
+<sg>idle away time, trifle away time, fritter away time, fool away time</sg>,;
+<sg>spend time in, take time in</sg>,;
+<sg>peddle, piddle</sg>,;
+<sg>potter, pudder, dabble, faddle fribble, fiddle-faddle</sg>,;
+<sg>dally, dilly-dally</sg>,;
+<sg>sleep, slumber, be asleep</sg>,;
+<sg>hibernate</sg>,;
+<sg>oversleep</sg>,;
+<sg>sleep like a top, sleep like a log, sleep like a dormouse</sg>,;
+<sg>sleep soundly, heavily</sg>,;
+<sg>doze, drowze, snooze, nap</sg>,;
+<sg>take a nap</sg>,;
+<sg>dream</sg>,;
+<sg>snore one's best</sg>,;
+<sg>settle to sleep, go to sleep, go off to sleep</sg>,;
+<sg>doze off, drop off</sg>,;
+<sg>fall asleep</sg>,;
+<sg>drop asleep</sg>,;
+<sg>close the eyes, seal up the eyes, seal up eyelids</sg>,;
+<sg>weigh down the eyelids</sg>,;
+<sg>get sleep, nod, yawn</sg>,;
+<sg>go to bed, turn</sg>,;
+<sg>get some z's, stack z's</sg>,;
+<sg>languish, expend itself, flag, hang fire</sg>,;
+<sg>relax</sg>,;
+<sg>render idle</sg>,;
+<sg>sluggardize</sg>,;
+<sg>mitigate ,<cref> 174 <i>posterity</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>inactive</sg>,;
+<sg>motionless ,<cref> 265 <i>bluntness</i></cref></sg>,;
+<sg>unoccupied ,<cref>681 <i>doing nothing</i></cref></sg>,;
+<sg>unbusied</sg>,;
+<sg>indolent, lazy, slothful, idle, lusk, remiss, slack, inert, torpid, sluggish, otiose, languid, supine, heavy, dull, leaden, lumpish</sg>,;
+<sg>exanimate, soulless</sg>,;
+<sg>listless</sg>,;
+<sg>drony, dronish</sg>,;
+<sg>lazy as Ludlam's dog</sg>,;
+<sg>dilatory, laggard</sg>,;
+<sg>lagging</sg>,;
+<sg>slow ,<cref> 275 <i>motion</i></cref></sg>,;
+<sg>rusty, flagging</sg>,;
+<sg>lackadaisical, maudlin, fiddle-faddle</sg>,;
+<sg>pottering</sg>,;
+<sg>shilly-shally ,<cref>605 <i>irresolute</i></cref></sg>,;
+<sg>sleeping,</sg>,;
+<sg>asleep</sg>,;
+<sg>fast asleep, dead asleep, sound asleep</sg>,;
+<sg>in a sound sleep</sg>,;
+<sg>sound as a top, dormant, comatose</sg>,;
+<sg>in the arms of Morpheus, in the lap of Morpheus</sg>,;
+<sg>sleepy, sleepful</sg>,;
+<sg>dozy, drowsy, somnolent, torpescent, lethargic, lethargical</sg>,;
+<sg>somnifacient</sg>,;
+<sg>statuvolent, statuvolic</sg>,;
+<sg>heavy, heavy with sleep</sg>,;
+<sg>napping</sg>,;
+<sg>somnific, somniferous</sg>,;
+<sg>soporous, soporific, soporiferous</sg>,;
+<sg>hypnotic</sg>,;
+<sg>balmy, dreamy</sg>,;
+<sg>unawakened, unawakened</sg>,;
+<sg>sedative ,<cref> 174 <i>posterity</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>inactively</sg>,;
+<sg>at leisure ,<cref> 685 <i>salubrity</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>the eyes begin to draw straws</sg>,;
+<sg>bankrupt of life yet prodigal of ease</sg>,;
+<sg>better 50 years of Europe than a cycle of Cathay</sg>,;
+<sg>idly busy rolls their world away</sg>,;
+<sg>the mystery of folded sleep</sg>,;
+<sg>the timely dew of sleep</sg>,;
+<sg>thou driftest gently down the tides of sleep</sg>,;
+<sg>tired Nature's sweet restorer, balmy sleep</sg>,;
+<br>
+</paragraph>

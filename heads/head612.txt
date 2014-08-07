@@ -1,0 +1,29 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#25#</sectionNumber>
+<headword>#<b>#[001] #612# Allocution #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>allocution, </i>alloquy, address</sg>,;
+<sg>speech ,<cref> 582 <i>painting</i></cref></sg>,;
+<sg>apostrophe, interpellation, appeal, invocation, salutation</sg>,;
+<sg>word in the ear</sg>,;
+<sg>dialogism</sg>,;
+<sg>platform ,<cref> 542 <i>unmeaningness</i></cref></sg>,;
+<sg>plank</sg>,;
+<sg>audience ,<cref>588 <i>interview</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>speak to, address, accost, make up to, apostrophize, appeal to, invoke</sg>,;
+<sg>ball, salute</sg>,;
+<sg>call to, halloo</sg>,;
+<sg>take aside, take by the button</sg>,;
+<sg>talk to in private</sg>,;
+<sg>lecture ,<cref>582 <i>make a speech</i></cref></sg>,;
+<sg>Int</sg>,;
+<sg>soho!, halloo!, hey!, hist!,</sg>,;
+<br>
+</paragraph>

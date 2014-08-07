@@ -1,0 +1,84 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#24#</sectionNumber>
+<headword>#<b>#[001] #562# Negation #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>negation, </i>abnegation</sg>,;
+<sg>denial</sg>,;
+<sg>disavowal, disclaimer</sg>,;
+<sg>abjuration</sg>,;
+<sg>contradiction, contravention</sg>,;
+<sg>recusation, protest</sg>,;
+<sg>recusancy ,<cref>489 <i>dissent</i></cref></sg>,;
+<sg>flat contradiction, emphatic contradiction, emphatic denial, dementi</sg>,;
+<sg>qualification ,<cref> 469 <i>intellect</i></cref></sg>,;
+<sg>repudiation ,<cref> 610 <i>loquacity</i></cref></sg>,;
+<sg>retraction ,<cref> 607 <i>aphony</i></cref></sg>,;
+<sg>confutation ,<cref> 479 <i>care</i></cref></sg>,;
+<sg>refusal ,<cref> 764 <i>adversity</i></cref></sg>,;
+<sg>prohibition ,<cref> 761 <i>failure</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>deny</sg>,;
+<sg>contradict, contravene</sg>,;
+<sg>controvert, give denial to, gainsay, negative, shake the head</sg>,;
+<sg>disown, disaffirm, disclaim, disavow</sg>,;
+<sg>recant ,<cref> 607 <i>aphony</i></cref></sg>,;
+<sg>revoke ,<cref>756 <i>abrogate</i></cref></sg>,;
+<sg>dispute</sg>,;
+<sg>impugn, traverse, rebut, join issue upon</sg>,;
+<sg>bring in question, call in question ,<cref>485 <i>doubt</i></cref></sg>,;
+<sg>give the lie in his throat, give one the lie in his throat</sg>,;
+<sg>deny flatly, deny peremptorily, deny emphatically, deny absolutely, deny wholly, deny entirely</sg>,;
+<sg>give the lie to, belie</sg>,;
+<sg>repudiate ,<cref> 610 <i>loquacity</i></cref></sg>,;
+<sg>set aside, ignore ,<cref> 460 <i>vision</i></cref></sg>,;
+<sg>rebut ,<cref>479 <i>confute</i></cref></sg>,;
+<sg>qualify ,<cref> 469 <i>intellect</i></cref></sg>,;
+<sg>refuse ,<cref> 764 <i>adversity</i></cref></sg>,;
+<sg>recuse</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>denying</sg>,;
+<sg>denied</sg>,;
+<sg>contradictory</sg>,;
+<sg>negative, negatory</sg>,;
+<sg>recusant ,<cref>489 <i>dissenting</i></cref></sg>,;
+<sg>at issue upon</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>no, nay, not, nowise</sg>,;
+<sg>not a bit, not a whit, not a jot</sg>,;
+<sg>not at all, nohow, not in the least, not so</sg>,;
+<sg>negative, negatory</sg>,;
+<sg>no way</sg>,;
+<sg>no such thing</sg>,;
+<sg>nothing of the kind, nothing of the sort</sg>,;
+<sg>quite the contrary, tout au contraire, far from it</sg>,;
+<sg>tant s'en faut</sg>,;
+<sg>on no account, in no respect</sg>,;
+<sg>by no, by no manner of means</sg>,;
+<sg>negatively</sg>,;
+<sg>never, never in a million years</sg>,;
+<sg>at no time</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>there never was a greater mistake</sg>,;
+<sg>I know better</sg>,;
+<sg>non haec in faedera</sg>,;
+<sg>a thousand times no</sg>,;
+<br>
+</paragraph>

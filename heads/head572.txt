@@ -1,0 +1,61 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#24#</sectionNumber>
+<headword>#<b>#[001] #572# Untruth #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>untruth, </i>falsehood, lie, story, thing that is not, fib, bounce, crammer, taradiddle, whopper</sg>,;
+<sg>jhuth</sg>,;
+<sg>forgery, fabrication, invention</sg>,;
+<sg>misstatement, misrepresentation</sg>,;
+<sg>perversion, falsification, gloss, suggestio falsi</sg>,;
+<sg>exaggeration ,<cref> 549 <i>interpreter</i></cref></sg>,;
+<sg>invention, fabrication, fiction</sg>,;
+<sg>fable, nursery tale</sg>,;
+<sg>romance ,<cref>515 <i>imagination</i></cref></sg>,;
+<sg>absurd story, untrue story, false story, trumped up story, trumped up statement</sg>,;
+<sg>thing devised by the enemy</sg>,;
+<sg>canard</sg>,;
+<sg>shave, sell, hum, traveler's tale, Canterbury tale, cock and bull story, fairy tale, fake</sg>,;
+<sg>claptrap</sg>,;
+<sg>press agent's yarn</sg>,;
+<sg>puff, puffery (exaggeration) 549</sg>,;
+<sg>myth, moonshine, bosh, all my eye and Betty Martin, mare's nest, farce</sg>,;
+<sg>irony</sg>,;
+<sg>half truth, white lie, pious fraud</sg>,;
+<sg>mental reservation ,<cref>528 <i>concealment</i></cref></sg>,;
+<sg>pretense, pretext</sg>,;
+<sg>false plea ,<cref> 617 <i>printing</i></cref></sg>,;
+<sg>subterfuge, evasion, shift, shuffle, make-believe</sg>,;
+<sg>sham ,<cref>545 <i>deception</i></cref></sg>,;
+<sg>profession, empty words</sg>,;
+<sg>Judas kiss ,<cref>544 <i>hypocrisy</i></cref></sg>,;
+<sg>disguise ,<cref>530 <i>mask</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>have a false meaning</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>untrue, false, phony, trumped up</sg>,;
+<sg>void of foundation, without- foundation</sg>,;
+<sg>fictive, far from the truth, false as dicer's oaths</sg>,;
+<sg>unfounded, ben trovato, invented, fabulous, fabricated, forged</sg>,;
+<sg>fictitious, factitious, supposititious, surreptitious</sg>,;
+<sg>elusory, illusory</sg>,;
+<sg>ironical</sg>,;
+<sg>soi-disant ,<cref>565 <i>misnamed</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>se non e vero e ben trovato</sg>,;
+<sg>where none is meant that meets the ear</sg>,;
+<br>
+</paragraph>

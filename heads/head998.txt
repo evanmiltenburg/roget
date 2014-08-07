@@ -1,0 +1,31 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#38#</sectionNumber>
+<headword>#<b>#[001] #998# Asceticism #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>asceticism, </i>puritanism, sabbatarianism</sg>,;
+<sg>cynicism, austerity</sg>,;
+<sg>total abstinence</sg>,;
+<sg>nephalism</sg>,;
+<sg>mortification, maceration, sackcloth and ashes, flagellation</sg>,;
+<sg>penance ,<cref> 952 <i>benefactor</i></cref></sg>,;
+<sg>fasting ,<cref> 956 <i>condolence</i></cref></sg>,;
+<sg>martyrdom</sg>,;
+<sg>ascetic</sg>,;
+<sg>anchoret, anchorite</sg>,;
+<sg>martyr</sg>,;
+<sg>Heautontimorumenos</sg>,;
+<sg>hermit ,<cref>893 <i>recluse</i></cref></sg>,;
+<sg>puritan, sabbatarian, cynic, sanyasi, yogi</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>ascetic, austere, puritanical</sg>,;
+<sg>cynical</sg>,;
+<sg>over-religious</sg>,;
+<sg>acerbic</sg>,;
+<br>
+</paragraph>

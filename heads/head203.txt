@@ -1,0 +1,73 @@
+<classNumber>#2#</classNumber>
+<sectionNumber>#10#</sectionNumber>
+<headword>#<b>#[001] #203# Expansion #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>expansion</i></sg>,;
+<sg>increase of size ,<cref> 35 <i>superiority</i></cref></sg>,;
+<sg>enlargement, extension, augmentation</sg>,;
+<sg>amplification, ampliation</sg>,;
+<sg>aggrandizement, spread, increment, growth, development, pullulation, swell, dilation, rarefaction</sg>,;
+<sg>turgescence, turgidness, turgidity</sg>,;
+<sg>dispansion</sg>,;
+<sg>obesity ,<cref>192 <i>size</i></cref></sg>,;
+<sg>hydrocephalus, hydrophthalmus</sg>,;
+<sg>dropsy, tumefaction, intumescence, swelling, tumor, diastole, distension</sg>,;
+<sg>puffing, puffiness</sg>,;
+<sg>inflation</sg>,;
+<sg>pandiculation</sg>,;
+<sg>dilatability, expansibility</sg>,;
+<sg>germination, growth, upgrowth</sg>,;
+<sg>accretion ,<cref> 35 <i>superiority</i></cref></sg>,;
+<sg>budding, gemmation</sg>,;
+<sg>overgrowth, overdistension</sg>,;
+<sg>hypertrophy, tympany</sg>,;
+<sg>bulb ,<cref>250 <i>convexity</i></cref></sg>,;
+<sg>plumper</sg>,;
+<sg>superiority of size</sg>,;
+<sg>big bang</sg>,;
+<sg>Hubble constant</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>become larger &c (large) ,<cref> 192 <i>situation</i></cref></sg>,;
+<sg>expand, widen, enlarge, extend, grow, increase, incrassate, swell, gather</sg>,;
+<sg>fill out</sg>,;
+<sg>deploy, take open order, dilate, stretch, distend, spread</sg>,;
+<sg>mantle, wax</sg>,;
+<sg>grow up, spring up</sg>,;
+<sg>bud, bourgeon, shoot, sprout, germinate, put forth, vegetate, pullulate, open, burst forth</sg>,;
+<sg>gain flesh, gather flesh</sg>,;
+<sg>outgrow</sg>,;
+<sg>spread like wildfire, overrun</sg>,;
+<sg>be larger than</sg>,;
+<sg>surpass ,<cref>33 <i>be superior</i></cref></sg>,;
+<sg>render larger &c (large) ,<cref> 192 <i>situation</i></cref></sg>,;
+<sg>expand, spread, extend, aggrandize, distend, develop, amplify, spread out, widen, magnify, rarefy, inflate, puff, blow up, stuff, pad, cram</sg>,;
+<sg>exaggerate</sg>,;
+<sg>fatten</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>expanded,</sg>,;
+<sg>larger, &c (large) ,<cref> 192 <i>situation</i></cref></sg>,;
+<sg>swollen</sg>,;
+<sg>expansive</sg>,;
+<sg>wide open, wide spread</sg>,;
+<sg>flabelliform</sg>,;
+<sg>overgrown, exaggerated, bloated, fat, turgid, tumid, hypertrophied, dropsical</sg>,;
+<sg>pot bellied, swag bellied</sg>,;
+<sg>edematous, oedematous, obese, puffy, pursy, blowzy, bigswoln, distended</sg>,;
+<sg>patulous</sg>,;
+<sg>bulbous ,<cref>250 <i>convex</i></cref></sg>,;
+<sg>full blown, full grown, full formed</sg>,;
+<sg>big ,<cref> 192 <i>situation</i></cref></sg>,;
+<sg>abdominous, enchymatous, rhipidate</sg>,;
+<sg>tumefacient, tumefying</sg>,;
+<br>
+</paragraph>

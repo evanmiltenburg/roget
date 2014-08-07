@@ -1,0 +1,54 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#37#</sectionNumber>
+<headword>#<b>#[001] #929# Friend #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>friend, </i>friend of one's bosom</sg>,;
+<sg>alter ego</sg>,;
+<sg>best friend, bosom friend, soulmate, fast friend</sg>,;
+<sg>amicus</sg>,;
+<sg>usque ad aras</sg>,;
+<sg>fidus Achates</sg>,;
+<sg>persona grata</sg>,;
+<sg>acquaintance, neighbor, next-door neighbor, casual acquaintance, nodding acquaintance</sg>,;
+<sg>wellwisher</sg>,;
+<sg>favorer, fautor, patron, Mecaenas</sg>,;
+<sg>tutelary saint, good genius, advocate, partisan, sympathizer</sg>,;
+<sg>ally</sg>,;
+<sg>friend in need ,<cref>711 <i>auxiliary</i></cref></sg>,;
+<sg>comrade, mate, companion, familiar, confrere, comrade, camarade, confidante, intimate</sg>,;
+<sg>old crony, crony</sg>,;
+<sg>chum</sg>,;
+<sg>pal</sg>,;
+<sg>buddy, bosom buddy</sg>,;
+<sg>playfellow, playmate, childhood friend</sg>,;
+<sg>bedfellow, bedmate</sg>,;
+<sg>chamber fellow</sg>,;
+<sg>associate, colleague, compeer</sg>,;
+<sg>schoolmate, schoolfellow</sg>,;
+<sg>classfellow, classman, classmate</sg>,;
+<sg>roommate</sg>,;
+<sg>fellow-man, stable companion</sg>,;
+<sg>best man, maid of honor, matron of honor</sg>,;
+<sg>compatriot</sg>,;
+<sg>fellow countryman, countryman</sg>,;
+<sg>shopmate, fellow-worker, shipmate, messmate</sg>,;
+<sg>fellow companion, boon companion, pot companion</sg>,;
+<sg>copartner, partner, senior partner, junior partner</sg>,;
+<sg>Arcades ambo Pylades and Orestes Castor and Pollux, Nisus and Euryalus, Damon and Pythias, par nobile fratrum</sg>,;
+<sg>host, Amphitryon, Boniface</sg>,;
+<sg>guest, visitor, prot_eg_e</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>amici probantur rebus adversis</sg>,;
+<sg>ohne bruder kann man leben nicht ohne Freund</sg>,;
+<sg>best friend, my well-spring in the wilderness</sg>,;
+<sg>conocidos muchos amigos pocos</sg>,;
+<sg>friend more divine than all divinities</sg>,;
+<sg>vida sin amigo muerte sin testigo</sg>,;
+<br>
+</paragraph>

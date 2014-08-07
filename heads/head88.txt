@@ -1,0 +1,61 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#5#</sectionNumber>
+<headword>#<b>#[001] #88# Number #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>number, </i>symbol, numeral, figure, cipher, digit, integer</sg>,;
+<sg>counter</sg>,;
+<sg>round number</sg>,;
+<sg>formula</sg>,;
+<sg>function</sg>,;
+<sg>series</sg>,;
+<sg>sum, difference, complement, subtrahend</sg>,;
+<sg>product</sg>,;
+<sg>multiplicand, multiplier, multiplicator</sg>,;
+<sg>coefficient, multiple</sg>,;
+<sg>dividend, divisor, factor, quotient, submultiple</sg>,;
+<sg>fraction, rational number</sg>,;
+<sg>surd, irrational number</sg>,;
+<sg>transcendental number</sg>,;
+<sg>mixed number, complex number, complex conjugate</sg>,;
+<sg>numerator, denominator</sg>,;
+<sg>decimal, circulating decimal, repetend</sg>,;
+<sg>common measure, aliquot part</sg>,;
+<sg>prime number, prime, relative prime, prime factor, prime pair</sg>,;
+<sg>reciprocal</sg>,;
+<sg>totient</sg>,;
+<sg>binary number, octal number, hexadecimal number</sg>,;
+<sg>permutation, combination, variation</sg>,;
+<sg>election</sg>,;
+<sg>ratio, proportion, comparison ,<cref> 464 <i>optical instruments</i></cref></sg>,;
+<sg>progression</sg>,;
+<sg>arithmetical progression, geometrical progression, harmonical progression</sg>,;
+<sg>percentage, permilage</sg>,;
+<sg>figurate numbers, pyramidal numbers, polygonal numbers</sg>,;
+<sg>power, root, exponent, index, logarithm, antilogarithm</sg>,;
+<sg>modulus, base</sg>,;
+<sg>differential, integral, fluxion, fluent</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>numeral, complementary, divisible, aliquot, reciprocal, prime, relatively prime, fractional, decimal, figurate, incommensurable</sg>,;
+<sg>proportional, exponential, logarithmic, logometric, differential, fluxional, integral, totitive</sg>,;
+<sg>positive, negative</sg>,;
+<sg>rational, irrational</sg>,;
+<sg>surd, radical, real</sg>,;
+<sg>complex, imaginary</sg>,;
+<sg>finite</sg>,;
+<sg>infinite</sg>,;
+<sg>impossible</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>numerically</sg>,;
+<sg>modulo</sg>,;
+<br>
+</paragraph>

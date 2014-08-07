@@ -1,0 +1,107 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#25#</sectionNumber>
+<headword>#<b>#[001] #580# Representation #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>representation, </i>representment</sg>,;
+<sg>imitation ,<cref> 19 <i>dissimilarity</i></cref></sg>,;
+<sg>illustration, delineation, depictment</sg>,;
+<sg>imagery, portraiture, iconography</sg>,;
+<sg>design, designing</sg>,;
+<sg>art, fine arts</sg>,;
+<sg>painting ,<cref> 556 <i>ambush</i></cref></sg>,;
+<sg>sculpture ,<cref> 557 <i>publication</i></cref></sg>,;
+<sg>engraving ,<cref> 558 <i>news</i></cref></sg>,;
+<sg>photography, cinematography</sg>,;
+<sg>radiography, autoradiography, fluorography, sciagraphy</sg>,;
+<sg>personation, personification</sg>,;
+<sg>impersonation</sg>,;
+<sg>drama ,<cref> 599 <i>diffuseness</i></cref></sg>,;
+<sg>picture, photo, photograph, daguerreotype, snapshot</sg>,;
+<sg>X-ray photo</sg>,;
+<sg>movie film, movie</sg>,;
+<sg>tracing, scan, TV image, video image, image file, graphics, computer graphics, televideo, closed-circuit TV</sg>,;
+<sg>copy ,<cref> 21 <i>nonimitation</i></cref></sg>,;
+<sg>drawing, sketch, drought, draft</sg>,;
+<sg>plot, chart, figure, scheme</sg>,;
+<sg>image, likeness, icon, portrait, striking likeness, speaking likeness</sg>,;
+<sg>very image</sg>,;
+<sg>effigy, facsimile</sg>,;
+<sg>figure, figure head</sg>,;
+<sg>puppet, doll, figurine, aglet, manikin, lay- figure, model, mammet, marionette, fantoccini, waxwork, bust</sg>,;
+<sg>statue, statuette</sg>,;
+<sg>ideograph, hieroglyphic, anaglyph, kanji</sg>,;
+<sg>diagram, monogram</sg>,;
+<sg>map, plan, chart, ground plan, projection, elevation (plan) 626</sg>,;
+<sg>ichnography, cartography</sg>,;
+<sg>atlas</sg>,;
+<sg>outline, scheme</sg>,;
+<sg>view ,<cref>556 <i>painting</i></cref></sg>,;
+<sg>radiograph, scotograph, sciagraph</sg>,;
+<sg>spectrogram, heliogram</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>copy ,<cref> 21 <i>nonimitation</i></cref></sg>,;
+<sg>drawing, sketch, drought, draft</sg>,;
+<sg>plot, chart, figure, scheme</sg>,;
+<sg>image, likeness, icon, portrait, striking likeness, speaking likeness</sg>,;
+<sg>very image</sg>,;
+<sg>effigy, facsimile</sg>,;
+<sg>figure, figure head</sg>,;
+<sg>puppet, doll, figurine, aglet, manikin, lay- figure, model, mammet, marionette, fantoccini, waxwork, bust</sg>,;
+<sg>statue, statuette</sg>,;
+<sg>ideograph, hieroglyphic, anaglyph, kanji</sg>,;
+<sg>diagram, monogram</sg>,;
+<sg>map, plan, chart, ground plan, projection, elevation (plan) 626</sg>,;
+<sg>ichnography, cartography</sg>,;
+<sg>atlas</sg>,;
+<sg>outline, scheme</sg>,;
+<sg>view ,<cref>556 <i>painting</i></cref></sg>,;
+<sg>radiograph, scotograph, sciagraph</sg>,;
+<sg>spectrogram, heliogram</sg>,;
+<sg>V</sg>,;
+<sg>represent, delineate</sg>,;
+<sg>depict, depicture</sg>,;
+<sg>portray</sg>,;
+<sg>take a likeness, catch a likeness</sg>,;
+<sg>hit off, photograph, daguerreotype</sg>,;
+<sg>snapshot</sg>,;
+<sg>figure, shadow forth, shadow out</sg>,;
+<sg>adumbrate</sg>,;
+<sg>body forth</sg>,;
+<sg>describe ,<cref> 594 <i>solecism</i></cref></sg>,;
+<sg>trace, copy</sg>,;
+<sg>mold</sg>,;
+<sg>dress up</sg>,;
+<sg>illustrate, symbolize</sg>,;
+<sg>paint ,<cref> 556 <i>ambush</i></cref></sg>,;
+<sg>carve ,<cref> 557 <i>publication</i></cref></sg>,;
+<sg>engrave ,<cref> 558 <i>news</i></cref></sg>,;
+<sg>personate, personify</sg>,;
+<sg>impersonate</sg>,;
+<sg>assume a character</sg>,;
+<sg>pose as</sg>,;
+<sg>act</sg>,;
+<sg>play ,<cref>599 <i>drama</i></cref></sg>,;
+<sg>mimic ,<cref>19 <i>imitate</i></cref></sg>,;
+<sg>hold the mirror up to nature</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>represent, representing</sg>,;
+<sg>, representative</sg>,;
+<sg>illustrative</sg>,;
+<sg>represented</sg>,;
+<sg>imitative, figurative</sg>,;
+<sg>iconic</sg>,;
+<sg>like ,<cref> 17 <i>nonuniformity</i></cref></sg>,;
+<sg>graphic ,<cref>594 <i>descriptive</i></cref></sg>,;
+<sg>cinquecento quattrocento, trecento</sg>,;
+<br>
+</paragraph>

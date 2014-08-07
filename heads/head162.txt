@@ -1,0 +1,58 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#8#</sectionNumber>
+<headword>#<b>#[001] #162# Attribution #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>attribution, </i>theory, etiology, ascription, reference to, rationale</sg>,;
+<sg>accounting for</sg>,;
+<sg>palaetiology1, imputation, derivation from</sg>,;
+<sg>filiation, affiliation</sg>,;
+<sg>pedigree ,<cref>166 <i>paternity</i></cref></sg>,;
+<sg>explanation ,<cref>522 <i>interpretation</i></cref></sg>,;
+<sg>reason why ,<cref>153 <i>cause</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>attribute to, ascribe to, impute to, refer to, lay to, point to, trace to, bring home to</sg>,;
+<sg>put down to, set down to, blame</sg>,;
+<sg>charge on, ground on</sg>,;
+<sg>invest with, assign as cause, lay at, the door of, father upon</sg>,;
+<sg>account for, derive from, point out the reason ,<cref> 153 <i>revolution</i></cref></sg>,;
+<sg>theorize</sg>,;
+<sg>tell how it comes</sg>,;
+<sg>put the saddle on the right horse</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>attributed</sg>,;
+<sg>attributable</sg>,;
+<sg>referable to, referrible to, due to, derivable from</sg>,;
+<sg>owing to ,<cref>154 <i>effect</i></cref></sg>,;
+<sg>putative</sg>,;
+<sg>ecbatic</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>hence, thence, therefore, for, since, on account of, because, owing to</sg>,;
+<sg>on that account</sg>,;
+<sg>from this cause, from that cause</sg>,;
+<sg>thanks to, forasmuch as</sg>,;
+<sg>whence, propter hoc</sg>,;
+<sg>why? wherefore? whence? how comes it, how is it, how happens it? how does it happen? in some way, in some such way</sg>,;
+<sg>somehow, somehow or other</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>that is why</sg>,;
+<sg>hinc illae lachrymae</sg>,;
+<br>
+</paragraph>

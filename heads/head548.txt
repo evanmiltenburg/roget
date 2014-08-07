@@ -1,0 +1,42 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#23#</sectionNumber>
+<headword>#<b>#[001] #548# Misinterpretation #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>misinterpretation, </i>misapprehension, misunderstanding, misacceptation, misconstruction, misapplication</sg>,;
+<sg>catachresis</sg>,;
+<sg>eisegesis</sg>,;
+<sg>cross-reading, cross-purposes</sg>,;
+<sg>mistake ,<cref> 495 <i>probability</i></cref></sg>,;
+<sg>misrepresentation, perversion, exaggeration ,<cref> 549 <i>interpreter</i></cref></sg>,;
+<sg>false coloring, false construction</sg>,;
+<sg>abuse of terms</sg>,;
+<sg>parody, travesty</sg>,;
+<sg>falsification ,<cref>544 <i>lying</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>misinterpret, misapprehend, misunderstand, misconceive, misspell, mistranslate, misconstrue, misapply</sg>,;
+<sg>mistake ,<cref> 495 <i>probability</i></cref></sg>,;
+<sg>misrepresent, pervert</sg>,;
+<sg>explain wrongly, misstate</sg>,;
+<sg>garble ,<cref>544 <i>falsify</i></cref></sg>,;
+<sg>distort, detort</sg>,;
+<sg>travesty, play upon words</sg>,;
+<sg>stretch the sense, strain the sense, stretch the meaning, strain the meaning, wrest the sense, wrest the meaning</sg>,;
+<sg>explain away</sg>,;
+<sg>put a bad construction on, put a false construction on</sg>,;
+<sg>give a false coloring</sg>,;
+<sg>be at cross purposes, play at cross purposes</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>misinterpreted</sg>,;
+<sg>untranslated, untranslatable</sg>,;
+<br>
+</paragraph>

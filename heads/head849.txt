@@ -1,0 +1,30 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#34#</sectionNumber>
+<headword>#<b>#[001] #849# Worthlessness #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>worthlessness, </i>valuelessness</sg>,;
+<sg>lack of value</sg>,;
+<sg>uselessness</sg>,;
+<sg>cheapness, shoddiness</sg>,;
+<sg>low quality, poor quality</sg>,;
+<sg>trash, garbage</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>worthless, valueless</sg>,;
+<sg>useless</sg>,;
+<sg>cheap, shoddy</sg>,;
+<sg>slapdash</sg>,;
+<sg>inexpensive ,<cref> 815 <i>relinquishment</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>not worth the paper it's printed on, not worth a sou</sg>,;
+<br>
+</paragraph>

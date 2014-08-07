@@ -1,0 +1,113 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#4#</sectionNumber>
+<headword>#<b>#[001] #76# Assemblage #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>assemblage</i></sg>,;
+<sg>collection, collocation, colligation</sg>,;
+<sg>compilation, levy, gathering, ingathering, muster, attroupement</sg>,;
+<sg>team</sg>,;
+<sg>concourse, conflux, congregation, contesseration, convergence ,<cref> 290 <i>deviation</i></cref></sg>,;
+<sg>meeting, levee, reunion, drawing room, at home</sg>,;
+<sg>conversazione  ,<cref>892 <i>social gathering</i></cref></sg>,;
+<sg>assembly, congress</sg>,;
+<sg>convention, conventicle</sg>,;
+<sg>gemote</sg>,;
+<sg>conclave ,<cref>696 <i>council</i></cref></sg>,;
+<sg>posse, posse comitatus</sg>,;
+<sg>Noah's ark</sg>,;
+<sg>miscellany, collectanea</sg>,;
+<sg>museum, menagerie ,<cref>636 <i>store</i></cref></sg>,;
+<sg>museology</sg>,;
+<sg>crowd, throng, group</sg>,;
+<sg>flood, rush, deluge</sg>,;
+<sg>rabble, mob, press, crush, cohue, horde, body, tribe</sg>,;
+<sg>crew, gang, knot, squad, band, party</sg>,;
+<sg>swarm, shoal, school, covey, flock, herd, drove</sg>,;
+<sg>atajo</sg>,;
+<sg>bunch, drive, force, mulada</sg>,;
+<sg>remuda</sg>,;
+<sg>roundup</sg>,;
+<sg>array, bevy, galaxy</sg>,;
+<sg>corps, company, troop, troupe, task force</sg>,;
+<sg>army, regiment ,<cref>726 <i>combatants</i></cref></sg>,;
+<sg>host ,<cref>102 <i>multitude</i></cref></sg>,;
+<sg>populousness</sg>,;
+<sg>clan, brotherhood, fraternity, sorority, association ,<cref>712 <i>party</i></cref></sg>,;
+<sg>volley, shower, storm, cloud</sg>,;
+<sg>group, cluster, Pleiades, clump, pencil</sg>,;
+<sg>set, batch, lot, pack</sg>,;
+<sg>budget, assortment, bunch</sg>,;
+<sg>parcel</sg>,;
+<sg>packet, package</sg>,;
+<sg>bundle, fascine, fasces, bale</sg>,;
+<sg>seron, seroon</sg>,;
+<sg>fagot, wisp, truss, tuft</sg>,;
+<sg>shock, rick, fardel, stack, sheaf, haycock</sg>,;
+<sg>fascicle, fascicule, fasciculus, gavel, hattock, stook</sg>,;
+<sg>accumulation ,<cref>636 <i>store</i></cref></sg>,;
+<sg>congeries, heap, lump, pile, rouleau, tissue, mass, pyramid</sg>,;
+<sg>bing</sg>,;
+<sg>drift</sg>,;
+<sg>snowball, snowdrift</sg>,;
+<sg>acervation, cumulation</sg>,;
+<sg>glomeration, agglomeration</sg>,;
+<sg>conglobation</sg>,;
+<sg>conglomeration, conglomerate</sg>,;
+<sg>coacervate, coacervation, coagmentation, aggregation, concentration, congestion, omnium gaterum, spicilegium, black hole of Calcutta</sg>,;
+<sg>quantity ,<cref>31 <i>greatness</i></cref></sg>,;
+<sg>collector, gatherer</sg>,;
+<sg>whip, whipper in</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>assemble, collect, muster</sg>,;
+<sg>meet, unite, join, rejoin</sg>,;
+<sg>cluster, flock, swarm, surge, stream, herd, crowd, throng, associate</sg>,;
+<sg>congregate, conglomerate, concentrate</sg>,;
+<sg>precipitate</sg>,;
+<sg>center round, rendezvous, resort</sg>,;
+<sg>come together, flock get together, pig together</sg>,;
+<sg>forgather</sg>,;
+<sg>huddle</sg>,;
+<sg>reassemble</sg>,;
+<sg>assemble, muster</sg>,;
+<sg>bring together, get together, put together, draw together, scrape together, lump together</sg>,;
+<sg>collect, collocate, colligate</sg>,;
+<sg>get, whip in</sg>,;
+<sg>gather</sg>,;
+<sg>hold a meeting</sg>,;
+<sg>convene, convoke, convocate</sg>,;
+<sg>rake up, dredge</sg>,;
+<sg>heap, mass, pile</sg>,;
+<sg>pack, put up, truss, cram</sg>,;
+<sg>acervate</sg>,;
+<sg>agglomerate, aggregate</sg>,;
+<sg>compile</sg>,;
+<sg>group, aggroup, concentrate, unite</sg>,;
+<sg>collect into a focus, bring into a focus</sg>,;
+<sg>amass, accumulate ,<cref>636 <i>store</i></cref></sg>,;
+<sg>collect in a dragnet</sg>,;
+<sg>heap Ossa upon Pelion</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>assembled</sg>,;
+<sg>closely packed, dense, serried, crowded to suffocation, teeming, swarming, populous</sg>,;
+<sg>as thick as hops</sg>,;
+<sg>all of a heap, fasciculated cumulative</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>the plot thickens</sg>,;
+<sg>acervatim</sg>,;
+<sg>tibi seris tibi metis</sg>,;
+<br>
+</paragraph>

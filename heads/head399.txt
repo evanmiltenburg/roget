@@ -1,0 +1,45 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#15#</sectionNumber>
+<headword>#<b>#[001] #399# Furnace #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>furnace, </i>stove, kiln, oven</sg>,;
+<sg>cracker</sg>,;
+<sg>hearth, focus, combustion chamber</sg>,;
+<sg>athanor, hypocaust, reverberatory</sg>,;
+<sg>volcano</sg>,;
+<sg>forge, fiery furnace</sg>,;
+<sg>limekiln</sg>,;
+<sg>Dutch oven</sg>,;
+<sg>tuyere, brasier, salamander, heater, warming pan</sg>,;
+<sg>boiler, caldron, seething caldron, pot</sg>,;
+<sg>urn, kettle</sg>,;
+<sg>chafing-dish</sg>,;
+<sg>retort, crucible, alembic, still</sg>,;
+<sg>waffle irons</sg>,;
+<sg>muffle furnace, induction furnace</sg>,;
+<sg>electric heater, electric furnace, electric resistance heat</sg>,;
+<sg>open-hearth furnace</sg>,;
+<sg>fireplace, gas fireplace</sg>,;
+<sg>coal fire, wood fire</sg>,;
+<sg>fire-dog, fire- irons</sg>,;
+<sg>grate, range, kitchener</sg>,;
+<sg>caboose, camboose</sg>,;
+<sg>poker, tongs, shovel, ashpan, hob, trivet</sg>,;
+<sg>andiron, gridiron</sg>,;
+<sg>ashdrop</sg>,;
+<sg>frying-pan, stew-pan, backlog</sg>,;
+<sg>hearth, inglenook</sg>,;
+<sg>oil burner, gas burner, Franklin stove, pot-bellied stove</sg>,;
+<sg>wood-burning stove</sg>,;
+<sg>central heating, steam heat, hot water heat, gas heat, forced hot air, electric heat, heat pump</sg>,;
+<sg>solar heat, convective heat</sg>,;
+<sg>hothouse, bakehouse, washhouse</sg>,;
+<sg>laundry</sg>,;
+<sg>conservatory</sg>,;
+<sg>sudatory</sg>,;
+<sg>Turkish bath, Russian bath, vapor bath, steam bath, sauna, warm bath</sg>,;
+<sg>vaporarium</sg>,;
+<br>
+</paragraph>

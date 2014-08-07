@@ -1,0 +1,76 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#15#</sectionNumber>
+<headword>#<b>#[001] #465# Visibility #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>visibility, </i>perceptibility</sg>,;
+<sg>conspicuousness, distinctness</sg>,;
+<sg>conspicuity, conspicuousness</sg>,;
+<sg>appearance ,<cref> 448 <i>achromatism</i></cref></sg>,;
+<sg>bassetting</sg>,;
+<sg>exposure</sg>,;
+<sg>manifestation ,<cref> 525 <i>fool</i></cref></sg>,;
+<sg>ocular proof, ocular evidence, ocular demonstration</sg>,;
+<sg>field of view ,<cref>441 <i>vision</i></cref></sg>,;
+<sg>periscopism</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be become visible</sg>,;
+<sg>appear, open to the view</sg>,;
+<sg>meet the eye, catch the eye</sg>,;
+<sg>basset</sg>,;
+<sg>present itself, show manifest itself, produce itself, discover itself, reveal itself, expose itself, betray itself</sg>,;
+<sg>stand forth, stand out</sg>,;
+<sg>materialize</sg>,;
+<sg>show</sg>,;
+<sg>arise</sg>,;
+<sg>peep out, peer out, crop out</sg>,;
+<sg>start up, spring up, show up, turn up, crop up</sg>,;
+<sg>glimmer, loom</sg>,;
+<sg>glare</sg>,;
+<sg>burst forth</sg>,;
+<sg>burst upon the view, burst upon the sight</sg>,;
+<sg>heave in sight</sg>,;
+<sg>come in sight, come into view, come out, come forth, come forward</sg>,;
+<sg>see the light of day</sg>,;
+<sg>break through the clouds</sg>,;
+<sg>make its appearance, show its face, appear to one's eyes, come upon the stage, float before the eyes, speak for itself ,<cref>525 <i>manifest</i></cref></sg>,;
+<sg>attract the attention ,<cref> 457 <i>blueness</i></cref></sg>,;
+<sg>reappear</sg>,;
+<sg>live in a glass house</sg>,;
+<sg>expose to view ,<cref> 525 <i>fool</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>visible, perceptible, perceivable, discernible, apparent</sg>,;
+<sg>in view, in full view, in sight</sg>,;
+<sg>exposed to view, en vidence</sg>,;
+<sg>unclouded, unobscured, in the foreground</sg>,;
+<sg>obvious ,<cref>525 <i>manifest</i></cref></sg>,;
+<sg>plain, clear, distinct, definite</sg>,;
+<sg>well defined, well marked</sg>,;
+<sg>in focus</sg>,;
+<sg>recognizable, palpable, autoptical</sg>,;
+<sg>glaring, staring, conspicuous</sg>,;
+<sg>stereoscopic</sg>,;
+<sg>in bold, in strong relief</sg>,;
+<sg>periscopic, panoramic</sg>,;
+<sg>before one's eyes, under one's eyes</sg>,;
+<sg>before one, +a vue d'oeil, in one's eye, oculis subjecta fidelibus</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>visibly</sg>,;
+<sg>in sight of</sg>,;
+<sg>before one's eyes</sg>,;
+<sg>veluti in speculum</sg>,;
+<br>
+</paragraph>

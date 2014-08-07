@@ -1,0 +1,59 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#37#</sectionNumber>
+<headword>#<b>#[001] #960# Revenge #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>revenge, </i>revengement</sg>,;
+<sg>vengeance</sg>,;
+<sg>avengement, avengeance, sweet revenge, vendetta, death feud, blood for blood retaliation ,<cref> 718 <i>refreshment</i></cref></sg>,;
+<sg>day of reckoning</sg>,;
+<sg>rancor, vindictiveness, implacability</sg>,;
+<sg>malevolence ,<cref> 907 <i>fastidiousness</i></cref></sg>,;
+<sg>ruthlessness ,<cref> 914 <i>nobility</i></cref></sg>,;
+<sg>1</sg>,;
+<sg>avenger, vindicator, Nemesis, Eumenides</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>revenge, avenge</sg>,;
+<sg>vindicate</sg>,;
+<sg>take one's revenge, have one's revenge</sg>,;
+<sg>breathe revenge, breathe vengeance</sg>,;
+<sg>wreak one's vengeance, wreak one's anger</sg>,;
+<sg>have accounts to settle, have a crow to pluck, have a bone to pick, have a rod in pickle</sg>,;
+<sg>keep the wound green</sg>,;
+<sg>harbor revenge, harbor vindictive feeling</sg>,;
+<sg>bear malice</sg>,;
+<sg>rankle, rankle in the breast</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>revengeful, vengeful</sg>,;
+<sg>vindictive, rancorous</sg>,;
+<sg>pitiless ,<cref> 914 <i>nobility</i></cref></sg>,;
+<sg>1</sg>,;
+<sg>ruthless, rigorous, avenging</sg>,;
+<sg>unforgiving, unrelenting</sg>,;
+<sg>inexorable, stony-hearted, implacable</sg>,;
+<sg>relentless, remorseless</sg>,;
+<sg>aeternum servans sub pectore vulnus</sg>,;
+<sg>rankling</sg>,;
+<sg>immitigable</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>manet ciratrix, manet alid mente repostum</sg>,;
+<sg>dies irae dies illa</sg>,;
+<sg>in high vengeance there is noble scorn</sg>,;
+<sg>inhumanum verbum est ultio</sg>,;
+<sg>malevolus animus abditos dentes habet</sg>,;
+<sg>now infidel I have thee on the hip</sg>,;
+<br>
+</paragraph>

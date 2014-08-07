@@ -1,0 +1,64 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#6#</sectionNumber>
+<headword>#<b>#[001] #118# Perpetuity #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>perpetuity, </i>eternity, everness, aye, sempiternity, immortality, athanasia</sg>,;
+<sg>interminability, agelessness, everlastingness</sg>,;
+<sg>perpetuation</sg>,;
+<sg>continued existence, uninterrupted existence</sg>,;
+<sg>perennity</sg>,;
+<sg>permanence (durability) 110</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>last forever, endure forever, go on forever</sg>,;
+<sg>have no end</sg>,;
+<sg>eternize, perpetuate</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>perpetual, eternal</sg>,;
+<sg>everduring, everlasting, ever-living, ever- flowing</sg>,;
+<sg>continual, sempiternal</sg>,;
+<sg>coeternal</sg>,;
+<sg>endless, unending</sg>,;
+<sg>ceaseless, incessant, uninterrupted, indesinent, unceasing</sg>,;
+<sg>endless, unending, interminable, having no end</sg>,;
+<sg>unfading, evergreen, amaranthine</sg>,;
+<sg>neverending, never-dying, never-fading</sg>,;
+<sg>deathless, immortal, undying, imperishable</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>perpetually</sg>,;
+<sg>always, ever, evermore, aye</sg>,;
+<sg>for ever, for aye, till the end of the universe, forevermore, forever and a day, for ever and ever</sg>,;
+<sg>in all ages, from age to age</sg>,;
+<sg>without end</sg>,;
+<sg>world without end, time without end</sg>,;
+<sg>in secula seculorum</sg>,;
+<sg>to the end of time, to the crack of doom, to the 'last syllable of recorded time'</sg>,;
+<sg>till doomsday</sg>,;
+<sg>constantly ,<cref>136 <i>very frequently</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>esto perpetuum</sg>,;
+<sg>labitur et labetur in omne volubilis oevum</sg>,;
+<sg>but thou shall flourish in immortal youth</sg>,;
+<sg>Eternity! thou pleasing, dreadful thought</sg>,;
+<sg>her immortal part with angels lives</sg>,;
+<sg>ohne Rast ,</sg>,;
+<sg>ora e sempre</sg>,;
+<br>
+</paragraph>

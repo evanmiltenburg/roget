@@ -1,0 +1,57 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#34#</sectionNumber>
+<headword>#<b>#[001] #844# Expenditure #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>expenditure, </i>money going out</sg>,;
+<sg>out goings, out lay</sg>,;
+<sg>expenses, disbursement</sg>,;
+<sg>prime cost ,<cref>812 <i>price</i></cref></sg>,;
+<sg>circulation</sg>,;
+<sg>run upon a bank</sg>,;
+<sg>payment ,<cref> 807 <i>acquisition</i></cref></sg>,;
+<sg>pay ,<cref>973 <i>remuneration</i></cref></sg>,;
+<sg>bribe ,<cref> 973 <i>approbation</i></cref></sg>,;
+<sg>fee, footing, garnish</sg>,;
+<sg>subsidy</sg>,;
+<sg>tribute</sg>,;
+<sg>contingent, quota</sg>,;
+<sg>donation ,<cref> 784 <i>keeper</i></cref></sg>,;
+<sg>pay in advance, earnest, handsel, deposit, installment</sg>,;
+<sg>investment</sg>,;
+<sg>purchase ,<cref> 795 <i>refusal</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>expend, spend</sg>,;
+<sg>run through, get through</sg>,;
+<sg>pay, disburse</sg>,;
+<sg>ante, ante up</sg>,;
+<sg>pony up</sg>,;
+<sg>open the purse strings, loose the purse strings, untie the purse strings</sg>,;
+<sg>lay out, shell out, fork out, fork over</sg>,;
+<sg>bleed</sg>,;
+<sg>make up a sum, invest, sink money</sg>,;
+<sg>run up debts, run up bills (debt) 806</sg>,;
+<sg>fee ,<cref>973 <i>reward</i></cref></sg>,;
+<sg>pay one's way ,<cref>807 <i>pay</i></cref></sg>,;
+<sg>subscribe ,<cref>784 <i>give</i></cref></sg>,;
+<sg>subsidize</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>expending, expended</sg>,;
+<sg>sumptuary</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>vectigalia nervos esse reipublicae</sg>,;
+<br>
+</paragraph>

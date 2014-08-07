@@ -1,0 +1,116 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#27#</sectionNumber>
+<headword>#<b>#[001] #654# Business #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>business, </i>occupation, employment</sg>,;
+<sg>pursuit ,<cref> 622 <i>compendium</i></cref></sg>,;
+<sg>what one is doing, what one is about</sg>,;
+<sg>affair, concern, matter, case</sg>,;
+<sg>matter in hand, irons in the fire</sg>,;
+<sg>thing to do, agendum, task, work, job, chore, errand, commission, mission, charge, care</sg>,;
+<sg>duty ,<cref> 926 <i>blusterer</i></cref></sg>,;
+<sg>part, role, cue</sg>,;
+<sg>province, function, lookout, department, capacity, sphere, orb, field, line</sg>,;
+<sg>walk, walk of life</sg>,;
+<sg>beat, round, routine</sg>,;
+<sg>race, career</sg>,;
+<sg>office, place, post, chargeship, incumbency, living</sg>,;
+<sg>situation, berth, employ</sg>,;
+<sg>service ,<cref>749 <i>servitude</i></cref></sg>,;
+<sg>engagement</sg>,;
+<sg>undertaking ,<cref> 676 <i>inexpedience</i></cref></sg>,;
+<sg>vocation, calling, profession, cloth, faculty</sg>,;
+<sg>industry, art</sg>,;
+<sg>industrial arts</sg>,;
+<sg>craft, mystery, handicraft</sg>,;
+<sg>trade ,<cref>794 <i>commerce</i></cref></sg>,;
+<sg>exercise</sg>,;
+<sg>work ,<cref>680 <i>action</i></cref></sg>,;
+<sg>avocation</sg>,;
+<sg>press of business ,<cref>682 <i>activity</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>pass one's time in, employ one's time in, spend one's time in</sg>,;
+<sg>employ oneself in, employ oneself upon</sg>,;
+<sg>occupy oneself with, concern oneself with</sg>,;
+<sg>make it one's business</sg>,;
+<sg>undertake ,<cref> 676 <i>inexpedience</i></cref></sg>,;
+<sg>enter a profession</sg>,;
+<sg>betake oneself to, turn one's hand to</sg>,;
+<sg>have to do with ,<cref>680 <i>do</i></cref></sg>,;
+<sg>office, place, post, chargeship, incumbency, living</sg>,;
+<sg>situation, berth, employ</sg>,;
+<sg>service ,<cref>749 <i>servitude</i></cref></sg>,;
+<sg>engagement</sg>,;
+<sg>undertaking ,<cref> 676 <i>inexpedience</i></cref></sg>,;
+<sg>drive a trade</sg>,;
+<sg>carry on a trade, do a trade, transact a trade, carry on business, do business, transact business</sg>,;
+<sg>keep a shop</sg>,;
+<sg>ply one's task, ply one's trade</sg>,;
+<sg>labor in one's vocation</sg>,;
+<sg>pursue the even tenor of one's way</sg>,;
+<sg>attend to business, attend to one's work</sg>,;
+<sg>officiate, serve, act</sg>,;
+<sg>act one's part, play one's part</sg>,;
+<sg>do duty</sg>,;
+<sg>serve the office of, discharge the office of, perform the office of, perform the duties of, perform the functions of</sg>,;
+<sg>hold an office, fill an office, fill a place, fill a situation</sg>,;
+<sg>hold a portfolio, hold a place, hold a situation</sg>,;
+<sg>be about, be doing, be engaged in, be employed in, be occupied with, be at work on</sg>,;
+<sg>have one's hands in, have in hand</sg>,;
+<sg>have on one's hands, have on one's shoulders</sg>,;
+<sg>bear the burden</sg>,;
+<sg>have one's hands full ,<cref>682 <i>activity</i></cref></sg>,;
+<sg>be in the hands of, be on the stocks, be on the anvil</sg>,;
+<sg>pass through one's hands</sg>,;
+<sg>Adj</sg>,;
+<sg>businesslike</sg>,;
+<sg>workaday</sg>,;
+<sg>professional</sg>,;
+<sg>official, functional</sg>,;
+<sg>busy ,<cref>682 <i>actively employed</i></cref></sg>,;
+<sg>on hand, in hand, in one's hands</sg>,;
+<sg>afoot</sg>,;
+<sg>on foot, on the anvil</sg>,;
+<sg>going on</sg>,;
+<sg>acting</sg>,;
+<sg>Adv</sg>,;
+<sg>in the course of business, all in one's day's work</sg>,;
+<sg>professionally </sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>businesslike</sg>,;
+<sg>workaday</sg>,;
+<sg>professional</sg>,;
+<sg>official, functional</sg>,;
+<sg>busy ,<cref>682 <i>actively employed</i></cref></sg>,;
+<sg>on hand, in hand, in one's hands</sg>,;
+<sg>afoot</sg>,;
+<sg>on foot, on the anvil</sg>,;
+<sg>going on</sg>,;
+<sg>acting</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>in the course of business, all in one's day's work</sg>,;
+<sg>professionally  Adj</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>a business with an income at its heels</sg>,;
+<sg>amoto quaeramus seria ludo</sg>,;
+<sg>par negotiis neque supra</sg>,;
+<br>
+</paragraph>

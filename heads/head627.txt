@@ -1,0 +1,106 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#26#</sectionNumber>
+<headword>#<b>#[001] #627# Necessity #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>necessity, </i>involuntariness</sg>,;
+<sg>instinct, blind impulse</sg>,;
+<sg>inborn proclivity, innate proclivity</sg>,;
+<sg>native tendency, natural tendency</sg>,;
+<sg>natural impulse, predetermination</sg>,;
+<sg>necessity, necessitation</sg>,;
+<sg>obligation</sg>,;
+<sg>compulsion ,<cref> 744 <i>defiance</i></cref></sg>,;
+<sg>subjection ,<cref> 749 <i>contention</i></cref></sg>,;
+<sg>stern necessity, hard necessity, dire necessity, imperious necessity, inexorable necessity, iron necessity, adverse necessity</sg>,;
+<sg>fate</sg>,;
+<sg>what must be</sg>,;
+<sg>destiny, destination</sg>,;
+<sg>fatality, fate, kismet, doom, foredoom, election, predestination</sg>,;
+<sg>preordination, foreordination</sg>,;
+<sg>lot fortune</sg>,;
+<sg>fatalism</sg>,;
+<sg>inevitableness</sg>,;
+<sg>spell ,<cref> 993 <i>impenitence</i></cref></sg>,;
+<sg>star, stars</sg>,;
+<sg>planet, planets</sg>,;
+<sg>astral influence</sg>,;
+<sg>sky, Fates, Parcae, Sisters three, book of fate</sg>,;
+<sg>God's will, will of Heaven</sg>,;
+<sg>wheel of Fortune, Ides of March, Hobson's choice</sg>,;
+<sg>last shift, last resort</sg>,;
+<sg>dernier ressort</sg>,;
+<sg>pis aller ,<cref>147 <i>substitute</i></cref></sg>,;
+<sg>necessaries ,<cref>630 <i>requirement</i></cref></sg>,;
+<sg>necessarian, necessitarian</sg>,;
+<sg>fatalist</sg>,;
+<sg>automaton</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>lie under a necessity</sg>,;
+<sg>befated, be doomed, be destined , in for, under the necessity of</sg>,;
+<sg>have no choice, have no alternative</sg>,;
+<sg>be one's fate</sg>,;
+<sg>to be pushed to the wall to be driven into a corner, to be unable to help</sg>,;
+<sg>destine, doom, foredoom, devote</sg>,;
+<sg>predestine, preordain</sg>,;
+<sg>cast a spell ,<cref> 992 <i>penitence</i></cref></sg>,;
+<sg>necessitate</sg>,;
+<sg>compel ,<cref> 744 <i>defiance</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>necessary, needful ,<cref>630 <i>requisite</i></cref></sg>,;
+<sg>fated</sg>,;
+<sg>destined</sg>,;
+<sg>elect</sg>,;
+<sg>spellbound compulsory ,<cref>744 <i>compel</i></cref></sg>,;
+<sg>uncontrollable, inevitable, unavoidable, irresistible, irrevocable, inexorable</sg>,;
+<sg>avoidless, resistless</sg>,;
+<sg>involuntary, instinctive, automatic, blind, mechanical</sg>,;
+<sg>unconscious, unwitting, unthinking</sg>,;
+<sg>unintentional ,<cref>621 <i>undesigned</i></cref></sg>,;
+<sg>impulsive ,<cref> 612 <i>allocution</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>necessarily</sg>,;
+<sg>of necessity, of course</sg>,;
+<sg>ex necessitate rei</sg>,;
+<sg>needs must</sg>,;
+<sg>perforce ,<cref> 744 <i>defiance</i></cref></sg>,;
+<sg>nolens volens</sg>,;
+<sg>will he nil he, willy nilly, bon gre mal gre, willing or unwilling, coute que coute</sg>,;
+<sg>faute de mieux</sg>,;
+<sg>by stress of</sg>,;
+<sg>if need be</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>it cannot be helped</sg>,;
+<sg>there is no help for, there is no helping it</sg>,;
+<sg>it will be, it must be, it needs to be, it must be so, it will have its way</sg>,;
+<sg>the die is cast</sg>,;
+<sg>jacta est alea</sg>,;
+<sg>che sara sara</sg>,;
+<sg>it is written</sg>,;
+<sg>one's days are numbered, one's fate is sealed</sg>,;
+<sg>Fata obstant</sg>,;
+<sg>diis aliter visum</sg>,;
+<sg>actum me invito factus, non est meus actus</sg>,;
+<sg>aujord'hui roi demain rien</sg>,;
+<sg>quisque suos patimur manes</sg>,;
+<sg>The moving finger writes and having writ moves on</sg>,;
+<sg>Nor all thy piety nor wit shall draw it back to cancel half a</sg>,;
+<br>
+</paragraph>

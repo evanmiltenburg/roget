@@ -1,0 +1,11 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#34#</sectionNumber>
+<headword>#<b>#[001] #831# Merchandise #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>merchandise, </i>ware, commodity, effects, goods, article, stock, product, produce, staple commodity</sg>,;
+<sg>stock in trade ,<cref>636 <i>store</i></cref></sg>,;
+<sg>cargo ,<cref>190 <i>contents</i></cref></sg>,;
+<br>
+</paragraph>

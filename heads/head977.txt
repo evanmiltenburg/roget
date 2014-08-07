@@ -1,0 +1,24 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#38#</sectionNumber>
+<headword>#<b>#[001] #977# Flatterer #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>flatterer, </i>adulator</sg>,;
+<sg>eulogist, euphemist</sg>,;
+<sg>optimist, encomiast, laudator, whitewasher</sg>,;
+<sg>toady, toadeater</sg>,;
+<sg>sycophant, courtier, Sir Pertinax MacSycophant</sg>,;
+<sg>flaneur, proneur</sg>,;
+<sg>puffer, touter, claqueur</sg>,;
+<sg>clawback, earwig, doer of dirty work</sg>,;
+<sg>parasite, hanger-on ,<cref>886 <i>servility</i></cref></sg>,;
+<sg>yes-man, suckup, ass-kisser, brown-noser, teacher's pet</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>pessimum genus inimicorum laudantes</sg>,;
+<br>
+</paragraph>

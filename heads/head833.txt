@@ -1,0 +1,38 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#34#</sectionNumber>
+<headword>#<b>#[001] #833# Stock Market #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>stock market, </i>stock exchange, securities exchange</sg>,;
+<sg>bourse, board</sg>,;
+<sg>the big board, the New York Stock Exchange</sg>,;
+<sg>the market, the open market</sg>,;
+<sg>over-the-counter market</sg>,;
+<sg>privately traded issues</sg>,;
+<sg>commodities exchange, futures exchange, futures market</sg>,;
+<sg>the pit, the floor</sg>,;
+<sg>ticker, stock ticker, quotation</sg>,;
+<sg>stock index, market index, the Dow Jones Index, the Dow Industrials, the transportation index, utilities, the utilities index</sg>,;
+<sg>the New York Stock Exchange index, the Nikkei index</sg>,;
+<sg>the Financial Times index, the FTI, the over-the-counter index, NASDAQ index</sg>,;
+<sg>broker, stockbroker, jobber, stock dealer, odd-lot dealer</sg>,;
+<sg>specialist</sg>,;
+<sg>investor, speculator, operator</sg>,;
+<sg>bull, buyer</sg>,;
+<sg>bear, short seller</sg>,;
+<sg>scalper, arbitrager, arbitrageur</sg>,;
+<sg>stockholder, share-holder, stockholder of record</sg>,;
+<sg>bond holder, coupon- clipper</sg>,;
+<sg>investment</sg>,;
+<sg>speculation</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>speculate, invest, trade, trade stocks, play the market</sg>,;
+<sg>buy long, sell short, take a position, straddle</sg>,;
+<sg>take a plunge, plunge in, take a flier</sg>,;
+<br>
+</paragraph>

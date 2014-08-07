@@ -1,0 +1,94 @@
+<classNumber>#2#</classNumber>
+<sectionNumber>#12#</sectionNumber>
+<headword>#<b>#[001] #277# Journey #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>journey, </i>travel</sg>,;
+<sg>traveling</sg>,;
+<sg>wayfaring, campaigning</sg>,;
+<sg>journey, excursion, expedition, tour, trip, grand tour, circuit, peregrination, discursion, ramble, pilgrimage, hajj, trek, course, ambulation, march, walk, promenade, constitutional, stroll, saunter, tramp, jog trot, turn, stalk, perambulation</sg>,;
+<sg>noctambulation, noctambulism</sg>,;
+<sg>somnambulism</sg>,;
+<sg>outing, ride, drive, airing, jaunt</sg>,;
+<sg>equitation, horsemanship, riding, manege, ride and tie</sg>,;
+<sg>basophobia</sg>,;
+<sg>roving, vagrancy, pererration</sg>,;
+<sg>marching and countermarching</sg>,;
+<sg>nomadism</sg>,;
+<sg>vagabondism, vagabondage</sg>,;
+<sg>hoboism</sg>,;
+<sg>gadding</sg>,;
+<sg>flit, flitting, migration</sg>,;
+<sg>emigration, immigration, demigration, intermigration</sg>,;
+<sg>wanderlust</sg>,;
+<sg>plan, itinerary, guide</sg>,;
+<sg>handbook, guidebook, road book</sg>,;
+<sg>Baedeker, Bradshaw, Murray</sg>,;
+<sg>map, road map, transportation guide, subway map</sg>,;
+<sg>procession, cavalcade, caravan, file, cortege, column</sg>,;
+<sg>vehicle ,<cref> 272 <i>closure</i></cref></sg>,;
+<sg>automobile, train, bus, airplane, plane, autobus, omnibus, subway, motorbike, dirt bike, off-road vehicle, van, minivan, motor scooter, trolley, locomotive</sg>,;
+<sg>legs, feet, pegs, pins, trotters</sg>,;
+<sg>traveler ,<cref> 268 <i>notch</i></cref></sg>,;
+<sg>depot, railway station, station</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>travel, journey, course</sg>,;
+<sg>take a journey, go a journey</sg>,;
+<sg>take a walk, go out for walk</sg>,;
+<sg>have a run</sg>,;
+<sg>take the air</sg>,;
+<sg>flit, take wing</sg>,;
+<sg>migrate, emigrate</sg>,;
+<sg>trek</sg>,;
+<sg>rove, prowl, roam, range, patrol, pace up and down, traverse</sg>,;
+<sg>scour the country, traverse the country</sg>,;
+<sg>peragrate</sg>,;
+<sg>circumambulate, perambulate</sg>,;
+<sg>nomadize, wander, ramble, stroll, saunter, hover, go one's rounds, straggle</sg>,;
+<sg>gad, gad about</sg>,;
+<sg>expatiate</sg>,;
+<sg>walk, march, step, tread, pace, plod, wend, go by shank's mare</sg>,;
+<sg>promenade</sg>,;
+<sg>trudge, tramp</sg>,;
+<sg>stalk, stride, straddle, strut, foot it, hoof it, stump, bundle, bowl along, toddle</sg>,;
+<sg>paddle</sg>,;
+<sg>tread a path</sg>,;
+<sg>take horse, ride, drive, trot, amble, canter, prance, fisk, frisk, caracoler, caracole</sg>,;
+<sg>gallop ,<cref>274 <i>move quickly</i></cref></sg>,;
+<sg>embark, board, set out, hit the road, get going, get underway</sg>,;
+<sg>peg on, jog on, wag on, shuffle on</sg>,;
+<sg>stir one's stumps</sg>,;
+<sg>bend one's steps, bend one's course</sg>,;
+<sg>make one's way, find one's way, wend one's way, pick one's way, pick one's way, thread one's way, plow one's way</sg>,;
+<sg>slide, glide, coast, skim, skate</sg>,;
+<sg>march in procession, file on, defile</sg>,;
+<sg>go to, repair to, resort to, hie to, betake oneself to</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>traveling</sg>,;
+<sg>ambulatory, itinerant, peripatetic, roving, rambling, gadding, discursive, vagrant, migratory, monadic</sg>,;
+<sg>circumforanean, circumforaneous</sg>,;
+<sg>noctivagrant, mundivagrant</sg>,;
+<sg>locomotive</sg>,;
+<sg>wayfaring, wayworn</sg>,;
+<sg>travel-stained</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>on foot, on horseback, on Shanks's mare</sg>,;
+<sg>by the Marrowbone stage: in transitu ,<cref> 270 <i>furrow</i></cref></sg>,;
+<sg>en route ,<cref> 282 <i>carrier</i></cref></sg>,;
+<sg>Int</sg>,;
+<sg>come along!,</sg>,;
+<br>
+</paragraph>

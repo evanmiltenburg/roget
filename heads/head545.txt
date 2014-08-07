@@ -1,0 +1,42 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#23#</sectionNumber>
+<headword>#<b>#[001] #545# Equivocalness #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>equivocalness</i></sg>,;
+<sg>double meaning ,<cref> 516 <i>scholar</i></cref></sg>,;
+<sg>ambiguity, double entente, double entendre, pun, paragram, calembour, quibble, equivoque, anagram</sg>,;
+<sg>conundrum ,<cref>533 <i>riddle</i></cref></sg>,;
+<sg>play on words, word play ,<cref>842 <i>wit</i></cref></sg>,;
+<sg>homonym, homonymy</sg>,;
+<sg>amphiboly, amphibology</sg>,;
+<sg>ambilogy, ambiloquy</sg>,;
+<sg>Sphinx, Delphic oracle</sg>,;
+<sg>equivocation ,<cref>544 <i>duplicity</i></cref></sg>,;
+<sg>white lie, mental reservation ,<cref>528 <i>concealment</i></cref></sg>,;
+<sg>paltering</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be equivocal</sg>,;
+<sg>have two meanings ,<cref> 516 <i>scholar</i></cref></sg>,;
+<sg>equivocate ,<cref>544 <i>alter</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>equivocal, ambiguous, amphibolous, homonymous</sg>,;
+<sg>double-tongued ,<cref>544 <i>lying</i></cref></sg>,;
+<sg>enigmatical, indeterminate</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>on the one hand, on the other hand</sg>,;
+<br>
+</paragraph>

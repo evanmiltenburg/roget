@@ -1,0 +1,52 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#28#</sectionNumber>
+<headword>#<b>#[001] #725# Council #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>council, </i>committee, subcommittee, comitia, court, chamber, cabinet, board, bench, staff</sg>,;
+<sg>senate, senatus, parliament, chamber of deputies, directory, reichsrath, rigsdag, cortes, storthing, witenagemote, junta, divan, musnud, sanhedrim</sg>,;
+<sg>classis</sg>,;
+<sg>Amphictyonic council</sg>,;
+<sg>duma, house of representatives</sg>,;
+<sg>legislative assembly, legislative council</sg>,;
+<sg>riksdag, volksraad, witan, caput, consistory, chapter, syndicate</sg>,;
+<sg>court of appeal ,<cref>966 <i>tribunal</i></cref></sg>,;
+<sg>board of control, board of works</sg>,;
+<sg>vestry</sg>,;
+<sg>county council, local board</sg>,;
+<sg>audience chamber, council chamber, state chamber</sg>,;
+<sg>cabinet council, privy council</sg>,;
+<sg>cockpit, convocation, synod, congress, convention, diet, states-general</sg>,;
+<sg>assembly, caucus, conclave, clique, conventicle</sg>,;
+<sg>meeting, sitting, seance, conference, convention, exhibition, session, palaver, pourparler, durbar, house</sg>,;
+<sg>quorum</sg>,;
+<sg>council fire, powwow, primary</sg>,;
+<sg>meeting, assemblage ,<cref> 72 <i>middle</i></cref></sg>,;
+<sg>member</sg>,;
+<sg>senator</sg>,;
+<sg>member of parliament, M</sg>,;
+<sg>P</sg>,;
+<sg>councilor, representative of the people</sg>,;
+<sg>assemblyman, congressman</sg>,;
+<sg>councilman, councilwoman, alderman, freeholder</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>assemble, gather together, meet (assemblage) 72</sg>,;
+<sg>confer, caucus, hold council</sg>,;
+<sg>huddle</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>senatorial, curule</sg>,;
+<sg>congressional, parliamentary</sg>,;
+<sg>legislative, law-making</sg>,;
+<sg>regulatory</sg>,;
+<sg>deliberative</sg>,;
+<br>
+</paragraph>

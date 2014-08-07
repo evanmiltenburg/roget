@@ -1,0 +1,68 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#8#</sectionNumber>
+<headword>#<b>#[001] #163# Chance #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>chance, </i>indetermination, accident, fortune, hazard, hap, haphazard, chance medley, random, luck, raccroc, casualty, contingence, adventure, hit</sg>,;
+<sg>fate ,<cref>601 <i>necessity</i></cref></sg>,;
+<sg>equal chance</sg>,;
+<sg>lottery</sg>,;
+<sg>tombola</sg>,;
+<sg>toss up ,<cref> 621 <i>dissertation</i></cref></sg>,;
+<sg>turn of the table, turn of the cards</sg>,;
+<sg>hazard of the die, chapter of accidents, fickle finger of fate</sg>,;
+<sg>cast of the dice, throw of the dice</sg>,;
+<sg>heads or tails, flip of a coin, wheel of Fortune</sg>,;
+<sg>sortes, sortes Virgilianae</sg>,;
+<sg>probability, possibility, odds</sg>,;
+<sg>long odds, run of luck</sg>,;
+<sg>accidentalness</sg>,;
+<sg>main chance, odds on, favorable odds</sg>,;
+<sg>contingency, dependence (uncertainty) 475</sg>,;
+<sg>situation (circumstance) 8</sg>,;
+<sg>statistics, theory of Probabilities, theory of Chances</sg>,;
+<sg>bookmaking</sg>,;
+<sg>assurance</sg>,;
+<sg>speculation, gaming ,<cref> 621 <i>dissertation</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>chance, hap, turn up</sg>,;
+<sg>fall to one's lot</sg>,;
+<sg>be one's fate ,<cref> 601 <i>feebleness</i></cref></sg>,;
+<sg>stumble on light upon</sg>,;
+<sg>take one's chance ,<cref> 621 <i>dissertation</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>casual, fortuitous, accidental, adventitious, causeless, incidental, contingent, uncaused, undetermined, indeterminate</sg>,;
+<sg>random, statistical</sg>,;
+<sg>possible ,<cref> 470 <i>absence or want of intellect</i></cref></sg>,;
+<sg>unintentional ,<cref> 621 <i>dissertation</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>by chance, accidentally, by accident</sg>,;
+<sg>casually</sg>,;
+<sg>perchance ,<cref>470 <i>possibly</i></cref></sg>,;
+<sg>for aught one knows</sg>,;
+<sg>as good would have it, as bad would have it, as luck would have it, as ill-luck would have it, as chance would have it</sg>,;
+<sg>as it may be, as it may chance, as it may turn up, as it may happen</sg>,;
+<sg>as the case may be</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>grasps the skirts of happy chance</sg>,;
+<sg>the accident of an accident</sg>,;
+<sg>There but for the grace of God go I</sg>,;
+<br>
+</paragraph>

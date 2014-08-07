@@ -1,0 +1,124 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#24#</sectionNumber>
+<headword>#<b>#[001] #550# Manifestation #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>manifestation</i></sg>,;
+<sg>plainness</sg>,;
+<sg>plain speaking</sg>,;
+<sg>expression</sg>,;
+<sg>showing</sg>,;
+<sg>exposition, demonstration</sg>,;
+<sg>exhibition, production</sg>,;
+<sg>display, show</sg>,;
+<sg>showing off</sg>,;
+<sg>premonstration</sg>,;
+<sg>exhibit</sg>,;
+<sg>indication ,<cref>457 <i>calling attention to</i></cref></sg>,;
+<sg>publicity ,<cref> 531 <i>expectation</i></cref></sg>,;
+<sg>disclosure ,<cref> 529 <i>memory</i></cref></sg>,;
+<sg>openness ,<cref>703 <i>honesty) 543, (artlessness</i></cref></sg>,;
+<sg>panchement</sg>,;
+<sg>evidence ,<cref> 467 <i>appearance</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>make manifest, render manifest</sg>,;
+<sg>bring forth, bring forward, bring to the front, bring into view</sg>,;
+<sg>give notice</sg>,;
+<sg>express</sg>,;
+<sg>represent, set forth, exhibit</sg>,;
+<sg>show, show up</sg>,;
+<sg>expose</sg>,;
+<sg>produce</sg>,;
+<sg>hold up to view, expose to view</sg>,;
+<sg>set before one, place before one, lay before one, one's eyes</sg>,;
+<sg>tell to one's face</sg>,;
+<sg>trot out, put through one's paces, bring to light, display, demonstrate, unroll</sg>,;
+<sg>lay open</sg>,;
+<sg>draw out, bring out</sg>,;
+<sg>bring out in strong relief</sg>,;
+<sg>call into notice, bring into notice</sg>,;
+<sg>hold up the mirror</sg>,;
+<sg>wear one's heart upon his sleeve</sg>,;
+<sg>show one's face, show one's colors</sg>,;
+<sg>manifest oneself</sg>,;
+<sg>speak out</sg>,;
+<sg>make no mystery, make no secret of</sg>,;
+<sg>unfurl the flag</sg>,;
+<sg>proclaim ,<cref>531 <i>publish</i></cref></sg>,;
+<sg>indicate ,<cref>457 <i>direct attention to</i></cref></sg>,;
+<sg>disclose ,<cref> 529 <i>memory</i></cref></sg>,;
+<sg>elicit ,<cref> 480 <i>neglect</i></cref></sg>,;
+<sg>1</sg>,;
+<sg>be manifest</sg>,;
+<sg>appear ,<cref>446 <i>be visible</i></cref></sg>,;
+<sg>transpire ,<cref>529 <i>be disclosed</i></cref></sg>,;
+<sg>speak for itself, stand to reason</sg>,;
+<sg>stare one in the face, rear its head</sg>,;
+<sg>give token, give sign, give indication of</sg>,;
+<sg>tell its own tale ,<cref>518 <i>intelligible</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>manifest, apparent</sg>,;
+<sg>salient, striking, demonstrative, prominent, in the foreground, notable, pronounced</sg>,;
+<sg>flagrant</sg>,;
+<sg>notorious ,<cref>531 <i>public</i></cref></sg>,;
+<sg>arrant</sg>,;
+<sg>stark staring</sg>,;
+<sg>unshaded, glaring</sg>,;
+<sg>defined, definite</sg>,;
+<sg>distinct, conspicuous ,<cref>446 <i>visible</i></cref></sg>,;
+<sg>obvious, evident, unmistakable, indubitable, not to be mistaken, palpable, self-evident, autoptical</sg>,;
+<sg>intelligible ,<cref> 518 <i>truth</i></cref></sg>,;
+<sg>plain, clear, clear as day, clear as daylight, clear as noonday</sg>,;
+<sg>plain as a pike staff, plain as the sun at noon-day, plain as the nose on one's face, plain as the way to parish church</sg>,;
+<sg>explicit, overt, patent, express</sg>,;
+<sg>ostensible</sg>,;
+<sg>open, open as day</sg>,;
+<sg>naked, bare, literal, downright, undisguised, exoteric</sg>,;
+<sg>unreserved, frank, plain-spoken ,<cref>703 <i>artless</i></cref></sg>,;
+<sg>candid (veracious) 543</sg>,;
+<sg>barefaced</sg>,;
+<sg>manifested</sg>,;
+<sg>disclosed ,<cref> 529 <i>memory</i></cref></sg>,;
+<sg>capable of being shown, producible</sg>,;
+<sg>inconcealable, unconcealable</sg>,;
+<sg>no secret</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>manifestly, openly</sg>,;
+<sg>before one's eyes, under one's nose, to one's face, face to face, above board, cartes sur table, on the stage, in open court, in the open streets</sg>,;
+<sg>in market overt</sg>,;
+<sg>in the face of day, face of heaven</sg>,;
+<sg>in broad daylight, in open daylight</sg>,;
+<sg>without reserve</sg>,;
+<sg>at first blush, prima facie, on the face of</sg>,;
+<sg>in set terms</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>cela saute aux yeux</sg>,;
+<sg>he that runs may read</sg>,;
+<sg>you can see it with half an eye</sg>,;
+<sg>it needs no ghost to tell us</sg>,;
+<sg>the meaning lies on the surface</sg>,;
+<sg>cela va sans dire</sg>,;
+<sg>res ipsa loquitur</sg>,;
+<sg>clothing the palpable and familiar</sg>,;
+<sg>fari quae sentiat</sg>,;
+<sg>volto sciolto i pensieri stretti</sg>,;
+<sg>you don't need a weatherman to know which way the wind blows</sg>,;
+<br>
+</paragraph>

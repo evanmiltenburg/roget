@@ -1,0 +1,53 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#38#</sectionNumber>
+<headword>#<b>#[001] #989# Guilt #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>guilt, </i>guiltiness</sg>,;
+<sg>culpability</sg>,;
+<sg>criminality, criminousness</sg>,;
+<sg>deviation from rectitude ,<cref>940 <i>improbity</i></cref></sg>,;
+<sg>sinfulness ,<cref>945 <i>vice</i></cref></sg>,;
+<sg>misconduct, misbehavior, misdoing, misdeed</sg>,;
+<sg>malpractice, fault, sin, error, transgression</sg>,;
+<sg>dereliction, delinquency</sg>,;
+<sg>indiscretion, lapse, slip, trip, faux pas, peccadillo</sg>,;
+<sg>flaw, blot, omission</sg>,;
+<sg>failing, failure</sg>,;
+<sg>break, bad break!, capital crime, delictum</sg>,;
+<sg>offense, trespass</sg>,;
+<sg>misdemeanor, misfeasance, misprision</sg>,;
+<sg>malefaction, malfeasance, malversation</sg>,;
+<sg>crime, felony</sg>,;
+<sg>enormity, atrocity, outrage</sg>,;
+<sg>deadly sin, mortal sin</sg>,;
+<sg>deed without a name</sg>,;
+<sg>corpus delicti</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>guilty, to blame, culpable, peccable, in fault, at fault, censurable, reprehensible, blameworthy, uncommendable, illaudable</sg>,;
+<sg>weighed in the balance and found wanting</sg>,;
+<sg>exceptionable</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>in flagrante delicto</sg>,;
+<sg>red-handed, in the very act, with one's hand in the cookie jar</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>cui prodest scelus in fecit</sg>,;
+<sg>culpam paena premit comes</sg>,;
+<sg>O would the deed were good!</sg>,;
+<sg>responsibility prevents crimes se judice nemo nocens absolvitur</sg>,;
+<sg>so many laws argues so many sins</sg>,;
+<br>
+</paragraph>

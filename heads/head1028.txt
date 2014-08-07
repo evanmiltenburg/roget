@@ -1,0 +1,111 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#39#</sectionNumber>
+<headword>#<b>#[001] #1028# Heterodoxy #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>heterodoxy</i></sg>,;
+<sg>error ,<cref> 495 <i>probability</i></cref></sg>,;
+<sg>false doctrine, heresy, schism</sg>,;
+<sg>schismaticism, schismaticalness</sg>,;
+<sg>recusancy, backsliding, apostasy</sg>,;
+<sg>atheism ,<cref>989 <i>irreligion</i></cref></sg>,;
+<sg>bigotry ,<cref>606 <i>obstinacy</i></cref></sg>,;
+<sg>fanaticism, iconoclasm</sg>,;
+<sg>hyperorthodoxy, precisianism, bibliolatry, sabbatarianism, puritanism</sg>,;
+<sg>anthropomorphism</sg>,;
+<sg>idolatry ,<cref> 991 <i>bad man</i></cref></sg>,;
+<sg>superstition ,<cref>486 <i>credulity</i></cref></sg>,;
+<sg>dissent ,<cref> 489 <i>measurement</i></cref></sg>,;
+<sg>sectarism, sectarianism</sg>,;
+<sg>noncomformity</sg>,;
+<sg>secularism</sg>,;
+<sg>syncretism</sg>,;
+<sg>protestantism, Arianism, Adventism, Jansenism, Stundism, Erastianism, Calvinism, quakerism, methodism, anabaptism, Puseyism, tractarianism, ritualism, Origenism, Sabellianism, Socinianism, Deism, Theism, materialism, positivism, latitudinarianism  High Church, Low Church, Broad Church, Free Church</sg>,;
+<sg>ultramontanism</sg>,;
+<sg>papism, papistry</sg>,;
+<sg>monkery</sg>,;
+<sg>papacy</sg>,;
+<sg>Anglicanism, Catholicism, Romanism</sg>,;
+<sg>popery, Scarlet Lady, Church of Rome, Greek Church</sg>,;
+<sg>paganism, heathenism, ethicism</sg>,;
+<sg>mythology</sg>,;
+<sg>polytheism, ditheism, tritheism</sg>,;
+<sg>dualism</sg>,;
+<sg>heathendom</sg>,;
+<sg>Judaism, Gentilism, Islamism, Islam, Mohammedanism, Babism, Sufiism, Neoplatonism, Turcism, Brahminism, Hinduism, Buddhism, Sabianism, Gnosticism, Hylotheism, Mormonism</sg>,;
+<sg>Christian Science</sg>,;
+<sg>heretic, apostate, antichrist</sg>,;
+<sg>pagan, heathen</sg>,;
+<sg>painim, paynim</sg>,;
+<sg>giaour</sg>,;
+<sg>gentile</sg>,;
+<sg>pantheist, polytheist</sg>,;
+<sg>idolator</sg>,;
+<sg>schismatic</sg>,;
+<sg>sectary, sectarian, sectarist</sg>,;
+<sg>seceder, separatist, recusant, dissenter</sg>,;
+<sg>nonconformist, nonjuror</sg>,;
+<sg>bigot ,<cref>606 <i>obstinacy</i></cref></sg>,;
+<sg>fanatic, abdal, iconoclast</sg>,;
+<sg>latitudinarian, Deist, Theist, Unitarian</sg>,;
+<sg>positivist, materialist</sg>,;
+<sg>Homoiousian, Homoousian, limitarian, theosophist, ubiquitarian</sg>,;
+<sg>skeptic ,<cref> 989 <i>guilt</i></cref></sg>,;
+<sg>Protestant</sg>,;
+<sg>Huguenot</sg>,;
+<sg>orthodox dissenter, Congregationalist, Independent</sg>,;
+<sg>Episcopalian, Presbyterian</sg>,;
+<sg>Lutheran, Calvinist, Methodist, Wesleyan</sg>,;
+<sg>Ana, Baptist</sg>,;
+<sg>Mormon, Latter-day Saint, Irvingite, Sandemanian, Glassite, Erastian</sg>,;
+<sg>Sublapsarian, Supralapsarian</sg>,;
+<sg>Gentoo, Antinomian, Swedenborgian</sg>,;
+<sg>Adventist, Bible Christian, Bryanite, Brownian, Christian Scientist, Dunker, Ebionite, Eusebian</sg>,;
+<sg>Faith Curer, Curist</sg>,;
+<sg>Familist, Jovinianist, Libadist, Quaker, Restitutionist, Shaker, Stundist, Tunker </sg>,;
+<sg>ultramontane</sg>,;
+<sg>Anglican, Oxford School</sg>,;
+<sg>tractarian, Puseyite, ritualist</sg>,;
+<sg>Puritan</sg>,;
+<sg>Catholic, Roman, Catholic, Romanist, papist</sg>,;
+<sg>Jew, Hebrew, Rabbinist, Rabbist, Sadducee</sg>,;
+<sg>Babist, Motazilite</sg>,;
+<sg>Mohammedan, Mussulman, Moslem, Shiah, Sunni, Wahabi, Osmanli</sg>,;
+<sg>Brahmin, Brahman</sg>,;
+<sg>Parsee, Sufi, Buddhist</sg>,;
+<sg>Magi, Gymnosophist, fire worshiper, Sabian, Gnostic, Rosicrucian </sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>heterodox, heretical</sg>,;
+<sg>unorthodox, unscriptural, uncanonical</sg>,;
+<sg>antiscriptural, apocryphal</sg>,;
+<sg>unchristian, antichristian</sg>,;
+<sg>schismatic, recusant, iconoclastic</sg>,;
+<sg>sectarian</sg>,;
+<sg>dissenting, dissident</sg>,;
+<sg>secular , (lay) 997</sg>,;
+<sg>pagan</sg>,;
+<sg>heathen, heathenish</sg>,;
+<sg>ethnic, ethnical</sg>,;
+<sg>gentile, paynim</sg>,;
+<sg>pantheistic, polytheistic</sg>,;
+<sg>Judaical, Mohammedan, Brahminical, Buddhist</sg>,;
+<sg>Romish, Protestant</sg>,;
+<sg>bigoted ,<cref>606 <i>prejudiced) 481, (obstinate</i></cref></sg>,;
+<sg>superstitious ,<cref>486 <i>credulous</i></cref></sg>,;
+<sg>fanatical</sg>,;
+<sg>idolatrous ,<cref> 991 <i>bad man</i></cref></sg>,;
+<sg>visionary ,<cref>515 <i>imaginative</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>slave to no sect</sg>,;
+<sg>superstitione tollenda religio non tollitur</sg>,;
+<br>
+</paragraph>

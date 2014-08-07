@@ -1,0 +1,87 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#8#</sectionNumber>
+<headword>#<b>#[001] #168# Production #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>production, </i>creation, construction, formation, fabrication, manufacture</sg>,;
+<sg>building, architecture, erection, edification</sg>,;
+<sg>coinage</sg>,;
+<sg>diaster</sg>,;
+<sg>organization</sg>,;
+<sg>nisus formativus</sg>,;
+<sg>putting together</sg>,;
+<sg>establishment</sg>,;
+<sg>workmanship, performance</sg>,;
+<sg>achievement ,<cref>729 <i>completion</i></cref></sg>,;
+<sg>flowering, fructification</sg>,;
+<sg>inflorescence</sg>,;
+<sg>bringing forth</sg>,;
+<sg>parturition, birth, birth-throe, childbirth, delivery, confinement, accouchement, travail, labor, midwifery, obstetrics</sg>,;
+<sg>geniture</sg>,;
+<sg>gestation ,<cref>673 <i>maturation</i></cref></sg>,;
+<sg>assimilation</sg>,;
+<sg>evolution, development, growth</sg>,;
+<sg>entelechy</sg>,;
+<sg>fertilization, gemination, germination, heterogamy, genesis, generation, epigenesis, procreation, progeneration, propagation</sg>,;
+<sg>fecundation, impregnation</sg>,;
+<sg>albumen ,<cref> 357 <i>island</i></cref></sg>,;
+<sg>spontaneous generation</sg>,;
+<sg>archegenesis, archebiosis</sg>,;
+<sg>biogenesis, abiogenesis, digenesis, dysmerogenesis, eumerogenesis, heterogenesis, oogenesis, merogenesis, metogenesis, monogenesis, parthenogenesis, homogenesis, xenogenesis1</sg>,;
+<sg>authorship, publication</sg>,;
+<sg>works, opus, oeuvre</sg>,;
+<sg>biogeny, dissogeny, xenogeny</sg>,;
+<sg>tocogony, vacuolization</sg>,;
+<sg>edifice, building, structure, fabric, erection, pile, tower, flower, fruit</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>produce, perform, operate, do, make, gar, form, construct, fabricate, frame, contrive, manufacture</sg>,;
+<sg>weave, forge, coin, carve, chisel</sg>,;
+<sg>build, raise, edify, rear, erect, put together, set up, run up</sg>,;
+<sg>establish, constitute, compose, organize, institute</sg>,;
+<sg>achieve, accomplish ,<cref>729 <i>complete</i></cref></sg>,;
+<sg>flower, bear fruit, fructify, teem, ean, yean, farrow, drop, pup, kitten, kindle</sg>,;
+<sg>bear, lay, whelp, bring forth, give birth to, lie in, be brought to bed of, evolve, pullulate, usher into the world</sg>,;
+<sg>make productive ,<cref> 168 <i>production</i></cref></sg>,;
+<sg>create</sg>,;
+<sg>beget, get, generate, fecundate, impregnate</sg>,;
+<sg>procreate, progenerate, propagate</sg>,;
+<sg>engender</sg>,;
+<sg>bring into being, call into being, bring into existence</sg>,;
+<sg>breed, hatch, develop, bring up</sg>,;
+<sg>induce, superinduce</sg>,;
+<sg>suscitate</sg>,;
+<sg>cause ,<cref> 153 <i>revolution</i></cref></sg>,;
+<sg>acquire ,<cref> 775 <i>compulsion</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>produced, producing</sg>,;
+<sg>productive of</sg>,;
+<sg>prolific ,<cref> 168 <i>production</i></cref></sg>,;
+<sg>creative</sg>,;
+<sg>formative, genetic, genial, genital</sg>,;
+<sg>pregnant</sg>,;
+<sg>enceinte, big with, fraught with</sg>,;
+<sg>in the family way, teeming, parturient, in the straw, brought to bed of</sg>,;
+<sg>puerperal, puerperous</sg>,;
+<sg>digenetic, heterogenetic, oogenetic, xenogenetic</sg>,;
+<sg>ectogenous, gamic, haematobious, sporogenous, sporophorous</sg>,;
+<sg>architectonic</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>ex nihilo nihil</sg>,;
+<sg>fiat lux</sg>,;
+<sg>materiam superabat opus</sg>,;
+<sg>nemo dat quod non habet</sg>,;
+<br>
+</paragraph>

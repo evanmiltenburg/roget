@@ -1,0 +1,69 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#34#</sectionNumber>
+<headword>#<b>#[001] #827# Barter #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>barter, </i>exchange, scorse, truck system</sg>,;
+<sg>interchange ,<cref> 148 <i>permanence</i></cref></sg>,;
+<sg>a Roland for an Oliver</sg>,;
+<sg>quid pro quo</sg>,;
+<sg>commutation, composition</sg>,;
+<sg>Indian gift</sg>,;
+<sg>trade, commerce, mercature, buying and selling, bargain and sale</sg>,;
+<sg>traffic, business, nundination, custom, shopping</sg>,;
+<sg>commercial enterprise, speculation, jobbing, stockjobbing, agiotage, brokery</sg>,;
+<sg>deal, dealing, transaction, negotiation, bargain</sg>,;
+<sg>free trade</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>barter, exchange, swap, swop, truck, scorse</sg>,;
+<sg>interchange ,<cref> 148 <i>permanence</i></cref></sg>,;
+<sg>commutate ,<cref>147 <i>substitute</i></cref></sg>,;
+<sg>compound for</sg>,;
+<sg>trade, traffic, buy and sell, give and take, nundinate</sg>,;
+<sg>carry on a trade, ply a trade, drive a trade</sg>,;
+<sg>be in business, be in the city</sg>,;
+<sg>keep a shop, deal in, employ one's capital in</sg>,;
+<sg>trade with, deal with, have dealings with</sg>,;
+<sg>transact business with, do business with</sg>,;
+<sg>open an account with, keep an account with</sg>,;
+<sg>bargain</sg>,;
+<sg>drive a bargain, make a bargain</sg>,;
+<sg>negotiate, bid for</sg>,;
+<sg>haggle, higgle</sg>,;
+<sg>dicker</sg>,;
+<sg>chaffer, huckster, cheapen, beat down</sg>,;
+<sg>stickle, stickle for</sg>,;
+<sg>out bid, under bid</sg>,;
+<sg>ask, charge</sg>,;
+<sg>strike a bargain ,<cref>769 <i>contract</i></cref></sg>,;
+<sg>speculate, give a sprat to catch a herring</sg>,;
+<sg>buy in the cheapest and sell in the dearest market, buy low and sell high</sg>,;
+<sg>corner the market</sg>,;
+<sg>rig the market, stag the market</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>commercial, mercantile, trading</sg>,;
+<sg>interchangeable, marketable, staple, in the market, for sale</sg>,;
+<sg>wholesale, retail</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>across the counter</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>cambio non e furto</sg>,;
+<br>
+</paragraph>

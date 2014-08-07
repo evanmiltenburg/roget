@@ -1,0 +1,43 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#39#</sectionNumber>
+<headword>#<b>#[001] #1027# Orthodoxy #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>orthodoxy</i></sg>,;
+<sg>strictness, soundness, religious truth, true faith</sg>,;
+<sg>truth ,<cref> 494 <i>impossibility</i></cref></sg>,;
+<sg>soundness of doctrine</sg>,;
+<sg>Christianity, Christianism</sg>,;
+<sg>Catholicism, Catholicity</sg>,;
+<sg>the faith once delivered to the saints</sg>,;
+<sg>hyperorthodoxy ,<cref> 984 <i>disinterestedness</i></cref></sg>,;
+<sg>iconoclasm</sg>,;
+<sg>The Church</sg>,;
+<sg>Catholic Church, Universal Church, Apostolic Church, Established Church</sg>,;
+<sg>temple of the Holy Ghost</sg>,;
+<sg>Church of Christ, body of Christ, members of Christ, disciples of Christ, followers of Christ</sg>,;
+<sg>Christian, Christian community</sg>,;
+<sg>true believer</sg>,;
+<sg>canonist ,<cref>983 <i>theologian</i></cref></sg>,;
+<sg>Christendom, collective body of Christians</sg>,;
+<sg>canons ,<cref>484 <i>belief</i></cref></sg>,;
+<sg>thirty nine articles</sg>,;
+<sg>Apostles' Creed, Nicene Creed, Athanasian Creed</sg>,;
+<sg>Church Catechism</sg>,;
+<sg>textuary</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>orthodox, sound, strick, faithful, catholic, schismless, Christian, evangelical, scriptural, divine, monotheistic</sg>,;
+<sg>true ,<cref> 494 <i>impossibility</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>of the true faith</sg>,;
+<br>
+</paragraph>

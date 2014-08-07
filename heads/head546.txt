@@ -1,0 +1,50 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#23#</sectionNumber>
+<headword>#<b>#[001] #546# Metaphor #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>metaphor, </i>figure of speech</sg>,;
+<sg>facon de parler, way of speaking, colloquialism</sg>,;
+<sg>phrase ,<cref> 566 <i>teacher</i></cref></sg>,;
+<sg>figure, trope, metaphor, enallage, catachresis</sg>,;
+<sg>metonymy, synecdoche</sg>,;
+<sg>autonomasia, irony, figurativeness</sg>,;
+<sg>image, imagery</sg>,;
+<sg>metalepsis, type, anagoge, simile, personification, prosopopoeia, allegory, apologue, parable, fable</sg>,;
+<sg>allusion, adumbration</sg>,;
+<sg>application</sg>,;
+<sg>exaggeration, hyperbole ,<cref> 549 <i>interpreter</i></cref></sg>,;
+<sg>association, association of ideas (analogy) 514</sg>,;
+<sg>1</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>employ a metaphor</sg>,;
+<sg>personify, allegorize, adumbrate, shadow forth, apply, allude to</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>metaphorical, figurative, catachrestical, typical, tralatitious, parabolic, allegorical, allusive, anagogical</sg>,;
+<sg>ironical</sg>,;
+<sg>colloquial</sg>,;
+<sg>tropical</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>so to speak, so to say, so to express oneself</sg>,;
+<sg>as it were</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>mutato nomine de te fabula narratur</sg>,;
+<br>
+</paragraph>

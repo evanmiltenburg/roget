@@ -1,0 +1,19 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#22#</sectionNumber>
+<headword>#<b>#[001] #539# Analogy #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>analogy, </i>association, association of ideas</sg>,;
+<sg>metaphor ,<cref> 521 <i>absurdity</i></cref></sg>,;
+<sg>analogical thinking</sg>,;
+<sg>free association</sg>,;
+<sg>train of thought</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>analogical</sg>,;
+<br>
+</paragraph>

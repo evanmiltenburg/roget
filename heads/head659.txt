@@ -1,0 +1,64 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#27#</sectionNumber>
+<headword>#<b>#[001] #659# Requirement #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>requirement, </i>need, wants, necessities</sg>,;
+<sg>necessaries, necessaries of life</sg>,;
+<sg>stress, exigency, pinch, sine qua non, matter of necessity</sg>,;
+<sg>case of need, case of life or death</sg>,;
+<sg>needfulness, essentiality, necessity, indispensability, urgency</sg>,;
+<sg>requisition ,<cref>741 <i>request) 765, (exaction</i></cref></sg>,;
+<sg>run upon</sg>,;
+<sg>demand, call for</sg>,;
+<sg>charge, claim, command, injunction, mandate, order, precept</sg>,;
+<sg>desideratum ,<cref>865 <i>desire</i></cref></sg>,;
+<sg>want ,<cref>640 <i>deficiency</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>require, need, want, have occasion for</sg>,;
+<sg>not be able to do without, not be able to dispense with</sg>,;
+<sg>prerequire</sg>,;
+<sg>render necessary, necessitate, create a, necessity for, call for, put in requisition</sg>,;
+<sg>make a requisition ,<cref>741 <i>ask for) 765, (demand</i></cref></sg>,;
+<sg>stand in need of</sg>,;
+<sg>lack ,<cref> 640 <i>impulse</i></cref></sg>,;
+<sg>desiderate</sg>,;
+<sg>desire ,<cref> 865 <i>pleasure</i></cref></sg>,;
+<sg>be necessary  Adj</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>Adj</sg>,;
+<sg>required</sg>,;
+<sg>requisite, needful, necessary, imperative, essential, indispensable, prerequisite</sg>,;
+<sg>called for</sg>,;
+<sg>in demand, in request</sg>,;
+<sg>urgent, exigent, pressing, instant, crying, absorbing</sg>,;
+<sg>in want of</sg>,;
+<sg>destitute of ,<cref> 640 <i>impulse</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>ex necessitate rei ,<cref>601 <i>necessarily</i></cref></sg>,;
+<sg>of necessity</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>there is no time to lose</sg>,;
+<sg>it cannot be spared, it cannot be dispensed with</sg>,;
+<sg>mendacem memorem esse oportet</sg>,;
+<sg>necessitas non habet legem</sg>,;
+<sg>nec tecum possum trivere nec sine te</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,53 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#4#</sectionNumber>
+<headword>#<b>#[001] #77# Dispersion #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>nonassemblage, dispersion, </i>dispersion</sg>,;
+<sg>disjunction ,<cref> 44 <i>mixture</i></cref></sg>,;
+<sg>divergence ,<cref> 291 <i>precession</i></cref></sg>,;
+<sg>aspersion</sg>,;
+<sg>scattering</sg>,;
+<sg>dissemination, diffusion, dissipation, distribution</sg>,;
+<sg>apportionment ,<cref> 786 <i>commission</i></cref></sg>,;
+<sg>spread, respersion, circumfusion, interspersion, spargefaction</sg>,;
+<sg>affusion</sg>,;
+<sg>waifs and estrays, flotsam and jetsam, disjecta membra ,</sg>,;
+<sg>waveson</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>disperse, scatter, sow, broadcast, disseminate, diffuse, shed, spread, bestrew, overspread, dispense, disband, disembody, dismember, distribute</sg>,;
+<sg>apportion ,<cref> 786 <i>commission</i></cref></sg>,;
+<sg>blow off, let out, dispel, cast forth, draught off</sg>,;
+<sg>strew, straw, strow</sg>,;
+<sg>ted</sg>,;
+<sg>spirtle, cast, sprinkle</sg>,;
+<sg>issue, deal out, retail, utter</sg>,;
+<sg>resperse, intersperse</sg>,;
+<sg>set abroach, circumfuse</sg>,;
+<sg>turn adrift, cast adrift</sg>,;
+<sg>scatter to the winds</sg>,;
+<sg>spread like wildfire, disperse themselves</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>unassembled &c (assemble) ,<cref> 72 <i>middle</i></cref></sg>,;
+<sg>dispersed</sg>,;
+<sg>sparse, dispread, broadcast, sporadic, widespread</sg>,;
+<sg>epidemic ,<cref>78 <i>general</i></cref></sg>,;
+<sg>adrift, stray</sg>,;
+<sg>disheveled, streaming</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>sparsim, here and there, passim</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,89 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#20#</sectionNumber>
+<headword>#<b>#[001] #513# Dissent #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>dissent</i></sg>,;
+<sg>discordance ,<cref>24 <i>disagreement</i></cref></sg>,;
+<sg>difference diversity of opinion</sg>,;
+<sg>nonconformity ,<cref>984 <i>heterodoxy</i></cref></sg>,;
+<sg>protestantism, recusancy, schism</sg>,;
+<sg>disaffection</sg>,;
+<sg>secession ,<cref> 624 <i>prose</i></cref></sg>,;
+<sg>recantation ,<cref> 607 <i>aphony</i></cref></sg>,;
+<sg>dissension ,<cref>713 <i>discord</i></cref></sg>,;
+<sg>discontent ,<cref> 832 <i>mart</i></cref></sg>,;
+<sg>cavilling</sg>,;
+<sg>protest</sg>,;
+<sg>contradiction ,<cref>536 <i>denial</i></cref></sg>,;
+<sg>noncompliance ,<cref>764 <i>rejection</i></cref></sg>,;
+<sg>dissentient, dissenter</sg>,;
+<sg>non-juror, non-content, nonconformist</sg>,;
+<sg>sectary, separatist, recusant, schismatic, protestant, heretic</sg>,;
+<sg>refusal ,<cref> 764 <i>adversity</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>dissent, demur</sg>,;
+<sg>call in question ,<cref>485 <i>doubt</i></cref></sg>,;
+<sg>differ in opinion, disagree</sg>,;
+<sg>say no ,<cref> 536 <i>omen</i></cref></sg>,;
+<sg>refuse assent, refuse to admit</sg>,;
+<sg>cavil, protest, raise one's voice against, repudiate</sg>,;
+<sg>contradict ,<cref>536 <i>deny</i></cref></sg>,;
+<sg>have no notion of, differ toto caelo</sg>,;
+<sg>revolt at, revolt from the idea</sg>,;
+<sg>shake the head, shrug the shoulders</sg>,;
+<sg>look askance, look askant</sg>,;
+<sg>secede</sg>,;
+<sg>recant ,<cref> 607 <i>aphony</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>dissenting</sg>,;
+<sg>negative ,<cref> 536 <i>omen</i></cref></sg>,;
+<sg>dissident, dissentient</sg>,;
+<sg>unconsenting ,<cref>764 <i>refusing</i></cref></sg>,;
+<sg>non-content, nonjuring</sg>,;
+<sg>protestant, recusant</sg>,;
+<sg>unconvinced, unconverted</sg>,;
+<sg>unavowed, unacknowledged</sg>,;
+<sg>out of the question</sg>,;
+<sg>discontented ,<cref> 832 <i>mart</i></cref></sg>,;
+<sg>unwilling ,<cref> 603 <i>ornament</i></cref></sg>,;
+<sg>extorted</sg>,;
+<sg>sectarian, denominational, schismatic</sg>,;
+<sg>heterodox</sg>,;
+<sg>intolerant</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>no ,<cref> 536 <i>omen</i></cref></sg>,;
+<sg>at variance, at issue with</sg>,;
+<sg>under protest</sg>,;
+<sg>Int</sg>,;
+<sg>God forbid!, not for the world</sg>,;
+<sg>I'll be hanged if</sg>,;
+<sg>never tell me</sg>,;
+<sg>your humble servant, pardon me</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>many men many minds</sg>,;
+<sg>quot homines tot sententiae</sg>,;
+<sg>tant s'en faut</sg>,;
+<sg>il s'en faut bien</sg>,;
+<sg>no way</sg>,;
+<sg>by no means</sg>,;
+<sg>count me out</sg>,;
+<br>
+</paragraph>

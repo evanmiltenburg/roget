@@ -1,0 +1,91 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#8#</sectionNumber>
+<headword>#<b>#[001] #160# Cause #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>cause, </i>origin, source, principle, element</sg>,;
+<sg>occasioner, prime mover, primum mobile</sg>,;
+<sg>vera causa</sg>,;
+<sg>author ,<cref>164 <i>producer</i></cref></sg>,;
+<sg>mainspring</sg>,;
+<sg>agent</sg>,;
+<sg>leaven</sg>,;
+<sg>groundwork, foundation ,<cref>215 <i>support</i></cref></sg>,;
+<sg>spring, fountain, well, font</sg>,;
+<sg>fountainhead, spring head, wellhead</sg>,;
+<sg>fons et origo, genesis</sg>,;
+<sg>descent ,<cref>166 <i>paternity</i></cref></sg>,;
+<sg>remote cause</sg>,;
+<sg>influence</sg>,;
+<sg>pivot, hinge, turning point, lever, crux, fulcrum</sg>,;
+<sg>key</sg>,;
+<sg>proximate cause, causa causans</sg>,;
+<sg>straw that breaks the camel's back</sg>,;
+<sg>ground</sg>,;
+<sg>reason, reason why</sg>,;
+<sg>why and wherefore, rationale, occasion, derivation</sg>,;
+<sg>final cause ,<cref>620 <i>intention</i></cref></sg>,;
+<sg>les dessous des cartes</sg>,;
+<sg>undercurrents</sg>,;
+<sg>rudiment</sg>,;
+<sg>egg, germ, embryo, bud, root, radix radical, etymon, nucleus, seed, stem, stock, stirps, trunk, tap-root, gemmule, radicle, semen, sperm</sg>,;
+<sg>nest, cradle, nursery, womb, nidus, birthplace, hotbed</sg>,;
+<sg>causality, causation</sg>,;
+<sg>origination</sg>,;
+<sg>production ,<cref> 161 <i>effect</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be the cause of</sg>,;
+<sg>originate</sg>,;
+<sg>give origin to, give rise, to, give occasion to</sg>,;
+<sg>cause, occasion, sow the seeds of, kindle, suscitate</sg>,;
+<sg>bring on, bring to bring pass, bring about</sg>,;
+<sg>produce</sg>,;
+<sg>create ,<cref> 161 <i>effect</i></cref></sg>,;
+<sg>set up, set afloat, set on foot</sg>,;
+<sg>found, broach, institute, lay the foundation of</sg>,;
+<sg>lie at the root of</sg>,;
+<sg>procure, induce, draw down, open the door to, superinduce, evoke, entail, operate</sg>,;
+<sg>elicit, provoke</sg>,;
+<sg>conduce to ,<cref>176 <i>tend to</i></cref></sg>,;
+<sg>contribute</sg>,;
+<sg>have a hand in the pie, have a finger in the pie</sg>,;
+<sg>determine, decide, turn the scale</sg>,;
+<sg>have a common origin</sg>,;
+<sg>derive its origin ,<cref>154 <i>effect</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>caused</sg>,;
+<sg>causal, original</sg>,;
+<sg>primary, primitive, primordial</sg>,;
+<sg>aboriginal</sg>,;
+<sg>protogenal</sg>,;
+<sg>radical</sg>,;
+<sg>embryonic, embryotic</sg>,;
+<sg>in embryo, in ovo</sg>,;
+<sg>seminal, germinal</sg>,;
+<sg>at the bottom of</sg>,;
+<sg>connate, having a common origin</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>because ,<cref> 155 <i>interchange</i></cref></sg>,;
+<sg>behind the scenes</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>causa latet vis est notissima</sg>,;
+<sg>felix qui potuit rerum cognoscere causas</sg>,;
+<br>
+</paragraph>

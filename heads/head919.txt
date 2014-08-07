@@ -1,0 +1,75 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#36#</sectionNumber>
+<headword>#<b>#[001] #919# Vanity #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>vanity</i></sg>,;
+<sg>conceit, conceitedness</sg>,;
+<sg>self-conceit, self- complacency, self-confidence, self-sufficiency, self-esteem, self-love, self-approbation, self-praise, self-glorification, self-laudation, self-gratulation, self-applause, self-admiration</sg>,;
+<sg>amour propre</sg>,;
+<sg>selfishness ,<cref> 943 <i>marriage</i></cref></sg>,;
+<sg>airs, affected manner, pretensions, mannerism</sg>,;
+<sg>egotism</sg>,;
+<sg>priggism, priggishness</sg>,;
+<sg>coxcombry, gaudery, vainglory, elation</sg>,;
+<sg>pride ,<cref> 878 <i>amusement</i></cref></sg>,;
+<sg>ostentation ,<cref> 882 <i>humorist</i></cref></sg>,;
+<sg>assurance ,<cref> 885 <i>ornament</i></cref></sg>,;
+<sg>vox et praeterea nihil</sg>,;
+<sg>cheval de bataille</sg>,;
+<sg>coxcomb ,<cref> 854 <i>economy</i></cref></sg>,;
+<sg>Sir Oracle ,<cref> 887 <i>blemish</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be vain</sg>,;
+<sg>, be vain of</sg>,;
+<sg>pique oneself ,<cref>878 <i>pride</i></cref></sg>,;
+<sg>lay the flattering unction to one's soul</sg>,;
+<sg>have too high an opinion of oneself, have an overweening opinion of oneself, have too high an opinion of one's talents</sg>,;
+<sg>blind oneself as to one's own merit</sg>,;
+<sg>not think small beer of oneself, not think vin ordinaire of oneself</sg>,;
+<sg>put oneself forward</sg>,;
+<sg>fish for compliments</sg>,;
+<sg>give oneself airs ,<cref>885 <i>assume</i></cref></sg>,;
+<sg>boast ,<cref> 884 <i>ugliness</i></cref></sg>,;
+<sg>render vain</sg>,;
+<sg>inspire with vanity</sg>,;
+<sg>inflate, puff up, turn up, turn one's head</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>vain, vain as a peacock, proud as a peacock</sg>,;
+<sg>conceited, overweening, pert, forward</sg>,;
+<sg>vainglorious, high-flown</sg>,;
+<sg>ostentatious ,<cref> 882 <i>humorist</i></cref></sg>,;
+<sg>puffed up, inflated, flushed</sg>,;
+<sg>self-satisfied, self-confident, self-sufficient, self-flattering, self-admiring, self-applauding, self-glorious, self-opinionated</sg>,;
+<sg>entente ,<cref>481 <i>wrongheaded</i></cref></sg>,;
+<sg>wise in one's own conceit, pragmatical, overwise, pretentious, priggish</sg>,;
+<sg>egotistic, egotistical</sg>,;
+<sg>soi-disant ,<cref>884 <i>boastful</i></cref></sg>,;
+<sg>arrogant ,<cref> 885 <i>ornament</i></cref></sg>,;
+<sg>unabashed, unblushing</sg>,;
+<sg>unconstrained, unceremonious</sg>,;
+<sg>free and easy</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>vainly</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>how we apples swim!</sg>,;
+<sg>prouder than rustling in unpaid-for silk</sg>,;
+<br>
+</paragraph>

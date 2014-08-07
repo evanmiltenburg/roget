@@ -1,0 +1,87 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#21#</sectionNumber>
+<headword>#<b>#[001] #531# Expectation #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>expectation, </i>expectance, expectancy</sg>,;
+<sg>anticipation, reckoning, calculation</sg>,;
+<sg>foresight ,<cref> 510 <i>credulity</i></cref></sg>,;
+<sg>contemplation, prospection, lookout</sg>,;
+<sg>prospect, perspective, horizon, vista</sg>,;
+<sg>destiny ,<cref> 152 <i>reversion</i></cref></sg>,;
+<sg>suspense, waiting, abeyance</sg>,;
+<sg>curiosity ,<cref> 455 <i>yellowness</i></cref></sg>,;
+<sg>anxious expectation, ardent expectation, eager expectation, breathless expectation, sanguine expectation</sg>,;
+<sg>torment of Tantalus</sg>,;
+<sg>hope ,<cref> 858 <i>affections</i></cref></sg>,;
+<sg>trust ,<cref>484 <i>belief</i></cref></sg>,;
+<sg>auspices ,<cref>511 <i>prediction</i></cref></sg>,;
+<sg>assurance, confidence, presumption, reliance</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>expect</sg>,;
+<sg>look for, look out for, look forward to</sg>,;
+<sg>hope for</sg>,;
+<sg>anticipate</sg>,;
+<sg>have in prospect, have in contemplation</sg>,;
+<sg>keep in view</sg>,;
+<sg>contemplate, promise oneself</sg>,;
+<sg>not wonder at ,<cref> 870 <i>discontent</i></cref>, not wonder if</sg>,;
+<sg>wait for, tarry for, lie in wait for, watch for, bargain for</sg>,;
+<sg>keep a good lookout for, keep a sharp lookout for</sg>,;
+<sg>await</sg>,;
+<sg>stand at 'attention' abide, bide one's time, watch</sg>,;
+<sg>foresee ,<cref> 510 <i>credulity</i></cref></sg>,;
+<sg>prepare for ,<cref> 673 <i>utility</i></cref></sg>,;
+<sg>forestall ,<cref>132 <i>be early</i></cref></sg>,;
+<sg>count upon ,<cref>484 <i>believe in</i></cref></sg>,;
+<sg>think likely ,<cref>472 <i>probability</i></cref></sg>,;
+<sg>lead one to expect ,<cref>511 <i>predict</i></cref></sg>,;
+<sg>have in store for ,<cref>152 <i>destiny</i></cref></sg>,;
+<sg>prick up one's ears, hold one's breath</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>expectant</sg>,;
+<sg>expecting</sg>,;
+<sg>in expectation</sg>,;
+<sg>on the watch ,<cref>459 <i>vigilant</i></cref></sg>,;
+<sg>open-eyed, open-mouthed, in wide-eyed anticipation</sg>,;
+<sg>agape, gaping, all agog</sg>,;
+<sg>on tenterhooks, on tiptoe, on the tiptoe of expectation</sg>,;
+<sg>aux aguets</sg>,;
+<sg>ready</sg>,;
+<sg>curious ,<cref> 455 <i>yellowness</i></cref></sg>,;
+<sg>looking forward to</sg>,;
+<sg>expected</sg>,;
+<sg>long expected, foreseen</sg>,;
+<sg>in prospect</sg>,;
+<sg>prospective</sg>,;
+<sg>in one's eye, in one's view, in the horizon, on the horizon, just over the horizon, just around the corner, around the corner</sg>,;
+<sg>impending ,<cref>152 <i>destiny</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>on the watch</sg>,;
+<sg>with breathless expectation</sg>,;
+<sg>with bated breath, with rapt anticipation</sg>,;
+<sg>arrectis auribus</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>we shall see</sg>,;
+<sg>nous verrons</sg>,;
+<sg>expectation whirls me round</sg>,;
+<sg>the light at the end of the tunnel</sg>,;
+<br>
+</paragraph>

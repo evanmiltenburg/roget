@@ -1,0 +1,124 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#3#</sectionNumber>
+<headword>#<b>#[001] #33# Greatness #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>greatness</i></sg>,;
+<sg>magnitude</sg>,;
+<sg>size ,<cref>192 <i>dimensions</i></cref></sg>,;
+<sg>multitude ,<cref>102 <i>number</i></cref></sg>,;
+<sg>immensity</sg>,;
+<sg>enormity</sg>,;
+<sg>infinity ,<cref> 105 <i>fraction</i></cref></sg>,;
+<sg>might, strength, intensity, fullness</sg>,;
+<sg>importance ,<cref> 642 <i>desuetude</i></cref></sg>,;
+<sg>great quantity, quantity, deal, power, sight, pot, volume, world</sg>,;
+<sg>mass, heap ,<cref>72 <i>assemblage</i></cref></sg>,;
+<sg>stock ,<cref>636 <i>store</i></cref></sg>,;
+<sg>peck, bushel, load, cargo</sg>,;
+<sg>cartload, wagonload, shipload</sg>,;
+<sg>flood, spring tide</sg>,;
+<sg>abundance ,<cref>639 <i>sufficiency</i></cref></sg>,;
+<sg>principal part, chief part, main part, greater part, major part, best part, essential part</sg>,;
+<sg>bulk, mass ,<cref>50 <i>whole</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be great</sg>,;
+<sg>run high, soar, tower, transcend</sg>,;
+<sg>rise to a great height, carry to a great height</sg>,;
+<sg>know no bounds</sg>,;
+<sg>ascend, mount</sg>,;
+<sg>enlarge ,<cref>194 <i>increase) 35, (expand</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>great</sg>,;
+<sg>greater ,<cref> 33 <i>greatness</i></cref></sg>,;
+<sg>large, considerable, fair, above par</sg>,;
+<sg>big, huge ,<cref>192 <i>large in size</i></cref></sg>,;
+<sg>Herculean, cyclopean</sg>,;
+<sg>ample</sg>,;
+<sg>abundant</sg>,;
+<sg>,<cref>639 <i>enough</i></cref> full, intense, strong, sound, passing, heavy, plenary, deep, high</sg>,;
+<sg>signal, at its height, in the zenith</sg>,;
+<sg>world-wide, widespread, far-famed, extensive</sg>,;
+<sg>wholesale</sg>,;
+<sg>many ,<cref> 102 <i>five </i></cref></sg>,;
+<sg>goodly, noble, precious, mighty</sg>,;
+<sg>sad, grave, heavy, serious</sg>,;
+<sg>far gone, arrant, downright</sg>,;
+<sg>utter, uttermost</sg>,;
+<sg>crass, gross, arch, profound, intense, consummate</sg>,;
+<sg>rank, uninitiated, red-hot, desperate</sg>,;
+<sg>glaring, flagrant, stark staring</sg>,;
+<sg>thorough-paced, thoroughgoing</sg>,;
+<sg>roaring, thumping</sg>,;
+<sg>extraordinary</sg>,;
+<sg>important ,<cref> 642 <i>desuetude</i></cref></sg>,;
+<sg>unsurpassed ,<cref>33 <i>supreme</i></cref></sg>,;
+<sg>complete ,<cref> 52 <i>decomposition</i></cref></sg>,;
+<sg>august, grand, dignified, sublime, majestic ,<cref>873 <i>repute</i></cref></sg>,;
+<sg>vast, immense, enormous, extreme</sg>,;
+<sg>inordinate, excessive, extravagant, exorbitant, outrageous, preposterous, unconscionable, swinging, monstrous, overgrown</sg>,;
+<sg>towering, stupendous, prodigious, astonishing, incredible</sg>,;
+<sg>marvelous ,<cref> 870 <i>discontent</i></cref></sg>,;
+<sg>unlimited ,<cref>105 <i>infinite</i></cref></sg>,;
+<sg>unapproachable, unutterable, indescribable, ineffable, unspeakable, inexpressible, beyond expression, fabulous</sg>,;
+<sg>undiminished, unabated, unreduced, unrestricted</sg>,;
+<sg>absolute, positive, stark, decided, unequivocal, essential, perfect, finished</sg>,;
+<sg>remarkable, of mark, marked, pointed, veriest</sg>,;
+<sg>noteworthy</sg>,;
+<sg>renowned</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>truly ,<cref>494 <i>truth</i></cref></sg>,;
+<sg>decidedly, unequivocally, purely, absolutely, seriously, essentially, fundamentally, radically, downright, in all conscience</sg>,;
+<sg>for the most part, in the main</sg>,;
+<sg>entirely ,<cref>52 <i>completely</i></cref></sg>,;
+<sg>abundantly ,<cref>639 <i>sufficiently</i></cref></sg>,;
+<sg>widely, far and wide</sg>,;
+<sg>greatly</sg>,;
+<sg>much, muckle, well, indeed, very, very much, a deal, no end of, most, not a little</sg>,;
+<sg>pretty, pretty well</sg>,;
+<sg>enough, in a great measure, richly</sg>,;
+<sg>to a large extent, to a great extent, to a gigantic extent</sg>,;
+<sg>on a large scale</sg>,;
+<sg>so</sg>,;
+<sg>never so, ever so</sg>,;
+<sg>ever so dole</sg>,;
+<sg>scrap, shred, tag, splinter, rag, much</sg>,;
+<sg>by wholesale</sg>,;
+<sg>mighty, powerfully</sg>,;
+<sg>with a witness, ultra, in the extreme, extremely, exceedingly, intensely, exquisitely, acutely, indefinitely, immeasurably</sg>,;
+<sg>beyond compare, beyond comparison, beyond measure, beyond all bounds</sg>,;
+<sg>incalculably, infinitely</sg>,;
+<sg>preeminently, superlatively ,<cref>33 <i>superiority</i></cref></sg>,;
+<sg>immoderately, monstrously, preposterously, inordinately, exorbitantly, excessively, enormously, out of all proportion, with a vengeance</sg>,;
+<sg>particularly, remarkably, singularly, curiously, uncommonly, unusually, peculiarly, notably, signally, strikingly, pointedly, mainly, chiefly</sg>,;
+<sg>famously, egregiously, prominently, glaringly, emphatically, kat exochin, strangely, wonderfully, amazingly, surprisingly, astonishingly, incredibly, marvelously, awfully, stupendously</sg>,;
+<sg>peculiarly ,<cref>83 <i>unconformity</i></cref></sg>,;
+<sg>furiously ,<cref>173 <i>violence</i></cref></sg>,;
+<sg>severely, desperately, tremendously, extravagantly, confoundedly, deucedly, devilishly, with a vengeance</sg>,;
+<sg>a outrance, a toute outrance</sg>,;
+<sg>painfully, sadly, grossly, sorely, bitterly, piteously, grievously, miserably, cruelly, woefully, lamentably, shockingly, frightfully, dreadfully, fearfully, terribly, horribly</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>a maximis ad minima</sg>,;
+<sg>greatness knows itself</sg>,;
+<sg>mightiest powers by deepest calms are fed</sg>,;
+<sg>minimum decet libere cui multum licet</sg>,;
+<sg>some are born great, some achieve greatness, and some have greatness thrust upon them</sg>,;
+<br>
+</paragraph>

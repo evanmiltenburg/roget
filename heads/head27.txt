@@ -1,0 +1,34 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#3#</sectionNumber>
+<headword>#<b>#[001] #27# Quantity #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>quantity, </i>magnitude</sg>,;
+<sg>size ,<cref>192 <i>dimensions</i></cref></sg>,;
+<sg>amplitude, magnitude, mass, amount, sum, quantum, measure, substance, strength, force</sg>,;
+<sg>mathematics, mathesis</sg>,;
+<sg>category, general conception, universal predicament</sg>,;
+<sg>armful, handful, mouthful, spoonful, capful</sg>,;
+<sg>stock, batch, lot, dose</sg>,;
+<sg>yaffle</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>quantify, measure, fix, estimate, determine, quantitate, enumerate</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>quantitative, some, any, aught, more or less, a few</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>to the tune of, all of, a full, the sum of, fully, exactly, precisely</sg>,;
+<br>
+</paragraph>

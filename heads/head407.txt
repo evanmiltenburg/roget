@@ -1,0 +1,24 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#15#</sectionNumber>
+<headword>#<b>#[001] #407# Saltiness #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>saltiness</i></sg>,;
+<sg>niter, saltpeter, brine</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>salty, salt, saline, brackish, briny</sg>,;
+<sg>salty as brine, salty as a herring, salty as Lot's wife</sg>,;
+<sg>salty, racy (indecent) 961</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>take it with a grain of salt</sg>,;
+<br>
+</paragraph>

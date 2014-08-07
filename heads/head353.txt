@@ -1,0 +1,55 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#14#</sectionNumber>
+<headword>#<b>#[001] #353# Land #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>land, </i>earth, ground, dry land, terra firma</sg>,;
+<sg>continent, mainland, peninsula, chersonese, delta</sg>,;
+<sg>tongue of land, neck of land</sg>,;
+<sg>isthmus, oasis</sg>,;
+<sg>promontory ,<cref>250 <i>projection</i></cref></sg>,;
+<sg>highland ,<cref>206 <i>height</i></cref></sg>,;
+<sg>coast, shore, scar, strand, beach</sg>,;
+<sg>playa</sg>,;
+<sg>bank, lea</sg>,;
+<sg>seaboard, seaside, seabank, seacoast, seabeach</sg>,;
+<sg>ironbound coast</sg>,;
+<sg>loom of the land</sg>,;
+<sg>derelict</sg>,;
+<sg>innings</sg>,;
+<sg>alluvium, alluvion</sg>,;
+<sg>ancon</sg>,;
+<sg>riverbank, river bank, levee</sg>,;
+<sg>soil, glebe, clay, loam, marl, cledge, chalk, gravel, mold, subsoil, clod, clot</sg>,;
+<sg>rock, crag</sg>,;
+<sg>acres</sg>,;
+<sg>real estate ,<cref>780 <i>property</i></cref></sg>,;
+<sg>landsman</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>land, come to land, set foot on the soil, set foot on dry land</sg>,;
+<sg>come ashore, go ashore, debark</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>earthy, continental, midland, coastal, littoral, riparian</sg>,;
+<sg>alluvial</sg>,;
+<sg>terrene ,<cref>318 <i>world</i></cref></sg>,;
+<sg>landed, predial, territorial</sg>,;
+<sg>geophilous</sg>,;
+<sg>ripicolous</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>ashore</sg>,;
+<sg>on shore, on land</sg>,;
+<br>
+</paragraph>

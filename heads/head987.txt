@@ -1,0 +1,124 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#38#</sectionNumber>
+<headword>#<b>#[001] #987# Vice #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>vice</i></sg>,;
+<sg>evil-doing, evil courses</sg>,;
+<sg>wrongdoing</sg>,;
+<sg>wickedness, viciousness</sg>,;
+<sg>iniquity, peccability, demerit</sg>,;
+<sg>sin, Adam</sg>,;
+<sg>old Adam, offending Adam</sg>,;
+<sg>immorality, impropriety, indecorum, scandal, laxity, looseness of morals</sg>,;
+<sg>enphagy, dophagy, exophagy</sg>,;
+<sg>want of principle, want of ballast</sg>,;
+<sg>obliquity, backsliding, infamy, demoralization, pravity, depravity, pollution</sg>,;
+<sg>hardness of heart</sg>,;
+<sg>brutality ,<cref>907 <i>malevolence</i></cref></sg>,;
+<sg>corruption ,<cref>659 <i>debasement</i></cref></sg>,;
+<sg>knavery ,<cref>940 <i>improbity</i></cref></sg>,;
+<sg>profligacy</sg>,;
+<sg>flagrancy, atrocity</sg>,;
+<sg>cannibalism</sg>,;
+<sg>lesbianism, Sadism</sg>,;
+<sg>infirmity</sg>,;
+<sg>weakness</sg>,;
+<sg>weakness of the flesh, frailty, imperfection</sg>,;
+<sg>error</sg>,;
+<sg>weak side</sg>,;
+<sg>foible</sg>,;
+<sg>failing, failure</sg>,;
+<sg>crying sin, besetting sin</sg>,;
+<sg>defect, deficiency</sg>,;
+<sg>cloven foot</sg>,;
+<sg>lowest dregs of vice, sink of iniquity, Alsatian den</sg>,;
+<sg>gusto picaresco</sg>,;
+<sg>fault, crime</sg>,;
+<sg>criminality ,<cref>947 <i>guilt</i></cref></sg>,;
+<sg>sinner ,<cref> 949 <i>threat</i></cref></sg>,;
+<sg>brothel ,<cref> 961 <i>jealousy</i></cref></sg>,;
+<sg>gambling house ,<cref> 621 <i>dissertation</i></cref></sg>,;
+<sg>joint, opium den, shooting gallery, crack house</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be vicious</sg>,;
+<sg>sin, commit sin, do amiss, err, transgress</sg>,;
+<sg>misdemean oneself, forget oneself, misconduct oneself</sg>,;
+<sg>misdo, misbehave</sg>,;
+<sg>fall, lapse, slip, trip, offend, trespass</sg>,;
+<sg>deviate from the line of duty, deviate from the path of virtue ,<cref> 944 <i>celibacy</i></cref></sg>,;
+<sg>take a wrong course, go astray</sg>,;
+<sg>hug a sin, hug a fault</sg>,;
+<sg>sow one's wild oats</sg>,;
+<sg>render vicious</sg>,;
+<sg>demoralize, brutalize</sg>,;
+<sg>corrupt ,<cref>659 <i>degrade</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>vicious</sg>,;
+<sg>sinful</sg>,;
+<sg>sinning</sg>,;
+<sg>wicked, iniquitous, immoral, unrighteous, wrong, criminal</sg>,;
+<sg>naughty, incorrect</sg>,;
+<sg>unduteous, undutiful</sg>,;
+<sg>unprincipled, lawless, disorderly, contra bonos mores, indecorous, unseemly, improper</sg>,;
+<sg>dissolute, profligate, scampish</sg>,;
+<sg>unworthy</sg>,;
+<sg>worthless</sg>,;
+<sg>desertless</sg>,;
+<sg>disgraceful, recreant</sg>,;
+<sg>reprehensible, blameworthy, uncommendable</sg>,;
+<sg>discreditable, disreputable</sg>,;
+<sg>Sadistic</sg>,;
+<sg>base, sinister, scurvy, foul, gross, vile, black, grave, facinorous, felonious, nefarious, shameful, scandalous, infamous, villainous, of a deep dye, heinous</sg>,;
+<sg>flagrant, flagitious</sg>,;
+<sg>atrocious, incarnate, accursed</sg>,;
+<sg>Mephistophelian, satanic, diabolic, hellish, infernal, stygian, fiendlike, hell-born, demoniacal, devilish, fiendish</sg>,;
+<sg>miscreated, misbegotten</sg>,;
+<sg>demoralized, corrupt, depraved</sg>,;
+<sg>evil-minded, evil-disposed</sg>,;
+<sg>ill-conditioned</sg>,;
+<sg>malevolent ,<cref> 907 <i>fastidiousness</i></cref></sg>,;
+<sg>heartless, graceless, shameless, virtueless</sg>,;
+<sg>abandoned, lost to virtue</sg>,;
+<sg>unconscionable</sg>,;
+<sg>sunk in iniquity, lost in iniquity, steeped in iniquity</sg>,;
+<sg>incorrigible, irreclaimable, obdurate, reprobate, past praying for</sg>,;
+<sg>culpable, reprehensible ,<cref>947 <i>guilty</i></cref></sg>,;
+<sg>unjustifiable</sg>,;
+<sg>indefensible, inexcusable</sg>,;
+<sg>inexpiable, unpardonable, irremissible</sg>,;
+<sg>weak, frail, lax, infirm, imperfect</sg>,;
+<sg>indiscrete</sg>,;
+<sg>demoralizing, degrading</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>wrong</sg>,;
+<sg>sinfully</sg>,;
+<sg>without excuse</sg>,;
+<sg>Int</sg>,;
+<sg>O tempora!, O mores!,</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>alitur vitium vivitque tegendo</sg>,;
+<sg>genus est mortis male vivere</sg>,;
+<sg>mala mens malus animus</sg>,;
+<sg>nemo repente fuit turpissimus</sg>,;
+<sg>the trail of the serpent is over them all</sg>,;
+<sg>to sanction vice and hunt decorum down</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,91 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#24#</sectionNumber>
+<headword>#<b>#[001] #551# Implication #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>latency, implication, </i>latency, inexpression</sg>,;
+<sg>hidden meaning, occult meaning</sg>,;
+<sg>occultness, mystery, cabala, anagoge</sg>,;
+<sg>silence ,<cref>585 <i>taciturnity</i></cref></sg>,;
+<sg>concealment ,<cref> 528 <i>madman</i></cref></sg>,;
+<sg>more than meets the eye, more than meets the ear</sg>,;
+<sg>Delphic oracle</sg>,;
+<sg>le dessous des cartes, undercurrent</sg>,;
+<sg>implication, logical implication</sg>,;
+<sg>logical consequence</sg>,;
+<sg>entailment</sg>,;
+<sg>allusion, insinuation</sg>,;
+<sg>innuendo ,<cref> 527 <i>insanity</i></cref></sg>,;
+<sg>adumbration</sg>,;
+<sg>something rotten in the state of Denmark</sg>,;
+<sg>snake in the grass ,<cref>667 <i>pitfall</i></cref></sg>,;
+<sg>secret ,<cref> 533 <i>disappointment</i></cref></sg>,;
+<sg>darkness, invisibility, imperceptibility</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be latent</sg>,;
+<sg>lurk, smolder, underlie, make no sign</sg>,;
+<sg>escape observation, escape detection, escape recognition</sg>,;
+<sg>lie hid ,<cref> 528 <i>madman</i></cref></sg>,;
+<sg>laugh in one's sleeve</sg>,;
+<sg>keep back ,<cref>528 <i>conceal</i></cref></sg>,;
+<sg>involve, imply, understand, allude to, infer, leave an inference</sg>,;
+<sg>entail</sg>,;
+<sg>whisper ,<cref>528 <i>conceal</i></cref></sg>,;
+<sg>read between the lines</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>latent</sg>,;
+<sg>lurking</sg>,;
+<sg>secret ,<cref> 528 <i>madman</i></cref></sg>,;
+<sg>occult</sg>,;
+<sg>implied</sg>,;
+<sg>dormant</sg>,;
+<sg>abeyant</sg>,;
+<sg>unapparent, unknown, unseen ,<cref> 441 <i>luminary</i></cref></sg>,;
+<sg>in the background</sg>,;
+<sg>invisible ,<cref> 447 <i>color</i></cref></sg>,;
+<sg>indiscoverable, dark</sg>,;
+<sg>impenetrable ,<cref>519 <i>unintelligible</i></cref></sg>,;
+<sg>unspied, unsuspected</sg>,;
+<sg>unsaid, unwritten, unpublished, unbreathed, untalked of, untold &c 527, unsung, unexposed, unproclaimed, undisclosed ,<cref> 529 <i>memory</i></cref>, unexpressed</sg>,;
+<sg>not expressed, tacit</sg>,;
+<sg>undeveloped, solved, unexplained, untraced, undiscovered ,<cref> 480 <i>neglect</i></cref></sg>,;
+<sg>1, untracked, unexplored, uninvented</sg>,;
+<sg>indirect, crooked, inferential</sg>,;
+<sg>by inference, by implication</sg>,;
+<sg>implicit</sg>,;
+<sg>constructive</sg>,;
+<sg>allusive, covert, muffled</sg>,;
+<sg>steganographic</sg>,;
+<sg>understood, underhand, underground</sg>,;
+<sg>delitescent, concealed ,<cref> 528 <i>madman</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>by a side wind</sg>,;
+<sg>sub silentio</sg>,;
+<sg>in the background</sg>,;
+<sg>behind the scenes, behind one's back</sg>,;
+<sg>on the tip of one's tongue</sg>,;
+<sg>secretly ,<cref> 528 <i>madman</i></cref></sg>,;
+<sg>between the lines</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>thereby hangs a tale</sg>,;
+<sg>tacitum vivit sub pectore vulnus</sg>,;
+<sg>where there's smoke, there's fire</sg>,;
+<br>
+</paragraph>

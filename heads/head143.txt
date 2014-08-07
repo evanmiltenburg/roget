@@ -1,0 +1,61 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#6#</sectionNumber>
+<headword>#<b>#[001] #143# Frequency #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>frequency, </i>oftness, oftenness, commonness</sg>,;
+<sg>repetition ,<cref> 104 <i>plurality </i></cref></sg>,;
+<sg>normality ,<cref> 80 <i>inclusion</i></cref></sg>,;
+<sg>example (conformity) 82</sg>,;
+<sg>routine, custom (habit) 613</sg>,;
+<sg>regularity, uniformity, constancy, clock-work precision</sg>,;
+<sg>punctuality ,<cref>494 <i>exactness</i></cref></sg>,;
+<sg>even tenor</sg>,;
+<sg>system</sg>,;
+<sg>routine ,<cref>613 <i>custom</i></cref></sg>,;
+<sg>formula</sg>,;
+<sg>rule ,<cref>697 <i>form regulation</i></cref></sg>,;
+<sg>keynote, standard, model</sg>,;
+<sg>precedent ,<cref>22 <i>prototype</i></cref></sg>,;
+<sg>conformity ,<cref> 82 <i>generality</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>recur ,<cref> 104 <i>plurality </i></cref></sg>,;
+<sg>do nothing but</sg>,;
+<sg>keep, keep on</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>frequent, many times, not rare, thickcoming, incessant, perpetual, continual, steady, constant, thick</sg>,;
+<sg>uniform</sg>,;
+<sg>repeated ,<cref> 104 <i>plurality </i></cref></sg>,;
+<sg>customary ,<cref> 613 <i>response</i></cref> (habit) 613</sg>,;
+<sg>regular (normal) 80</sg>,;
+<sg>according to rule ,<cref>82 <i>conformable</i></cref></sg>,;
+<sg>common, everyday, usual, ordinary, familiar</sg>,;
+<sg>old-hat, boring, well-known, trivial</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>often, oft</sg>,;
+<sg>ofttimes, oftentimes</sg>,;
+<sg>frequently</sg>,;
+<sg>repeatedly ,<cref> 104 <i>plurality </i></cref></sg>,;
+<sg>unseldom, not unfrequently</sg>,;
+<sg>in quick succession, in rapid succession</sg>,;
+<sg>many a time and oft</sg>,;
+<sg>daily, hourly </sg>,;
+<sg>every day, every hour, every moment , perpetually, continually, constantly, incessantly, without ceasing, at all times, daily and hourly, night and day, day and night, day after day, morning noon and night, ever anon, invariably (habit) 613</sg>,;
+<sg>most often</sg>,;
+<sg>commonly ,<cref>613 <i>habitually</i></cref></sg>,;
+<sg>sometimes, occasionally, at times, now and then, from time to time, there being times when, toties quoties, often enough, when the mood strikes, again and again</sg>,;
+<br>
+</paragraph>

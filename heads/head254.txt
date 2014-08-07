@@ -1,0 +1,69 @@
+<classNumber>#2#</classNumber>
+<sectionNumber>#11#</sectionNumber>
+<headword>#<b>#[001] #254# Angularity #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>angularity, </i>angularness</sg>,;
+<sg>aduncity</sg>,;
+<sg>angle, cusp, bend</sg>,;
+<sg>fold ,<cref> 258 <i>convolution</i></cref></sg>,;
+<sg>notch ,<cref> 257 <i>circularity</i></cref></sg>,;
+<sg>fork, bifurcation</sg>,;
+<sg>elbow, knee, knuckle, ankle, groin, crotch, crutch, crane, fluke, scythe, sickle, zigzag, kimbo, akimbo</sg>,;
+<sg>corner, nook, recess, niche, oriel, coign</sg>,;
+<sg>right angle ,<cref>216 <i>perpendicular</i></cref></sg>,;
+<sg>1, 212</sg>,;
+<sg>obliquity ,<cref> 217 <i>depth</i></cref></sg>,;
+<sg>angle of 45 degrees, miter</sg>,;
+<sg>acute angle, obtuse angle, salient angle, reentering angle, spherical angle</sg>,;
+<sg>angular measurement, angular elevation, angular distance, angular velocity</sg>,;
+<sg>trigonometry, goniometry</sg>,;
+<sg>altimetry</sg>,;
+<sg>clinometer, graphometer, goniometer</sg>,;
+<sg>theodolite</sg>,;
+<sg>sextant, quadrant</sg>,;
+<sg>dichotomy</sg>,;
+<sg>triangle, trigon, wedge</sg>,;
+<sg>rectangle, square, lozenge, diamond</sg>,;
+<sg>rhomb, rhombus</sg>,;
+<sg>quadrangle, quadrilateral</sg>,;
+<sg>parallelogram</sg>,;
+<sg>quadrature</sg>,;
+<sg>polygon, pentagon, hexagon, heptagon, octagon, oxygon, decagon</sg>,;
+<sg>pyramid, cone</sg>,;
+<sg>Platonic bodies</sg>,;
+<sg>cube, rhomboid</sg>,;
+<sg>tetrahedron, pentahedron, hexahedron, octahedron, dodecahedron, icosahedron, eicosahedron</sg>,;
+<sg>prism, pyramid</sg>,;
+<sg>parallelopiped</sg>,;
+<sg>curb roof, gambrel roof, mansard roof</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>bend, fork, bifurcate, crinkle</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>angular, bent, crooked, aduncous, uncinated, aquiline, jagged, serrated</sg>,;
+<sg>falciform, falcated</sg>,;
+<sg>furcated, forked, bifurcate, zigzag</sg>,;
+<sg>furcular</sg>,;
+<sg>hooked</sg>,;
+<sg>dovetailed</sg>,;
+<sg>knock kneed, crinkled, akimbo, kimbo, geniculated</sg>,;
+<sg>oblique ,<cref> 217 <i>depth</i></cref></sg>,;
+<sg>fusiform, wedge-shaped, cuneiform</sg>,;
+<sg>cuneate, multangular, oxygonal</sg>,;
+<sg>triangular, trigonal, trilateral</sg>,;
+<sg>quadrangular, quadrilateral</sg>,;
+<sg>foursquare</sg>,;
+<sg>rectangular, square, multilateral</sg>,;
+<sg>polygonal</sg>,;
+<sg>cubical, rhomboid, rhomboidal, pyramidal</sg>,;
+<br>
+</paragraph>

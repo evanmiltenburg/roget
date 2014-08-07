@@ -1,0 +1,120 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#22#</sectionNumber>
+<headword>#<b>#[001] #540# Imagination #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>imagination</i></sg>,;
+<sg>originality</sg>,;
+<sg>invention</sg>,;
+<sg>fancy</sg>,;
+<sg>inspiration</sg>,;
+<sg>verve</sg>,;
+<sg>warm imagination, heated imagination, excited imagination, sanguine imagination, ardent imagination, fiery imagination, boiling imagination, wild imagination, bold imagination, daring imagination, playful imagination, lively imagination, fertile imagination, fancy</sg>,;
+<sg>mind's eye</sg>,;
+<sg>such stuff as dreams are made of</sg>,;
+<sg>ideality, idealism</sg>,;
+<sg>romanticism, utopianism, castle-building</sg>,;
+<sg>dreaming</sg>,;
+<sg>phrensy, frenzy</sg>,;
+<sg>ecstasy, extasy</sg>,;
+<sg>calenture ,<cref>503 <i>delirium</i></cref></sg>,;
+<sg>reverie, trance</sg>,;
+<sg>day dream, golden dream</sg>,;
+<sg>somnambulism</sg>,;
+<sg>conception, Vorstellung, excogitation, a fine frenzy</sg>,;
+<sg>cloudland, dreamland</sg>,;
+<sg>flight of fancy, fumes of fancy</sg>,;
+<sg>thick coming fancies</sg>,;
+<sg>creation of the brain, coinage of the brain</sg>,;
+<sg>imagery</sg>,;
+<sg>conceit, maggot, figment, myth, dream, vision, shadow, chimera</sg>,;
+<sg>phantasm, phantasy</sg>,;
+<sg>fantasy, fancy</sg>,;
+<sg>whim, whimsey, whimsy</sg>,;
+<sg>vagary, rhapsody, romance, gest, geste, extravaganza</sg>,;
+<sg>air drawn dagger, bugbear, nightmare</sg>,;
+<sg>flying Dutchman, great sea serpent, man in the moon, castle in the air, pipe dream, pie-in-the-sky, chateau en Espagne</sg>,;
+<sg>Utopia, Atlantis, happy valley, millennium, fairyland</sg>,;
+<sg>land of Prester John, kindgom of Micomicon</sg>,;
+<sg>work of fiction ,<cref>594 <i>novel</i></cref></sg>,;
+<sg>Arabian nights</sg>,;
+<sg>le pot au lait</sg>,;
+<sg>dream of Alnashar ,<cref>858 <i>hope</i></cref></sg>,;
+<sg>illusion ,<cref>495 <i>error</i></cref></sg>,;
+<sg>phantom ,<cref>443 <i>fallacy of vision</i></cref></sg>,;
+<sg>Fata Morgana ,<cref>423 <i>ignis fatuus</i></cref></sg>,;
+<sg>vapor ,<cref>353 <i>cloud</i></cref></sg>,;
+<sg>stretch of the imagination ,<cref>549 <i>exaggeration</i></cref></sg>,;
+<sg>mythogenesis</sg>,;
+<sg>idealist, romanticist, visionary</sg>,;
+<sg>mopus</sg>,;
+<sg>romancer, dreamer</sg>,;
+<sg>somnambulist</sg>,;
+<sg>rhapsodist ,<cref>504 <i>fanatic</i></cref></sg>,;
+<sg>castle-buildier, fanciful projector</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>imagine, fancy, conceive</sg>,;
+<sg>idealize, realize</sg>,;
+<sg>dream, dream of, dream up</sg>,;
+<sg>give to airy nothing a local habitation and a name</sg>,;
+<sg>create, originate, devise, invent, coin, fabricate</sg>,;
+<sg>improvise, strike out something new</sg>,;
+<sg>set one's wits to work</sg>,;
+<sg>strain one's invention, crack one's invention</sg>,;
+<sg>rack one's brains, ransack one's brains, cudgel one's brains</sg>,;
+<sg>excogitate</sg>,;
+<sg>brainstorm</sg>,;
+<sg>give play, give the reins, give a loose to the imagination, give fancy</sg>,;
+<sg>indulge in reverie</sg>,;
+<sg>visualize, envision, conjure up a vision</sg>,;
+<sg>fancy oneself, represent oneself, picture, picture-oneself, figure to oneself</sg>,;
+<sg>vorstellen</sg>,;
+<sg>float in the mind</sg>,;
+<sg>suggest itself ,<cref>451 <i>thought</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>imagined</sg>,;
+<sg>ben trovato</sg>,;
+<sg>air drawn, airbuilt</sg>,;
+<sg>imagining</sg>,;
+<sg>, imaginative</sg>,;
+<sg>original, inventive, creative, fertile</sg>,;
+<sg>romantic, high flown, flighty, extravagant, fanatic, enthusiastic, unrealistic, Utopian, Quixotic</sg>,;
+<sg>ideal, unreal</sg>,;
+<sg>in the clouds, in nubibus</sg>,;
+<sg>unsubsantial ,<cref> 4 <i>unsubstantiality</i></cref></sg>,;
+<sg>illusory ,<cref>495 <i>fallacious</i></cref></sg>,;
+<sg>fabulous, legendary</sg>,;
+<sg>mythical, mythic, mythological</sg>,;
+<sg>chimerical</sg>,;
+<sg>imaginary, visionary</sg>,;
+<sg>notional</sg>,;
+<sg>fancy, fanciful, fantastic, fantastical</sg>,;
+<sg>whimsical</sg>,;
+<sg>fairy, fairy-like</sg>,;
+<sg>gestic</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>a change came o'er the spirit of my dream</sg>,;
+<sg>aegri somnia vana</sg>,;
+<sg>dolphinum appingit sylvis in fluctibus aprum</sg>,;
+<sg>fancy light from fancy caught</sg>,;
+<sg>imagination rules the world</sg>,;
+<sg>l'imagination gallope, le jugement ne va que le pas</sg>,;
+<sg>musaeo contingens cuncta lepore</sg>,;
+<sg>tous songes sont mensonges</sg>,;
+<sg>Wahrheil und Dichtung</sg>,;
+<sg>DIVISION II COMMUNICATION OF IDEAS</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,24 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#31#</sectionNumber>
+<headword>#<b>#[001] #778# Scepter #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>scepter, </i>regalia, caduceus</sg>,;
+<sg>Mercury's rod, Mercury's staff, Mercury's wand</sg>,;
+<sg>rod of empire, mace, fasces, wand</sg>,;
+<sg>staff, staff of office</sg>,;
+<sg>baton, truncheon</sg>,;
+<sg>flag ,<cref>550 <i>insignia</i></cref></sg>,;
+<sg>ensign of authority, emblem of authority, badge of authority, insignia of authority</sg>,;
+<sg>throne, chair, musnud, divan, dais, woolsack</sg>,;
+<sg>toga, pall, mantle, robes of state, ermine, purple</sg>,;
+<sg>crown, coronet, diadem, tiara, cap of maintenance</sg>,;
+<sg>decoration</sg>,;
+<sg>title ,<cref> 877 <i>lamentation</i></cref></sg>,;
+<sg>portfolio</sg>,;
+<sg>key, signet, seals, talisman</sg>,;
+<sg>helm</sg>,;
+<sg>reins ,<cref>752 <i>means of restraint</i></cref></sg>,;
+<br>
+</paragraph>

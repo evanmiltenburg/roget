@@ -1,0 +1,31 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#15#</sectionNumber>
+<headword>#<b>#[001] #444# Opacity #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>opacity</i></sg>,;
+<sg>opaqueness</sg>,;
+<sg>film</sg>,;
+<sg>cloud ,<cref> 353 <i>land</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be opaque</sg>,;
+<sg>obstruct the passage of light</sg>,;
+<sg>obfuscate, offuscate</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>opaque, impervious to light</sg>,;
+<sg>adiaphanous</sg>,;
+<sg>dim ,<cref> 422 <i>faintness</i></cref></sg>,;
+<sg>turbid, thick, muddy, opacous, obfuscated, fuliginous, cloud, hazy, misty, foggy, vaporous, nubiferous, muggy ,<cref>426 <i>turbidity</i></cref></sg>,;
+<sg>1</sg>,;
+<sg>smoky, fumid, murky, dirty</sg>,;
+<br>
+</paragraph>

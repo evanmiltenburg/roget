@@ -1,0 +1,43 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#15#</sectionNumber>
+<headword>#<b>#[001] #414# Odor #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>odor, </i>smell, odorament, scent, effluvium</sg>,;
+<sg>emanation, exhalation</sg>,;
+<sg>fume, essence, trail, nidor, redolence</sg>,;
+<sg>sense of smell</sg>,;
+<sg>scent</sg>,;
+<sg>act of smelling</sg>,;
+<sg>olfaction, olfactories</sg>,;
+<sg>fragrance ,<cref> 400 <i>refrigerator</i></cref></sg>,;
+<sg>odorant</sg>,;
+<sg>bloodhound, hound</sg>,;
+<sg>spoor</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>have an odor</sg>,;
+<sg>smell, smell of, smell strong of</sg>,;
+<sg>exhale</sg>,;
+<sg>give out a smell</sg>,;
+<sg>reek, reek of</sg>,;
+<sg>scent</sg>,;
+<sg>smell, scent</sg>,;
+<sg>snuff, snuff up</sg>,;
+<sg>sniff, nose, inhale</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>odorous, odoriferous</sg>,;
+<sg>smelling, reeking, foul-smelling, strong- scented</sg>,;
+<sg>redolent, graveolent, nidorous, pungent</sg>,;
+<sg>putrid, foul</sg>,;
+<sg>olfactory, quick-scented</sg>,;
+<br>
+</paragraph>

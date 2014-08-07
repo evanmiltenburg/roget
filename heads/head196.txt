@@ -1,0 +1,80 @@
+<classNumber>#2#</classNumber>
+<sectionNumber>#9#</sectionNumber>
+<headword>#<b>#[001] #196# Absence #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>absence</i></sg>,;
+<sg>inexistence ,<cref> 2 <i>inexistence</i></cref></sg>,;
+<sg>nonresidence, absenteeism</sg>,;
+<sg>nonattendance, alibi</sg>,;
+<sg>emptiness</sg>,;
+<sg>void, vacuum</sg>,;
+<sg>vacuity, vacancy</sg>,;
+<sg>tabula rasa</sg>,;
+<sg>exemption</sg>,;
+<sg>hiatus ,<cref>198 <i>interval</i></cref></sg>,;
+<sg>lipotype</sg>,;
+<sg>truant, absentee</sg>,;
+<sg>nobody</sg>,;
+<sg>nobody present, nobody on earth</sg>,;
+<sg>not a soul</sg>,;
+<sg>ame qui vive</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be absent</sg>,;
+<sg>keep away, keep out of the way</sg>,;
+<sg>play truant, absent oneself, stay away</sg>,;
+<sg>keep aloof, hold aloof</sg>,;
+<sg>withdraw, make oneself scarce, vacate</sg>,;
+<sg>go away ,<cref> 293 <i>progression</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>absent, not present, away, nonresident, gone, from home</sg>,;
+<sg>missing</sg>,;
+<sg>lost</sg>,;
+<sg>wanting</sg>,;
+<sg>omitted</sg>,;
+<sg>nowhere to be found</sg>,;
+<sg>inexistence ,<cref> 2 <i>inexistence</i></cref></sg>,;
+<sg>empty, void</sg>,;
+<sg>vacant, vacuous</sg>,;
+<sg>untenanted, unoccupied, uninhabited</sg>,;
+<sg>tenantless</sg>,;
+<sg>barren, sterile</sg>,;
+<sg>desert, deserted</sg>,;
+<sg>devoid</sg>,;
+<sg>uninhabitable</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>without, minus, nowhere</sg>,;
+<sg>elsewhere</sg>,;
+<sg>neither here nor there</sg>,;
+<sg>in default of</sg>,;
+<sg>sans</sg>,;
+<sg>behind one's back</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>the bird has flown, non est inventus</sg>,;
+<sg>absence makes the heart grow fonder</sg>,;
+<sg>absent in body but present in spirit</sg>,;
+<sg>absento nemo ne nocuisse velit</sg>,;
+<sg>Achilles absent was Achilles still</sg>,;
+<sg>aux absents les os</sg>,;
+<sg>briller par son absence</sg>,;
+<sg>conspicuous by his absence</sg>,;
+<sg>in the hope to meet shortly again and make our absence sweet</sg>,;
+<br>
+</paragraph>

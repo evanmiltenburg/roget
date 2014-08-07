@@ -1,0 +1,64 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#36#</sectionNumber>
+<headword>#<b>#[001] #894# Affectation #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>affectation</i></sg>,;
+<sg>affectedness</sg>,;
+<sg>acting a part</sg>,;
+<sg>pretense ,<cref>882 <i>falsehood) 544, (ostentation</i></cref></sg>,;
+<sg>boasting ,<cref> 884 <i>ugliness</i></cref></sg>,;
+<sg>charlatanism, quackery, shallow profundity</sg>,;
+<sg>pretension, airs, pedantry, purism, precisianism, euphuism</sg>,;
+<sg>teratology ,<cref>577 <i>altiloquence</i></cref></sg>,;
+<sg>mannerism, simagree, grimace</sg>,;
+<sg>conceit, foppery, dandyism, man millinery, coxcombry, puppyism</sg>,;
+<sg>stiffness, formality, buckram</sg>,;
+<sg>prudery, demureness, coquetry, mock modesty, minauderie, sentimentalism</sg>,;
+<sg>mauvais honte, false shame</sg>,;
+<sg>affector, performer, actor</sg>,;
+<sg>pedant, pedagogue, doctrinaire, purist, euphuist, mannerist</sg>,;
+<sg>grimacier</sg>,;
+<sg>lump of affectation, precieuse ridicule, bas bleu, blue stocking, poetaster</sg>,;
+<sg>prig</sg>,;
+<sg>charlatan ,<cref>548 <i>deceiver</i></cref></sg>,;
+<sg>petit maitre ,<cref>854 <i>fop</i></cref></sg>,;
+<sg>flatterer ,<cref> 935 <i>congratulation</i></cref></sg>,;
+<sg>coquette, prude, puritan</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>affect, act a part, put on</sg>,;
+<sg>give oneself airs ,<cref>885 <i>arrogance</i></cref></sg>,;
+<sg>boast ,<cref> 884 <i>ugliness</i></cref></sg>,;
+<sg>coquet</sg>,;
+<sg>simper, mince, attitudinize, pose</sg>,;
+<sg>flirt a fan</sg>,;
+<sg>overact, overdo</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>affected, full of affectation, pretentious, pedantic, stilted, stagy, theatrical, big-sounding, ad captandum</sg>,;
+<sg>canting, insincere</sg>,;
+<sg>not natural, unnatural</sg>,;
+<sg>self-conscious</sg>,;
+<sg>maniere</sg>,;
+<sg>artificial</sg>,;
+<sg>overwrought, overdone, overacted</sg>,;
+<sg>euphuist ,<cref> 577 <i>record</i></cref></sg>,;
+<sg>stiff, starch, formal, prim, smug, demure, tire a quatre epingles, quakerish, puritanical, prudish, pragmatical, priggish, conceited, coxcomical, foppish, dandified</sg>,;
+<sg>finical, finikin</sg>,;
+<sg>mincing, simpering, namby-pamby, sentimental</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>conceit in weakest bodies strongest works</sg>,;
+<br>
+</paragraph>

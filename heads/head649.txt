@@ -1,0 +1,105 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#27#</sectionNumber>
+<headword>#<b>#[001] #649# Intention #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>intent, <i>intention, </i>intentionality</sg>,;
+<sg>purpose</sg>,;
+<sg>quo animo</sg>,;
+<sg>project ,<cref> 626 <i>will</i></cref></sg>,;
+<sg>undertaking ,<cref> 676 <i>inexpedience</i></cref></sg>,;
+<sg>predetermination ,<cref> 611 <i>taciturnity</i></cref></sg>,;
+<sg>design, ambition</sg>,;
+<sg>contemplation, mind, animus, view, purview, proposal</sg>,;
+<sg>study</sg>,;
+<sg>look out</sg>,;
+<sg>final cause</sg>,;
+<sg>raison d'etre</sg>,;
+<sg>cui bono</sg>,;
+<sg>object, aim, end</sg>,;
+<sg>the be all and the end all</sg>,;
+<sg>drift ,<cref>516 <i>meaning</i></cref></sg>,;
+<sg>tendency ,<cref> 176 <i>unproductiveness</i></cref></sg>,;
+<sg>destination, mark, point, butt, goal, target, bull's-eye, quintain</sg>,;
+<sg>prey, quarry, game</sg>,;
+<sg>decision, determination, resolve</sg>,;
+<sg>fixed set purpose, settled purpose</sg>,;
+<sg>ultimatum</sg>,;
+<sg>resolution ,<cref> 604 <i>elegance</i></cref></sg>,;
+<sg>wish ,<cref> 865 <i>pleasure</i></cref></sg>,;
+<sg>arriere pensee</sg>,;
+<sg>motive ,<cref> 615 <i>soliloquy</i></cref></sg>,;
+<sg>teleology</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>intend, purpose, design, mean</sg>,;
+<sg>have to</sg>,;
+<sg>propose to oneself</sg>,;
+<sg>harbor a design</sg>,;
+<sg>have in view, have in contemplation, have in one's eye, have in petto</sg>,;
+<sg>have an eye to</sg>,;
+<sg>bid for, labor for</sg>,;
+<sg>be after, aspire after, endeavor after</sg>,;
+<sg>be at, aim at, drive at, point at, level at, aspire at</sg>,;
+<sg>take aim</sg>,;
+<sg>set before oneself</sg>,;
+<sg>study to</sg>,;
+<sg>take upon oneself ,<cref>676 <i>undertake</i></cref></sg>,;
+<sg>take into one's head</sg>,;
+<sg>meditate, contemplate of, think of, dream of, talk of</sg>,;
+<sg>premeditate ,<cref> 611 <i>taciturnity</i></cref></sg>,;
+<sg>compass, calculate</sg>,;
+<sg>destine, destinate</sg>,;
+<sg>propose</sg>,;
+<sg>project ,<cref>626 <i>plan</i></cref></sg>,;
+<sg>have a mind to ,<cref>602 <i>be willing</i></cref></sg>,;
+<sg>desire ,<cref> 865 <i>pleasure</i></cref></sg>,;
+<sg>pursue ,<cref> 622 <i>compendium</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>intended</sg>,;
+<sg>intentional, advised, express, determinate</sg>,;
+<sg>prepense ,<cref> 611 <i>taciturnity</i></cref></sg>,;
+<sg>bound for</sg>,;
+<sg>intending</sg>,;
+<sg>minded</sg>,;
+<sg>bent upon ,<cref>604 <i>earnest</i></cref></sg>,;
+<sg>at stake</sg>,;
+<sg>on the anvil, on the tapis</sg>,;
+<sg>in view, in prospect, in the breast of</sg>,;
+<sg>in petto</sg>,;
+<sg>teleological</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>intentionally</sg>,;
+<sg>advisedly, wittingly, knowingly, designedly, purposely, on purpose, by design, studiously, pointedly</sg>,;
+<sg>with intent</sg>,;
+<sg>deliberately ,<cref>611 <i>with premeditation</i></cref></sg>,;
+<sg>with one's eyes open, in cold blood</sg>,;
+<sg>for</sg>,;
+<sg>with a view, with an eye to</sg>,;
+<sg>in order to, in order that</sg>,;
+<sg>to the end that, with the intent that</sg>,;
+<sg>for the purpose of, with the view of, in contemplation of, on account of</sg>,;
+<sg>in pursuance of, pursuant to</sg>,;
+<sg>quo animo</sg>,;
+<sg>to all intents and purposes</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>The road to hell is paved with good intentions</sg>,;
+<sg>sublimi feriam sidera vertice</sg>,;
+<br>
+</paragraph>

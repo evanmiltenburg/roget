@@ -1,0 +1,32 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#38#</sectionNumber>
+<headword>#<b>#[001] #1005# Libertine #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>libertine</i></sg>,;
+<sg>voluptuary ,<cref> 954 <i>pity</i></cref></sg>,;
+<sg>1</sg>,;
+<sg>rake, debauchee, loose fish, rip, rakehell, fast man</sg>,;
+<sg>intrigant, gallant, seducer, fornicator, lecher, satyr, goat, whoremonger, paillard, adulterer, gay deceiver, Lothario, Don Juan, Bluebeard</sg>,;
+<sg>chartered libertine</sg>,;
+<sg>adulteress, advoutress, courtesan, prostitute, strumpet, harlot, whore, punk, fille de joie</sg>,;
+<sg>woman, woman of the town</sg>,;
+<sg>streetwalker, Cyprian, miss, piece</sg>,;
+<sg>frail sisterhood</sg>,;
+<sg>demirep, wench, trollop, trull, baggage, hussy, drab, bitch, jade, skit, rig, quean, mopsy, slut, minx, harridan</sg>,;
+<sg>unfortunate, unfortunate female, unfortunate woman</sg>,;
+<sg>woman of easy virtue ,<cref>961 <i>unchaste</i></cref></sg>,;
+<sg>wanton, fornicatress</sg>,;
+<sg>Jezebel, Messalina, Delilah, Thais, Phryne, Aspasia, Lais, lorette, cocotte, petite dame, grisette</sg>,;
+<sg>demimonde</sg>,;
+<sg>chippy</sg>,;
+<sg>sapphist</sg>,;
+<sg>spiritual wife</sg>,;
+<sg>white slave</sg>,;
+<sg>concubine, mistress, doxy, chere amie, bona roba</sg>,;
+<sg>pimp, procurer</sg>,;
+<sg>pander, pandar</sg>,;
+<sg>bawd, conciliatrix, procuress, mackerel, wittol</sg>,;
+<br>
+</paragraph>

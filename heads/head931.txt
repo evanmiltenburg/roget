@@ -1,0 +1,123 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#37#</sectionNumber>
+<headword>#<b>#[001] #931# Sociality #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>sociality, </i>sociability, sociableness</sg>,;
+<sg>social intercourse</sg>,;
+<sg>consociation</sg>,;
+<sg>intercourse, intercommunity</sg>,;
+<sg>consortship, companionship, comradeship</sg>,;
+<sg>clubbism</sg>,;
+<sg>esprit de corps</sg>,;
+<sg>conviviality</sg>,;
+<sg>good fellowship, good company</sg>,;
+<sg>joviality, jollity, savoir vivre, festivity, festive board, merrymaking</sg>,;
+<sg>loving cup</sg>,;
+<sg>hospitality, heartiness</sg>,;
+<sg>cheer</sg>,;
+<sg>welcome, welcomeness</sg>,;
+<sg>greeting</sg>,;
+<sg>hearty welcome, hearty reception, warm reception</sg>,;
+<sg>urbanity ,<cref>894 <i>courtesy</i></cref></sg>,;
+<sg>familiarity</sg>,;
+<sg>good fellow, jolly fellow</sg>,;
+<sg>bon enfant, bawcock</sg>,;
+<sg>social circle, family circle</sg>,;
+<sg>circle of acquaintance, coterie, society, company</sg>,;
+<sg>social gathering, social reunion</sg>,;
+<sg>assembly ,<cref>72 <i>assemblage</i></cref></sg>,;
+<sg>barbecue, bee</sg>,;
+<sg>corn-husking, corn-shucking</sg>,;
+<sg>house raising, barn raising</sg>,;
+<sg>husking, husking-bee</sg>,;
+<sg>infare</sg>,;
+<sg>party, entertainment, reception, levee, at, home, conversazione, soiree, matin_ee</sg>,;
+<sg>evening party, morning party, afternoon party, bridge party, garden party, surprise party</sg>,;
+<sg>kettle, kettle drum</sg>,;
+<sg>partie carr_ee, dish of tea, ridotto, rout</sg>,;
+<sg>housewarming</sg>,;
+<sg>ball, festival </sg>,;
+<sg>smoker, smoker-party</sg>,;
+<sg>sociable, stag party, hen party, tamasha</sg>,;
+<sg>tea-party, tea-fight</sg>,;
+<sg>(amusement) 840</sg>,;
+<sg>the feast of reason and the flow of soul</sg>,;
+<sg>birthday party, Christmas party, New Year's Eve party, Thanksgiving Day Dinner</sg>,;
+<sg>bonenkai</sg>,;
+<sg>wedding reception</sg>,;
+<sg>visiting</sg>,;
+<sg>round of visits</sg>,;
+<sg>call, morning call</sg>,;
+<sg>interview ,<cref>588 <i>conversation</i></cref></sg>,;
+<sg>assignation</sg>,;
+<sg>tryst, trysting place</sg>,;
+<sg>appointment</sg>,;
+<sg>club ,<cref>712 <i>association</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be sociable</sg>,;
+<sg>know</sg>,;
+<sg>be acquainted</sg>,;
+<sg>associate with, sort with, keep company with, walk hand in hand with</sg>,;
+<sg>eat off the same trencher, club together, consort, bear one company, join</sg>,;
+<sg>make acquaintance with ,<cref>888 <i>friendship</i></cref></sg>,;
+<sg>make advances, fraternize, embrace</sg>,;
+<sg>be at home with, feel at home with, make oneself at home with</sg>,;
+<sg>make free with</sg>,;
+<sg>crack a bottle with</sg>,;
+<sg>receive hospitality, live at free quarters</sg>,;
+<sg>find the latchstring out</sg>,;
+<sg>visit, pay a visit</sg>,;
+<sg>interchange visits, interchange cards</sg>,;
+<sg>call at, call upon</sg>,;
+<sg>leave a card</sg>,;
+<sg>drop in, look in</sg>,;
+<sg>look one up, beat up one's quarters</sg>,;
+<sg>entertain</sg>,;
+<sg>give a party</sg>,;
+<sg>be at home, see one's friends, hang out, keep open house, do the honors</sg>,;
+<sg>receive, receive with open arms</sg>,;
+<sg>welcome</sg>,;
+<sg>give a warm reception</sg>,;
+<sg>to kill the fatted calf</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>sociable, companionable, clubbable, conversable, cosy, cosey, chatty, conversational</sg>,;
+<sg>homiletical</sg>,;
+<sg>convivial</sg>,;
+<sg>festive, festal</sg>,;
+<sg>jovial, jolly, hospitable</sg>,;
+<sg>welcome, welcome as the roses in May</sg>,;
+<sg>f=eted, entertained</sg>,;
+<sg>free and easy, hall fellow well met, familiar, on visiting terms, acquainted</sg>,;
+<sg>social, neighborly</sg>,;
+<sg>international</sg>,;
+<sg>gregarious</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>en famille, in the family circle</sg>,;
+<sg>sans fa</sg>,;
+<sg>arm in arm</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>a crowd is not company</sg>,;
+<sg>be bright and jovial among your guests tonight</sg>,;
+<sg>his worth is warrant for his welcome</sg>,;
+<sg>let's be red with mirth</sg>,;
+<sg>welcome the coming speed the parting guest</sg>,;
+<br>
+</paragraph>

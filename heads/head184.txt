@@ -1,0 +1,45 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#8#</sectionNumber>
+<headword>#<b>#[001] #184# Tendency #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>tendency</i></sg>,;
+<sg>aptness, aptitude</sg>,;
+<sg>proneness, proclivity, bent, turn, tone, bias, set, leaning to, predisposition, inclination, propensity, susceptibility</sg>,;
+<sg>conatus, nisus</sg>,;
+<sg>liability ,<cref> 177 <i>agency</i></cref></sg>,;
+<sg>quality, nature, temperament</sg>,;
+<sg>idiocrasy, idiosyncrasy</sg>,;
+<sg>cast, vein, grain</sg>,;
+<sg>humor, mood</sg>,;
+<sg>drift ,<cref>278 <i>direction</i></cref></sg>,;
+<sg>conduciveness, conducement</sg>,;
+<sg>applicability ,<cref>644 <i>utility</i></cref></sg>,;
+<sg>subservience ,<cref>631 <i>instrumentality</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>tend, contribute, conduce, lead, dispose, incline, verge, bend to, trend, affect, carry, redound to, bid fair to, gravitate towards</sg>,;
+<sg>promote ,<cref>707 <i>aid</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>tending</sg>,;
+<sg>conducive, working towards, in a fair way to, calculated to</sg>,;
+<sg>liable ,<cref> 177 <i>agency</i></cref></sg>,;
+<sg>subservient ,<cref>631 <i>instrumental</i></cref></sg>,;
+<sg>useful ,<cref> 644 <i>absence of motive</i></cref></sg>,;
+<sg>subsidiary ,<cref>707 <i>helping</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>for, whither</sg>,;
+<br>
+</paragraph>

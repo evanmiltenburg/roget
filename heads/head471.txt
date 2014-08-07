@@ -1,0 +1,103 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#16#</sectionNumber>
+<headword>#<b>#[001] #471# Thought #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>thought</i></sg>,;
+<sg>exercitation of the intellect, exercise of the intellect</sg>,;
+<sg>intellection</sg>,;
+<sg>reflection, cogitation, consideration, meditation, study, lucubration, speculation, deliberation, pondering</sg>,;
+<sg>head work, brain work</sg>,;
+<sg>cerebration</sg>,;
+<sg>deep reflection</sg>,;
+<sg>close study, application ,<cref>457 <i>attention</i></cref></sg>,;
+<sg>abstract thought, abstraction contemplation, musing</sg>,;
+<sg>brown study ,<cref>458 <i>inattention</i></cref></sg>,;
+<sg>reverie, Platonism</sg>,;
+<sg>depth of thought, workings of the mind, thoughts, inmost thoughts</sg>,;
+<sg>self-counsel self-communing, self- consultation</sg>,;
+<sg>philosophy of the Absolute, philosophy of the Academy, philosophy of the Garden, philosophy of the lyceum, philosophy of the Porch</sg>,;
+<sg>association of thought, succession of thought, flow of thought, train of thought, current of thought, association of ideas, succession of ideas, flow of ideas, train of ideas, current of ideas</sg>,;
+<sg>after thought, mature thought</sg>,;
+<sg>reconsideration, second thoughts</sg>,;
+<sg>retrospection ,<cref>505 <i>memory</i></cref></sg>,;
+<sg>excogitation</sg>,;
+<sg>examination ,<cref>461 <i>inquiry</i></cref></sg>,;
+<sg>invention ,<cref>515 <i>imagination</i></cref></sg>,;
+<sg>thoughtfulness</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>think, reflect, cogitate, excogitate, consider, deliberate</sg>,;
+<sg>bestow thought upon, bestow consideration upon</sg>,;
+<sg>speculate, contemplate, meditate, ponder, muse, dream, ruminate</sg>,;
+<sg>brood over, con over</sg>,;
+<sg>animadvert, study</sg>,;
+<sg>bend the mind, apply the mind ,<cref>457 <i>attend</i></cref></sg>,;
+<sg>digest, discuss, hammer at, weigh, perpend</sg>,;
+<sg>realize, appreciate</sg>,;
+<sg>fancy ,<cref>515 <i>imagine</i></cref></sg>,;
+<sg>trow</sg>,;
+<sg>take into consideration</sg>,;
+<sg>take counsel ,<cref>695 <i>be advised</i></cref></sg>,;
+<sg>commune with oneself, bethink oneself</sg>,;
+<sg>collect one's thoughts</sg>,;
+<sg>revolve in the mind, turn over in the mind, run over in the mind</sg>,;
+<sg>chew the cud upon, sleep upon</sg>,;
+<sg>take counsel of one's pillow, advise with one's pillow</sg>,;
+<sg>rack one's brains, ransack one's brains, crack one's brains, beat one's brains, cudgel one's brains</sg>,;
+<sg>set one's brain to work, set one's wits to work</sg>,;
+<sg>harbor an idea, entertain an idea, cherish an idea, nurture an idea ,<cref> 453 <i>redness</i></cref></sg>,;
+<sg>take into one's head</sg>,;
+<sg>bear in mind</sg>,;
+<sg>reconsider</sg>,;
+<sg>occur</sg>,;
+<sg>present itself, suggest itself</sg>,;
+<sg>come into one's head, get into one's head</sg>,;
+<sg>strike one, flit across the view, come uppermost, run in one s head</sg>,;
+<sg>enter the mind, pass in the mind, cross the mind, flash on the mind, flash across the mind, float in the mind, fasten itself on the mind, be uppermost in the mind, occupy the mind</sg>,;
+<sg>have in one's mind</sg>,;
+<sg>make an impression</sg>,;
+<sg>sink into the mind, penetrate into the mind</sg>,;
+<sg>engross the thoughts</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>thinking</sg>,;
+<sg>thoughtful, pensive, meditative, reflective, museful, wistful, contemplative, speculative, deliberative, studious, sedate, introspective, Platonic, philosophical</sg>,;
+<sg>lost in thought ,<cref>458 <i>inattentive</i></cref></sg>,;
+<sg>deep musing ,<cref>457 <i>intent</i></cref></sg>,;
+<sg>in the mind, under consideration</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>all things considered</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>the mind being on the stretch</sg>,;
+<sg>the mind turning upon, the head turning upon, the mind running upon</sg>,;
+<sg>divinely, bent to meditation</sg>,;
+<sg>en toute chose il faut considerer la fin</sg>,;
+<sg>fresh- pluckt from bowers of never-failing thought</sg>,;
+<sg>go speed the stars of Thought</sg>,;
+<sg>in maiden meditation fancy-free</sg>,;
+<sg>so sweet is zealous contemplation</sg>,;
+<sg>the power of thought is the magic of the Mind</sg>,;
+<sg>those that think must govern those that toil</sg>,;
+<sg>thought is parent of the deed</sg>,;
+<sg>thoughts in attitudes imperious</sg>,;
+<sg>thoughts that breathe and words that burn</sg>,;
+<sg>vivere est cogitare</sg>,;
+<sg>Volk der Dichter und Denker</sg>,;
+<br>
+</paragraph>

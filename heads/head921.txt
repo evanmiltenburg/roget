@@ -1,0 +1,96 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#36#</sectionNumber>
+<headword>#<b>#[001] #921# Ostentation #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>ostentation, </i>display, show, flourish, parade, etalage, pomp, array, state, solemnity</sg>,;
+<sg>dash, splash, splurge, glitter, strut, pomposity</sg>,;
+<sg>pretense, pretensions</sg>,;
+<sg>showing off</sg>,;
+<sg>fuss</sg>,;
+<sg>magnificence, splendor</sg>,;
+<sg>coup d'oeil</sg>,;
+<sg>grand doings</sg>,;
+<sg>coup de theatre</sg>,;
+<sg>stage effect, stage trick</sg>,;
+<sg>claptrap</sg>,;
+<sg>mise en scene</sg>,;
+<sg>tour de force</sg>,;
+<sg>chic</sg>,;
+<sg>demonstration, flying colors</sg>,;
+<sg>tomfoolery</sg>,;
+<sg>flourish of trumpets ,<cref>883 <i>celebration</i></cref></sg>,;
+<sg>pageant, pageantry</sg>,;
+<sg>spectacle, exhibition, exposition, procession</sg>,;
+<sg>turn out, set out</sg>,;
+<sg>grand function</sg>,;
+<sg>f=ete, gala, field day, review, march past, promenade, insubstantial pageant</sg>,;
+<sg>dress</sg>,;
+<sg>court dress, full dress, evening dress, ball dress, fancy dress</sg>,;
+<sg>tailoring, millinery, man millinery, frippery, foppery, equipage</sg>,;
+<sg>ceremony, ceremonial</sg>,;
+<sg>ritual</sg>,;
+<sg>form, formality</sg>,;
+<sg>etiquette</sg>,;
+<sg>puncto, punctilio, punctiliousness</sg>,;
+<sg>starched stateliness, stateliness</sg>,;
+<sg>mummery, solemn mockery, mouth honor</sg>,;
+<sg>attitudinarian</sg>,;
+<sg>fop ,<cref> 854 <i>economy</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be ostentatious</sg>,;
+<sg>come forward, put oneself forward</sg>,;
+<sg>attract attention, star it</sg>,;
+<sg>cut a figure, make a dash, make a splash, make a splurge, cut a dash, cut a splash, cut a splurge</sg>,;
+<sg>figure, figure away</sg>,;
+<sg>make a show, make a display</sg>,;
+<sg>glitter</sg>,;
+<sg>show off, show off one's paces</sg>,;
+<sg>parade, march past</sg>,;
+<sg>display, exhibit, put forward, hold up</sg>,;
+<sg>trot out, hand out</sg>,;
+<sg>sport, brandish, blazon forth</sg>,;
+<sg>dangle, dangle before the eyes</sg>,;
+<sg>cry up ,<cref>931 <i>praise</i></cref></sg>,;
+<sg>proner, flaunt, emblazon, prink, set off, mount, have framed and glazed</sg>,;
+<sg>put a good face upon, put a smiling face upon</sg>,;
+<sg>clean the outside of the platter ,<cref>544 <i>disguise</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>ostentatious, showy, dashing, pretentious</sg>,;
+<sg>janty, jaunty</sg>,;
+<sg>grand, pompous, palatial</sg>,;
+<sg>high-sounding</sg>,;
+<sg>turgid ,<cref>577 <i>big-sounding</i></cref></sg>,;
+<sg>gairish, garish</sg>,;
+<sg>gaudy, gaudy as a peacock, gaudy as a butterfly, gaudy as a tulip</sg>,;
+<sg>flaunting, flashing, flaming, glittering</sg>,;
+<sg>gay ,<cref>847 <i>ornate</i></cref></sg>,;
+<sg>splendid, magnificent, sumptuous</sg>,;
+<sg>theatrical, dramatic, spectacular</sg>,;
+<sg>ceremonial, ritual</sg>,;
+<sg>solemn, stately, majestic, formal, stiff, ceremonious, punctilious, starched</sg>,;
+<sg>dressed to kill, dressed to the nines, decjed out, all decked out, en granite tenue, in best bib and tucker, in Sunday best, endimanch_e, chic</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>with flourish of trumpet, with beat of drum, with flying colors</sg>,;
+<sg>ad captandum vulgus</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>honores mutant mores</sg>,;
+<br>
+</paragraph>

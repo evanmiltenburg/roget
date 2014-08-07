@@ -1,0 +1,66 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#27#</sectionNumber>
+<headword>#<b>#[001] #683# Health #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>health, </i>sanity</sg>,;
+<sg>soundness</sg>,;
+<sg>vigor</sg>,;
+<sg>good health, perfect health, excellent health, rude health, robust health</sg>,;
+<sg>bloom</sg>,;
+<sg>mens sana in corpore sano</sg>,;
+<sg>Hygeia</sg>,;
+<sg>incorruption, incorruptibility</sg>,;
+<sg>good state of health, clean bill of health</sg>,;
+<sg>eupepsia</sg>,;
+<sg>euphoria, euphory</sg>,;
+<sg>St</sg>,;
+<sg>Anthony's fire</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be in health</sg>,;
+<sg>bloom, flourish</sg>,;
+<sg>keep body and soul together, keep on one's legs</sg>,;
+<sg>enjoy good health, enjoy a good state of health</sg>,;
+<sg>have a clean bill of health</sg>,;
+<sg>return to health</sg>,;
+<sg>recover ,<cref> 660 <i>instrumentality</i></cref></sg>,;
+<sg>get better ,<cref>658 <i>improve</i></cref></sg>,;
+<sg>take a new lease of life, fresh lease of life</sg>,;
+<sg>recruit</sg>,;
+<sg>restore to health</sg>,;
+<sg>cure ,<cref>660 <i>restore</i></cref></sg>,;
+<sg>tinker</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>healthy, healthful</sg>,;
+<sg>in health</sg>,;
+<sg>well, sound, hearty, hale, fresh, green, whole</sg>,;
+<sg>florid, flush, hardy, stanch, staunch, brave, robust, vigorous, weatherproof</sg>,;
+<sg>unscathed, uninjured, unmaimed, unmarred, untainted</sg>,;
+<sg>sound of wind and limb, safe and sound</sg>,;
+<sg>on one's legs</sg>,;
+<sg>sound as a roach, sound as a bell</sg>,;
+<sg>fresh as a daisy, fresh as a rose, fresh as April</sg>,;
+<sg>hearty as a buck</sg>,;
+<sg>in fine feather, in high feather</sg>,;
+<sg>in good case, in full bloom</sg>,;
+<sg>pretty bobbish, tolerably well, as well as can be expected</sg>,;
+<sg>sanitary ,<cref>656 <i>health-giving</i></cref></sg>,;
+<sg>sanatory ,<cref>662 <i>remedial</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>health that snuffs the morning air</sg>,;
+<sg>non est vivere sed valere vita</sg>,;
+<br>
+</paragraph>

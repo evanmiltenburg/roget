@@ -1,0 +1,54 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#8#</sectionNumber>
+<headword>#<b>#[001] #177# Agency #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>agency, </i>operation, force, working, strain, function, office, maintenance, exercise, work, swing, play</sg>,;
+<sg>interworking, interaction</sg>,;
+<sg>procurement</sg>,;
+<sg>causation ,<cref> 153 <i>revolution</i></cref></sg>,;
+<sg>instrumentality ,<cref> 631 <i>perseverance</i></cref></sg>,;
+<sg>influence ,<cref> 175 <i>productiveness</i></cref></sg>,;
+<sg>action ,<cref>680 <i>voluntary</i></cref></sg>,;
+<sg>modus operandi ,<cref> 627 <i>necessity</i></cref></sg>,;
+<sg>quickening power, maintaining power, sustaining power</sg>,;
+<sg>home stroke</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be in action</sg>,;
+<sg>operate, work</sg>,;
+<sg>act, act upon</sg>,;
+<sg>perform, play, support, sustain, strain, maintain, take effect, quicken, strike</sg>,;
+<sg>come play, come bring into operation</sg>,;
+<sg>have play, have free play</sg>,;
+<sg>bring to bear upon</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>operative, efficient, efficacious, practical, effectual</sg>,;
+<sg>at work, on foot</sg>,;
+<sg>acting ,<cref>680 <i>doing</i></cref></sg>,;
+<sg>in operation, in force, in action, in play, in exercise</sg>,;
+<sg>acted upon, wrought upon</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>by the agency of,</sg>,;
+<sg>through ,<cref>631 <i>instrumentality</i></cref></sg>,;
+<sg>by means of ,<cref> 632 <i>irresolution</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>I myself must mix with action lest I wither by despair</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,42 @@
+<classNumber>#2#</classNumber>
+<sectionNumber>#10#</sectionNumber>
+<headword>#<b>#[001] #239# Circumscription #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>circumscription, </i>limitation, inclosure</sg>,;
+<sg>confinement ,<cref>751 <i>restraint</i></cref></sg>,;
+<sg>circumvallation</sg>,;
+<sg>encincture</sg>,;
+<sg>envelope ,<cref> 232 <i>centrality</i></cref></sg>,;
+<sg>container (receptacle) 191</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>circumscribe, limit, bound, confine, inclose</sg>,;
+<sg>surround ,<cref> 227 <i>obliquity</i></cref></sg>,;
+<sg>compass about</sg>,;
+<sg>imprison ,<cref>751 <i>restrain</i></cref></sg>,;
+<sg>hedge in, wall in, rail in</sg>,;
+<sg>fence round, fence in, hedge round</sg>,;
+<sg>picket</sg>,;
+<sg>corral</sg>,;
+<sg>enfold, bury, encase, incase, pack up, enshrine, inclasp</sg>,;
+<sg>wrap up ,<cref>225 <i>invest</i></cref></sg>,;
+<sg>embay, embosom</sg>,;
+<sg>containment (inclusion) 76</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>circumscribed</sg>,;
+<sg>begirt, lapt</sg>,;
+<sg>buried in, immersed in</sg>,;
+<sg>embosomed, in the bosom of, imbedded, encysted, mewed up</sg>,;
+<sg>imprisoned ,<cref> 751 <i>warfare</i></cref></sg>,;
+<sg>landlocked, in a ring fence</sg>,;
+<br>
+</paragraph>

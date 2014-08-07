@@ -1,0 +1,77 @@
+<classNumber>#2#</classNumber>
+<sectionNumber>#10#</sectionNumber>
+<headword>#<b>#[001] #201# Size #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>size, </i>magnitude, dimension, bulk, volume</sg>,;
+<sg>largeness</sg>,;
+<sg>greatness ,<cref>31 <i>of quantity</i></cref></sg>,;
+<sg>expanse ,<cref>180 <i>space</i></cref></sg>,;
+<sg>amplitude, mass</sg>,;
+<sg>proportions</sg>,;
+<sg>capacity, tonnage, tunnage</sg>,;
+<sg>cordage</sg>,;
+<sg>caliber, scantling</sg>,;
+<sg>turgidity ,<cref>194 <i>expansion</i></cref></sg>,;
+<sg>corpulence, obesity</sg>,;
+<sg>plumpness</sg>,;
+<sg>embonpoint, corporation, flesh and blood, lustihood</sg>,;
+<sg>hugeness</sg>,;
+<sg>enormity, immensity, monstrosity</sg>,;
+<sg>giant, Brobdingnagian, Antaeus, Goliath, Gog and Magog, Gargantua, monster, mammoth, Cyclops</sg>,;
+<sg>cachalot, whale, porpoise, behemoth, leviathan, elephant, hippopotamus</sg>,;
+<sg>colossus</sg>,;
+<sg>tun, cord, lump, bulk, block, loaf, mass, swad, clod, nugget, bushel, thumper, whooper, spanker, strapper</sg>,;
+<sg>Triton among the minnows</sg>,;
+<sg>mountain, mound</sg>,;
+<sg>heap ,<cref>72 <i>assemblage</i></cref></sg>,;
+<sg>largest portion ,<cref> 50 <i>incoherence</i></cref></sg>,;
+<sg>full size, life size</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be large</sg>,;
+<sg>become large ,<cref>194 <i>expand</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>large, big</sg>,;
+<sg>great ,<cref>31 <i>in quantity</i></cref></sg>,;
+<sg>considerable, bulky, voluminous, ample, massive, massy</sg>,;
+<sg>capacious, comprehensive</sg>,;
+<sg>spacious ,<cref> 180 <i>violence</i></cref></sg>,;
+<sg>mighty, towering, fine, magnificent</sg>,;
+<sg>corpulent, stout, fat, obese, plump, squab, full, lusty, strapping, bouncing</sg>,;
+<sg>portly, burly, well-fed, full-grown</sg>,;
+<sg>corn fed, gram fed</sg>,;
+<sg>stalwart, brawny, fleshy</sg>,;
+<sg>goodly</sg>,;
+<sg>in good case, in good condition</sg>,;
+<sg>in condition</sg>,;
+<sg>chopping, jolly</sg>,;
+<sg>chub faced, chubby faced</sg>,;
+<sg>lubberly, hulky, unwieldy, lumpish, gaunt, spanking, whacking, whopping, walloping, thumping, thundering, hulking</sg>,;
+<sg>overgrown</sg>,;
+<sg>puffy ,<cref>194 <i>swollen</i></cref></sg>,;
+<sg>huge, immense, enormous, mighty</sg>,;
+<sg>vast, vasty</sg>,;
+<sg>amplitudinous, stupendous</sg>,;
+<sg>monster, monstrous, humongous, monumental</sg>,;
+<sg>elephantine, jumbo, mammoth</sg>,;
+<sg>gigantic, gigantean, giant, giant like, titanic</sg>,;
+<sg>prodigious, colossal, Cyclopean, Brobdingnagian, Bunyanesque, Herculean, Gargantuan</sg>,;
+<sg>infinite ,<cref> 105 <i>fraction</i></cref></sg>,;
+<sg>large as life</sg>,;
+<sg>plump as a dumpling, plump as a partridge</sg>,;
+<sg>fat as a pig, fat as a quail, fat as butter, fat as brawn, fat as bacon</sg>,;
+<sg>immeasurable, unfathomable, unplumbed</sg>,;
+<sg>inconceivable, unimaginable, unheard-of</sg>,;
+<sg>of cosmic proportions</sg>,;
+<sg>of epic proportions, the mother of all, teh granddaddy of all</sg>,;
+<br>
+</paragraph>

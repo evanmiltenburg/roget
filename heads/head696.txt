@@ -1,0 +1,32 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#27#</sectionNumber>
+<headword>#<b>#[001] #696# Pitfall #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>pitfall, </i>rocks, reefs, coral reef, sunken rocks, snags</sg>,;
+<sg>sands, quicksands</sg>,;
+<sg>syrt, syrtis</sg>,;
+<sg>Goodwin sands, sandy foundation</sg>,;
+<sg>slippery ground</sg>,;
+<sg>breakers, shoals, shallows, bank, shelf, flat, lee shore, ironbound coast</sg>,;
+<sg>rock ahead, breakers ahead</sg>,;
+<sg>precipice</sg>,;
+<sg>maelstrom, volcano</sg>,;
+<sg>ambush ,<cref> 530 <i>oblivion</i></cref></sg>,;
+<sg>pitfall, trapdoor</sg>,;
+<sg>trap ,<cref>545 <i>snare</i></cref></sg>,;
+<sg>sword of Damocles</sg>,;
+<sg>wolf at the door, snake in the grass, death in the pot</sg>,;
+<sg>latency ,<cref> 526 <i>sanity</i></cref></sg>,;
+<sg>ugly customer, dangerous person, le chat qui dort</sg>,;
+<sg>firebrand, hornet's nest</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>latet anquis in herba</sg>,;
+<sg>proximus ardet Ucalegon</sg>,;
+<br>
+</paragraph>

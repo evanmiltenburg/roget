@@ -1,0 +1,36 @@
+<classNumber>#2#</classNumber>
+<sectionNumber>#10#</sectionNumber>
+<headword>#<b>#[001] #211# Thickness, #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>breadth, thickness, </i>breadth, width, latitude, amplitude</sg>,;
+<sg>diameter, bore, caliber, radius</sg>,;
+<sg>superficial extent ,<cref>180 <i>space</i></cref></sg>,;
+<sg>thickness, crassitude</sg>,;
+<sg>corpulence ,<cref>192 <i>size</i></cref></sg>,;
+<sg>dilation ,<cref>194 <i>expansion</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be broad</sg>,;
+<sg>become broad, render broad</sg>,;
+<sg>expand ,<cref> 194 <i>displacement</i></cref></sg>,;
+<sg>thicken, widen, calibrate</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>broad, wide, ample, extended</sg>,;
+<sg>discous</sg>,;
+<sg>fanlike</sg>,;
+<sg>outspread, outstretched</sg>,;
+<sg>wide as a church-door</sg>,;
+<sg>latifoliate, latifolous</sg>,;
+<sg>thick, dumpy, squab, squat, thickset</sg>,;
+<sg>thick as a rope</sg>,;
+<br>
+</paragraph>

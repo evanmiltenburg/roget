@@ -1,0 +1,107 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#15#</sectionNumber>
+<headword>#<b>#[001] #460# Vision #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>vision, </i>sight, optics, eyesight</sg>,;
+<sg>view, look, espial, glance, ken, coup d'oeil</sg>,;
+<sg>glimpse, glint, peep</sg>,;
+<sg>gaze, stare, leer</sg>,;
+<sg>perlustration, contemplation</sg>,;
+<sg>conspection, conspectuity</sg>,;
+<sg>regard, survey</sg>,;
+<sg>introspection</sg>,;
+<sg>reconnaissance, speculation, watch, espionage, espionnage, autopsy</sg>,;
+<sg>ocular inspection, ocular demonstration</sg>,;
+<sg>sight-seeing</sg>,;
+<sg>point of view</sg>,;
+<sg>gazebo, loophole, belvedere, watchtower</sg>,;
+<sg>field of view</sg>,;
+<sg>theater, amphitheater, arena, vista, horizon</sg>,;
+<sg>commanding view, bird's eye view</sg>,;
+<sg>periscope</sg>,;
+<sg>visual organ, organ of vision</sg>,;
+<sg>eye</sg>,;
+<sg>naked eye, unassisted eye</sg>,;
+<sg>retina, pupil, iris, cornea, white</sg>,;
+<sg>optics, orbs</sg>,;
+<sg>saucer eyes, goggle eyes, gooseberry eyes</sg>,;
+<sg>short sight ,<cref> 443 <i>transparency</i></cref></sg>,;
+<sg>clear sight, sharp sight, quick sight, eagle sight, piercing sight, penetrating sight, clear glance, sharp glance, quick glance, eagle glance, piercing glance, penetrating glance, clear eye, sharp eye, quick eye, eagle eye, piercing eye, penetrating eye</sg>,;
+<sg>perspicacity, discernment</sg>,;
+<sg>catopsis</sg>,;
+<sg>eagle, hawk</sg>,;
+<sg>cat, lynx</sg>,;
+<sg>Argus</sg>,;
+<sg>evil eye</sg>,;
+<sg>basilisk, cockatrice</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>see, behold, discern, perceive, have in sight, descry, sight, make out, discover, distinguish, recognize, spy, espy, ken</sg>,;
+<sg>get a sight of, have a sight of, catch a sight of, get a glimpse of, have a glimpse of, catch a glimpse of</sg>,;
+<sg>command a view of</sg>,;
+<sg>witness, contemplate, speculate</sg>,;
+<sg>cast the eyes on, set the eyes on</sg>,;
+<sg>be a spectator of ,<cref> 444 <i>opacity</i></cref></sg>,;
+<sg>look on ,<cref>186 <i>be present</i></cref></sg>,;
+<sg>see sights ,<cref>455 <i>curiosity</i></cref></sg>,;
+<sg>see at a glance ,<cref>498 <i>intelligence</i></cref></sg>,;
+<sg>look, view, eye</sg>,;
+<sg>lift up the eyes, open one's eye</sg>,;
+<sg>look at, look on, look upon, look over, look about one, look round</sg>,;
+<sg>survey, scan, inspect</sg>,;
+<sg>run the eye over, run the eye through</sg>,;
+<sg>reconnoiter, glance round, glance on, glance over turn one's looks upon, bend one's looks upon</sg>,;
+<sg>direct the eyes to, turn the eyes on, cast a glance</sg>,;
+<sg>observe ,<cref>457 <i>attend to</i></cref></sg>,;
+<sg>watch ,<cref>459 <i>care</i></cref></sg>,;
+<sg>see with one's own eyes</sg>,;
+<sg>watch for ,<cref>507 <i>expect</i></cref></sg>,;
+<sg>peep, peer, pry, take a peep</sg>,;
+<sg>play at bopeep</sg>,;
+<sg>look full in the face, look hard at, look intently</sg>,;
+<sg>strain one's eyes</sg>,;
+<sg>fix the eyes upon, rivet the eyes upon</sg>,;
+<sg>stare, gaze</sg>,;
+<sg>pore over, gloat on</sg>,;
+<sg>leer, ogle, glare</sg>,;
+<sg>goggle</sg>,;
+<sg>cock the eye, squint, gloat, look askance</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>seeing</sg>,;
+<sg>visual, ocular</sg>,;
+<sg>optic, optical</sg>,;
+<sg>ophthalmic</sg>,;
+<sg>clear-eyesighted</sg>,;
+<sg>eagle-eyed, hawk-eyed, lynx-eyed, keen- eyed, Argus-eyed</sg>,;
+<sg>visible ,<cref> 446 <i>semitransparency</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>visibly ,<cref> 446 <i>semitransparency</i></cref></sg>,;
+<sg>in sight of, with one's eyes open at sight, at first sight, at a glance, at the first blush</sg>,;
+<sg>prima facie</sg>,;
+<sg>Int</sg>,;
+<sg>look!, ,<cref>457 <i>attention</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>the scales falling from one's eyes</sg>,;
+<sg>an eye like Mars to threaten or command</sg>,;
+<sg>her eyes are homes of silent prayer</sg>,;
+<sg>looking before and after</sg>,;
+<sg>thy rapt soul sitting in thine eyes</sg>,;
+<br>
+</paragraph>

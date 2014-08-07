@@ -1,0 +1,65 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#7#</sectionNumber>
+<headword>#<b>#[001] #149# Cessation #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>cessation, </i>discontinuance, desistance, desinence</sg>,;
+<sg>intermission, remission</sg>,;
+<sg>suspense, suspension</sg>,;
+<sg>interruption</sg>,;
+<sg>stop</sg>,;
+<sg>stopping</sg>,;
+<sg>closure, stoppage, halt</sg>,;
+<sg>arrival ,<cref> 292 <i>sequence</i></cref></sg>,;
+<sg>pause, rest, lull, respite, truce, drop</sg>,;
+<sg>interregnum, abeyance</sg>,;
+<sg>cloture</sg>,;
+<sg>dead stop, dead stand, dead lock</sg>,;
+<sg>finis, cerrado</sg>,;
+<sg>blowout, burnout, meltdown, disintegration</sg>,;
+<sg>comma, colon, semicolon, period, full stop</sg>,;
+<sg>end ,<cref> 67 <i>sequence</i></cref></sg>,;
+<sg>death ,<cref> 360 <i>wind</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>cease, discontinue, desist, stay, halt</sg>,;
+<sg>break off, leave off</sg>,;
+<sg>hold, stop, pull up, stop short</sg>,;
+<sg>stick, hang fire</sg>,;
+<sg>halt</sg>,;
+<sg>pause, rest</sg>,;
+<sg>burn out, blow out, melt down</sg>,;
+<sg>have done with, give over, surcease, shut up shop</sg>,;
+<sg>give up ,<cref>624 <i>relinquish</i></cref></sg>,;
+<sg>hold one's hand, stay one's hand</sg>,;
+<sg>rest on one's oars repose on one's laurels</sg>,;
+<sg>come to a stand, come to a standstill</sg>,;
+<sg>come to a deadlock, come to a full stop</sg>,;
+<sg>arrive ,<cref> 292 <i>sequence</i></cref></sg>,;
+<sg>go out, die away</sg>,;
+<sg>wear away, wear off</sg>,;
+<sg>pass away ,<cref>122 <i>be past</i></cref></sg>,;
+<sg>be at an end</sg>,;
+<sg>disintegrate, self-destruct</sg>,;
+<sg>intromit, interrupt, suspend, interpel</sg>,;
+<sg>intermit, remit</sg>,;
+<sg>put an end to, put a stop to, put a period to</sg>,;
+<sg>derail</sg>,;
+<sg>turn off, switch off, power down, deactivate, disconnect</sg>,;
+<sg>bring to a stand, bring to a standstill</sg>,;
+<sg>stop, cut short, arrest, stem the tide, stem the torrent</sg>,;
+<sg>pull the check-string, pull the plug on</sg>,;
+<sg>Int</sg>,;
+<sg>hold!, stop!, enough!, avast!, have done!, a truce to!, soft!, leave off!, tenez! ,</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>I pause for a reply</sg>,;
+<br>
+</paragraph>

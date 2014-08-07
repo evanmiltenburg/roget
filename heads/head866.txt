@@ -1,0 +1,117 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#36#</sectionNumber>
+<headword>#<b>#[001] #866# Pain #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>mental suffering, <i>pain, </i>dolor</sg>,;
+<sg>suffering, sufferance</sg>,;
+<sg>ache, smart ,<cref>378 <i>physical pain</i></cref></sg>,;
+<sg>passion</sg>,;
+<sg>displeasure, dissatisfaction, discomfort, discomposure, disquiet</sg>,;
+<sg>malaise</sg>,;
+<sg>inquietude, uneasiness, vexation of spirit</sg>,;
+<sg>taking</sg>,;
+<sg>discontent ,<cref> 832 <i>mart</i></cref></sg>,;
+<sg>dejection ,<cref> 837 <i>treasury</i></cref></sg>,;
+<sg>weariness ,<cref> 841 <i>debt</i></cref></sg>,;
+<sg>anhedonia</sg>,;
+<sg>annoyance, irritation, worry, infliction, visitation</sg>,;
+<sg>plague, bore</sg>,;
+<sg>bother, botheration</sg>,;
+<sg>stew, vexation, mortification, chagrin, esclandre</sg>,;
+<sg>mauvais quart d'heur</sg>,;
+<sg>care, anxiety, solicitude, trouble, trial, ordeal, fiery ordeal, shock, blow, cark, dole, fret, burden, load</sg>,;
+<sg>concern, grief, sorrow, distress, affliction, woe, bitterness, heartache</sg>,;
+<sg>carking cares</sg>,;
+<sg>heavy heart, aching heart, bleeding heart, broken heart</sg>,;
+<sg>heavy affliction, gnawing grief</sg>,;
+<sg>unhappiness, infelicity, misery, tribulation, wretchedness, desolation</sg>,;
+<sg>despair ,<cref> 859 <i>feeling</i></cref></sg>,;
+<sg>extremity, prostration, depth of misery</sg>,;
+<sg>nightmare, ephialtes, incubus</sg>,;
+<sg>pang, anguish, agony</sg>,;
+<sg>torture, torment</sg>,;
+<sg>purgatory ,<cref>982 <i>hell</i></cref></sg>,;
+<sg>hell upon earth</sg>,;
+<sg>iron age, reign of terror</sg>,;
+<sg>slough of despond ,<cref>735 <i>adversity</i></cref></sg>,;
+<sg>peck of troubles</sg>,;
+<sg>ills that flesh is heir to ,<cref>619 <i>evil</i></cref></sg>,;
+<sg>miseries of human life</sg>,;
+<sg>unkindest cut of all</sg>,;
+<sg>sufferer, victim, prey, martyr, object of compassion, wretch, shorn lamb</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>feel pain, suffer pain, experience pain, undergo pain, bear pain, endure pain</sg>,;
+<sg>, smart, ache ,<cref>378 <i>physical pain</i></cref></sg>,;
+<sg>suffer, bleed, ail</sg>,;
+<sg>be the victim of</sg>,;
+<sg>labor under afflictions</sg>,;
+<sg>bear the cross</sg>,;
+<sg>quaff the bitter cup, have a bad time of it</sg>,;
+<sg>fall on evil days ,<cref>735 <i>adversity</i></cref></sg>,;
+<sg>go hard with, come to grief, fall a sacrifice to, drain the cup of misery to the dregs, sup full of horrors</sg>,;
+<sg>sit on thorns, be on pins and needles, wince, fret, chafe, worry oneself, be in a taking, fret and fume</sg>,;
+<sg>take on, take to heart</sg>,;
+<sg>cark</sg>,;
+<sg>grieve</sg>,;
+<sg>mourn ,<cref>839 <i>lament</i></cref></sg>,;
+<sg>yearn, repine, pine, droop, languish, sink</sg>,;
+<sg>give way</sg>,;
+<sg>despair ,<cref> 859 <i>feeling</i></cref></sg>,;
+<sg>break one's heart</sg>,;
+<sg>weigh upon the heart ,<cref>830 <i>inflict pain</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>in pain, in a state of pain, full of pain</sg>,;
+<sg>suffering</sg>,;
+<sg>pained, afflicted, worried, displeased ,<cref> 830 <i>merchant</i></cref></sg>,;
+<sg>aching, griped, sore ,<cref>378 <i>physical pain</i></cref></sg>,;
+<sg>on the rack, in limbo</sg>,;
+<sg>between hawk and buzzard</sg>,;
+<sg>uncomfortable, uneasy</sg>,;
+<sg>ill at ease</sg>,;
+<sg>in a taking, in a way</sg>,;
+<sg>disturbed</sg>,;
+<sg>discontented ,<cref> 832 <i>mart</i></cref></sg>,;
+<sg>out of humor ,<cref> 901 <i>cowardice</i></cref></sg>,;
+<sg>1</sg>,;
+<sg>weary ,<cref> 841 <i>debt</i></cref></sg>,;
+<sg>heavy laden, stricken, crushed, a prey to, victimized, ill-used</sg>,;
+<sg>unfortunate ,<cref>735 <i>hapless</i></cref></sg>,;
+<sg>to be pitied, doomed, devoted, accursed, undone, lost, stranded</sg>,;
+<sg>fey</sg>,;
+<sg>unhappy, infelicitous, poor, wretched, miserable, woe-begone</sg>,;
+<sg>cheerless ,<cref>837 <i>dejected</i></cref></sg>,;
+<sg>careworn</sg>,;
+<sg>concerned, sorry</sg>,;
+<sg>sorrowing, sorrowful</sg>,;
+<sg>cut up, chagrined, horrified, horror-stricken</sg>,;
+<sg>in grief, plunged in grief, a prey to grief</sg>,;
+<sg>in tears ,<cref>839 <i>lamenting</i></cref></sg>,;
+<sg>steeped to the lips in misery</sg>,;
+<sg>heart-stricken, heart-broken, heart-scalded</sg>,;
+<sg>broken-hearted</sg>,;
+<sg>in despair ,<cref> 859 <i>feeling</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>the iron entered into our soul</sg>,;
+<sg>haeret lateri lethalis arundo</sg>,;
+<sg>one's heart bleeding</sg>,;
+<sg>down, thou climbing sorrow</sg>,;
+<sg>mirth cannot move a soul in agony</sg>,;
+<sg>nessun maggior dolere che ricordarsi del tempo felice nella miseria</sg>,;
+<sg>sorrow's crown of sorrow is remembering happier things</sg>,;
+<sg>the Niobe of Nations</sg>,;
+<br>
+</paragraph>

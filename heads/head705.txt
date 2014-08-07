@@ -1,0 +1,56 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#27#</sectionNumber>
+<headword>#<b>#[001] #705# Undertaking #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>undertaking</i></sg>,;
+<sg>compact ,<cref> 769 <i>laxity</i></cref></sg>,;
+<sg>adventure, venture</sg>,;
+<sg>engagement ,<cref>768 <i>promise</i></cref></sg>,;
+<sg>enterprise, emprise</sg>,;
+<sg>pilgrimage</sg>,;
+<sg>matter in hand ,<cref>625 <i>business </i></cref></sg>,;
+<sg>move</sg>,;
+<sg>first move ,<cref>66 <i>beginning</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>undertake</sg>,;
+<sg>engage in, embark in</sg>,;
+<sg>launch into, plunge into</sg>,;
+<sg>volunteer</sg>,;
+<sg>apprentice oneself to</sg>,;
+<sg>engage ,<cref>768 <i>promise</i></cref></sg>,;
+<sg>contract ,<cref> 769 <i>laxity</i></cref></sg>,;
+<sg>take upon oneself, take upon one's shoulders</sg>,;
+<sg>devote oneself to ,<cref>604 <i>determination</i></cref></sg>,;
+<sg>take up, take in hand</sg>,;
+<sg>tackle</sg>,;
+<sg>set about, go about</sg>,;
+<sg>set to, fall to, set to work</sg>,;
+<sg>launch forth</sg>,;
+<sg>set up shop</sg>,;
+<sg>put in hand, put in execution</sg>,;
+<sg>set forward</sg>,;
+<sg>break the neck of a business, be in, for</sg>,;
+<sg>put one's hand to, put one's foot in</sg>,;
+<sg>betake oneself to, turn one's hand to, go to do</sg>,;
+<sg>begin one's ,<cref> 66 <i>precedence</i></cref></sg>,;
+<sg>broach one's, institute one's ,<cref>153 <i>originate</i></cref></sg>,;
+<sg>put one's hand to the plow, lay one's hand to the plow, put one's shoulder to the wheel</sg>,;
+<sg>have in hand ,<cref>625 <i>business</i></cref></sg>,;
+<sg>have many irons in the fire ,<cref>682 <i>activity</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>undertaking</sg>,;
+<sg>on the anvil ,<cref> 625 <i>the drama</i></cref></sg>,;
+<sg>Int</sg>,;
+<sg>here goes!,</sg>,;
+<br>
+</paragraph>

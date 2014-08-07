@@ -1,0 +1,80 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#7#</sectionNumber>
+<headword>#<b>#[001] #156# Changeableness #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>changeableness</i></sg>,;
+<sg>mutability, inconstancy</sg>,;
+<sg>versatility, mobility</sg>,;
+<sg>instability, unstable equilibrium</sg>,;
+<sg>vacillation ,<cref>605 <i>irresolution</i></cref></sg>,;
+<sg>fluctuation, vicissitude</sg>,;
+<sg>alternation ,<cref>314 <i>oscillation</i></cref></sg>,;
+<sg>restlessness</sg>,;
+<sg>fidgets, disquiet</sg>,;
+<sg>disquietude, inquietude</sg>,;
+<sg>unrest</sg>,;
+<sg>agitation ,<cref> 315 <i>shortcoming</i></cref></sg>,;
+<sg>moon, Proteus, chameleon, quicksilver, shifting sands, weathercock, harlequin, Cynthia of the minute, April showers</sg>,;
+<sg>wheel of Fortune</sg>,;
+<sg>transientness ,<cref> 111 <i>time</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>fluctuate, vary, waver, flounder, flicker, flitter, flit, flutter, shift, shuffle, shake, totter, tremble, vacillate, wamble, turn and turn about, ring the changes</sg>,;
+<sg>sway to and fro, shift to and fro</sg>,;
+<sg>change and change about</sg>,;
+<sg>waffle, blow with the wind (irresolute) 605</sg>,;
+<sg>oscillate ,<cref> 314 <i>transcursion</i></cref></sg>,;
+<sg>vibrate between, two extremes, oscillate between, two extremes</sg>,;
+<sg>alternate</sg>,;
+<sg>have as man phases as the moon</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>changeable, changeful</sg>,;
+<sg>changing ,<cref> 140 <i>lateness</i></cref></sg>,;
+<sg>mutable, variable, checkered, ever changing</sg>,;
+<sg>protean, proteiform</sg>,;
+<sg>versatile</sg>,;
+<sg>unstaid, inconstant</sg>,;
+<sg>unsteady, unstable, unfixed, unsettled</sg>,;
+<sg>fluctuating</sg>,;
+<sg>restless</sg>,;
+<sg>agitated ,<cref> 315 <i>shortcoming</i></cref></sg>,;
+<sg>erratic, fickle</sg>,;
+<sg>irresolute ,<cref> 605 <i>inelegance</i></cref></sg>,;
+<sg>capricious ,<cref> 608 <i>speech</i></cref></sg>,;
+<sg>touch and go</sg>,;
+<sg>inconsonant, fitful, spasmodic</sg>,;
+<sg>vibratory</sg>,;
+<sg>vagrant, wayward</sg>,;
+<sg>desultory</sg>,;
+<sg>afloat</sg>,;
+<sg>alternating</sg>,;
+<sg>alterable, plastic, mobile</sg>,;
+<sg>transient ,<cref> 111 <i>time</i></cref></sg>,;
+<sg>wavering</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>seesaw ,<cref>314 <i>oscillation</i></cref></sg>,;
+<sg>off and on</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>a rolling stone gathers no moss</sg>,;
+<sg>pictra mossa non fa muschis</sg>,;
+<sg>honores mutant mores</sg>,;
+<sg>varium et mutabile semper femina</sg>,;
+<br>
+</paragraph>

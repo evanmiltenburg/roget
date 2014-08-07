@@ -1,0 +1,89 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#36#</sectionNumber>
+<headword>#<b>#[001] #914# Nobility #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>nobility, </i>rank, condition, distinction, optimacy, blood, pur sang, birth, high descent, order</sg>,;
+<sg>quality, gentility</sg>,;
+<sg>blue blood of Castile</sg>,;
+<sg>ancien regime</sg>,;
+<sg>high life, haute monde</sg>,;
+<sg>upper classes, upper ten thousand</sg>,;
+<sg>the four hundred</sg>,;
+<sg>elite, aristocracy, great folks</sg>,;
+<sg>fashionable world ,<cref>852 <i>fashion</i></cref></sg>,;
+<sg>peer, peerage</sg>,;
+<sg>house of lords, house of peers</sg>,;
+<sg>lords, lords temporal and spiritual</sg>,;
+<sg>noblesse</sg>,;
+<sg>noble, nobleman</sg>,;
+<sg>lord, lordling</sg>,;
+<sg>grandee, magnifico, hidalgo</sg>,;
+<sg>daimio, daimyo, samurai, shizoku</sg>,;
+<sg>don, donship</sg>,;
+<sg>aristocrat, swell, three- tailed bashaw</sg>,;
+<sg>gentleman, squire, squireen, patrician, laureate</sg>,;
+<sg>gentry, gentlefolk</sg>,;
+<sg>squirarchy, better sort magnates, primates, optimates</sg>,;
+<sg>pantisocracy</sg>,;
+<sg>king ,<cref>745 <i>master</i></cref></sg>,;
+<sg>atheling</sg>,;
+<sg>prince, duke</sg>,;
+<sg>marquis, marquisate</sg>,;
+<sg>earl, viscount, baron, thane, banneret</sg>,;
+<sg>baronet, baronetcy</sg>,;
+<sg>knight, knighthood</sg>,;
+<sg>count, armiger, laird</sg>,;
+<sg>signior, seignior</sg>,;
+<sg>esquire, boyar, margrave, vavasour</sg>,;
+<sg>emir, ameer, scherif, sharif, effendi, wali</sg>,;
+<sg>sahib</sg>,;
+<sg>chevalier, maharaja, nawab, palsgrave, pasha, rajah, waldgrave</sg>,;
+<sg>princess, begum, duchess, marchioness</sg>,;
+<sg>countess </sg>,;
+<sg>lady, dame</sg>,;
+<sg>memsahib</sg>,;
+<sg>Do$a, maharani, rani</sg>,;
+<sg>personage of distinction, man of distinction, personage of rank, man of rank, personage of mark, man of mark</sg>,;
+<sg>notables, notabilities</sg>,;
+<sg>celebrity, bigwig, magnate, great man, star, superstar</sg>,;
+<sg>big bug</sg>,;
+<sg>big gun, great gun</sg>,;
+<sg>gilded rooster</sg>,;
+<sg>magni nominis umbra</sg>,;
+<sg>every inch a king</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be noble</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>noble, exalted</sg>,;
+<sg>of rank</sg>,;
+<sg>princely, titled, patrician, aristocratic</sg>,;
+<sg>high-, well-born</sg>,;
+<sg>of gentle blood</sg>,;
+<sg>genteel, comme il faut, gentlemanlike, courtly ,<cref>852 <i>fashionable</i></cref></sg>,;
+<sg>highly respectable</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>in high quarters</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>Adel sitzt im Gemuthe nicht im Gebluete</sg>,;
+<sg>adelig und edel sind zweierlei</sg>,;
+<sg>noblesse oblige</sg>,;
+<br>
+</paragraph>

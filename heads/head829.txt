@@ -1,0 +1,50 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#34#</sectionNumber>
+<headword>#<b>#[001] #829# Sale #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>sale, </i>vent, disposal</sg>,;
+<sg>auction, roup, Dutch auction</sg>,;
+<sg>outcry, vendue</sg>,;
+<sg>custom ,<cref>794 <i>traffic</i></cref></sg>,;
+<sg>vendibility, vendibleness</sg>,;
+<sg>seller</sg>,;
+<sg>vender, vendor</sg>,;
+<sg>merchant ,<cref> 797 <i>deprecation</i></cref></sg>,;
+<sg>auctioneer</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>sell, vend, dispose of, effect a sale</sg>,;
+<sg>sell over the counter, sell by auction</sg>,;
+<sg>dispense, retail</sg>,;
+<sg>deal in ,<cref> 794 <i>offer</i></cref></sg>,;
+<sg>sell off, sell out</sg>,;
+<sg>turn into money, realize</sg>,;
+<sg>bring to the hammer, bring under the hammer, put up to auction, put up for auction</sg>,;
+<sg>offer for sale, put up for sale</sg>,;
+<sg>hawk, bring to market</sg>,;
+<sg>offer ,<cref> 763 <i>prosperity</i></cref></sg>,;
+<sg>undersell</sg>,;
+<sg>let</sg>,;
+<sg>mortgage ,<cref>771 <i>security</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>under the hammer, on the market, for sale</sg>,;
+<sg>salable, marketable, vendible</sg>,;
+<sg>unsalable  unpurchased, unbought</sg>,;
+<sg>on one's hands</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>chose qui plait est a demi vendue</sg>,;
+<br>
+</paragraph>

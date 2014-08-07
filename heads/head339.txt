@@ -1,0 +1,29 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#14#</sectionNumber>
+<headword>#<b>#[001] #339# Brittleness #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>brittleness</i></sg>,;
+<sg>fragility, friability, frangibility, fissibility</sg>,;
+<sg>house of cards, house of glass</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be brittle</sg>,;
+<sg>live in a glass house</sg>,;
+<sg>break, crack, snap, split, shiver, splinter, crumble, break short, burst, fly, give way</sg>,;
+<sg>fall to pieces</sg>,;
+<sg>crumble to, crumble into dust</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>brittle, brash, breakable, weak, frangible, fragile, frail, gimcrack, shivery, fissile</sg>,;
+<sg>splitting</sg>,;
+<sg>lacerable, splintery, crisp, crimp, short, brittle as glass</sg>,;
+<br>
+</paragraph>

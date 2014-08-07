@@ -1,0 +1,136 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#24#</sectionNumber>
+<headword>#<b>#[001] #552# Information #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>information, </i>enlightenment, acquaintance, knowledge ,<cref> 490 <i>evidence</i></cref></sg>,;
+<sg>publicity ,<cref> 531 <i>expectation</i></cref></sg>,;
+<sg>data ,<cref> 467 <i>appearance</i></cref></sg>,;
+<sg>communication, intimation</sg>,;
+<sg>notice, notification</sg>,;
+<sg>enunciation, annunciation</sg>,;
+<sg>announcement</sg>,;
+<sg>communiqu_e</sg>,;
+<sg>representation, round robin, presentment</sg>,;
+<sg>case, estimate, specification, report, advice, monition</sg>,;
+<sg>news ,<cref> 532 <i>inexpectation</i></cref></sg>,;
+<sg>return ,<cref>551 <i>record</i></cref></sg>,;
+<sg>account ,<cref>594 <i>description</i></cref></sg>,;
+<sg>statement ,<cref>535 <i>affirmation</i></cref></sg>,;
+<sg>mention</sg>,;
+<sg>acquainting</sg>,;
+<sg>instruction ,<cref>537 <i>teaching</i></cref></sg>,;
+<sg>outpouring</sg>,;
+<sg>intercommunication, communicativeness</sg>,;
+<sg>informant, authority, teller, intelligencer, reporter, exponent, mouthpiece</sg>,;
+<sg>informer, eavesdropper, delator, detective</sg>,;
+<sg>sleuth</sg>,;
+<sg>mouchard, spy, newsmonger</sg>,;
+<sg>messenger ,<cref> 534 <i>foresight</i></cref></sg>,;
+<sg>amicus curiae</sg>,;
+<sg>valet de place, cicerone, pilot, guide</sg>,;
+<sg>guidebook, handbook</sg>,;
+<sg>vade mecum</sg>,;
+<sg>manual</sg>,;
+<sg>map, plan, chart, gazetteer</sg>,;
+<sg>itinerary ,<cref>266 <i>journey</i></cref></sg>,;
+<sg>hint, suggestion, innuendo, inkling, whisper, passing word, word in the ear, subaudition, cue, byplay</sg>,;
+<sg>gesture ,<cref>550 <i>indication</i></cref></sg>,;
+<sg>gentle hint, broad hint</sg>,;
+<sg>verbum sapienti, a word to the wise</sg>,;
+<sg>insinuation ,<cref>526 <i>latency</i></cref></sg>,;
+<sg>information theory</sg>,;
+<sg>bit, byte, word, doubleword, quad word, paragraph, segment</sg>,;
+<sg>magnetic media, paper medium, optical media</sg>,;
+<sg>random access memory, RAM</sg>,;
+<sg>read-only memory, ROM</sg>,;
+<sg>write once read mostly memory, WORM</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>tell</sg>,;
+<sg>inform, inform of</sg>,;
+<sg>acquaint, acquaint with</sg>,;
+<sg>impart, impart to</sg>,;
+<sg>make acquaintance with, apprise, advise, enlighten, awaken</sg>,;
+<sg>transmit</sg>,;
+<sg>let fall, mention, express, intimate, represent, communicate, make known</sg>,;
+<sg>publish ,<cref> 531 <i>expectation</i></cref></sg>,;
+<sg>notify, signify, specify, convey the knowledge of</sg>,;
+<sg>let one know, have one to know</sg>,;
+<sg>give one to understand</sg>,;
+<sg>give notice</sg>,;
+<sg>set before, lay before, put before</sg>,;
+<sg>point out, put into one's head</sg>,;
+<sg>put one in possession of</sg>,;
+<sg>instruct ,<cref>537 <i>teach</i></cref></sg>,;
+<sg>direct the attention to ,<cref> 457 <i>blueness</i></cref></sg>,;
+<sg>announce, annunciate</sg>,;
+<sg>report, report progress</sg>,;
+<sg>bringword, send word, leave word, write word</sg>,;
+<sg>telegraph, telephone</sg>,;
+<sg>wire</sg>,;
+<sg>retail, render an account</sg>,;
+<sg>give an account ,<cref>594 <i>describe</i></cref></sg>,;
+<sg>state ,<cref>535 <i>affirm</i></cref></sg>,;
+<sg>let slip, blurt out, spill the beans, unburden oneself of, let off one's chest</sg>,;
+<sg>disclose ,<cref> 529 <i>memory</i></cref></sg>,;
+<sg>show cause</sg>,;
+<sg>explain ,<cref>522 <i>interpret</i></cref></sg>,;
+<sg>hint</sg>,;
+<sg>given an inkling of</sg>,;
+<sg>give a hint, drop a hint, throw out a hint</sg>,;
+<sg>insinuate</sg>,;
+<sg>allude to, make allusion to</sg>,;
+<sg>glance at</sg>,;
+<sg>tip the wink ,<cref>550 <i>indicate</i></cref></sg>,;
+<sg>suggest, prompt, give the cue, breathe</sg>,;
+<sg>whisper, whisper in the ear</sg>,;
+<sg>give a bit of one's mind</sg>,;
+<sg>tell one plainly, tell once for all</sg>,;
+<sg>speak volumes</sg>,;
+<sg>undeceive, unbeguile</sg>,;
+<sg>set right, correct, open the eyes of, disabuse, disillusion one of</sg>,;
+<sg>be informed of </sg>,;
+<sg>know ,<cref> 490 <i>evidence</i></cref></sg>,;
+<sg>learn ,<cref> 539 <i>analogy</i></cref></sg>,;
+<sg>get scent of, get wind of, gather from</sg>,;
+<sg>awaken to, open one's eyes to</sg>,;
+<sg>become alive, become awake to</sg>,;
+<sg>hear, overhear, understand</sg>,;
+<sg>come to one's ears, come to one's knowledge</sg>,;
+<sg>reach one's ears</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>informed</sg>,;
+<sg>communique</sg>,;
+<sg>reported</sg>,;
+<sg>published ,<cref> 531 <i>expectation</i></cref></sg>,;
+<sg>expressive ,<cref> 516 <i>scholar</i></cref></sg>,;
+<sg>explicit ,<cref>518 <i>open) 525, (clear</i></cref></sg>,;
+<sg>plain spoken , (artless) 703</sg>,;
+<sg>nuncupative, nuncupatory</sg>,;
+<sg>declaratory, expository</sg>,;
+<sg>enunciative</sg>,;
+<sg>communicative, communicatory</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>from information received</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>a little bird told me</sg>,;
+<sg>I heard it through the grapevine</sg>,;
+<br>
+</paragraph>

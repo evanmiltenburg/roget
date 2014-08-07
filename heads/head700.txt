@@ -1,0 +1,57 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#27#</sectionNumber>
+<headword>#<b>#[001] #700# Escape #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>escape, </i>scape</sg>,;
+<sg>avolation, elopement, flight</sg>,;
+<sg>evasion ,<cref>623 <i>avoidance</i></cref></sg>,;
+<sg>retreat</sg>,;
+<sg>narrow escape, hairbreadth escape</sg>,;
+<sg>close call</sg>,;
+<sg>come off, impunity</sg>,;
+<sg>loophole ,<cref>260 <i>opening</i></cref></sg>,;
+<sg>path ,<cref> 627 <i>necessity</i></cref></sg>,;
+<sg>refuse ,<cref> 666 <i>provision</i></cref></sg>,;
+<sg>vent, vent peg</sg>,;
+<sg>safety valve</sg>,;
+<sg>drawbridge, fire escape</sg>,;
+<sg>reprieve ,<cref>672 <i>deliverance</i></cref></sg>,;
+<sg>liberation ,<cref> 750 <i>peace</i></cref></sg>,;
+<sg>refugee ,<cref>623 <i>fugitive</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>escape, scape</sg>,;
+<sg>make one's escape, effect one's escape, make good one's escape</sg>,;
+<sg>break jail</sg>,;
+<sg>get off, get clear off, get well out of</sg>,;
+<sg>echapper belle, save one's bacon, save one's skin</sg>,;
+<sg>weather the storm ,<cref>664 <i>safe</i></cref></sg>,;
+<sg>escape scot-free</sg>,;
+<sg>elude &c, make off ,<cref>623 <i>avoid</i></cref></sg>,;
+<sg>march off ,<cref>293 <i>go away</i></cref></sg>,;
+<sg>give one the slip</sg>,;
+<sg>slip through the hands, slip through the fingers</sg>,;
+<sg>slip the collar, wriggle out of prison, break out, break loose, break loose from prison</sg>,;
+<sg>break away, slip away, get away</sg>,;
+<sg>find vent, find a hole to creep out of</sg>,;
+<sg>disappear, vanish</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>escaping, escaped</sg>,;
+<sg>stolen away, fled</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>the bird has flown the coop</sg>,;
+<br>
+</paragraph>

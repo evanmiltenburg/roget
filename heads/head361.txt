@@ -1,0 +1,40 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#14#</sectionNumber>
+<headword>#<b>#[001] #361# Conduit #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>conduit, </i>channel, duct, watercourse, race</sg>,;
+<sg>head race, tail race</sg>,;
+<sg>abito, aboideau, aboiteau, bito</sg>,;
+<sg>acequia, acequiador, acequiamadre</sg>,;
+<sg>arroyo</sg>,;
+<sg>adit, aqueduct, canal, trough, gutter, pantile</sg>,;
+<sg>flume, ingate, runner</sg>,;
+<sg>lock-weir, tedge</sg>,;
+<sg>vena</sg>,;
+<sg>dike, main, gully, moat, ditch, drain, sewer, culvert, cloaca, sough, kennel, siphon</sg>,;
+<sg>piscina</sg>,;
+<sg>pipe ,<cref>260 <i>tube</i></cref></sg>,;
+<sg>funnel</sg>,;
+<sg>tunnel ,<cref>627 <i>passage</i></cref></sg>,;
+<sg>water pipe, waste pipe</sg>,;
+<sg>emunctory, gully hole, artery, aorta, pore, spout, scupper</sg>,;
+<sg>adjutage, ajutage</sg>,;
+<sg>hose</sg>,;
+<sg>gargoyle</sg>,;
+<sg>gurgoyle</sg>,;
+<sg>penstock, weir</sg>,;
+<sg>flood gate, water gate</sg>,;
+<sg>sluice, lock, valve</sg>,;
+<sg>rose</sg>,;
+<sg>waterworks</sg>,;
+<sg>pipeline</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>vascular ,<cref>260 <i>with holes</i></cref></sg>,;
+<br>
+</paragraph>

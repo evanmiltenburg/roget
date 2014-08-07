@@ -1,0 +1,39 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#2#</sectionNumber>
+<headword>#<b>#[001] #23# Copy #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>copy, </i>facsimile, counterpart, effigies, effigy, form, likeness</sg>,;
+<sg>image, picture, photo, xerox, similitude, semblance, ectype, photo offset, electrotype</sg>,;
+<sg>imitation ,<cref> 19 <i>dissimilarity</i></cref></sg>,;
+<sg>model, representation, adumbration, study</sg>,;
+<sg>portrait ,<cref>554 <i>representation</i></cref></sg>,;
+<sg>resemblance</sg>,;
+<sg>duplicate, reproduction</sg>,;
+<sg>cast, tracing</sg>,;
+<sg>reflex, reflexion, reflection</sg>,;
+<sg>shadow, echo</sg>,;
+<sg>transcript, transcription</sg>,;
+<sg>recording, scan</sg>,;
+<sg>chip off the old block</sg>,;
+<sg>reprint, new printing</sg>,;
+<sg>rechauffe</sg>,;
+<sg>apograph, fair copy</sg>,;
+<sg>parody, caricature, burlesque, travesty, travestie, paraphrase</sg>,;
+<sg>derivative, derivation, modification, expansion, extension, revision</sg>,;
+<sg>second edition ,<cref>104 <i>repetition</i></cref></sg>,;
+<sg>servile copy, servile imitation</sg>,;
+<sg>plagiarism, counterfeit, fake ,<cref>545 <i>deception</i></cref></sg>,;
+<sg>pasticcio</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>faithful</sg>,;
+<sg>lifelike ,<cref>17 <i>similar</i></cref></sg>,;
+<sg>close, conscientious</sg>,;
+<sg>unoriginal, imitative, derivative</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,106 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#19#</sectionNumber>
+<headword>#<b>#[001] #500# & Sophistry #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>intuition, </i>instinct, association, hunch, gut feeling</sg>,;
+<sg>presentiment, premonition</sg>,;
+<sg>rule of thumb</sg>,;
+<sg>superstition</sg>,;
+<sg>astrology</sg>,;
+<sg>faith (supposition) 514</sg>,;
+<sg>sophistry, paralogy, perversion, casuistry, jesuitry, equivocation, evasion</sg>,;
+<sg>chicane, chicanery</sg>,;
+<sg>quiddet, quiddity</sg>,;
+<sg>mystification</sg>,;
+<sg>special pleading</sg>,;
+<sg>speciousness</sg>,;
+<sg>nonsense ,<cref> 497 <i>certainty</i></cref></sg>,;
+<sg>word sense, tongue sense</sg>,;
+<sg>false reasoning, vicious reasoning, circular reasoning</sg>,;
+<sg>petitio principii, ignoratio elenchi</sg>,;
+<sg>post hoc ergo propter hoc</sg>,;
+<sg>non sequitur, ignotum per ignotius</sg>,;
+<sg>misjudgment ,<cref> 481 <i>inquiry</i></cref></sg>,;
+<sg>false teaching ,<cref> 538 <i>supposition</i></cref></sg>,;
+<sg>sophism, solecism, paralogism</sg>,;
+<sg>quibble, quirk, elenchus, elench, fallacy, quodlibet, subterfuge, subtlety, quillet</sg>,;
+<sg>inconsistency, antilogy</sg>,;
+<sg>a delusion, a mockery, and a snare</sg>,;
+<sg>claptrap, cant, mere words</sg>,;
+<sg>lame and impotent conclusion</sg>,;
+<sg>meshes of sophistry, cobwebs of sophistry</sg>,;
+<sg>flaw in an argument</sg>,;
+<sg>weak point, bad case</sg>,;
+<sg>overrefinement</sg>,;
+<sg>hairsplitting</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>judge intuitively, judge by intuition</sg>,;
+<sg>hazard a proposition, hazard a guess, talk at random</sg>,;
+<sg>reason ill, falsely</sg>,;
+<sg>misjudge ,<cref> 481 <i>inquiry</i></cref></sg>,;
+<sg>paralogize</sg>,;
+<sg>take on faith, take as a given</sg>,;
+<sg>assume (supposition) 514</sg>,;
+<sg>pervert, quibble</sg>,;
+<sg>equivocate, mystify, evade, elude</sg>,;
+<sg>gloss over, varnish</sg>,;
+<sg>misteach ,<cref> 538 <i>supposition</i></cref></sg>,;
+<sg>mislead ,<cref>495 <i>error</i></cref></sg>,;
+<sg>cavil, refine, subtilize, split hairs</sg>,;
+<sg>misrepresent ,<cref>544 <i>lie</i></cref></sg>,;
+<sg>beg the question, reason in a circle, reason in circles, assume the conclusion</sg>,;
+<sg>cut blocks with a razor, beat about the bush, play fast and loose, play fast and loose with the facts, blow hot and cold, prove that black is white and white black, travel out of the record, parler a tort et a travers, put oneself out of court, not have a leg to stand on</sg>,;
+<sg>judge hastily, shoot from the hip, jump to conclusions (misjudgment) 481</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>intuitive, instinctive, impulsive</sg>,;
+<sg>independent of reason, anterior to reason</sg>,;
+<sg>gratuitous, hazarded</sg>,;
+<sg>unconnected</sg>,;
+<sg>unreasonable, illogical, false, unsound, invalid</sg>,;
+<sg>unwarranted, not following</sg>,;
+<sg>inconsequent, inconsequential</sg>,;
+<sg>inconsistent</sg>,;
+<sg>absonous, absonant</sg>,;
+<sg>unscientific</sg>,;
+<sg>untenable, inconclusive, incorrect</sg>,;
+<sg>fallacious, fallible</sg>,;
+<sg>groundless, unproved</sg>,;
+<sg>non sequitur, it does not follow</sg>,;
+<sg>deceptive, sophistical, jesuitical</sg>,;
+<sg>illusive, illusory</sg>,;
+<sg>specious, hollow, plausible, ad captandum, evasive</sg>,;
+<sg>irrelevant ,<cref> 10 <i>irrelation</i></cref></sg>,;
+<sg>weak, feeble, poor, flimsy, loose, vague</sg>,;
+<sg>irrational</sg>,;
+<sg>nonsensical ,<cref>497 <i>absurd</i></cref></sg>,;
+<sg>foolish ,<cref>499 <i>imbecile</i></cref></sg>,;
+<sg>frivolous, pettifogging, quibbling</sg>,;
+<sg>finespun, overrefined</sg>,;
+<sg>at the end of one's tether, au bout de son latin</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>intuitively</sg>,;
+<sg>by intuition</sg>,;
+<sg>illogically</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>non constat</sg>,;
+<sg>that goes for nothing</sg>,;
+<br>
+</paragraph>

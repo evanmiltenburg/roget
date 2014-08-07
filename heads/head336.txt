@@ -1,0 +1,32 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#14#</sectionNumber>
+<headword>#<b>#[001] #336# Elasticity #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>elasticity, </i>springiness, spring, resilience, renitency, buoyancy</sg>,;
+<sg>rubber, India rubber, Indian rubber, latex, caoutchouc, whalebone, gum elastic, baleen, natural rubber</sg>,;
+<sg>neoprene, synthetic rubber, Buna- S, plastic</sg>,;
+<sg>flexibility, Young's modulus</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>stretch, flex, extend, distend, be elastic</sg>,;
+<sg>bounce, spring back ,<cref>277 <i>recoil</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>elastic, flexible, tensile, spring, resilient, renitent, buoyant</sg>,;
+<sg>ductile, stretchable, extendable</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>the stress is proportional to the strain</sg>,;
+<br>
+</paragraph>

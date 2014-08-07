@@ -1,0 +1,48 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#5#</sectionNumber>
+<headword>#<b>#[001] #110# Infinity #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>infinity, </i>infinitude, infiniteness</sg>,;
+<sg>perpetuity ,<cref> 112 <i>neverness</i></cref></sg>,;
+<sg>boundlessness</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be infinite</sg>,;
+<sg>know no limits, have no limits, know no bounds, have no bounds</sg>,;
+<sg>go on for ever</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>infinite</sg>,;
+<sg>immense</sg>,;
+<sg>numberless, countless, sumless, measureless</sg>,;
+<sg>innumerable, immeasurable, incalculable, illimitable, inexhaustible, interminable, unfathomable, unapproachable</sg>,;
+<sg>exhaustless, indefinite</sg>,;
+<sg>without number, without measure, without limit, without end</sg>,;
+<sg>incomprehensible</sg>,;
+<sg>limitless, endless, boundless, termless</sg>,;
+<sg>untold, unnumbered, unmeasured, unbounded, unlimited</sg>,;
+<sg>illimited</sg>,;
+<sg>perpetual ,<cref> 112 <i>neverness</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>infinitely</sg>,;
+<sg>ad infinitum</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>as boundless as the sea</sg>,;
+<br>
+</paragraph>

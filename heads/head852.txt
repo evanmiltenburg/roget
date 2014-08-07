@@ -1,0 +1,61 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#34#</sectionNumber>
+<headword>#<b>#[001] #852# Cheapness #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>cheapness, </i>low price</sg>,;
+<sg>depreciation</sg>,;
+<sg>bargain</sg>,;
+<sg>good penny worth </sg>,;
+<sg>snap</sg>,;
+<sg>gratuity</sg>,;
+<sg>free quarters, free seats, free admission, pass, free pass, free warren, give-away, freebee</sg>,;
+<sg>run of one's teeth</sg>,;
+<sg>nominal price, peppercorn rent</sg>,;
+<sg>labor of love</sg>,;
+<sg>drug in the market</sg>,;
+<sg>deadhead</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be cheap</sg>,;
+<sg>cost little</sg>,;
+<sg>come down in price, fall in price</sg>,;
+<sg>buy for a mere nothing, buy for an old song</sg>,;
+<sg>have one's money's worth</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>cheap</sg>,;
+<sg>low, low priced</sg>,;
+<sg>moderate, reasonable</sg>,;
+<sg>inexpensive, unexpensive</sg>,;
+<sg>well worth the money, worth the money</sg>,;
+<sg>magnifique et pas cher</sg>,;
+<sg>good at the price, cheap at the price</sg>,;
+<sg>dirt cheap, dog cheap</sg>,;
+<sg>cheap, cheap as dirt, cheap and nasty</sg>,;
+<sg>catchpenny</sg>,;
+<sg>discounted ,<cref> 813 <i>property</i></cref></sg>,;
+<sg>half-price, depreciated, unsalable</sg>,;
+<sg>gratuitous, gratis, free, for nothing</sg>,;
+<sg>costless, expenseless</sg>,;
+<sg>without charge, not charged, untaxed</sg>,;
+<sg>scotfree, shotfree, rent-free</sg>,;
+<sg>free of cost, free of expense</sg>,;
+<sg>honorary, unbought, unpaid</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>for a mere song, for a song</sg>,;
+<sg>at cost, at cost price, at prime cost, at a reduction</sg>,;
+<sg>a bon marche</sg>,;
+<br>
+</paragraph>

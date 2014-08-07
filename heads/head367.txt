@@ -1,0 +1,23 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#14#</sectionNumber>
+<headword>#<b>#[001] #367# Oil #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>oil, </i>fat, butter, cream, grease, tallow, suet, lard, dripping exunge, blubber</sg>,;
+<sg>glycerin, stearin, elaine, oleagine</sg>,;
+<sg>soap</sg>,;
+<sg>soft soap, wax, cerement</sg>,;
+<sg>paraffin, spermaceti, adipocere</sg>,;
+<sg>petroleum, mineral, mineral rock, mineral crystal, mineral oil</sg>,;
+<sg>vegetable oil, colza oil, olive oil, salad oil, linseed oil, cottonseed oil, soybean oil, nut oil</sg>,;
+<sg>animal oil, neat's foot oil, train oil</sg>,;
+<sg>ointment, unguent, liniment</sg>,;
+<sg>aceite, amole, Barbados tar</sg>,;
+<sg>fusel oil, grain oil, rape oil, seneca oil</sg>,;
+<sg>hydrate of amyl, ghee</sg>,;
+<sg>heating oil, #2 oil, No</sg>,;
+<sg>2 oil, distillate, residual oils, kerosene, jet fuel, gasoline, naphtha</sg>,;
+<sg>stearin</sg>,;
+<br>
+</paragraph>

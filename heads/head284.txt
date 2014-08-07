@@ -1,0 +1,84 @@
+<classNumber>#2#</classNumber>
+<sectionNumber>#12#</sectionNumber>
+<headword>#<b>#[001] #284# Ship #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>ship, </i>vessel, sail</sg>,;
+<sg>craft, bottom</sg>,;
+<sg>navy, marine, fleet, flotilla</sg>,;
+<sg>shipping</sg>,;
+<sg>man of war ,<cref>726 <i>combatant</i></cref></sg>,;
+<sg>transport, tender, storeship</sg>,;
+<sg>merchant ship, merchantman</sg>,;
+<sg>packet, liner</sg>,;
+<sg>whaler, slaver, collier, coaster, lighter</sg>,;
+<sg>fishing boat, pilot boat</sg>,;
+<sg>trawler, hulk</sg>,;
+<sg>yacht</sg>,;
+<sg>baggala</sg>,;
+<sg>floating hotel, floating palace</sg>,;
+<sg>ocean greyhound</sg>,;
+<sg>ship, bark, barque, brig, snow, hermaphrodite brig</sg>,;
+<sg>brigantine, barkantine</sg>,;
+<sg>schooner</sg>,;
+<sg>topsail schooner, for and aft schooner, three masted schooner</sg>,;
+<sg>chasse-maree</sg>,;
+<sg>sloop, cutter, corvette, clipper, foist, yawl, dandy, ketch, smack, lugger, barge, hoy, cat, buss</sg>,;
+<sg>sailer, sailing vessel</sg>,;
+<sg>windjammer</sg>,;
+<sg>steamer, steamboat, steamship, liner, ocean liner, cruiseship, ship of the line</sg>,;
+<sg>mail steamer, paddle steamer, screw steamer</sg>,;
+<sg>tug</sg>,;
+<sg>line of steamers </sg>,;
+<sg>destroyer, cruiser, frigate</sg>,;
+<sg>landing ship, LST</sg>,;
+<sg>aircraft carrier, carrier, flattop, nuclear powered carrier</sg>,;
+<sg>submarine, submersible, atomic submarine</sg>,;
+<sg>boat, pinnace, launch</sg>,;
+<sg>life boat, long boat, jolly boat, bum boat, fly boat, cock boat, ferry boat, canal boat</sg>,;
+<sg>swamp boat, ark, bully, battery, bateau, broadhorn, dory, droger, drogher</sg>,;
+<sg>dugout, durham boat, flatboat, galiot</sg>,;
+<sg>shallop, gig, funny, skiff, dingy, scow, cockleshell, wherry, coble, punt, cog, kedge, lerret</sg>,;
+<sg>eight oar, four oar, pair oar</sg>,;
+<sg>randan</sg>,;
+<sg>outrigger</sg>,;
+<sg>float, raft, pontoon</sg>,;
+<sg>prame</sg>,;
+<sg>iceboat, ice canoe, ice yacht</sg>,;
+<sg>catamaran, hydroplane, hovercraft, coracle, gondola, carvel, caravel</sg>,;
+<sg>felucca, caique, canoe, birch bark canoe, dugout canoe</sg>,;
+<sg>galley, galleyfoist</sg>,;
+<sg>bilander, dogger, hooker, howker</sg>,;
+<sg>argosy, carack</sg>,;
+<sg>galliass, galleon</sg>,;
+<sg>polacca, polacre, tartane, junk, lorcha, praam, proa, prahu, saick, sampan, xebec, dhow</sg>,;
+<sg>dahabeah</sg>,;
+<sg>nuggah</sg>,;
+<sg>kayak, keel boat, log canoe, pirogue</sg>,;
+<sg>quadrireme, trireme</sg>,;
+<sg>stern-wheeler</sg>,;
+<sg>wanigan, wangan, wharf boat</sg>,;
+<sg>balloon</sg>,;
+<sg>airship, aeroplane</sg>,;
+<sg>biplane, monoplane, triplane</sg>,;
+<sg>hydroplane</sg>,;
+<sg>aerodrome</sg>,;
+<sg>air balloon, pilot balloon, fire balloon, dirigible, zeppelin</sg>,;
+<sg>aerostat, Montgolfier</sg>,;
+<sg>kite, parachute</sg>,;
+<sg>jet plane, rocket plane, jet liner, turbojet, prop-jet, propeller plane</sg>,;
+<sg>corporate plane, corporate jet, private plane, private aviation</sg>,;
+<sg>airline, common carrier</sg>,;
+<sg>fighter, bomber, fighter-bomber, escort plane, spy plane</sg>,;
+<sg>supersonic aircraft, subsonic aircraft</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>afloat, aboard</sg>,;
+<sg>on board, on ship board</sg>,;
+<sg>hard a lee, hard a port, hard a starboard, hard a weather</sg>,;
+<br>
+</paragraph>

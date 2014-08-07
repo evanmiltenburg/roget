@@ -1,0 +1,69 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#31#</sectionNumber>
+<headword>#<b>#[001] #773# Disobedience #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>disobedience, </i>insubordination, contumacy</sg>,;
+<sg>infraction, infringement</sg>,;
+<sg>violation, noncompliance</sg>,;
+<sg>nonobservance ,<cref> 773 <i>disobedience</i></cref></sg>,;
+<sg>revolt, rebellion, mutiny, outbreak, rising, uprising, insurrection, emeute</sg>,;
+<sg>riot, tumult ,<cref>59 <i>disorder</i></cref></sg>,;
+<sg>strike ,<cref>719 <i>resistance</i></cref></sg>,;
+<sg>barring out</sg>,;
+<sg>defiance ,<cref> 715 <i>exertion</i></cref></sg>,;
+<sg>mutinousness</sg>,;
+<sg>mutineering</sg>,;
+<sg>sedition, treason</sg>,;
+<sg>high treason, petty treason, misprision of treason</sg>,;
+<sg>premunire</sg>,;
+<sg>lese majeste</sg>,;
+<sg>violation of law ,<cref> 964 <i>wrong</i></cref></sg>,;
+<sg>defection, secession</sg>,;
+<sg>insurgent, mutineer, rebel, revolter, revolutionary, rioter, traitor, quisling, carbonaro, sansculottes, red republican, bonnet rouge, communist, Fenian, frondeur</sg>,;
+<sg>seceder, secessionist, runagate, renegade, brawler, anarchist, demagogue</sg>,;
+<sg>Spartacus, Masaniello, Wat Tyler, Jack Cade</sg>,;
+<sg>ringleader</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>disobey, violate, infringe</sg>,;
+<sg>shirk</sg>,;
+<sg>set at defiance ,<cref>715 <i>defy</i></cref></sg>,;
+<sg>set authority at naught, run riot, fly in the face of</sg>,;
+<sg>take the law into one's own hands</sg>,;
+<sg>kick over the traces</sg>,;
+<sg>turn restive, run restive</sg>,;
+<sg>champ the bit</sg>,;
+<sg>strike ,<cref>719 <i>resist</i></cref></sg>,;
+<sg>rise, rise in arms</sg>,;
+<sg>secede</sg>,;
+<sg>mutiny, rebel</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>disobedient</sg>,;
+<sg>uncomplying, uncompliant</sg>,;
+<sg>unsubmissive, unruly, ungovernable</sg>,;
+<sg>breachy, insubordinate, impatient of control, incorrigible</sg>,;
+<sg>restiff, restive</sg>,;
+<sg>refractory, contumacious, recusant ,<cref>764 <i>refuse</i></cref></sg>,;
+<sg>recalcitrant</sg>,;
+<sg>resisting ,<cref> 719 <i>agent</i></cref></sg>,;
+<sg>lawless, mutinous, seditions, insurgent, riotous</sg>,;
+<sg>unobeyed</sg>,;
+<sg>unbidden</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>seditiosissimus quisque ignavus</sg>,;
+<sg>unthread the rude eye of rebellion</sg>,;
+<br>
+</paragraph>

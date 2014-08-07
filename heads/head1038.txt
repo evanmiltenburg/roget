@@ -1,0 +1,23 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#39#</sectionNumber>
+<headword>#<b>#[001] #1038# Sorcerer #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>sorcerer, </i>magician</sg>,;
+<sg>thaumaturgist, theurgist</sg>,;
+<sg>conjuror, necromancer, seer, wizard, witch</sg>,;
+<sg>hoodoo, voodoo</sg>,;
+<sg>fairy ,<cref> 980 <i>accusation</i></cref></sg>,;
+<sg>lamia, hag</sg>,;
+<sg>warlock, charmer, exorcist, mage</sg>,;
+<sg>cunning man, medicine man</sg>,;
+<sg>Shaman, figure flinger, ecstatica</sg>,;
+<sg>medium, clairvoyant, fortune teller</sg>,;
+<sg>mesmerist</sg>,;
+<sg>deus ex machina</sg>,;
+<sg>soothsayer ,<cref> 513 <i>dissent</i></cref></sg>,;
+<sg>Katerfelto, Cagliostro, Mesmer, Rosicrucian</sg>,;
+<sg>Circe, siren, weird sisters</sg>,;
+<br>
+</paragraph>

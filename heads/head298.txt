@@ -1,0 +1,40 @@
+<classNumber>#2#</classNumber>
+<sectionNumber>#12#</sectionNumber>
+<headword>#<b>#[001] #298# Recession #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>recession, </i>retirement, withdrawal</sg>,;
+<sg>retreat</sg>,;
+<sg>retrocession ,<cref> 283 <i>vehicle</i></cref></sg>,;
+<sg>departure, ,<cref> 293 <i>progression</i></cref></sg>,;
+<sg>recoil ,<cref> 277 <i>journey</i></cref></sg>,;
+<sg>flight ,<cref>623 <i>avoidance</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>recede, go, move back, move from, retire</sg>,;
+<sg>withdraw, shrink, back off</sg>,;
+<sg>come away, move away, back away, go away, get away, drift away</sg>,;
+<sg>depart ,<cref> 293 <i>progression</i></cref></sg>,;
+<sg>retreat ,<cref> 283 <i>vehicle</i></cref></sg>,;
+<sg>move off, stand off, sheer off</sg>,;
+<sg>fall back, stand aside</sg>,;
+<sg>run away ,<cref>623 <i>avoid</i></cref></sg>,;
+<sg>remove, shunt, distance</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>receding</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>distance oneself from a person</sg>,;
+<br>
+</paragraph>

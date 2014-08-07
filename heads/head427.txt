@@ -1,0 +1,39 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#15#</sectionNumber>
+<headword>#<b>#[001] #427# Sibilation #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>sibilance, sibilation</sg>,;
+<sg>zip</sg>,;
+<sg>hiss</sg>,;
+<sg>sternutation</sg>,;
+<sg>high note ,<cref> 410 <i>savoriness</i></cref></sg>,;
+<sg>goose, serpent, snake (animal sounds) 412</sg>,;
+<sg>insect, bug</sg>,;
+<sg>bee, mosquito, wasp, fly</sg>,;
+<sg>tea kettle, pressure cooker</sg>,;
+<sg>air valve, pressure release valve, safety valve, tires, air escaping from tires, punctured tire</sg>,;
+<sg>escaping steam, steam, steam radiator, steam release valve</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>hiss, buzz, whiz, rustle</sg>,;
+<sg>fizz, fizzle</sg>,;
+<sg>wheeze, whistle, snuffle</sg>,;
+<sg>squash</sg>,;
+<sg>sneeze</sg>,;
+<sg>sizzle, swish</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>sibilant</sg>,;
+<sg>hissing</sg>,;
+<sg>wheezy</sg>,;
+<sg>sternutative</sg>,;
+<br>
+</paragraph>

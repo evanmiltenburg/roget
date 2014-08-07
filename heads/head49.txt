@@ -1,0 +1,49 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#3#</sectionNumber>
+<headword>#<b>#[001] #49# Coherence #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>coherence, </i>adherence, adhesion, adhesiveness</sg>,;
+<sg>concretion accretion</sg>,;
+<sg>conglutination, agglutination, agglomeration</sg>,;
+<sg>aggregation</sg>,;
+<sg>consolidation, set, cementation</sg>,;
+<sg>sticking, soldering</sg>,;
+<sg>connection</sg>,;
+<sg>dependence</sg>,;
+<sg>tenacity, toughness</sg>,;
+<sg>stickiness ,<cref> 352 <i>ocean</i></cref></sg>,;
+<sg>inseparability, inseparableness</sg>,;
+<sg>bur, remora</sg>,;
+<sg>conglomerate, concrete ,<cref>321 <i>density</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>cohere, adhere, stick, cling, cleave, hold, take hold of, hold fast, close with, clasp, hug</sg>,;
+<sg>grow together, hang together</sg>,;
+<sg>twine round ,<cref>43 <i>join</i></cref></sg>,;
+<sg>stick like a leech, stick like wax</sg>,;
+<sg>stick close</sg>,;
+<sg>cling like ivy, cling like a bur</sg>,;
+<sg>adhere like a remora, adhere like Dejanira's shirt</sg>,;
+<sg>glue</sg>,;
+<sg>agglutinate, conglutinate</sg>,;
+<sg>cement, lute, paste, gum</sg>,;
+<sg>solder, weld</sg>,;
+<sg>cake, consolidate ,<cref>321 <i>solidify</i></cref></sg>,;
+<sg>agglomerate</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>cohesive, adhesive, adhering, cohering</sg>,;
+<sg>tenacious, tough</sg>,;
+<sg>sticky ,<cref> 352 <i>ocean</i></cref></sg>,;
+<sg>united, unseparated, unsessile, inseparable, inextricable, infrangible</sg>,;
+<sg>compact ,<cref>321 <i>dense</i></cref></sg>,;
+<br>
+</paragraph>

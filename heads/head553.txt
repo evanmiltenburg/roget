@@ -1,0 +1,36 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#24#</sectionNumber>
+<headword>#<b>#[001] #553# Correction #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>correction</i></sg>,;
+<sg>disillusionment ,<cref> 616 <i>writing</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>correct, set right, set straight, put straight</sg>,;
+<sg>undeceive</sg>,;
+<sg>enlighten</sg>,;
+<sg>show one one's error</sg>,;
+<sg>point out an error, point out a fallacy</sg>,;
+<sg>pick out an error, pick out the fallacy</sg>,;
+<sg>open one's eyes</sg>,;
+<sg>pick apart an argument, confutation ,<cref> 479 <i>care</i></cref></sg>,;
+<sg>reasoning ,<cref> 476 <i>incuriosity</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>corrective</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>I stand corrected</sg>,;
+<br>
+</paragraph>

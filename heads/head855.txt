@@ -1,0 +1,40 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#34#</sectionNumber>
+<headword>#<b>#[001] #855# Greed #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>greed, </i>covetousness, ravenousness</sg>,;
+<sg>venality, avidity, cupidity</sg>,;
+<sg>acquisitiveness (acquisition) 775</sg>,;
+<sg>desire ,<cref> 865 <i>pleasure</i></cref></sg>,;
+<sg>greed, greediness, avarice, avidity, rapacity, extortion</sg>,;
+<sg>selfishness ,<cref> 943 <i>marriage</i></cref></sg>,;
+<sg>auri sacra fames</sg>,;
+<sg>grasping, craving, canine appetite, rapacity</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>covet, crave (desire) 865</sg>,;
+<sg>grasp</sg>,;
+<sg>exact, extort</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>greedy, avaricious, covetous, acquisitive, grasping</sg>,;
+<sg>rapacious</sg>,;
+<sg>lickerish</sg>,;
+<sg>greedy as a hog</sg>,;
+<sg>overeager</sg>,;
+<sg>voracious</sg>,;
+<sg>ravenous, ravenous as a wolf</sg>,;
+<sg>openmouthed, extortionate, exacting, sordid, alieni appetens</sg>,;
+<sg>insatiable, insatiate</sg>,;
+<sg>unquenchable, quenchless</sg>,;
+<sg>omnivorous</sg>,;
+<br>
+</paragraph>

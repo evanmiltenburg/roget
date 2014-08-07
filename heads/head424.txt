@@ -1,0 +1,47 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#15#</sectionNumber>
+<headword>#<b>#[001] #424# Roll #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>roll</i></sg>,;
+<sg>drumming</sg>,;
+<sg>berloque, bombination, rumbling</sg>,;
+<sg>tattoo, drumroll</sg>,;
+<sg>dingdong</sg>,;
+<sg>tantara</sg>,;
+<sg>rataplan</sg>,;
+<sg>whirr</sg>,;
+<sg>ratatat, ratatat-tat</sg>,;
+<sg>rubadub</sg>,;
+<sg>pitapat</sg>,;
+<sg>quaver, clutter, charivari, racket</sg>,;
+<sg>cuckoo</sg>,;
+<sg>repetition ,<cref> 104 <i>plurality </i></cref></sg>,;
+<sg>peal of bells, devil's tattoo</sg>,;
+<sg>reverberation ,<cref> 408 <i>bitterness</i></cref></sg>,;
+<sg>clickety-clack</sg>,;
+<sg>hum, purr</sg>,;
+<sg>hummingbird</sg>,;
+<sg>cat, kitten (animal sounds) 412</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>roll, drum, rumble, rattle, clatter, patter, clack</sg>,;
+<sg>bombinate</sg>,;
+<sg>hum, trill, shake</sg>,;
+<sg>chime, peal, toll</sg>,;
+<sg>tick, beat</sg>,;
+<sg>drum in the ear, din in the ear</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>rolling</sg>,;
+<sg>monotonous ,<cref>104 <i>repeated</i></cref></sg>,;
+<sg>like a bee in a bottle</sg>,;
+<br>
+</paragraph>

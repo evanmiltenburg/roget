@@ -1,0 +1,26 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#6#</sectionNumber>
+<headword>#<b>#[001] #136# Veteran #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>veteran, </i>old man, seer, patriarch, graybeard</sg>,;
+<sg>grandfather, grandsire</sg>,;
+<sg>grandam</sg>,;
+<sg>gaffer, gammer</sg>,;
+<sg>crone</sg>,;
+<sg>pantaloon</sg>,;
+<sg>sexagenarian, octogenarian, nonagenarian, centenarian</sg>,;
+<sg>old stager</sg>,;
+<sg>dotard ,<cref> 501 <i>demonstration</i></cref></sg>,;
+<sg>preadamite, Methuselah, Nestor, old Parr</sg>,;
+<sg>elders</sg>,;
+<sg>forefathers ,<cref>166 <i>paternity</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>superfluous lags the veteran on the stage</sg>,;
+<br>
+</paragraph>

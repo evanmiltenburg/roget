@@ -1,0 +1,58 @@
+<classNumber>#2#</classNumber>
+<sectionNumber>#12#</sectionNumber>
+<headword>#<b>#[001] #295# Propulsion #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>propulsion, </i>projection</sg>,;
+<sg>propelment</sg>,;
+<sg>vis a tergo, force from behind</sg>,;
+<sg>push, shove ,<cref>276 <i>impulse</i></cref></sg>,;
+<sg>ejaculate</sg>,;
+<sg>ejection ,<cref> 297 <i>approach</i></cref></sg>,;
+<sg>throw, fling, toss, shot, discharge, shy</sg>,;
+<sg>launch, release</sg>,;
+<sg>projectiles, ballistics, archery</sg>,;
+<sg>propeller, screw, twin screws, turbine, jet engine</sg>,;
+<sg>missile, projectile, ball, discus, quoit, brickbat, shot</sg>,;
+<sg>arrow, gun, ballista ,<cref>727 <i>arms</i></cref></sg>,;
+<sg>countdown, windup</sg>,;
+<sg>shooter</sg>,;
+<sg>shot</sg>,;
+<sg>archer, toxophilite</sg>,;
+<sg>bowman, rifleman, marksman</sg>,;
+<sg>good shot, crack shot</sg>,;
+<sg>sharpshooter ,<cref>726 <i>combatant</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>propel, project, throw, fling, cast, pitch, chuck, toss, jerk, heave, shy, hurl</sg>,;
+<sg>flirt, fillip</sg>,;
+<sg>dart, lance, tilt</sg>,;
+<sg>ejaculate, jaculate</sg>,;
+<sg>fulminate, bolt, drive, sling, pitchfork</sg>,;
+<sg>send</sg>,;
+<sg>send off, let off, fire off</sg>,;
+<sg>discharge, shoot</sg>,;
+<sg>launch, release, send forth, let fly</sg>,;
+<sg>put in orbit, send into orbit, launch into orbit dash</sg>,;
+<sg>put in motion, set in motion</sg>,;
+<sg>set agoing, start</sg>,;
+<sg>give a start, give an impulse to</sg>,;
+<sg>impel ,<cref> 276 <i>quiescence</i></cref></sg>,;
+<sg>trundle ,<cref>312 <i>set in rotation</i></cref></sg>,;
+<sg>expel ,<cref> 297 <i>approach</i></cref></sg>,;
+<sg>carry one off one's legs</sg>,;
+<sg>put to flight</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>propelled</sg>,;
+<sg>propelling</sg>,;
+<sg>propulsive, projectile</sg>,;
+<br>
+</paragraph>

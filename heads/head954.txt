@@ -1,0 +1,66 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#37#</sectionNumber>
+<headword>#<b>#[001] #954# Pity #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>pity, </i>compassion, commiseration</sg>,;
+<sg>bowels, of compassion</sg>,;
+<sg>sympathy, fellow-feeling, tenderness, yearning, forbearance, humanity, mercy, clemency</sg>,;
+<sg>leniency ,<cref>740 <i>lenity</i></cref></sg>,;
+<sg>charity, ruth, long- suffering</sg>,;
+<sg>melting mood</sg>,;
+<sg>argumentum ad misericordiam, quarter, grace, locus paenitentiae</sg>,;
+<sg>sympathizer</sg>,;
+<sg>advocate, friend, partisan, patron, wellwisher</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>pity</sg>,;
+<sg>have pity, show pity, take pity</sg>,;
+<sg>commiserate, compassionate</sg>,;
+<sg>condole ,<cref> 915 <i>commonalty</i></cref></sg>,;
+<sg>sympathize</sg>,;
+<sg>feel for, be sorry for, yearn for</sg>,;
+<sg>weep, melt, thaw, enter into the feelings of</sg>,;
+<sg>forbear, relent, relax, give quarter, wipe the tears, parcere subjectis, give a coup de gr=ace, put out of one's misery</sg>,;
+<sg>raise pity, excite pity</sg>,;
+<sg>touch, soften</sg>,;
+<sg>melt, melt the heart</sg>,;
+<sg>propitiate, disarm</sg>,;
+<sg>ask for mercy</sg>,;
+<sg>supplicate ,<cref>765 <i>request</i></cref></sg>,;
+<sg>cry for quarter, beg one's life, kneel</sg>,;
+<sg>deprecate</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>pitying</sg>,;
+<sg>pitiful, compassionate, sympathetic, touched</sg>,;
+<sg>merciful, clement, ruthful</sg>,;
+<sg>humane</sg>,;
+<sg>humanitarian ,<cref>910 <i>philanthropic</i></cref></sg>,;
+<sg>tender, tender hearted, tender as a chicken</sg>,;
+<sg>soft, soft hearted</sg>,;
+<sg>unhardened</sg>,;
+<sg>lenient ,<cref> 740 <i>auxiliary</i></cref></sg>,;
+<sg>exorable, forbearing</sg>,;
+<sg>melting</sg>,;
+<sg>weak</sg>,;
+<sg>Int</sg>,;
+<sg>for pity's sake!, mercy!, have mercy!, cry you mercy!, God help you!, poor thing!, poor dear!, poor fellow!, woe betide!, quis talia fando temperet a lachrymiss!</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>one's heart bleeding for</sg>,;
+<sg>haud ignara mali miseris succurrere disco</sg>,;
+<sg>a fellow feeling makes one wondrous kind</sg>,;
+<sg>onor di bocca assai giova e poco costa</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,42 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#8#</sectionNumber>
+<headword>#<b>#[001] #186# Concurrence #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>concurrence, </i>cooperation, coagency</sg>,;
+<sg>union</sg>,;
+<sg>agreement ,<cref> 23 <i>copy</i></cref></sg>,;
+<sg>consilience</sg>,;
+<sg>consent, coincidence ,<cref>488 <i>assent</i></cref></sg>,;
+<sg>alliance</sg>,;
+<sg>concert, additivity, synergy ,<cref> 709 <i>action</i></cref></sg>,;
+<sg>partnership ,<cref> 712 <i>inactivity</i></cref></sg>,;
+<sg>common cause</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>concur, conduce, conspire, contribute</sg>,;
+<sg>agree, unite</sg>,;
+<sg>hang together, pull together, join forces, make common cause</sg>,;
+<sg>,<cref>709 <i>cooperate</i></cref></sg>,;
+<sg>help to ,<cref>707 <i>aid</i></cref></sg>,;
+<sg>keep pace with, run parallel</sg>,;
+<sg>go with, go along with, go hand in hand with, coincide</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>concurring</sg>,;
+<sg>concurrent, in alliance with, banded together, of one mind, at one with, coinciding</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>with one consent</sg>,;
+<br>
+</paragraph>

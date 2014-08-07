@@ -1,0 +1,158 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#34#</sectionNumber>
+<headword>#<b>#[001] #835# Money #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>money, </i>legal tender</sg>,;
+<sg>money matters, money market</sg>,;
+<sg>finance</sg>,;
+<sg>accounts ,<cref> 811 <i>participation</i></cref></sg>,;
+<sg>funds, treasure</sg>,;
+<sg>capital, stock</sg>,;
+<sg>assets ,<cref>780 <i>property</i></cref></sg>,;
+<sg>wealth ,<cref> 803 <i>security</i></cref></sg>,;
+<sg>supplies, ways and means, wherewithal, sinews of war, almighty dollar, needful, cash</sg>,;
+<sg>mammon</sg>,;
+<sg>dough, cabbage</sg>,;
+<sg>money-like instruments, M1, M2, sum, amount</sg>,;
+<sg>balance, balance sheet</sg>,;
+<sg>sum total</sg>,;
+<sg>proceeds ,<cref>810 <i>receipts</i></cref></sg>,;
+<sg>currency, circulating medium, specie, coin, piece, hard cash, cold cash</sg>,;
+<sg>dollar, sterling coin</sg>,;
+<sg>pounds shillings and pence</sg>,;
+<sg>Ls</sg>,;
+<sg>d</sg>,;
+<sg>pocket, breeches pocket, purse</sg>,;
+<sg>money in hand, cash at hand</sg>,;
+<sg>ready money, ready cash</sg>,;
+<sg>slug, wad  wad of bills, wad of money, thick wad of bills, roll of dough</sg>,;
+<sg>rhino, blunt, dust, mopus, tin, salt, chink</sg>,;
+<sg>argent comptant</sg>,;
+<sg>bottom dollar, buzzard dollar</sg>,;
+<sg>checks, dibs</sg>,;
+<sg>double eagle, eagle</sg>,;
+<sg>Federal currency, fractional currency, postal currency</sg>,;
+<sg>Federal Reserve Note, United States Note, silver certificate, gold certificate</sg>,;
+<sg>long bit, short bit</sg>,;
+<sg>moss, nickel, pile, pin money, quarter, red cent, roanoke, rock</sg>,;
+<sg>seawan, seawant</sg>,;
+<sg>thousand dollars, grand</sg>,;
+<sg>single, one-dollar bill</sg>,;
+<sg>two- dollar bill</sg>,;
+<sg>five-dollar bill, fiver, fin, Lincoln</sg>,;
+<sg>ten-dollar bill, sawbuck</sg>,;
+<sg>twenty-dollar bill, Jackson, double sawbuck</sg>,;
+<sg>fifty-dollar bill</sg>,;
+<sg>hundred-dollar bill, C-note</sg>,;
+<sg>penny, cent, Lincoln cent, indian head penny, copper</sg>,;
+<sg>two-cent piece three-cent piece, half- dime, nickel, buffalo nickel, V nickel, dime, disme, mercury dime, quarter, two bits, half dollar, dollar, silver dollar, Eisenhower dollar, Susan B</sg>,;
+<sg>Anthony dollar</sg>,;
+<sg>precious metals, gold, silver, copper, bullion, ingot, nugget</sg>,;
+<sg>petty cash, pocket money, change, small change, small coin, doit, stiver, rap, mite, farthing, sou, penny, shilling, tester, groat, guinea</sg>,;
+<sg>rouleau</sg>,;
+<sg>wampum</sg>,;
+<sg>good sum, round sum, lump sum</sg>,;
+<sg>power of money, plum, lac of rupees</sg>,;
+<sg>major coin, crown</sg>,;
+<sg>minor coin</sg>,;
+<sg>monetarist, monetary theory</sg>,;
+<sg>numismatics, chrysology</sg>,;
+<sg>numismatist</sg>,;
+<sg>paper money, greenback</sg>,;
+<sg>major denomination, minor denomination</sg>,;
+<sg>money order, postal money order, Post Office order</sg>,;
+<sg>bank note</sg>,;
+<sg>bond</sg>,;
+<sg>bill, bill of exchange</sg>,;
+<sg>order, warrant, coupon, debenture, exchequer bill, assignat</sg>,;
+<sg>blueback, hundi, shinplaster</sg>,;
+<sg>note, note of hand</sg>,;
+<sg>promissory note, I O U</sg>,;
+<sg>draft, check, cheque, back-dated check</sg>,;
+<sg>negotiable order of withdrawal, NOW</sg>,;
+<sg>remittance ,<cref>807 <i>payment</i></cref></sg>,;
+<sg>credit ,<cref> 805 <i>nonobservance</i></cref></sg>,;
+<sg>liability ,<cref> 806 <i>compromise</i></cref></sg>,;
+<sg>drawer, drawee</sg>,;
+<sg>obligor, obligee</sg>,;
+<sg>moneyer, coiner</sg>,;
+<sg>false money, bad money</sg>,;
+<sg>base coin, flash note, slip, kite</sg>,;
+<sg>fancy stocks</sg>,;
+<sg>Bank of Elegance</sg>,;
+<sg>argumentum ad crumenam</sg>,;
+<sg>letter of credit</sg>,;
+<sg>circulation, multiplier effect</sg>,;
+<sg>inflation, double-digit inflation, hyperinflation, erosion of the currency, debasement of the currency</sg>,;
+<sg>deflation</sg>,;
+<sg>stagflation</sg>,;
+<sg>exchange rate, rate of exchange, floating exchange rates, fixed rates</sg>,;
+<sg>currency counter, currency exchange, bureau de change</sg>,;
+<sg>gold-backed currency, gold standard, silver standard</sg>,;
+<sg>bank account, savings account, checking account, money market account, NOW account, time deposit, deposit, demand deposit, super NOW account</sg>,;
+<sg>certificate of deposit, CD</sg>,;
+<sg>$, US$</sg>,;
+<sg>Y</sg>,;
+<sg>A$</sg>,;
+<sg>Federal Reserve Bank, central bank</sg>,;
+<sg>Federal Reserve Board, board of governors of the Federal Reserve</sg>,;
+<sg>Treasury Department</sg>,;
+<sg>Secret Service</sg>,;
+<sg>mint, bureau of engraving</sg>,;
+<sg>seigniorage</sg>,;
+<sg>counterfeit, funny money, bogus money, (falsehood) 545</sg>,;
+<sg>interest, interest rate, discount rate</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>amount to, come to, mount up to</sg>,;
+<sg>touch the pocket</sg>,;
+<sg>draw, draw upon</sg>,;
+<sg>indorse ,<cref>771 <i>security</i></cref></sg>,;
+<sg>issue, utter</sg>,;
+<sg>discount ,<cref> 813 <i>property</i></cref></sg>,;
+<sg>back</sg>,;
+<sg>demonetize, remonetize</sg>,;
+<sg>fiscalize, monetize</sg>,;
+<sg>circulate, be in circulation</sg>,;
+<sg>be out of circulation</sg>,;
+<sg>mint (coins), coin</sg>,;
+<sg>print (paper currency)</sg>,;
+<sg>inflate, deflate</sg>,;
+<sg>debase</sg>,;
+<sg>devalue, revalue</sg>,;
+<sg>circulate, put in circulation</sg>,;
+<sg>withdraw from circulation</sg>,;
+<sg>exchange currencies, change money</sg>,;
+<sg>charge interest</sg>,;
+<sg>pay interest</sg>,;
+<sg>lose interest</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>monetary, pecuniary, crumenal, fiscal, financial, sumptuary, numismatic, numismatical</sg>,;
+<sg>sterling</sg>,;
+<sg>nummary</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>barbarus ipse placet dummodo sit dives</sg>,;
+<sg>but the jingling of the guinea helps the hurt that honor feels</sg>,;
+<sg>Gelt regiert die Welt, money rules the world, money makes the world go round</sg>,;
+<sg>nervos belli pecuniam infinitam</sg>,;
+<sg>redet Geld so schweigt die Welt</sg>,;
+<sg>money is the mother's milk of politics</sg>,;
+<sg>money is the root of all evil</sg>,;
+<sg>money isn't everything</sg>,;
+<sg>as phony as a three-dollar bill</sg>,;
+<sg>don't take any wooden nickels</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,80 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#26#</sectionNumber>
+<headword>#<b>#[001] #629# Unwillingness #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>unwillingness</i></sg>,;
+<sg>indisposition, indisposedness</sg>,;
+<sg>disinclination, aversation</sg>,;
+<sg>nolleity, nolition</sg>,;
+<sg>renitence, renitency</sg>,;
+<sg>reluctance</sg>,;
+<sg>indifference ,<cref> 866 <i>pain</i></cref></sg>,;
+<sg>backwardness</sg>,;
+<sg>slowness ,<cref> 275 <i>motion</i></cref></sg>,;
+<sg>want of alacrity, want of readiness</sg>,;
+<sg>indocility ,<cref>606 <i>obstinacy</i></cref></sg>,;
+<sg>scrupulousness, scrupulosity</sg>,;
+<sg>qualms of conscience, twinge of conscience</sg>,;
+<sg>delicacy, demur, scruple, qualm, shrinking, recoil</sg>,;
+<sg>hesitation ,<cref>605 <i>irresolution</i></cref></sg>,;
+<sg>fastidiousness ,<cref> 868 <i>painfulness</i></cref></sg>,;
+<sg>averseness ,<cref>867 <i>dislike</i></cref></sg>,;
+<sg>dissent ,<cref> 489 <i>measurement</i></cref></sg>,;
+<sg>refusal ,<cref> 764 <i>adversity</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be unwilling</sg>,;
+<sg>nill</sg>,;
+<sg>dislike ,<cref> 867 <i>pleasurableness</i></cref></sg>,;
+<sg>grudge, begrudge</sg>,;
+<sg>not be able to find it in one's heart to, not have the stomach to</sg>,;
+<sg>demur, stick at, scruple, stickle</sg>,;
+<sg>hang fire, run rusty</sg>,;
+<sg>recoil, shrink, swerve</sg>,;
+<sg>hesitate ,<cref> 605 <i>inelegance</i></cref></sg>,;
+<sg>avoid ,<cref> 623 <i>poetry</i></cref></sg>,;
+<sg>oppose ,<cref> 708 <i>misuse</i></cref></sg>,;
+<sg>dissent ,<cref> 489 <i>measurement</i></cref></sg>,;
+<sg>refuse ,<cref> 764 <i>adversity</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>unwilling</sg>,;
+<sg>not in the vein, loth, loath, shy of, disinclined, indisposed, averse, reluctant, not content</sg>,;
+<sg>adverse ,<cref>708 <i>opposed</i></cref></sg>,;
+<sg>laggard, backward, remiss, slack, slow to</sg>,;
+<sg>indifferent ,<cref> 866 <i>pain</i></cref></sg>,;
+<sg>scrupulous</sg>,;
+<sg>squeamish ,<cref>868 <i>fastidious</i></cref></sg>,;
+<sg>repugnant ,<cref>867 <i>dislike</i></cref></sg>,;
+<sg>restiff, restive</sg>,;
+<sg>demurring</sg>,;
+<sg>unconsenting ,<cref>764 <i>refusing</i></cref></sg>,;
+<sg>involuntary ,<cref> 601 <i>feebleness</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>unwillingly</sg>,;
+<sg>grudgingly, with a heavy heart</sg>,;
+<sg>with a bad, with an ill grace</sg>,;
+<sg>against one's wishes, against one's will, against the grain, sore against one's wishes, sore against one's will, sore against one's grain</sg>,;
+<sg>invita Minerva</sg>,;
+<sg>a contre caeur</sg>,;
+<sg>malgre soi</sg>,;
+<sg>in spite of one's teeth, in spite of oneself</sg>,;
+<sg>nolens volens ,<cref>601 <i>necessity</i></cref></sg>,;
+<sg>perforce ,<cref> 744 <i>defiance</i></cref></sg>,;
+<sg>under protest</sg>,;
+<sg>no ,<cref> 536 <i>omen</i></cref></sg>,;
+<sg>not for the world, far be it from me</sg>,;
+<br>
+</paragraph>

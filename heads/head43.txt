@@ -1,0 +1,12 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#3#</sectionNumber>
+<headword>#<b>#[001] #43# Decrement #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>decrement, </i>discount, defect, loss, deduction</sg>,;
+<sg>afterglow</sg>,;
+<sg>eduction</sg>,;
+<sg>waste</sg>,;
+<br>
+</paragraph>

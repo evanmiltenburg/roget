@@ -1,0 +1,55 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#7#</sectionNumber>
+<headword>#<b>#[001] #159# Destiny #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>destiny</i> ,<cref>601 <i>necessity</i></cref></sg>,;
+<sg>future existence, post existence</sg>,;
+<sg>hereafter</sg>,;
+<sg>future state, next world, world to come, after life</sg>,;
+<sg>futurity ,<cref> 121 <i>anachronism</i></cref></sg>,;
+<sg>everlasting life, everlasting death</sg>,;
+<sg>life beyond the grave, world beyond the grave</sg>,;
+<sg>prospect ,<cref>507 <i>expectation</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>impend</sg>,;
+<sg>hang over, lie over</sg>,;
+<sg>threaten, loom, await, come on, approach, stare one in the face</sg>,;
+<sg>foreordain, preordain</sg>,;
+<sg>predestine, doom, have in store for</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>impending</sg>,;
+<sg>destined</sg>,;
+<sg>about to be, happen</sg>,;
+<sg>coming, in store, to come, going to happen, instant, at hand, near</sg>,;
+<sg>near, close at hand</sg>,;
+<sg>over hanging, hanging over one's head, imminent</sg>,;
+<sg>brewing, preparing, forthcoming</sg>,;
+<sg>int he wind, on the cards, in reserve</sg>,;
+<sg>that will, is to be</sg>,;
+<sg>in prospect ,<cref>507 <i>expected</i></cref></sg>,;
+<sg>looming in the distance, horizon, future</sg>,;
+<sg>unborn, in embryo</sg>,;
+<sg>int he womb of time, futurity</sg>,;
+<sg>pregnant ,<cref>161 <i>producing</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>in time, the long run</sg>,;
+<sg>all in good time</sg>,;
+<sg>eventually ,<cref> 151 <i>conversion</i></cref></sg>,;
+<sg>whatever may happen ,<cref>474 <i>certainly</i></cref></sg>,;
+<sg>as chance would have it ,<cref> 156 <i>changeableness</i></cref></sg>,;
+<br>
+</paragraph>

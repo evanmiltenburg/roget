@@ -1,0 +1,96 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#26#</sectionNumber>
+<headword>#<b>#[001] #633# Obstinacy #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>obstinacy, </i>obstinateness</sg>,;
+<sg>obstinacy, tenacity</sg>,;
+<sg>cussedness</sg>,;
+<sg>perseverance ,<cref> 604 <i>elegance</i></cref></sg>,;
+<sg>1</sg>,;
+<sg>immovability</sg>,;
+<sg>old school</sg>,;
+<sg>inflexibility ,<cref>323 <i>hardness</i></cref></sg>,;
+<sg>obduracy, obduration</sg>,;
+<sg>dogged resolution</sg>,;
+<sg>resolution ,<cref> 604 <i>elegance</i></cref></sg>,;
+<sg>ruling passion</sg>,;
+<sg>blind side</sg>,;
+<sg>self-will, contumacy, perversity</sg>,;
+<sg>pervicacy, pervicacity</sg>,;
+<sg>indocility</sg>,;
+<sg>bigotry, intolerance, dogmatism</sg>,;
+<sg>opiniatry, opiniativeness</sg>,;
+<sg>fixed idea ,<cref>481 <i>prejudgment</i></cref></sg>,;
+<sg>fanaticism, zealotry, infatuation, monomania</sg>,;
+<sg>opinionatedness opinionativeness</sg>,;
+<sg>mule</sg>,;
+<sg>opinionist, opinionatist, opiniator, opinator</sg>,;
+<sg>stickler, dogmatist</sg>,;
+<sg>bigot</sg>,;
+<sg>zealot, enthusiast, fanatic</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be obstinate</sg>,;
+<sg>stickle, take no denial, fly in the face of facts</sg>,;
+<sg>opinionate, be wedded to an opinion, hug a belief</sg>,;
+<sg>have one's own way ,<cref>600 <i>will</i></cref></sg>,;
+<sg>persist ,<cref>604 <i>persevere</i></cref></sg>,;
+<sg>1</sg>,;
+<sg>have the last word, insist on having the last word</sg>,;
+<sg>die hard, fight against destiny, not yield an inch, stand out</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>obstinate, tenacious, stubborn, obdurate, casehardened</sg>,;
+<sg>inflexible ,<cref>323 <i>hard</i></cref></sg>,;
+<sg>balky</sg>,;
+<sg>immovable, unshakable, not to be moved</sg>,;
+<sg>inert ,<cref> 172 <i>destroyer</i></cref></sg>,;
+<sg>unchangeable ,<cref> 150 <i>continuance in action</i></cref></sg>,;
+<sg>inexorable ,<cref>604 <i>determined</i></cref></sg>,;
+<sg>mulish, obstinate as a mule, pig-headed</sg>,;
+<sg>dogged</sg>,;
+<sg>sullen, sulky</sg>,;
+<sg>unmoved, uninfluenced unaffected</sg>,;
+<sg>willful, self-willed, perverse</sg>,;
+<sg>resty, restive, restiff</sg>,;
+<sg>pervicacious, wayward, refractory, unruly</sg>,;
+<sg>heady, headstrong</sg>,;
+<sg>entete</sg>,;
+<sg>contumacious</sg>,;
+<sg>crossgrained</sg>,;
+<sg>arbitrary, dogmatic, positive, bigoted</sg>,;
+<sg>prejudiced ,<cref> 481 <i>inquiry</i></cref></sg>,;
+<sg>creed- bound</sg>,;
+<sg>prepossessed, infatuated</sg>,;
+<sg>stiff-backed, stiff necked, stiff hearted</sg>,;
+<sg>hard-mouthed, hidebound</sg>,;
+<sg>unyielding</sg>,;
+<sg>impervious, impracticable, inpersuasible</sg>,;
+<sg>unpersuadable</sg>,;
+<sg>intractable, untractable</sg>,;
+<sg>incorrigible, deaf to advice, impervious to reason</sg>,;
+<sg>crotchety ,<cref> 608 <i>speech</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>obstinately</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>non possumus</sg>,;
+<sg>no surrender</sg>,;
+<sg>ils n'ont rien appris ne rien oublie</sg>,;
+<br>
+</paragraph>

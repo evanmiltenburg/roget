@@ -1,0 +1,136 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#27#</sectionNumber>
+<headword>#<b>#[001] #682# Uncleanness #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>uncleanness</i></sg>,;
+<sg>impurity</sg>,;
+<sg>immundity, immundicity</sg>,;
+<sg>impurity ,<cref> 961 <i>jealousy</i></cref></sg>,;
+<sg>defilement, contamination</sg>,;
+<sg>defoedation</sg>,;
+<sg>soilure, soiliness</sg>,;
+<sg>abomination</sg>,;
+<sg>leaven</sg>,;
+<sg>taint, tainture</sg>,;
+<sg>fetor ,<cref> 401 <i>fuel</i></cref></sg>,;
+<sg>decay</sg>,;
+<sg>putrescence, putrefaction</sg>,;
+<sg>corruption</sg>,;
+<sg>mold, must, mildew, dry rot, mucor, rubigo</sg>,;
+<sg>slovenry</sg>,;
+<sg>slovenliness</sg>,;
+<sg>squalor</sg>,;
+<sg>dowdy, drab, slut, malkin, slattern, sloven, slammerkin, slammock, slummock, scrub, draggle-tail, mudlark, dust-man, sweep</sg>,;
+<sg>beast</sg>,;
+<sg>dirt, filth, soil, slop</sg>,;
+<sg>dust, cobweb, flue</sg>,;
+<sg>smoke, soot, smudge, smut, grit, grime, raff</sg>,;
+<sg>sossle, sozzle</sg>,;
+<sg>sordes, dregs, grounds, lees</sg>,;
+<sg>argol</sg>,;
+<sg>sediment, settlement heeltap</sg>,;
+<sg>dross, drossiness</sg>,;
+<sg>mother, precipitate, scoriae, ashes, cinders</sg>,;
+<sg>recrement, slag</sg>,;
+<sg>scum, froth</sg>,;
+<sg>hogwash</sg>,;
+<sg>ditchwater, dishwater, bilgewater</sg>,;
+<sg>rinsings, cheeseparings</sg>,;
+<sg>sweepings ,<cref>645 <i>useless refuse</i></cref></sg>,;
+<sg>offscourings, outscourings</sg>,;
+<sg>off scum</sg>,;
+<sg>caput mortuum, residuum, sprue, fecula, clinker, draff</sg>,;
+<sg>scurf, scurfiness</sg>,;
+<sg>exuviae, morphea</sg>,;
+<sg>fur, furfur</sg>,;
+<sg>dandruff, tartar</sg>,;
+<sg>riffraff</sg>,;
+<sg>vermin, louse, flea, bug, chinch</sg>,;
+<sg>mud, mire, quagmire, alluvium, silt, sludge, slime, slush, slosh, sposh</sg>,;
+<sg>spawn, offal, gurry</sg>,;
+<sg>lientery</sg>,;
+<sg>garbage, carrion</sg>,;
+<sg>excreta ,<cref> 299 <i>attraction</i></cref></sg>,;
+<sg>slough, peccant humor, pus, matter, suppuration, lienteria</sg>,;
+<sg>faeces, feces, excrement, ordure, dung, crap, shit</sg>,;
+<sg>sewage, sewerage</sg>,;
+<sg>muck</sg>,;
+<sg>coprolite</sg>,;
+<sg>guano, manure, compost</sg>,;
+<sg>dunghill, colluvies, mixen, midden, bog, laystall, sink, privy, jakes</sg>,;
+<sg>toilet, john, head</sg>,;
+<sg>cess, cesspool</sg>,;
+<sg>sump, sough, cloaca, latrines, drain, sewer, common sewer</sg>,;
+<sg>Cloacina</sg>,;
+<sg>dust hole</sg>,;
+<sg>sty, pigsty, lair, den, Augean stable, sink of corruption</sg>,;
+<sg>slum, rookery</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be unclean, become unclean</sg>,;
+<sg>rot, putrefy, ferment, fester, rankle, reek</sg>,;
+<sg>stink ,<cref> 401 <i>fuel</i></cref></sg>,;
+<sg>mold, molder</sg>,;
+<sg>go bad</sg>,;
+<sg>render unclean</sg>,;
+<sg>dirt, dirty</sg>,;
+<sg>daub, blot, blur, smudge, smutch, soil, smoke, tarnish, slaver, spot, smear</sg>,;
+<sg>smirch</sg>,;
+<sg>begrease</sg>,;
+<sg>dabble, drabble, draggle, daggle</sg>,;
+<sg>spatter, slubber</sg>,;
+<sg>besmear , bemire, beslime, begrime, befoul</sg>,;
+<sg>splash, stain, distain, maculate, sully, pollute, defile, debase, contaminate, taint, leaven</sg>,;
+<sg>corrupt ,<cref>659 <i>injure</i></cref></sg>,;
+<sg>cover with dust</sg>,;
+<sg>drabble in the mud</sg>,;
+<sg>roil</sg>,;
+<sg>wallow in the mire</sg>,;
+<sg>slobber, slabber</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>dirty, filthy, grimy</sg>,;
+<sg>unclean, impure</sg>,;
+<sg>soiled</sg>,;
+<sg>not to be handled with kid gloves</sg>,;
+<sg>dusty, snuffy, smutty, sooty, smoky</sg>,;
+<sg>thick, turbid, dreggy</sg>,;
+<sg>slimy</sg>,;
+<sg>mussy</sg>,;
+<sg>slovenly, untidy, messy, uncleanly</sg>,;
+<sg>unkempt, sluttish, dowdy, draggle-tailed</sg>,;
+<sg>uncombed</sg>,;
+<sg>unscoured, unswept, unwiped, unwashed, unstrained, unpurified</sg>,;
+<sg>squalid</sg>,;
+<sg>lutose, slammocky, slummocky, sozzly</sg>,;
+<sg>nasty, coarse, foul, offensive, abominable, beastly, reeky, reechy</sg>,;
+<sg>fetid ,<cref> 401 <i>fuel</i></cref></sg>,;
+<sg>decayed, moldy, musty, mildewed, rusty, moth-eaten, mucid, rancid, weak, bad, gone bad, etercoral, lentiginous, touched, fusty, effete, reasty, rotten, corrupt, tainted, high, flyblown, maggoty</sg>,;
+<sg>putrid, putrefactive, putrescent, putrefied</sg>,;
+<sg>saprogenic, saprogenous</sg>,;
+<sg>purulent, carious, peccant</sg>,;
+<sg>fecal, feculent</sg>,;
+<sg>stercoraceous, excrementitious</sg>,;
+<sg>scurfy, scurvy, impetiginous</sg>,;
+<sg>gory, bloody</sg>,;
+<sg>rotting</sg>,;
+<sg>rotten as a pear, rotten as cheese</sg>,;
+<sg>crapulous ,<cref>954 <i>intemperate</i></cref></sg>,;
+<sg>gross ,<cref>961 <i>impure in mind</i></cref></sg>,;
+<sg>fimetarious, fimicolous</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>they that touch pitch will be defiled</sg>,;
+<br>
+</paragraph>

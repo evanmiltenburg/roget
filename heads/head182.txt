@@ -1,0 +1,73 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#8#</sectionNumber>
+<headword>#<b>#[001] #182# Influence #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>influence</i></sg>,;
+<sg>importance ,<cref> 642 <i>desuetude</i></cref></sg>,;
+<sg>weight, pressure, preponderance, prevalence, sway</sg>,;
+<sg>predominance, predominancy</sg>,;
+<sg>ascendency</sg>,;
+<sg>dominance, reign</sg>,;
+<sg>control, domination, pull</sg>,;
+<sg>authority ,<cref> 737 <i>opposition</i></cref></sg>,;
+<sg>capability ,<cref>157 <i>power</i></cref></sg>,;
+<sg>effect ,<cref> 154 <i>substitution</i></cref></sg>,;
+<sg>interest</sg>,;
+<sg>synergy (cooperation) 709</sg>,;
+<sg>footing</sg>,;
+<sg>purchase ,<cref>215 <i>support</i></cref></sg>,;
+<sg>play, leverage, vantage ground</sg>,;
+<sg>tower of strength, host in himself</sg>,;
+<sg>protection, patronage, auspices</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>have influence</sg>,;
+<sg>be influential</sg>,;
+<sg>carry weight, weigh, tell</sg>,;
+<sg>have a hold upon, magnetize, bear upon, gain a footing, work upon</sg>,;
+<sg>take root, take hold</sg>,;
+<sg>strike root in</sg>,;
+<sg>run through, pervade</sg>,;
+<sg>prevail, dominate, predominate</sg>,;
+<sg>out weigh, over weigh</sg>,;
+<sg>over-ride, over-bear</sg>,;
+<sg>gain head</sg>,;
+<sg>rage</sg>,;
+<sg>be rife</sg>,;
+<sg>spread like wildfire</sg>,;
+<sg>have the upper hand, get the upper hand, gain the upper hand, have full play, get full play, gain full play</sg>,;
+<sg>be recognized, be listened to</sg>,;
+<sg>make one's voice heard, gain a hearing</sg>,;
+<sg>play a part, play a leading part, play a leading part in</sg>,;
+<sg>take the lead, pull the strings</sg>,;
+<sg>turn the scale, throw one's weight into the scale</sg>,;
+<sg>set the fashion, lead the dance</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>influential, effective</sg>,;
+<sg>important ,<cref> 642 <i>desuetude</i></cref></sg>,;
+<sg>weighty</sg>,;
+<sg>prevailing</sg>,;
+<sg>prevalent, rife, rampant, dominant, regnant, predominant, in the ascendant, hegemonical</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>with telling effect</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>tel maure tel valet</sg>,;
+<br>
+</paragraph>

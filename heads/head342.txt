@@ -1,0 +1,32 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#14#</sectionNumber>
+<headword>#<b>#[001] #342# Friction #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>friction, </i>attrition</sg>,;
+<sg>rubbing, abrasion, scraping</sg>,;
+<sg>confrication, detrition, contrition, affriction, abrasion, arrosion, limature, frication, rub</sg>,;
+<sg>elbow grease</sg>,;
+<sg>rosin</sg>,;
+<sg>massage</sg>,;
+<sg>roughness ,<cref> 256 <i>straightness</i></cref></sg>,;
+<sg>rolling friction, sliding friction, starting friction</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>rub, scratch, scrape, scrub, slide, fray, rasp, graze, curry, scour, polish, rub out, wear down, gnaw</sg>,;
+<sg>file, grind ,<cref>330 <i>reduce to powder</i></cref></sg>,;
+<sg>set one's teeth on edge</sg>,;
+<sg>rosin</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>anatriptic</sg>,;
+<sg>attrite</sg>,;
+<br>
+</paragraph>

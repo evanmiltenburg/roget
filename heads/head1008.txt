@@ -1,0 +1,50 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#38#</sectionNumber>
+<headword>#<b>#[001] #1008# Jurisdiction #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>jurisdiction, </i>judicature, administration of justice, soc</sg>,;
+<sg>executive, commission of the peace</sg>,;
+<sg>magistracy ,<cref>737 <i>authority</i></cref></sg>,;
+<sg>judge ,<cref> 967 <i>duty</i></cref></sg>,;
+<sg>tribunal ,<cref> 966 <i>undueness</i></cref></sg>,;
+<sg>municipality, corporation, bailiwick, shrievalty</sg>,;
+<sg>lord lieutenant, sheriff, shire reeve, shrieve, constable</sg>,;
+<sg>selectman</sg>,;
+<sg>police, police force, the fuzz</sg>,;
+<sg>constabulary, bumbledom, gendarmerie</sg>,;
+<sg>officer, bailiff, tipstaff, bum-bailiff, catchpoll, beadle</sg>,;
+<sg>policeman, cop, police constable, police sergeant</sg>,;
+<sg>sbirro, alguazil, gendarme, kavass, lictor, mace bearer, huissier, bedel</sg>,;
+<sg>tithingman</sg>,;
+<sg>press gang</sg>,;
+<sg>exciseman, gauger, gager, customhouse officer, douanier</sg>,;
+<sg>coroner, edile, aedile, portreeve, paritor</sg>,;
+<sg>posse comitatus</sg>,;
+<sg>bureau, cutcherry, department, secretariat</sg>,;
+<sg>long arm of the law, extradition</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>judge, sit in judgment</sg>,;
+<sg>extradite</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>executive, administrative, municipal</sg>,;
+<sg>inquisitorial, causidical</sg>,;
+<sg>judicatory, judiciary, judicial</sg>,;
+<sg>juridical</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>coram judice</sg>,;
+<br>
+</paragraph>

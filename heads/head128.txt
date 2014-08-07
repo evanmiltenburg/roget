@@ -1,0 +1,115 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#6#</sectionNumber>
+<headword>#<b>#[001] #128# The Past #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>the past, </i>past time</sg>,;
+<sg>days of yore, times of yore, days of old, times of old, days past, times past, days gone by, times gone by</sg>,;
+<sg>bygone days</sg>,;
+<sg>old times, ancient times, former times</sg>,;
+<sg>fore time</sg>,;
+<sg>the good old days, the olden time, good old time</sg>,;
+<sg>auld lang syne</sg>,;
+<sg>eld</sg>,;
+<sg>antiquity, antiqueness, status quo</sg>,;
+<sg>time immemorial</sg>,;
+<sg>distance of time</sg>,;
+<sg>remote age, remote time</sg>,;
+<sg>remote past</sg>,;
+<sg>rust of antiquity</sg>,;
+<sg>paleontology, paleography, paleology</sg>,;
+<sg>paleozoology</sg>,;
+<sg>palaetiology, archaeology</sg>,;
+<sg>paleogeography</sg>,;
+<sg>paleoecology</sg>,;
+<sg>paleobotany</sg>,;
+<sg>paleoclimatoogy</sg>,;
+<sg>archaism, antiquarianism, medievalism, Pre-Raphaelitism</sg>,;
+<sg>paleography</sg>,;
+<sg>retrospect, retrospection, looking back, memory ,<cref> 505 <i>misjudgment</i></cref></sg>,;
+<sg>laudator temporis acti</sg>,;
+<sg>medievalist, Pre-Raphaelite</sg>,;
+<sg>antiquary, antiquarian</sg>,;
+<sg>archmologist </sg>,;
+<sg>Oldbuck, Dryasdust</sg>,;
+<sg>ancestry ,<cref>166 <i>paternity</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be past</sg>,;
+<sg>have expired</sg>,;
+<sg>, have run its course, have had its day</sg>,;
+<sg>pass</sg>,;
+<sg>pass by, go by, pass away, go away, pass off, go off</sg>,;
+<sg>lapse, blow over</sg>,;
+<sg>look back, trace back, cast the eyes back</sg>,;
+<sg>exhume</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>past, gone, gone by, over, passed away, bygone, foregone</sg>,;
+<sg>elapsed, lapsed, preterlapsed, expired, no more, run out, blown over, has-been, that has been, extinct, antediluvian, antebellum, never to return, gone with the wind, exploded, forgotten, irrecoverable</sg>,;
+<sg>obsolete ,<cref>124 <i>old</i></cref></sg>,;
+<sg>former, pristine, quondam, ci-devant, late</sg>,;
+<sg>ancestral</sg>,;
+<sg>foregoing</sg>,;
+<sg>last, latter</sg>,;
+<sg>recent, over night</sg>,;
+<sg>preterperfect, preterpluperfect</sg>,;
+<sg>looking back</sg>,;
+<sg>retrospective, retroactive</sg>,;
+<sg>archaeological</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>paleo-</sg>,;
+<sg>archaeo-</sg>,;
+<sg>formerly</sg>,;
+<sg>of old, of yore</sg>,;
+<sg>erst, whilom, erewhile, time was, ago, over</sg>,;
+<sg>in the olden time</sg>,;
+<sg>anciently, long ago, long since</sg>,;
+<sg>a long while, a long time ago</sg>,;
+<sg>years ago, yesteryear, ages ago</sg>,;
+<sg>some time ago, some time since, some time back</sg>,;
+<sg>yesterday, the day before yesterday</sg>,;
+<sg>last year, ultimo</sg>,;
+<sg>lately ,<cref>123 <i>newly</i></cref></sg>,;
+<sg>retrospectively</sg>,;
+<sg>ere now, before now, till now</sg>,;
+<sg>hitherto, heretofore</sg>,;
+<sg>no longer</sg>,;
+<sg>once, once upon a time</sg>,;
+<sg>from time immemorial, from prehistoric times</sg>,;
+<sg>in the memory of man</sg>,;
+<sg>time out of mind</sg>,;
+<sg>already, yet, up to this time</sg>,;
+<sg>ex post facto</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>time was</sg>,;
+<sg>the time has been, the time hath been</sg>,;
+<sg>you can't go home again</sg>,;
+<sg>fuimus Troes</sg>,;
+<sg>fruit Ilium</sg>,;
+<sg>hoc erat in more majorum</sg>,;
+<sg>O call back yesterday, bid time return</sg>,;
+<sg>tempi passati</sg>,;
+<sg>the eternal landscape of the past</sg>,;
+<sg>ultimus Romanorum</sg>,;
+<sg>what's past is prologue</sg>,;
+<sg>whose yesterdays look backward with a smile</sg>,;
+<sg>2</sg>,;
+<sg>Time with reference to a particular period</sg>,;
+<br>
+</paragraph>

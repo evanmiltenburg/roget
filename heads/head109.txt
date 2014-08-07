@@ -1,0 +1,86 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#5#</sectionNumber>
+<headword>#<b>#[001] #109# Repetition #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>repetition, </i>iteration, reiteration, harping, recurrence, succession, run</sg>,;
+<sg>battology, tautology</sg>,;
+<sg>monotony, tautophony</sg>,;
+<sg>rhythm ,<cref> 138 <i>earliness</i></cref></sg>,;
+<sg>diffuseness, pleonasm, redundancy</sg>,;
+<sg>chimes, repetend, echo, ritornello, burden of a song, refrain</sg>,;
+<sg>rehearsal</sg>,;
+<sg>rechauffe, rifacimento, recapitulation</sg>,;
+<sg>cuckoo ,<cref>19 <i>imitation</i></cref></sg>,;
+<sg>reverberation ,<cref> 408 <i>bitterness</i></cref></sg>,;
+<sg>drumming ,<cref>407 <i>roll</i></cref></sg>,;
+<sg>renewal ,<cref>660 <i>restoration</i></cref></sg>,;
+<sg>twice-told tale</sg>,;
+<sg>old story, old song</sg>,;
+<sg>second edition, new edition</sg>,;
+<sg>reappearance, reproduction, recursion</sg>,;
+<sg>periodicity ,<cref> 138 <i>earliness</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>repeat, iterate, reiterate, reproduce, echo, reecho, drum, harp upon, battologize, hammer, redouble</sg>,;
+<sg>recur, revert, return, reappear, recurse</sg>,;
+<sg>renew ,<cref>660 <i>restore</i></cref></sg>,;
+<sg>rehearse</sg>,;
+<sg>do over again, say over again</sg>,;
+<sg>ring the changes on</sg>,;
+<sg>harp on the same string</sg>,;
+<sg>din in the ear, drum in the ear</sg>,;
+<sg>conjugate in all its moods tenses and inflexions, begin again, go over the same ground, go the same round, never hear the last of</sg>,;
+<sg>resume, return to, recapitulate, reword</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>repeated</sg>,;
+<sg>repetitional, repetitionary</sg>,;
+<sg>recurrent, recurring</sg>,;
+<sg>ever recurring, thick coming</sg>,;
+<sg>frequent, incessant</sg>,;
+<sg>redundant, pleonastic</sg>,;
+<sg>monotonous, harping, iterative, recursive, unvaried</sg>,;
+<sg>mocking, chiming</sg>,;
+<sg>retold</sg>,;
+<sg>aforesaid, aforenamed</sg>,;
+<sg>above-mentioned, above-said</sg>,;
+<sg>habitual ,<cref> 613 <i>response</i></cref></sg>,;
+<sg>another</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>repeatedly, often, again, anew, over again, afresh, once more</sg>,;
+<sg>ding-dong, ditto, encore, de novo, bis, da capo</sg>,;
+<sg>again and again</sg>,;
+<sg>over and over, over and over again</sg>,;
+<sg>recursively</sg>,;
+<sg>many times over</sg>,;
+<sg>time and again, time after time</sg>,;
+<sg>year after year</sg>,;
+<sg>day by day </sg>,;
+<sg>many times, several times, a number of times</sg>,;
+<sg>many a time, full many a time</sg>,;
+<sg>frequently ,<cref> 136 <i>veteran</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>ecce iterum Crispinus</sg>,;
+<sg>toujours perdrix</sg>,;
+<sg>cut and come again</sg>,;
+<sg>tomorrow and tomorrow and tomorrow</sg>,;
+<sg>cantilenam eandem canis</sg>,;
+<sg>nullum est jam dictum quod non dictum sit prius</sg>,;
+<br>
+</paragraph>

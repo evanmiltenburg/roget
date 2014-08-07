@@ -1,0 +1,163 @@
+<classNumber>#2#</classNumber>
+<sectionNumber>#10#</sectionNumber>
+<headword>#<b>#[001] #235# Clothing #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>clothing, </i>investment</sg>,;
+<sg>covering ,<cref> 223 <i>pendency</i></cref></sg>,;
+<sg>dress, raiment, drapery, costume, attire, guise, toilet, toilette, trim</sg>,;
+<sg>habiliment</sg>,;
+<sg>vesture, vestment</sg>,;
+<sg>garment, garb, palliament, apparel, wardrobe, wearing apparel, clothes, things</sg>,;
+<sg>underclothes</sg>,;
+<sg>array</sg>,;
+<sg>tailoring, millinery</sg>,;
+<sg>finery ,<cref>847 <i>ornament</i></cref></sg>,;
+<sg>full dress ,<cref>882 <i>show</i></cref></sg>,;
+<sg>garniture</sg>,;
+<sg>theatrical properties</sg>,;
+<sg>outfit, equipment, trousseau</sg>,;
+<sg>uniform, regimentals</sg>,;
+<sg>continentals</sg>,;
+<sg>canonicals ,<cref> 999 <i>fasting</i></cref></sg>,;
+<sg>livery, gear, harness, turn-out, accouterment, caparison, suit, rigging, trappings, traps, slops, togs, toggery</sg>,;
+<sg>day wear, night wear, zoot suit</sg>,;
+<sg>designer clothes</sg>,;
+<sg>masquerade</sg>,;
+<sg>dishabille, morning dress, undress</sg>,;
+<sg>kimono</sg>,;
+<sg>lungi</sg>,;
+<sg>shooting-coat</sg>,;
+<sg>mufti</sg>,;
+<sg>rags, tatters, old clothes</sg>,;
+<sg>mourning, weeds</sg>,;
+<sg>duds</sg>,;
+<sg>slippers</sg>,;
+<sg>robe, tunic, paletot, habit, gown, coat, frock, blouse, toga, smock frock, claw coat, hammer coat, Prince Albert coat, sack coat, tuxedo coat, frock coat, dress coat, tail coat</sg>,;
+<sg>cloak, pall, mantle, mantlet mantua, shawl, pelisse, wrapper</sg>,;
+<sg>veil</sg>,;
+<sg>cape, tippet, kirtle, plaid, muffler, comforter, haik, huke, chlamys, mantilla, tabard, housing, horse cloth, burnoose, burnous, roquelaure</sg>,;
+<sg>houppelande</sg>,;
+<sg>surcoat, overcoat, great coat</sg>,;
+<sg>surtout, spencer</sg>,;
+<sg>mackintosh, waterproof, raincoat</sg>,;
+<sg>ulster, P-coat, dreadnought, wraprascal, poncho, cardinal, pelerine</sg>,;
+<sg>barbe, chudder, jubbah, oilskins, pajamas, pilot jacket, talma jacket, vest, jerkin, waistcoat, doublet, camisole, gabardine</sg>,;
+<sg>farthingale, kilt, jupe, crinoline, bustle, panier, skirt, apron, pinafore</sg>,;
+<sg>bloomer, bloomers</sg>,;
+<sg>chaqueta, songtag, tablier</sg>,;
+<sg>pants, trousers, trowsers</sg>,;
+<sg>breeches, pantaloons, inexpressibles, overalls, smalls, small clothes</sg>,;
+<sg>shintiyan</sg>,;
+<sg>shorts, jockey shorts, boxer shorts</sg>,;
+<sg>tights, drawers, panties, unmentionables</sg>,;
+<sg>knickers, knickerbockers</sg>,;
+<sg>philibeg, fillibeg</sg>,;
+<sg>pants suit</sg>,;
+<sg>culottes</sg>,;
+<sg>jeans, blue jeans, dungarees, denims</sg>,;
+<sg>Levis, Calvin Klein, Calvins, Bonjour, Gloria Vanderbilt</sg>,;
+<sg>headdress, headgear</sg>,;
+<sg>chapeau, crush hat, opera hat</sg>,;
+<sg>kaffiyeh</sg>,;
+<sg>sombrero, jam, tam-o-shanter, tarboosh, topi, sola topi, pagri, puggaree</sg>,;
+<sg>cap, hat, beaver hat, coonskin cap</sg>,;
+<sg>castor, bonnet, tile, wideawake, billycock, wimple</sg>,;
+<sg>nightcap, mobcap, skullcap</sg>,;
+<sg>hood, coif</sg>,;
+<sg>capote, calash</sg>,;
+<sg>kerchief, snood, babushka</sg>,;
+<sg>head, coiffure</sg>,;
+<sg>crown ,<cref>247 <i>circle</i></cref></sg>,;
+<sg>chignon, pelt, wig, front, peruke, periwig, caftan, turban, fez, shako, csako, busby</sg>,;
+<sg>kepi, forage cap, bearskin</sg>,;
+<sg>baseball cap</sg>,;
+<sg>fishing hat</sg>,;
+<sg>helmet ,<cref> 717 <i>fatigue</i></cref></sg>,;
+<sg>mask, domino</sg>,;
+<sg>body clothes</sg>,;
+<sg>linen</sg>,;
+<sg>hickory shirt</sg>,;
+<sg>shirt, sark, smock, shift, chemise</sg>,;
+<sg>night gown, negligee, dressing gown, night shirt</sg>,;
+<sg>bedgown, sac de nuit</sg>,;
+<sg>underclothes, underpants, undershirt</sg>,;
+<sg>slip, brassiere, corset, stays, corsage, corset, corselet, bodice, girdle ,<cref>247 <i>circle</i></cref></sg>,;
+<sg>stomacher</sg>,;
+<sg>petticoat, panties</sg>,;
+<sg>under waistcoat</sg>,;
+<sg>jock, athletic supporter, jockstrap</sg>,;
+<sg>sweater, jersey</sg>,;
+<sg>cardigan</sg>,;
+<sg>turtleneck, pullover</sg>,;
+<sg>sweater vest</sg>,;
+<sg>neckerchief, neckcloth</sg>,;
+<sg>tie, ruff, collar, cravat, stock, handkerchief, scarf</sg>,;
+<sg>bib, tucker</sg>,;
+<sg>boa</sg>,;
+<sg>cummerbund, rumal, rabat</sg>,;
+<sg>shoe, pump, boot, slipper, sandal, galoche, galoshes, patten, clog</sg>,;
+<sg>sneakers, running shoes, hiking boots</sg>,;
+<sg>high-low</sg>,;
+<sg>Blucher boot, wellington boot, Hessian boot, jack boot, top boot</sg>,;
+<sg>Balmoral</sg>,;
+<sg>arctics, bootee, bootikin, brogan, chaparajos</sg>,;
+<sg>chavar, chivarras, chivarros</sg>,;
+<sg>gums, larrigan, rubbers, showshoe, stogy, veldtschoen, legging, buskin, greave, galligaskin, gamache, gamashes, moccasin, gambado, gaiter, spatterdash, brogue, antigropelos</sg>,;
+<sg>stocking, hose, gaskins, trunk hose, sock</sg>,;
+<sg>hosiery</sg>,;
+<sg>glove, gauntlet, mitten, cuff, wristband, sleeve</sg>,;
+<sg>swaddling cloth, baby linen, layette</sg>,;
+<sg>ice wool</sg>,;
+<sg>taffeta</sg>,;
+<sg>pocket handkerchief, hanky, hankie</sg>,;
+<sg>clothier, tailor, milliner, costumier, sempstress, snip</sg>,;
+<sg>dressmaker, habitmaker, breechesmaker, shoemaker</sg>,;
+<sg>Crispin</sg>,;
+<sg>friseur</sg>,;
+<sg>cordwainer, cobbler, hosier, hatter</sg>,;
+<sg>draper, linen draper, haberdasher, mercer</sg>,;
+<sg>diaper, nappy</sg>,;
+<sg>disposable diaper, cloth diaper</sg>,;
+<sg>Luvs Huggies</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>invest</sg>,;
+<sg>cover ,<cref> 223 <i>pendency</i></cref></sg>,;
+<sg>envelope, lap, involve</sg>,;
+<sg>inwrap, enwrap</sg>,;
+<sg>wrap</sg>,;
+<sg>fold up, wrap up, lap up, muffle up</sg>,;
+<sg>overlap</sg>,;
+<sg>sheath, swathe, swaddle, roll up in, circumvest</sg>,;
+<sg>vest, clothe, array, dress, dight, drape, robe, enrobe, attire, apparel, accounter, rig, fit out</sg>,;
+<sg>deck ,<cref>847 <i>ornament</i></cref></sg>,;
+<sg>perk, equip, harness, caparison</sg>,;
+<sg>wear</sg>,;
+<sg>don</sg>,;
+<sg>put on, huddle on, slip on</sg>,;
+<sg>mantle</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>invested</sg>,;
+<sg>habited</sg>,;
+<sg>dighted</sg>,;
+<sg>barbed, barded</sg>,;
+<sg>clad, costume, shod, chausse</sg>,;
+<sg>en grande tenue ,<cref>882 <i>show</i></cref></sg>,;
+<sg>sartorial</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>the soul of this man is his clothes</sg>,;
+<br>
+</paragraph>

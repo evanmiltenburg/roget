@@ -1,0 +1,57 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#33#</sectionNumber>
+<headword>#<b>#[001] #801# Compact #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>compact, </i>contract, agreement, bargain</sg>,;
+<sg>affidation</sg>,;
+<sg>pact, paction</sg>,;
+<sg>bond, covenant, indenture</sg>,;
+<sg>bundobast, deal</sg>,;
+<sg>stipulation, settlement, convention</sg>,;
+<sg>compromise, cartel</sg>,;
+<sg>Protocol, treaty, concordat, Zollverein, Sonderbund, charter, Magna Charta, Progmatic Sanction, customs union, free trade region</sg>,;
+<sg>General Agreement on Tariffs and Trade, GATT</sg>,;
+<sg>most favored nation status</sg>,;
+<sg>negotiation ,<cref>794 <i>bargaining</i></cref></sg>,;
+<sg>diplomacy ,<cref>724 <i>mediation</i></cref></sg>,;
+<sg>negotiator ,<cref>758 <i>agent</i></cref></sg>,;
+<sg>ratification, completion, signature, seal, sigil, signet</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>contract, covenant, agree for</sg>,;
+<sg>engage ,<cref>768 <i>promise</i></cref></sg>,;
+<sg>treat, negotiate, stipulate, make terms</sg>,;
+<sg>bargain ,<cref>794 <i>barter</i></cref></sg>,;
+<sg>make a bargain, strike a bargain</sg>,;
+<sg>come to terms, come to an understanding</sg>,;
+<sg>compromise ,<cref> 774 <i>obedience</i></cref></sg>,;
+<sg>set at rest</sg>,;
+<sg>close, close with</sg>,;
+<sg>conclude, complete, settle</sg>,;
+<sg>confirm, ratify, clench, subscribe, underwrite</sg>,;
+<sg>endorse, indorse</sg>,;
+<sg>put the seal to</sg>,;
+<sg>sign, seal ,<cref>467 <i>attest</i></cref></sg>,;
+<sg>indent</sg>,;
+<sg>take one at one's word, bargain by inch of candle</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>agreed</sg>,;
+<sg>conventional</sg>,;
+<sg>under hand and seal</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>caveat emptor</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,39 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#37#</sectionNumber>
+<headword>#<b>#[001] #935# Congratulation #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>congratulation, </i>gratulation</sg>,;
+<sg>felicitation</sg>,;
+<sg>salute ,<cref> 894 <i>affectation</i></cref></sg>,;
+<sg>condolence ,<cref> 915 <i>commonalty</i></cref></sg>,;
+<sg>compliments of the season</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>congratulate, gratulate</sg>,;
+<sg>felicitate</sg>,;
+<sg>give one joy, wish one joy</sg>,;
+<sg>compliment</sg>,;
+<sg>tender one's congratulations, offer one's congratulations</sg>,;
+<sg>wish many happy returns of the day, wish a merry Christmas and a happy new year</sg>,;
+<sg>praise, laud (commendation) 931</sg>,;
+<sg>congratulate oneself ,<cref>838 <i>rejoice</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>congratulatory, gratulatory</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>I wish you all the joy that you can wish</sg>,;
+<sg>best wishes</sg>,;
+<br>
+</paragraph>

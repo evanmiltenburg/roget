@@ -1,0 +1,45 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#25#</sectionNumber>
+<headword>#<b>#[001] #587# Letter #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>letter</i></sg>,;
+<sg>character</sg>,;
+<sg>hieroglyphic ,<cref>590 <i>writing</i></cref></sg>,;
+<sg>type ,<cref>591 <i>printing</i></cref></sg>,;
+<sg>capitals</sg>,;
+<sg>digraph, trigraph</sg>,;
+<sg>ideogram, ideograph</sg>,;
+<sg>majuscule, minuscule</sg>,;
+<sg>majuscule, minuscule</sg>,;
+<sg>alphabet, ABC, abecedary, christcross-row</sg>,;
+<sg>consonant, vowel</sg>,;
+<sg>diphthong, triphthong</sg>,;
+<sg>mute, liquid, labial, dental, guttural</sg>,;
+<sg>syllable</sg>,;
+<sg>monosyllable, dissyllable, polysyllable</sg>,;
+<sg>affix, suffix</sg>,;
+<sg>spelling, orthograph</sg>,;
+<sg>phonography, phonetic spelling</sg>,;
+<sg>anagrammatism, metagrammatism</sg>,;
+<sg>cipher, monogram, anagram</sg>,;
+<sg>doubleacrostic</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>spell</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>literal</sg>,;
+<sg>alphabetical, abecedarian</sg>,;
+<sg>syllabic</sg>,;
+<sg>majuscular, minuscular</sg>,;
+<sg>uncial ,<cref>590 <i>writing</i></cref></sg>,;
+<br>
+</paragraph>

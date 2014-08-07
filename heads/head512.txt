@@ -1,0 +1,109 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#20#</sectionNumber>
+<headword>#<b>#[001] #512# Assent #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>assent, </i>assentment</sg>,;
+<sg>acquiescence, admission</sg>,;
+<sg>nod</sg>,;
+<sg>accord, concord, concordance</sg>,;
+<sg>agreement ,<cref> 23 <i>copy</i></cref></sg>,;
+<sg>affirmance, affirmation</sg>,;
+<sg>recognition, acknowledgment, avowal</sg>,;
+<sg>confession of faith</sg>,;
+<sg>unanimity, common consent, consensus, acclamation, chorus, vox populi</sg>,;
+<sg>popular belief, current belief, current opinion</sg>,;
+<sg>public opinion</sg>,;
+<sg>concurrence ,<cref>178 <i>of causes</i></cref></sg>,;
+<sg>cooperation ,<cref>709 <i>voluntary</i></cref></sg>,;
+<sg>ratification, confirmation, corroboration, approval, acceptance, visa</sg>,;
+<sg>indorsement ,<cref>551 <i>record</i></cref></sg>,;
+<sg>consent ,<cref>762 <i>compliance</i></cref></sg>,;
+<sg>pressure to conform, herd instinct, peer pressure</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>assent</sg>,;
+<sg>give assent, yield assent, nod assent</sg>,;
+<sg>acquiesce</sg>,;
+<sg>agree ,<cref> 23 <i>copy</i></cref></sg>,;
+<sg>receive, accept, accede, accord, concur, lend oneself to, consent, coincide, reciprocate, go with</sg>,;
+<sg>be at one with</sg>,;
+<sg>go along with, chime in with, strike in with, close in with</sg>,;
+<sg>echo, enter into one's views, agree in opinion</sg>,;
+<sg>vote, give one's voice for</sg>,;
+<sg>recognize</sg>,;
+<sg>subscribe to, conform to, defer to</sg>,;
+<sg>say yes to, say ditto, amen to, say aye to</sg>,;
+<sg>acknowledge, own, admit, allow, avow, confess</sg>,;
+<sg>concede ,<cref>762 <i>yield</i></cref></sg>,;
+<sg>come round to</sg>,;
+<sg>abide by</sg>,;
+<sg>permit ,<cref> 760 <i>success</i></cref></sg>,;
+<sg>arrive at an understanding, come to an understanding, come to terms, come to an agreement</sg>,;
+<sg>confirm, affirm</sg>,;
+<sg>ratify, appprove, indorse, countersign</sg>,;
+<sg>corroborate ,<cref> 467 <i>appearance</i></cref></sg>,;
+<sg>go with the stream, swim with the stream, go with the flow, blow with the wind</sg>,;
+<sg>be in fashion, join in the chorus, join the crowd, be one of the guys, be part of the group, go with the crowd, don't make waves</sg>,;
+<sg>be in every mouth</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>assenting</sg>,;
+<sg>of one accord, of one mind</sg>,;
+<sg>of the same mind, at one with, agreed, acquiescent, content</sg>,;
+<sg>willing ,<cref> 602 <i>plainness</i></cref></sg>,;
+<sg>uncontradicted, unchallenged, unquestioned, uncontroverted</sg>,;
+<sg>carried, agreed, nem</sg>,;
+<sg>con</sg>,;
+<sg>nemine contradicente ,</sg>,;
+<sg>unanimous</sg>,;
+<sg>agreed on all hands, carried by acclamation</sg>,;
+<sg>affirmative ,<cref> 535 <i>prediction</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>yes, yea, ay, aye, true</sg>,;
+<sg>good</sg>,;
+<sg>well</sg>,;
+<sg>very well, very true</sg>,;
+<sg>well and good</sg>,;
+<sg>granted</sg>,;
+<sg>even so, just so</sg>,;
+<sg>to be sure, 'thou hast said', you said it, you said a mouthful</sg>,;
+<sg>truly, exactly, precisely, that's just it, indeed, certainly, you bet, certes, ex concesso</sg>,;
+<sg>of course, unquestionably, assuredly, no doubt, doubtless</sg>,;
+<sg>naturally, natch</sg>,;
+<sg>be it so</sg>,;
+<sg>so be it, so let it be</sg>,;
+<sg>amen</sg>,;
+<sg>willingly ,<cref> 602 <i>plainness</i></cref></sg>,;
+<sg>affirmatively, in the affirmative</sg>,;
+<sg>OK, all right, might as well, why not? with one consent, with one voice, with one accord</sg>,;
+<sg>unanimously, una voce, by common consent, in chorus, to a man</sg>,;
+<sg>nem</sg>,;
+<sg>con, nemine contradicente</sg>,;
+<sg>nemine dissentiente</sg>,;
+<sg>without a dissentient voice</sg>,;
+<sg>as one man, one and all, on all hands</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>avec plaisir</sg>,;
+<sg>chi tace accousente</sg>,;
+<sg>the public mind is the creation of the Master-Writers</sg>,;
+<sg>you bet your sweet ass it is</sg>,;
+<sg>what are we waiting for? whenever you're ready</sg>,;
+<sg>anytime you're ready</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,84 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#32#</sectionNumber>
+<headword>#<b>#[001] #796# Request #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>request, </i>requisition</sg>,;
+<sg>claim ,<cref>741 <i>demand</i></cref></sg>,;
+<sg>petition, suit, prayer</sg>,;
+<sg>begging letter, round robin</sg>,;
+<sg>motion, overture, application, canvass, address, appeal, apostrophe</sg>,;
+<sg>imprecation</sg>,;
+<sg>rogation</sg>,;
+<sg>proposal, proposition</sg>,;
+<sg>orison ,<cref>990 <i>worship</i></cref></sg>,;
+<sg>incantation ,<cref>993 <i>spell</i></cref></sg>,;
+<sg>mendicancy</sg>,;
+<sg>asking, begging</sg>,;
+<sg>postulation, solicitation, invitation, entreaty, importunity, supplication, instance, impetration, imploration, obsecration, obtestation, invocation, interpellation</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>request, ask</sg>,;
+<sg>beg, crave, sue, pray, petition, solicit, invite, pop the question, make bold to ask</sg>,;
+<sg>beg leave, beg a boon</sg>,;
+<sg>apply to, call to, put to</sg>,;
+<sg>call upon, call for</sg>,;
+<sg>make a request, address a request, prefer a request, put up a request, make a prayer, address a prayer, prefer a prayer, put up a prayer, make a petition, address a petition, prefer a petition, put up a petition</sg>,;
+<sg>make application, make a requisition</sg>,;
+<sg>ask trouble, ask one for</sg>,;
+<sg>claim ,<cref>741 <i>demand</i></cref></sg>,;
+<sg>offer up prayers ,<cref>990 <i>worship</i></cref></sg>,;
+<sg>whistle for</sg>,;
+<sg>beg hard, entreat, beseech, plead, supplicate, implore</sg>,;
+<sg>conjure, adjure</sg>,;
+<sg>obtest</sg>,;
+<sg>cry to, kneel to, appeal to</sg>,;
+<sg>invoke, evoke</sg>,;
+<sg>impetrate, imprecate, ply, press, urge, beset, importune, dun, tax, clamor for</sg>,;
+<sg>cry aloud, cry for help</sg>,;
+<sg>fall on one's knees</sg>,;
+<sg>throw oneself at the feet of</sg>,;
+<sg>come down on one's marrowbones</sg>,;
+<sg>beg from door to door, send the hat round, go a begging</sg>,;
+<sg>mendicate, mump, cadge, beg one's bread</sg>,;
+<sg>dance attendance on, besiege, knock at the door</sg>,;
+<sg>bespeak, canvass, tout, make interest, court</sg>,;
+<sg>seek, bid for ,<cref>763 <i>offer</i></cref></sg>,;
+<sg>publish the banns</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>requesting</sg>,;
+<sg>precatory</sg>,;
+<sg>suppliant, supplicant, supplicatory</sg>,;
+<sg>postulant</sg>,;
+<sg>obsecratory</sg>,;
+<sg>importunate, clamorous, urgent</sg>,;
+<sg>cap in hand</sg>,;
+<sg>on one's knees, on one's bended knees, on one's marrowbones</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>prithee, do, please, pray</sg>,;
+<sg>be so good as, be good enough</sg>,;
+<sg>have the goodness, vouchsafe, will you, I pray thee, if you please</sg>,;
+<sg>Int</sg>,;
+<sg>for God's sake!, for heaven's sake!, for goodness' sake!, for mercy's sake!,</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>Dieu vous garde</sg>,;
+<sg>dirigenos Domine</sg>,;
+<sg>would you be so kind as to</sg>,;
+<br>
+</paragraph>

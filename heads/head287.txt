@@ -1,0 +1,88 @@
+<classNumber>#2#</classNumber>
+<sectionNumber>#12#</sectionNumber>
+<headword>#<b>#[001] #287# Impulse #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>impulse, </i>impulsion, impetus</sg>,;
+<sg>momentum</sg>,;
+<sg>push, pulsion, thrust, shove, jog, jolt, brunt, booming, boost, throw</sg>,;
+<sg>explosion ,<cref>173 <i>violence</i></cref></sg>,;
+<sg>propulsion ,<cref> 284 <i>ship</i></cref></sg>,;
+<sg>percussion, concussion, collision, occursion, clash, encounter, cannon, carambole, appulse, shock, crash, bump</sg>,;
+<sg>impact</sg>,;
+<sg>elan</sg>,;
+<sg>charge ,<cref>716 <i>attack</i></cref></sg>,;
+<sg>beating ,<cref>972 <i>punishment</i></cref></sg>,;
+<sg>blow, dint, stroke, knock, tap, rap, slap, smack, pat, dab</sg>,;
+<sg>fillip</sg>,;
+<sg>slam, bang</sg>,;
+<sg>hit, whack, thwack</sg>,;
+<sg>cuff ,<cref> 972 <i>contempt</i></cref></sg>,;
+<sg>squash, dowse, swap, whap, punch, thump, pelt, kick, punce, calcitration</sg>,;
+<sg>ruade</sg>,;
+<sg>arietation</sg>,;
+<sg>cut, thrust, lunge, yerk</sg>,;
+<sg>carom, carrom, clip, jab, plug, sidewinder, sidewipe, sideswipe</sg>,;
+<sg>hammer, sledge hammer, mall, maul, mallet, flail</sg>,;
+<sg>ram, rammer</sg>,;
+<sg>battering ram, monkey, pile-driving engine, punch, bat</sg>,;
+<sg>cant hook</sg>,;
+<sg>cudgel ,<cref>727 <i>weapon</i></cref></sg>,;
+<sg>ax ,<cref>253 <i>sharp</i></cref></sg>,;
+<sg>dynamics</sg>,;
+<sg>seismometer, accelerometer, earthquake detector</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>give an impetus</sg>,;
+<sg>impel, push</sg>,;
+<sg>start, give a start to, set going</sg>,;
+<sg>drive, urge, boom</sg>,;
+<sg>thrust, prod, foin</sg>,;
+<sg>cant</sg>,;
+<sg>elbow, shoulder, jostle, justle, hustle, hurtle, shove, jog, jolt, encounter</sg>,;
+<sg>run against, bump against, butt against</sg>,;
+<sg>knock one's head against, run one's head against</sg>,;
+<sg>impinge</sg>,;
+<sg>boost</sg>,;
+<sg>bunt, carom, clip y</sg>,;
+<sg>fan, fan out</sg>,;
+<sg>jab, plug</sg>,;
+<sg>strike, knock, hit, tap, rap, slap, flap, dab, pat, thump, beat, blow, bang, slam, dash</sg>,;
+<sg>punch, thwack, whack</sg>,;
+<sg>hit hard, strike hard</sg>,;
+<sg>swap, batter, dowse, baste</sg>,;
+<sg>pelt, patter, buffet, belabor</sg>,;
+<sg>fetch one a blow</sg>,;
+<sg>poke at, pink, lunge, yerk</sg>,;
+<sg>kick, calcitrate</sg>,;
+<sg>butt, strike at ,<cref>716 <i>attack</i></cref></sg>,;
+<sg>whip ,<cref>972 <i>punish</i></cref></sg>,;
+<sg>come into a collision, enter into collision</sg>,;
+<sg>collide</sg>,;
+<sg>sideswipe</sg>,;
+<sg>foul</sg>,;
+<sg>fall foul of, run foul of</sg>,;
+<sg>telescope</sg>,;
+<sg>throw ,<cref>284 <i>propel</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>impelling</sg>,;
+<sg>impulsive, impellent</sg>,;
+<sg>booming</sg>,;
+<sg>dynamic, dynamical</sg>,;
+<sg>impelled</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>a hit, a very palpable hit</sg>,;
+<br>
+</paragraph>

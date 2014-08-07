@@ -1,0 +1,68 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#36#</sectionNumber>
+<headword>#<b>#[001] #905# Indifference #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>indifference, </i>neutrality</sg>,;
+<sg>coldness</sg>,;
+<sg>anaphrodisia</sg>,;
+<sg>unconcern, insouciance, nonchalance</sg>,;
+<sg>want of interest, want of earnestness</sg>,;
+<sg>anorexy, anorexia, inappetency</sg>,;
+<sg>apathy ,<cref>823 <i>insensibility</i></cref></sg>,;
+<sg>supineness ,<cref>683 <i>inactivity</i></cref></sg>,;
+<sg>disdain ,<cref> 930 <i>enemy</i></cref></sg>,;
+<sg>recklessness ,<cref> 863 <i>excitability</i></cref></sg>,;
+<sg>inattention ,<cref> 458 <i>orange</i></cref></sg>,;
+<sg>anaphrodisiac, antaphrodisiac</sg>,;
+<sg>lust-quencher, passion-queller</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be indifferent</sg>,;
+<sg>stand neuter</sg>,;
+<sg>take no interest in ,<cref>823 <i>insensibility</i></cref></sg>,;
+<sg>have no desire for ,<cref> 865 <i>pleasure</i></cref>, have no taste for, have no relish for</sg>,;
+<sg>not care for</sg>,;
+<sg>care nothing for, care nothing about</sg>,;
+<sg>not care a straw about, not care a fig for, not care a whit about ,<cref>643 <i>unimportance</i></cref></sg>,;
+<sg>not mind</sg>,;
+<sg>set at naught ,<cref>483 <i>make light of</i></cref></sg>,;
+<sg>spurn ,<cref>930 <i>disdain</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>indifferent, cold, frigid, lukewarm</sg>,;
+<sg>cool, cool as a cucumber</sg>,;
+<sg>unconcerned, insouciant, phlegmatic, pococurante, easygoing, devil-may- care, careless, listless, lackadaisical</sg>,;
+<sg>half-hearted</sg>,;
+<sg>unambitious, unaspiring, undesirous, unsolicitous, unattracted</sg>,;
+<sg>aloof, unapproachable, remote</sg>,;
+<sg>uncaring</sg>,;
+<sg>unattractive, unalluring, undesired, undesirable, uncared for, unwished, unvalued, all one to</sg>,;
+<sg>insipid ,<cref> 391 <i>physical pain</i></cref></sg>,;
+<sg>vain</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>for aught one cares</sg>,;
+<sg>Int</sg>,;
+<sg>never mind</sg>,;
+<sg>Who cares? whatever you like, whatever</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>I couldn't care less, I could care less</sg>,;
+<sg>anything will do</sg>,;
+<sg>es macht nichts</sg>,;
+<br>
+</paragraph>

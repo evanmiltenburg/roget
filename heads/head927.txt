@@ -1,0 +1,80 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#37#</sectionNumber>
+<headword>#<b>#[001] #927# Friendship #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>friendship, </i>amity</sg>,;
+<sg>friendliness</sg>,;
+<sg>brotherhood, fraternity, sodality, confraternity</sg>,;
+<sg>harmony ,<cref>714 <i>concord</i></cref></sg>,;
+<sg>peace ,<cref> 721 <i>conduct</i></cref></sg>,;
+<sg>firm friendship, staunch friendship, intimate friendship, familiar friendship, bosom friendship, cordial friendship, tried friendship, devoted friendship, lasting friendship, fast friendship, sincere friendship, warm friendship, ardent friendship</sg>,;
+<sg>cordiality, fraternization, entente cordiale, good understanding, rapprochement, sympathy, fellow-feeling, response, welcomeness</sg>,;
+<sg>affection ,<cref>897 <i>love</i></cref></sg>,;
+<sg>favoritism</sg>,;
+<sg>good will ,<cref>906 <i>benevolence</i></cref></sg>,;
+<sg>acquaintance, familiarity, intimacy, intercourse, fellowship, knowledge of</sg>,;
+<sg>introduction</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be friendly</sg>,;
+<sg>, be friends ,<cref> 890 <i>vulgarity</i></cref>, be acquainted with</sg>,;
+<sg>know</sg>,;
+<sg>have the ear of</sg>,;
+<sg>keep company with ,<cref>892 <i>sociality</i></cref></sg>,;
+<sg>hold communication with, have dealings with, sympathize with</sg>,;
+<sg>have a leaning to</sg>,;
+<sg>bear good will ,<cref>906 <i>benevolent</i></cref></sg>,;
+<sg>love ,<cref> 897 <i>hope</i></cref></sg>,;
+<sg>make much of</sg>,;
+<sg>befriend ,<cref>707 <i>aid</i></cref></sg>,;
+<sg>introduce to</sg>,;
+<sg>set one's horses together</sg>,;
+<sg>have the latchstring out</sg>,;
+<sg>hold out the right hand of friendship, extend the right hand of friendship, hold out the right hand of fellowship</sg>,;
+<sg>become friendly</sg>,;
+<sg>make friends with ,<cref> 890 <i>vulgarity</i></cref></sg>,;
+<sg>break the lee, be introduced to</sg>,;
+<sg>make acquaintance with, pick acquaintance with, scrape acquaintance with</sg>,;
+<sg>get into favor, gain the friendship of</sg>,;
+<sg>shake hands with, fraternize, embrace</sg>,;
+<sg>receive with open arms, throw oneself into the arms of</sg>,;
+<sg>meet halfway, take in good part</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>friendly</sg>,;
+<sg>amicable, amical</sg>,;
+<sg>well-affected, unhostile, neighborly, brotherly, fraternal, sympathetic, harmonious, hearty, cordial, warm- hearted</sg>,;
+<sg>friends with, well with, at home with, hand in hand with</sg>,;
+<sg>on good terms, on friendly terms, on amicable terms, on cordial terms, on familiar terms, on intimate terms, on good footing</sg>,;
+<sg>on speaking terms, on visiting terms</sg>,;
+<sg>in one's good graces, in one's good books</sg>,;
+<sg>acquainted, familiar, intimate, thick, hand and glove, hail fellow well met, free and easy</sg>,;
+<sg>welcome</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>amicably</sg>,;
+<sg>with open arms</sg>,;
+<sg>sans ceremonie</sg>,;
+<sg>arm in arm</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>amicitia semper prodest</sg>,;
+<sg>a mystic bond of brotherhood makes all men one</sg>,;
+<sg>friendship is love without either flowers or veil</sg>,;
+<sg>trulgus amicitias utilitate probat</sg>,;
+<br>
+</paragraph>

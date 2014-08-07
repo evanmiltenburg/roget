@@ -1,0 +1,91 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#34#</sectionNumber>
+<headword>#<b>#[001] #839# Poverty #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>poverty, </i>indigence, penury, pauperism, destitution, want</sg>,;
+<sg>need, neediness</sg>,;
+<sg>lack, necessity, privation, distress, difficulties, wolf at the door</sg>,;
+<sg>bad circumstances, poor circumstances, need circumstances, embarrassed circumstances, reduced circumstances, straightened circumstances</sg>,;
+<sg>slender means, narrow means</sg>,;
+<sg>straits</sg>,;
+<sg>hand to mouth existence, res angusta domi, low water, impecuniosity</sg>,;
+<sg>beggary</sg>,;
+<sg>mendicancy, mendicity</sg>,;
+<sg>broken fortune, loss of fortune</sg>,;
+<sg>insolvency ,<cref>808 <i>nonpayment</i></cref></sg>,;
+<sg>empty pocket, empty purse</sg>,;
+<sg>light purse</sg>,;
+<sg>beggarly account of empty boxes</sg>,;
+<sg>poor man, pauper, mendicant, mumper, beggar, starveling</sg>,;
+<sg>pauvre diable</sg>,;
+<sg>fakir, schnorrer</sg>,;
+<sg>homeless person</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be poor</sg>,;
+<sg>want, lack, starve, live from hand to mouth, have seen better days, go down in the world, come upon the parish</sg>,;
+<sg>go to the dogs, go to wrack and ruin</sg>,;
+<sg>not have a penny ,<cref>800 <i>money</i></cref>, not have a shot in one's locker</sg>,;
+<sg>beg one's bread</sg>,;
+<sg>tirer le diable par la queue</sg>,;
+<sg>run into debt ,<cref>806 <i>debt</i></cref></sg>,;
+<sg>render poor</sg>,;
+<sg>impoverish</sg>,;
+<sg>reduce, reduce to poverty</sg>,;
+<sg>pauperize, fleece, ruin, bring to the parish</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>poor, indigent</sg>,;
+<sg>poverty-stricken</sg>,;
+<sg>badly off, poorly off, ill off</sg>,;
+<sg>poor as a rat, poor as a church mouse, poor as a Job</sg>,;
+<sg>fortuneless, dowerless, moneyless, penniless</sg>,;
+<sg>unportioned, unmoneyed</sg>,;
+<sg>impecunious</sg>,;
+<sg>out of money, out of cash, short of money, short of cash</sg>,;
+<sg>without a rap, not worth a rap ,<cref>800 <i>money</i></cref></sg>,;
+<sg>qui n'a pas le sou, out of pocket, hard up</sg>,;
+<sg>out at elbows, out at heels</sg>,;
+<sg>seedy, bare-footed</sg>,;
+<sg>beggarly, beggared</sg>,;
+<sg>destitute</sg>,;
+<sg>fleeced, stripped</sg>,;
+<sg>bereft, bereaved</sg>,;
+<sg>reduced</sg>,;
+<sg>homeless</sg>,;
+<sg>in want</sg>,;
+<sg>needy, necessitous, distressed, pinched, straitened</sg>,;
+<sg>put to one's shifts, put to one's last shifts</sg>,;
+<sg>unable to keep the wolf from the door, unable to make both ends meet</sg>,;
+<sg>embarrassed, under hatches</sg>,;
+<sg>involved ,<cref>806 <i>in debt</i></cref></sg>,;
+<sg>insolvent ,<cref>808 <i>not paying</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>in forma pauperis</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>zonam perdidit</sg>,;
+<sg>a penniless lass wi' a lang pedigree</sg>,;
+<sg>a pobreza no hay verguenza</sg>,;
+<sg>he that is down can fall no lower</sg>,;
+<sg>poca roba poco pensiero</sg>,;
+<sg>steeped</sg>,;
+<sg>in poverty to the very lips</sg>,;
+<sg>the short and simple annals of the poor</sg>,;
+<br>
+</paragraph>

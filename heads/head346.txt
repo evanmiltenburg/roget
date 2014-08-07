@@ -1,0 +1,39 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#14#</sectionNumber>
+<headword>#<b>#[001] #346# Liquefaction #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>liquefaction</i></sg>,;
+<sg>liquescence, liquescency</sg>,;
+<sg>melting ,<cref>384 <i>heat</i></cref></sg>,;
+<sg>colliquation, colliquefaction</sg>,;
+<sg>thaw</sg>,;
+<sg>liquation, deliquation, deliquescence</sg>,;
+<sg>lixiviation, dissolution</sg>,;
+<sg>solution, apozem, lixivium, infusion, flux</sg>,;
+<sg>solvent, menstruum, alkahest</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>render liquid ,<cref> 333 <i>rarity</i></cref></sg>,;
+<sg>liquefy, run</sg>,;
+<sg>deliquesce</sg>,;
+<sg>melt ,<cref>384 <i>heat</i></cref></sg>,;
+<sg>solve</sg>,;
+<sg>dissolve, resolve</sg>,;
+<sg>liquate</sg>,;
+<sg>hold in solution</sg>,;
+<sg>condense, precipitate, rain</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>liquefied</sg>,;
+<sg>, liquescent, liquefiable</sg>,;
+<sg>deliquescent, soluble, colliquative</sg>,;
+<br>
+</paragraph>

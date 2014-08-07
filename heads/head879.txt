@@ -1,0 +1,71 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#36#</sectionNumber>
+<headword>#<b>#[001] #879# Weariness #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>weariness, </i>defatigation</sg>,;
+<sg>lassitude ,<cref>688 <i>fatigue</i></cref></sg>,;
+<sg>drowsiness ,<cref> 683 <i>health</i></cref></sg>,;
+<sg>disgust, nausea, loathing, sickness</sg>,;
+<sg>satiety ,<cref> 869 <i>content</i></cref></sg>,;
+<sg>taedium vitae ,<cref>837 <i>dejection</i></cref></sg>,;
+<sg>boredom, ennui</sg>,;
+<sg>wearisomeness, tediousness</sg>,;
+<sg>dull work, tedium, monotony, twice-told tale</sg>,;
+<sg>bore, buttonholer, proser, wet blanket</sg>,;
+<sg>pill, stiff</sg>,;
+<sg>heavy hours, the enemy (time)</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>weary</sg>,;
+<sg>tire ,<cref>688 <i>fatigue</i></cref></sg>,;
+<sg>bore</sg>,;
+<sg>bore to death, weary to death, tire to death, bore out of one's skull, bore out of one's life, weary out of one's life, tire out of one's life, bore out of all patience, weary out of all patience, wear out one's patience, tire out of all patience</sg>,;
+<sg>set to sleep, send to sleep</sg>,;
+<sg>buttonhole</sg>,;
+<sg>pall, sicken, nauseate, disgust</sg>,;
+<sg>harp on the same string</sg>,;
+<sg>drag its slow length along, drag its weary length along</sg>,;
+<sg>never hear the last of</sg>,;
+<sg>be tired of, be sick of, be tired with</sg>,;
+<sg>yawn</sg>,;
+<sg>die with ennui</sg>,;
+<sg>MEGO, my eyes glaze over</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>wearying</sg>,;
+<sg>wearing</sg>,;
+<sg>wearisome, tiresome, irksome</sg>,;
+<sg>uninteresting, stupid, bald, devoid of interest, dry, monotonous, dull, arid, tedious, humdrum, mortal, flat</sg>,;
+<sg>prosy, prosing</sg>,;
+<sg>slow, soporific, somniferous</sg>,;
+<sg>disgusting</sg>,;
+<sg>unenjoyed</sg>,;
+<sg>weary, tired</sg>,;
+<sg>drowsy ,<cref>683 <i>sleepy</i></cref></sg>,;
+<sg>uninterested, flagging, used up, worn out, blase, life-weary, weary of life</sg>,;
+<sg>sick of</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>wearily</sg>,;
+<sg>usque ad nauseam</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>time hanging heavily on one's hands</sg>,;
+<sg>toujours perdrix</sg>,;
+<sg>crambe repetita</sg>,;
+<br>
+</paragraph>

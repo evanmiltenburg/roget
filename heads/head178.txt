@@ -1,0 +1,74 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#8#</sectionNumber>
+<headword>#<b>#[001] #178# Physical Energy #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>energy, <i>physical energy, </i>force, power ,<cref> 157 <i>stability</i></cref></sg>,;
+<sg>keenness</sg>,;
+<sg>intensity, vigor, strength, elasticity</sg>,;
+<sg>go</sg>,;
+<sg>high pressure</sg>,;
+<sg>fire</sg>,;
+<sg>rush</sg>,;
+<sg>acrimony, acritude</sg>,;
+<sg>causiticity, virulence</sg>,;
+<sg>poignancy</sg>,;
+<sg>harshness</sg>,;
+<sg>severity, edge, point</sg>,;
+<sg>pungency ,<cref> 392 <i>touch</i></cref></sg>,;
+<sg>cantharides</sg>,;
+<sg>seasoning ,<cref>393 <i>condiment</i></cref></sg>,;
+<sg>activity, agitation, effervescence</sg>,;
+<sg>ferment, fermentation</sg>,;
+<sg>ebullition, splutter, perturbation, stir, bustle</sg>,;
+<sg>voluntary energy ,<cref> 682 <i>uncleanness</i></cref></sg>,;
+<sg>quicksilver</sg>,;
+<sg>resolution ,<cref>604 <i>mental energy</i></cref></sg>,;
+<sg>exertion ,<cref>686 <i>effort</i></cref></sg>,;
+<sg>excitation ,<cref>824 <i>mental</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>give energy</sg>,;
+<sg>energize, stimulate, kindle, excite, exert</sg>,;
+<sg>sharpen, intensify</sg>,;
+<sg>inflame ,<cref>173 <i>render violent</i></cref></sg>,;
+<sg>wind up ,<cref>159 <i>strengthen</i></cref></sg>,;
+<sg>strike home, into home, hard home</sg>,;
+<sg>make an impression</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>strong, energetic, forcible, active</sg>,;
+<sg>intense, deep-dyed, severe, keen, vivid, sharp, acute, incisive, trenchant, brisk</sg>,;
+<sg>rousing, irritation</sg>,;
+<sg>poignant</sg>,;
+<sg>virulent, caustic, corrosive, mordant, harsh, stringent</sg>,;
+<sg>double-edged, double-shotted, double- distilled</sg>,;
+<sg>drastic, escharotic</sg>,;
+<sg>racy ,<cref>392 <i>pungent</i></cref></sg>,;
+<sg>potent ,<cref>157 <i>powerful</i></cref></sg>,;
+<sg>radioactive</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>strongly</sg>,;
+<sg>fortiter in re</sg>,;
+<sg>with telling effect</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>the steam is up</sg>,;
+<sg>vires acquirit eundo</sg>,;
+<sg>the race by vigor not by vaunts is won</sg>,;
+<br>
+</paragraph>

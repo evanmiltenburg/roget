@@ -1,0 +1,49 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#24#</sectionNumber>
+<headword>#<b>#[001] #564# Misteaching #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>misteaching, </i>misinformaton, misintelligence, misguidance, misdirection, mispersuasion, misinstruction, misleading</sg>,;
+<sg>perversion, false teaching</sg>,;
+<sg>sophistry ,<cref> 477 <i>attention</i></cref></sg>,;
+<sg>college of Laputa</sg>,;
+<sg>the blind leading the blind</sg>,;
+<sg>propaganda, disinformation, agitprop</sg>,;
+<sg>indoctrination</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>misinform, misteach, misdescribe, misinstruct, miscorrect</sg>,;
+<sg>misdirect, misguide</sg>,;
+<sg>pervert</sg>,;
+<sg>put on a false scent, throw off the scent, throw off the trail</sg>,;
+<sg>deceive ,<cref> 545 <i>equivocalness</i></cref></sg>,;
+<sg>mislead ,<cref>495 <i>error</i></cref></sg>,;
+<sg>misrepresent</sg>,;
+<sg>lie ,<cref> 544 <i>unintelligibility</i></cref></sg>,;
+<sg>ambiguas in vulgum spargere voces</sg>,;
+<sg>propagandize, disinform</sg>,;
+<sg>render unintelligible ,<cref> 519 <i>error</i></cref></sg>,;
+<sg>bewilder ,<cref>475 <i>uncertainty</i></cref></sg>,;
+<sg>mystify ,<cref>528 <i>conceal</i></cref></sg>,;
+<sg>unteach</sg>,;
+<sg>propagandist</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>misteaching</sg>,;
+<sg>unedifying</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>piscem natare doces</sg>,;
+<sg>the blind leading the blind</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,42 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#32#</sectionNumber>
+<headword>#<b>#[001] #794# Offer #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>offer, </i>proffer, presentation, tender, bid, overture</sg>,;
+<sg>proposal, proposition</sg>,;
+<sg>motion, invitation</sg>,;
+<sg>candidature</sg>,;
+<sg>offering ,<cref>784 <i>gift</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>offer, proffer, present, tender</sg>,;
+<sg>bid</sg>,;
+<sg>propose, move</sg>,;
+<sg>make a motion, make advances</sg>,;
+<sg>start</sg>,;
+<sg>invite, hold out, place in one's way, put forward</sg>,;
+<sg>hawk about</sg>,;
+<sg>offer for sale ,<cref> 796 <i>request</i></cref></sg>,;
+<sg>press ,<cref>765 <i>request</i></cref></sg>,;
+<sg>lay at one's feet</sg>,;
+<sg>offer oneself, present oneself</sg>,;
+<sg>volunteer, come forward, be a candidate</sg>,;
+<sg>stand for, bid for</sg>,;
+<sg>seek</sg>,;
+<sg>be at one's service</sg>,;
+<sg>go a begging</sg>,;
+<sg>bribe ,<cref>784 <i>give</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>offering, offered</sg>,;
+<sg>in the market, for sale, to let, disengaged, on hire</sg>,;
+<br>
+</paragraph>

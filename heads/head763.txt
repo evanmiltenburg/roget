@@ -1,0 +1,95 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#30#</sectionNumber>
+<headword>#<b>#[001] #763# Prosperity #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>prosperity, </i>welfare, well-being</sg>,;
+<sg>affluence ,<cref>803 <i>wealth</i></cref></sg>,;
+<sg>success ,<cref> 731 <i>cunning</i></cref></sg>,;
+<sg>thrift, roaring trade</sg>,;
+<sg>good fortune, smiles of fortune</sg>,;
+<sg>blessings, godsend</sg>,;
+<sg>luck</sg>,;
+<sg>good luck, run of luck</sg>,;
+<sg>sunshine</sg>,;
+<sg>fair weather, fair wind</sg>,;
+<sg>palmy days, bright days, halcyon days</sg>,;
+<sg>piping times, tide, flood, high tide</sg>,;
+<sg>Saturnia regna, Saturnian age</sg>,;
+<sg>golden time, golden age</sg>,;
+<sg>bed of roses, fat city</sg>,;
+<sg>fat of the land, milk and honey, loaves and fishes</sg>,;
+<sg>made man, lucky dog, enfant gate, spoiled child of fortune</sg>,;
+<sg>upstart, parvenu, skipjack, mushroom</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>prosper, thrive, flourish</sg>,;
+<sg>be prosperous</sg>,;
+<sg>drive a roaring trade, do a booming business</sg>,;
+<sg>go on well, go on smoothly, go on swimmingly</sg>,;
+<sg>sail before the wind, swim with the tide</sg>,;
+<sg>run smooth, run smoothly, run on all fours</sg>,;
+<sg>rise in the world, get on in the world</sg>,;
+<sg>work one's way, make one's way</sg>,;
+<sg>look up</sg>,;
+<sg>lift one's head, raise one's head, make one's fortune, feather one's nest, make one's pile</sg>,;
+<sg>flower, blow, blossom, bloom, fructify, bear fruit, fatten</sg>,;
+<sg>keep oneself afloat</sg>,;
+<sg>keep one's head above water, hold one's head above water</sg>,;
+<sg>land on one's feet, light on one's feet, light on one's legs, fall on one's legs, fall on one's feet</sg>,;
+<sg>drop into a good thing</sg>,;
+<sg>bear a charmed life</sg>,;
+<sg>bask in the sunshine</sg>,;
+<sg>have a good time of it, have a fine time of it</sg>,;
+<sg>have a run of luck</sg>,;
+<sg>have the good fortune</sg>,;
+<sg>to</sg>,;
+<sg>take a favorable turn</sg>,;
+<sg>live on the fat of the land, live off the fat of the land, live in clover</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>prosperous</sg>,;
+<sg>thriving</sg>,;
+<sg>in a fair way, buoyant</sg>,;
+<sg>well off, well to do, well to do in the world</sg>,;
+<sg>set up, at one's ease</sg>,;
+<sg>rich ,<cref> 803 <i>security</i></cref></sg>,;
+<sg>in good case</sg>,;
+<sg>in full, in high feather</sg>,;
+<sg>fortunate, lucky, in luck</sg>,;
+<sg>born with a silver spoon in one's mouth, born under a lucky star</sg>,;
+<sg>on the sunny side of the hedge</sg>,;
+<sg>auspicious, propitious, providential</sg>,;
+<sg>palmy, halcyon</sg>,;
+<sg>agreeable ,<cref> 829 <i>sale</i></cref></sg>,;
+<sg>couleur de rose</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>prosperously</sg>,;
+<sg>swimmingly</sg>,;
+<sg>as good luck would have it</sg>,;
+<sg>beyond all hope</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>one's star in the ascendant, all for the best, one's course runs smooth</sg>,;
+<sg>chacun est l'artisan de sa fortune</sg>,;
+<sg>donec eris felix multos numerabis amicos</sg>,;
+<sg>felicitas multos habet amicos</sg>,;
+<sg>felix se nescit amari</sg>,;
+<sg>good luck go with thee</sg>,;
+<sg>nulli est homini perpetuum bonum</sg>,;
+<br>
+</paragraph>

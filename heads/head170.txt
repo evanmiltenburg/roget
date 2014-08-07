@@ -1,0 +1,39 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#8#</sectionNumber>
+<headword>#<b>#[001] #170# Reproduction #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>reproduction, </i>renovation</sg>,;
+<sg>restoration ,<cref> 660 <i>instrumentality</i></cref></sg>,;
+<sg>renewal</sg>,;
+<sg>new edition, reprint, revival, regeneration, palingenesis, revivification</sg>,;
+<sg>apotheosis</sg>,;
+<sg>resuscitation, reanimation, resurrection, reappearance</sg>,;
+<sg>regrowth</sg>,;
+<sg>Phoenix</sg>,;
+<sg>generation ,<cref>161 <i>production</i></cref></sg>,;
+<sg>multiplication</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>reproduce</sg>,;
+<sg>restore ,<cref> 660 <i>instrumentality</i></cref></sg>,;
+<sg>revive, renovate, renew, regenerate, revivify, resuscitate, reanimate</sg>,;
+<sg>remake, refashion, stir the embers, put into the crucible</sg>,;
+<sg>multiply, repeat</sg>,;
+<sg>resurge</sg>,;
+<sg>crop up, spring up like mushrooms</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>reproduced</sg>,;
+<sg>renascent, reappearing</sg>,;
+<sg>reproductive</sg>,;
+<sg>suigenetic</sg>,;
+<br>
+</paragraph>

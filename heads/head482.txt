@@ -1,0 +1,54 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#17#</sectionNumber>
+<headword>#<b>#[001] #482# Answer #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>answer, </i>response, reply, replication, riposte, rejoinder, surrejoinder, rebutter, surrebutter, retort, repartee</sg>,;
+<sg>rescript, rescription</sg>,;
+<sg>antiphon, antiphony</sg>,;
+<sg>acknowledgment</sg>,;
+<sg>password</sg>,;
+<sg>echo</sg>,;
+<sg>counter statement</sg>,;
+<sg>discovery ,<cref> 480 <i>neglect</i></cref></sg>,;
+<sg>1</sg>,;
+<sg>solution ,<cref>522 <i>explanation</i></cref></sg>,;
+<sg>rationale ,<cref>153 <i>cause</i></cref></sg>,;
+<sg>clue ,<cref>550 <i>indication</i></cref></sg>,;
+<sg>Oedipus</sg>,;
+<sg>oracle ,<cref> 513 <i>dissent</i></cref></sg>,;
+<sg>return ,<cref>551 <i>record</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>answer, respond, reply, rebut, retort, rejoin</sg>,;
+<sg>give for answer, return for answer</sg>,;
+<sg>acknowledge, echo</sg>,;
+<sg>explain ,<cref>522 <i>interpret</i></cref></sg>,;
+<sg>solve ,<cref>522 <i>unriddle</i></cref></sg>,;
+<sg>discover ,<cref> 480 <i>neglect</i></cref></sg>,;
+<sg>1</sg>,;
+<sg>fathom, hunt out ,<cref>461 <i>inquire</i></cref></sg>,;
+<sg>satisfy, set at rest, determine</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>answering</sg>,;
+<sg>responsive, respondent</sg>,;
+<sg>conclusive</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>because ,<cref>153 <i>cause</i></cref></sg>,;
+<sg>on the scent, on the right scent</sg>,;
+<sg>Int</sg>,;
+<sg>eureka!,</sg>,;
+<br>
+</paragraph>

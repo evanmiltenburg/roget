@@ -1,0 +1,55 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#34#</sectionNumber>
+<headword>#<b>#[001] #815# Relinquishment #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>relinquishment, </i>abandonment ,<cref>624 <i>of a course</i></cref></sg>,;
+<sg>renunciation, expropriation, dereliction</sg>,;
+<sg>cession, surrender, dispensation</sg>,;
+<sg>quitclaim deed</sg>,;
+<sg>resignation ,<cref> 757 <i>arena</i></cref></sg>,;
+<sg>riddance</sg>,;
+<sg>derelict</sg>,;
+<sg>foundling</sg>,;
+<sg>jetsam, waif</sg>,;
+<sg>discards, culls, rejects</sg>,;
+<sg>garbage, refuse, rubbish</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>relinquish, give up, surrender, yield, cede</sg>,;
+<sg>let go, let slip</sg>,;
+<sg>spare, drop, resign, forego, renounce, abandon, expropriate, give away, dispose of, part with</sg>,;
+<sg>lay aside, lay apart, lay down, lay on the shelf ,<cref>678 <i>disuse</i></cref></sg>,;
+<sg>set aside, put aside, put away</sg>,;
+<sg>make away with, cast behind</sg>,;
+<sg>maroon</sg>,;
+<sg>give notice to quit, give warning</sg>,;
+<sg>supersede</sg>,;
+<sg>be rid of, get rid of, be quit of, get quit of</sg>,;
+<sg>eject ,<cref> 297 <i>approach</i></cref></sg>,;
+<sg>rid oneself of, disburden oneself of, divest oneself of, dispossess oneself of</sg>,;
+<sg>wash one's hands of</sg>,;
+<sg>discard, cast off, dismiss</sg>,;
+<sg>cast away, throw away, pitch away, fling away, cast aside, cast overboard, cast to the dogs, throw aside, throw overboard, throw to the dogs, pitch aside, pitch overboard, pitch to the dogs, fling aside, fling overboard, fling to the dogs</sg>,;
+<sg>cast to the winds, throw to the winds, sweep to the winds</sg>,;
+<sg>put away, turn away, sweep away</sg>,;
+<sg>jettison</sg>,;
+<sg>reject</sg>,;
+<sg>quit one's hold, quitclaim</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>relinquished</sg>,;
+<sg>cast off, derelict</sg>,;
+<sg>unowned, unappropriated, unculled</sg>,;
+<sg>left ,<cref>40 <i>residuary</i></cref></sg>,;
+<sg>Int</sg>,;
+<sg>away with!,</sg>,;
+<br>
+</paragraph>

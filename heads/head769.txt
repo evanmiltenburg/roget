@@ -1,0 +1,55 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#31#</sectionNumber>
+<headword>#<b>#[001] #769# Laxity #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>laxity</i></sg>,;
+<sg>laxness, looseness, slackness</sg>,;
+<sg>toleration ,<cref>740 <i>lenity</i></cref></sg>,;
+<sg>freedom ,<cref> 748 <i>resistance</i></cref></sg>,;
+<sg>anarchy, interregnum</sg>,;
+<sg>relaxation</sg>,;
+<sg>loosening</sg>,;
+<sg>remission</sg>,;
+<sg>dead letter, brutum fulmen, misrule</sg>,;
+<sg>license, licentiousness</sg>,;
+<sg>insubordination ,<cref>742 <i>disobedience</i></cref></sg>,;
+<sg>lynch law ,<cref>964 <i>illegality</i></cref></sg>,;
+<sg>nihilism, reign of violence</sg>,;
+<sg>dethronement, deposition, usurpation, abdication</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be lax</sg>,;
+<sg>laisser faire, laisser aller</sg>,;
+<sg>hold a loose rein</sg>,;
+<sg>give the reins to, give rope enough, give a loose to</sg>,;
+<sg>tolerate</sg>,;
+<sg>relax</sg>,;
+<sg>misrule</sg>,;
+<sg>go beyond the length of one's tether</sg>,;
+<sg>have one's swing, have one's fling</sg>,;
+<sg>act without instructions, act without authority, act outside of one's authority</sg>,;
+<sg>act on one's own responsibility, usurp authority</sg>,;
+<sg>dethrone, depose</sg>,;
+<sg>abdicate</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>lax, loose</sg>,;
+<sg>slack</sg>,;
+<sg>remiss ,<cref>460 <i>careless</i></cref></sg>,;
+<sg>weak</sg>,;
+<sg>relaxed</sg>,;
+<sg>licensed</sg>,;
+<sg>reinless, unbridled</sg>,;
+<sg>anarchical</sg>,;
+<sg>unauthorized ,<cref>925 <i>unwarranted</i></cref></sg>,;
+<sg>adespotic</sg>,;
+<br>
+</paragraph>

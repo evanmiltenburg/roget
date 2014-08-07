@@ -1,0 +1,45 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#15#</sectionNumber>
+<headword>#<b>#[001] #429# Cry #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>cry</i></sg>,;
+<sg>voice ,<cref>580 <i>human</i></cref></sg>,;
+<sg>hubbub</sg>,;
+<sg>bark ,<cref>412 <i>animal</i></cref></sg>,;
+<sg>vociferation, outcry, hullabaloo, chorus, clamor, hue and cry, plaint</sg>,;
+<sg>lungs</sg>,;
+<sg>stentor</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>cry, roar, shout, bawl, brawl, halloo, halloa, hoop, whoop, yell, bellow, howl, scream, screech, screak, shriek, shrill, squeak, squeal, squall, whine, pule, pipe, yaup</sg>,;
+<sg>cheer</sg>,;
+<sg>hoot</sg>,;
+<sg>grumble, moan, groan</sg>,;
+<sg>snore, snort</sg>,;
+<sg>grunt ,<cref>412 <i>animal sounds</i></cref></sg>,;
+<sg>vociferate</sg>,;
+<sg>raise up the voice, lift up the voice</sg>,;
+<sg>call out, sing out, cry out</sg>,;
+<sg>exclaim</sg>,;
+<sg>rend the air</sg>,;
+<sg>thunder at the top of one's voice, shout at the top of one's voice, shout at the pitch of one's breath, thunder at the pitch of one's breath</sg>,;
+<sg>s'_egosiller</sg>,;
+<sg>strain the throat, strain the voice, strain the lungs</sg>,;
+<sg>give a cry </sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>crying</sg>,;
+<sg>clamant, clamorous</sg>,;
+<sg>vociferous</sg>,;
+<sg>stentorian ,<cref>404 <i>loud</i></cref></sg>,;
+<sg>open-mouthed</sg>,;
+<br>
+</paragraph>

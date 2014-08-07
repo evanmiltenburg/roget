@@ -1,0 +1,24 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#15#</sectionNumber>
+<headword>#<b>#[001] #380# Zoology #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>zoology, </i>zoonomy, zoography, zootomy</sg>,;
+<sg>anatomy</sg>,;
+<sg>comparative anatomy</sg>,;
+<sg>animal physiology, comparative physiology</sg>,;
+<sg>morphology</sg>,;
+<sg>mammalogy</sg>,;
+<sg>anthropology, ornithology, ichthyology, herpetology, ophiology, malacology, helminthology, entomology, oryctology, paleontology, mastology, vermeology</sg>,;
+<sg>ornithotomy, ichthyotomy, </sg>,;
+<sg>taxidermy</sg>,;
+<sg>zoologist </sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>zoological</sg>,;
+<br>
+</paragraph>

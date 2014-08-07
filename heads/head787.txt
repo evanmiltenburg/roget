@@ -1,0 +1,79 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#31#</sectionNumber>
+<headword>#<b>#[001] #787# Abrogation #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>abrogation, </i>annulment, nullification, recision</sg>,;
+<sg>vacatur</sg>,;
+<sg>canceling</sg>,;
+<sg>cancel</sg>,;
+<sg>revocation, revokement</sg>,;
+<sg>repeal, rescission, defeasance</sg>,;
+<sg>dismissal, conge, demission</sg>,;
+<sg>bounce</sg>,;
+<sg>deposal, deposition</sg>,;
+<sg>dethronement</sg>,;
+<sg>disestablishment, disendowment</sg>,;
+<sg>deconsecration</sg>,;
+<sg>sack, walking papers, pink slip, walking ticket</sg>,;
+<sg>yellow cover</sg>,;
+<sg>abolition, abolishment</sg>,;
+<sg>dissolution</sg>,;
+<sg>counter order, countermand</sg>,;
+<sg>repudiation, retraction, retractation</sg>,;
+<sg>recantation ,<cref>607 <i>tergiversation</i></cref></sg>,;
+<sg>abolitionist</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>abrogate, annul, cancel</sg>,;
+<sg>destroy ,<cref> 162 <i>attribution</i></cref></sg>,;
+<sg>abolish</sg>,;
+<sg>revoke, repeal, rescind, reverse, retract, recall</sg>,;
+<sg>abolitionize</sg>,;
+<sg>overrule, override</sg>,;
+<sg>set aside</sg>,;
+<sg>disannul, dissolve, quash, nullify, declare null and void</sg>,;
+<sg>disestablish, disendow</sg>,;
+<sg>deconsecrate</sg>,;
+<sg>disclaim ,<cref>536 <i>deny</i></cref></sg>,;
+<sg>ignore, repudiate</sg>,;
+<sg>recant ,<cref> 607 <i>aphony</i></cref></sg>,;
+<sg>divest oneself, break off</sg>,;
+<sg>countermand, counter order</sg>,;
+<sg>do away with</sg>,;
+<sg>sweep away, brush away</sg>,;
+<sg>throw overboard, throw to the dogs</sg>,;
+<sg>scatter to the winds, cast behind</sg>,;
+<sg>dismiss, discard</sg>,;
+<sg>cast off, turn off, cast out, cast adrift, cast out of doors, cast aside, cast away</sg>,;
+<sg>send off, send away, send packing, send about one's business</sg>,;
+<sg>discharge, get rid of ,<cref>297 <i>eject</i></cref></sg>,;
+<sg>bounce</sg>,;
+<sg>fire, fire out</sg>,;
+<sg>sack</sg>,;
+<sg>cashier</sg>,;
+<sg>break</sg>,;
+<sg>oust</sg>,;
+<sg>unseat, unsaddle</sg>,;
+<sg>unthrone, dethrone, disenthrone</sg>,;
+<sg>depose, uncrown</sg>,;
+<sg>unfrock, strike off the roll</sg>,;
+<sg>disbar, disbench</sg>,;
+<sg>be abrogated </sg>,;
+<sg>receive its quietus</sg>,;
+<sg>walk the plank</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>abrogated</sg>,;
+<sg>functus officio</sg>,;
+<sg>Int</sg>,;
+<sg>get along with you!, begone!, go about your business!, away with!,</sg>,;
+<br>
+</paragraph>

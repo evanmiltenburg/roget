@@ -1,0 +1,108 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#27#</sectionNumber>
+<headword>#<b>#[001] #687# Improvement #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>improvement</i></sg>,;
+<sg>amelioration, melioration</sg>,;
+<sg>betterment</sg>,;
+<sg>mend, amendment, emendation</sg>,;
+<sg>mending</sg>,;
+<sg>advancement</sg>,;
+<sg>advance ,<cref>282 <i>progress</i></cref></sg>,;
+<sg>ascent ,<cref> 305 <i>ingress</i></cref></sg>,;
+<sg>promotion, preferment</sg>,;
+<sg>elevation ,<cref> 307 <i>reception</i></cref></sg>,;
+<sg>increase ,<cref> 35 <i>superiority</i></cref></sg>,;
+<sg>cultivation, civilization</sg>,;
+<sg>culture, march of intellect</sg>,;
+<sg>menticulture</sg>,;
+<sg>race-culture, eugenics</sg>,;
+<sg>reform, reformation</sg>,;
+<sg>revision, radical reform</sg>,;
+<sg>second thoughts, correction, limoe labor, refinement, elaboration</sg>,;
+<sg>purification ,<cref> 652 <i>avoidance</i></cref></sg>,;
+<sg>oxidation</sg>,;
+<sg>repair ,<cref>660 <i>restoration</i></cref></sg>,;
+<sg>recovery ,<cref> 660 <i>instrumentality</i></cref></sg>,;
+<sg>revise, new edition</sg>,;
+<sg>reformer, radical</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>improve</sg>,;
+<sg>be better, become better, get better</sg>,;
+<sg>mend, amend</sg>,;
+<sg>advance ,<cref>282 <i>progress</i></cref></sg>,;
+<sg>ascend ,<cref> 305 <i>ingress</i></cref></sg>,;
+<sg>increase ,<cref> 35 <i>superiority</i></cref></sg>,;
+<sg>fructify, ripen, mature</sg>,;
+<sg>pick up, come about, rally, take a favorable turn</sg>,;
+<sg>turn over a new leaf, turn the corner</sg>,;
+<sg>raise one's head, sow one's wild oats</sg>,;
+<sg>recover ,<cref> 660 <i>instrumentality</i></cref></sg>,;
+<sg>be better</sg>,;
+<sg>, be improved by</sg>,;
+<sg>turn to right account, turn to good account, turn to best account</sg>,;
+<sg>profit by, reap the benefit of</sg>,;
+<sg>make good use of, make capital out of</sg>,;
+<sg>place to good account</sg>,;
+<sg>render better, improve, mend, amend, better</sg>,;
+<sg>ameliorate, meliorate</sg>,;
+<sg>correct</sg>,;
+<sg>decrassify</sg>,;
+<sg>improve upon, refine upon</sg>,;
+<sg>rectify</sg>,;
+<sg>enrich, mellow, elaborate, fatten</sg>,;
+<sg>promote, cultivate, advance, forward, enhance</sg>,;
+<sg>bring forward, bring on</sg>,;
+<sg>foster ,<cref> 707 <i>disuse</i></cref></sg>,;
+<sg>invigorate ,<cref>159 <i>strengthen</i></cref></sg>,;
+<sg>touch up, rub up, brush up, furbish up, bolster up, vamp up, brighten up, warm up</sg>,;
+<sg>polish, cook, make the most of, set off to advantage</sg>,;
+<sg>prune</sg>,;
+<sg>repair ,<cref>660 <i>restore</i></cref></sg>,;
+<sg>put in order ,<cref>60 <i>arrange</i></cref></sg>,;
+<sg>review, revise</sg>,;
+<sg>make corrections, make improvements</sg>,;
+<sg>doctor ,<cref>662 <i>remedy</i></cref></sg>,;
+<sg>purify, ,<cref> 652 <i>avoidance</i></cref></sg>,;
+<sg>relieve, refresh, infuse new blood into, recruit</sg>,;
+<sg>reform, remodel, reorganize</sg>,;
+<sg>new model</sg>,;
+<sg>view in a new light, think better of, appeal from Philip drunk to Philip sober</sg>,;
+<sg>palliate, mitigate</sg>,;
+<sg>lessen an evil ,<cref> 36 <i>inferiority</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>improving</sg>,;
+<sg>progressive, improved</sg>,;
+<sg>better, better off, better for</sg>,;
+<sg>all the better for</sg>,;
+<sg>better advised</sg>,;
+<sg>reformatory, emendatory</sg>,;
+<sg>reparatory ,<cref>660 <i>restorative</i></cref></sg>,;
+<sg>remedial ,<cref> 662 <i>instrument</i></cref></sg>,;
+<sg>corrigible, improvable</sg>,;
+<sg>accultural</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>on consideration, on reconsideration, on second thoughts, on better advice</sg>,;
+<sg>ad melius inquirendum</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>urbent latericiam invenit marmoream reliquit</sg>,;
+<br>
+</paragraph>

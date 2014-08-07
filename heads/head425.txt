@@ -1,0 +1,61 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#15#</sectionNumber>
+<headword>#<b>#[001] #425# Resonance #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>resonance</i></sg>,;
+<sg>ring</sg>,;
+<sg>ringing, tintinabulation</sg>,;
+<sg>reflexion, reflection, reverberation</sg>,;
+<sg>echo, reecho</sg>,;
+<sg>zap, zot</sg>,;
+<sg>buzz (hiss) 409</sg>,;
+<sg>low note, base note, bass note, flat note, grave note, deep note</sg>,;
+<sg>bass</sg>,;
+<sg>basso, basso profondo</sg>,;
+<sg>baritone, barytone</sg>,;
+<sg>contralto</sg>,;
+<sg>echo chamber, resonator</sg>,;
+<sg>tinnitus</sg>,;
+<sg>bell, doorbell, buzzer</sg>,;
+<sg>gong, cymbals (musical instruments) 417</sg>,;
+<sg>sympathetic vibrations</sg>,;
+<sg>natural frequency, coupled vibration frequency</sg>,;
+<sg>overtone</sg>,;
+<sg>resonating cavity</sg>,;
+<sg>sounding board, tuning fork</sg>,;
+<sg>tuning, squelch, frequency selection</sg>,;
+<sg>resonator, resonator circuit</sg>,;
+<sg>radio   resonant structure, aromaticity, alternating double bonds, non-bonded resonance</sg>,;
+<sg>pi clouds, unsaturation, double bond, (valence)</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>resound, reverberate, reecho, resonate</sg>,;
+<sg>ring, jingle, gingle, chink, clink</sg>,;
+<sg>tink, tinkle</sg>,;
+<sg>chime</sg>,;
+<sg>gurgle ,<cref> 405 <i>insipidity</i></cref></sg>,;
+<sg>plash, goggle, echo, ring in the ear</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>resounding</sg>,;
+<sg>resonant, reverberant, tinnient, tintinnabulary</sg>,;
+<sg>sonorous, booming, deep-toned, deep-sounding, deep-mouthed, vibrant</sg>,;
+<sg>hollow, sepulchral</sg>,;
+<sg>gruff ,<cref>410 <i>harsh</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>sweet bells jangled, out of time and harsh</sg>,;
+<sg>echoing down the mountain and through the dell</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,63 @@
+<classNumber>#2#</classNumber>
+<sectionNumber>#10#</sectionNumber>
+<headword>#<b>#[001] #244# Front #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>front</i></sg>,;
+<sg>fore, forepart</sg>,;
+<sg>foreground</sg>,;
+<sg>face, disk, disc, frontage</sg>,;
+<sg>facade, proscenium, facia, frontispiece</sg>,;
+<sg>anteriority</sg>,;
+<sg>obverse (of a medal or coin)</sg>,;
+<sg>fore rank, front rank</sg>,;
+<sg>van, vanguard</sg>,;
+<sg>advanced guard</sg>,;
+<sg>outpost</sg>,;
+<sg>first line</sg>,;
+<sg>scout</sg>,;
+<sg>brow, forehead, visage, physiognomy, phiz, countenance, mut</sg>,;
+<sg>rostrum, beak, bow, stem, prow, prore, jib</sg>,;
+<sg>pioneer ,<cref>64 <i>precursor</i></cref></sg>,;
+<sg>metoposcopy</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be in front, stand in front</sg>,;
+<sg>front, face, confront</sg>,;
+<sg>bend forwards</sg>,;
+<sg>come to the front, come to the fore</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>fore, anterior, front, frontal</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>before</sg>,;
+<sg>in front, in the van, in advance</sg>,;
+<sg>ahead, right ahead</sg>,;
+<sg>forehead, foremost</sg>,;
+<sg>in the foreground, in the lee of</sg>,;
+<sg>before one's face, before one's eyes</sg>,;
+<sg>face to face, vis-a-vis</sg>,;
+<sg>front a front</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>formosa muta commendatio est</sg>,;
+<sg>frons est animi janua</sg>,;
+<sg>Human face divine</sg>,;
+<sg>imago animi vultus est indices oculi</sg>,;
+<sg>sea of upturned faces</sg>,;
+<br>
+</paragraph>

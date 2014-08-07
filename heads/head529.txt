@@ -1,0 +1,129 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#21#</sectionNumber>
+<headword>#<b>#[001] #529# Memory #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>memory, </i>remembrance</sg>,;
+<sg>retention, retentiveness</sg>,;
+<sg>tenacity</sg>,;
+<sg>veteris vestigia flammae</sg>,;
+<sg>tablets of the memory</sg>,;
+<sg>readiness</sg>,;
+<sg>reminiscence, recognition, recollection, rememoration</sg>,;
+<sg>recurrence, flashback</sg>,;
+<sg>retrospect, retrospection</sg>,;
+<sg>afterthought, post script, PS</sg>,;
+<sg>suggestion ,<cref>527 <i>information</i></cref></sg>,;
+<sg>prompting</sg>,;
+<sg>hint, reminder</sg>,;
+<sg>remembrancer, flapper</sg>,;
+<sg>memorial ,<cref>551 <i>record</i></cref></sg>,;
+<sg>commemoration ,<cref>883 <i>celebration</i></cref></sg>,;
+<sg>note, memo, memorandum</sg>,;
+<sg>things to be remembered, token of remembrance, memento, souvenir, keepsake, relic, memorabilia</sg>,;
+<sg>art of memory, artificial memory</sg>,;
+<sg>memoria technica</sg>,;
+<sg>mnemonics, mnemotechnics</sg>,;
+<sg>phrenotypics</sg>,;
+<sg>Mnemosyne</sg>,;
+<sg>prompt-book</sg>,;
+<sg>crib sheet, cheat sheet</sg>,;
+<sg>retentive memory, tenacious memory, photographic memory, green memory, trustworthy memory, capacious memory, faithful memory, correct memory, exact memory, ready memory, prompt memory, accurate recollection</sg>,;
+<sg>perfect memory, total recall</sg>,;
+<sg>celebrity, fame, renown, reputation ,<cref>873 <i>repute</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>remember, mind</sg>,;
+<sg>retain the memory of, retain the remembrance of</sg>,;
+<sg>keep in view</sg>,;
+<sg>recognize, recollect, bethink oneself, recall, call up, retrace</sg>,;
+<sg>look back, trace back, trace backwards</sg>,;
+<sg>think back, look back upon</sg>,;
+<sg>review</sg>,;
+<sg>call upon, recall upon, bring to mind, bring to remembrance</sg>,;
+<sg>carry one's thoughts back</sg>,;
+<sg>rake up the past</sg>,;
+<sg>have in the thoughts, hold in the thoughts, bear in the thoughts, carry in the thoughts, keep in the thoughts, retain in the thoughts, have in the memory, hold in the memory, bear in the memory, carry in the memory, keep in the memory, retain in the memory, have in the mind, hold in the mind, bear in the mind, carry in the mind, keep in the mind, retain in the mind, hold in remembrance</sg>,;
+<sg>be in one's thoughts, live in one's thoughts, remain in one's thoughts, dwell in one's thoughts, haunt one's thoughts, impress one's thoughts, be in one's mind, live in one's mind, remain in one's mind, dwell in one's mind, haunt one's mind, impress one's mind, dwell in one's memory</sg>,;
+<sg>sink in the mind</sg>,;
+<sg>run in the head</sg>,;
+<sg>not be able to get out of one's head</sg>,;
+<sg>be deeply impressed with</sg>,;
+<sg>rankle ,<cref>919 <i>revenge</i></cref></sg>,;
+<sg>recur to the mind</sg>,;
+<sg>flash on the mind, flash across the memory</sg>,;
+<sg>remind</sg>,;
+<sg>suggest ,<cref>527 <i>inform </i></cref></sg>,;
+<sg>prompt</sg>,;
+<sg>put in mind, keep in mind, bring to mind</sg>,;
+<sg>fan the embers</sg>,;
+<sg>call up, summon up, rip up</sg>,;
+<sg>renew</sg>,;
+<sg>infandum renovare dolorem</sg>,;
+<sg>jog the memory, flap the memory, refresh the memory, rub up the memory, awaken the memory</sg>,;
+<sg>pull by the sleeve</sg>,;
+<sg>bring back to the memory, put in remembrance, memorialize</sg>,;
+<sg>task the memory, tax the memory</sg>,;
+<sg>get at one's fingers' ends, have at one's fingers', learn at one's fingers', know one's lesson, say one's lesson, repeat by heart, repeat by rote</sg>,;
+<sg>say one's lesson</sg>,;
+<sg>repeat, repeat as a parrot</sg>,;
+<sg>have at one's fingers' ends, have at one's finger tips</sg>,;
+<sg>commit to memory, memorize</sg>,;
+<sg>con over, con</sg>,;
+<sg>fix in the memory, rivet in the memory, imprint in the memory, impress in the memory, stamp in the memory, grave in the memory, engrave in the memory, store in the memory, treasure up in the memory, bottle up in the memory, embalm in the memory, enshrine in the memory</sg>,;
+<sg>load the memory with, store the memory with, stuff the memory with, burden the memory with</sg>,;
+<sg>redeem from oblivion</sg>,;
+<sg>keep the memory alive, keep the wound green, pour salt in the wound, reopen old wounds'</sg>,;
+<sg>tangere ulcus</sg>,;
+<sg>keep up the memory of</sg>,;
+<sg>commemorate ,<cref>883 <i>celebrate</i></cref></sg>,;
+<sg>make a note of, jot a note, pen a memorandum ,<cref>551 <i>record</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>remembering, remembered</sg>,;
+<sg>mindful, reminiscential</sg>,;
+<sg>retained in the memory</sg>,;
+<sg>pent up in one's memory</sg>,;
+<sg>fresh</sg>,;
+<sg>green, green in remembrance</sg>,;
+<sg>unforgotten, present to the mind</sg>,;
+<sg>within one's memory</sg>,;
+<sg>indelible</sg>,;
+<sg>uppermost in one's thoughts</sg>,;
+<sg>memorable ,<cref>642 <i>important</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>by heart, by rote</sg>,;
+<sg>without book, memoriter</sg>,;
+<sg>in memory of</sg>,;
+<sg>in memoriam</sg>,;
+<sg>memoria in aeterna</sg>,;
+<sg>suggestive</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>manet alta mente repostum</sg>,;
+<sg>forsan et haec olim meminisse juvabit</sg>,;
+<sg>absens haeres non erit</sg>,;
+<sg>beatae memoriae</sg>,;
+<sg>briefly thyself remember</sg>,;
+<sg>mendacem memorem esse oportet</sg>,;
+<sg>memory the warder of the brain</sg>,;
+<sg>parsque est meminisse doloris</sg>,;
+<sg>to live in hearts we leave behind is not to die</sg>,;
+<sg>vox audita peril littera scripta manet</sg>,;
+<sg>out of sight, out of mind</sg>,;
+<br>
+</paragraph>

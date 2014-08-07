@@ -1,0 +1,65 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#6#</sectionNumber>
+<headword>#<b>#[001] #119# Instantaneity #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>instantaneity, </i>instantaneousness, immediacy</sg>,;
+<sg>suddenness, abruptness</sg>,;
+<sg>moment, instant, second, minute</sg>,;
+<sg>twinkling, trice, flash, breath, crack, jiffy, coup, burst, flash of lightning, stroke of time</sg>,;
+<sg>epoch, time</sg>,;
+<sg>time of day, time of night</sg>,;
+<sg>hour, minute</sg>,;
+<sg>very minute , very time, very hour</sg>,;
+<sg>present time, right time, true time, exact correct time</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be instantaneous</sg>,;
+<sg>twinkle, flash</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>instantaneous, momentary, sudden, immediate, instant, abrupt, discontinuous, precipitous, precipitant, precipitate</sg>,;
+<sg>subitaneous, hasty</sg>,;
+<sg>quick as thought, quick as lightning, quick as a flash</sg>,;
+<sg>rapid as electricity</sg>,;
+<sg>speedy, quick, fast, fleet, swift, lively, blitz</sg>,;
+<sg>rapid (velocity) 274</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>instantaneously</sg>,;
+<sg>in no time, in less than no time</sg>,;
+<sg>presto, subito, instanter, suddenly, at a stroke, like a shot</sg>,;
+<sg>in a moment</sg>,;
+<sg>in the blink of an eye, in the twinkling of an eye, in a trice</sg>,;
+<sg>in one's tracks</sg>,;
+<sg>right away</sg>,;
+<sg>toute a l'heure</sg>,;
+<sg>at one jump, in the same breath, per saltum, uno saltu</sg>,;
+<sg>at once, all at once</sg>,;
+<sg>plump, slap</sg>,;
+<sg>at one fell swoop</sg>,;
+<sg>at the same instant</sg>,;
+<sg>immediately ,<cref>132 <i>early</i></cref></sg>,;
+<sg>extempore, on the moment, on the spot, on the spur of the moment</sg>,;
+<sg>no sooner said than done</sg>,;
+<sg>just then</sg>,;
+<sg>slap-dash ,<cref>684 <i>haste</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>touch and go</sg>,;
+<sg>no sooner said than done</sg>,;
+<br>
+</paragraph>

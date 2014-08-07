@@ -1,0 +1,112 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#15#</sectionNumber>
+<headword>#<b>#[001] #373# Killing #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>killing</i></sg>,;
+<sg>homicide, manslaughter, murder, assassination, trucidation, iccusion</sg>,;
+<sg>effusion of blood</sg>,;
+<sg>blood, blood shed</sg>,;
+<sg>gore, slaughter, carnage, butchery</sg>,;
+<sg>battue</sg>,;
+<sg>massacre</sg>,;
+<sg>fusillade, noyade</sg>,;
+<sg>thuggery, Thuggism</sg>,;
+<sg>deathblow, finishing stroke, coup de grace, quietus</sg>,;
+<sg>execution ,<cref>972 <i>capital punishment</i></cref></sg>,;
+<sg>judicial murder</sg>,;
+<sg>martyrdom</sg>,;
+<sg>butcher, slayer, murderer, Cain, assassin, terrorist, cutthroat, garroter, bravo, Thug, Moloch, matador, sabreur</sg>,;
+<sg>guet-a-pens</sg>,;
+<sg>gallows, executioner ,<cref>975 <i>punishment</i></cref></sg>,;
+<sg>man-eater, apache, hatchet man, highbinder</sg>,;
+<sg>regicide, parricide, matricide, fratricide, infanticide, feticide, foeticide, uxoricide, vaticide</sg>,;
+<sg>suicide, felo de se, hara-kiri, suttee, Juggernath</sg>,;
+<sg>immolation, auto da fe, holocaust</sg>,;
+<sg>suffocation, strangulation, garrote</sg>,;
+<sg>hanging</sg>,;
+<sg>lapidation</sg>,;
+<sg>deadly weapon ,<cref>727 <i>arms</i></cref></sg>,;
+<sg>Aceldama</sg>,;
+<sg>slaughtering</sg>,;
+<sg>phthisozoics</sg>,;
+<sg>sport, sporting</sg>,;
+<sg>the chase, venery</sg>,;
+<sg>hunting, coursing, shooting, fishing</sg>,;
+<sg>pig- sticking</sg>,;
+<sg>sportsman, huntsman, fisherman</sg>,;
+<sg>hunter, Nimrod</sg>,;
+<sg>slaughterhouse, meat packing plant, shambles, abattoir</sg>,;
+<sg>fatal accident, violent death, casualty</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>kill, put to death, slay, shed blood</sg>,;
+<sg>murder, assassinate, butcher, slaughter, victimize, immolate</sg>,;
+<sg>massacre</sg>,;
+<sg>take away life, deprive of life</sg>,;
+<sg>make away with, put an end to</sg>,;
+<sg>despatch, dispatch</sg>,;
+<sg>burke, settle, do for</sg>,;
+<sg>strangle, garrote, hang, throttle, choke, stifle, suffocate, stop the breath, smother, asphyxiate, drown</sg>,;
+<sg>saber</sg>,;
+<sg>cut down, cut to pieces, cut the throat</sg>,;
+<sg>jugulate</sg>,;
+<sg>stab, run through the body, bayonet, eviscerate</sg>,;
+<sg>put to the sword, put to the edge of the sword</sg>,;
+<sg>shoot dead</sg>,;
+<sg>blow one's brains out</sg>,;
+<sg>brain, knock on the head</sg>,;
+<sg>stone, lapidate</sg>,;
+<sg>give a deathblow</sg>,;
+<sg>deal a deathblow</sg>,;
+<sg>give a quietus, give a coupe de grace</sg>,;
+<sg>behead, bowstring, electrocute, gas ,<cref>972 <i>execute</i></cref></sg>,;
+<sg>hunt, shoot</sg>,;
+<sg>cut off, nip in the bud, launch into eternity, send to one's last account, sign one's death warrant, strike the death knell of</sg>,;
+<sg>give no quarter, pour out blood like water</sg>,;
+<sg>decimate</sg>,;
+<sg>run amuck</sg>,;
+<sg>wade knee deep in blood, imbrue one's hands in blood</sg>,;
+<sg>die a violent death, welter in one's blood</sg>,;
+<sg>dash out one's brains, blow out one's brains</sg>,;
+<sg>commit suicide</sg>,;
+<sg>kill oneself, make away with oneself, put an end to oneself, put an end to it all</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>killing</sg>,;
+<sg>murderous, slaughterous</sg>,;
+<sg>sanguinary, sanguinolent</sg>,;
+<sg>blood stained, blood thirsty</sg>,;
+<sg>homicidal, red handed</sg>,;
+<sg>bloody, bloody minded</sg>,;
+<sg>ensanguined, gory</sg>,;
+<sg>thuggish</sg>,;
+<sg>mortal, fatal, lethal</sg>,;
+<sg>dead, deadly</sg>,;
+<sg>mortiferous, lethiferous</sg>,;
+<sg>unhealthy ,<cref> 657 <i>mid-course</i></cref></sg>,;
+<sg>internecine</sg>,;
+<sg>suicidal</sg>,;
+<sg>sporting</sg>,;
+<sg>piscatorial, piscatory</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>in at the death</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>assassination has never changed the history of the world</sg>,;
+<br>
+</paragraph>

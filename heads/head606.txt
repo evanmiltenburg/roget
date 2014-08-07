@@ -1,0 +1,63 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#25#</sectionNumber>
+<headword>#<b>#[001] #606# Voice #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>voice</i></sg>,;
+<sg>vocality</sg>,;
+<sg>organ, lungs, bellows</sg>,;
+<sg>good voice, fine voice, powerful voice ,<cref>404 <i>loud</i></cref></sg>,;
+<sg>musical voice ,<cref> 413 <i>sourness</i></cref></sg>,;
+<sg>intonation</sg>,;
+<sg>tone of voice ,<cref>402 <i>sound</i></cref></sg>,;
+<sg>vocalization</sg>,;
+<sg>cry ,<cref> 411 <i>unsavoriness</i></cref></sg>,;
+<sg>strain, utterance, prolation</sg>,;
+<sg>exclamation, ejaculation, vociferation, ecphonesis</sg>,;
+<sg>enunciation, articulation</sg>,;
+<sg>articulate sound, distinctness</sg>,;
+<sg>clearness, of articulation</sg>,;
+<sg>stage whisper</sg>,;
+<sg>delivery</sg>,;
+<sg>accent, accentuation</sg>,;
+<sg>emphasis, stress</sg>,;
+<sg>broad accent, strong accent, pure accent, native accent, foreign accent</sg>,;
+<sg>pronunciation</sg>,;
+<sg>homonym</sg>,;
+<sg>orthoepy</sg>,;
+<sg>cacoepy</sg>,;
+<sg>euphony ,<cref>413 <i>melody</i></cref></sg>,;
+<sg>gastriloquism, ventriloquism</sg>,;
+<sg>ventriloquist</sg>,;
+<sg>polyphonism, polyphonist</sg>,;
+<sg>phonology ,<cref>402 <i>sound</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>utter, breathe</sg>,;
+<sg>give utterance, give tongue</sg>,;
+<sg>cry ,<cref>411 <i>shout</i></cref></sg>,;
+<sg>ejaculate, rap out</sg>,;
+<sg>vocalize, prolate, articulate, enunciate, pronounce, accentuate, aspirate, deliver, mouth</sg>,;
+<sg>whisper in the ear</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>vocal, phonetic, oral</sg>,;
+<sg>ejaculatory, articulate, distinct, stertorous</sg>,;
+<sg>euphonious ,<cref>413 <i>melodious</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>how sweetly sounds the voice of a good woman</sg>,;
+<sg>the organ of the soul</sg>,;
+<sg>thy voice is a celestial melody</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,63 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#3#</sectionNumber>
+<headword>#<b>#[001] #56# Incompleteness #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>incompleteness</i></sg>,;
+<sg>deficiency, short measure</sg>,;
+<sg>shortcoming ,<cref> 304 <i>departure</i></cref></sg>,;
+<sg>insufficiency ,<cref> 640 <i>impulse</i></cref></sg>,;
+<sg>imperfection ,<cref> 651 <i>pursuit</i></cref></sg>,;
+<sg>immaturity ,<cref>674 <i>nonpreparation</i></cref></sg>,;
+<sg>half measures</sg>,;
+<sg>defect, deficit, defalcation, omission</sg>,;
+<sg>caret</sg>,;
+<sg>shortage</sg>,;
+<sg>interval ,<cref> 198 <i>abode</i></cref></sg>,;
+<sg>break ,<cref>70 <i>discontinuity</i></cref></sg>,;
+<sg>noncompletion ,<cref> 730 <i>bungler</i></cref></sg>,;
+<sg>missing link</sg>,;
+<sg>missing piece, missing part, gap, hole, lacuna</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be incomplete</sg>,;
+<sg>fall short of ,<cref> 304 <i>departure</i></cref></sg>,;
+<sg>lack ,<cref>640 <i>be insufficient</i></cref></sg>,;
+<sg>neglect ,<cref> 460 <i>vision</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>incomplete</sg>,;
+<sg>imperfect ,<cref> 651 <i>pursuit</i></cref></sg>,;
+<sg>unfinished</sg>,;
+<sg>uncompleted &c (complete) ,<cref> 729 <i>proficient</i></cref></sg>,;
+<sg>defective, deficient, wanting, lacking, failing</sg>,;
+<sg>in default, in arrear</sg>,;
+<sg>short of</sg>,;
+<sg>hollow, meager, lame, halfand-half, perfunctory, sketchy</sg>,;
+<sg>crude ,<cref>674 <i>unprepared</i></cref></sg>,;
+<sg>mutilated, garbled, docked, lopped, truncated</sg>,;
+<sg>in progress, in hand</sg>,;
+<sg>going on, proceeding</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>incompletely</sg>,;
+<sg>by halves</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>caetera desunt</sg>,;
+<sg>caret</sg>,;
+<br>
+</paragraph>

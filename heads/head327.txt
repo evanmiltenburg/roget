@@ -1,0 +1,37 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#13#</sectionNumber>
+<headword>#<b>#[001] #327# Materiality #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>materiality, </i>materialness</sg>,;
+<sg>corporeity, corporality</sg>,;
+<sg>substantiality, substantialness, flesh and blood, plenum</sg>,;
+<sg>physical condition</sg>,;
+<sg>matter, body, substance, brute matter, stuff, element, principle, parenchyma, material, substratum, hyle, corpus, pabulum</sg>,;
+<sg>frame</sg>,;
+<sg>object, article, thing, something</sg>,;
+<sg>still life</sg>,;
+<sg>stocks and stones</sg>,;
+<sg>materials ,<cref> 635 <i>caprice</i></cref></sg>,;
+<sg>physics</sg>,;
+<sg>somatology, somatics</sg>,;
+<sg>natural philosophy, experimental philosophy</sg>,;
+<sg>physicism</sg>,;
+<sg>physical science, philosophie positive, materialism</sg>,;
+<sg>materialist</sg>,;
+<sg>physicist</sg>,;
+<sg>somatism, somatist</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>material, bodily</sg>,;
+<sg>corporeal, corporal</sg>,;
+<sg>physical</sg>,;
+<sg>somatic, somatoscopic</sg>,;
+<sg>sensible, tangible, ponderable, palpable, substantial</sg>,;
+<sg>objective, impersonal, nonsubjective, neuter, unspiritual, materialistic</sg>,;
+<br>
+</paragraph>

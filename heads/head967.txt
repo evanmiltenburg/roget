@@ -1,0 +1,99 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#38#</sectionNumber>
+<headword>#<b>#[001] #967# Duty #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>duty, </i>what ought to be done, moral obligation, accountableness, liability, onus, responsibility</sg>,;
+<sg>bounden duty, imperative duty</sg>,;
+<sg>call, call of duty</sg>,;
+<sg>accountability</sg>,;
+<sg>allegiance, fealty, tie engagement ,<cref>768 <i>promise</i></cref></sg>,;
+<sg>part</sg>,;
+<sg>function, calling ,<cref>625 <i>business</i></cref></sg>,;
+<sg>morality, morals, decalogue</sg>,;
+<sg>case of conscience</sg>,;
+<sg>conscientiousness ,<cref>939 <i>probity</i></cref></sg>,;
+<sg>conscience, inward monitor, still small voice within, sense of duty, tender conscience, superego</sg>,;
+<sg>the hell within</sg>,;
+<sg>dueness ,<cref> 924 <i>insolence</i></cref></sg>,;
+<sg>propriety, fitness, seemliness, amenability, decorum, to prepon</sg>,;
+<sg>the thing, the proper thing</sg>,;
+<sg>the right thing to do, the proper thing to do</sg>,;
+<sg>ethics, ethology</sg>,;
+<sg>deontology, aretology</sg>,;
+<sg>moral philosophy, ethical philosophy</sg>,;
+<sg>casuistry, polity</sg>,;
+<sg>observance, fulfillment, discharge, performance, acquittal, satisfaction, redemption</sg>,;
+<sg>good behavior</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be the duty of</sg>,;
+<sg>be incumbent</sg>,;
+<sg>on, be responsible</sg>,;
+<sg>behoove, become, befit, beseem</sg>,;
+<sg>belong to, pertain to</sg>,;
+<sg>fall to one's lot</sg>,;
+<sg>devolve on</sg>,;
+<sg>lie upon, lie on one's head, lie at one's door</sg>,;
+<sg>rest with, rest on the shoulders of</sg>,;
+<sg>take upon oneself ,<cref>768 <i>promise</i></cref></sg>,;
+<sg>be bound to, become bound to, be sponsor for, become sponsor for</sg>,;
+<sg>incur a responsibility</sg>,;
+<sg>be under an obligation, stand under an obligation, lie under an obligation</sg>,;
+<sg>have to answer for, owe to it oneself</sg>,;
+<sg>impose a duty,</sg>,;
+<sg>enjoin, require, exact</sg>,;
+<sg>bind, bind over</sg>,;
+<sg>saddle with, prescribe, assign, call upon, look to, oblige</sg>,;
+<sg>enter upon a duty, perform a duty, observe a duty, fulfill a duty, discharge a duty, adhere to a duty, acquit oneself of a duty, satisfy a duty, enter upon an obligation, perform an obligation, observe an obligation, fulfill an obligation, discharge an obligation, adhere to an obligation, acquit oneself of an obligation, satisfy an obligation</sg>,;
+<sg>act one's part, redeem one's pledge, do justice to, be at one's post</sg>,;
+<sg>do duty</sg>,;
+<sg>do one's duty ,<cref>944 <i>be virtuous</i></cref></sg>,;
+<sg>be on one's good behavior, mind one's P's and Q's</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>obligatory, binding</sg>,;
+<sg>imperative, peremptory</sg>,;
+<sg>stringent ,<cref>739 <i>severe</i></cref></sg>,;
+<sg>behooving</sg>,;
+<sg>incumbent on, chargeable on</sg>,;
+<sg>under obligation</sg>,;
+<sg>obliged by, bound by, tied by</sg>,;
+<sg>saddled with</sg>,;
+<sg>due to, beholden to, bound to, indebted to</sg>,;
+<sg>tied down</sg>,;
+<sg>compromised ,<cref>768 <i>promised</i></cref></sg>,;
+<sg>in duty bound</sg>,;
+<sg>amenable, liable, accountable, responsible, answerable</sg>,;
+<sg>right, meet ,<cref>924 <i>due</i></cref></sg>,;
+<sg>moral, ethical, casuistical, conscientious, ethological</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>with a safe conscience, as in duty, bound, on one's own responsibility, at one's own risk, suo periculo</sg>,;
+<sg>in foro conscientiae</sg>,;
+<sg>quamdiu se bene gesserit</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>dura lex sed lex</sg>,;
+<sg>dulce et decorum est pro patria mori</sg>,;
+<sg>honos habet onus</sg>,;
+<sg>leve fit quod bene fertur onus</sg>,;
+<sg>loyaute m'oblige</sg>,;
+<sg>simple duty bath no place for fear</sg>,;
+<sg>stern daughter of the voice of God</sg>,;
+<sg>there is a higher law than the Constitution</sg>,;
+<br>
+</paragraph>

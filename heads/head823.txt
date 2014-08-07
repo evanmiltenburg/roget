@@ -1,0 +1,50 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#34#</sectionNumber>
+<headword>#<b>#[001] #823# Restitution #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>restitution, </i>return</sg>,;
+<sg>rendition, reddition</sg>,;
+<sg>restoration</sg>,;
+<sg>reinvestment, recuperation</sg>,;
+<sg>rehabilitation ,<cref>660 <i>reconstruction</i></cref></sg>,;
+<sg>reparation, atonement</sg>,;
+<sg>compensation, indemnification</sg>,;
+<sg>release, replevin, redemption</sg>,;
+<sg>recovery ,<cref>775 <i>getting back</i></cref></sg>,;
+<sg>remitter, reversion</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>return, restore</sg>,;
+<sg>give back, carry back, bring back</sg>,;
+<sg>render, render up</sg>,;
+<sg>give up</sg>,;
+<sg>let go, unclutch</sg>,;
+<sg>disgorge, regorge</sg>,;
+<sg>regurgitate</sg>,;
+<sg>recoup, reimburse, compensate, indemnify</sg>,;
+<sg>remit, rehabilitate</sg>,;
+<sg>repair ,<cref>660 <i>make good</i></cref></sg>,;
+<sg>reinvest, revest, reinstate</sg>,;
+<sg>redeem, recover ,<cref>775 <i>get back</i></cref></sg>,;
+<sg>take back again</sg>,;
+<sg>revest, revert</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>restoring</sg>,;
+<sg>recuperative ,<cref> 660 <i>instrumentality</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>suum cuique</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,58 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#17#</sectionNumber>
+<headword>#<b>#[001] #484# Comparison #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>comparison, </i>collation, contrast</sg>,;
+<sg>identification</sg>,;
+<sg>comparative estimate, relative estimate, relativity</sg>,;
+<sg>simile, similitude, analogy (similarity) 17</sg>,;
+<sg>allegory ,<cref>521 <i>metaphor</i></cref></sg>,;
+<sg>matching, pattern-matching</sg>,;
+<sg>ratio, proportion (number) 84</sg>,;
+<sg>discrimination 465</sg>,;
+<sg>indiscrimination 465</sg>,;
+<sg>1</sg>,;
+<sg>identification 465</sg>,;
+<sg>2</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>compare to, compare with</sg>,;
+<sg>collate, confront</sg>,;
+<sg>place side by side, juxtapose ,<cref>197 <i>near</i></cref></sg>,;
+<sg>set against one another, pit against one another</sg>,;
+<sg>contrast, balance</sg>,;
+<sg>identify, draw a parallel, parallel</sg>,;
+<sg>compare notes</sg>,;
+<sg>institute a comparison</sg>,;
+<sg>parva componere magnis</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>comparative</sg>,;
+<sg>metaphorical ,<cref> 521 <i>absurdity</i></cref></sg>,;
+<sg>compared with</sg>,;
+<sg>comparable</sg>,;
+<sg>judged by comparison</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>relatively ,<cref>9 <i>relation</i></cref></sg>,;
+<sg>as compared with</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>comparisons are odious</sg>,;
+<sg>comparisons are odorous</sg>,;
+<br>
+</paragraph>

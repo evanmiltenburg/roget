@@ -1,0 +1,48 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#36#</sectionNumber>
+<headword>#<b>#[001] #922# Celebration #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>celebration, </i>solemnization, jubilee, commemoration, ovation, paean, triumph, jubilation, ceremony (rite) 998</sg>,;
+<sg>holiday, fiesta, zarabanda, revelry, feast (amusement) 840</sg>,;
+<sg>china anniversary, diamond anniversary, golden anniversary, silver anniversary, tin anniversary, china jubilee, diamond jubilee, golden jubilee, silver jubilee, tin jubilee, china wedding, diamond wedding, golden wedding, silver wedding, tin wedding</sg>,;
+<sg>triumphal arch, bonfire, salute</sg>,;
+<sg>salvo, salvo of artillery</sg>,;
+<sg>feu de joie, flourish of trumpets, fanfare, colors flying, illuminations</sg>,;
+<sg>inauguration, installation, presentation</sg>,;
+<sg>coronation</sg>,;
+<sg>Lord Mayor's show</sg>,;
+<sg>harvest-home, red-letter day</sg>,;
+<sg>trophy ,<cref> 733 <i>difficulty</i></cref></sg>,;
+<sg>Te Deum ,<cref>990 <i>thanksgiving</i></cref></sg>,;
+<sg>fete ,<cref> 882 <i>humorist</i></cref></sg>,;
+<sg>holiday ,<cref> 840 <i>credit</i></cref></sg>,;
+<sg>Forefathers' Day</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>celebrate keep, signalize, do honor to, commemorate, solemnize, hallow, mark with a red letter</sg>,;
+<sg>pledge, drink to, toast, hob and nob</sg>,;
+<sg>inaugurate, install, chair</sg>,;
+<sg>rejoice ,<cref> 838 <i>wealth</i></cref></sg>,;
+<sg>kill the fatted calf, hold jubilee, roast an ox</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>celebrating</sg>,;
+<sg>commemorative, celebrated, immortal</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>in honor of, in commemoration of</sg>,;
+<sg>Int</sg>,;
+<sg>hail!, all hail!, io paean, io triumphe!, see the conquering hero comes!</sg>,;
+<br>
+</paragraph>

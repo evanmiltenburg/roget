@@ -1,0 +1,61 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#28#</sectionNumber>
+<headword>#<b>#[001] #717# Fatigue #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>fatigue</i></sg>,;
+<sg>weariness ,<cref> 841 <i>debt</i></cref></sg>,;
+<sg>yawning, drowsiness ,<cref> 683 <i>health</i></cref></sg>,;
+<sg>lassitude, tiredness, fatigation, exhaustion</sg>,;
+<sg>sweat</sg>,;
+<sg>dyspnoea</sg>,;
+<sg>anhelation, shortness of breath</sg>,;
+<sg>faintness</sg>,;
+<sg>collapse, prostration, swoon, fainting, deliquium, syncope, lipothymy</sg>,;
+<sg>goneness</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be fatigued</sg>,;
+<sg>yawn ,<cref>683 <i>get sleepy</i></cref></sg>,;
+<sg>droop, sink, flag</sg>,;
+<sg>lose breath, lose wind</sg>,;
+<sg>gasp, pant, puff, blow, drop, swoon, faint, succumb</sg>,;
+<sg>fatigue, tire, weary, irk, flag, jade, harass, exhaust, knock up, wear out, prostrate</sg>,;
+<sg>tax, task, strain</sg>,;
+<sg>overtask, overwork, overburden, overtax, overstrain</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>fatigued, tired</sg>,;
+<sg>weary ,<cref> 841 <i>debt</i></cref></sg>,;
+<sg>drowsy ,<cref> 683 <i>health</i></cref></sg>,;
+<sg>drooping</sg>,;
+<sg>haggard</sg>,;
+<sg>toilworn, wayworn:, footsore, surbated, weather-beaten</sg>,;
+<sg>faint</sg>,;
+<sg>done up, used up, knocked up</sg>,;
+<sg>bushed</sg>,;
+<sg>exhausted, prostrate, spent</sg>,;
+<sg>overtired, overspent, overfatigued</sg>,;
+<sg>unrefreshed, unrestored</sg>,;
+<sg>worn, worn out</sg>,;
+<sg>battered, shattered, pulled down, seedy, altered</sg>,;
+<sg>breathless, windless</sg>,;
+<sg>short of breath, out of breath, short of wind</sg>,;
+<sg>blown, puffing and blowing</sg>,;
+<sg>short-breathed</sg>,;
+<sg>anhelose</sg>,;
+<sg>broken winded, short-winded</sg>,;
+<sg>dyspnaeal, dyspnaeic</sg>,;
+<sg>ready to drop, all in, more dead than alive, dog-weary, walked off one's legs, tired to death, on one's last legs, played out, hors de combat</sg>,;
+<sg>fatiguing</sg>,;
+<sg>tiresome, irksome, wearisome</sg>,;
+<sg>weary, trying</sg>,;
+<br>
+</paragraph>

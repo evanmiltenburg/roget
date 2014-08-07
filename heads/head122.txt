@@ -1,0 +1,59 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#6#</sectionNumber>
+<headword>#<b>#[001] #122# Priority #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>priority, </i>antecedence, anteriority, precedence, pre-existence</sg>,;
+<sg>precession ,<cref> 280 <i>mariner</i></cref></sg>,;
+<sg>precursor ,<cref> 64 <i>arrangement</i></cref></sg>,;
+<sg>the past ,<cref> 122 <i>priority</i></cref></sg>,;
+<sg>premises</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>precede, come before</sg>,;
+<sg>forerun</sg>,;
+<sg>go before ,<cref>280 <i>lead</i></cref></sg>,;
+<sg>preexist</sg>,;
+<sg>dawn</sg>,;
+<sg>presage ,<cref> 511 <i>incredulity</i></cref></sg>,;
+<sg>herald, usher in</sg>,;
+<sg>be beforehand ,<cref>132 <i>be early</i></cref></sg>,;
+<sg>steal a march upon, anticipate, forestall</sg>,;
+<sg>have the start, gain the start</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>prior, previous</sg>,;
+<sg>preceding, precedent</sg>,;
+<sg>anterior, antecedent</sg>,;
+<sg>pre- existing, pre-existent</sg>,;
+<sg>former, foregoing</sg>,;
+<sg>aforementioned, before- mentioned, abovementioned</sg>,;
+<sg>aforesaid, said</sg>,;
+<sg>introductory ,<cref>64 <i>precursory</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>before, prior to</sg>,;
+<sg>earlier</sg>,;
+<sg>previously</sg>,;
+<sg>afore, aforehand, beforehand, ere, theretofore, erewhile</sg>,;
+<sg>ere then, ere now, before then, before now</sg>,;
+<sg>erewhile, already, yet, beforehand</sg>,;
+<sg>on the eve of</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>prior tempore prior jure</sg>,;
+<br>
+</paragraph>

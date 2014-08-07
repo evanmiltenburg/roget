@@ -1,0 +1,35 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#24#</sectionNumber>
+<headword>#<b>#[001] #559# Secret #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>secret</i></sg>,;
+<sg>dead secret, profound secret</sg>,;
+<sg>arcanum, mystery</sg>,;
+<sg>latency ,<cref> 526 <i>sanity</i></cref></sg>,;
+<sg>Asian mystery</sg>,;
+<sg>sealed book, secrets of the prison house</sg>,;
+<sg>le desous des cartes</sg>,;
+<sg>enigma, riddle, puzzle, nut to crack, conundrum, charade, rebus, logogriph</sg>,;
+<sg>monogram, anagram</sg>,;
+<sg>Sphinx</sg>,;
+<sg>crux criticorum</sg>,;
+<sg>maze, labyrinth, Hyrcynian wood</sg>,;
+<sg>intricacy, meander</sg>,;
+<sg>problem ,<cref>461 <i>question</i></cref></sg>,;
+<sg>paradox ,<cref>704 <i>difficulty</i></cref></sg>,;
+<sg>unintelligibility ,<cref> 519 <i>error</i></cref></sg>,;
+<sg>terra incognita ,<cref>491 <i>ignorance</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>secret ,<cref>528 <i>concealed</i></cref></sg>,;
+<sg>involved , 248</sg>,;
+<sg>labyrinthine, labyrinthian, mazy</sg>,;
+<sg>confidential</sg>,;
+<sg>top secret</sg>,;
+<br>
+</paragraph>

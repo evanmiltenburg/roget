@@ -1,0 +1,68 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#27#</sectionNumber>
+<headword>#<b>#[001] #656# Method #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>method, </i>way, manner, wise, gait, form, mode, fashion, tone, guise</sg>,;
+<sg>modus operandi, MO</sg>,;
+<sg>procedure ,<cref>692 <i>line of conduct</i></cref></sg>,;
+<sg>path, road, route, course</sg>,;
+<sg>line of way, line of road</sg>,;
+<sg>trajectory, orbit, track, beat, tack</sg>,;
+<sg>steps</sg>,;
+<sg>stair, staircase</sg>,;
+<sg>flight of stairs, ladder, stile</sg>,;
+<sg>perron</sg>,;
+<sg>bridge, footbridge, viaduct, pontoon, steppingstone, plank, gangway</sg>,;
+<sg>drawbridge</sg>,;
+<sg>pass, ford, ferry, tunnel</sg>,;
+<sg>pipe ,<cref> 260 <i>convexity</i></cref></sg>,;
+<sg>door</sg>,;
+<sg>gateway ,<cref>260 <i>opening</i></cref></sg>,;
+<sg>channel, passage, avenue, means of access, approach, adit</sg>,;
+<sg>artery, lane, loan, alley, aisle, lobby, corridor</sg>,;
+<sg>back-door, back-stairs</sg>,;
+<sg>secret passage</sg>,;
+<sg>covert way</sg>,;
+<sg>vennel</sg>,;
+<sg>roadway, pathway, stairway</sg>,;
+<sg>express</sg>,;
+<sg>thoroughfare</sg>,;
+<sg>highway</sg>,;
+<sg>turnpike, freeway, royal road, coach road</sg>,;
+<sg>broad highway, King's highway, Queen's highway</sg>,;
+<sg>beaten track, beaten path</sg>,;
+<sg>horse road, bridle road, bridle track, bridle path</sg>,;
+<sg>walk, trottoir, footpath, pavement, flags, sidewalk</sg>,;
+<sg>crossroad, byroad, bypath, byway</sg>,;
+<sg>cut</sg>,;
+<sg>short cut ,<cref>628 <i>mid-course</i></cref></sg>,;
+<sg>carrefour</sg>,;
+<sg>private road, occupation road</sg>,;
+<sg>highways and byways</sg>,;
+<sg>railroad, railway, tram road, tramway</sg>,;
+<sg>towpath</sg>,;
+<sg>causeway</sg>,;
+<sg>canal ,<cref>350 <i>conduit</i></cref></sg>,;
+<sg>street ,<cref>189 <i>abode</i></cref></sg>,;
+<sg>speedway</sg>,;
+<sg>adv</sg>,;
+<sg>how</sg>,;
+<sg>in what way, in what manner</sg>,;
+<sg>by what mode</sg>,;
+<sg>so, in this way, after this fashion</sg>,;
+<sg>one way or another, anyhow</sg>,;
+<sg>somehow or other ,<cref>631 <i>instrumentality</i></cref></sg>,;
+<sg>by way of</sg>,;
+<sg>via</sg>,;
+<sg>in transitu ,<cref> 270 <i>furrow</i></cref></sg>,;
+<sg>on the high road to</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>hae tibi erunt artes</sg>,;
+<br>
+</paragraph>

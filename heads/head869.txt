@@ -1,0 +1,88 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#36#</sectionNumber>
+<headword>#<b>#[001] #869# Content #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>content, </i>contentment, contentedness</sg>,;
+<sg>complacency, satisfaction, entire satisfaction, ease, heart's ease, peace of mind</sg>,;
+<sg>serenity ,<cref> 826 <i>booty</i></cref></sg>,;
+<sg>cheerfulness ,<cref> 836 <i>treasurer</i></cref></sg>,;
+<sg>ray of comfort</sg>,;
+<sg>comfort ,<cref>827 <i>well- being</i></cref></sg>,;
+<sg>reconciliation</sg>,;
+<sg>resignation ,<cref>826 <i>patience</i></cref></sg>,;
+<sg>waiter on Providence</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be content</sg>,;
+<sg>rest satisfied, rest and be thankful</sg>,;
+<sg>take the good the gods provide, let well alone, let well enough alone, feel oneself at home, hug oneself, lay the flattering unction to one's soul</sg>,;
+<sg>take up with, take in good part</sg>,;
+<sg>accept, tolerate</sg>,;
+<sg>consent ,<cref> 762 <i>trophy</i></cref></sg>,;
+<sg>acquiesce, assent ,<cref> 488 <i>identification</i></cref></sg>,;
+<sg>be reconciled to, make one's peace with</sg>,;
+<sg>get over it</sg>,;
+<sg>take heart, take comfort</sg>,;
+<sg>put up with ,<cref>826 <i>bear</i></cref></sg>,;
+<sg>render content</sg>,;
+<sg>set at ease, comfort</sg>,;
+<sg>set one's heart at ease, set one's mind at ease, set one's heart at rest, set one's mind at rest</sg>,;
+<sg>speak peace</sg>,;
+<sg>conciliate, reconcile, win over, propitiate, disarm, beguile</sg>,;
+<sg>content, satisfy</sg>,;
+<sg>gratify ,<cref> 829 <i>sale</i></cref></sg>,;
+<sg>be tolerated ,<cref> 826 <i>booty</i></cref></sg>,;
+<sg>go down, go down well, go down with</sg>,;
+<sg>do</sg>,;
+<sg>be OK</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>content, contented</sg>,;
+<sg>satisfied</sg>,;
+<sg>at ease, at one's ease, at home</sg>,;
+<sg>with the mind at ease, sans souci, sine cura, easygoing, not particular</sg>,;
+<sg>conciliatory</sg>,;
+<sg>unrepining, of good comfort</sg>,;
+<sg>resigned ,<cref>826 <i>patient</i></cref></sg>,;
+<sg>cheerful ,<cref> 836 <i>treasurer</i></cref></sg>,;
+<sg>unafflicted, unvexed, unmolested, unplagued</sg>,;
+<sg>serene ,<cref> 826 <i>booty</i></cref></sg>,;
+<sg>at rest, snug, comfortable</sg>,;
+<sg>in one's element</sg>,;
+<sg>satisfactory, tolerable, good enough, OK, all right, acceptable</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>contently, contentedly, to one's heart's content</sg>,;
+<sg>a la bonne heure</sg>,;
+<sg>all for the best</sg>,;
+<sg>Int</sg>,;
+<sg>amen ,<cref>488 <i>assent</i></cref></sg>,;
+<sg>very well, all the better, so much the better, well and good</sg>,;
+<sg>it will do, that will do</sg>,;
+<sg>it cannot be helped</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>nothing comes amiss</sg>,;
+<sg>a heart with room for every joy</sg>,;
+<sg>ich habe genossen das irdische Gluck ich habe gelebt und geliebet</sg>,;
+<sg>nor cast one longing lingering look behind</sg>,;
+<sg>shut up in measureless content</sg>,;
+<sg>sweet are the thoughts that savor of content</sg>,;
+<sg>their wants but few their wishes all confined</sg>,;
+<sg>might as well relax and enjoy it</sg>,;
+<br>
+</paragraph>

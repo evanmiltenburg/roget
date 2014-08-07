@@ -1,0 +1,31 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#17#</sectionNumber>
+<headword>#<b>#[001] #476# Incuriosity #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>incuriosity, </i>incuriousness</sg>,;
+<sg>insouciance ,<cref> 866 <i>pain</i></cref></sg>,;
+<sg>indifference, lack of interest, disinterest</sg>,;
+<sg>boredom, ennui (weariness) 841</sg>,;
+<sg>satiety ,<cref> 639 <i>predetermination</i></cref></sg>,;
+<sg>foreknowledge (foresight) 510</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be incurious</sg>,;
+<sg>have no curiosity ,<cref> 455 <i>yellowness</i></cref></sg>,;
+<sg>take no interest in ,<cref> 823 <i>restitution</i></cref></sg>,;
+<sg>mind one's own business</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>incurious, uninquisitive, indifferent</sg>,;
+<sg>impassive ,<cref> 823 <i>restitution</i></cref></sg>,;
+<sg>uninterested, detached, aloof</sg>,;
+<br>
+</paragraph>

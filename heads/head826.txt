@@ -1,0 +1,18 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#34#</sectionNumber>
+<headword>#<b>#[001] #826# Booty #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>booty, </i>spoil, plunder, prize, loot, swag, pickings</sg>,;
+<sg>spolia opima, prey</sg>,;
+<sg>blackmail</sg>,;
+<sg>stolen goods</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>manubial</sg>,;
+<br>
+</paragraph>

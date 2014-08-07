@@ -1,0 +1,64 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#38#</sectionNumber>
+<headword>#<b>#[001] #975# Flattery #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>flattery, </i>adulation, gloze</sg>,;
+<sg>blandishment, blandiloquence</sg>,;
+<sg>cajolery</sg>,;
+<sg>fawning, wheedling</sg>,;
+<sg>captation, coquetry, obsequiousness, sycophancy, flunkeyism, toadeating, tuft- hunting</sg>,;
+<sg>snobbishness</sg>,;
+<sg>incense, honeyed words, flummery</sg>,;
+<sg>bunkum, buncombe</sg>,;
+<sg>blarney, placebo, butter</sg>,;
+<sg>soft soap, soft sawder</sg>,;
+<sg>rose water</sg>,;
+<sg>voice of the charmer, mouth honor</sg>,;
+<sg>lip homage</sg>,;
+<sg>euphemism</sg>,;
+<sg>unctuousness</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>flatter, praise to the skies, puff</sg>,;
+<sg>wheedle, cajole, glaver, coax</sg>,;
+<sg>fawn upon, faun upon</sg>,;
+<sg>humor, gloze, soothe, pet, coquet, slaver, butter</sg>,;
+<sg>jolly</sg>,;
+<sg>bespatter, beslubber, beplaster, beslaver</sg>,;
+<sg>lay it on thick, overpraise</sg>,;
+<sg>earwig, cog, collogue</sg>,;
+<sg>truckle to, pander to, pandar to, suck up to, kiss the ass of, pay court to</sg>,;
+<sg>court</sg>,;
+<sg>creep into the good graces of, curry favor with, hang on the sleeve of</sg>,;
+<sg>fool to the top of one's bent</sg>,;
+<sg>lick the dust</sg>,;
+<sg>lay the flattering unction to one's soul, gild the pill, make things pleasant</sg>,;
+<sg>overestimate ,<cref> 482 <i>answer</i></cref></sg>,;
+<sg>exaggerate ,<cref> 549 <i>interpreter</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>flattering</sg>,;
+<sg>adulatory</sg>,;
+<sg>mealy-mouthed, honey-mouthed</sg>,;
+<sg>honeyed</sg>,;
+<sg>smooth, smooth-tongued</sg>,;
+<sg>soapy, oily, unctuous, blandiloquent, specious</sg>,;
+<sg>fine-spoken, fair spoken</sg>,;
+<sg>plausible, servile, sycophantic, fulsome</sg>,;
+<sg>courtierly, courtier-like</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>ad captandum</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,130 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#27#</sectionNumber>
+<headword>#<b>#[001] #668# Sufficiency #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>sufficiency, </i>adequacy, enough, withal, satisfaction, competence</sg>,;
+<sg>no less</sg>,;
+<sg>quantum sufficit, Q</sg>,;
+<sg>S</sg>,;
+<sg>mediocrity ,<cref>29 <i>average</i></cref></sg>,;
+<sg>fill</sg>,;
+<sg>fullness ,<cref>52 <i>completeness</i></cref></sg>,;
+<sg>plenitude, plenty</sg>,;
+<sg>abundance</sg>,;
+<sg>copiousness</sg>,;
+<sg>amplitude, galore, lots, profusion</sg>,;
+<sg>full measure</sg>,;
+<sg>good measure pressed down and running, over</sg>,;
+<sg>luxuriance ,<cref>168 <i>fertility</i></cref></sg>,;
+<sg>affluence ,<cref>803 <i>wealth</i></cref></sg>,;
+<sg>fat of the land</sg>,;
+<sg>a land flowing with milk and honey</sg>,;
+<sg>cornucopia</sg>,;
+<sg>horn of plenty, horn of Amalthaea</sg>,;
+<sg>mine ,<cref>636 <i>stock</i></cref></sg>,;
+<sg>outpouring</sg>,;
+<sg>flood ,<cref>31 <i>great quantity</i></cref></sg>,;
+<sg>tide ,<cref>348 <i>river</i></cref></sg>,;
+<sg>repletion ,<cref>641 <i>redundancy</i></cref></sg>,;
+<sg>satiety ,<cref> 869 <i>content</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be sufficient</sg>,;
+<sg>suffice, do, just do, satisfy, pass muster</sg>,;
+<sg>have enough</sg>,;
+<sg>eat</sg>,;
+<sg>one's fill, drink one's fill, have one's fill</sg>,;
+<sg>roll in, swim in</sg>,;
+<sg>wallow in ,<cref>641 <i>superabundance</i></cref></sg>,;
+<sg>wanton</sg>,;
+<sg>abound, exuberate, teem, flow, stream, rain, shower down</sg>,;
+<sg>pour, pour in</sg>,;
+<sg>swarm</sg>,;
+<sg>bristle with</sg>,;
+<sg>superabound</sg>,;
+<sg>render sufficient</sg>,;
+<sg>replenish ,<cref>52 <i>fill</i></cref></sg>,;
+<sg>Adj</sg>,;
+<sg>sufficient, enough, adequate, up to the mark, commensurate, competent, satisfactory, valid, tangible</sg>,;
+<sg>measured</sg>,;
+<sg>moderate ,<cref>953 <i>temperate</i></cref></sg>,;
+<sg>full, ,<cref>52 <i>complete</i></cref></sg>,;
+<sg>ample</sg>,;
+<sg>plenty, plentiful, plenteous</sg>,;
+<sg>plenty as blackberries</sg>,;
+<sg>copious, abundant</sg>,;
+<sg>abounding</sg>,;
+<sg>replete, enough and to spare, flush</sg>,;
+<sg>choke-full, chock-full</sg>,;
+<sg>well-stocked, well- provided</sg>,;
+<sg>liberal</sg>,;
+<sg>unstinted, unstinting</sg>,;
+<sg>stintless</sg>,;
+<sg>without stint</sg>,;
+<sg>unsparing, unmeasured</sg>,;
+<sg>lavish ,<cref> 641 <i>habit</i></cref></sg>,;
+<sg>wholesale</sg>,;
+<sg>rich</sg>,;
+<sg>luxuriant ,<cref>168 <i>fertile</i></cref></sg>,;
+<sg>affluent ,<cref>803 <i>wealthy</i></cref></sg>,;
+<sg>wantless</sg>,;
+<sg>big with ,<cref>161 <i>pregnant</i></cref></sg>,;
+<sg>unexhausted, unwasted</sg>,;
+<sg>exhaustless, inexhaustible</sg>,;
+<sg>Adv</sg>,;
+<sg>sufficiently, amply </sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>sufficient, enough, adequate, up to the mark, commensurate, competent, satisfactory, valid, tangible</sg>,;
+<sg>measured</sg>,;
+<sg>moderate ,<cref>953 <i>temperate</i></cref></sg>,;
+<sg>full, ,<cref>52 <i>complete</i></cref></sg>,;
+<sg>ample</sg>,;
+<sg>plenty, plentiful, plenteous</sg>,;
+<sg>plenty as blackberries</sg>,;
+<sg>copious, abundant</sg>,;
+<sg>abounding</sg>,;
+<sg>replete, enough and to spare, flush</sg>,;
+<sg>choke-full, chock-full</sg>,;
+<sg>well-stocked, well- provided</sg>,;
+<sg>liberal</sg>,;
+<sg>unstinted, unstinting</sg>,;
+<sg>stintless</sg>,;
+<sg>without stint</sg>,;
+<sg>unsparing, unmeasured</sg>,;
+<sg>lavish ,<cref> 641 <i>habit</i></cref></sg>,;
+<sg>wholesale</sg>,;
+<sg>rich</sg>,;
+<sg>luxuriant ,<cref>168 <i>fertile</i></cref></sg>,;
+<sg>affluent ,<cref>803 <i>wealthy</i></cref></sg>,;
+<sg>wantless</sg>,;
+<sg>big with ,<cref>161 <i>pregnant</i></cref></sg>,;
+<sg>unexhausted, unwasted</sg>,;
+<sg>exhaustless, inexhaustible</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>sufficiently, amply  Adj</sg>,;
+<sg>full</sg>,;
+<sg>in abundance</sg>,;
+<sg>with no sparing hand</sg>,;
+<sg>to one's heart's content, ad libitum, without stint</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>cut and come again</sg>,;
+<sg>das Beste ist gut genug</sg>,;
+<br>
+</paragraph>

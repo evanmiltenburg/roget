@@ -1,0 +1,12 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#34#</sectionNumber>
+<headword>#<b>#[001] #834# Securities #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>securities, </i>stocks, common stock, preferred stock, bonds, puts, calls, options, option contract, warrants, commercial paper, bearer bond, tax-exempt bond, callable bond, convertable bond</sg>,;
+<sg>share, stock certificate</sg>,;
+<sg>coupon, bond coupon</sg>,;
+<sg>liquid assets</sg>,;
+<br>
+</paragraph>

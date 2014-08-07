@@ -1,0 +1,61 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#36#</sectionNumber>
+<headword>#<b>#[001] #925# Servility #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>servility</i></sg>,;
+<sg>slavery ,<cref>749 <i>subjection</i></cref></sg>,;
+<sg>obsequiousness</sg>,;
+<sg>subserviency</sg>,;
+<sg>abasement</sg>,;
+<sg>prostration, prosternation</sg>,;
+<sg>genuflection ,<cref>990 <i>worship</i></cref></sg>,;
+<sg>fawning</sg>,;
+<sg>tuft- hunting, timeserving, flunkeyism</sg>,;
+<sg>sycophancy ,<cref>933 <i>flattery</i></cref></sg>,;
+<sg>humility ,<cref> 879 <i>weariness</i></cref></sg>,;
+<sg>sycophant, parasite</sg>,;
+<sg>toad, toady, toad-eater</sg>,;
+<sg>tufthunter</sg>,;
+<sg>snob, flunky, flunkey, yes-man, lapdog, spaniel, lickspittle, smell-feast, Graeculus esuriens, hanger on, cavaliere servente, led captain, carpet knight</sg>,;
+<sg>timeserver, fortune hunter, Vicar of Bray, Sir- Pertinax, Max Sycophant, pickthank</sg>,;
+<sg>flatterer ,<cref> 935 <i>congratulation</i></cref></sg>,;
+<sg>doer of dirty work</sg>,;
+<sg>ame damnee, tool</sg>,;
+<sg>reptile</sg>,;
+<sg>slave ,<cref>746 <i>servant</i></cref></sg>,;
+<sg>courtier</sg>,;
+<sg>beat, dead beat, doughface, heeler, homme de cour, sponger, sucker, tagtail, truckler</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>cringe, bow, stoop, kneel, bend the knee</sg>,;
+<sg>fall on one's knees, prostrate oneself</sg>,;
+<sg>worship ,<cref> 990 <i>good man</i></cref></sg>,;
+<sg>sneak, crawl, crouch, cower, sponge, truckle to, grovel, fawn, lick the feet of, kiss the hem of one's garment, kiss one's ass, suck up</sg>,;
+<sg>pay court to</sg>,;
+<sg>feed on, fatten on, dance attendance on, pin oneself upon, hang on the sleeve of, avaler les couleuvres, keep time to, fetch and carry, do the dirty work of</sg>,;
+<sg>go with the stream, worship the rising sun, hold with the hare and run with the hounds</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>servile, obsequious</sg>,;
+<sg>supple, supple as a glove</sg>,;
+<sg>soapy, oily, pliant, cringing, abased, dough-faced, fawning, slavish, groveling, sniveling, mealy-mouthed</sg>,;
+<sg>beggarly, sycophantic, parasitical</sg>,;
+<sg>abject, prostrate, down on ones marrowbones</sg>,;
+<sg>base, mean, sneaking</sg>,;
+<sg>crouching</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>hat in hand, cap in hand</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,22 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#14#</sectionNumber>
+<headword>#<b>#[001] #356# Marsh #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>marsh, </i>swamp, morass, marish, moss, fen, bog, quagmire, slough, sump, wash</sg>,;
+<sg>mud, squash, slush</sg>,;
+<sg>baygall, cienaga, jhil, vlei</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>marsh, marshy</sg>,;
+<sg>swampy, boggy, plashy, poachy, quaggy, soft</sg>,;
+<sg>muddy, sloppy, squashy</sg>,;
+<sg>paludal</sg>,;
+<sg>moorish, moory</sg>,;
+<sg>fenny</sg>,;
+<br>
+</paragraph>

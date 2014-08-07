@@ -1,0 +1,41 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#15#</sectionNumber>
+<headword>#<b>#[001] #389# Physical Insensibility #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>insensibility, physical insensibility</sg>,;
+<sg>obtuseness</sg>,;
+<sg>palsy, paralysis, paraesthesia, anaesthesia</sg>,;
+<sg>sleep ,<cref> 823 <i>restitution</i></cref></sg>,;
+<sg>hemiplegia, motor paralysis</sg>,;
+<sg>vegetable state</sg>,;
+<sg>coma</sg>,;
+<sg>anaesthetic agent, opium, ether, chloroform, chloral</sg>,;
+<sg>nitrous oxide, laughing gas</sg>,;
+<sg>exhilarating gas, protoxide of nitrogen</sg>,;
+<sg>refrigeration</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be insensible</sg>,;
+<sg>have a thick skin, have a rhinoceros hide</sg>,;
+<sg>render insensible</sg>,;
+<sg>anaesthetize, blunt, pall, obtund, benumb, paralyze</sg>,;
+<sg>put under the influence of chloroform</sg>,;
+<sg>stupefy, stun</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>insensible, unfeeling, senseless, impercipient, callous, thick- skinned, pachydermatous</sg>,;
+<sg>hard, hardened</sg>,;
+<sg>case hardened</sg>,;
+<sg>proof, obtuse, dull</sg>,;
+<sg>anaesthetic</sg>,;
+<sg>comatose, paralytic, palsied, numb, dead</sg>,;
+<br>
+</paragraph>

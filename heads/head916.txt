@@ -1,0 +1,24 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#36#</sectionNumber>
+<headword>#<b>#[001] #916# Title #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>title, </i>honor</sg>,;
+<sg>knighthood ,<cref>875 <i>nobility</i></cref></sg>,;
+<sg>highness, excellency, grace</sg>,;
+<sg>lordship, worship</sg>,;
+<sg>reverence, reverend</sg>,;
+<sg>esquire, sir, master, Mr</sg>,;
+<sg>, signor, senor, Mein Herr, mynheer</sg>,;
+<sg>your honor, his honor</sg>,;
+<sg>serene highness</sg>,;
+<sg>handle to one's name</sg>,;
+<sg>decoration, laurel, palm, wreath, garland, bays, medal, ribbon, riband, blue ribbon, cordon, cross, crown, coronet, star, garter</sg>,;
+<sg>feather, feather in one's cap</sg>,;
+<sg>epaulet, epaulette, colors, cockade</sg>,;
+<sg>livery</sg>,;
+<sg>order, arms, shield, scutcheon</sg>,;
+<sg>reward ,<cref> 973 <i>approbation</i></cref></sg>,;
+<br>
+</paragraph>

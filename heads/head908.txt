@@ -1,0 +1,38 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#36#</sectionNumber>
+<headword>#<b>#[001] #908# Satiety #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>satiety, </i>satisfaction, saturation, repletion, glut, surfeit</sg>,;
+<sg>cloyment, satiation</sg>,;
+<sg>weariness ,<cref> 841 <i>debt</i></cref></sg>,;
+<sg>spoiled child</sg>,;
+<sg>enfant gete, enfant terrible</sg>,;
+<sg>too much of a good thing, toujours perdrix</sg>,;
+<sg>crambe repetita</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>sate, satiate, satisfy, saturate</sg>,;
+<sg>cloy, quench, slake, pall, glut</sg>,;
+<sg>, gorge, surfeit</sg>,;
+<sg>bore ,<cref>841 <i>weary</i></cref></sg>,;
+<sg>tire ,<cref>688 <i>fatigue</i></cref></sg>,;
+<sg>spoil</sg>,;
+<sg>have enough of, have quite enough of, have one's fill, have too much of</sg>,;
+<sg>be satiated</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>satiated</sg>,;
+<sg>overgorged</sg>,;
+<sg>blase, used up, sick of, heartsick</sg>,;
+<sg>Int</sg>,;
+<sg>enough!, hold!, eheu jam satis!, basta!,</sg>,;
+<br>
+</paragraph>

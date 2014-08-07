@@ -1,0 +1,77 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#27#</sectionNumber>
+<headword>#<b>#[001] #673# Utility #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>utility</i></sg>,;
+<sg>usefulness</sg>,;
+<sg>efficacy, efficiency, adequacy</sg>,;
+<sg>service, use, stead, avail</sg>,;
+<sg>help ,<cref>707 <i>aid</i></cref></sg>,;
+<sg>applicability</sg>,;
+<sg>subservience ,<cref>631 <i>instrumentality</i></cref></sg>,;
+<sg>function ,<cref>625 <i>business</i></cref></sg>,;
+<sg>value</sg>,;
+<sg>worth ,<cref>648 <i>goodness</i></cref></sg>,;
+<sg>money's worth</sg>,;
+<sg>productiveness ,<cref> 168 <i>production</i></cref></sg>,;
+<sg>cui bono ,<cref>620 <i>intention</i></cref></sg>,;
+<sg>utilization ,<cref>677 <i>use</i></cref></sg>,;
+<sg>step in the right direction</sg>,;
+<sg>common weal</sg>,;
+<sg>commonwealth public good, public interest</sg>,;
+<sg>utilitarianism ,<cref>910 <i>philanthropy</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be useful</sg>,;
+<sg>avail, serve</sg>,;
+<sg>subserve ,<cref>631 <i>be instrumental to</i></cref></sg>,;
+<sg>conduce ,<cref>176 <i>tend</i></cref></sg>,;
+<sg>answer, serve one's turn, answer a purpose, serve a purpose</sg>,;
+<sg>act a part ,<cref>680 <i>action</i></cref></sg>,;
+<sg>perform a function, discharge a function </sg>,;
+<sg>render a service, render good service, render yeoman's service</sg>,;
+<sg>bestead, stand one in good stead be the making of</sg>,;
+<sg>help ,<cref> 707 <i>disuse</i></cref></sg>,;
+<sg>bear fruit ,<cref>161 <i>produce</i></cref></sg>,;
+<sg>bring grist to the mill</sg>,;
+<sg>profit, remunerate</sg>,;
+<sg>benefit ,<cref>648 <i>do good</i></cref></sg>,;
+<sg>find one's account in, find one's advantage in</sg>,;
+<sg>reap the benefit of ,<cref>658 <i>be better for</i></cref></sg>,;
+<sg>render useful ,<cref>677 <i>use</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>useful</sg>,;
+<sg>of use</sg>,;
+<sg>serviceable, proficuous, good for</sg>,;
+<sg>subservient ,<cref>631 <i>instrumental</i></cref></sg>,;
+<sg>conducive ,<cref>176 <i>tending</i></cref></sg>,;
+<sg>subsidiary ,<cref>707 <i>helping</i></cref></sg>,;
+<sg>advantageous ,<cref>648 <i>beneficial</i></cref></sg>,;
+<sg>profitable, gainful, remunerative, worth one's salt</sg>,;
+<sg>valuable</sg>,;
+<sg>prolific ,<cref>168 <i>productive</i></cref></sg>,;
+<sg>adequate</sg>,;
+<sg>efficient, efficacious</sg>,;
+<sg>effective, effectual</sg>,;
+<sg>expedient ,<cref> 646 <i>pretext</i></cref></sg>,;
+<sg>applicable, available, ready, handy, at hand, tangible</sg>,;
+<sg>commodious, adaptable</sg>,;
+<sg>of all work</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>usefully</sg>,;
+<sg>pro bono publico</sg>,;
+<br>
+</paragraph>

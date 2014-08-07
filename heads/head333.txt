@@ -1,0 +1,34 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#14#</sectionNumber>
+<headword>#<b>#[001] #333# Rarity #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>rarity, </i>tenuity</sg>,;
+<sg>absence of solidity ,<cref> 321 <i>plunge</i></cref></sg>,;
+<sg>subtility</sg>,;
+<sg>subtilty, subtlety</sg>,;
+<sg>sponginess, compressibility</sg>,;
+<sg>rarefaction, expansion, dilatation, inflation, subtilization</sg>,;
+<sg>vaporization, evaporation, diffusion, gassification</sg>,;
+<sg>ether ,<cref>334 <i>gas</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>rarefy, expand, dilate, subtilize</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>rare, subtile, thin, fine, tenuous, compressible, flimsy, slight</sg>,;
+<sg>light ,<cref> 320 <i>leap</i></cref></sg>,;
+<sg>cavernous, spongy ,<cref>252 <i>hollow</i></cref></sg>,;
+<sg>rarefied</sg>,;
+<sg>unsubstantial</sg>,;
+<sg>uncompact, incompressed</sg>,;
+<sg>rarefiable</sg>,;
+<br>
+</paragraph>

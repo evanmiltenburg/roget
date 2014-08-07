@@ -1,0 +1,87 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#18#</sectionNumber>
+<headword>#<b>#[001] #493# Possibility #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>possibility, </i>potentiality</sg>,;
+<sg>what may be, what is possible</sg>,;
+<sg>compatibility ,<cref>23 <i>agreement</i></cref></sg>,;
+<sg>practicability, feasibility</sg>,;
+<sg>practicableness</sg>,;
+<sg>contingency, chance ,<cref> 156 <i>changeableness</i></cref></sg>,;
+<sg>V</sg>,;
+<sg>be possible</sg>,;
+<sg>stand a chance</sg>,;
+<sg>admit of, bear</sg>,;
+<sg>render possible</sg>,;
+<sg>put in the way of</sg>,;
+<sg>Adj</sg>,;
+<sg>possible</sg>,;
+<sg>in the cards, on the dice</sg>,;
+<sg>in posse, within the bounds of possibility, conceivable, credible</sg>,;
+<sg>compatible ,<cref> 23 <i>copy</i></cref></sg>,;
+<sg>likely</sg>,;
+<sg>practicable, feasible, performable, achievable</sg>,;
+<sg>within reach, within measurable distance</sg>,;
+<sg>accessible, superable, surmountable</sg>,;
+<sg>attainable, obtainable</sg>,;
+<sg>contingent ,<cref>154 <i>doubtful) 475, (effect</i></cref></sg>,;
+<sg>barely possible, marginally possible, just possible</sg>,;
+<sg>possible but improbably, (improbable) 473</sg>,;
+<sg>theoretically possible</sg>,;
+<sg>Adv</sg>,;
+<sg>possibly, by possibility</sg>,;
+<sg>perhaps, perchance, peradventure</sg>,;
+<sg>maybe, may be, haply, mayhap</sg>,;
+<sg>if possible, wind and weather permitting, God willing, Deo volente, D</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be possible</sg>,;
+<sg>stand a chance</sg>,;
+<sg>admit of, bear</sg>,;
+<sg>render possible</sg>,;
+<sg>put in the way of</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>possible</sg>,;
+<sg>in the cards, on the dice</sg>,;
+<sg>in posse, within the bounds of possibility, conceivable, credible</sg>,;
+<sg>compatible ,<cref> 23 <i>copy</i></cref></sg>,;
+<sg>likely</sg>,;
+<sg>practicable, feasible, performable, achievable</sg>,;
+<sg>within reach, within measurable distance</sg>,;
+<sg>accessible, superable, surmountable</sg>,;
+<sg>attainable, obtainable</sg>,;
+<sg>contingent ,<cref>154 <i>doubtful) 475, (effect</i></cref></sg>,;
+<sg>barely possible, marginally possible, just possible</sg>,;
+<sg>possible but improbably, (improbable) 473</sg>,;
+<sg>theoretically possible</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>possibly, by possibility</sg>,;
+<sg>perhaps, perchance, peradventure</sg>,;
+<sg>maybe, may be, haply, mayhap</sg>,;
+<sg>if possible, wind and weather permitting, God willing, Deo volente, D</sg>,;
+<sg>V</sg>,;
+<sg>as luck may have it</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>misericordia Domini inter pontem et fontent</sg>,;
+<sg>the glories of the Possible are ours</sg>,;
+<sg>anything is possible</sg>,;
+<sg>in theory possible, but in practise unlikely</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,60 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#36#</sectionNumber>
+<headword>#<b>#[001] #872# Relief #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>relief</i></sg>,;
+<sg>deliverance</sg>,;
+<sg>refreshment ,<cref> 689 <i>restoration</i></cref></sg>,;
+<sg>easement, softening, alleviation, mitigation, palliation, soothing, lullaby</sg>,;
+<sg>solace, consolation, comfort, encouragement</sg>,;
+<sg>lenitive, restorative ,<cref>662 <i>remedy</i></cref></sg>,;
+<sg>cushion ,<cref> 215 <i>height</i></cref></sg>,;
+<sg>crumb of comfort, balm in Gilead</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>relieve, ease, alleviate, mitigate, palliate, soothe</sg>,;
+<sg>salve</sg>,;
+<sg>soften, soften down</sg>,;
+<sg>foment, stupe, poultice</sg>,;
+<sg>assuage, allay</sg>,;
+<sg>cheer, comfort, console</sg>,;
+<sg>enliven</sg>,;
+<sg>encourage, bear up, pat on the back, give comfort, set at ease</sg>,;
+<sg>gladden the heart, cheer the heart</sg>,;
+<sg>inspirit, invigorate</sg>,;
+<sg>remedy</sg>,;
+<sg>cure ,<cref>660 <i>restore</i></cref></sg>,;
+<sg>refresh</sg>,;
+<sg>pour balm into, pour oil on</sg>,;
+<sg>smooth the ruffled brow of care, temper the wind to the shorn lamb, lay the flattering unction to one's soul</sg>,;
+<sg>disburden ,<cref>705 <i>free</i></cref></sg>,;
+<sg>take a load off one's chest, get a load off one's chest, take off a load of care</sg>,;
+<sg>be relieved</sg>,;
+<sg>breathe more freely, draw a long breath</sg>,;
+<sg>take comfort</sg>,;
+<sg>dry the tears, dry the eyes, wipe the tears, wipe the eyes</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>relieving</sg>,;
+<sg>consolatory, soothing</sg>,;
+<sg>assuaging, assuasive</sg>,;
+<sg>balmy, balsamic</sg>,;
+<sg>lenitive, palliative</sg>,;
+<sg>anodyne ,<cref>662 <i>remedial</i></cref></sg>,;
+<sg>curative ,<cref> 660 <i>instrumentality</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>here comes a man of comfort</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,72 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#4#</sectionNumber>
+<headword>#<b>#[001] #66# Precedence #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>precedence</i></sg>,;
+<sg>coming before</sg>,;
+<sg>the lead, le pas</sg>,;
+<sg>superiority ,<cref> 33 <i>greatness</i></cref></sg>,;
+<sg>importance ,<cref> 642 <i>desuetude</i></cref></sg>,;
+<sg>antecedence, antecedency</sg>,;
+<sg>anteriority ,<cref>234 <i>front</i></cref></sg>,;
+<sg>precursor ,<cref> 64 <i>arrangement</i></cref></sg>,;
+<sg>priority ,<cref> 116 <i>diuturnity</i></cref></sg>,;
+<sg>precession ,<cref> 280 <i>mariner</i></cref></sg>,;
+<sg>anteposition</sg>,;
+<sg>epacme</sg>,;
+<sg>preference</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>precede</sg>,;
+<sg>come before, come first</sg>,;
+<sg>head, lead, take the lead</sg>,;
+<sg>lead the way, lead the dance</sg>,;
+<sg>be in the vanguard</sg>,;
+<sg>introduce, usher in</sg>,;
+<sg>have the pas</sg>,;
+<sg>set the fashion ,<cref>175 <i>influence</i></cref></sg>,;
+<sg>open the ball</sg>,;
+<sg>take precedence, have precedence</sg>,;
+<sg>have the start ,<cref>280 <i>get before</i></cref></sg>,;
+<sg>place before</sg>,;
+<sg>prefix</sg>,;
+<sg>premise, prelude, preface</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>preceding</sg>,;
+<sg>precedent, antecedent</sg>,;
+<sg>anterior</sg>,;
+<sg>prior ,<cref> 116 <i>diuturnity</i></cref></sg>,;
+<sg>before</sg>,;
+<sg>former</sg>,;
+<sg>foregoing</sg>,;
+<sg>beforementioned, abovementioned, aforementioned</sg>,;
+<sg>aforesaid, said</sg>,;
+<sg>precursory, precursive</sg>,;
+<sg>prevenient, preliminary, prefatory, introductory</sg>,;
+<sg>prelusive, prelusory</sg>,;
+<sg>proemial, preparatory</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>before</sg>,;
+<sg>in advance ,<cref>280 <i>precession</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>seniores priores</sg>,;
+<sg>prior tempore prior jure</sg>,;
+<br>
+</paragraph>

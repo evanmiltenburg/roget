@@ -1,0 +1,53 @@
+<classNumber>#2#</classNumber>
+<sectionNumber>#10#</sectionNumber>
+<headword>#<b>#[001] #213# Layer #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>layer, </i>stratum, strata, course, bed, zone, substratum, substrata, floor, flag, stage, story, tier, slab, escarpment</sg>,;
+<sg>table, tablet</sg>,;
+<sg>dess</sg>,;
+<sg>flagstone</sg>,;
+<sg>board, plank</sg>,;
+<sg>trencher, platter</sg>,;
+<sg>plate</sg>,;
+<sg>lamina, lamella</sg>,;
+<sg>sheet, foil</sg>,;
+<sg>wafer</sg>,;
+<sg>scale, flake, peel</sg>,;
+<sg>coat, pellicle</sg>,;
+<sg>membrane, film</sg>,;
+<sg>leaf</sg>,;
+<sg>slice, shive, cut, rasher, shaving, integument ,<cref>223 <i>covering</i></cref></sg>,;
+<sg>eschar</sg>,;
+<sg>stratification, scaliness, nest of boxes, coats of an onion</sg>,;
+<sg>monolayer</sg>,;
+<sg>bilayer</sg>,;
+<sg>trilayer</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>slice, shave, pare, peel</sg>,;
+<sg>delaminate</sg>,;
+<sg>plate, coat, veneer</sg>,;
+<sg>cover ,<cref> 223 <i>pendency</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>lamellar, lamellated, lamelliform, layered</sg>,;
+<sg>laminated, laminiferous</sg>,;
+<sg>micaceous</sg>,;
+<sg>schistose, schistous</sg>,;
+<sg>scaly, filmy, membranous, pellicular, flaky, squamous</sg>,;
+<sg>foliated, foliaceous</sg>,;
+<sg>stratified, stratiform</sg>,;
+<sg>tabular, discoid</sg>,;
+<sg>spathic, spathose</sg>,;
+<sg>trilamellar</sg>,;
+<sg>graphitic</sg>,;
+<br>
+</paragraph>

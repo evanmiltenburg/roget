@@ -1,0 +1,59 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#36#</sectionNumber>
+<headword>#<b>#[001] #892# Ridiculousness #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>ridiculousness</i></sg>,;
+<sg>comicality, oddity</sg>,;
+<sg>extravagance, drollery</sg>,;
+<sg>farce, comedy</sg>,;
+<sg>burlesque ,<cref>856 <i>ridicule</i></cref></sg>,;
+<sg>buffoonery ,<cref>840 <i>fun</i></cref></sg>,;
+<sg>frippery</sg>,;
+<sg>doggerel verses</sg>,;
+<sg>absurdity ,<cref> 497 <i>certainty</i></cref></sg>,;
+<sg>bombast ,<cref>517 <i>unmeaning</i></cref></sg>,;
+<sg>anticlimax, bathos</sg>,;
+<sg>eccentricity, monstrosity ,<cref>83 <i>unconformity</i></cref></sg>,;
+<sg>laughingstock ,<cref> 857 <i>parsimony</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be ridiculous</sg>,;
+<sg>pass from the sublime to the ridiculous</sg>,;
+<sg>make one laugh</sg>,;
+<sg>play the fool, make a fool of oneself, commit an absurdity</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>ridiculous, ludicrous</sg>,;
+<sg>comical</sg>,;
+<sg>droll, funny, laughable, pour rire, grotesque, farcical, odd</sg>,;
+<sg>whimsical, whimsical as a dancing bear</sg>,;
+<sg>fanciful, fantastic, queer, rum, quizzical, quaint, bizarre</sg>,;
+<sg>screaming</sg>,;
+<sg>eccentric ,<cref>83 <i>unconformable</i></cref></sg>,;
+<sg>strange, outlandish, out of the way, baroque, weird</sg>,;
+<sg>awkward ,<cref>846 <i>ugly</i></cref></sg>,;
+<sg>extravagant, outre, monstrous, preposterous, bombastic, inflated, stilted, burlesque, mock heroic</sg>,;
+<sg>drollish</sg>,;
+<sg>seriocomic, tragicomic</sg>,;
+<sg>gimcrack, contemptible ,<cref>643 <i>unimportant</i></cref></sg>,;
+<sg>doggerel</sg>,;
+<sg>ironical ,<cref>856 <i>derisive</i></cref></sg>,;
+<sg>risible</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>risum teneatis amici</sg>,;
+<sg>rideret Heraclitus</sg>,;
+<sg>du sublime au ridicule il n'y a qu'un pas</sg>,;
+<br>
+</paragraph>

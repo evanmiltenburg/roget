@@ -1,0 +1,63 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#37#</sectionNumber>
+<headword>#<b>#[001] #959# Forgiveness #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>forgiveness, </i>pardon, condonation, grace, remission, absolution, amnesty, oblivion</sg>,;
+<sg>indulgence</sg>,;
+<sg>reprieve</sg>,;
+<sg>conciliation</sg>,;
+<sg>reconcilement</sg>,;
+<sg>reconciliation ,<cref>723 <i>pacification</i></cref></sg>,;
+<sg>propitiation</sg>,;
+<sg>excuse, exoneration, quittance, release, indemnity</sg>,;
+<sg>bill of indemnity, act of indemnity, covenant of indemnity, deed of indemnity</sg>,;
+<sg>exculpation ,<cref>970 <i>acquittal</i></cref></sg>,;
+<sg>longanimity, placability</sg>,;
+<sg>amantium irae</sg>,;
+<sg>locus paenitentiae</sg>,;
+<sg>forbearance</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>forgive, forgive and forget</sg>,;
+<sg>pardon, condone, think no more of, let bygones be bygones, shake hands</sg>,;
+<sg>forget an injury</sg>,;
+<sg>excuse, pass over, overlook</sg>,;
+<sg>wink at ,<cref>460 <i>neglect</i></cref></sg>,;
+<sg>bear with</sg>,;
+<sg>allow for, make allowances for</sg>,;
+<sg>let one down easily, not be too hard upon, pocket the affront</sg>,;
+<sg>let off, remit, absolve, give absolution, reprieve</sg>,;
+<sg>acquit ,<cref> 970 <i>respect</i></cref></sg>,;
+<sg>beg pardon, ask pardon, implore pardon</sg>,;
+<sg>conciliate, propitiate, placate</sg>,;
+<sg>make up a quarrel ,<cref>723 <i>pacify</i></cref></sg>,;
+<sg>let the wound heal</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>forgiving, placable, conciliatory, forgiven</sg>,;
+<sg>unresented, unavenged, unrevenged</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>cry you mercy</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>veniam petimusque damusque vicissim</sg>,;
+<sg>more in sorrow than in anger</sg>,;
+<sg>comprendre tout c'est tout pardonner</sg>,;
+<sg>the offender never pardons</sg>,;
+<br>
+</paragraph>

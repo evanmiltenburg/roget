@@ -1,0 +1,54 @@
+<classNumber>#2#</classNumber>
+<sectionNumber>#11#</sectionNumber>
+<headword>#<b>#[001] #257# Circularity #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>circularity, </i>roundness</sg>,;
+<sg>rotundity ,<cref> 249 <i>sinistrality</i></cref></sg>,;
+<sg>circle, circlet, ring, areola, hoop, roundlet, annulus, annulet, bracelet, armlet</sg>,;
+<sg>ringlet</sg>,;
+<sg>eye, loop, wheel</sg>,;
+<sg>cycle, orb, orbit, rundle, zone, belt, cordon, band</sg>,;
+<sg>contrate wheel, crown wheel</sg>,;
+<sg>hub</sg>,;
+<sg>nave</sg>,;
+<sg>sash, girdle, cestus, cincture, baldric, fillet, fascia, wreath, garland</sg>,;
+<sg>crown, corona, coronet, chaplet, snood, necklace, collar</sg>,;
+<sg>noose, lasso, lassoo</sg>,;
+<sg>ellipse, oval, ovule</sg>,;
+<sg>ellipsoid, cycloid</sg>,;
+<sg>epicycloid, epicycle</sg>,;
+<sg>semicircle</sg>,;
+<sg>quadrant, sextant, sector</sg>,;
+<sg>sphere ,<cref> 249 <i>sinistrality</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>make round</sg>,;
+<sg>round</sg>,;
+<sg>go round</sg>,;
+<sg>encircle ,<cref> 227 <i>obliquity</i></cref></sg>,;
+<sg>describe a circle ,<cref> 311 <i>insertion</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>round, rounded, circular, annular, orbicular</sg>,;
+<sg>oval, ovate</sg>,;
+<sg>elliptic, elliptical</sg>,;
+<sg>egg-shaped</sg>,;
+<sg>pear-shaped ,<cref> 245 <i>rear</i></cref></sg>,;
+<sg>cycloidal</sg>,;
+<sg>spherical ,<cref> 249 <i>sinistrality</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>I watched the little circles die</sg>,;
+<br>
+</paragraph>

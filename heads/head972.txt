@@ -1,0 +1,79 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#38#</sectionNumber>
+<headword>#<b>#[001] #972# Contempt #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>contempt, </i>disdain, scorn, sovereign contempt</sg>,;
+<sg>despisal, despiciency</sg>,;
+<sg>despisement</sg>,;
+<sg>vilipendency, contumely</sg>,;
+<sg>slight, sneer, spurn, by-word</sg>,;
+<sg>despect</sg>,;
+<sg>contemptuousness</sg>,;
+<sg>scornful eye</sg>,;
+<sg>smile of contempt</sg>,;
+<sg>derision ,<cref>929 <i>disrespect</i></cref></sg>,;
+<sg>despisedness</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>despise, contemn, scorn, disdain, feel contempt for, view with a scornful eye</sg>,;
+<sg>disregard, slight, not mind</sg>,;
+<sg>pass by ,<cref>460 <i>neglect</i></cref></sg>,;
+<sg>look down upon</sg>,;
+<sg>hold cheap, hold in contempt, hold in disrespect</sg>,;
+<sg>think nothing of, think small beer of</sg>,;
+<sg>make light of</sg>,;
+<sg>underestimate ,<cref> 483 <i>experiment</i></cref></sg>,;
+<sg>esteem slightly, esteem of small or no account</sg>,;
+<sg>take no account of, care nothing for</sg>,;
+<sg>set no store by</sg>,;
+<sg>not care a straw, sneeze at ,<cref>643 <i>unimportance</i></cref></sg>,;
+<sg>set at naught, laugh in one's sleeve, laugh up one's sleeve, snap one's fingers at, shrug one's shoulders, turn up one's nose at, pooh-pooh, damn with faint praise</sg>,;
+<sg>whistle at, sneer at</sg>,;
+<sg>curl up one's lip, toss the head, traiter de haut enbas</sg>,;
+<sg>laugh at ,<cref>929 <i>be disrespectful</i></cref></sg>,;
+<sg>point the finger of scorn, hold up to scorn, laugh to scorn</sg>,;
+<sg>scout, hoot, flout, hiss, scoff at</sg>,;
+<sg>turn one's back upon, turn a cold shoulder upon</sg>,;
+<sg>tread upon, trample upon, trample under foot</sg>,;
+<sg>spurn, kick</sg>,;
+<sg>fling to the winds ,<cref>610 <i>repudiate</i></cref></sg>,;
+<sg>send away with a flea in the ear</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>contemptuous</sg>,;
+<sg>disdainful, scornful</sg>,;
+<sg>withering, contumelious, supercilious, cynical, haughty, bumptious, cavalier</sg>,;
+<sg>derisive</sg>,;
+<sg>contemptible, despicable</sg>,;
+<sg>pitiable</sg>,;
+<sg>pitiful ,<cref>643 <i>unimportant</i></cref></sg>,;
+<sg>despised</sg>,;
+<sg>downtrodden</sg>,;
+<sg>unenvied</sg>,;
+<sg>unrespectable (unworthy) 874</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>contemptuously</sg>,;
+<sg>Int</sg>,;
+<sg>a fig for ,<cref>643 <i>unimportant</i></cref></sg>,;
+<sg>bah!, never mind!, away with!, hang it!, fiddlededee!,</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>a dismal universal hiss, the sound of public scorn</sg>,;
+<sg>I had rather be a dog and bay the moon than such a Roman</sg>,;
+<br>
+</paragraph>

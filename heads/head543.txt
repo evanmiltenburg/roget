@@ -1,0 +1,64 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#23#</sectionNumber>
+<headword>#<b>#[001] #543# Intelligibility #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>intelligibility</i></sg>,;
+<sg>clearness, explicitness</sg>,;
+<sg>lucidity, comprehensibility, perspicuity</sg>,;
+<sg>legibility, plain speaking ,<cref>525 <i>manifestation</i></cref></sg>,;
+<sg>precision ,<cref> 494 <i>impossibility</i></cref></sg>,;
+<sg>phonanta synetoisy</sg>,;
+<sg>a word to the wise</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be intelligible</sg>,;
+<sg>speak for itself, speak volumes</sg>,;
+<sg>tell its own tale, lie on the surface</sg>,;
+<sg>render intelligible</sg>,;
+<sg>popularize, simplify, clear up</sg>,;
+<sg>elucidate ,<cref>522 <i>explain</i></cref></sg>,;
+<sg>understand, comprehend, take, take in</sg>,;
+<sg>catch, grasp, follow, collect, master, make out</sg>,;
+<sg>see with half an eye, see daylight, see one's way</sg>,;
+<sg>enter into the ideas of</sg>,;
+<sg>come to an understanding</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>intelligible</sg>,;
+<sg>clear, clear as day, clear as noonday</sg>,;
+<sg>lucid</sg>,;
+<sg>perspicuous, transpicuous</sg>,;
+<sg>luminous, transparent</sg>,;
+<sg>easily understood, easy to understand, for the million, intelligible to the meanest capacity, popularized</sg>,;
+<sg>plain, distinct, explicit</sg>,;
+<sg>positive</sg>,;
+<sg>definite ,<cref>494 <i>precise</i></cref></sg>,;
+<sg>graphic</sg>,;
+<sg>expressive ,<cref>516 <i>meaning</i></cref></sg>,;
+<sg>illustrative ,<cref>522 <i>explanatory</i></cref></sg>,;
+<sg>unambiguous, unequivocal, unmistakable ,<cref>525 <i>manifest</i></cref></sg>,;
+<sg>unconfused</sg>,;
+<sg>legible, recognizable</sg>,;
+<sg>obvious ,<cref> 525 <i>fool</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>in plain terms, in plain words, in plain English</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>he that runs may read ,<cref>525 <i>manifest</i></cref></sg>,;
+<br>
+</paragraph>

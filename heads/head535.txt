@@ -1,0 +1,124 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#21#</sectionNumber>
+<headword>#<b>#[001] #535# Prediction #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>prediction, </i>announcement</sg>,;
+<sg>program, programme  ,<cref>626 <i>plan</i></cref></sg>,;
+<sg>premonition ,<cref>668 <i>warning</i></cref></sg>,;
+<sg>prognosis, prophecy, vaticination, mantology, prognostication, premonstration</sg>,;
+<sg>augury, auguration</sg>,;
+<sg>ariolation, hariolation</sg>,;
+<sg>foreboding, aboding</sg>,;
+<sg>bodement, abodement</sg>,;
+<sg>omniation, omniousness</sg>,;
+<sg>auspices, forecast</sg>,;
+<sg>omen ,<cref> 512 <i>assent</i></cref></sg>,;
+<sg>horoscope, nativity</sg>,;
+<sg>sooth, soothsaying</sg>,;
+<sg>fortune telling, crystal gazing</sg>,;
+<sg>divination</sg>,;
+<sg>necromancy ,<cref> 992 <i>penitence</i></cref></sg>,;
+<sg>astrology, horoscopy, judicial astrology</sg>,;
+<sg>adytum prefiguration, prefigurement</sg>,;
+<sg>prototype, type</sg>,;
+<sg>oracle ,<cref> 513 <i>dissent</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>predict, prognosticate, prophesy, vaticinate, divine, foretell, soothsay, augurate, tell fortunes</sg>,;
+<sg>cast a horoscope, cast a nativity</sg>,;
+<sg>advise</sg>,;
+<sg>forewarn ,<cref> 668 <i>sufficiency</i></cref></sg>,;
+<sg>presage, augur, bode</sg>,;
+<sg>abode, forebode</sg>,;
+<sg>foretoken, betoken</sg>,;
+<sg>prefigure, preshow</sg>,;
+<sg>portend</sg>,;
+<sg>foreshow, foreshadow</sg>,;
+<sg>shadow forth, typify, pretypify, ominate, signify, point to</sg>,;
+<sg>usher in, herald, premise, announce</sg>,;
+<sg>lower</sg>,;
+<sg>hold out expectation, raise expectation, excite expectation, excite hope</sg>,;
+<sg>bid fair, promise, lead one to expect</sg>,;
+<sg>be the precursor ,<cref> 64 <i>arrangement</i></cref></sg>,;
+<sg>extrapolate, project</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>predicting</sg>,;
+<sg>predictive, prophetic</sg>,;
+<sg>fatidic, fatidical</sg>,;
+<sg>vaticinal, oracular, fatiloquent, haruspical, Sibylline</sg>,;
+<sg>weatherwise</sg>,;
+<sg>ominous, portentous, augurous, augurial, augural</sg>,;
+<sg>auspicial, auspicious</sg>,;
+<sg>prescious, monitory, extispicious, premonitory, significant of, pregnant with, bit with the fate of</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>coming events cast their shadows before</sg>,;
+<sg>dicamus bona verba</sg>,;
+<sg>there buds the promise of celestial worth</sg>,;
+<sg>by oracles, Theomancy</sg>,;
+<sg>by the Bible, Bibliomancy</sg>,;
+<sg>by ghosts, Psychomancy</sg>,;
+<sg>by crystal gazing, Crystallomancy</sg>,;
+<sg>by shadows or manes, Sciomancy</sg>,;
+<sg>by appearances in the air, Aeromancy, Chaomancy</sg>,;
+<sg>by the stars at birth, Genethliacs</sg>,;
+<sg>by meteors, Meteoromancy</sg>,;
+<sg>by winds, Austromancy</sg>,;
+<sg>by sacrificial appearances, Aruspicy, Haruspicy, Hieromancy, Hieroscopy</sg>,;
+<sg>by the entrails of animals sacrificed, Extispicy, Hieromancy</sg>,;
+<sg>by the entrails of a human sacrifice, Anthropomancy</sg>,;
+<sg>by the entrails of fishes, Ichthyomancy</sg>,;
+<sg>by sacrificial fire, Pyromancy</sg>,;
+<sg>by red-hot iron, Sideromancy</sg>,;
+<sg>by smoke from the altar, Capnomancy</sg>,;
+<sg>by mice, Myomancy</sg>,;
+<sg>by birds, Orniscopy, Ornithomancy</sg>,;
+<sg>by a cock picking up grains, Alectryomancy, Alectromancy</sg>,;
+<sg>by fishes, Ophiomancy</sg>,;
+<sg>by herbs, Botanomancy</sg>,;
+<sg>by water, Hydromancy</sg>,;
+<sg>by fountains, Pegomancy</sg>,;
+<sg>by a wand, Rhabdomancy</sg>,;
+<sg>by dough of cakes, Crithomancy</sg>,;
+<sg>by meal, Aleuromancy, Alphitomancy</sg>,;
+<sg>by salt, Halomancy</sg>,;
+<sg>by dice, Cleromancy</sg>,;
+<sg>by arrows, Belomancy</sg>,;
+<sg>by a balanced hatchet, Axinomancy</sg>,;
+<sg>by a balanced sieve, Coscinomancy</sg>,;
+<sg>by a suspended ring, Dactyliomancy</sg>,;
+<sg>by dots made at random on paper, Geomancy</sg>,;
+<sg>by precious stones, Lithomancy</sg>,;
+<sg>by pebbles, Pessomancy</sg>,;
+<sg>by pebbles drawn from a heap, Psephomancy</sg>,;
+<sg>by mirrors, Catoptromancy</sg>,;
+<sg>by writings in ashes, Tephramancy</sg>,;
+<sg>by dreams, Oneiromancy</sg>,;
+<sg>by the hand, Palmistry, Chiromancy</sg>,;
+<sg>by nails reflecting the sun's rays, Onychomancy</sg>,;
+<sg>by finger rings, Dactylomancy</sg>,;
+<sg>by numbers, Arithmancy</sg>,;
+<sg>by drawing lots, Sortilege</sg>,;
+<sg>by passages in books, Stichomancy</sg>,;
+<sg>by the letters forming the name of the person, Onomancy, Nomancy</sg>,;
+<sg>by the features, Anthroposcopy</sg>,;
+<sg>by the mode of laughing, Geloscopy</sg>,;
+<sg>by ventriloquism, Gastromancy</sg>,;
+<sg>by walking in a circle, Gyromancy</sg>,;
+<sg>by dropping melted wax into water, Ceromancy</sg>,;
+<sg>by currents, Bletonism</sg>,;
+<sg>by the color and peculiarities of wine, Oenomancy</sg>,;
+<br>
+</paragraph>

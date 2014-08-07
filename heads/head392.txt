@@ -1,0 +1,35 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#15#</sectionNumber>
+<headword>#<b>#[001] #392# Touch #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>touch</i></sg>,;
+<sg>tact, taction, tactility</sg>,;
+<sg>feeling</sg>,;
+<sg>palpation, palpability</sg>,;
+<sg>contrectation</sg>,;
+<sg>manipulation</sg>,;
+<sg>massage</sg>,;
+<sg>hand, finger, forefinger, thumb, paw, feeler, antenna</sg>,;
+<sg>palpus</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>touch, feel, handle, finger, thumb, paw, fumble, grope, grabble</sg>,;
+<sg>twiddle, tweedle</sg>,;
+<sg>pass the fingers over, run the fingers over</sg>,;
+<sg>manipulate, wield</sg>,;
+<sg>throw out a feeler</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>tactual, tactile</sg>,;
+<sg>tangible, palpable</sg>,;
+<sg>lambent</sg>,;
+<br>
+</paragraph>

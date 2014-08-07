@@ -1,0 +1,112 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#15#</sectionNumber>
+<headword>#<b>#[001] #397# Calefaction #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>calefaction, </i>increase of temperature</sg>,;
+<sg>heating</sg>,;
+<sg>calefaction, tepefaction, torrefaction</sg>,;
+<sg>melting, fusion</sg>,;
+<sg>liquefaction ,<cref> 335 <i>softness</i></cref></sg>,;
+<sg>burning</sg>,;
+<sg>ambustion, combustion</sg>,;
+<sg>incension, accension</sg>,;
+<sg>concremation, cremation</sg>,;
+<sg>scorification</sg>,;
+<sg>cautery, cauterization</sg>,;
+<sg>ustulation, calcination</sg>,;
+<sg>cracking, refining</sg>,;
+<sg>incineration, cineration</sg>,;
+<sg>carbonization</sg>,;
+<sg>cupellation</sg>,;
+<sg>ignition, inflammation, adustion, flagration</sg>,;
+<sg>deflagration, conflagration</sg>,;
+<sg>empyrosis, incendiarism</sg>,;
+<sg>arson</sg>,;
+<sg>auto dafe</sg>,;
+<sg>boiling</sg>,;
+<sg>coction, ebullition, estuation, elixation, decoction</sg>,;
+<sg>ebullioscope</sg>,;
+<sg>geyser</sg>,;
+<sg>distillation (vaporization) 336</sg>,;
+<sg>furnace ,<cref> 386 <i>woman</i></cref></sg>,;
+<sg>blanket, flannel, fur</sg>,;
+<sg>wadding ,<cref>224 <i>lining</i></cref></sg>,;
+<sg>clothing ,<cref> 225 <i>parallelism</i></cref></sg>,;
+<sg>still</sg>,;
+<sg>refinery</sg>,;
+<sg>fractionating column, fractionating tower, cracking tower</sg>,;
+<sg>match ,<cref>388 <i>fuel</i></cref></sg>,;
+<sg>incendiary</sg>,;
+<sg>petroleuse</sg>,;
+<sg>cauterizer</sg>,;
+<sg>caustic, lunar caustic, alkali, apozem, moxa</sg>,;
+<sg>acid, aqua fortis, aqua regia</sg>,;
+<sg>catheretic, nitric acid, nitrochloro-hydric acid, nitromuriatic acid</sg>,;
+<sg>radioactivity, gamma rays, alpha particles, beta rays, X-rays, radiation, cosmic radiation, background radiation, radioactive isotopes, tritium, uranium, plutonium, radon, radium</sg>,;
+<sg>sunstroke, coup de soleil</sg>,;
+<sg>insolation</sg>,;
+<sg>pottery, ceramics, crockery, porcelain, china</sg>,;
+<sg>earthenware, stoneware</sg>,;
+<sg>pot, mug, terra cotta, brick, clinker</sg>,;
+<sg>cinder, ash, scoriae, embers, soot</sg>,;
+<sg>slag</sg>,;
+<sg>coke, carbon, charcoal</sg>,;
+<sg>wood alcohol, turpentine, tea tree oil</sg>,;
+<sg>gasoline, kerosene, naptha, fuel oil (fuel) 388</sg>,;
+<sg>wax, paraffin</sg>,;
+<sg>residue, tar</sg>,;
+<sg>inflammability, combustibility</sg>,;
+<sg>diathermancy, transcalency, conduction</sg>,;
+<sg>convection</sg>,;
+<sg>radiation, radiant heat</sg>,;
+<sg>heat conductivity, conductivity</sg>,;
+<sg>thermal expansion</sg>,;
+<sg>coefficient of expansion</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>heat, warm, chafe, stive, foment</sg>,;
+<sg>make hot ,<cref> 382 <i>husbandry</i></cref></sg>,;
+<sg>sun oneself, sunbathe</sg>,;
+<sg>go up in flames, burn to the ground (flame) 382</sg>,;
+<sg>fire</sg>,;
+<sg>set fire to, set on fire</sg>,;
+<sg>kindle, enkindle, light, ignite, strike a light</sg>,;
+<sg>apply the match to, apply the torch to</sg>,;
+<sg>rekindle, relume</sg>,;
+<sg>fan the flame, add fuel to the flame</sg>,;
+<sg>poke the fire, stir the fire, blow the fire</sg>,;
+<sg>make a bonfire of</sg>,;
+<sg>melt, thaw, fuse</sg>,;
+<sg>liquefy ,<cref> 335 <i>softness</i></cref></sg>,;
+<sg>burn, inflame, roast, toast, fry, grill, singe, parch, bake, torrefy, scorch</sg>,;
+<sg>brand, cauterize, sear, burn in</sg>,;
+<sg>corrode, char, calcine, incinerate</sg>,;
+<sg>smelt, scorify</sg>,;
+<sg>reduce to ashes</sg>,;
+<sg>burn to a cinder</sg>,;
+<sg>commit to the flames, consign to the flames</sg>,;
+<sg>boil, digest, stew, cook, seethe, scald, parboil, simmer</sg>,;
+<sg>do to rags</sg>,;
+<sg>take fire, catch fire</sg>,;
+<sg>blaze ,<cref>382 <i>flame</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>heated</sg>,;
+<sg>molten, sodden</sg>,;
+<sg>r_echauff_e</sg>,;
+<sg>heating</sg>,;
+<sg>adust</sg>,;
+<sg>inflammable, combustible</sg>,;
+<sg>diathermal, diathermanous</sg>,;
+<sg>burnt</sg>,;
+<sg>volcanic, radioactive</sg>,;
+<br>
+</paragraph>

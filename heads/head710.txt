@@ -1,0 +1,86 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#28#</sectionNumber>
+<headword>#<b>#[001] #710# Inaction #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>inaction, </i>passiveness, abstinence from action</sg>,;
+<sg>noninterference, nonintervention</sg>,;
+<sg>Fabian policy, conservative policy</sg>,;
+<sg>neglect ,<cref> 460 <i>vision</i></cref></sg>,;
+<sg>inactivity ,<cref> 683 <i>health</i></cref></sg>,;
+<sg>rest ,<cref>687 <i>repose</i></cref></sg>,;
+<sg>quiescence ,<cref> 265 <i>bluntness</i></cref></sg>,;
+<sg>want of occupation, inoccupation</sg>,;
+<sg>idle hours, time hanging on one's hands, dolce far niente</sg>,;
+<sg>sinecure, featherbed, featherbedding, cushy job, no-show job</sg>,;
+<sg>soft snap, soft thing</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>not do, not act, not attempt</sg>,;
+<sg>be inactive ,<cref> 683 <i>health</i></cref></sg>,;
+<sg>abstain from doing, do nothing, hold, spare</sg>,;
+<sg>not stir, not move, not lift a finger, not lift a foot, not lift a peg</sg>,;
+<sg>fold one's arms, fold one's hands</sg>,;
+<sg>leave alone, let alone</sg>,;
+<sg>let be, let pass, let things take their course, let it have its way, let well alone, let well enough alone</sg>,;
+<sg>quieta non movere</sg>,;
+<sg>stare super antiquas vias</sg>,;
+<sg>rest and be thankful, live and let live</sg>,;
+<sg>lie rest upon one's oars</sg>,;
+<sg>laisser aller, faire</sg>,;
+<sg>stand aloof</sg>,;
+<sg>refrain ,<cref>623 <i>avoid</i></cref>, keep oneself from doing</sg>,;
+<sg>remit one's efforts, relax one's efforts</sg>,;
+<sg>desist ,<cref>624 <i>relinquish</i></cref></sg>,;
+<sg>stop ,<cref>142 <i>cease</i></cref></sg>,;
+<sg>pause ,<cref>265 <i>be quiet</i></cref></sg>,;
+<sg>wait, lie in wait, bide one's time, take time, tide it over</sg>,;
+<sg>cool one's heels, kick one's heels</sg>,;
+<sg>while away the time, while away tedious hours</sg>,;
+<sg>pass the time, fill up the time, beguile the time</sg>,;
+<sg>talk against time</sg>,;
+<sg>let the grass grow under one's feet</sg>,;
+<sg>waste time ,<cref>683 <i>inactive</i></cref></sg>,;
+<sg>lie by, lie on the shelf, lie in ordinary, lie idle, lie to, lie fallow</sg>,;
+<sg>keep quiet, slug</sg>,;
+<sg>have nothing to do, whistle for want of thought</sg>,;
+<sg>undo, do away with</sg>,;
+<sg>take down, take to pieces</sg>,;
+<sg>destroy ,<cref> 162 <i>attribution</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>not doing</sg>,;
+<sg>not done</sg>,;
+<sg>undone</sg>,;
+<sg>passive</sg>,;
+<sg>unoccupied, unemployed</sg>,;
+<sg>out of employ, out of work</sg>,;
+<sg>fallow</sg>,;
+<sg>desaeuvre</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>re infecta, at a stand, les bras croisis, with folded arms</sg>,;
+<sg>with the hands in the pockets, with the hands behind one's back</sg>,;
+<sg>pour passer le temps</sg>,;
+<sg>Int</sg>,;
+<sg>so let it be!, stop!, ,<cref> 142 <i>untimeliness</i></cref></sg>,;
+<sg>hands off!,</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>cunctando restituit rem, If it ain't broke don't fix it</sg>,;
+<sg>stare decisis, let the decision stand</sg>,;
+<br>
+</paragraph>

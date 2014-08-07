@@ -1,0 +1,92 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#15#</sectionNumber>
+<headword>#<b>#[001] #375# Interment #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>interment, </i>burial, sepulture</sg>,;
+<sg>inhumation</sg>,;
+<sg>obsequies, exequies</sg>,;
+<sg>funeral, wake, pyre, funeral pile</sg>,;
+<sg>cremation</sg>,;
+<sg>funeral, funeral rite, funeral solemnity</sg>,;
+<sg>kneel, passing bell, tolling</sg>,;
+<sg>dirge ,<cref>839 <i>lamentation</i></cref></sg>,;
+<sg>cypress</sg>,;
+<sg>orbit, dead march, muffled drum</sg>,;
+<sg>mortuary, undertaker, mute</sg>,;
+<sg>elegy</sg>,;
+<sg>funeral, funeral oration, funeral sermon</sg>,;
+<sg>epitaph</sg>,;
+<sg>graveclothes, shroud, winding sheet, cerecloth</sg>,;
+<sg>cerement</sg>,;
+<sg>coffin, shell, sarcophagus, urn, pall, bier, hearse, catafalque, cinerary urn</sg>,;
+<sg>grave, pit, sepulcher, tomb, vault, crypt, catacomb, mausoleum, Golgotha, house of death, narrow house</sg>,;
+<sg>cemetery, necropolis</sg>,;
+<sg>burial place, burial ground</sg>,;
+<sg>grave yard, church yard</sg>,;
+<sg>God's acre</sg>,;
+<sg>tope, cromlech, barrow, tumulus, cairn</sg>,;
+<sg>ossuary</sg>,;
+<sg>bone house, charnel house, dead house</sg>,;
+<sg>morgue</sg>,;
+<sg>lich gate</sg>,;
+<sg>burning ghat</sg>,;
+<sg>crematorium, crematory</sg>,;
+<sg>dokhma, mastaba, potter's field, stupa, Tower of Silence</sg>,;
+<sg>sexton, gravedigger</sg>,;
+<sg>monument, cenotaph, shrine</sg>,;
+<sg>grave stone, head stone, tomb stone</sg>,;
+<sg>memento mori</sg>,;
+<sg>hatchment, stone</sg>,;
+<sg>obelisk, pyramid</sg>,;
+<sg>exhumation, disinterment</sg>,;
+<sg>necropsy, autopsy, post mortem examination</sg>,;
+<sg>zoothapsis</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>inter, bury</sg>,;
+<sg>lay in the grave, consign to the grave, lay in the tomb, entomb, in tomb</sg>,;
+<sg>inhume</sg>,;
+<sg>lay out, perform a funeral, embalm, mummify</sg>,;
+<sg>toll the knell</sg>,;
+<sg>put to bed with a shovel</sg>,;
+<sg>inurn</sg>,;
+<sg>exhume, disinter, unearth</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>burried</sg>,;
+<sg>burial, funereal, funebrial</sg>,;
+<sg>mortuary, sepulchral, cinerary</sg>,;
+<sg>elegiac</sg>,;
+<sg>necroscopic</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>in memoriam</sg>,;
+<sg>post obit, post mortem</sg>,;
+<sg>beneath the sod</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>hic jacet, ci-git</sg>,;
+<sg>RIP</sg>,;
+<sg>requiescat in pace</sg>,;
+<sg>the lone couch of his everlasting sleep</sg>,;
+<sg>without a grave- unknell'd, uncoffin'd, and unknown</sg>,;
+<sg>in the dark union of insensate dust</sg>,;
+<sg>the deep cold shadow of the tomb</sg>,;
+<sg>2</sg>,;
+<sg>Special Vitality</sg>,;
+<br>
+</paragraph>

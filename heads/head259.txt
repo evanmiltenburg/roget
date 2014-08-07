@@ -1,0 +1,56 @@
+<classNumber>#2#</classNumber>
+<sectionNumber>#11#</sectionNumber>
+<headword>#<b>#[001] #259# Rotundity #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>rotundity</i></sg>,;
+<sg>roundness</sg>,;
+<sg>cylindricity</sg>,;
+<sg>sphericity, spheroidity</sg>,;
+<sg>globosity</sg>,;
+<sg>cylinder, cylindroid, cylindrical</sg>,;
+<sg>barrel, drum</sg>,;
+<sg>roll, roller</sg>,;
+<sg>rouleau, column, rolling-pin, rundle</sg>,;
+<sg>cone, conoid</sg>,;
+<sg>pear shape, egg shape, bell shape</sg>,;
+<sg>sphere, globe, ball, boulder, bowlder</sg>,;
+<sg>spheroid, ellipsoid</sg>,;
+<sg>oblong spheroid</sg>,;
+<sg>oblate spheroid, prolate spheroid</sg>,;
+<sg>drop, spherule, globule, vesicle, bulb, bullet, pellet, pelote, clew, pill, marble, pea, knob, pommel, horn</sg>,;
+<sg>knot (convolution) 248</sg>,;
+<sg>curved surface, hypersphere</sg>,;
+<sg>hyperdimensional surface</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>render spherical</sg>,;
+<sg>form into a sphere, sphere, roll into a ball</sg>,;
+<sg>give rotundity</sg>,;
+<sg>round</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>rotund</sg>,;
+<sg>round ,<cref>247 <i>circular</i></cref></sg>,;
+<sg>cylindric, cylindrical, cylindroid</sg>,;
+<sg>columnar, lumbriciform</sg>,;
+<sg>conic, conical</sg>,;
+<sg>spherical, spheroidal</sg>,;
+<sg>globular, globated, globous, globose</sg>,;
+<sg>egg shaped, bell shaped, pear shaped</sg>,;
+<sg>ovoid, oviform</sg>,;
+<sg>gibbous</sg>,;
+<sg>rixiform</sg>,;
+<sg>campaniform, campanulate, campaniliform</sg>,;
+<sg>fungiform, bead-like, moniliform, pyriform, bulbous</sg>,;
+<sg>tres atque rotundus</sg>,;
+<sg>round as an orange, round as an apple, round as a ball, round as a billiard ball, round as a cannon ball</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,65 @@
+<classNumber>#2#</classNumber>
+<sectionNumber>#10#</sectionNumber>
+<headword>#<b>#[001] #210# Shortness #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>shortness</i></sg>,;
+<sg>brevity</sg>,;
+<sg>littleness ,<cref> 193 <i>location</i></cref></sg>,;
+<sg>a span</sg>,;
+<sg>shortening</sg>,;
+<sg>abbreviation, abbreviature</sg>,;
+<sg>abridgment, concision, retrenchment, curtailment, decurtation</sg>,;
+<sg>reduction ,<cref>195 <i>contraction</i></cref></sg>,;
+<sg>epitome ,<cref>596 <i>compendium</i></cref></sg>,;
+<sg>elision, ellipsis</sg>,;
+<sg>conciseness ,<cref>572 <i>in style</i></cref></sg>,;
+<sg>abridger, epitomist, epitomizer</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be short</sg>,;
+<sg>render short</sg>,;
+<sg>shorten, curtail, abridge, abbreviate, take in, reduce</sg>,;
+<sg>compress ,<cref>195 <i>contract</i></cref></sg>,;
+<sg>epitomize ,<cref> 596 <i>perspicuity</i></cref></sg>,;
+<sg>retrench, cut short, obtruncate</sg>,;
+<sg>scrimp, cut, chop up, hack, hew</sg>,;
+<sg>cut down, pare down</sg>,;
+<sg>clip, dock, lop, prune, shear, shave, mow, reap, crop</sg>,;
+<sg>snub</sg>,;
+<sg>truncate, pollard, stunt, nip, check the growth of</sg>,;
+<sg>foreshorten (in drawing)</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>short, brief, curt</sg>,;
+<sg>compendious, compact</sg>,;
+<sg>stubby, scrimp</sg>,;
+<sg>shorn, stubbed</sg>,;
+<sg>stumpy, thickset, pug</sg>,;
+<sg>chunky, decurtate</sg>,;
+<sg>retrousse</sg>,;
+<sg>stocky</sg>,;
+<sg>squab, squabby</sg>,;
+<sg>squat, dumpy</sg>,;
+<sg>little ,<cref> 193 <i>location</i></cref></sg>,;
+<sg>curtailed of its fair proportions</sg>,;
+<sg>short by</sg>,;
+<sg>oblate</sg>,;
+<sg>concise ,<cref> 572 <i>untruth</i></cref></sg>,;
+<sg>summary</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>shortly</sg>,;
+<sg>in short ,<cref>572 <i>concisely</i></cref></sg>,;
+<br>
+</paragraph>

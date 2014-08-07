@@ -1,0 +1,77 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#27#</sectionNumber>
+<headword>#<b>#[001] #703# Nonpreparation #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>nonpreparation, </i>non-preparation, absence of preparation, want of preparation</sg>,;
+<sg>inculture, inconcoction, improvidence</sg>,;
+<sg>immaturity, crudity</sg>,;
+<sg>rawness</sg>,;
+<sg>abortion</sg>,;
+<sg>disqualification</sg>,;
+<sg>nature, state of nature</sg>,;
+<sg>virgin soil, unweeded garden</sg>,;
+<sg>neglect ,<cref> 460 <i>vision</i></cref></sg>,;
+<sg>rough copy ,<cref>626 <i>plan</i></cref></sg>,;
+<sg>germ ,<cref> 153 <i>revolution</i></cref></sg>,;
+<sg>raw material ,<cref> 635 <i>caprice</i></cref></sg>,;
+<sg>improvisation ,<cref>612 <i>impulse</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be unprepared</sg>,;
+<sg>want preparation, lack preparation</sg>,;
+<sg>lie fallow</sg>,;
+<sg>s'embarquer sans biscuits</sg>,;
+<sg>live from hand to mouth</sg>,;
+<sg>dismantle ,<cref>645 <i>render useless</i></cref></sg>,;
+<sg>undress ,<cref> 226 <i>perpendicularity</i></cref></sg>,;
+<sg>extemporize, improvise, ad lib</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>unprepared  (prepare)</sg>,;
+<sg></sg>,;
+<sg>673</sg>,;
+<sg>without preparation ,<cref> 673 <i>utility</i></cref></sg>,;
+<sg>incomplete ,<cref> 53 <i>whole</i></cref></sg>,;
+<sg>rudimental, embryonic, abortive</sg>,;
+<sg>immature, unripe, kachcha, raw, green, crude</sg>,;
+<sg>coarse</sg>,;
+<sg>rough cast, rough hewn</sg>,;
+<sg>in the rough</sg>,;
+<sg>unhewn, unformed, unfashioned, unwrought, unlabored, unblown, uncooked, unboiled, unconcocted, unpolished</sg>,;
+<sg>unhatched, unfledged, unnurtured, unlicked, untaught, uneducated, uncultivated, untrained, untutored, undrilled, unexercised</sg>,;
+<sg>deckle- edged</sg>,;
+<sg>precocious, premature</sg>,;
+<sg>undigested, indigested</sg>,;
+<sg>unmellowed, unseasoned, unleavened</sg>,;
+<sg>unrehearsed, unscripted, extemporaneous, improvised, spontaneous, ad lib, ad libitem</sg>,;
+<sg>fallow</sg>,;
+<sg>unsown, untilled</sg>,;
+<sg>natural, in a state of nature</sg>,;
+<sg>undressed</sg>,;
+<sg>in dishabille, en deshabille</sg>,;
+<sg>unqualified, disqualified</sg>,;
+<sg>unfitted</sg>,;
+<sg>ill-digested</sg>,;
+<sg>unbegun, unready, unarranged, unorganized, unfurnished, unprovided, unequipped, untrimmed</sg>,;
+<sg>out of gear, out of order</sg>,;
+<sg>dismantled</sg>,;
+<sg>shiftless, improvident, unthrifty, thriftless, thoughtless, unguarded</sg>,;
+<sg>happy-go- lucky</sg>,;
+<sg>caught napping ,<cref>508 <i>inexpectant</i></cref></sg>,;
+<sg>unpremeditated ,<cref> 612 <i>allocution</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>extempore ,<cref> 612 <i>allocution</i></cref></sg>,;
+<br>
+</paragraph>

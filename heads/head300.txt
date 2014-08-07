@@ -1,0 +1,43 @@
+<classNumber>#2#</classNumber>
+<sectionNumber>#12#</sectionNumber>
+<headword>#<b>#[001] #300# Repulsion #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>repulsion</i></sg>,;
+<sg>driving from</sg>,;
+<sg>repulse, abduction</sg>,;
+<sg>magnetic repulsion, magnetic levitation</sg>,;
+<sg>antigravity</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>repel, push from, drive apart, drive from ,<cref> 276 <i>quiescence</i></cref></sg>,;
+<sg>chase, dispel</sg>,;
+<sg>retrude</sg>,;
+<sg>abduce, abduct</sg>,;
+<sg>send away</sg>,;
+<sg>repulse</sg>,;
+<sg>keep at arm's length, turn one's back upon, give the cold shoulder</sg>,;
+<sg>send off, send away with a flea in one's ear</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>repelling</sg>,;
+<sg>repellent, repulsive</sg>,;
+<sg>abducent, abductive</sg>,;
+<sg>centripetal</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>like charges repel</sg>,;
+<sg>opposite charges attract</sg>,;
+<sg>like poles repel, opposite poles attract</sg>,;
+<br>
+</paragraph>

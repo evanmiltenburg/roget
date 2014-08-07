@@ -1,0 +1,83 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#31#</sectionNumber>
+<headword>#<b>#[001] #772# Command #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>command, </i>order, ordinance, act, fiat, hukm, bidding, dictum, hest, behest, call, beck, nod</sg>,;
+<sg>despatch, dispatch</sg>,;
+<sg>message, direction, injunction, charge, instructions</sg>,;
+<sg>appointment, fixture</sg>,;
+<sg>demand, exaction, imposition, requisition, claim, reclamation, revendication</sg>,;
+<sg>ultimatum ,<cref>770 <i>terms</i></cref></sg>,;
+<sg>request ,<cref> 765 <i>mediocrity</i></cref></sg>,;
+<sg>requirement</sg>,;
+<sg>dictation</sg>,;
+<sg>dictate, mandate</sg>,;
+<sg>caveat, decree, senatus consultum</sg>,;
+<sg>precept</sg>,;
+<sg>prescript, rescript</sg>,;
+<sg>writ, ordination, bull, ex cathedra pronouncement, edict, decretal, dispensation, prescription, brevet, placit, ukase, ukaz, firman, hatti- sherif, warrant, passport, mittimus, mandamus, summons, subpoena, nisi prius, interpellation, citation</sg>,;
+<sg>word, word of command</sg>,;
+<sg>mot d'ordre</sg>,;
+<sg>bugle call, trumpet call</sg>,;
+<sg>beat of drum, tattoo</sg>,;
+<sg>order of the day</sg>,;
+<sg>enactment ,<cref>963 <i>law</i></cref></sg>,;
+<sg>plebiscite ,<cref>609 <i>choice</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>command, order, decree, enact, ordain, dictate, direct, give orders</sg>,;
+<sg>prescribe, set, appoint, mark out</sg>,;
+<sg>set a task, prescribe a task, impose a task</sg>,;
+<sg>set to work, put in requisition</sg>,;
+<sg>bid, enjoin, charge, call upon, instruct</sg>,;
+<sg>require at the hands of</sg>,;
+<sg>exact, impose, tax, task</sg>,;
+<sg>demand</sg>,;
+<sg>insist on ,<cref>744 <i>compel</i></cref></sg>,;
+<sg>claim, lay claim to, revendicate, reclaim</sg>,;
+<sg>cite, summon</sg>,;
+<sg>call for, send for</sg>,;
+<sg>subpoena</sg>,;
+<sg>beckon</sg>,;
+<sg>issue a command</sg>,;
+<sg>make a requisition, issue a requisition, promulgate a requisition, make a decree, issue a decree, promulgate a decree, make an order, issue an order, promulgate an order</sg>,;
+<sg>give the word of command, give the word, give the signal</sg>,;
+<sg>call to order</sg>,;
+<sg>give the law, lay down the law</sg>,;
+<sg>assume the command ,<cref>737 <i>authority</i></cref></sg>,;
+<sg>remand</sg>,;
+<sg>be ordered </sg>,;
+<sg>receive an order</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>commanding</sg>,;
+<sg>authoritative ,<cref> 737 <i>opposition</i></cref></sg>,;
+<sg>decretory, decretive, decretal</sg>,;
+<sg>callable, jussive</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>in a commanding tone</sg>,;
+<sg>by a stroke of the pen, by a dash of the pen</sg>,;
+<sg>by order, at beat of drum, on the first summons</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>the decree is gone forth</sg>,;
+<sg>sic volo sic jubeo</sg>,;
+<sg>le Roi le veut</sg>,;
+<sg>boutez en avant</sg>,;
+<br>
+</paragraph>

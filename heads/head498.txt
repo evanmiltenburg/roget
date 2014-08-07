@@ -1,0 +1,109 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#18#</sectionNumber>
+<headword>#<b>#[001] #498# Uncertainty #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>uncertainty, </i>incertitude, doubt</sg>,;
+<sg>doubtfulness</sg>,;
+<sg>dubiety, dubitation, dubitancy, dubitousness</sg>,;
+<sg>hesitation, suspense</sg>,;
+<sg>perplexity, embarrassment, dilemma, bewilderment</sg>,;
+<sg>timidity ,<cref>860 <i>fear</i></cref></sg>,;
+<sg>vacillation ,<cref> 605 <i>inelegance</i></cref></sg>,;
+<sg>diaporesis, indetermination</sg>,;
+<sg>vagueness</sg>,;
+<sg>haze, fog</sg>,;
+<sg>obscurity ,<cref>421 <i>darkness</i></cref></sg>,;
+<sg>ambiguity ,<cref>520 <i>double meaning</i></cref></sg>,;
+<sg>contingency, dependence, dependency, double contingency, possibility upon a possibility</sg>,;
+<sg>open question ,<cref>461 <i>question</i></cref></sg>,;
+<sg>onus probandi</sg>,;
+<sg>blind bargain, pig in a poke, leap in the dark, something or other</sg>,;
+<sg>needle in a haystack, needle in a bottle of hay</sg>,;
+<sg>roving commission</sg>,;
+<sg>precariousness</sg>,;
+<sg>fallibility</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be uncertain</sg>,;
+<sg>wonder whether</sg>,;
+<sg>lose the clue, lose the clew, scent</sg>,;
+<sg>miss one's way</sg>,;
+<sg>not know what to make of ,<cref>519 <i>unintelligibility</i></cref>, not know which way to turn, not know whether one stands on one s head or one's heels</sg>,;
+<sg>float in a sea of doubt, hesitate, flounder</sg>,;
+<sg>lose oneself, lose one's head</sg>,;
+<sg>muddle one's brains</sg>,;
+<sg>render uncertain</sg>,;
+<sg>put out, pose, puzzle, perplex, embarrass</sg>,;
+<sg>confuse, confound</sg>,;
+<sg>bewilder, bother, molder, addle the wits, throw off the scent, ambiguas in vulgus spargere voces</sg>,;
+<sg>keep in suspense</sg>,;
+<sg>doubt ,<cref>485 <i>disbelieve</i></cref></sg>,;
+<sg>hang in the balance, tremble in the balance</sg>,;
+<sg>depend</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>uncertain</sg>,;
+<sg>casual</sg>,;
+<sg>random ,<cref>621 <i>aimless</i></cref></sg>,;
+<sg>changeable ,<cref> 149 <i>cessation</i></cref></sg>,;
+<sg>doubtful, dubious</sg>,;
+<sg>indecisive</sg>,;
+<sg>unsettled, undecided, undetermined</sg>,;
+<sg>in suspense, open to discussion</sg>,;
+<sg>controvertible</sg>,;
+<sg>in question ,<cref>461 <i>inquiry</i></cref></sg>,;
+<sg>vague</sg>,;
+<sg>indeterminate, indefinite</sg>,;
+<sg>ambiguous, equivocal</sg>,;
+<sg>undefined, undefinable</sg>,;
+<sg>confused ,<cref>447 <i>indistinct</i></cref></sg>,;
+<sg>mystic, oracular</sg>,;
+<sg>dazed</sg>,;
+<sg>perplexing</sg>,;
+<sg>enigmatic, paradoxical, apocryphal, problematical, hypothetical</sg>,;
+<sg>experimental ,<cref> 463 <i>spectator</i></cref></sg>,;
+<sg>unpredictable, unforeseeable (unknowable) 519</sg>,;
+<sg>fallible, questionable, precarious, slippery, ticklish, debatable, disputable</sg>,;
+<sg>unreliable, untrustworthy</sg>,;
+<sg>contingent, contingent on, dependent on</sg>,;
+<sg>subject to</sg>,;
+<sg>dependent on circumstances</sg>,;
+<sg>occasional</sg>,;
+<sg>provisional</sg>,;
+<sg>unauthentic, unauthenticated, unauthoritative</sg>,;
+<sg>unascertained, unconfirmed</sg>,;
+<sg>undemonstrated</sg>,;
+<sg>untold, uncounted</sg>,;
+<sg>in a state of uncertainty, in a cloud, in a maze</sg>,;
+<sg>bushed, off the track</sg>,;
+<sg>ignorant, ,<cref> 491 <i>counter evidence</i></cref></sg>,;
+<sg>afraid to say</sg>,;
+<sg>out of one's reckoning, astray, adrift</sg>,;
+<sg>at sea, at fault, at a loss, at one's wit's end, at a nonplus</sg>,;
+<sg>puzzled</sg>,;
+<sg>lost, abroad, d_esorient_e</sg>,;
+<sg>distracted, distraught</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>pendente lite</sg>,;
+<sg>sub spe rati</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>Heaven knows</sg>,;
+<sg>who can tell? who shall decide when doctors disagree? ambiguas in vulgum spargere voces</sg>,;
+<br>
+</paragraph>

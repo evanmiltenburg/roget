@@ -1,0 +1,89 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#34#</sectionNumber>
+<headword>#<b>#[001] #807# Acquisition #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>acquisition</i></sg>,;
+<sg>gaining</sg>,;
+<sg>obtainment</sg>,;
+<sg>procuration, procurement</sg>,;
+<sg>purchase, descent, inheritance</sg>,;
+<sg>gift ,<cref> 784 <i>keeper</i></cref></sg>,;
+<sg>recovery, retrieval, revendication, replevin, restitution ,<cref> 790 <i>deputy</i></cref></sg>,;
+<sg>redemption, salvage, trover</sg>,;
+<sg>find, trouvaille, foundling</sg>,;
+<sg>gain, thrift</sg>,;
+<sg>money-making, money grubbing</sg>,;
+<sg>lucre, filthy lucre, pelf</sg>,;
+<sg>loaves and fishes, the main chance</sg>,;
+<sg>emolument ,<cref>973 <i>remuneration</i></cref></sg>,;
+<sg>profit, earnings, winnings, innings, pickings, net profit</sg>,;
+<sg>avails</sg>,;
+<sg>income ,<cref>810 <i>receipt</i></cref></sg>,;
+<sg>proceeds, produce, product</sg>,;
+<sg>outcome, output</sg>,;
+<sg>return, fruit, crop, harvest</sg>,;
+<sg>second crop, aftermath</sg>,;
+<sg>benefit ,<cref>618 <i>good</i></cref></sg>,;
+<sg>sweepstakes, trick, prize, pool</sg>,;
+<sg>pot</sg>,;
+<sg>wealth ,<cref> 803 <i>security</i></cref></sg>,;
+<sg>subreption</sg>,;
+<sg>obreption</sg>,;
+<sg>stealing ,<cref> 791 <i>permission</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>acquire, get, gain, win, earn, obtain, procure, gather</sg>,;
+<sg>collect ,<cref>72 <i>assemble</i></cref></sg>,;
+<sg>pick, pickup</sg>,;
+<sg>glean</sg>,;
+<sg>find</sg>,;
+<sg>come upon, pitch upon, light upon</sg>,;
+<sg>scrape up, scrape together</sg>,;
+<sg>get in, reap and carry, net, bag, sack, bring home, secure</sg>,;
+<sg>derive, draw, get in the harvest</sg>,;
+<sg>profit</sg>,;
+<sg>make profit, draw profit, turn a quick profit</sg>,;
+<sg>turn to profit, turn to account</sg>,;
+<sg>make capital out of, make money by</sg>,;
+<sg>obtain a return, reap the fruits of</sg>,;
+<sg>reap an advantage, gain an advantage</sg>,;
+<sg>turn a penny, turn an honest penny</sg>,;
+<sg>make the pot boil, bring grist to the mill</sg>,;
+<sg>make money, coin money, raise money</sg>,;
+<sg>raise funds, raise the wind</sg>,;
+<sg>fill one's pocket ,<cref>803 <i>wealth</i></cref></sg>,;
+<sg>treasure up ,<cref>636 <i>store</i></cref></sg>,;
+<sg>realize, clear</sg>,;
+<sg>produce ,<cref> 161 <i>effect</i></cref></sg>,;
+<sg>take ,<cref> 789 <i>consignee</i></cref></sg>,;
+<sg>get back, recover, regain, retrieve, revendicate, replevy, redeem, come by one's own</sg>,;
+<sg>come by, come in for</sg>,;
+<sg>receive ,<cref> 785 <i>prisoner</i></cref></sg>,;
+<sg>inherit</sg>,;
+<sg>step into a fortune, step into the shoes of</sg>,;
+<sg>succeed to</sg>,;
+<sg>get hold of, get between one's finger and thumb, get into one's hand, get at</sg>,;
+<sg>take possession, come into possession, enter into possession</sg>,;
+<sg>be profitable</sg>,;
+<sg>pay, answer</sg>,;
+<sg>accrue ,<cref>785 <i>be received</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>acquiring, acquired</sg>,;
+<sg>profitable, advantageous, gainful, remunerative, paying, lucrative</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>lucri causa</sg>,;
+<br>
+</paragraph>

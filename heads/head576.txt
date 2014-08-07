@@ -1,0 +1,249 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#25#</sectionNumber>
+<headword>#<b>#[001] #576# Indication #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>indication</i></sg>,;
+<sg>symbolism, symbolization</sg>,;
+<sg>semiology, semiotics, semeiology, semeiotics</sg>,;
+<sg>Zeitgeist</sg>,;
+<sg>characteristic, diagnostic</sg>,;
+<sg>lineament, feature, trait</sg>,;
+<sg>fingerprint, voiceprint, footprint, noseprint</sg>,;
+<sg>cloven hoof</sg>,;
+<sg>footfall</sg>,;
+<sg>recognition (memory) 505</sg>,;
+<sg>diagnostic, divining rod</sg>,;
+<sg>detector</sg>,;
+<sg>sign, symbol</sg>,;
+<sg>index, indice, indicator</sg>,;
+<sg>point, pointer</sg>,;
+<sg>exponent, note, token, symptom</sg>,;
+<sg>dollar sign, dollar mark</sg>,;
+<sg>type, figure, emblem, cipher, device</sg>,;
+<sg>representation ,<cref> 554 <i>concealment</i></cref></sg>,;
+<sg>epigraph, motto, posy</sg>,;
+<sg>gesture, gesticulation</sg>,;
+<sg>pantomime</sg>,;
+<sg>wink, glance, leer</sg>,;
+<sg>nod, shrug, beck</sg>,;
+<sg>touch, nudge</sg>,;
+<sg>dactylology, dactylonomy</sg>,;
+<sg>freemasonry, telegraphy, chirology, byplay, dumb show</sg>,;
+<sg>cue</sg>,;
+<sg>hint ,<cref> 527 <i>insanity</i></cref></sg>,;
+<sg>clue, clew, key, scent</sg>,;
+<sg>signal, signal post</sg>,;
+<sg>rocket, blue light</sg>,;
+<sg>watch fire, watch tower</sg>,;
+<sg>telegraph, semaphore, flagstaff</sg>,;
+<sg>cresset, fiery cross</sg>,;
+<sg>calumet</sg>,;
+<sg>heliograph</sg>,;
+<sg>guidon</sg>,;
+<sg>headlight</sg>,;
+<sg>mark, scratch, line, stroke, dash, score, stripe, streak, tick, dot, point, notch, nick</sg>,;
+<sg>print</sg>,;
+<sg>imprint, impress, impression</sg>,;
+<sg>keyboard symbols, printing symbols</sg>,;
+<sg>red letter, italics, sublineation, underlining, bold font</sg>,;
+<sg>jotting</sg>,;
+<sg>note, annotation, reference</sg>,;
+<sg>blaze, cedilla, guillemets, hachure</sg>,;
+<sg>quotation marks, "</sg>,;
+<sg>double quotes, " "</sg>,;
+<sg>parentheses, "( )"</sg>,;
+<sg>brackets, ""</sg>,;
+<sg>braces, ""</sg>,;
+<sg>left arrow, "<"</sg>,;
+<sg>right arrow, ">"</sg>,;
+<sg>forward slash, "/"</sg>,;
+<sg>backward slash, "\\"</sg>,;
+<sg>exclamation point, "!"</sg>,;
+<sg>commercial at, "@"</sg>,;
+<sg>pound sign, "#"</sg>,;
+<sg>percent sign, "%"</sg>,;
+<sg>carat, ""</sg>,;
+<sg>ampersand, "&"</sg>,;
+<sg>asterisk, "*"</sg>,;
+<sg>hyphen, "-"</sg>,;
+<sg>dash, "-", "_"</sg>,;
+<sg>em dash, "--"</sg>,;
+<sg>plus sign, "+"</sg>,;
+<sg>equals sign, "="</sg>,;
+<sg>question mark, "?"</sg>,;
+<sg>period, "</sg>,;
+<sg>"</sg>,;
+<sg>semicolon, "</sg>,;
+<sg>"</sg>,;
+<sg>colon, ":"</sg>,;
+<sg>comma, ","</sg>,;
+<sg>apostrophe, "'"</sg>,;
+<sg>single quote, "'"</sg>,;
+<sg>tilde, "~"</sg>,;
+<sg>badge, criterion</sg>,;
+<sg>countercheck, countermark, countersign, counterfoil</sg>,;
+<sg>duplicate, tally</sg>,;
+<sg>label, ticket, billet, letter, counter, check, chip, chop</sg>,;
+<sg>dib</sg>,;
+<sg>totem</sg>,;
+<sg>tessera, card, bill</sg>,;
+<sg>witness, voucher</sg>,;
+<sg>stamp</sg>,;
+<sg>cacher</sg>,;
+<sg>trade mark, Hall mark</sg>,;
+<sg>signature, mark, autograph, autography</sg>,;
+<sg>attestation</sg>,;
+<sg>hand, hand writing, sign manual</sg>,;
+<sg>cipher</sg>,;
+<sg>seal, sigil, signet, hand and seal</sg>,;
+<sg>paraph, brand</sg>,;
+<sg>superscription</sg>,;
+<sg>indorsement, endorsement</sg>,;
+<sg>password, watchword, catchword</sg>,;
+<sg>security card, pass, passkey</sg>,;
+<sg>credentials ,<cref>467 <i>evidence</i></cref></sg>,;
+<sg>open sesame</sg>,;
+<sg>timbrology</sg>,;
+<sg>mot de passe, mot du guet</sg>,;
+<sg>pass-parole</sg>,;
+<sg>shibboleth</sg>,;
+<sg>title, heading, docket</sg>,;
+<sg>address card, visiting card</sg>,;
+<sg>carte de visite</sg>,;
+<sg>insignia</sg>,;
+<sg>banner, banneret, bannerol</sg>,;
+<sg>bandrol</sg>,;
+<sg>flag, colors, streamer, standard, eagle, labarum, oriflamb, oriflamme</sg>,;
+<sg>figurehead</sg>,;
+<sg>ensign</sg>,;
+<sg>pennon, pennant, pendant</sg>,;
+<sg>burgee, blue Peter, jack, ancient, gonfalon, union jack</sg>,;
+<sg>banderole, old glory, quarantine flag</sg>,;
+<sg>vexillum</sg>,;
+<sg>yellow-flag, yellow jack</sg>,;
+<sg>tricolor, stars and stripes</sg>,;
+<sg>bunting</sg>,;
+<sg>heraldry, crest</sg>,;
+<sg>coat of arms, arms</sg>,;
+<sg>armorial bearings, hatchment</sg>,;
+<sg>escutcheon, scutcheon</sg>,;
+<sg>shield, supporters</sg>,;
+<sg>livery, uniform</sg>,;
+<sg>cockade, epaulet, chevron</sg>,;
+<sg>garland, love knot, favor</sg>,;
+<sg>beacon, cairn, post, staff, flagstaff, hand, pointer, vane, cock, weathercock</sg>,;
+<sg>guidepost, handpost, fingerpost, directing post, signpost</sg>,;
+<sg>pillars of Hercules, pharos</sg>,;
+<sg>bale-fire, beacon-fire</sg>,;
+<sg>l'etoile du Nord</sg>,;
+<sg>landmark, seamark</sg>,;
+<sg>lighthouse, balize</sg>,;
+<sg>polestar, loadstar, lodestar</sg>,;
+<sg>cynosure, guide</sg>,;
+<sg>address, direction, name</sg>,;
+<sg>sign, signboard</sg>,;
+<sg>warning ,<cref> 668 <i>sufficiency</i></cref></sg>,;
+<sg>omen ,<cref> 512 <i>assent</i></cref></sg>,;
+<sg>prefigurement ,<cref> 511 <i>incredulity</i></cref></sg>,;
+<sg>trace, record , 551</sg>,;
+<sg>warning &c 668, alarm ,<cref> 669 <i>insufficiency</i></cref></sg>,;
+<sg>scepter ,<cref> 747 <i>retaliation</i></cref></sg>,;
+<sg>trophy ,<cref> 733 <i>difficulty</i></cref></sg>,;
+<sg>gauge ,<cref> 466 <i>invisibility</i></cref></sg>,;
+<sg>milestone, milepost</sg>,;
+<sg>brand, fool's cap</sg>,;
+<sg>check, telltale</sg>,;
+<sg>test ,<cref>463 <i>experiment</i></cref></sg>,;
+<sg>mileage ticket</sg>,;
+<sg>milliary</sg>,;
+<sg>notification ,<cref>527 <i>information</i></cref></sg>,;
+<sg>advertisement ,<cref>531 <i>publication</i></cref></sg>,;
+<sg>word of command, call</sg>,;
+<sg>bugle call, trumpet call</sg>,;
+<sg>bell, alarum, cry</sg>,;
+<sg>battle cry, rallying cry</sg>,;
+<sg>angelus</sg>,;
+<sg>reveille</sg>,;
+<sg>sacring bell, sanctus bell</sg>,;
+<sg>exposition &c (explanation) 522, proof ,<cref>463 <i>evidence</i></cref></sg>,;
+<sg>pattern ,<cref>22 <i>prototype</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>indicate</sg>,;
+<sg>be the sign</sg>,;
+<sg>of</sg>,;
+<sg>denote, betoken</sg>,;
+<sg>argue, testify ,<cref>467 <i>evidence</i></cref></sg>,;
+<sg>bear the impress</sg>,;
+<sg>of</sg>,;
+<sg>connote, connotate</sg>,;
+<sg>represent, stand for</sg>,;
+<sg>typify ,<cref>511 <i>prefigure</i></cref></sg>,;
+<sg>symbolize</sg>,;
+<sg>put an indication, put a mark</sg>,;
+<sg>note, mark, stamp, earmark</sg>,;
+<sg>blaze</sg>,;
+<sg>label, ticket, docket</sg>,;
+<sg>dot, spot, score, dash, trace, chalk</sg>,;
+<sg>print</sg>,;
+<sg>imprint, impress</sg>,;
+<sg>engrave, stereotype</sg>,;
+<sg>make a sign</sg>,;
+<sg>signalize</sg>,;
+<sg>underscore</sg>,;
+<sg>give a signal, hang out a signal</sg>,;
+<sg>beckon</sg>,;
+<sg>nod</sg>,;
+<sg>wink, glance, leer, nudge, shrug, tip the wink</sg>,;
+<sg>gesticulate</sg>,;
+<sg>raise the finger, hold up the finger, raise the hand, hold up the hand</sg>,;
+<sg>saw the air, suit the action to the word</sg>,;
+<sg>wave a banner, unfurl a banner, hoist a banner, hang out a banner</sg>,;
+<sg>wave the hand, wave a kerchief</sg>,;
+<sg>give the cue ,<cref>527 <i>inform</i></cref></sg>,;
+<sg>show one's colors</sg>,;
+<sg>give an alarm, sound an alarm</sg>,;
+<sg>beat the drum, sound the trumpets, raise a cry</sg>,;
+<sg>sign, seal, attest ,<cref>467 <i>evidence</i></cref></sg>,;
+<sg>underline ,<cref>642 <i>give importance to</i></cref></sg>,;
+<sg>call attention to ,<cref>457 <i>attention</i></cref></sg>,;
+<sg>give notice ,<cref>527 <i>inform</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>indicating</sg>,;
+<sg>, indicative, indicatory</sg>,;
+<sg>denotative, connotative</sg>,;
+<sg>diacritical, representative, typical, symbolic, pantomimic, pathognomonic, symptomatic, characteristic, demonstrative, diagnostic, exponential, emblematic, armorial</sg>,;
+<sg>individual ,<cref>79 <i>special</i></cref></sg>,;
+<sg>known by, recognizable by</sg>,;
+<sg>indicated</sg>,;
+<sg>pointed, marked</sg>,;
+<sg>denotable</sg>,;
+<sg>indelible</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>in token of</sg>,;
+<sg>symbolically</sg>,;
+<sg>in dumb show</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>ecce signum</sg>,;
+<sg>ex ungue leonem, ex pede Herculem</sg>,;
+<sg>vide ut supra</sg>,;
+<sg>vultus ariete fortior</sg>,;
+<br>
+</paragraph>

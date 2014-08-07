@@ -1,0 +1,147 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#36#</sectionNumber>
+<headword>#<b>#[001] #904# Desire #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>desire, </i>wish, fancy, fantasy</sg>,;
+<sg>want, need, exigency</sg>,;
+<sg>mind, inclination, leaning, bent, animus, partiality, penchant, predilection</sg>,;
+<sg>propensity ,<cref> 820 <i>lending</i></cref></sg>,;
+<sg>willingness ,<cref> 602 <i>plainness</i></cref></sg>,;
+<sg>liking, love, fondness, relish</sg>,;
+<sg>longing, hankering, inkling</sg>,;
+<sg>solicitude, anxiety</sg>,;
+<sg>yearning, coveting</sg>,;
+<sg>aspiration, ambition, vaulting ambition</sg>,;
+<sg>eagerness, zeal, ardor, empressement, breathless impatience, overanxiety</sg>,;
+<sg>impetuosity, ,<cref> 825 <i>thief</i></cref></sg>,;
+<sg>appetite, appetition, appetence, appetency</sg>,;
+<sg>sharp appetite, keenness, hunger, stomach, twist</sg>,;
+<sg>thirst, thirstiness</sg>,;
+<sg>drouth, mouthwatering</sg>,;
+<sg>itch, itching</sg>,;
+<sg>prurience, cacoethes, cupidity, lust, concupiscence</sg>,;
+<sg>edge of appetite, edge of hunger</sg>,;
+<sg>torment of Tantalus</sg>,;
+<sg>sweet tooth, lickerish tooth</sg>,;
+<sg>itching palm</sg>,;
+<sg>longing eye, wistful eye, sheep's eye</sg>,;
+<sg>greed ,<cref> 817 <i>giving</i></cref></sg>,;
+<sg>1</sg>,;
+<sg>voracity ,<cref>957 <i>gluttony</i></cref></sg>,;
+<sg>passion, rage, furore, mania, manie</sg>,;
+<sg>inextinguishable desire</sg>,;
+<sg>dipsomania, kleptomania</sg>,;
+<sg>lover, amateur, votary, devotee, aspirant, solicitant, candidate, applicant, supplicant</sg>,;
+<sg>cormorant ,<cref> 957 <i>gratitude</i></cref></sg>,;
+<sg>desideratum</sg>,;
+<sg>want ,<cref>630 <i>requirement</i></cref></sg>,;
+<sg>a consummation devoutly to be wished</sg>,;
+<sg>attraction, magnet, allurement, fancy, temptation, seduction, fascination, prestige, height of one's ambition, idol</sg>,;
+<sg>whim, whimsy, whimsey</sg>,;
+<sg>maggot</sg>,;
+<sg>hobby, hobby-horse</sg>,;
+<sg>Fortunatus's cap</sg>,;
+<sg>wishing cap, wishing stone, wishing well</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>desire</sg>,;
+<sg>wish, wish for</sg>,;
+<sg>be desirous</sg>,;
+<sg>have a longing</sg>,;
+<sg>hope ,<cref> 858 <i>affections</i></cref></sg>,;
+<sg>care for, affect, like, list</sg>,;
+<sg>take to, cling to, take a fancy to</sg>,;
+<sg>fancy</sg>,;
+<sg>prefer ,<cref>609 <i>choose</i></cref></sg>,;
+<sg>have an eye, have a mind to</sg>,;
+<sg>find it in one's heart ,<cref>602 <i>be willing</i></cref></sg>,;
+<sg>have a fancy for, set one's eyes upon</sg>,;
+<sg>cast a sheep's eye upon, look sweet upon</sg>,;
+<sg>take into one's head, have at heart, be bent upon</sg>,;
+<sg>set one's cap at, set one's heart upon, set one's mind upon</sg>,;
+<sg>covet</sg>,;
+<sg>want, miss, need, feel the want of, would fain have, would fain do</sg>,;
+<sg>would be glad of</sg>,;
+<sg>be hungry</sg>,;
+<sg>have a good appetite, play a good knife and fork</sg>,;
+<sg>hunger after, thirst after, crave after, lust after, itch after, hanker after, run mad after</sg>,;
+<sg>raven for, die for</sg>,;
+<sg>burn to</sg>,;
+<sg>desiderate</sg>,;
+<sg>sigh for, cry for, gape for, gasp for, pine for, pant for, languish for, yearn for, long, be on thorns for, hope for</sg>,;
+<sg>aspire after</sg>,;
+<sg>catch at, grasp at, jump at</sg>,;
+<sg>woo, court, solicit</sg>,;
+<sg>fish for, spell for, whistle for, put up for</sg>,;
+<sg>ogle</sg>,;
+<sg>cause desire, create desire, raise desire, excite desire, provoke desire</sg>,;
+<sg>whet the appetite</sg>,;
+<sg>appetize, titillate, allure, attract, take one's fancy, tempt</sg>,;
+<sg>hold out temptation, hold out allurement</sg>,;
+<sg>tantalize, make one's mouth water, faire venir l'eau a la bouche</sg>,;
+<sg>gratify desire ,<cref>829 <i>give pleasure</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>desirous</sg>,;
+<sg>desiring</sg>,;
+<sg>inclined ,<cref>602 <i>willing</i></cref></sg>,;
+<sg>partial to</sg>,;
+<sg>fain, wishful, optative</sg>,;
+<sg>anxious, wistful, curious</sg>,;
+<sg>at a loss for, sedulous, solicitous</sg>,;
+<sg>craving, hungry, sharp-set, peckish, ravening, with an empty stomach, esurient, lickerish, thirsty, athirst, parched with thirst, pinched with hunger, famished, dry, drouthy</sg>,;
+<sg>hungry as a hunter, hungry as a hawk, hungry as a horse, hungry as a church mouse, hungry as a bear</sg>,;
+<sg>greedy ,<cref> 817 <i>giving</i></cref></sg>,;
+<sg>1</sg>,;
+<sg>unsatisfied, unsated, unslaked</sg>,;
+<sg>unsaturated</sg>,;
+<sg>eager, avid, keen</sg>,;
+<sg>burning, fervent, ardent</sg>,;
+<sg>agog</sg>,;
+<sg>all agog</sg>,;
+<sg>breathless</sg>,;
+<sg>impatient ,<cref>825 <i>impetuous</i></cref></sg>,;
+<sg>bent on, intent on, set on, bent upon, intent upon, set upon</sg>,;
+<sg>mad after, enrage, rabid, dying for, devoured by desire</sg>,;
+<sg>aspiring, ambitious, vaulting, skyaspiring, high-reaching</sg>,;
+<sg>desirable</sg>,;
+<sg>desired</sg>,;
+<sg>in demand</sg>,;
+<sg>pleasing ,<cref>829 <i>giving pleasure</i></cref></sg>,;
+<sg>appetizing, appetible</sg>,;
+<sg>tantalizing</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>wistfully</sg>,;
+<sg>fain</sg>,;
+<sg>Int</sg>,;
+<sg>would that, would that it were!, O for!, esto perpetual</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>the wish being father to the thought</sg>,;
+<sg>sua cuique voluptas</sg>,;
+<sg>hoc erat in votis, the mouth watering, the fingers itching</sg>,;
+<sg>aut Caesar aut nullus</sg>,;
+<sg>Cassius has a lean and hungry look</sg>,;
+<sg>hungry as the grave</sg>,;
+<sg>I was born to other things</sg>,;
+<sg>not what we wish but what we want</sg>,;
+<sg>such joy ambition finds</sg>,;
+<sg>the sea hath bounds but deep desire hath none</sg>,;
+<sg>ubi mel ibi apes</sg>,;
+<br>
+</paragraph>

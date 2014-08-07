@@ -1,0 +1,96 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#20#</sectionNumber>
+<headword>#<b>#[001] #505# Misjudgment #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>misjudgment, </i>obliquity of judgment</sg>,;
+<sg>miscalculation, miscomputation, misconception ,<cref>495 <i>error</i></cref></sg>,;
+<sg>hasty conclusion</sg>,;
+<sg>prejudgment, prejudication, prejudice</sg>,;
+<sg>foregone conclusion</sg>,;
+<sg>prenotion, prevention, preconception, predilection, prepossession, preapprehension, presumption, assumption, presentiment</sg>,;
+<sg>fixed idea, preconceived idea</sg>,;
+<sg>id_ee fixe</sg>,;
+<sg>mentis gratissimus error</sg>,;
+<sg>fool's paradise</sg>,;
+<sg>esprit de corps, party spirit, partisanship, clannishness, prestige</sg>,;
+<sg>bias, bigotry, warp, twist</sg>,;
+<sg>hobby, fad, quirk, crotchet, partiality, infatuation, blind side, mote in the eye</sg>,;
+<sg>one-sided views, one-track mind, partial views, narrow views, confined views, superficial views, one- sided ideas, partial ideas, narrow ideas, confined ideas, superficial ideas, one-sided conceptions, partial conceptions, narrow conceptions, confined conceptions, superficial conceptions, one-sided notions, partial notions, narrow notions, confined notions, superficial notions</sg>,;
+<sg>narrow mind</sg>,;
+<sg>bigotry ,<cref>606 <i>obstinacy</i></cref></sg>,;
+<sg>odium theologicum</sg>,;
+<sg>pedantry</sg>,;
+<sg>hypercriticism</sg>,;
+<sg>doctrinaire ,<cref>474 <i>positive</i></cref></sg>,;
+<sg>overestimation ,<cref> 482 <i>answer</i></cref></sg>,;
+<sg>underestimation ,<cref> 483 <i>experiment</i></cref></sg>,;
+<sg>ignorance ,<cref> 491 <i>counter evidence</i></cref></sg>,;
+<sg>erroneous assumptions, erroneous data, mistaken assumptions, incorrect assumptions (error) 495</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>misjudge, misestimate, misthink, misconjecture, misconceive ,<cref>495 <i>error</i></cref></sg>,;
+<sg>fly in the face of facts</sg>,;
+<sg>miscalculate, misreckon, miscompute</sg>,;
+<sg>overestimate ,<cref> 482 <i>answer</i></cref></sg>,;
+<sg>underestimate ,<cref> 483 <i>experiment</i></cref></sg>,;
+<sg>prejudge, forejudge</sg>,;
+<sg>presuppose, presume, prejudicate</sg>,;
+<sg>dogmatize</sg>,;
+<sg>have a bias</sg>,;
+<sg>have only one idea</sg>,;
+<sg>jurare in verba magistri, run away with the notion</sg>,;
+<sg>jump to a conclusion, rush to a conclusion, leap to a conclusion, judge hastily, shoot from the hip, jump to conclusions</sg>,;
+<sg>look only at one side of the shield</sg>,;
+<sg>view with jaundiced eye, view through distorting spectacles</sg>,;
+<sg>not see beyond one's nose</sg>,;
+<sg>dare pondus fumo</sg>,;
+<sg>get the wrong sow by the ear ,<cref>699 <i>blunder</i></cref></sg>,;
+<sg>give a bias, give a twist</sg>,;
+<sg>bias, warp, twist</sg>,;
+<sg>prejudice, prepossess</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>misjudging</sg>,;
+<sg>ill-judging, wrong-headed</sg>,;
+<sg>prejudiced</sg>,;
+<sg>jaundiced</sg>,;
+<sg>shortsighted, purblind</sg>,;
+<sg>partial, one-sided, superficial</sg>,;
+<sg>narrow-minded, narrow-souled</sg>,;
+<sg>mean-spirited</sg>,;
+<sg>confined, illiberal, intolerant, besotted, infatuated, fanatical, entete, positive, dogmatic, conceited</sg>,;
+<sg>opinative, opiniative</sg>,;
+<sg>opinioned, opinionate, opinionative, opinionated</sg>,;
+<sg>self-opinioned, wedded to an opinion, opini=atre</sg>,;
+<sg>bigoted ,<cref>606 <i>obstinate</i></cref></sg>,;
+<sg>crotchety, fussy, impracticable</sg>,;
+<sg>unreasonable, stupid ,<cref> 499 <i>reasoning,</i></cref></sg>,;
+<sg>credulous ,<cref> 486 <i>discrimination</i></cref></sg>,;
+<sg>warped</sg>,;
+<sg>misjudged</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>ex parte</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>nothing like leather</sg>,;
+<sg>the wish the father to the thought</sg>,;
+<sg>wishful thinking</sg>,;
+<sg>unshakable conviction</sg>,;
+<sg>my mind is made up - don't bother me with the facts</sg>,;
+<br>
+</paragraph>

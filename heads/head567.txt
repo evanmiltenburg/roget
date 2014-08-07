@@ -1,0 +1,57 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#24#</sectionNumber>
+<headword>#<b>#[001] #567# Learner #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>learner, </i>scholar, student, pupil</sg>,;
+<sg>apprentice, prentice, journeyman</sg>,;
+<sg>articled clerk</sg>,;
+<sg>beginner, tyro, amateur, rank amateur</sg>,;
+<sg>abecedarian, alphabetarian</sg>,;
+<sg>alumnus, eleve</sg>,;
+<sg>recruit, raw recruit, novice, neophyte, inceptor, catechumen, probationer</sg>,;
+<sg>seminarian, chela, fellow-commoner</sg>,;
+<sg>debutant</sg>,;
+<sg>intern</sg>,;
+<sg>resident</sg>,;
+<sg>schoolboy</sg>,;
+<sg>fresh, freshman, frosh</sg>,;
+<sg>junior soph, junior</sg>,;
+<sg>senior soph, senior</sg>,;
+<sg>sophister, sophomore</sg>,;
+<sg>questionist</sg>,;
+<sg>undergraduate</sg>,;
+<sg>graduate student</sg>,;
+<sg>law student</sg>,;
+<sg>medical student</sg>,;
+<sg>pre-med</sg>,;
+<sg>post-doctoral student, post-doc</sg>,;
+<sg>matriculated student</sg>,;
+<sg>part-time student, night student, auditor</sg>,;
+<sg>class, grade, seminar, form, remove</sg>,;
+<sg>pupilage ,<cref>539 <i>learning</i></cref></sg>,;
+<sg>disciple, follower, apostle, proselyte</sg>,;
+<sg>fellow-student, condisciple</sg>,;
+<sg>school ,<cref> 542 <i>unmeaningness</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>learn</sg>,;
+<sg>practise</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>in statu pupillari, in leading strings</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>practise makes perfect</sg>,;
+<br>
+</paragraph>

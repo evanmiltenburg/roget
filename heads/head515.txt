@@ -1,0 +1,90 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#20#</sectionNumber>
+<headword>#<b>#[001] #515# Ignorance #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>ignorance, </i>nescience, tabula rasa, crass ignorance, ignorance crasse</sg>,;
+<sg>unfamiliarity, unacquaintance</sg>,;
+<sg>unconsciousness</sg>,;
+<sg>darkness, blindness</sg>,;
+<sg>incomprehension, inexperience, simplicity</sg>,;
+<sg>unknown quantities, x, y, z</sg>,;
+<sg>sealed book, terra incognita, virgin soil, unexplored ground</sg>,;
+<sg>dark ages</sg>,;
+<sg>smattering, sciolism, glimmering, dilettantism</sg>,;
+<sg>bewilderment ,<cref>475 <i>uncertainty</i></cref></sg>,;
+<sg>incapacity</sg>,;
+<sg>pedantry</sg>,;
+<sg>charlatanry, charlatism</sg>,;
+<sg>Philister, Philistine</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be ignorant</sg>,;
+<sg>not know ,<cref> 490 <i>evidence</i></cref></sg>,;
+<sg>know not, know not what, know nothing of</sg>,;
+<sg>have no idea, have no notion, have no conception</sg>,;
+<sg>not have the remotest idea</sg>,;
+<sg>not know chalk from cheese</sg>,;
+<sg>ignore, be blind to</sg>,;
+<sg>keep in ignorance ,<cref>528 <i>conceal</i></cref></sg>,;
+<sg>see through a glass darkly</sg>,;
+<sg>have a film over the eyes, have a glimmering</sg>,;
+<sg>wonder whether</sg>,;
+<sg>not know what to make of ,<cref>519 <i>unintelligibility</i></cref></sg>,;
+<sg>not pretend to take upon, not take upon one self to say</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>ignorant</sg>,;
+<sg>nescient</sg>,;
+<sg>unknowing, unaware, unacquainted, unapprised, unapprized, unwitting, unweeting, unconscious</sg>,;
+<sg>witless, weetless</sg>,;
+<sg>a stranger to</sg>,;
+<sg>unconversant</sg>,;
+<sg>uninformed, uncultivated, unversed, uninstructed, untaught, uninitiated, untutored, unschooled, misguided, unenlightened</sg>,;
+<sg>Philistine</sg>,;
+<sg>behind the age</sg>,;
+<sg>shallow, superficial, green, rude, empty, half-learned, illiterate</sg>,;
+<sg>unread, uninformed, uneducated, unlearned, unlettered, unbookish</sg>,;
+<sg>empty-headed, dizzy, wooly-headed</sg>,;
+<sg>pedantic</sg>,;
+<sg>in the dark</sg>,;
+<sg>benighted, belated</sg>,;
+<sg>blinded, blindfolded</sg>,;
+<sg>hoodwinked</sg>,;
+<sg>misinformed</sg>,;
+<sg>au bout de son latin, at the end of his tether, at fault</sg>,;
+<sg>at sea ,<cref>475 <i>uncertain</i></cref></sg>,;
+<sg>caught tripping</sg>,;
+<sg>unknown, unapprehended, unexplained, unascertained, uninvestigated, unexplored, unheard of, not perceived</sg>,;
+<sg>concealed ,<cref> 528 <i>madman</i></cref></sg>,;
+<sg>novel</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>ignorantly</sg>,;
+<sg>unawares</sg>,;
+<sg>for anything, for aught one knows</sg>,;
+<sg>not that one knows</sg>,;
+<sg>Int</sg>,;
+<sg>God knows, Heaven knows, the Lord knows, who knows, nobody knows</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>ignorance never settles a question</sg>,;
+<sg>quantum animis erroris inest!</sg>,;
+<sg>small Latin and less Greek</sg>,;
+<sg>that unlettered small-knowing soul</sg>,;
+<sg>there is no darkness but ignorance</sg>,;
+<br>
+</paragraph>

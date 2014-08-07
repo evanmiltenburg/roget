@@ -1,0 +1,55 @@
+<classNumber>#2#</classNumber>
+<sectionNumber>#11#</sectionNumber>
+<headword>#<b>#[001] #262# Concavity #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>concavity, </i>depression, dip</sg>,;
+<sg>hollow, hollowness</sg>,;
+<sg>indentation, intaglio, cavity, dent, dint, dimple, follicle, pit, sinus, alveolus, lacuna</sg>,;
+<sg>excavation, strip mine</sg>,;
+<sg>trough ,<cref>259 <i>furrow</i></cref></sg>,;
+<sg>honeycomb</sg>,;
+<sg>cup, basin, crater, punch bowl</sg>,;
+<sg>cell ,<cref>191 <i>receptacle</i></cref></sg>,;
+<sg>socket</sg>,;
+<sg>valley, vale, dale, dell, dingle, combe, bottom, slade, strath, glade, grove, glen, cave, cavern, cove</sg>,;
+<sg>grot, grotto</sg>,;
+<sg>alcove, cul-de- sac</sg>,;
+<sg>gully ,<cref> 198 <i>abode</i></cref></sg>,;
+<sg>arch ,<cref>245 <i>curve</i></cref></sg>,;
+<sg>bay ,<cref>343 <i>of the sea</i></cref></sg>,;
+<sg>excavator, sapper, miner</sg>,;
+<sg>honeycomb (sponge) 252</sg>,;
+<sg>1</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be concave</sg>,;
+<sg>retire, cave in</sg>,;
+<sg>render concave</sg>,;
+<sg>depress, hollow</sg>,;
+<sg>scoop, scoop out</sg>,;
+<sg>gouge, gouge out, dig, delve, excavate, dent, dint, mine, sap, undermine, burrow, tunnel, stave in</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>depressed</sg>,;
+<sg>alveolate, calathiform, cup-shaped, dishing</sg>,;
+<sg>favaginous, faveolate, favose</sg>,;
+<sg>scyphiform, scyphose</sg>,;
+<sg>concave, hollow, stove in</sg>,;
+<sg>retiring</sg>,;
+<sg>retreating</sg>,;
+<sg>cavernous</sg>,;
+<sg>porous ,<cref>260 <i>with holes</i></cref></sg>,;
+<sg>infundibul, infundibular, infundibuliform</sg>,;
+<sg>funnel shaped, bell shaped</sg>,;
+<sg>campaniform, capsular</sg>,;
+<sg>vaulted, arched</sg>,;
+<br>
+</paragraph>

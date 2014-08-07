@@ -1,0 +1,79 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#24#</sectionNumber>
+<headword>#<b>#[001] #569# Veracity #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>veracity</i></sg>,;
+<sg>truthfulness, frankness,</sg>,;
+<sg>truth, sincerity, candor, unreserve, honesty, fidelity</sg>,;
+<sg>plain dealing, bona fides</sg>,;
+<sg>love of truth</sg>,;
+<sg>probity ,<cref> 939 <i>resentment</i></cref></sg>,;
+<sg>ingenuousness ,<cref>703 <i>artlessness</i></cref></sg>,;
+<sg>the truth the whole truth and nothing but the truth</sg>,;
+<sg>honest truth, sober truth ,<cref>494 <i>fact</i></cref></sg>,;
+<sg>unvarnished tale</sg>,;
+<sg>light of truth</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>speak the truth, tell the truth</sg>,;
+<sg>speak by the card</sg>,;
+<sg>paint in its true colors, show oneself in one's true colors</sg>,;
+<sg>make a clean breast ,<cref>529 <i>disclose</i></cref></sg>,;
+<sg>speak one's mind ,<cref>703 <i>be blunt</i></cref></sg>,;
+<sg>not lie &c 544, not deceive ,<cref> 545 <i>equivocalness</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>truthful, true</sg>,;
+<sg>veracious, veridical</sg>,;
+<sg>scrupulous ,<cref>939 <i>honorable</i></cref></sg>,;
+<sg>sincere, candid, frank, open, straightforward, unreserved</sg>,;
+<sg>open hearted, true hearted, simple-hearted</sg>,;
+<sg>honest, trustworthy</sg>,;
+<sg>undissembling &c (dissemble) ,<cref> 544 <i>unintelligibility</i></cref></sg>,;
+<sg>guileless, pure</sg>,;
+<sg>truth- loving</sg>,;
+<sg>unperjured</sg>,;
+<sg>true blue, as good as one's word</sg>,;
+<sg>unaffected, unfeigned, bona fide</sg>,;
+<sg>outspoken, ingenuous ,<cref>703 <i>artless</i></cref></sg>,;
+<sg>undisguised ,<cref>494 <i>real</i></cref></sg>,;
+<sg>uncontrived</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>truly ,<cref>494 <i>really</i></cref></sg>,;
+<sg>in plain words ,<cref> 703 <i>nonpreparation</i></cref></sg>,;
+<sg>in truth, with truth, of a truth, in good truth</sg>,;
+<sg>as the dial to the sun, as the needle to the pole</sg>,;
+<sg>honor bright</sg>,;
+<sg>troth</sg>,;
+<sg>in good sooth, in good earnest</sg>,;
+<sg>unfeignedly, with no nonsense, in sooth, sooth to say, bona fide, in foro conscientiae</sg>,;
+<sg>without equivocation</sg>,;
+<sg>cartes sur table, from the bottom of one's heart</sg>,;
+<sg>by my troth ,<cref>535 <i>affirmation</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>di il vero a affronterai il diavolo</sg>,;
+<sg>Dichtung und Wahrheit</sg>,;
+<sg>esto quod esse videris</sg>,;
+<sg>magna est veritas et praevalet</sg>,;
+<sg>that golden key that opes the palace of eternity</sg>,;
+<sg>veritas odium parit</sg>,;
+<sg>veritatis simplex oratio est</sg>,;
+<sg>verite sans peur</sg>,;
+<br>
+</paragraph>

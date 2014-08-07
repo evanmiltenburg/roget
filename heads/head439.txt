@@ -1,0 +1,96 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#15#</sectionNumber>
+<headword>#<b>#[001] #439# Darkness #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>darkness</i></sg>,;
+<sg>, absence of light</sg>,;
+<sg>blackness ,<cref>431 <i>dark color</i></cref></sg>,;
+<sg>obscurity, gloom, murk</sg>,;
+<sg>dusk ,<cref>422 <i>dimness</i></cref></sg>,;
+<sg>Cimmerian darkness, Stygian darkness, Egyptian darkness</sg>,;
+<sg>night</sg>,;
+<sg>midnight</sg>,;
+<sg>dead of night, witching hour of night, witching time of night</sg>,;
+<sg>blind man's holiday</sg>,;
+<sg>darkness visible, darkness that can be felt</sg>,;
+<sg>palpable obscure</sg>,;
+<sg>Erebus</sg>,;
+<sg>the jaws of darkness</sg>,;
+<sg>sablevested night</sg>,;
+<sg>shade, shadow, umbra, penumbra</sg>,;
+<sg>sciagraphy</sg>,;
+<sg>obscuration</sg>,;
+<sg>occultation, adumbration, obumbration</sg>,;
+<sg>obtenebration, offuscation, caligation</sg>,;
+<sg>extinction</sg>,;
+<sg>eclipse, total eclipse</sg>,;
+<sg>gathering of the clouds</sg>,;
+<sg>shading</sg>,;
+<sg>distribution of shade</sg>,;
+<sg>chiaroscuro ,<cref>420 <i>light</i></cref></sg>,;
+<sg>noctivagation</sg>,;
+<sg>black body</sg>,;
+<sg>hohlraum</sg>,;
+<sg>black hole</sg>,;
+<sg>dark star</sg>,;
+<sg>dark matter, cold dark matter</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be dark</sg>,;
+<sg>darken, obscure, shade</sg>,;
+<sg>dim</sg>,;
+<sg>tone down, lower</sg>,;
+<sg>overcast, overshadow</sg>,;
+<sg>eclipse</sg>,;
+<sg>obfuscate, offuscate</sg>,;
+<sg>obumbrate, adumbrate</sg>,;
+<sg>cast into the shade becloud, bedim, bedarken</sg>,;
+<sg>cast a shade, throw a shade, spread a shade, cast a shadow, cast a gloom, throw a shadow, spread a shadow, cast gloom, throw gloom, spread gloom</sg>,;
+<sg>extinguish</sg>,;
+<sg>put out, blow out, snuff out</sg>,;
+<sg>doubt</sg>,;
+<sg>turn out the lights, douse the lights, dim the lights, turn off the lights, switch off the lights</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>dark, darksome, darkling</sg>,;
+<sg>obscure, tenebrious, sombrous, pitch dark, pitchy, pitch black</sg>,;
+<sg>caliginous</sg>,;
+<sg>black ,<cref>431 <i>in color</i></cref></sg>,;
+<sg>sunless, lightless &c (sun) (light), ,<cref> 423 <i>snap</i></cref></sg>,;
+<sg>somber, dusky</sg>,;
+<sg>unilluminated &c (illuminate) ,<cref> 420 <i>silence</i></cref></sg>,;
+<sg>nocturnal</sg>,;
+<sg>dingy, lurid, gloomy</sg>,;
+<sg>murky, murksome</sg>,;
+<sg>shady, umbrageous</sg>,;
+<sg>overcast ,<cref>422 <i>dim</i></cref></sg>,;
+<sg>cloudy ,<cref>426 <i>opaque</i></cref></sg>,;
+<sg>darkened</sg>,;
+<sg>dark as pitch, dark as a pit, dark as Erebus</sg>,;
+<sg>benighted</sg>,;
+<sg>noctivagant, noctivagous</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>in the dark, in the shade</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>brief as the lightning in the collied night</sg>,;
+<sg>eldest Night and Chaos, ancestors of Nature</sg>,;
+<sg>the blackness of the noonday night</sg>,;
+<sg>the prayer of Ajax was for light</sg>,;
+<br>
+</paragraph>

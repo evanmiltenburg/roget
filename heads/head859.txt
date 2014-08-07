@@ -1,0 +1,104 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#35#</sectionNumber>
+<headword>#<b>#[001] #859# Feeling #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>feeling</i></sg>,;
+<sg>suffering</sg>,;
+<sg>endurance, tolerance, sufferance, supportance, experience, response</sg>,;
+<sg>sympathy ,<cref>897 <i>love</i></cref></sg>,;
+<sg>impression, inspiration, affection, sensation, emotion, pathos, deep sense</sg>,;
+<sg>warmth, glow, unction, gusto, vehemence</sg>,;
+<sg>fervor, fervency</sg>,;
+<sg>heartiness, cordiality</sg>,;
+<sg>earnestness, eagerness</sg>,;
+<sg>empressement, gush, ardor, zeal, passion, enthusiasm, verve, furore, fanaticism</sg>,;
+<sg>excitation of feeling ,<cref> 824 <i>stealing</i></cref></sg>,;
+<sg>fullness of the heart ,<cref>820 <i>disposition</i></cref></sg>,;
+<sg>passion ,<cref>825 <i>state of excitability</i></cref></sg>,;
+<sg>ecstasy ,<cref>827 <i>pleasure</i></cref></sg>,;
+<sg>blush, suffusion, flush</sg>,;
+<sg>hectic</sg>,;
+<sg>tingling, thrill, turn, shock</sg>,;
+<sg>agitation ,<cref>315 <i>irregular motion</i></cref></sg>,;
+<sg>quiver, heaving, flutter, flurry, fluster, twitter, tremor</sg>,;
+<sg>throb, throbbing</sg>,;
+<sg>pulsation, palpitation, panting</sg>,;
+<sg>trepidation, perturbation</sg>,;
+<sg>ruffle, hurry of spirits, pother, stew, ferment</sg>,;
+<sg>state of excitement</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>feel</sg>,;
+<sg>receive an impression</sg>,;
+<sg>be impressed with</sg>,;
+<sg>entertain feeling, harbor feeling, cherish feeling</sg>,;
+<sg>respond</sg>,;
+<sg>catch the flame, catch the infection</sg>,;
+<sg>enter the spirit of</sg>,;
+<sg>bear, suffer, support, sustain, endure, thole, aby</sg>,;
+<sg>abide ,<cref>826 <i>be composed</i></cref></sg>,;
+<sg>experience ,<cref>151 <i>meet with</i></cref></sg>,;
+<sg>taste, prove</sg>,;
+<sg>labor under, smart under</sg>,;
+<sg>bear the brunt of, brave, stand</sg>,;
+<sg>swell, glow, warm, flush, blush, change color, mantle</sg>,;
+<sg>turn color, turn pale, turn red, turn black in the face</sg>,;
+<sg>tingle, thrill, heave, pant, throb, palpitate, go pitapat, tremble, quiver, flutter, twitter</sg>,;
+<sg>shake ,<cref> 315 <i>shortcoming</i></cref></sg>,;
+<sg>be agitated, be excited ,<cref> 824 <i>stealing</i></cref></sg>,;
+<sg>look blue, look black</sg>,;
+<sg>wince</sg>,;
+<sg>draw a deep breath</sg>,;
+<sg>impress ,<cref>824 <i>excite the feelings</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>feeling</sg>,;
+<sg>sentient</sg>,;
+<sg>sensuous</sg>,;
+<sg>sensorial, sensory</sg>,;
+<sg>emotive, emotional</sg>,;
+<sg>of feeling, with feeling</sg>,;
+<sg>warm, quick, lively, smart, strong, sharp, acute, cutting, piercing, incisive</sg>,;
+<sg>keen, keen as a razor</sg>,;
+<sg>trenchant, pungent, racy, piquant, poignant, caustic</sg>,;
+<sg>impressive, deep, profound, indelible</sg>,;
+<sg>deep felt, home felt, heartfelt</sg>,;
+<sg>swelling, soul-stirring, deep-mouthed, heart-expanding, electric, thrilling, rapturous, ecstatic</sg>,;
+<sg>earnest, wistful, eager, breathless</sg>,;
+<sg>fervent</sg>,;
+<sg>fervid</sg>,;
+<sg>gushing, passionate, warm-hearted, hearty, cordial, sincere, zealous, enthusiastic, glowing, ardent, burning, red-hot, fiery, flaming</sg>,;
+<sg>boiling over</sg>,;
+<sg>pervading, penetrating, absorbing</sg>,;
+<sg>rabid, raving, feverish, fanatical, hysterical</sg>,;
+<sg>impetuous ,<cref>825 <i>excitable</i></cref></sg>,;
+<sg>impressed with, moved with, touched with, affected with, penetrated with, seized with, imbued with ,<cref> 82 <i>generality</i></cref></sg>,;
+<sg>devoured by</sg>,;
+<sg>wrought up ,<cref>824 <i>excited</i></cref></sg>,;
+<sg>struck all of a heap</sg>,;
+<sg>rapt</sg>,;
+<sg>in a quiver</sg>,;
+<sg>enraptured ,<cref> 829 <i>sale</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>heart and soul, from the bottom of one's heart, ab imo pectore, at heart, con amore, heartily, devoutly, over head and ears, head over heels</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>the heart big, the heart full, the heart swelling, the heart beating, the heart pulsating, the heart throbbing, the heart thumping, the heart beating high, the heart melting, the heart overflowing, the heart bursting, the heart breaking</sg>,;
+<sg>the heart goes out, a heart as big as all outdoors (sympathy) 897</sg>,;
+<br>
+</paragraph>

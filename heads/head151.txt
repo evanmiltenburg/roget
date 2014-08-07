@@ -1,0 +1,62 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#7#</sectionNumber>
+<headword>#<b>#[001] #151# Conversion #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>conversion, </i>reduction, transmutation, resolution, assimilation</sg>,;
+<sg>evolution, sea change</sg>,;
+<sg>change of state</sg>,;
+<sg>assumption</sg>,;
+<sg>naturalization</sg>,;
+<sg>transportation</sg>,;
+<sg>development, developing</sg>,;
+<sg>conversion of currency, exchange of currency</sg>,;
+<sg>exchange rate</sg>,;
+<sg>bureau de change</sg>,;
+<sg>chemistry, alchemy</sg>,;
+<sg>progress, growth, lapse, flux</sg>,;
+<sg>passage</sg>,;
+<sg>transit, transition</sg>,;
+<sg>transmigration, shifting</sg>,;
+<sg>phase</sg>,;
+<sg>conjugation</sg>,;
+<sg>convertibility</sg>,;
+<sg>crucible, alembic, caldron, retort</sg>,;
+<sg>convert, pervert, renegade, apostate</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be converted into</sg>,;
+<sg>become, get, wax</sg>,;
+<sg>come to, turn to, turn into, evolve into, develop into</sg>,;
+<sg>turn out, lapse, shift</sg>,;
+<sg>run into, fall into, pass into, slide into, glide into, grow into, ripen into, open into, resolve itself into, settle into, merge into, emerge as</sg>,;
+<sg>melt, grow, come round to, mature, mellow</sg>,;
+<sg>assume the form of, assume the shape of, assume the state of, assume the nature of, assume the character of</sg>,;
+<sg>illapse</sg>,;
+<sg>begin a new phase, assume a new phase, undergo a change</sg>,;
+<sg>convert into, resolve into</sg>,;
+<sg>make, render</sg>,;
+<sg>mold, form ,<cref> 240 <i>outline</i></cref></sg>,;
+<sg>remodel, new model, refound, reform, reorganize</sg>,;
+<sg>assimilate to, bring to, reduce to</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>converted into</sg>,;
+<sg>convertible, resolvable into</sg>,;
+<sg>transitional</sg>,;
+<sg>naturalized</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>gradually, &c (slowly) 275 in transitu ,<cref>270 <i>transference</i></cref></sg>,;
+<br>
+</paragraph>

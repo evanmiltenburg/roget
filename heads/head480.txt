@@ -1,0 +1,113 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#17#</sectionNumber>
+<headword>#<b>#[001] #480# Neglect #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>neglect</i></sg>,;
+<sg>carelessness</sg>,;
+<sg>trifling</sg>,;
+<sg>negligence</sg>,;
+<sg>omission, oversight, laches, default</sg>,;
+<sg>supineness ,<cref>683 <i>inactivity</i></cref></sg>,;
+<sg>inattention ,<cref> 458 <i>orange</i></cref></sg>,;
+<sg>nonchalance ,<cref>823 <i>insensibility</i></cref></sg>,;
+<sg>imprudence, recklessness ,<cref> 863 <i>excitability</i></cref></sg>,;
+<sg>slovenliness ,<cref>653 <i>disorder) 59, (dirt</i></cref></sg>,;
+<sg>improvidence ,<cref> 674 <i>inutility</i></cref></sg>,;
+<sg>noncompletion ,<cref> 730 <i>bungler</i></cref></sg>,;
+<sg>inexactness ,<cref>495 <i>error</i></cref></sg>,;
+<sg>paralipsis, paralepsis, paraleipsis (in rhetoric)</sg>,;
+<sg>trifler, waiter on Providence</sg>,;
+<sg>Micawber</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be negligent</sg>,;
+<sg>take no care of &c (take care of) ,<cref> 459 <i>variegation</i></cref></sg>,;
+<sg>neglect</sg>,;
+<sg>let slip, let go</sg>,;
+<sg>lay aside, set aside, cst aside, put aside</sg>,;
+<sg>keep out of sight, put out of sight</sg>,;
+<sg>lose sight of</sg>,;
+<sg>overlook, disregard</sg>,;
+<sg>pass over, pas by</sg>,;
+<sg>let pass</sg>,;
+<sg>blink</sg>,;
+<sg>wink at, connive at</sg>,;
+<sg>gloss over</sg>,;
+<sg>take no note of, take no thought of, take no account of, take no notice of</sg>,;
+<sg>pay no regard to</sg>,;
+<sg>laisser aller</sg>,;
+<sg>scamp</sg>,;
+<sg>trifle, fribble</sg>,;
+<sg>do by halves</sg>,;
+<sg>cut</sg>,;
+<sg>slight ,<cref>930 <i>despise</i></cref></sg>,;
+<sg>play with, trifle with</sg>,;
+<sg>slur, skim, skim the surface</sg>,;
+<sg>effleurer</sg>,;
+<sg>take a cursory view of ,<cref> 457 <i>blueness</i></cref></sg>,;
+<sg>slur over, skip over, jump over, slip over</sg>,;
+<sg>pretermit, miss, skip, jump, omit, give the go-by to, push aside, pigeonhole, shelve, sink</sg>,;
+<sg>table</sg>,;
+<sg>ignore, shut one's eyes to, refuse to hear, turn a deaf ear to</sg>,;
+<sg>leave out of one's calculation</sg>,;
+<sg>not attend to ,<cref> 457 <i>blueness</i></cref>, not mind</sg>,;
+<sg>not trouble oneself about, not trouble one's head about, not trouble oneself with</sg>,;
+<sg>forget ,<cref> 506 <i>overestimation</i></cref></sg>,;
+<sg>be caught napping ,<cref>508 <i>not expect</i></cref></sg>,;
+<sg>leave a loose thread</sg>,;
+<sg>let the grass grow under one's feet</sg>,;
+<sg>render neglectful</sg>,;
+<sg>put off one's guard, throw off one's guard</sg>,;
+<sg>distract, divert</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>neglecting</sg>,;
+<sg>unmindful, negligent, neglectful</sg>,;
+<sg>heedless, careless, thoughtless</sg>,;
+<sg>perfunctory, remiss</sg>,;
+<sg>feebleness ,<cref> 575 <i>exaggeration</i></cref></sg>,;
+<sg>inconsiderate</sg>,;
+<sg>uncircumspect, incircumspect</sg>,;
+<sg>off one's guard</sg>,;
+<sg>unwary, unwatchful, unguarded</sg>,;
+<sg>offhand</sg>,;
+<sg>supine ,<cref>683 <i>inactive</i></cref></sg>,;
+<sg>inattentive ,<cref> 458 <i>orange</i></cref></sg>,;
+<sg>insouciant ,<cref>823 <i>indifferent</i></cref></sg>,;
+<sg>imprudent, reckless ,<cref> 863 <i>excitability</i></cref></sg>,;
+<sg>slovenly ,<cref>653 <i>disorderly) 59, (dirty</i></cref></sg>,;
+<sg>inexact ,<cref>495 <i>erroneous</i></cref></sg>,;
+<sg>improvident ,<cref> 674 <i>inutility</i></cref></sg>,;
+<sg>neglected</sg>,;
+<sg>unheeded, uncared-for, unperceived, unseen, unobserved, unnoticed, unnoted, unmarked, unattended to, unthought of, unregarded, unremarked, unmissed</sg>,;
+<sg>shunted, shelved</sg>,;
+<sg>unexamined, unstudied, unsearched, unscanned, unweighed, unsifted, unexplored</sg>,;
+<sg>abandoned</sg>,;
+<sg>buried in a napkin, hid under a bushel</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>negligently</sg>,;
+<sg>hand over head, anyhow</sg>,;
+<sg>in an unguarded moment ,<cref>508 <i>unexpectedly</i></cref></sg>,;
+<sg>per incuriam</sg>,;
+<sg>Int</sg>,;
+<sg>never mind, no matter, let it pass</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>out of sight, out of mind</sg>,;
+<br>
+</paragraph>

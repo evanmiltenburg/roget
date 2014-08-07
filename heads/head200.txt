@@ -1,0 +1,122 @@
+<classNumber>#2#</classNumber>
+<sectionNumber>#9#</sectionNumber>
+<headword>#<b>#[001] #200# Receptacle #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>receptacle</i></sg>,;
+<sg>inclosure ,<cref> 232 <i>centrality</i></cref></sg>,;
+<sg>recipient, receiver, reservatory</sg>,;
+<sg>compartment</sg>,;
+<sg>cell, cellule</sg>,;
+<sg>follicle</sg>,;
+<sg>hole, corner, niche, recess, nook</sg>,;
+<sg>crypt, stall, pigeonhole, cove, oriel</sg>,;
+<sg>cave ,<cref>252 <i>concavity</i></cref></sg>,;
+<sg>capsule, vesicle, cyst, pod, calyx, cancelli, utricle, bladder</sg>,;
+<sg>pericarp, udder</sg>,;
+<sg>stomach, paunch, venter, ventricle, crop, craw, maw, gizzard, breadbasket</sg>,;
+<sg>mouth</sg>,;
+<sg>pocket, pouch, fob, sheath, scabbard, socket, bag, sac, sack, saccule, wallet, cardcase, scrip, poke, knit, knapsack, haversack, sachel, satchel, reticule, budget, net</sg>,;
+<sg>ditty bag, ditty box</sg>,;
+<sg>housewife, hussif</sg>,;
+<sg>saddlebags</sg>,;
+<sg>portfolio</sg>,;
+<sg>quiver ,<cref>636 <i>magazine</i></cref></sg>,;
+<sg>chest, box, coffer, caddy, case, casket, pyx, pix, caisson, desk, bureau, reliquary</sg>,;
+<sg>trunk, portmanteau, band-box, valise</sg>,;
+<sg>grip, grip sack</sg>,;
+<sg>skippet, vasculum</sg>,;
+<sg>boot, imperial</sg>,;
+<sg>vache</sg>,;
+<sg>cage, manger, rack</sg>,;
+<sg>vessel, vase, bushel, barrel</sg>,;
+<sg>canister, jar</sg>,;
+<sg>pottle, basket, pannier, buck-basket, hopper, maund, creel, cran, crate, cradle, bassinet, wisket, whisket, jardiniere, corbeille, hamper, dosser, dorser, tray, hod, scuttle, utensil</sg>,;
+<sg>brazier</sg>,;
+<sg>cuspidor, spittoon</sg>,;
+<sg>cistern ,<cref>636 <i>store</i></cref></sg>,;
+<sg>vat, caldron, barrel, cask, drum, puncheon, keg, rundlet, tun, butt, cag, firkin, kilderkin, carboy, amphora, bottle, jar, decanter, ewer, cruse, caraffe, crock, kit, canteen, flagon</sg>,;
+<sg>demijohn</sg>,;
+<sg>flask, flasket</sg>,;
+<sg>stoup, noggin, vial, phial, cruet, caster</sg>,;
+<sg>urn, epergne, salver, patella, tazza, patera</sg>,;
+<sg>pig gin, big gin</sg>,;
+<sg>tyg, nipperkin, pocket pistol</sg>,;
+<sg>tub, bucket, pail, skeel, pot, tankard, jug, pitcher, mug, pipkin</sg>,;
+<sg>galipot, gallipot</sg>,;
+<sg>matrass, receiver, retort, alembic, bolthead, capsule, can, kettle</sg>,;
+<sg>bowl, basin, jorum, punch bowl, cup, goblet, chalice, tumbler, glass, rummer, horn, saucepan, skillet, posnet, tureen</sg>,;
+<sg>beaker, flask, Erlenmeyer flask, Florence flask, round-bottom flask, graduated cylinder, test tube, culture tube, pipette, Pasteur pipette, disposable pipette, syringe, vial, carboy, vacuum flask, Petri dish, microtiter tray, centrifuge tube</sg>,;
+<sg>bail, beaker, billy, canakin</sg>,;
+<sg>catch basin, catch drain</sg>,;
+<sg>chatti, lota, mussuk, schooner, spider, terrine, toby, urceus</sg>,;
+<sg>plate, platter, dish, trencher, calabash, porringer, potager, saucer, pan, crucible</sg>,;
+<sg>glassware, tableware</sg>,;
+<sg>vitrics</sg>,;
+<sg>compote, gravy boat, creamer, sugar bowl, butter dish, mug, pitcher, punch bowl, chafing dish</sg>,;
+<sg>shovel, trowel, spoon, spatula, ladle, dipper, tablespoon, watch glass, thimble</sg>,;
+<sg>closet, commode, cupboard, cellaret, chiffonniere, locker, bin, bunker, buffet, press, clothespress, safe, sideboard, drawer, chest of drawers, chest on chest, highboy, lowboy, till, scrutoire, secretary, secretaire, davenport, bookcase, cabinet, canterbury</sg>,;
+<sg>escritoire, etagere, vargueno, vitrine</sg>,;
+<sg>chamber, apartment, room, cabin</sg>,;
+<sg>office, court, hall, atrium</sg>,;
+<sg>suite of rooms, apartment, flat, story</sg>,;
+<sg>saloon, salon, parlor</sg>,;
+<sg>by-room, cubicle</sg>,;
+<sg>presence chamber</sg>,;
+<sg>sitting room, best room, keeping room, drawing room, reception room, state room</sg>,;
+<sg>gallery, cabinet, closet</sg>,;
+<sg>pew, box</sg>,;
+<sg>boudoir</sg>,;
+<sg>adytum, sanctum</sg>,;
+<sg>bedroom, dormitory</sg>,;
+<sg>refectory, dining room, salle-a-manger</sg>,;
+<sg>nursery, schoolroom</sg>,;
+<sg>library, study</sg>,;
+<sg>studio</sg>,;
+<sg>billiard room, smoking room</sg>,;
+<sg>den</sg>,;
+<sg>stateroom, tablinum, tenement</sg>,;
+<sg>bath room, bathroom, toilet, lavatory, powder room</sg>,;
+<sg>john, jakes, necessary, loo</sg>,;
+<sg>men's room, ladies' room, rest room</sg>,;
+<sg>(uncleanness)</sg>,;
+<sg>653 attic, loft, garret, cockloft, clerestory</sg>,;
+<sg>cellar, vault, hold, cockpit</sg>,;
+<sg>cubbyhole</sg>,;
+<sg>cook house</sg>,;
+<sg>entre-sol</sg>,;
+<sg>mezzanine floor</sg>,;
+<sg>ground floor, rez-de-chaussee</sg>,;
+<sg>basement, kitchen, pantry, bawarchi-khana, scullery, offices</sg>,;
+<sg>storeroom ,<cref>636 <i>depository</i></cref></sg>,;
+<sg>lumber room</sg>,;
+<sg>dairy, laundry</sg>,;
+<sg>coach house</sg>,;
+<sg>garage</sg>,;
+<sg>hangar</sg>,;
+<sg>outhouse</sg>,;
+<sg>penthouse</sg>,;
+<sg>lean-to</sg>,;
+<sg>portico, porch, stoop, stope, veranda, patio, lanai, terrace, deck</sg>,;
+<sg>lobby, court, courtyard, hall, vestibule, corridor, passage, breezeway</sg>,;
+<sg>ante room, ante chamber</sg>,;
+<sg>lounge</sg>,;
+<sg>piazza, veranda</sg>,;
+<sg>conservatory, greenhouse, bower, arbor, summerhouse, alcove, grotto, hermitage</sg>,;
+<sg>lodging ,<cref>189 <i>abode</i></cref></sg>,;
+<sg>bed ,<cref>215 <i>support</i></cref></sg>,;
+<sg>carriage ,<cref>272 <i>vehicle</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>capsular</sg>,;
+<sg>saccular, sacculated</sg>,;
+<sg>recipient</sg>,;
+<sg>ventricular, cystic, vascular, vesicular, cellular, camerated, locular, multilocular, polygastric</sg>,;
+<sg>marsupial</sg>,;
+<sg>siliquose, siliquous</sg>,;
+<br>
+</paragraph>

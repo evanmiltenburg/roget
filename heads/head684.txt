@@ -1,0 +1,137 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#27#</sectionNumber>
+<headword>#<b>#[001] #684# Disease #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>disease</i></sg>,;
+<sg>illness, sickness</sg>,;
+<sg>ailing </sg>,;
+<sg>all the ills that flesh is heir to</sg>,;
+<sg>morbidity, morbosity</sg>,;
+<sg>infirmity, ailment, indisposition</sg>,;
+<sg>complaint, disorder, malady</sg>,;
+<sg>distemper, distemperature</sg>,;
+<sg>visitation, attack, seizure, stroke, fit</sg>,;
+<sg>delicacy, loss of health, invalidation, cachexy</sg>,;
+<sg>cachexia, atrophy, marasmus</sg>,;
+<sg>indigestion, dyspepsia</sg>,;
+<sg>decay ,<cref>659 <i>deterioration</i></cref></sg>,;
+<sg>decline, consumption, palsy, paralysis, prostration</sg>,;
+<sg>taint, pollution, infection, sepsis, septicity, infestation</sg>,;
+<sg>epidemic, pandemic, endemic, epizootic</sg>,;
+<sg>murrain, plague, pestilence, pox</sg>,;
+<sg>sore, ulcer, abscess, fester, boil</sg>,;
+<sg>pimple, wen ,<cref>250 <i>swelling</i></cref></sg>,;
+<sg>carbuncle, gathering, imposthume, peccant humor, issue</sg>,;
+<sg>rot, canker, cold sore, fever sore</sg>,;
+<sg>cancer, carcinoma, leukemia, neoplastic disease, malignancy, tumor</sg>,;
+<sg>caries, mortification, corruption, gangrene, sphacelus, sphacelation, leprosy</sg>,;
+<sg>eruption, rash, breaking out</sg>,;
+<sg>fever, temperature, calenture</sg>,;
+<sg>inflammation</sg>,;
+<sg>ague, angina pectoris, appendicitis</sg>,;
+<sg>Asiatic cholera, spasmodic cholera</sg>,;
+<sg>biliary calculus, kidney stone, black death, bubonic plague, pneumonic plague</sg>,;
+<sg>blennorrhagia, blennorrhoea</sg>,;
+<sg>blood poisoning, bloodstroke, bloody flux, brash</sg>,;
+<sg>breakbone fever, dengue fever, malarial fever, Q-fever</sg>,;
+<sg>heart attack, cardiac arrest, cardiomyopathy</sg>,;
+<sg>hardening of the arteries, arteriosclerosis, atherosclerosis</sg>,;
+<sg>bronchocele, canker rash, cardialgia, carditis, endocarditis</sg>,;
+<sg>cholera, asphyxia</sg>,;
+<sg>chlorosis, chorea, cynanche, dartre</sg>,;
+<sg>enanthem, enanthema</sg>,;
+<sg>erysipelas</sg>,;
+<sg>exanthem, exanthema</sg>,;
+<sg>gallstone, goiter, gonorrhea, green sickness</sg>,;
+<sg>grip, grippe, influenza, flu</sg>,;
+<sg>hay fever, heartburn, heaves, rupture, hernia, hemorrhoids, piles, herpes, itch, king's evil, lockjaw</sg>,;
+<sg>measles, mumps, polio</sg>,;
+<sg>necrosis, pertussis, phthisis, pneumonia, psora, pyaemia, pyrosis, quinsy, rachitis, ringworm, rubeola, St</sg>,;
+<sg>Vitus's dance, scabies, scarlatina, scarlet fever, scrofula, seasickness, struma, syntexis, tetanus, tetter, tonsillitis, tonsilitis, tracheocele, trachoma, trismus, varicella, varicosis, variola, water qualm, whooping cough</sg>,;
+<sg>yellow fever, yellow jack</sg>,;
+<sg>fatal disease ,<cref>859 <i>hopeless</i></cref></sg>,;
+<sg>dangerous illness, galloping consumption, churchyard cough</sg>,;
+<sg>general breaking up, break up of the system</sg>,;
+<sg>idiocy ,<cref> 499 <i>reasoning,</i></cref></sg>,;
+<sg>insanity ,<cref> 503 <i>judgment</i></cref></sg>,;
+<sg>martyr to disease</sg>,;
+<sg>cripple</sg>,;
+<sg>the halt the lame and the blind</sg>,;
+<sg>valetudinary, valetudinarian</sg>,;
+<sg>invalid, patient, case</sg>,;
+<sg>sickroom, sick- chamber</sg>,;
+<sg>pathology, etiology, nosology</sg>,;
+<sg>anthrax, bighead</sg>,;
+<sg>blackleg, blackquarter</sg>,;
+<sg>cattle plague, glanders, mange, scrapie, milk sickness</sg>,;
+<sg>heartworm, feline leukemia, roundworms</sg>,;
+<sg>quarter-evil, quarter-ill</sg>,;
+<sg>rinderpest</sg>,;
+<sg>virus, bacterium, bacteria</sg>,;
+<sg>DNA virus</sg>,;
+<sg>RNA virus</sg>,;
+<sg>rhinovirus</sg>,;
+<sg>rhabdovirus</sg>,;
+<sg>picornavirus</sg>,;
+<sg>herpesvirus</sg>,;
+<sg>cytomegalovirus, CMV</sg>,;
+<sg>human immunodefficiency virus, HIV</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>V</sg>,;
+<sg>be ill</sg>,;
+<sg>ail, suffer, labor under, be affected with, complain of, have</sg>,;
+<sg>droop, flag, languish, halt</sg>,;
+<sg>sicken, peak, pine</sg>,;
+<sg>gasp</sg>,;
+<sg>keep one's bed</sg>,;
+<sg>feign sickness ,<cref>544 <i>falsehood</i></cref></sg>,;
+<sg>lay by, lay up</sg>,;
+<sg>take a disease, catch a disease</sg>,;
+<sg>, catch an infection</sg>,;
+<sg>break out</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>diseased</sg>,;
+<sg>ailing</sg>,;
+<sg>ill, ill of</sg>,;
+<sg>taken ill, seized with</sg>,;
+<sg>indisposed, unwell, sick, squeamish, poorly, seedy</sg>,;
+<sg>affected with illness, afflicted with illness</sg>,;
+<sg>laid up, confined, bedridden, invalided, in hospital, on the sick list</sg>,;
+<sg>out of health, out of sorts</sg>,;
+<sg>under the weather</sg>,;
+<sg>valetudinary</sg>,;
+<sg>unsound, unhealthy</sg>,;
+<sg>sickly, morbid, morbose, healthless, infirm, chlorotic, unbraced</sg>,;
+<sg>drooping, flagging, lame, crippled, halting</sg>,;
+<sg>morbid, tainted, vitiated, peccant, contaminated, poisoned, tabid, mangy, leprous, cankered</sg>,;
+<sg>rotten, rotten to the core, rotten at the core</sg>,;
+<sg>withered, palsied, paralytic</sg>,;
+<sg>dyspeptic</sg>,;
+<sg>luetic, pneumonic, pulmonic, phthisic, rachitic</sg>,;
+<sg>syntectic, syntectical</sg>,;
+<sg>tabetic, varicose</sg>,;
+<sg>touched in the wind, broken-winded, spavined, gasping</sg>,;
+<sg>hors de combat ,<cref>645 <i>useless</i></cref></sg>,;
+<sg>weakly, weakened ,<cref>160 <i>weak</i></cref></sg>,;
+<sg>decrepit</sg>,;
+<sg>decayed ,<cref>659 <i>deteriorated</i></cref></sg>,;
+<sg>incurable ,<cref>859 <i>hopeless</i></cref></sg>,;
+<sg>in declining health</sg>,;
+<sg>cranky</sg>,;
+<sg>in a bad way, in danger, prostrate</sg>,;
+<sg>moribund ,<cref>360 <i>death</i></cref></sg>,;
+<sg>morbific ,<cref> 657 <i>mid-course</i></cref></sg>,;
+<sg>epidemic, endemic</sg>,;
+<sg>zymotic</sg>,;
+<br>
+</paragraph>

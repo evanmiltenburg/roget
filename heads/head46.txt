@@ -1,0 +1,86 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#3#</sectionNumber>
+<headword>#<b>#[001] #46# Junction #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>junction</i></sg>,;
+<sg>joining</sg>,;
+<sg>joinder, union connection, conjunction, conjugation</sg>,;
+<sg>annexion, annexation, annexment</sg>,;
+<sg>astriction, attachment, compagination, vincture, ligation, alligation</sg>,;
+<sg>accouplement</sg>,;
+<sg>marriage ,<cref>903 <i>wedlock,</i></cref></sg>,;
+<sg>infibulation, inosculation, symphysis, anastomosis, confluence, communication, concatenation</sg>,;
+<sg>meeting, reunion</sg>,;
+<sg>assemblage ,<cref> 72 <i>middle</i></cref></sg>,;
+<sg>coition, copulation</sg>,;
+<sg>sex, sexual congress, sexual conjunction, sexual intercourse, love-making</sg>,;
+<sg>joint, joining, juncture, pivot, hinge, articulation, commissure, seam, gore, gusset, suture, stitch</sg>,;
+<sg>link ,<cref> 45 <i>simpleness</i></cref></sg>,;
+<sg>miter mortise</sg>,;
+<sg>closeness, tightness,</sg>,;
+<sg>coherence ,<cref> 46 <i>junction</i></cref></sg>,;
+<sg>combination ,<cref> 48 <i>connection</i></cref></sg>,;
+<sg>annexationist</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>join, unite</sg>,;
+<sg>conjoin, connect</sg>,;
+<sg>associate</sg>,;
+<sg>put together, lay together, clap together, hang together, lump together, hold together, piece together, tack together, fix together, bind up together together</sg>,;
+<sg>embody, reembody</sg>,;
+<sg>roll into one</sg>,;
+<sg>attach, fix, affix, saddle on, fasten, bind, secure, clinch, twist, make fast</sg>,;
+<sg>tie, pinion, string, strap, sew, lace, tat, stitch, tack, knit, button, buckle, hitch, lash, truss, bandage, braid, splice, swathe, gird, tether, moor, picket, harness, chain</sg>,;
+<sg>fetter ,<cref>751 <i>restrain</i></cref></sg>,;
+<sg>lock, latch, belay, brace, hook, grapple, leash, couple, accouple, link, yoke, bracket</sg>,;
+<sg>marry ,<cref>903 <i>wed</i></cref></sg>,;
+<sg>bridge over, span</sg>,;
+<sg>braze</sg>,;
+<sg>pin, nail, bolt, hasp, clasp, clamp, crimp, screw, rivet</sg>,;
+<sg>impact, solder, set</sg>,;
+<sg>weld together, fuse together</sg>,;
+<sg>wedge, rabbet, mortise, miter, jam, dovetail, enchase</sg>,;
+<sg>graft, ingraft, inosculate</sg>,;
+<sg>entwine, intwine</sg>,;
+<sg>interlink, interlace, intertwine, intertwist, interweave</sg>,;
+<sg>entangle</sg>,;
+<sg>twine round, belay</sg>,;
+<sg>tighten</sg>,;
+<sg>trice up, screw up</sg>,;
+<sg>be joined </sg>,;
+<sg>hang together, hold together</sg>,;
+<sg>cohere ,<cref> 46 <i>junction</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>joined</sg>,;
+<sg>joint</sg>,;
+<sg>conjoint, conjunct</sg>,;
+<sg>corporate, compact</sg>,;
+<sg>hand in hand</sg>,;
+<sg>firm, fast, close, tight, taut, taught, secure, set, intervolved</sg>,;
+<sg>inseparable, indissoluble, insecable, severable</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>jointly</sg>,;
+<sg>in conjunction with ,<cref>37 <i>in addition to</i></cref></sg>,;
+<sg>fast, firmly,</sg>,;
+<sg>intimately</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>tria juncta in uno</sg>,;
+<br>
+</paragraph>

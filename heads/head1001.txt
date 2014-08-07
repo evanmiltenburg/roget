@@ -1,0 +1,28 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#38#</sectionNumber>
+<headword>#<b>#[001] #1001# Sobriety #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>sobriety</i></sg>,;
+<sg>teetotalism</sg>,;
+<sg>temperance ,<cref> 953 <i>evil doer</i></cref></sg>,;
+<sg>water-drinker</sg>,;
+<sg>hydropot</sg>,;
+<sg>prohibitionist</sg>,;
+<sg>teetotaler, teetotalist</sg>,;
+<sg>abstainer, Good Templar, band of hope</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>take the pledge</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>sober, sober as a judge</sg>,;
+<br>
+</paragraph>

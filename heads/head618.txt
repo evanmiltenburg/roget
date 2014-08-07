@@ -1,0 +1,36 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#25#</sectionNumber>
+<headword>#<b>#[001] #618# Correspondence #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>correspondence, </i>letter, epistle, note, billet, post card, missive, circular, favor, billet-doux</sg>,;
+<sg>chit, chitty, letter card, picture post card</sg>,;
+<sg>postal, card</sg>,;
+<sg>despatch</sg>,;
+<sg>dispatch</sg>,;
+<sg>bulletin, these presents</sg>,;
+<sg>rescript, rescription</sg>,;
+<sg>post ,<cref>534 <i>messenger</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>correspond with</sg>,;
+<sg>write to, send a letter to</sg>,;
+<sg>keep up a correspondence</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>epistolary</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>furor scribendi</sg>,;
+<br>
+</paragraph>

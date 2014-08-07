@@ -1,0 +1,71 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#15#</sectionNumber>
+<headword>#<b>#[001] #459# Variegation #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>variegation</i></sg>,;
+<sg>colors, dichroism, trichroism</sg>,;
+<sg>iridescence, play of colors, polychrome, maculation, spottiness, striae</sg>,;
+<sg>spectrum, rainbow, iris, tulip, peacock, chameleon, butterfly, tortoise shell</sg>,;
+<sg>mackerel, mackerel sky</sg>,;
+<sg>zebra, leopard, cheetah, nacre, ocelot, ophite, mother-of-pearl, opal, marble</sg>,;
+<sg>check, plaid, tartan, patchwork</sg>,;
+<sg>marquetry-, parquetry</sg>,;
+<sg>mosaic, tesserae, strigae</sg>,;
+<sg>chessboard, checkers, chequers</sg>,;
+<sg>harlequin</sg>,;
+<sg>Joseph's coat</sg>,;
+<sg>tricolor</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be variegated</sg>,;
+<sg>variegate, stripe, streak, checker, chequer</sg>,;
+<sg>bespeckle, speckle</sg>,;
+<sg>besprinkle, sprinkle</sg>,;
+<sg>stipple, maculate, dot, bespot</sg>,;
+<sg>tattoo, inlay, damascene</sg>,;
+<sg>embroider, braid, quilt</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>variegated</sg>,;
+<sg>many-colored, many-hued</sg>,;
+<sg>divers-colored, party- colored</sg>,;
+<sg>dichromatic, polychromatic</sg>,;
+<sg>bicolor, tricolor, versicolor</sg>,;
+<sg>of all the colors of the rainbow, of all manner of colors</sg>,;
+<sg>kaleidoscopic</sg>,;
+<sg>iridescent</sg>,;
+<sg>opaline, opalescent</sg>,;
+<sg>prismatic, nacreous, pearly, shot, gorge de pigeon, chatoyant</sg>,;
+<sg>irisated, pavonine</sg>,;
+<sg>pied, piebald</sg>,;
+<sg>motley</sg>,;
+<sg>mottled, marbled</sg>,;
+<sg>pepper and salt, paned, dappled, clouded, cymophanous</sg>,;
+<sg>mosaic, tesselated, plaid</sg>,;
+<sg>tortoise shell</sg>,;
+<sg>spotted, spotty</sg>,;
+<sg>punctated, powdered</sg>,;
+<sg>speckled</sg>,;
+<sg>freckled, flea-bitten, studded</sg>,;
+<sg>flecked, fleckered</sg>,;
+<sg>striated, barred, veined</sg>,;
+<sg>brinded, brindled</sg>,;
+<sg>tabby</sg>,;
+<sg>watered</sg>,;
+<sg>grizzled</sg>,;
+<sg>listed</sg>,;
+<sg>embroidered</sg>,;
+<sg>daedal</sg>,;
+<sg>naevose, stipiform</sg>,;
+<sg>strigose, striolate</sg>,;
+<sg>(iii) PERCEPTIONS OF LIGHT</sg>,;
+<br>
+</paragraph>

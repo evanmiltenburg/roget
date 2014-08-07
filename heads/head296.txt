@@ -1,0 +1,30 @@
+<classNumber>#2#</classNumber>
+<sectionNumber>#12#</sectionNumber>
+<headword>#<b>#[001] #296# Traction #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>traction</i></sg>,;
+<sg>drawing</sg>,;
+<sg>draught, pull, haul</sg>,;
+<sg>rake</sg>,;
+<sg>a long pull a strong pull and a pull all together</sg>,;
+<sg>towage, haulage</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>draw, pull, haul, lug, rake, drag, tug, tow, trail, train</sg>,;
+<sg>take in tow</sg>,;
+<sg>wrench, jerk, twitch, touse</sg>,;
+<sg>yank</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>drawing</sg>,;
+<sg>tractile, tractive</sg>,;
+<br>
+</paragraph>

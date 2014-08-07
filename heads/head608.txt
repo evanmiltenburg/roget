@@ -1,0 +1,99 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#25#</sectionNumber>
+<headword>#<b>#[001] #608# Speech #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>speech, </i>faculty of speech</sg>,;
+<sg>locution, talk, parlance, verbal intercourse, prolation, oral communication, word of mouth, parole, palaver, prattle</sg>,;
+<sg>effusion</sg>,;
+<sg>oration, recitation, delivery, say, speech, lecture, harangue, sermon, tirade, formal speech, peroration</sg>,;
+<sg>speechifying</sg>,;
+<sg>soliloquy ,<cref> 589 <i>neologism</i></cref></sg>,;
+<sg>allocution ,<cref> 586 <i>language</i></cref></sg>,;
+<sg>conversation ,<cref> 588 <i>word</i></cref></sg>,;
+<sg>salutatory : screed: valedictory</sg>,;
+<sg>oratory</sg>,;
+<sg>elocution, eloquence</sg>,;
+<sg>rhetoric, declamation</sg>,;
+<sg>grandiloquence, multiloquence</sg>,;
+<sg>burst of eloquence</sg>,;
+<sg>facundity</sg>,;
+<sg>flow of words, command of words, command of language</sg>,;
+<sg>copia verborum</sg>,;
+<sg>power of speech, gift of the gab</sg>,;
+<sg>usus loquendi</sg>,;
+<sg>speaker</sg>,;
+<sg>spokesman</sg>,;
+<sg>prolocutor, interlocutor</sg>,;
+<sg>mouthpiece, Hermes</sg>,;
+<sg>orator, oratrix, oratress</sg>,;
+<sg>Demosthenes, Cicero</sg>,;
+<sg>rhetorician</sg>,;
+<sg>stump orator, platform orator</sg>,;
+<sg>speechmaker, patterer, improvisatore</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>speak of</sg>,;
+<sg>say, utter, pronounce, deliver, give utterance to</sg>,;
+<sg>utter forth, pour forth</sg>,;
+<sg>breathe, let fall, come out with</sg>,;
+<sg>rap out, blurt out have on one's lips</sg>,;
+<sg>have at the end of one's tongue, have at the tip of one's tongue</sg>,;
+<sg>break silence</sg>,;
+<sg>open one's lips, open one's mouth</sg>,;
+<sg>lift one's voice, raise one's voice</sg>,;
+<sg>give the tongue, wag the tongue</sg>,;
+<sg>talk, outspeak</sg>,;
+<sg>put in a word or two, hold forth</sg>,;
+<sg>make a speech, deliver a speech</sg>,;
+<sg>speechify, harangue, declaim, stump, flourish, recite, lecture, sermonize, discourse, be on one's legs</sg>,;
+<sg>have one's say, say one's say</sg>,;
+<sg>spout, rant, rave, vent one's fury, vent one's rage</sg>,;
+<sg>expatiate ,<cref>573 <i>speak at length</i></cref></sg>,;
+<sg>speak one's mind, go on the stump, take the stump</sg>,;
+<sg>soliloquize ,<cref> 589 <i>neologism</i></cref></sg>,;
+<sg>tell ,<cref>527 <i>inform</i></cref></sg>,;
+<sg>speak to ,<cref> 586 <i>language</i></cref></sg>,;
+<sg>talk together ,<cref> 588 <i>word</i></cref></sg>,;
+<sg>be eloquent</sg>,;
+<sg>have a tongue in one's head, have the gift of the gab</sg>,;
+<sg>pass one's lips, escape one's lips</sg>,;
+<sg>fall from the lips, fall from the mouth</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>speaking </sg>,;
+<sg>spoken</sg>,;
+<sg>oral, lingual, phonetic, not written, unwritten, outspoken</sg>,;
+<sg>eloquent, elocutionary</sg>,;
+<sg>oratorical, rhetorical</sg>,;
+<sg>declamatory</sg>,;
+<sg>grandiloquent ,<cref> 577 <i>record</i></cref></sg>,;
+<sg>talkative ,<cref> 584 <i>engraving</i></cref></sg>,;
+<sg>Ciceronian, nuncupative, Tullian</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>orally</sg>,;
+<sg>by word of mouth, viva voce, from the lips of</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>quoth he, said he </sg>,;
+<sg>action is eloquence</sg>,;
+<sg>pour the full tide of eloquence along</sg>,;
+<sg>she speaks poignards and every word stabs</sg>,;
+<sg>speech is but broken light upon the depth of the unspoken</sg>,;
+<sg>to try thy eloquence now 'tis time</sg>,;
+<br>
+</paragraph>

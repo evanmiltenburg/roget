@@ -1,0 +1,41 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#18#</sectionNumber>
+<headword>#<b>#[001] #496# Improbability #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>improbability, </i>unlikelihood</sg>,;
+<sg>unfavorable chance, bad chance, ghost of a chance, little chance, small chance, poor chance, scarcely any chance, no chance</sg>,;
+<sg>bare possibility</sg>,;
+<sg>long odds</sg>,;
+<sg>incredibility ,<cref> 485 <i>incomparability</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be improbable</sg>,;
+<sg>have a small chance</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>improbable, unlikely, contrary to all reasonable expectation</sg>,;
+<sg>wild, far out, out of sight, outtasight, heavy</sg>,;
+<sg>rare ,<cref>137 <i>infrequent</i></cref></sg>,;
+<sg>unheard of, inconceivable</sg>,;
+<sg>unimaginable, inimaginable</sg>,;
+<sg>incredible ,<cref> 485 <i>incomparability</i></cref></sg>,;
+<sg>more than doubtful</sg>,;
+<sg>strange, bizarre (uncomformable) 83</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>the chances are against</sg>,;
+<sg>aquila non capit muscas</sg>,;
+<sg>pedir peras pal olmo</sg>,;
+<br>
+</paragraph>

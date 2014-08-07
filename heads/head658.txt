@@ -1,0 +1,39 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#27#</sectionNumber>
+<headword>#<b>#[001] #658# Circuit #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>circuit, </i>roundabout way, digression, detour, circumbendibus, ambages, loop</sg>,;
+<sg>winding ,<cref>311 <i>circuition</i></cref></sg>,;
+<sg>zigzag ,<cref>279 <i>deviation</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>perform a circuit</sg>,;
+<sg>go round about, go out of one's way</sg>,;
+<sg>make a detour</sg>,;
+<sg>meander ,<cref>279 <i>deviate</i></cref></sg>,;
+<sg>lead a pretty dance</sg>,;
+<sg>beat about the bush</sg>,;
+<sg>make two bites of a cherry</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>circuitous, indirect, roundabout</sg>,;
+<sg>zigzag ,<cref>279 <i>deviating</i></cref></sg>,;
+<sg>backhanded</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>by a side wind, by an indirect course</sg>,;
+<sg>in a roundabout way</sg>,;
+<sg>from pillar to post</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,98 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#36#</sectionNumber>
+<headword>#<b>#[001] #880# Wit #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>wit, </i>humor, wittiness</sg>,;
+<sg>sense of humor</sg>,;
+<sg>attic wit, attic salt</sg>,;
+<sg>atticism</sg>,;
+<sg>salt, esprit, point, fancy, whim, drollery, pleasantry</sg>,;
+<sg>farce, buffoonery, fooling, tomfoolery</sg>,;
+<sg>shenanigan, harlequinade ,<cref> 599 <i>diffuseness</i></cref></sg>,;
+<sg>broad farce, broad humor</sg>,;
+<sg>fun, espieglerie</sg>,;
+<sg>vis comica</sg>,;
+<sg>jocularity</sg>,;
+<sg>jocosity, jocoseness</sg>,;
+<sg>facetiousness</sg>,;
+<sg>waggery, waggishness</sg>,;
+<sg>whimsicality</sg>,;
+<sg>comicality ,<cref> 853 <i>liberality</i></cref></sg>,;
+<sg>banter, badinage, retort, repartee, smartness, ready wit, quid- pro-quo</sg>,;
+<sg>ridicule ,<cref> 856 <i>prodigality</i></cref></sg>,;
+<sg>jest, joke, jape, jibe</sg>,;
+<sg>facetiae, levity, quips and cranks</sg>,;
+<sg>capital joke</sg>,;
+<sg>canorae nugae</sg>,;
+<sg>standing jest, standing joke, private joke, conceit, quip, quirk, crank, quiddity, concetto, plaisanterie, brilliant idea</sg>,;
+<sg>merry thought, bright thought, happy thought</sg>,;
+<sg>sally</sg>,;
+<sg>flash of wit, flash of merriment</sg>,;
+<sg>scintillation</sg>,;
+<sg>mot, mot pour rire</sg>,;
+<sg>witticism, smart saying, bon-mot, jeu d'esprit, epigram</sg>,;
+<sg>jest book</sg>,;
+<sg>dry joke, quodlibet, cream of the jest</sg>,;
+<sg>word-play, jeu de mots</sg>,;
+<sg>play of words, play upon words</sg>,;
+<sg>pun, punning</sg>,;
+<sg>double entente, double entendre ,<cref>520 <i>ambiguity</i></cref></sg>,;
+<sg>quibble, verbal quibble</sg>,;
+<sg>conundrum ,<cref>533 <i>riddle</i></cref></sg>,;
+<sg>anagram, acrostic, double acrostic, trifling, idle conceit, turlupinade</sg>,;
+<sg>old joke, tired joke, flat joke, Joe Miller</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>joke, jest, crack a joke, make a joke, jape, cut jokes</sg>,;
+<sg>perpetrate a joke</sg>,;
+<sg>pun, perpetrate a pun</sg>,;
+<sg>make fun of, make merry with</sg>,;
+<sg>kid, kid around, fool around</sg>,;
+<sg>set the table in a roar ,<cref>840 <i>amuse</i></cref></sg>,;
+<sg>retort</sg>,;
+<sg>banter ,<cref>856 <i>ridicule</i></cref></sg>,;
+<sg>ridentem dicere verum</sg>,;
+<sg>joke at one's expense</sg>,;
+<sg>take in jest</sg>,;
+<sg>bomb, fall flat</sg>,;
+<sg>go over like a lead balloon</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>witty, attic</sg>,;
+<sg>quick-witted, nimble-witted</sg>,;
+<sg>smart</sg>,;
+<sg>jocular, jocose, humorous</sg>,;
+<sg>facetious, waggish, whimsical</sg>,;
+<sg>kidding, joking, puckish</sg>,;
+<sg>playful ,<cref> 840 <i>credit</i></cref></sg>,;
+<sg>merry and wise</sg>,;
+<sg>pleasant, sprightly, light, spirituel, sparkling, epigrammatic, full of point, ben trovato</sg>,;
+<sg>comic ,<cref> 853 <i>liberality</i></cref></sg>,;
+<sg>zany, madcap</sg>,;
+<sg>funny, amusing ,<cref>840 <i>amusement</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>jokingly, in joke, in jest, in sport, in play</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>adhibenda est in jocando moderatio</sg>,;
+<sg>gentle dullness ever loves a joke</sg>,;
+<sg>leave this keen encounter of our wits</sg>,;
+<sg>just joking, just kidding</sg>,;
+<sg>surely you jest!</sg>,;
+<br>
+</paragraph>

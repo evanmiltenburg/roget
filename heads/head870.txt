@@ -1,0 +1,80 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#36#</sectionNumber>
+<headword>#<b>#[001] #870# Discontent #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>discontent, </i>discontentment</sg>,;
+<sg>dissatisfaction</sg>,;
+<sg>dissent ,<cref> 489 <i>measurement</i></cref></sg>,;
+<sg>disappointment, mortification</sg>,;
+<sg>cold comfort</sg>,;
+<sg>regret ,<cref> 833 <i>stock market</i></cref></sg>,;
+<sg>repining, taking on</sg>,;
+<sg>heart-burning, heart-grief</sg>,;
+<sg>querulousness ,<cref>839 <i>lamentation</i></cref></sg>,;
+<sg>hypercriticism</sg>,;
+<sg>inquietude, vexation of spirit, soreness</sg>,;
+<sg>worry, concern, fear ,<cref> 860 <i>sensibility</i></cref></sg>,;
+<sg>malcontent, grumbler, growler, croaker, dissident, dissenter, laudator temporis acti</sg>,;
+<sg>censurer, complainer, fault-finder, murmerer</sg>,;
+<sg>cave of Adullam, indignation meeting, winter of our discontent</sg>,;
+<sg>with what I most enjoy contented least</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be discontented</sg>,;
+<sg>quarrel with one's bread and butter</sg>,;
+<sg>repine</sg>,;
+<sg>regret ,<cref> 833 <i>stock market</i></cref></sg>,;
+<sg>wish one at the bottom of the Red Sea</sg>,;
+<sg>take on, take to heart</sg>,;
+<sg>shrug the shoulders</sg>,;
+<sg>make a wry face, pull a long face</sg>,;
+<sg>knit one's brows</sg>,;
+<sg>look blue, look black, look black as thunder, look blank, look glum</sg>,;
+<sg>take in bad part, take ill</sg>,;
+<sg>fret, chafe, make a piece of work</sg>,;
+<sg>grumble, croak</sg>,;
+<sg>lament ,<cref> 839 <i>poverty</i></cref></sg>,;
+<sg>cause discontent</sg>,;
+<sg>dissatisfy, disappoint, mortify, put out, disconcert</sg>,;
+<sg>cut up</sg>,;
+<sg>dishearten</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>discontented</sg>,;
+<sg>dissatisfied</sg>,;
+<sg>unsatisfied, ungratified</sg>,;
+<sg>dissident</sg>,;
+<sg>dissentient ,<cref> 489 <i>measurement</i></cref></sg>,;
+<sg>malcontent, malcontented, exigent, exacting, hypercritical</sg>,;
+<sg>repining</sg>,;
+<sg>regretful ,<cref> 833 <i>stock market</i></cref></sg>,;
+<sg>down in the mouth ,<cref>837 <i>dejected</i></cref></sg>,;
+<sg>in high dudgeon, in a fume, in the sulks, in the dumps, in bad humor</sg>,;
+<sg>glum, sulky</sg>,;
+<sg>sour as a crab</sg>,;
+<sg>soured, sore</sg>,;
+<sg>out of humor, out of temper</sg>,;
+<sg>disappointing</sg>,;
+<sg>unsatisfactory</sg>,;
+<sg>frustrated (failure) 732</sg>,;
+<sg>Int</sg>,;
+<sg>so much the worse!,</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>that won't do, that will never do, it will never do</sg>,;
+<sg>curtae nescio quid semper abest rei</sg>,;
+<sg>ne Jupiter Quidem omnibus placet</sg>,;
+<sg>poor in abundance, famished at a feast</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,39 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#6#</sectionNumber>
+<headword>#<b>#[001] #132# Evening #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>evening, </i>eve</sg>,;
+<sg>decline of day, fall of day, close of day</sg>,;
+<sg>candlelight, candlelighting</sg>,;
+<sg>eventide, nightfall, curfew, dusk, twilight, eleventh hour</sg>,;
+<sg>sunset, sundown</sg>,;
+<sg>going down of the sun, cock-shut, dewy eve, gloaming, bedtime</sg>,;
+<sg>afternoon, postmeridian, p</sg>,;
+<sg>m</sg>,;
+<sg>autumn, fall, fall of the leaf</sg>,;
+<sg>autumnal equinox</sg>,;
+<sg>Indian summer, St</sg>,;
+<sg>Luke's summer, St</sg>,;
+<sg>Martin's summer</sg>,;
+<sg>midnight</sg>,;
+<sg>dead of night, witching hour, witching hour of night, witching time of night</sg>,;
+<sg>winter</sg>,;
+<sg>killing time</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>vespertine, autumnal, nocturnal</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>midnight, the outpost of advancing day</sg>,;
+<sg>sable-vested Night</sg>,;
+<sg>this gorgeous arch with golden worlds inlay'd</sg>,;
+<br>
+</paragraph>

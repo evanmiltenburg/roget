@@ -1,0 +1,35 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#6#</sectionNumber>
+<headword>#<b>#[001] #133# Youth #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>youth</i></sg>,;
+<sg>juvenility, juvenescence</sg>,;
+<sg>juniority</sg>,;
+<sg>infancy</sg>,;
+<sg>babyhood, childhood, boyhood, girlhood, youthhood</sg>,;
+<sg>incunabula</sg>,;
+<sg>minority, nonage, teens, tender age, bloom</sg>,;
+<sg>cradle, nursery, leading strings, pupilage, puberty, pucelage</sg>,;
+<sg>prime of life, flower of life, springtide of life, seedtime of life, golden season of life</sg>,;
+<sg>heyday of youth, school days</sg>,;
+<sg>rising generation</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>young, youthful, juvenile, green, callow, budding, sappy, puisne, beardless, under age, in one's teens</sg>,;
+<sg>in statu pupillari</sg>,;
+<sg>younger, junior</sg>,;
+<sg>hebetic, unfledged</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>youth on the prow and pleasure at the helm</sg>,;
+<sg>youth a the glad season of life</sg>,;
+<br>
+</paragraph>

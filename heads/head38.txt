@@ -1,0 +1,64 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#3#</sectionNumber>
+<headword>#<b>#[001] #38# Decrease #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>nonincrease, decrease, </i>decrease, diminution</sg>,;
+<sg>lessening</sg>,;
+<sg>subtraction ,<cref> 38 <i>decrease</i></cref></sg>,;
+<sg>reduction, abatement, declension</sg>,;
+<sg>shrinking  (contraction</sg>,;
+<sg>) 195</sg>,;
+<sg>coarctation</sg>,;
+<sg>abridgment ,<cref>201 <i>shortening</i></cref></sg>,;
+<sg>extenuation</sg>,;
+<sg>subsidence, wane, ebb, decline</sg>,;
+<sg>ebbing</sg>,;
+<sg>descent ,<cref> 306 <i>egress</i></cref></sg>,;
+<sg>decrement, reflux, depreciation</sg>,;
+<sg>deterioration ,<cref> 659 <i>requirement</i></cref></sg>,;
+<sg>anticlimax</sg>,;
+<sg>mitigation ,<cref>174 <i>moderation</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>decrease, diminish, lessen</sg>,;
+<sg>abridge ,<cref>201 <i>shorten</i></cref></sg>,;
+<sg>shrink ,<cref>195 <i>contract</i></cref></sg>,;
+<sg>drop off, fall off, tail off</sg>,;
+<sg>fall away, waste, wear</sg>,;
+<sg>wane, ebb, decline</sg>,;
+<sg>descend ,<cref> 306 <i>egress</i></cref></sg>,;
+<sg>subside</sg>,;
+<sg>melt away, die away</sg>,;
+<sg>retire into the shade, hide its diminished head, fall to a low ebb, run low, languish, decay, crumble</sg>,;
+<sg>bate, abate, dequantitate</sg>,;
+<sg>discount</sg>,;
+<sg>depreciate</sg>,;
+<sg>extenuate, lower, weaken, attenuate, fritter away</sg>,;
+<sg>mitigate ,<cref>174 <i>moderate</i></cref></sg>,;
+<sg>dwarf, throw into the shade</sg>,;
+<sg>reduce ,<cref> 195 <i>presence</i></cref></sg>,;
+<sg>shorten ,<cref> 201 <i>size</i></cref></sg>,;
+<sg>subtract ,<cref> 38 <i>decrease</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>unincreased ,<cref> 35 <i>superiority</i></cref></sg>,;
+<sg>decreased</sg>,;
+<sg>decreasing</sg>,;
+<sg>on the wane</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>a gilded halo hovering round decay</sg>,;
+<sg>fine by degrees and beautifully less</sg>,;
+<br>
+</paragraph>

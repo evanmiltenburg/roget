@@ -1,0 +1,26 @@
+<classNumber>#2#</classNumber>
+<sectionNumber>#9#</sectionNumber>
+<headword>#<b>#[001] #190# Region #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>region, </i>sphere, ground, soil, area, field, realm, hemisphere, quarter, district, beat, orb, circuit, circle</sg>,;
+<sg>reservation, pale ,<cref>233 <i>limit</i></cref></sg>,;
+<sg>compartment, department</sg>,;
+<sg>clearing</sg>,;
+<sg>(property) &c 780 (Government) ,<cref> 737 <i>opposition</i></cref></sg>,;
+<sg>1 arena, precincts, enceinte, walk, march</sg>,;
+<sg>patch, plot, parcel, inclosure, close, field, court</sg>,;
+<sg>enclave, reserve, preserve</sg>,;
+<sg>street ,<cref>189 <i>abode</i></cref></sg>,;
+<sg>clime, climate, zone, meridian, latitude</sg>,;
+<sg>biosphere</sg>,;
+<sg>lithosphere</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>territorial, local, parochial, provincial, regional</sg>,;
+<br>
+</paragraph>

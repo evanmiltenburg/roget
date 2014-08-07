@@ -1,0 +1,20 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#14#</sectionNumber>
+<headword>#<b>#[001] #357# Island #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>island, </i>isle, islet, eyot, ait, holf, reef, atoll, breaker</sg>,;
+<sg>archipelago</sg>,;
+<sg>islander</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>insular, seagirt</sg>,;
+<sg>archipelagic</sg>,;
+<sg>3</sg>,;
+<sg>Fluids in Motion</sg>,;
+<br>
+</paragraph>

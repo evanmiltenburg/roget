@@ -1,0 +1,24 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#37#</sectionNumber>
+<headword>#<b>#[001] #930# Enemy #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>enemy</i></sg>,;
+<sg>antagonist</sg>,;
+<sg>foe, foeman</sg>,;
+<sg>open enemy, bitter enemy, opponent ,<cref> 710 <i>inaction</i></cref></sg>,;
+<sg>back friend</sg>,;
+<sg>public enemy, enemy to society</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>every hand being against one</sg>,;
+<sg>he makes no friend who never made a foe</sg>,;
+<sg>with friends like that, who needs enemies?</sg>,;
+<sg>Lord protect me from my friends</sg>,;
+<sg>I can protect myself from my enemies</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,90 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#8#</sectionNumber>
+<headword>#<b>#[001] #165# Impotence #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>impotence</i></sg>,;
+<sg>inability, disability</sg>,;
+<sg>disablement, impuissance, imbecility</sg>,;
+<sg>incapacity, incapability</sg>,;
+<sg>inaptitude, ineptitude, incompetence, unproductivity</sg>,;
+<sg>indocility</sg>,;
+<sg>invalidity, disqualification</sg>,;
+<sg>inefficiency, wastefulness</sg>,;
+<sg>telum imbelle, brutum fulmen, blank, blank cartridge, flash in the pan, vox et proeterea nihil, dead letter, bit of waste paper, dummy</sg>,;
+<sg>paper tiger</sg>,;
+<sg>Quaker gun</sg>,;
+<sg>inefficacy ,<cref>645 <i>inutility</i></cref></sg>,;
+<sg>failure ,<cref> 732 <i>artlessness</i></cref></sg>,;
+<sg>helplessness</sg>,;
+<sg>prostration, paralysis, palsy, apoplexy, syncope, sideration, deliquium, collapse, exhaustion, softening of the brain, inanition</sg>,;
+<sg>emasculation, orchiotomy, orchotomy</sg>,;
+<sg>cripple, old woman, muff, powder puff, creampuff, pussycat, wimp, mollycoddle</sg>,;
+<sg>eunuch</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be impotent</sg>,;
+<sg>not have a leg to stand on</sg>,;
+<sg>vouloir rompre l'anguille au genou, vouloir prendre la lune avec les dents</sg>,;
+<sg>collapse, faint, swoon, fall into a swoon, drop</sg>,;
+<sg>go by the board, go by the wayside</sg>,;
+<sg>go up in smoke, end in smoke ,<cref>732 <i>fail</i></cref></sg>,;
+<sg>render powerless</sg>,;
+<sg>deprive of power</sg>,;
+<sg>disable, disenable</sg>,;
+<sg>disarm, incapacitate, disqualify, unfit, invalidate, deaden, cramp, tie the hands</sg>,;
+<sg>double up, prostrate, paralyze, muzzle, cripple, becripple, maim, lame, hamstring, draw the teeth of</sg>,;
+<sg>throttle, strangle, garrotte, garrote</sg>,;
+<sg>ratten, silence, sprain, clip the wings of, put hors de combat, spike the guns</sg>,;
+<sg>take the wind out of one's sails, scotch the snake, put a spoke in one's wheel</sg>,;
+<sg>break the neck, break the back</sg>,;
+<sg>unhinge, unfit</sg>,;
+<sg>put out of gear</sg>,;
+<sg>unman, unnerve, enervate</sg>,;
+<sg>emasculate, castrate, geld, alter, neuter, sterilize, fix</sg>,;
+<sg>shatter, exhaust, weaken ,<cref> 160 <i>cause</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>powerless, impotent, unable, incapable, incompetent</sg>,;
+<sg>inefficient, ineffective</sg>,;
+<sg>inept</sg>,;
+<sg>unfit, unfitted</sg>,;
+<sg>unqualified, disqualified</sg>,;
+<sg>unendowed</sg>,;
+<sg>inapt, unapt</sg>,;
+<sg>crippled, disabled</sg>,;
+<sg>armless</sg>,;
+<sg>harmless, unarmed, weaponless, defenseless, sine ictu, unfortified, indefensible, vincible, pregnable, untenable</sg>,;
+<sg>paralytic, paralyzed</sg>,;
+<sg>palsied, imbecile</sg>,;
+<sg>nerveless, sinewless, marrowless, pithless, lustless</sg>,;
+<sg>emasculate, disjointed</sg>,;
+<sg>out of joint, out of gear</sg>,;
+<sg>unnerved, unhinged</sg>,;
+<sg>water-logged, on one's beam ends, rudderless</sg>,;
+<sg>laid on one's back</sg>,;
+<sg>done up, dead beat, exhausted, shattered, demoralized</sg>,;
+<sg>graveled ,<cref>704 <i>in difficulty</i></cref></sg>,;
+<sg>helpless, unfriended, fatherless</sg>,;
+<sg>without a leg to stand on, hors de combat, laid on the shelf</sg>,;
+<sg>null and void, nugatory, inoperative, good for nothing</sg>,;
+<sg>ineffectual ,<cref>732 <i>failing</i></cref></sg>,;
+<sg>inadequate ,<cref> 640 <i>impulse</i></cref></sg>,;
+<sg>inefficacious ,<cref>645 <i>useless</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>der kranke Mann</sg>,;
+<sg>desirous still but impotent to rise</sg>,;
+<sg>the spirit is willing but the flesh is weak</sg>,;
+<br>
+</paragraph>

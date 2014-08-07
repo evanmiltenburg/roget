@@ -1,0 +1,25 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#36#</sectionNumber>
+<headword>#<b>#[001] #926# Blusterer #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>blusterer, </i>swaggerer, vaporer, roisterer, brawler</sg>,;
+<sg>fanfaron</sg>,;
+<sg>braggart ,<cref>884 <i>boaster</i></cref></sg>,;
+<sg>bully, terrorist, rough</sg>,;
+<sg>bulldozer, hoodlum, hooligan, larrikin, roarer</sg>,;
+<sg>Mohock, Mohawk</sg>,;
+<sg>drawcansir, swashbuckler, Captain Bobadil, Sir Lucius O'Trigger, Thraso, Pistol, Parolles, Bombastes Furioso, Hector, Chrononhotonthologos</sg>,;
+<sg>jingo</sg>,;
+<sg>desperado, dare-devil, fire eater</sg>,;
+<sg>fury, ,<cref>173 <i>violent person</i></cref></sg>,;
+<sg>rowdy</sg>,;
+<sg>slang-whanger, tough</sg>,;
+<sg>puppy ,<cref>854 <i>fop</i></cref></sg>,;
+<sg>prig</sg>,;
+<sg>Sir Oracle, dogmatist, doctrinaire, jack-in-office</sg>,;
+<sg>saucebox, malapert, jackanapes, minx</sg>,;
+<sg>bantam-cock</sg>,;
+<br>
+</paragraph>

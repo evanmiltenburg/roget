@@ -1,0 +1,39 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#27#</sectionNumber>
+<headword>#<b>#[001] #664# Materials #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>materials, </i>material, raw material, stuff, stock, staple</sg>,;
+<sg>adobe, brown stone</sg>,;
+<sg>chinking</sg>,;
+<sg>clapboard</sg>,;
+<sg>daubing</sg>,;
+<sg>puncheon</sg>,;
+<sg>shake</sg>,;
+<sg>shingle, bricks and mortar</sg>,;
+<sg>metal</sg>,;
+<sg>stone</sg>,;
+<sg>clay, brick crockery ,<cref> 384 <i>mankind</i></cref></sg>,;
+<sg>compo, composition</sg>,;
+<sg>concrete</sg>,;
+<sg>reinforced concrete, cement</sg>,;
+<sg>wood, ore, timber</sg>,;
+<sg>materials</sg>,;
+<sg>supplies, munition, fuel, grist, household stuff pabulum ,<cref>298 <i>food</i></cref></sg>,;
+<sg>ammunition ,<cref>727 <i>arms</i></cref></sg>,;
+<sg>contingents</sg>,;
+<sg>relay, reinforcement, reenforcement</sg>,;
+<sg>baggage ,<cref>780 <i>personal property</i></cref></sg>,;
+<sg>means ,<cref> 632 <i>irresolution</i></cref></sg>,;
+<sg>calico, cambric, cashmere</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>raw ,<cref>674 <i>unprepared</i></cref></sg>,;
+<sg>wooden</sg>,;
+<sg>adobe</sg>,;
+<br>
+</paragraph>

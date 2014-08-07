@@ -1,0 +1,153 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#36#</sectionNumber>
+<headword>#<b>#[001] #875# Dejection #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>dejection</i></sg>,;
+<sg>dejectedness</sg>,;
+<sg>depression, prosternation</sg>,;
+<sg>lowness of spirits, depression of spirits</sg>,;
+<sg>weight on the spirits, oppression on the spirits, damp on the spirits</sg>,;
+<sg>low spirits, bad spirits, drooping spirits, depressed spirits</sg>,;
+<sg>heart sinking</sg>,;
+<sg>heaviness of heart, failure of heart</sg>,;
+<sg>heaviness</sg>,;
+<sg>infestivity, gloom</sg>,;
+<sg>weariness ,<cref> 841 <i>debt</i></cref></sg>,;
+<sg>taedium vitae, disgust of life</sg>,;
+<sg>mal du pays ,<cref>833 <i>regret</i></cref></sg>,;
+<sg>anhedonia</sg>,;
+<sg>melancholy</sg>,;
+<sg>sadness</sg>,;
+<sg>il penseroso, melancholia, dismals, blues, lachrymals, mumps, dumps, blue devils, doldrums</sg>,;
+<sg>vapors, megrims, spleen, horrors, hypochondriasis, pessimism</sg>,;
+<sg>la maladie sans maladie</sg>,;
+<sg>despondency, slough of Despond</sg>,;
+<sg>disconsolateness</sg>,;
+<sg>hope deferred, blank despondency</sg>,;
+<sg>voiceless woe</sg>,;
+<sg>prostration of soul</sg>,;
+<sg>broken heart</sg>,;
+<sg>despair ,<cref> 859 <i>feeling</i></cref></sg>,;
+<sg>cave of despair, cave of Trophonius demureness</sg>,;
+<sg>gravity, solemnity</sg>,;
+<sg>long face, grave face</sg>,;
+<sg>hypochondriac, seek sorrow, self-tormentor, heautontimorumenos, malade imaginaire, medecin tant pis</sg>,;
+<sg>croaker, pessimist</sg>,;
+<sg>mope, mopus</sg>,;
+<sg>affliction ,<cref> 830 <i>merchant</i></cref></sg>,;
+<sg>sorry sight</sg>,;
+<sg>memento mori</sg>,;
+<sg>damper, wet blanket, Job's comforter</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be dejected</sg>,;
+<sg>grieve</sg>,;
+<sg>mourn ,<cref>839 <i>lament</i></cref></sg>,;
+<sg>take on, give way, lose heart, despond, droop, sink</sg>,;
+<sg>lower, look downcast, frown, pout</sg>,;
+<sg>hang down the head</sg>,;
+<sg>pull a long face, make a long face</sg>,;
+<sg>laugh on the wrong side of the mouth</sg>,;
+<sg>grin a ghastly smile</sg>,;
+<sg>look blue, look like a drowned man</sg>,;
+<sg>lay to heart, take to heart</sg>,;
+<sg>mope, brood over</sg>,;
+<sg>fret</sg>,;
+<sg>sulk</sg>,;
+<sg>pine, pine away</sg>,;
+<sg>yearn</sg>,;
+<sg>repine ,<cref>833 <i>regret</i></cref></sg>,;
+<sg>despair ,<cref> 859 <i>feeling</i></cref></sg>,;
+<sg>refrain from laughter, keep one's countenance</sg>,;
+<sg>be grave, look grave</sg>,;
+<sg>repress a smile</sg>,;
+<sg>depress</sg>,;
+<sg>discourage, dishearten</sg>,;
+<sg>dispirit</sg>,;
+<sg>damp, dull, deject, lower, sink, dash, knock down, unman, prostrate, break one's heart</sg>,;
+<sg>frown upon</sg>,;
+<sg>cast a gloom, cast a shade on</sg>,;
+<sg>sadden</sg>,;
+<sg>damp one's hopes, dash one's hopes, wither one's hopes</sg>,;
+<sg>weigh on the mind, lie heavy on the mind, prey on the mind, weigh on the spirits, lie heavy on the spirits, prey on the spirits</sg>,;
+<sg>damp the spirits, depress the spirits</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>cheerless, joyless, spiritless</sg>,;
+<sg>uncheerful, uncheery</sg>,;
+<sg>unlively</sg>,;
+<sg>unhappy ,<cref> 828 <i>purchase</i></cref></sg>,;
+<sg>melancholy, dismal, somber, dark, gloomy, triste, clouded, murky, lowering, frowning, lugubrious, funereal, mournful, lamentable, dreadful</sg>,;
+<sg>dreary, flat</sg>,;
+<sg>dull, dull as a beetle, dull as ditchwater</sg>,;
+<sg>depressing</sg>,;
+<sg>melancholy as a gib cat</sg>,;
+<sg>oppressed with melancholy, a prey to melancholy</sg>,;
+<sg>downcast, downhearted</sg>,;
+<sg>down in the mouth, down in one's luck</sg>,;
+<sg>heavy-hearted</sg>,;
+<sg>in the dumps, down in the dumps, in the suds, in the sulks, in the doldrums</sg>,;
+<sg>in doleful dumps, in bad humor</sg>,;
+<sg>sullen</sg>,;
+<sg>mumpish, dumpish, mopish, moping</sg>,;
+<sg>moody, glum</sg>,;
+<sg>sulky ,<cref>832 <i>discontented</i></cref></sg>,;
+<sg>out of sorts, out of humor, out of heart, out of spirits</sg>,;
+<sg>ill at ease, low spirited, in low spirits, a cup too low</sg>,;
+<sg>weary ,<cref> 841 <i>debt</i></cref></sg>,;
+<sg>discouraged, disheartened</sg>,;
+<sg>desponding</sg>,;
+<sg>chapfallen, chopfallen, jaw fallen, crest fallen</sg>,;
+<sg>sad, pensive, penseroso, tristful</sg>,;
+<sg>dolesome, doleful</sg>,;
+<sg>woebegone</sg>,;
+<sg>lacrymose, lachrymose, in tears, melancholic, hypped, hypochondriacal, bilious, jaundiced, atrabilious, saturnine, splenetic</sg>,;
+<sg>lackadaisical</sg>,;
+<sg>serious, sedate, staid, stayed</sg>,;
+<sg>grave as a judge, grave as an undertaker, grave as a mustard pot</sg>,;
+<sg>sober, sober as a judge, solemn, demure</sg>,;
+<sg>grim</sg>,;
+<sg>grim-faced, grim-visaged</sg>,;
+<sg>rueful, wan, long-faced</sg>,;
+<sg>disconsolate</sg>,;
+<sg>unconsolable, inconsolable</sg>,;
+<sg>forlorn, comfortless, desolate, desole, sick at heart</sg>,;
+<sg>soul sick, heart sick</sg>,;
+<sg>au desespoir</sg>,;
+<sg>in despair ,<cref> 859 <i>feeling</i></cref></sg>,;
+<sg>lost</sg>,;
+<sg>overcome</sg>,;
+<sg>broken down, borne down, bowed down</sg>,;
+<sg>heartstricken ,<cref>828 <i>mental suffering</i></cref></sg>,;
+<sg>cut up, dashed, sunk</sg>,;
+<sg>unnerved, unmanned</sg>,;
+<sg>down fallen, downtrodden</sg>,;
+<sg>broken-hearted</sg>,;
+<sg>careworn</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>with a long face, with tears in one's eyes</sg>,;
+<sg>sadly</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>the countenance falling</sg>,;
+<sg>the heart failing, the heart sinking within one</sg>,;
+<sg>a plague of sighing and grief</sg>,;
+<sg>thick-ey'd musing and curs'd melancholy</sg>,;
+<sg>the sickening pang of hope deferred</sg>,;
+<br>
+</paragraph>

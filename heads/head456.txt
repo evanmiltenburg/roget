@@ -1,0 +1,28 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#15#</sectionNumber>
+<headword>#<b>#[001] #456# Purple #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>purple</i></sg>,;
+<sg>blue and red, bishop's purple</sg>,;
+<sg>aniline dyes, gridelin, amethyst</sg>,;
+<sg>purpure</sg>,;
+<sg>heliotrope</sg>,;
+<sg>lividness, lividity</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>empurple</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>purple, violet, ultraviolet</sg>,;
+<sg>plum-colored, lavender, lilac, puce, mauve</sg>,;
+<sg>livid</sg>,;
+<br>
+</paragraph>

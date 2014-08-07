@@ -1,0 +1,29 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#2#</sectionNumber>
+<headword>#<b>#[001] #17# Nonuniformity #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>nonuniformity, </i>diversity, irregularity, unevenness</sg>,;
+<sg>multiformity ,<cref> 81 <i>exclusion</i></cref></sg>,;
+<sg>unconformity ,<cref> 83 <i>speciality</i></cref></sg>,;
+<sg>roughness ,<cref> 256 <i>straightness</i></cref></sg>,;
+<sg>dissimilarity, dissimilitude, divarication, divergence</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>diversified varied, irregular, uneven, rough ,<cref> 256 <i>straightness</i></cref></sg>,;
+<sg>multifarious</sg>,;
+<sg>multiform ,<cref> 81 <i>exclusion</i></cref></sg>,;
+<sg>of various kinds</sg>,;
+<sg>all manner of, all sorts of, all kinds of</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>variously, in all manner of ways, here there and everywhere</sg>,;
+<br>
+</paragraph>

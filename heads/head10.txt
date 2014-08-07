@@ -1,0 +1,69 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#2#</sectionNumber>
+<headword>#<b>#[001] #10# Irrelation #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>irrelation, </i>dissociation</sg>,;
+<sg>misrelation</sg>,;
+<sg>inapplicability</sg>,;
+<sg>inconnection</sg>,;
+<sg>multifariousness</sg>,;
+<sg>disconnection ,<cref>44 <i>disjunction</i></cref></sg>,;
+<sg>inconsequence, independence</sg>,;
+<sg>incommensurability</sg>,;
+<sg>irreconcilableness ,<cref>24 <i>disagreement</i></cref></sg>,;
+<sg>heterogeneity</sg>,;
+<sg>unconformity ,<cref> 83 <i>speciality</i></cref></sg>,;
+<sg>irrelevancy, impertinence, nihil ad rem</sg>,;
+<sg>intrusion ,<cref> 24 <i>prototype</i></cref></sg>,;
+<sg>non-pertinence</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>have no relation to ,<cref> 9 <i>relation</i></cref></sg>,;
+<sg>have no bearing upon, have no concern with ,<cref> 9 <i>relation</i></cref>, have no business with</sg>,;
+<sg>not concern ,<cref> 9 <i>relation</i></cref></sg>,;
+<sg>have no business there, have nothing to do with, intrude ,<cref> 24 <i>prototype</i></cref></sg>,;
+<sg>bring in head and shoulders, drag in head and shoulders, lug in head and shoulders</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>irrelative, irrespective, unrelated</sg>,;
+<sg>arbitrary</sg>,;
+<sg>independent, unallied</sg>,;
+<sg>unconnected, disconnected</sg>,;
+<sg>adrift, isolated, insular</sg>,;
+<sg>extraneous, strange, alien, foreign, outlandish, exotic</sg>,;
+<sg>not comparable, incommensurable, heterogeneous</sg>,;
+<sg>unconformable ,<cref> 83 <i>speciality</i></cref></sg>,;
+<sg>irrelevant, inapplicable</sg>,;
+<sg>not pertinent, not to the, purpose</sg>,;
+<sg>impertinent, inapposite, beside the mark, a propos de bottes</sg>,;
+<sg>aside from the purpose, away from the purpose, foreign to the purpose, beside the purpose, beside the question, beside the transaction, beside the point</sg>,;
+<sg>misplaced ,<cref>24 <i>intrusive</i></cref></sg>,;
+<sg>traveling out of the record</sg>,;
+<sg>remote, far-fetched, out of the way, forced, neither here nor there, quite another thing</sg>,;
+<sg>detached, segregate</sg>,;
+<sg>disquiparant</sg>,;
+<sg>multifarious</sg>,;
+<sg>discordant ,<cref> 24 <i>prototype</i></cref></sg>,;
+<sg>incidental, parenthetical, obiter dicta, episodic</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>parenthetically</sg>,;
+<sg>by the way, by the by</sg>,;
+<sg>en passant, incidentally</sg>,;
+<sg>irrespectively</sg>,;
+<sg>without reference to, without regard to</sg>,;
+<sg>in the abstract ,<cref> 87 <i>unconformity</i></cref></sg>,;
+<sg>a se</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,35 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#37#</sectionNumber>
+<headword>#<b>#[001] #962# Envy #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>envy</i></sg>,;
+<sg>enviousness</sg>,;
+<sg>rivalry</sg>,;
+<sg>jalousie de milier</sg>,;
+<sg>illwill, spite</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>envy, covet, burst with envy</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>envious, invidious, covetous</sg>,;
+<sg>alieni appetens</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>base envy withers at another's joy</sg>,;
+<sg>caeca invidia est</sg>,;
+<sg>multa petentibus desunt multa</sg>,;
+<sg>summa petit livor</sg>,;
+<br>
+</paragraph>

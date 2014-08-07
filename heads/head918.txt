@@ -1,0 +1,97 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#36#</sectionNumber>
+<headword>#<b>#[001] #918# Humility #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>humility, </i>humbleness</sg>,;
+<sg>meekness, lowness</sg>,;
+<sg>lowliness, lowlihood</sg>,;
+<sg>abasement, self-abasement</sg>,;
+<sg>submission ,<cref> 725 <i>council</i></cref></sg>,;
+<sg>resignation</sg>,;
+<sg>condescension</sg>,;
+<sg>affability ,<cref>894 <i>courtesy</i></cref></sg>,;
+<sg>modesty ,<cref> 881 <i>dullness</i></cref></sg>,;
+<sg>verecundity, blush, suffusion, confusion</sg>,;
+<sg>sense of shame, sense of disgrace</sg>,;
+<sg>humiliation, mortification</sg>,;
+<sg>let down, set down</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be humble</sg>,;
+<sg>deign, vouchsafe, condescend</sg>,;
+<sg>humble oneself, demean oneself</sg>,;
+<sg>stoop, stoop to conquer</sg>,;
+<sg>carry coals</sg>,;
+<sg>submit ,<cref> 725 <i>council</i></cref></sg>,;
+<sg>submit with a good grace ,<cref>826 <i>brook</i></cref></sg>,;
+<sg>yield the palm</sg>,;
+<sg>lower one's tone, lower one's note</sg>,;
+<sg>sing small, draw in one's horns, sober down</sg>,;
+<sg>hide one's face, hide one's diminished head</sg>,;
+<sg>not dare to show one's face, take shame to oneself, not have a word to say for oneself</sg>,;
+<sg>feel shame, be conscious of shame, feel disgrace, be conscious of disgrace</sg>,;
+<sg>drink the cup of humiliation to the dregs</sg>,;
+<sg>blush for, blush up to the eves</sg>,;
+<sg>redden, change color</sg>,;
+<sg>color up</sg>,;
+<sg>hang one's head, look foolish, feel small</sg>,;
+<sg>render humble</sg>,;
+<sg>humble, humiliate</sg>,;
+<sg>let down, set down, take down, tread down, frown down</sg>,;
+<sg>snub, abash, abase, make one sing small, strike dumb</sg>,;
+<sg>teach one his distance</sg>,;
+<sg>put down, take down a peg, take down a peg lower</sg>,;
+<sg>throw into the shade, cast into the shade ,<cref> 874 <i>cheerfulness</i></cref></sg>,;
+<sg>stare out of countenance, put out of countenance</sg>,;
+<sg>put to the blush</sg>,;
+<sg>confuse, ashame, mortify, disgrace, crush</sg>,;
+<sg>send away with a flea in one's ear</sg>,;
+<sg>get a setdown</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>humble, lowly, meek</sg>,;
+<sg>modest ,<cref> 881 <i>dullness</i></cref></sg>,;
+<sg>humble minded, sober-minded</sg>,;
+<sg>unoffended</sg>,;
+<sg>submissive ,<cref> 725 <i>council</i></cref></sg>,;
+<sg>servile, ,<cref> 886 <i>jewelry</i></cref></sg>,;
+<sg>condescending</sg>,;
+<sg>affable ,<cref>891 <i>courteous</i></cref></sg>,;
+<sg>humbled</sg>,;
+<sg>bowed down, resigned</sg>,;
+<sg>abashed, ashamed, dashed</sg>,;
+<sg>out of countenance</sg>,;
+<sg>down in the mouth</sg>,;
+<sg>down on one's knees, down on one's marrowbones, down on one's uppers</sg>,;
+<sg>humbled in the dust, browbeaten</sg>,;
+<sg>chapfallen, crestfallen</sg>,;
+<sg>dumfoundered</sg>,;
+<sg>flabbergasted</sg>,;
+<sg>shorn of one's glory ,<cref>874 <i>disrepute</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>with downcast eyes, with bated breath, with bended knee</sg>,;
+<sg>on all fours, on one's feet</sg>,;
+<sg>under correction, with due deference</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>I am your obedient servant, I am your very humble servant</sg>,;
+<sg>my service to you</sg>,;
+<sg>da locum melioribus</sg>,;
+<sg>parvum parva decent</sg>,;
+<br>
+</paragraph>

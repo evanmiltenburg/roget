@@ -1,0 +1,122 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#36#</sectionNumber>
+<headword>#<b>#[001] #913# Disrepute #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>disrepute, </i>discredit</sg>,;
+<sg>ill repute, bad repute, bad name, bad odor, bad favor, ill name, ill odor, ill favor</sg>,;
+<sg>disapprobation ,<cref> 932 <i>exclusion</i></cref></sg>,;
+<sg>ingloriousness, derogation</sg>,;
+<sg>abasement, debasement</sg>,;
+<sg>abjectness</sg>,;
+<sg>degradation, dedecoration</sg>,;
+<sg>a long farewell to all my greatness</sg>,;
+<sg>odium, obloquy, opprobrium, ignominy</sg>,;
+<sg>dishonor, disgrace</sg>,;
+<sg>shame, humiliation</sg>,;
+<sg>scandal, baseness, vileness</sg>,;
+<sg>turpitude ,<cref>940 <i>improbity</i></cref></sg>,;
+<sg>infamy</sg>,;
+<sg>tarnish, taint, defilement, pollution</sg>,;
+<sg>stain, blot, spot, blur, stigma, brand, reproach, imputation, slur</sg>,;
+<sg>crying shame, burning shame</sg>,;
+<sg>scandalum magnatum, badge of infamy, blot in one's escutcheon</sg>,;
+<sg>bend sinister, bar sinister</sg>,;
+<sg>champain, point champain</sg>,;
+<sg>byword of reproach</sg>,;
+<sg>Ichabod</sg>,;
+<sg>argumentum ad verecundiam</sg>,;
+<sg>sense of shame ,<cref> 879 <i>weariness</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be inglorious</sg>,;
+<sg>incur disgrace</sg>,;
+<sg>have a bad name, earn a bad name</sg>,;
+<sg>put a halter round one's neck, wear a halter round one's neck</sg>,;
+<sg>disgrace oneself, expose oneself</sg>,;
+<sg>play second fiddle</sg>,;
+<sg>lose caste</sg>,;
+<sg>pale one's ineffectual fire</sg>,;
+<sg>recede into the shade</sg>,;
+<sg>fall from one's high estate</sg>,;
+<sg>keep in the background ,<cref>881 <i>modesty</i></cref></sg>,;
+<sg>be conscious of disgrace ,<cref>879 <i>humility</i></cref></sg>,;
+<sg>look blue, look foolish, look like a fool</sg>,;
+<sg>cut a poor figure, cut a sorry figure</sg>,;
+<sg>laugh on the wrong side of the mouth</sg>,;
+<sg>make a sorry face, go away with a flea in</sg>,;
+<sg>one's ear, slink away</sg>,;
+<sg>cause shame</sg>,;
+<sg>shame, disgrace, put to shame, dishonor</sg>,;
+<sg>throw dishonor upon, cast dishonor upon, fling dishonor upon, reflect dishonor upon</sg>,;
+<sg>be a reproach</sg>,;
+<sg>to</sg>,;
+<sg>derogate from</sg>,;
+<sg>tarnish, stain, blot sully, taint</sg>,;
+<sg>discredit</sg>,;
+<sg>degrade, debase, defile</sg>,;
+<sg>beggar</sg>,;
+<sg>expel ,<cref>972 <i>punish</i></cref></sg>,;
+<sg>impute shame to, brand, post, stigmatize, vilify, defame, slur, cast a slur upon, hold up to shame, send to Coventry</sg>,;
+<sg>tread under foot, trample under foot</sg>,;
+<sg>show up, drag through the mire, heap dirt upon</sg>,;
+<sg>reprehend ,<cref> 932 <i>exclusion</i></cref></sg>,;
+<sg>bring low, put down, snub</sg>,;
+<sg>take down a peg, take down a peg lower, take down a peg or two</sg>,;
+<sg>obscure</sg>,;
+<sg>eclipse, outshine, take the shine out of</sg>,;
+<sg>throw into the shade, cast into the shade</sg>,;
+<sg>overshadow</sg>,;
+<sg>leave in the background, put in the background</sg>,;
+<sg>push into a corner, put one's nose out of joint</sg>,;
+<sg>put out, put out of countenance</sg>,;
+<sg>upset, throw off one's center</sg>,;
+<sg>discompose, disconcert</sg>,;
+<sg>put to the blush ,<cref>879 <i>humble</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>disgraced</sg>,;
+<sg>blown upon</sg>,;
+<sg>shorn of its beams, shorn of one's glory</sg>,;
+<sg>overcome, downtrodden</sg>,;
+<sg>loaded with shame</sg>,;
+<sg>in bad repute</sg>,;
+<sg>out of repute, out of favor, out of fashion, out of countenance</sg>,;
+<sg>at a discount</sg>,;
+<sg>under a cloud, under an eclipse</sg>,;
+<sg>unable to show one's face</sg>,;
+<sg>in the shade, in the background</sg>,;
+<sg>out at elbows, down at the elbows, down in the world</sg>,;
+<sg>inglorious</sg>,;
+<sg>nameless, renownless</sg>,;
+<sg>obscure</sg>,;
+<sg>unknown to fame</sg>,;
+<sg>unnoticed, unnoted, unhonored, unglorified</sg>,;
+<sg>shameful</sg>,;
+<sg>disgraceful, discreditable, disreputable</sg>,;
+<sg>despicable</sg>,;
+<sg>questionable</sg>,;
+<sg>unbecoming, unworthy</sg>,;
+<sg>derogatory</sg>,;
+<sg>degrading, humiliating, infra dignitatem, dedecorous</sg>,;
+<sg>scandalous, infamous, too bad, unmentionable</sg>,;
+<sg>ribald, opprobrious</sg>,;
+<sg>errant, shocking, outrageous, notorious</sg>,;
+<sg>ignominious, scrubby, dirty, abject, vile, beggarly, pitiful, low, mean, shabby base ,<cref>940 <i>dishonorable</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>to one's shame be it spoken</sg>,;
+<sg>Int</sg>,;
+<sg>fie!, shame!, for shame!, proh pudor!, O tempora!, O mores!, ough!, sic transit gloria mundi! ,</sg>,;
+<br>
+</paragraph>

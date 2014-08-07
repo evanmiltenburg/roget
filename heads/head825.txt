@@ -1,0 +1,39 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#34#</sectionNumber>
+<headword>#<b>#[001] #825# Thief #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>thief, </i>robber, homo triumliterarum, pilferer, rifler, filcher, plagiarist</sg>,;
+<sg>spoiler, depredator, pillager, marauder</sg>,;
+<sg>harpy, shark, land shark, falcon, mosstrooper, bushranger, Bedouin, brigand, freebooter, bandit, thug, dacoit</sg>,;
+<sg>pirate, corsair, viking, Paul Jones, buccaneer, buccanier</sg>,;
+<sg>piqueerer, pickeerer</sg>,;
+<sg>rover, ranger, privateer, filibuster</sg>,;
+<sg>rapparee, wrecker, picaroon</sg>,;
+<sg>smuggler, poacher</sg>,;
+<sg>abductor, badger, bunko man, cattle thief, chor, contrabandist, crook, hawk, holdup man, hold-up, jackleg, kidnaper, rustler, cattle rustler, sandbagger, sea king, skin, sneak thief, spieler, strong-arm man</sg>,;
+<sg>highwayman, Dick Turpin, Claude Duval, Macheath, footpad, sturdy beggar</sg>,;
+<sg>cut purse, pick purse</sg>,;
+<sg>pickpocket, light-fingered gentry</sg>,;
+<sg>sharper</sg>,;
+<sg>card sharper, skittle sharper</sg>,;
+<sg>thimblerigger</sg>,;
+<sg>rook, Greek, blackleg, leg, welsher</sg>,;
+<sg>defaulter</sg>,;
+<sg>Autolycus, Jeremy Diddler, Robert Macaire, artful dodger, trickster</sg>,;
+<sg>swell mob, chevalier d'industrie</sg>,;
+<sg>shoplifter</sg>,;
+<sg>swindler, peculator</sg>,;
+<sg>forger, coiner</sg>,;
+<sg>fence, receiver of stolen goods, duffer</sg>,;
+<sg>smasher</sg>,;
+<sg>burglar, housebreaker</sg>,;
+<sg>cracksman, magsman</sg>,;
+<sg>Bill Sikes, Jack Sheppard, Jonathan Wild</sg>,;
+<sg>gang, gang of thieves, theft ring</sg>,;
+<sg>organized crime, mafia, the Sicilian Mafia, the mob, la cosa nostra</sg>,;
+<sg>Dillinger, Al Capone</sg>,;
+<sg>Robin Hood</sg>,;
+<br>
+</paragraph>

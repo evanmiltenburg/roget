@@ -1,0 +1,36 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#20#</sectionNumber>
+<headword>#<b>#[001] #520# Maxim #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>maxim, </i>aphorism</sg>,;
+<sg>apothegm, apophthegm</sg>,;
+<sg>dictum, saying, adage, saw, proverb</sg>,;
+<sg>sentence, mot, motto, word, byword, moral, phylactery, protasis</sg>,;
+<sg>axiom, theorem, scholium, truism, postulate</sg>,;
+<sg>first principles, a priori fact, assumption (supposition) 514</sg>,;
+<sg>reflection ,<cref>453 <i>idea</i></cref></sg>,;
+<sg>conclusion ,<cref>480 <i>judgment</i></cref></sg>,;
+<sg>golden rule ,<cref>697 <i>precept</i></cref></sg>,;
+<sg>principle, principia</sg>,;
+<sg>profession of faith ,<cref>484 <i>belief</i></cref></sg>,;
+<sg>settled principle, accepted principle, formula</sg>,;
+<sg>accepted fact</sg>,;
+<sg>received truth, wise maxim, sage maxim, received maxim, admitted maxim, recognized maxim </sg>,;
+<sg>true saying, common saying, hackneyed saying, trite saying, commonplace saying </sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>aphoristic, proverbial, phylacteric</sg>,;
+<sg>axiomatic, gnomic</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>as the saying goes, as the saying is, as they say</sg>,;
+<br>
+</paragraph>

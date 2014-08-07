@@ -1,0 +1,88 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#18#</sectionNumber>
+<headword>#<b>#[001] #497# Certainty #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>certainty</i></sg>,;
+<sg>necessity ,<cref> 601 <i>feebleness</i></cref></sg>,;
+<sg>certitude, surety, assurance</sg>,;
+<sg>dead certainty, moral certainty</sg>,;
+<sg>infallibleness</sg>,;
+<sg>infallibility, reliability</sg>,;
+<sg>indubitableness, inevitableness, unquestionableness</sg>,;
+<sg>gospel, scripture, church, pope, court of final appeal</sg>,;
+<sg>res judicata, ultimatum positiveness</sg>,;
+<sg>dogmatism, dogmatist, dogmatizer</sg>,;
+<sg>doctrinaire, bigot, opinionist, Sir Oracle</sg>,;
+<sg>ipse dixit</sg>,;
+<sg>fact</sg>,;
+<sg>positive fact, matter of fact</sg>,;
+<sg>fait accompli</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be certain</sg>,;
+<sg>stand to reason</sg>,;
+<sg>render certain</sg>,;
+<sg>insure, ensure, assure</sg>,;
+<sg>clinch, make sure</sg>,;
+<sg>determine, decide, set at rest, make assurance double sure</sg>,;
+<sg>know ,<cref>484 <i>believe</i></cref></sg>,;
+<sg>dogmatize, lay down the law</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>certain, sure, assured</sg>,;
+<sg>solid, well-founded</sg>,;
+<sg>unqualified, absolute, positive, determinate, definite, clear, unequivocal, categorical, unmistakable, decisive, decided, ascertained</sg>,;
+<sg>inevitable, unavoidable, avoidless</sg>,;
+<sg>ineluctable</sg>,;
+<sg>unerring, infallible</sg>,;
+<sg>unchangeable ,<cref> 150 <i>continuance in action</i></cref></sg>,;
+<sg>to be depended on, trustworthy, reliable, bound</sg>,;
+<sg>unimpeachable, undeniable, unquestionable</sg>,;
+<sg>indisputable, incontestable, incontrovertible, indubitable</sg>,;
+<sg>irrefutable ,<cref>478 <i>proven</i></cref></sg>,;
+<sg>conclusive, without power of appeal</sg>,;
+<sg>indubious</sg>,;
+<sg>without doubt, beyond a doubt, without a shade or shadow of doubt, without question, beyond question</sg>,;
+<sg>past dispute</sg>,;
+<sg>clear as day</sg>,;
+<sg>beyond all question, beyond all dispute</sg>,;
+<sg>undoubted, uncontested, unquestioned, undisputed</sg>,;
+<sg>questionless, doubtless</sg>,;
+<sg>authoritative, authentic, official</sg>,;
+<sg>sure as fate, sure as death and taxes, sure as a gun</sg>,;
+<sg>evident, self-evident, axiomatic</sg>,;
+<sg>clear, clear as day, clear as the sun at noonday</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>certainly</sg>,;
+<sg>for certain, certes, sure, no doubt, doubtless, and no mistake, flagrante delicto, sure enough, to be sure, of course, as a matter of course, a coup sur, to a certainty</sg>,;
+<sg>in truth ,<cref>494 <i>truly</i></cref></sg>,;
+<sg>at any rate, at all events</sg>,;
+<sg>without fail</sg>,;
+<sg>coute que coute, coute qu'il coute</sg>,;
+<sg>whatever may happen, if the worst come to the worst</sg>,;
+<sg>come what may, happen what may, come what will</sg>,;
+<sg>sink or swim</sg>,;
+<sg>rain or shine</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>cela va sans dire</sg>,;
+<sg>there is no question, no question, not a shadow of doubt, there is not a shadow of doubt</sg>,;
+<sg>the die is cast ,<cref>601 <i>necessity</i></cref></sg>,;
+<sg>facts are stubborn things</sg>,;
+<br>
+</paragraph>

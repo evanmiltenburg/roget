@@ -1,0 +1,47 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#34#</sectionNumber>
+<headword>#<b>#[001] #846# Accounts #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>accounts, </i>accompts</sg>,;
+<sg>commercial arithmetic, monetary arithmetic</sg>,;
+<sg>statistics ,<cref>85 <i>numeration</i></cref></sg>,;
+<sg>money matters, finance, budget, bill, score, reckoning, account</sg>,;
+<sg>books, account book, ledger</sg>,;
+<sg>day book, cash book, pass book</sg>,;
+<sg>journal</sg>,;
+<sg>debtor and creditor account, cash account, running account</sg>,;
+<sg>account current</sg>,;
+<sg>balance, balance sheet</sg>,;
+<sg>compte rendu, account settled, acquit, assets, expenditure, liabilities, outstanding accounts</sg>,;
+<sg>profit and loss account, profit and loss statement, receipts</sg>,;
+<sg>bookkeeping, accounting, double entry bookkeeping, reckoning</sg>,;
+<sg>audit</sg>,;
+<sg>accountant, auditor, actuary, bookkeeper, bean counter</sg>,;
+<sg>financier ,<cref> 801 <i>compact</i></cref></sg>,;
+<sg>accounting party</sg>,;
+<sg>chartered accountant, certified accountant</sg>,;
+<sg>accounting firm, auditing firm</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>keep accounts, enter, post, book, credit, debit, carry over</sg>,;
+<sg>take stock</sg>,;
+<sg>balance accounts, make up accounts, square accounts, settle accounts, wind up accounts, cast up accounts</sg>,;
+<sg>make accounts square, square accounts</sg>,;
+<sg>bring to book, tax, surcharge and falsify</sg>,;
+<sg>audit, field audit</sg>,;
+<sg>check the books, verify accounts</sg>,;
+<sg>falsify an account, garble an account, cook an account, cook the books, doctor an account</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>monetary ,<cref> 800 <i>release from engagement</i></cref></sg>,;
+<sg>accountable, accounting</sg>,;
+<br>
+</paragraph>

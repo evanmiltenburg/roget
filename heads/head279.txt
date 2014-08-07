@@ -1,0 +1,42 @@
+<classNumber>#2#</classNumber>
+<sectionNumber>#12#</sectionNumber>
+<headword>#<b>#[001] #279# Traveler #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>traveler, </i>wayfarer, voyager, itinerant, passenger, commuter</sg>,;
+<sg>tourist, excursionist, explorer, adventurer, mountaineer, hiker, backpacker, Alpine Club</sg>,;
+<sg>peregrinator, wanderer, rover, straggler, rambler</sg>,;
+<sg>bird of passage</sg>,;
+<sg>gadabout, gadling</sg>,;
+<sg>vagrant, scatterling, landloper, waifs and estrays, wastrel, foundling</sg>,;
+<sg>loafer</sg>,;
+<sg>tramp, tramper</sg>,;
+<sg>vagabond, nomad, Bohemian, gypsy, Arab, Wandering Jew, Hadji, pilgrim, palmer</sg>,;
+<sg>peripatetic</sg>,;
+<sg>somnambulist, emigrant, fugitive, refugee</sg>,;
+<sg>beach comber, booly</sg>,;
+<sg>globegirdler, globetrotter</sg>,;
+<sg>vagrant, hobo, night walker, sleep walker</sg>,;
+<sg>noctambulist, runabout, straphanger, swagman, swagsman</sg>,;
+<sg>trecker, trekker, zingano, zingaro</sg>,;
+<sg>runner, courier</sg>,;
+<sg>Mercury, Iris, Ariel, comet</sg>,;
+<sg>pedestrian, walker, foot passenger</sg>,;
+<sg>cyclist</sg>,;
+<sg>wheelman</sg>,;
+<sg>rider, horseman, equestrian, cavalier, jockey, roughrider, trainer, breaker</sg>,;
+<sg>driver, coachman, whip, Jehu, charioteer, postilion, postboy, carter, wagoner, drayman</sg>,;
+<sg>cabman, cabdriver</sg>,;
+<sg>voiturier, vetturino, condottiere</sg>,;
+<sg>engine driver</sg>,;
+<sg>stoker, fireman, guard</sg>,;
+<sg>chauffeur, conductor, engineer, gharry-wallah, gari-wala, hackman, syce, truckman</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>on the road</sg>,;
+<br>
+</paragraph>

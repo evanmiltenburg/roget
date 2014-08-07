@@ -1,0 +1,64 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#2#</sectionNumber>
+<headword>#<b>#[001] #15# Difference #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>difference</i></sg>,;
+<sg>variance, variation, variety</sg>,;
+<sg>diversity, dissimilarity ,<cref> 18 <i>similarity</i></cref></sg>,;
+<sg>disagreement ,<cref> 24 <i>prototype</i></cref></sg>,;
+<sg>disparity ,<cref>28 <i>inequality</i></cref></sg>,;
+<sg>distinction, contradistinction</sg>,;
+<sg>alteration</sg>,;
+<sg>modification, permutation, moods and tenses</sg>,;
+<sg>nice distinction, fine distinction, delicate distinction, subtle distinction</sg>,;
+<sg>shade of difference, nuance</sg>,;
+<sg>discrimination ,<cref> 465 <i>visibility</i></cref></sg>,;
+<sg>differentia</sg>,;
+<sg>different thing, something else, apple off another tree, another pair of shoes</sg>,;
+<sg>horse of a different color</sg>,;
+<sg>this that or the other</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be different</sg>,;
+<sg>differ, vary, ablude, mismatch, contrast</sg>,;
+<sg>divaricate</sg>,;
+<sg>differ toto coelo, differ longo intervallo</sg>,;
+<sg>vary, modify ,<cref>140 <i>change</i></cref></sg>,;
+<sg>discriminate ,<cref> 465 <i>visibility</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>differing</sg>,;
+<sg>different, diverse, heterogeneous, multifarious, polyglot</sg>,;
+<sg>distinguishable, dissimilar</sg>,;
+<sg>varied, modified</sg>,;
+<sg>diversified, various, divers, all manner of, all kinds of</sg>,;
+<sg>variform ,<cref> 81 <i>exclusion</i></cref></sg>,;
+<sg>daedal</sg>,;
+<sg>other, another, not the same</sg>,;
+<sg>unequal ,<cref> 28 <i>degree</i></cref></sg>,;
+<sg>unmatched</sg>,;
+<sg>widely apart, poles apart, distinctive</sg>,;
+<sg>characteristic, discriminative, distinguishing</sg>,;
+<sg>incommensurable, incommensurate</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>differently</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>il y a fagots et fagots</sg>,;
+<br>
+</paragraph>

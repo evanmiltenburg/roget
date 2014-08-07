@@ -1,0 +1,19 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#23#</sectionNumber>
+<headword>#<b>#[001] #549# Interpreter #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>interpreter</i></sg>,;
+<sg>expositor, expounder, exponent, explainer</sg>,;
+<sg>demonstrator</sg>,;
+<sg>scholiast, commentator, annotator</sg>,;
+<sg>metaphrast, paraphrast</sg>,;
+<sg>glossarist, prolocutor</sg>,;
+<sg>spokesman, speaker, mouthpiece</sg>,;
+<sg>dragoman, courier, valet de place, cicerone, showman</sg>,;
+<sg>oneirocritic</sg>,;
+<sg>(Edipus</sg>,;
+<sg>oracle) ,<cref> 513 <i>dissent</i></cref></sg>,;
+<br>
+</paragraph>

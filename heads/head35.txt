@@ -1,0 +1,94 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#3#</sectionNumber>
+<headword>#<b>#[001] #35# Superiority #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>superiority, </i>majority</sg>,;
+<sg>greatness ,<cref> 31 <i>mean</i></cref></sg>,;
+<sg>advantage</sg>,;
+<sg>pull</sg>,;
+<sg>preponderance, preponderation</sg>,;
+<sg>vantage ground, prevalence, partiality</sg>,;
+<sg>personal superiority</sg>,;
+<sg>nobility ,<cref>875 <i>rank</i></cref></sg>,;
+<sg>Triton among the minnows, primus inter pares, nulli secundus, captain</sg>,;
+<sg>crackajack</sg>,;
+<sg>supremacy, preeminence</sg>,;
+<sg>lead</sg>,;
+<sg>maximum</sg>,;
+<sg>record</sg>,;
+<sg>trikumia, climax</sg>,;
+<sg>culmination ,<cref>210 <i>summit</i></cref></sg>,;
+<sg>transcendence</sg>,;
+<sg>ne plus ultra</sg>,;
+<sg>lion's share, Benjamin's mess</sg>,;
+<sg>excess, surplus ,<cref>40 <i>remainder</i></cref></sg>,;
+<sg>(redundancy) 641</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be superior</sg>,;
+<sg>exceed, excel, transcend</sg>,;
+<sg>outdo, outbalance, outweigh, outrank, outrival, out-Herod</sg>,;
+<sg>pass, surpass, get ahead of</sg>,;
+<sg>over-top, override, overpass, overbalance, overweigh, overmatch</sg>,;
+<sg>top, o'ertop, cap, beat, cut out</sg>,;
+<sg>beat hollow</sg>,;
+<sg>outstrip ,<cref> 303 <i>arrival</i></cref></sg>,;
+<sg>eclipse, throw into the shade, take the shine out of, outshine, put one's nose out of joint</sg>,;
+<sg>have the upper hand, have the whip hand of, have the advantage</sg>,;
+<sg>turn the scale, kick the beam</sg>,;
+<sg>play first fiddle ,<cref>642 <i>importance</i></cref></sg>,;
+<sg>preponderate, predominate, prevail</sg>,;
+<sg>precede, take precedence, come first</sg>,;
+<sg>come to a head, culminate</sg>,;
+<sg>beat all others,  bear the palm</sg>,;
+<sg>break the record</sg>,;
+<sg>take the cake</sg>,;
+<sg>become larger, render larger ,<cref>194 <i>increase) 35, (expand</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>superior, greater, major, higher</sg>,;
+<sg>exceeding</sg>,;
+<sg>great ,<cref> 31 <i>mean</i></cref></sg>,;
+<sg>distinguished, ultra</sg>,;
+<sg>vaulting</sg>,;
+<sg>more than a match for</sg>,;
+<sg>supreme, greatest, utmost, paramount, preeminent, foremost, crowning</sg>,;
+<sg>first-rate ,<cref>648 <i>important) 642, (excellent</i></cref></sg>,;
+<sg>unrivaled peerless, matchless</sg>,;
+<sg>none such, second to none, sans pareil</sg>,;
+<sg>unparagoned, unparalleled, unequalled, unapproached, unsurpassed</sg>,;
+<sg>superlative, inimitable facile princeps, incomparable, sovereign, without parallel, nulli secundus, ne plus ultra</sg>,;
+<sg>beyond compare, beyond comparison</sg>,;
+<sg>culminating ,<cref>210 <i>topmost</i></cref></sg>,;
+<sg>transcendent, transcendental</sg>,;
+<sg>plus royaliste que le Roi, more catholic than the Pope increased ,<cref>35 <i>added to</i></cref></sg>,;
+<sg>enlarged ,<cref>194 <i>expanded</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>beyond, more, over</sg>,;
+<sg>over the mark, above the mark</sg>,;
+<sg>above par</sg>,;
+<sg>upwards of, in advance of</sg>,;
+<sg>over and above</sg>,;
+<sg>at the top of the scale, at its height</sg>,;
+<sg>eminently, egregiously, preeminently, surpassing, prominently, superlatively, supremely, above all, of all things, the most, to crown all, kat exochin, par excellence, principally, especially, particularly, peculiarly, a fortiori, even, yea, still more</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>I shall not look upon his like again</sg>,;
+<sg>deos fortioribus addesse</sg>,;
+<br>
+</paragraph>

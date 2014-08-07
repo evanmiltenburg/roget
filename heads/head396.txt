@@ -1,0 +1,79 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#15#</sectionNumber>
+<headword>#<b>#[001] #396# Cold #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>cold, </i>coldness</sg>,;
+<sg>frigidity, inclemency, fresco</sg>,;
+<sg>winter</sg>,;
+<sg>depth of winter, hard winter</sg>,;
+<sg>Siberia, Nova Zembla</sg>,;
+<sg>wind- chill factor</sg>,;
+<sg>ice</sg>,;
+<sg>snow, snowflake, snow crystal, snow drift</sg>,;
+<sg>sleet</sg>,;
+<sg>hail, hailstone</sg>,;
+<sg>rime, frost</sg>,;
+<sg>hoar frost, white frost, hard frost, sharp frost</sg>,;
+<sg>barf</sg>,;
+<sg>glaze, lolly</sg>,;
+<sg>icicle, thick-ribbed ice</sg>,;
+<sg>fall of snow, heavy fall</sg>,;
+<sg>iceberg, icefloe</sg>,;
+<sg>floe berg</sg>,;
+<sg>glacier</sg>,;
+<sg>nev_ee, serac</sg>,;
+<sg>pruina</sg>,;
+<sg>freezing mixture, dry ice, liquid nitrogen, liquid helium</sg>,;
+<sg>chilliness</sg>,;
+<sg>chill</sg>,;
+<sg>shivering</sg>,;
+<sg>goose skin, horripilation</sg>,;
+<sg>rigor</sg>,;
+<sg>chattering of teeth</sg>,;
+<sg>numbness, frostbite</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be cold</sg>,;
+<sg>shiver, starve, quake, shake, tremble, shudder, didder, quiver</sg>,;
+<sg>freeze, freeze to death, perish with cold</sg>,;
+<sg>freeze ,<cref>385 <i>render cold</i></cref></sg>,;
+<sg>horripilate, make the skin crawl, give one goose flesh</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>cold, cool</sg>,;
+<sg>chill, chilly</sg>,;
+<sg>icy</sg>,;
+<sg>gelid, frigid, algid</sg>,;
+<sg>fresh, keen, bleak, raw, inclement, bitter, biting, niveous, cutting, nipping, piercing, pinching</sg>,;
+<sg>clay-cold</sg>,;
+<sg>starved ,<cref>385 <i>made cold</i></cref></sg>,;
+<sg>chilled to the bone, shivering</sg>,;
+<sg>aguish, transi de froid</sg>,;
+<sg>frostbitten, frost-bound, frost-nipped</sg>,;
+<sg>cold as a stone, cold as marble, cold as lead, cold as iron, cold as a frog, cold as charity, cold as Christmas</sg>,;
+<sg>cool as a cucumber, cool as custard</sg>,;
+<sg>icy, glacial, frosty, freezing, pruinose, wintry, brumal, hibernal, boreal, arctic, Siberian, hyemal</sg>,;
+<sg>hyperborean, hyperboreal</sg>,;
+<sg>icebound</sg>,;
+<sg>frozen out</sg>,;
+<sg>unwarmed, unthawed</sg>,;
+<sg>lukewarm, tepid</sg>,;
+<sg>isocheimal, isocheimenal, isocheimic</sg>,;
+<sg>frozen, numb, frost-bitten</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>coldly, bitterly</sg>,;
+<sg>pierre fendre</sg>,;
+<br>
+</paragraph>

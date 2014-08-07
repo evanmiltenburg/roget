@@ -1,0 +1,55 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#31#</sectionNumber>
+<headword>#<b>#[001] #781# Liberation #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>liberation, </i>disengagement, release, enlargement, emancipation</sg>,;
+<sg>disenthrallment, disenthralment</sg>,;
+<sg>affranchisement, enfranchisement</sg>,;
+<sg>manumission</sg>,;
+<sg>discharge, dismissal</sg>,;
+<sg>deliverance ,<cref> 672 <i>unimportance</i></cref></sg>,;
+<sg>redemption, extrication, acquittance, absolution</sg>,;
+<sg>acquittal ,<cref> 970 <i>respect</i></cref></sg>,;
+<sg>escape ,<cref> 671 <i>importance</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>liberate, free</sg>,;
+<sg>set free, set clear, set at liberty</sg>,;
+<sg>render free, emancipate, release</sg>,;
+<sg>enfranchise, affranchise</sg>,;
+<sg>manumit</sg>,;
+<sg>enlarge</sg>,;
+<sg>disband, discharge, disenthrall, disenthral, dismiss</sg>,;
+<sg>let go, let loose, loose, let out, let slip</sg>,;
+<sg>cast adrift, turn adrift</sg>,;
+<sg>deliver ,<cref> 672 <i>unimportance</i></cref></sg>,;
+<sg>absolve ,<cref>970 <i>acquit</i></cref></sg>,;
+<sg>unfetter &c 751, untie ,<cref> 43 <i>decrement</i></cref></sg>,;
+<sg>loose ,<cref>44 <i>disjoin</i></cref></sg>,;
+<sg>loosen, relax</sg>,;
+<sg>unbolt, unbar, unclose, uncork, unclog, unhand, unbind, unchain, unharness, unleash</sg>,;
+<sg>disengage, disentangle</sg>,;
+<sg>clear, extricate, unloose</sg>,;
+<sg>gain one's liberty, obtain one's liberty, acquire one's liberty ,<cref> 748 <i>resistance</i></cref></sg>,;
+<sg>get rid of, get clear of</sg>,;
+<sg>deliver oneself from</sg>,;
+<sg>shake off the yoke, slip the collar</sg>,;
+<sg>break loose, break prison</sg>,;
+<sg>tear asunder one's bonds, cast off trammels</sg>,;
+<sg>escape ,<cref> 671 <i>importance</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>liberated</sg>,;
+<sg>out of harness ,<cref>748 <i>free</i></cref></sg>,;
+<sg>Int</sg>,;
+<sg>unhand me!, let me go!,</sg>,;
+<br>
+</paragraph>

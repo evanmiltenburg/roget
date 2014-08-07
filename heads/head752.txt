@@ -1,0 +1,61 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#29#</sectionNumber>
+<headword>#<b>#[001] #752# Pacification #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>pacification, </i>conciliation</sg>,;
+<sg>reconciliation, reconcilement</sg>,;
+<sg>shaking of hands, accommodation, arrangement, adjustment</sg>,;
+<sg>terms, compromise</sg>,;
+<sg>amnesty, deed of release</sg>,;
+<sg>peace offering</sg>,;
+<sg>olive branch</sg>,;
+<sg>calumet of peace, preliminaries of peace</sg>,;
+<sg>truce, armistice</sg>,;
+<sg>suspension of arms, suspension of hostilities, stand-down</sg>,;
+<sg>breathing time</sg>,;
+<sg>convention</sg>,;
+<sg>modus vivendi</sg>,;
+<sg>flag of truce, white flag, parlementaire, cartel</sg>,;
+<sg>hollow truce, pax in bello</sg>,;
+<sg>drawn battle</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>pacify, tranquilize, compose</sg>,;
+<sg>allay ,<cref>174 <i>moderate</i></cref></sg>,;
+<sg>reconcile, propitiate, placate, conciliate, meet halfway, hold out the olive branch, heal the breach, make peace, restore harmony, bring to terms</sg>,;
+<sg>settle matters, arrange matters, accommodate matters, accommodate differences</sg>,;
+<sg>set straight</sg>,;
+<sg>make up a quarrel, tantas componere lites</sg>,;
+<sg>come to an understanding, come to terms</sg>,;
+<sg>bridge over, hush up</sg>,;
+<sg>make it, make matters up</sg>,;
+<sg>shake hands</sg>,;
+<sg>mend one's fences</sg>,;
+<sg>raise a siege, lift a siege</sg>,;
+<sg>put up the sword, sheathe the sword</sg>,;
+<sg>bury the hatchet, lay down one's arms, turn swords into plowshares</sg>,;
+<sg>smoke the calumet of peace, close the temple of Janus</sg>,;
+<sg>keep the peace ,<cref>714 <i>concord</i></cref></sg>,;
+<sg>be pacified </sg>,;
+<sg>come round</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>conciliatory</sg>,;
+<sg>composing</sg>,;
+<sg>pacified</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>requiescat in pace</sg>,;
+<br>
+</paragraph>

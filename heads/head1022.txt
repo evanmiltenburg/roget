@@ -1,0 +1,47 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#39#</sectionNumber>
+<headword>#<b>#[001] #1022# Jupiter #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>Jupiter, </i>god, goddess</sg>,;
+<sg>heathen gods and goddesses</sg>,;
+<sg>deva</sg>,;
+<sg>Jupiter, Jove </sg>,;
+<sg>pantheon</sg>,;
+<sg>Allah, Bathala, Brahm, Brahma, Brahma, cloud-compeller, Devi, Durga, Kali, oread, the Great Spirit, Ushas</sg>,;
+<sg>water nymph, wood nymph</sg>,;
+<sg>Yama, Varuna, Zeus</sg>,;
+<sg>Vishnu, Siva, Shiva, Krishna, Juggernath, Buddha</sg>,;
+<sg>Isis, Osiris, Ra</sg>,;
+<sg>Belus, Bel, Baal, Asteroth </sg>,;
+<sg>Thor, Odin</sg>,;
+<sg>Mumbo Jumbo</sg>,;
+<sg>good genius, tutelary genius</sg>,;
+<sg>demiurge, familiar</sg>,;
+<sg>sibyl</sg>,;
+<sg>fairy, fay</sg>,;
+<sg>sylph, sylphid</sg>,;
+<sg>Ariel, peri, nymph, nereid, dryad, seamaid, banshee, benshie, Ormuzd</sg>,;
+<sg>Oberon, Mab, hamadryad, naiad, mermaid, kelpie, Ondine, nixie, sprite</sg>,;
+<sg>denizens of the air</sg>,;
+<sg>pixy ,<cref>980 <i>bad spirit</i></cref></sg>,;
+<sg>mythology</sg>,;
+<sg>heathen-mythology, fairy-mythology</sg>,;
+<sg>Lempriere, folklore</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>god-like, fairy-like</sg>,;
+<sg>sylph-like</sg>,;
+<sg>sylphic</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>you moonshine revelers and shades of night</sg>,;
+<br>
+</paragraph>

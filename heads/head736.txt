@@ -1,0 +1,115 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#29#</sectionNumber>
+<headword>#<b>#[001] #736# Aid #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>aid, </i>aidance</sg>,;
+<sg>assistance, help, opitulation, succor</sg>,;
+<sg>support, lift, advance, furtherance, promotion</sg>,;
+<sg>coadjuvancy ,<cref>709 <i>cooperation</i></cref></sg>,;
+<sg>patronage, championship, countenance, favor, interest, advocacy</sg>,;
+<sg>sustentation, subvention, alimentation, nutrition, nourishment</sg>,;
+<sg>eutrophy</sg>,;
+<sg>manna in the wilderness</sg>,;
+<sg>food ,<cref> 298 <i>recession</i></cref></sg>,;
+<sg>means ,<cref> 632 <i>irresolution</i></cref></sg>,;
+<sg>ministry, ministration</sg>,;
+<sg>subministration</sg>,;
+<sg>accommodation</sg>,;
+<sg>relief, rescue</sg>,;
+<sg>help at a dead lift</sg>,;
+<sg>supernatural aid</sg>,;
+<sg>deus ex machina</sg>,;
+<sg>supplies, reinforcements, reenforcements, succors, contingents, recruits</sg>,;
+<sg>support ,<cref>215 <i>physical</i></cref></sg>,;
+<sg>adjunct, ally ,<cref>711 <i>helper</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>aid, assist, help, succor, lend one's aid</sg>,;
+<sg>come to the aid</sg>,;
+<sg>of</sg>,;
+<sg>contribute, subscribe to</sg>,;
+<sg>bring aid, give aid, furnish aid, afford aid, supply aid</sg>,;
+<sg>give a helping hand, stretch a hand, lend a helping hand, lend a hand, bear a helping hand, hold out a hand, hold out a helping hand</sg>,;
+<sg>give one a life, give one a cast, give one a turn</sg>,;
+<sg>take by the hand, take in tow</sg>,;
+<sg>help a lame dog over a stile, lend wings to</sg>,;
+<sg>relieve, rescue</sg>,;
+<sg>set up, set agoing, set on one's legs</sg>,;
+<sg>bear through, pull through</sg>,;
+<sg>give new life to, be the making of</sg>,;
+<sg>reinforce, reenforce, recruit</sg>,;
+<sg>set forward, put forward, push forward</sg>,;
+<sg>give a lift, give a shove, give an impulse to</sg>,;
+<sg>promote, further, forward, advance expedite, speed, quicken, hasten</sg>,;
+<sg>support, sustain, uphold, prop, hold up, bolster</sg>,;
+<sg>cradle, nourish</sg>,;
+<sg>nurture, nurse, dry nurse, suckle, put out to nurse</sg>,;
+<sg>manure, cultivate, force</sg>,;
+<sg>foster, cherish, foment</sg>,;
+<sg>feed the flame, fan the flame</sg>,;
+<sg>serve</sg>,;
+<sg>do service to, tender to, pander to</sg>,;
+<sg>administer to, subminister to, minister to</sg>,;
+<sg>tend, attend, wait on</sg>,;
+<sg>take care of ,<cref> 459 <i>variegation</i></cref></sg>,;
+<sg>entertain</sg>,;
+<sg>smooth the bed of death</sg>,;
+<sg>oblige, accommodate, consult the wishes of</sg>,;
+<sg>humor, cheer, encourage</sg>,;
+<sg>second, stand by</sg>,;
+<sg>back, back up</sg>,;
+<sg>pay the piper, abet</sg>,;
+<sg>work for, make interest for, stick up for, take up the cudgels for</sg>,;
+<sg>take up the cause of, espouse the cause of, adopt the cause of</sg>,;
+<sg>advocate, beat up for recruits, press into the service</sg>,;
+<sg>squire, give moral support to, keep in countenance, countenance, patronize</sg>,;
+<sg>lend oneself to, lend one's countenance to</sg>,;
+<sg>smile upon, shine upon</sg>,;
+<sg>favor, befriend, take in hand, enlist under the banners of</sg>,;
+<sg>side with ,<cref>709 <i>cooperate</i></cref></sg>,;
+<sg>be of use to</sg>,;
+<sg>subserve ,<cref>631 <i>instrument</i></cref></sg>,;
+<sg>benefit ,<cref> 648 <i>evil</i></cref></sg>,;
+<sg>render a service ,<cref>644 <i>utility</i></cref></sg>,;
+<sg>conduce ,<cref>176 <i>tend</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>aiding</sg>,;
+<sg>auxiliary, adjuvant, helpful</sg>,;
+<sg>coadjuvant ,<cref> 709 <i>action</i></cref></sg>,;
+<sg>subservient, ministrant, ancillary, accessory, subsidiary</sg>,;
+<sg>at one's beck, at one's beck and call</sg>,;
+<sg>friendly, amicable, favorable, propitious, well-disposed</sg>,;
+<sg>neighborly</sg>,;
+<sg>obliging ,<cref>906 <i>benevolent</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>with the aid, by the aid of </sg>,;
+<sg>on behalf of, in behalf of</sg>,;
+<sg>in aid of, in the service of, in the name of, in favor of, in furtherance of</sg>,;
+<sg>on account of</sg>,;
+<sg>for the sake of, on the part of</sg>,;
+<sg>non obstante</sg>,;
+<sg>Int</sg>,;
+<sg>help!, save us!, to the rescue!,</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>alterum alterius auxilio eget</sg>,;
+<sg>God befriend us as our cause is just</sg>,;
+<sg>at your service</sg>,;
+<br>
+</paragraph>

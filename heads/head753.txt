@@ -1,0 +1,39 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#29#</sectionNumber>
+<headword>#<b>#[001] #753# Mediation #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>mediation, </i>mediatorship, mediatization</sg>,;
+<sg>intervention, interposition, interference, intermeddling, intercession</sg>,;
+<sg>arbitration</sg>,;
+<sg>flag of truce ,<cref> 723 <i>director</i></cref></sg>,;
+<sg>good offices, peace offering</sg>,;
+<sg>parley, negotiation</sg>,;
+<sg>diplomatics, diplomacy</sg>,;
+<sg>compromise ,<cref> 774 <i>obedience</i></cref></sg>,;
+<sg>mediator, arbitrator, intercessor, peacemaker, makepeace, negotiator, go-between</sg>,;
+<sg>diplomatist ,<cref>758 <i>consignee</i></cref></sg>,;
+<sg>moderator</sg>,;
+<sg>propitiator</sg>,;
+<sg>umpire</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>mediate, mediatize</sg>,;
+<sg>intercede, interpose, interfere, intervene</sg>,;
+<sg>step in, negotiate</sg>,;
+<sg>meet halfway</sg>,;
+<sg>arbitrate</sg>,;
+<sg>magnas componere lites</sg>,;
+<sg>bargain ,<cref> 794 <i>offer</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>mediatory</sg>,;
+<br>
+</paragraph>

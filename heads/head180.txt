@@ -1,0 +1,128 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#8#</sectionNumber>
+<headword>#<b>#[001] #180# Violence #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>violence, </i>inclemency, vehemence, might, impetuosity</sg>,;
+<sg>boisterousness</sg>,;
+<sg>effervescence, ebullition</sg>,;
+<sg>turbulence, bluster</sg>,;
+<sg>uproar, callithump, riot, row, rumpus, le diable a quatre, devil to pay, all the fat in the fire</sg>,;
+<sg>severity ,<cref> 739 <i>opponent</i></cref></sg>,;
+<sg>ferocity, rage, fury</sg>,;
+<sg>exacerbation, exasperation, malignity</sg>,;
+<sg>fit, paroxysm</sg>,;
+<sg>orgasm, climax, aphrodisia</sg>,;
+<sg>force, brute force</sg>,;
+<sg>outrage</sg>,;
+<sg>coup de main</sg>,;
+<sg>strain, shock, shog</sg>,;
+<sg>spasm, convulsion, throe</sg>,;
+<sg>hysterics, passion ,<cref>825 <i>state of excitability</i></cref></sg>,;
+<sg>outbreak, outburst</sg>,;
+<sg>debacle</sg>,;
+<sg>burst, bounce, dissilience, discharge, volley, explosion, blow up, blast, detonation, rush, eruption, displosion, torrent</sg>,;
+<sg>turmoil ,<cref>59 <i>disorder</i></cref></sg>,;
+<sg>ferment ,<cref>315 <i>agitation</i></cref></sg>,;
+<sg>storm, tempest, rough weather</sg>,;
+<sg>squall ,<cref>349 <i>wind</i></cref></sg>,;
+<sg>earthquake, volcano, thunderstorm</sg>,;
+<sg>berserk, berserker</sg>,;
+<sg>fury, dragon, demon, tiger, beldame, Tisiphone, Megaera, Alecto, madcap, wild beast</sg>,;
+<sg>fire eater ,<cref>887 <i>blusterer</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be violent</sg>,;
+<sg>run high</sg>,;
+<sg>ferment, effervesce</sg>,;
+<sg>romp, rampage, go on a rampage</sg>,;
+<sg>run wild, run amuck, run riot</sg>,;
+<sg>break the peace</sg>,;
+<sg>rush, tear</sg>,;
+<sg>rush headlong, rush foremost</sg>,;
+<sg>raise a storm, make a riot</sg>,;
+<sg>rough house</sg>,;
+<sg>riot, storm</sg>,;
+<sg>wreak, bear down, ride roughshod, out Herod, Herod</sg>,;
+<sg>spread like wildfire (person)</sg>,;
+<sg>explode, make a row, kick up a row</sg>,;
+<sg>boil, boil over</sg>,;
+<sg>fume, foam, come on like a lion, bluster, rage, roar, fly off the handle, go bananas, go ape, blow one's top, blow one's cool, flip one's lid, hit the ceiling, hit the roof</sg>,;
+<sg>fly into a rage (anger) 900</sg>,;
+<sg>break out, fly out, burst out</sg>,;
+<sg>bounce, explode, go off, displode, fly, detonate, thunder, blow up, crump, flash, flare, burst</sg>,;
+<sg>shock, strain</sg>,;
+<sg>break open, force open, prize open</sg>,;
+<sg>render violent</sg>,;
+<sg>sharpen, stir up, quicken, excite, incite, annoy, urge, lash, stimulate, turn on</sg>,;
+<sg>irritate, inflame, kindle, suscitate, foment</sg>,;
+<sg>accelerate, aggravate, exasperate, exacerbate, convulse, infuriate, madden, lash into fury</sg>,;
+<sg>fan the flame</sg>,;
+<sg>add fuel to the flame, pour oil on the fire, oleum addere camino</sg>,;
+<sg>explode</sg>,;
+<sg>let fly, fly off</sg>,;
+<sg>discharge, detonate, set off, detonize, fulminate</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>violent, vehement</sg>,;
+<sg>warm</sg>,;
+<sg>acute, sharp</sg>,;
+<sg>rough, rude, ungentle, bluff, boisterous, wild</sg>,;
+<sg>brusque, abrupt, waspish</sg>,;
+<sg>impetuous</sg>,;
+<sg>rampant</sg>,;
+<sg>turbulent</sg>,;
+<sg>disorderly</sg>,;
+<sg>blustering, raging</sg>,;
+<sg>troublous, riotous</sg>,;
+<sg>tumultuary, tumultuous</sg>,;
+<sg>obstreperous, uproarious</sg>,;
+<sg>extravagant</sg>,;
+<sg>unmitigated</sg>,;
+<sg>ravening, inextinguishable, tameless</sg>,;
+<sg>frenzied ,<cref>503 <i>insane</i></cref></sg>,;
+<sg>desperate ,<cref>863 <i>rash</i></cref></sg>,;
+<sg>infuriate, furious, outrageous, frantic, hysteric, in hysterics</sg>,;
+<sg>fiery, flaming, scorching, hot, red-hot, ebullient</sg>,;
+<sg>savage, fierce, ferocious, fierce as a tiger</sg>,;
+<sg>excited</sg>,;
+<sg>unquelled, unquenched, unextinguished, unrepressed, unbridled, unruly</sg>,;
+<sg>headstrong, ungovernable, unappeasable, immitigable, unmitigable</sg>,;
+<sg>uncontrollable, incontrollable</sg>,;
+<sg>insuppressible, irrepressible</sg>,;
+<sg>orgastic, orgasmatic, orgasmic</sg>,;
+<sg>spasmodic, convulsive, explosive</sg>,;
+<sg>detonating</sg>,;
+<sg>volcanic, meteoric</sg>,;
+<sg>stormy ,<cref>349 <i>wind</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>violently</sg>,;
+<sg>amain</sg>,;
+<sg>by storm, by force, by main force</sg>,;
+<sg>with might and main</sg>,;
+<sg>tooth and nail, vi et armis, at the point of the sword, at the point of the bayonet</sg>,;
+<sg>at one fell swoop</sg>,;
+<sg>with a high hand, through thick and thin</sg>,;
+<sg>in desperation, with a vengeance</sg>,;
+<sg>a outrance, a toute outrance</sg>,;
+<sg>headlong, head foremost</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>furor arma ministrat</sg>,;
+<sg>blown with restless violence round about the pendent world</sg>,;
+<br>
+</paragraph>

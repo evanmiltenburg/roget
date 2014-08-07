@@ -1,0 +1,66 @@
+<classNumber>#2#</classNumber>
+<sectionNumber>#11#</sectionNumber>
+<headword>#<b>#[001] #253# Distortion #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>distortion, </i>detortion, contortion</sg>,;
+<sg>twist, crookedness ,<cref>217 <i>obliquity</i></cref></sg>,;
+<sg>grimace</sg>,;
+<sg>deformity</sg>,;
+<sg>malformation, malconformation</sg>,;
+<sg>harelip</sg>,;
+<sg>monstrosity, misproportion, want of symmetry, anamorphosis</sg>,;
+<sg>ugliness ,<cref> 846 <i>accounts</i></cref></sg>,;
+<sg>talipes</sg>,;
+<sg>teratology</sg>,;
+<sg>asymmetry</sg>,;
+<sg>irregularity</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>distort, contort, twist, warp, wrest, writhe, make faces, deform, misshape</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>distorted</sg>,;
+<sg>out of shape, irregular, asymmetric, unsymmetric, awry, wry, askew, crooked</sg>,;
+<sg>not true, not straight</sg>,;
+<sg>on one side, crump, deformed</sg>,;
+<sg>harelipped</sg>,;
+<sg>misshapen, misbegotten</sg>,;
+<sg>misproportioned, ill proportioned</sg>,;
+<sg>ill-made</sg>,;
+<sg>grotesque, monstrous, crooked as a ram's horn</sg>,;
+<sg>camel backed, hump backed, hunch backed, bunch backed, crook backed</sg>,;
+<sg>bandy</sg>,;
+<sg>bandy legged, bow legged</sg>,;
+<sg>bow kneed, knock kneed</sg>,;
+<sg>splay footed, club footed</sg>,;
+<sg>round shouldered</sg>,;
+<sg>snub nosed</sg>,;
+<sg>curtailed of one's fair proportions</sg>,;
+<sg>stumpy ,<cref>201 <i>short</i></cref></sg>,;
+<sg>gaunt ,<cref>203 <i>thin</i></cref></sg>,;
+<sg>bloated ,<cref> 194 <i>displacement</i></cref></sg>,;
+<sg>scalene</sg>,;
+<sg>simous</sg>,;
+<sg>taliped, talipedic</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>all manner of ways</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>crooked as a Virginia fence</sg>,;
+<br>
+</paragraph>

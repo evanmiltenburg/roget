@@ -1,0 +1,93 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#20#</sectionNumber>
+<headword>#<b>#[001] #503# Judgment #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>judgment, </i>result, conclusion, upshot</sg>,;
+<sg>deduction, inference, ergotism</sg>,;
+<sg>illation</sg>,;
+<sg>corollary, porism</sg>,;
+<sg>moral</sg>,;
+<sg>estimation, valuation, appreciation, judication</sg>,;
+<sg>dijudication, adjudication</sg>,;
+<sg>arbitrament, arbitrement, arbitration</sg>,;
+<sg>assessment, ponderation</sg>,;
+<sg>valorization</sg>,;
+<sg>award, estimate</sg>,;
+<sg>review, criticism, critique, notice, report</sg>,;
+<sg>decision, determination, judgment, finding, verdict, sentence, decree</sg>,;
+<sg>findings of fact</sg>,;
+<sg>findings of law</sg>,;
+<sg>res judicata</sg>,;
+<sg>plebiscite, voice, casting vote</sg>,;
+<sg>vote ,<cref>609 <i>choice</i></cref></sg>,;
+<sg>opinion ,<cref>484 <i>belief</i></cref></sg>,;
+<sg>good judgment ,<cref>498 <i>wisdom</i></cref></sg>,;
+<sg>judge, umpire</sg>,;
+<sg>arbiter, arbitrator</sg>,;
+<sg>asessor, referee</sg>,;
+<sg>censor, reviewer, critic</sg>,;
+<sg>connoisseur</sg>,;
+<sg>commentator ,<cref> 524 <i>sage</i></cref></sg>,;
+<sg>inspector, inspecting officer</sg>,;
+<sg>twenty-twenty hindsight</sg>,;
+<sg>armchair general, monday morning quarterback</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>judge, conclude</sg>,;
+<sg>come to a conclusion, draw a conclusion, arrive at a conclusion</sg>,;
+<sg>ascertain, determine, make up one's mind</sg>,;
+<sg>deduce, derive, gather, collect, draw an inference, make a deduction, weet, ween</sg>,;
+<sg>form an estimate, estimate, appreciate, value, count, assess, rate, rank, account</sg>,;
+<sg>regard, consider, think of</sg>,;
+<sg>look upon ,<cref>484 <i>believe</i></cref></sg>,;
+<sg>review</sg>,;
+<sg>size up</sg>,;
+<sg>settle</sg>,;
+<sg>pass an opinion, give an opinion</sg>,;
+<sg>decide, try, pronounce, rule</sg>,;
+<sg>pass judgment, pass sentence</sg>,;
+<sg>sentence, doom</sg>,;
+<sg>find</sg>,;
+<sg>give judgment, deliver judgment</sg>,;
+<sg>adjudge, adjudicate</sg>,;
+<sg>arbitrate, award, report</sg>,;
+<sg>bring in a verdict</sg>,;
+<sg>make absolute, set a question at rest</sg>,;
+<sg>confirm ,<cref>488 <i>assent</i></cref></sg>,;
+<sg>comment, criticize, kibitz</sg>,;
+<sg>pass under review ,<cref>457 <i>examine</i></cref></sg>,;
+<sg>investigate ,<cref>461 <i>inquire</i></cref></sg>,;
+<sg>hold the scales, sit in judgment</sg>,;
+<sg>try judgment, hear a cause</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>judging</sg>,;
+<sg>judicious ,<cref>498 <i>wise</i></cref></sg>,;
+<sg>determinate, conclusive</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>on the whole, all things considered</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>a Daniel come to judgment</sg>,;
+<sg>and stand a critic, hated yet caress'd</sg>,;
+<sg>it is much easier to be critical than to be correct</sg>,;
+<sg>la critique est aisee et l'art est difficile</sg>,;
+<sg>nothing if not critical</sg>,;
+<sg>O most lame and impotent conclusion</sg>,;
+<br>
+</paragraph>

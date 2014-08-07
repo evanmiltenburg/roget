@@ -1,0 +1,95 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#17#</sectionNumber>
+<headword>#<b>#[001] #483# Experiment #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>experiment</i></sg>,;
+<sg>essay ,<cref>675 <i>attempt</i></cref></sg>,;
+<sg>analysis ,<cref>461 <i>investigation</i></cref></sg>,;
+<sg>screen</sg>,;
+<sg>trial, tentative method, t=atonnement</sg>,;
+<sg>verification, probation, experimentum crucis, proof, (demonstration) 478</sg>,;
+<sg>criterion, diagnostic, test, probe, crucial test, acid test, litmus test</sg>,;
+<sg>crucible, reagent, check, touchstone, pix</sg>,;
+<sg>assay, ordeal</sg>,;
+<sg>ring</sg>,;
+<sg>litmus paper, curcuma paper, turmeric paper</sg>,;
+<sg>test tube</sg>,;
+<sg>analytical instruments ,<cref> 633 <i>obstinacy</i></cref></sg>,;
+<sg>empiricism, rule of thumb</sg>,;
+<sg>feeler</sg>,;
+<sg>trial balloon, pilot balloon, messenger balloon</sg>,;
+<sg>pilot engine</sg>,;
+<sg>scout</sg>,;
+<sg>straw to show the wind</sg>,;
+<sg>speculation, random shot, leap in the dark</sg>,;
+<sg>analyzer, analyst, assayist</sg>,;
+<sg>adventurer</sg>,;
+<sg>experimenter, experimentist, experimentalist</sg>,;
+<sg>scientist, engineer, technician</sg>,;
+<sg>subject, experimentee, guinea pig, experimental animal</sg>,;
+<sg>protocol, experimental method, blind experiment, double-blind experiment, controlled experiment</sg>,;
+<sg>poll, survey, opinion poll</sg>,;
+<sg>epidemiological survey, retrospective analysis, retrospective survey, prospective survey, prospective analysis</sg>,;
+<sg>statistical analysis</sg>,;
+<sg>literature search, library research</sg>,;
+<sg>tryout, audition</sg>,;
+<sg>discovery ,<cref> 480 <i>neglect</i></cref></sg>,;
+<sg>measurement ,<cref> 466 <i>invisibility</i></cref></sg>,;
+<sg>evidence ,<cref> 467 <i>appearance</i></cref></sg>,;
+<sg>deduction, induction, abduction</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>experiment</sg>,;
+<sg>essay ,<cref>675 <i>endeavor</i></cref></sg>,;
+<sg>try, try out, assay</sg>,;
+<sg>make an experiment, make a trial of</sg>,;
+<sg>give a trial to</sg>,;
+<sg>put on trial, subject to trial</sg>,;
+<sg>experiment upon</sg>,;
+<sg>rehearse</sg>,;
+<sg>put to the test, bring to the test, submit to the test, submit to the proof</sg>,;
+<sg>prove, verify, test, touch, practice upon, try one's strength</sg>,;
+<sg>road-test, test drive, take for a spin</sg>,;
+<sg>test fly</sg>,;
+<sg>grope</sg>,;
+<sg>feel one's way, grope for one's way</sg>,;
+<sg>fumble, t=atonner, aller =a t=atons, put out a feeler, throw out a feeler</sg>,;
+<sg>send up a trial balloon, send up a pilot balloon</sg>,;
+<sg>see how the land lies, get the lay of the land, test the waters, feel out, sound out, take the pulse, see, check, check out, see how the wind blows</sg>,;
+<sg>consult the barometer</sg>,;
+<sg>feel the pulse</sg>,;
+<sg>fish for, bob for</sg>,;
+<sg>cast for, beat about for</sg>,;
+<sg>angle, trawl, cast one's net, beat the bushes</sg>,;
+<sg>try one's fortune ,<cref>675 <i>adventure</i></cref></sg>,;
+<sg>explore ,<cref>461 <i>inquire</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>experimental, empirical</sg>,;
+<sg>probative, probatory, probationary, provisional</sg>,;
+<sg>analytic, docimastic</sg>,;
+<sg>tentative</sg>,;
+<sg>unverified, unproven, speculative, untested</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>on trial, under examination, on probation, under probation, on one's trial, on approval</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>check it out, give it a try, see how it goes</sg>,;
+<sg>Run it up the flagpole and see who salutes</sg>,;
+<br>
+</paragraph>

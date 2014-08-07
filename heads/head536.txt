@@ -1,0 +1,29 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#21#</sectionNumber>
+<headword>#<b>#[001] #536# Omen #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>omen, </i>portent, presage, prognostic, augury, auspice</sg>,;
+<sg>sign ,<cref>550 <i>indication</i></cref></sg>,;
+<sg>harbinger ,<cref>64 <i>precursor</i></cref></sg>,;
+<sg>yule candle</sg>,;
+<sg>bird of ill omen</sg>,;
+<sg>signs of the times</sg>,;
+<sg>gathering clouds</sg>,;
+<sg>warning ,<cref> 668 <i>sufficiency</i></cref></sg>,;
+<sg>prefigurement ,<cref> 511 <i>incredulity</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>ill-boding</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>auspicium melioris aevi</sg>,;
+<br>
+</paragraph>

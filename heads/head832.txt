@@ -1,0 +1,39 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#34#</sectionNumber>
+<headword>#<b>#[001] #832# Mart #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>mart</i></sg>,;
+<sg>market, marketplace</sg>,;
+<sg>fair, bazaar, staple, exchange, change, bourse, hall, guildhall</sg>,;
+<sg>tollbooth, customhouse</sg>,;
+<sg>Tattersall's</sg>,;
+<sg>stall, booth, stand, newsstand</sg>,;
+<sg>cart, wagon</sg>,;
+<sg>wharf</sg>,;
+<sg>office, chambers, countinghouse, bureau</sg>,;
+<sg>counter, compter</sg>,;
+<sg>shop, emporium, establishment</sg>,;
+<sg>store ,<cref> 636 <i>choice</i></cref></sg>,;
+<sg>department store, general store, five and ten, variety store, co-op, finding store, grindery warehouse</sg>,;
+<sg>grocery, supermarket, candy store, sweet shop, confectionery, bakery, greengrocer, delicatessen, bakeshop, butcher shop, fish store, farmers' market, mom and pop store, dairy, health food store</sg>,;
+<sg>tobacco shop, tobacco store, tobacconists, cigar store, hardware store, jewelry shop, bookstore, liquor store, gun shop, rod and reel shop, furniture store, drugstore, chemist's, florist, flower shop, shoe store, stationer, stationer's, electronics shop, telephone store, music store, record shop, fur store, sporting goods store, video store, video rental store</sg>,;
+<sg>lumber store, lumber yard, home improvements store, home improvement center</sg>,;
+<sg>gas station, auto repair shop, auto dealer, used car dealer</sg>,;
+<sg>mall, suburban mall, commons, pedestrian mall</sg>,;
+<sg>shopping street</sg>,;
+<sg>surplus store, army-navy surplus store</sg>,;
+<sg>auction</sg>,;
+<sg>flea market</sg>,;
+<sg>yard sale, garage sale</sg>,;
+<sg>pawn shop</sg>,;
+<sg>antiques store</sg>,;
+<sg>second-hand store, second time around shop, thrift shop</sg>,;
+<sg>warehouse, wareroom</sg>,;
+<sg>depot, interposit, entrepot</sg>,;
+<sg>market-overt</sg>,;
+<sg>real-estate broker</sg>,;
+<sg>vending machine</sg>,;
+<br>
+</paragraph>

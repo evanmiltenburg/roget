@@ -1,0 +1,71 @@
+<classNumber>#2#</classNumber>
+<sectionNumber>#12#</sectionNumber>
+<headword>#<b>#[001] #306# Egress #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>egress, </i>exit, issue</sg>,;
+<sg>emersion, emergence</sg>,;
+<sg>outbreak, outburst</sg>,;
+<sg>eruption, proruption</sg>,;
+<sg>emanation</sg>,;
+<sg>egression</sg>,;
+<sg>evacuation</sg>,;
+<sg>exudation, transudation</sg>,;
+<sg>extravasation, perspiration, sweating, leakage, percolation, distillation, oozing</sg>,;
+<sg>gush ,<cref>348 <i>water in motion</i></cref></sg>,;
+<sg>outpour, outpouring</sg>,;
+<sg>effluence, effusion</sg>,;
+<sg>effluxion, drain</sg>,;
+<sg>dribbling</sg>,;
+<sg>defluxion</sg>,;
+<sg>drainage</sg>,;
+<sg>outcome, output</sg>,;
+<sg>discharge ,<cref>299 <i>excretion</i></cref></sg>,;
+<sg>export, expatriation</sg>,;
+<sg>emigration, remigration</sg>,;
+<sg>debouch, debouche</sg>,;
+<sg>emunctory</sg>,;
+<sg>exodus ,<cref>293 <i>departure</i></cref></sg>,;
+<sg>emigrant</sg>,;
+<sg>outlet, vent, spout, tap, sluice, floodgate</sg>,;
+<sg>pore</sg>,;
+<sg>vomitory, outgate, sally port</sg>,;
+<sg>way out</sg>,;
+<sg>mouth, door ,<cref>260 <i>opening</i></cref></sg>,;
+<sg>path ,<cref>627 <i>way</i></cref></sg>,;
+<sg>conduit ,<cref> 350 <i>moisture</i></cref></sg>,;
+<sg>airpipe ,<cref> 351 <i>dryness</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>emerge, emanate, issue</sg>,;
+<sg>egress</sg>,;
+<sg>go out of, come out of, move out of, pass out of, pour out of, flow out of</sg>,;
+<sg>pass out of, evacuate</sg>,;
+<sg>exude, transude</sg>,;
+<sg>leak, run through, out through</sg>,;
+<sg>percolate, transcolate</sg>,;
+<sg>egurgitate</sg>,;
+<sg>strain, distill</sg>,;
+<sg>perspire, sweat, drain, ooze</sg>,;
+<sg>filter, filtrate</sg>,;
+<sg>dribble, gush, spout, flow out</sg>,;
+<sg>well, well out</sg>,;
+<sg>pour, trickle, ,<cref>348 <i>water in motion</i></cref></sg>,;
+<sg>effuse, extravasate, disembogue, discharge itself, debouch</sg>,;
+<sg>come forth, break forth</sg>,;
+<sg>burst out, burst through</sg>,;
+<sg>find vent</sg>,;
+<sg>escape ,<cref> 671 <i>importance</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>effused</sg>,;
+<sg>outgoing</sg>,;
+<br>
+</paragraph>

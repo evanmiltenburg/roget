@@ -1,0 +1,19 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#14#</sectionNumber>
+<headword>#<b>#[001] #365# Pulpiness #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>pulpiness</i></sg>,;
+<sg>pulp, taste, dough, curd, pap, rob, jam, pudding, poultice, grume</sg>,;
+<sg>mush, oatmeal, baby food</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>pulpy</sg>,;
+<sg>pultaceous, grumous</sg>,;
+<sg>baccate</sg>,;
+<br>
+</paragraph>

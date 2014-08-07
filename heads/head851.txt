@@ -1,0 +1,56 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#34#</sectionNumber>
+<headword>#<b>#[001] #851# Dearness #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>dearness</i></sg>,;
+<sg>high price, famine price, fancy price</sg>,;
+<sg>overcharge</sg>,;
+<sg>extravagance</sg>,;
+<sg>exorbitance, extortion</sg>,;
+<sg>heavy pull upon the purse</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be dear</sg>,;
+<sg>cost much, cost a pretty penny</sg>,;
+<sg>rise in price, look up</sg>,;
+<sg>overcharge, bleed, fleece, extort</sg>,;
+<sg>pay too much, pay through the nose, pay too dear for one's whistle, pay top dollar</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>dear</sg>,;
+<sg>high, high priced</sg>,;
+<sg>of great price, expensive, costly, precious</sg>,;
+<sg>worth a Jew's eye, dear bought</sg>,;
+<sg>at a premium</sg>,;
+<sg>not to be had, not to be had for love or money</sg>,;
+<sg>beyond price, above price, priceless, of priceless value</sg>,;
+<sg>unreasonable, extravagant, exorbitant, extortionate</sg>,;
+<sg>overpriced, more than it's woth</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>dear, dearly</sg>,;
+<sg>at great cost, heavy cost</sg>,;
+<sg>a grands frais</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>prices looking up</sg>,;
+<sg>le jeu ne vaut pas la chandelle</sg>,;
+<sg>le cout en ote le gout</sg>,;
+<sg>vel prece vel pretio</sg>,;
+<sg>too high a price to pay, not worth it</sg>,;
+<br>
+</paragraph>

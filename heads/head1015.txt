@@ -1,0 +1,130 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#38#</sectionNumber>
+<headword>#<b>#[001] #1015# Punishment #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>punishment, </i>punition</sg>,;
+<sg>chastisement, chastening</sg>,;
+<sg>correction, castigation</sg>,;
+<sg>discipline, infliction, trial</sg>,;
+<sg>judgment</sg>,;
+<sg>penalty ,<cref> 974 <i>disapprobation</i></cref></sg>,;
+<sg>retribution</sg>,;
+<sg>thunderbolt, Nemesis</sg>,;
+<sg>requital ,<cref>973 <i>reward</i></cref></sg>,;
+<sg>penology</sg>,;
+<sg>retributive justice</sg>,;
+<sg>lash, scaffold ,<cref>975 <i>instrument of punishment</i></cref></sg>,;
+<sg>imprisonment ,<cref>751 <i>restraint</i></cref></sg>,;
+<sg>transportation, banishment, expulsion, exile, involuntary exile, ostracism</sg>,;
+<sg>penal servitude, hard labor</sg>,;
+<sg>galleys ,<cref> 975 <i>flattery</i></cref></sg>,;
+<sg>beating</sg>,;
+<sg>flagellation, fustigation, gantlet, strappado, estrapade, bastinado, argumentum baculinum, stick law, rap on the knuckles, box on the ear</sg>,;
+<sg>blow ,<cref>276 <i>impulse</i></cref></sg>,;
+<sg>stripe, cuff, kick, buffet, pummel</sg>,;
+<sg>slap, slap in the face</sg>,;
+<sg>wipe, douse</sg>,;
+<sg>coup de grace</sg>,;
+<sg>torture, rack</sg>,;
+<sg>picket, picketing</sg>,;
+<sg>dragonnade</sg>,;
+<sg>capital punishment</sg>,;
+<sg>execution</sg>,;
+<sg>lethal injection</sg>,;
+<sg>the gas chamber</sg>,;
+<sg>hanging</sg>,;
+<sg>electrocution, rail-riding, scarpines</sg>,;
+<sg>decapitation, decollation</sg>,;
+<sg>garrotte, garrotto</sg>,;
+<sg>crucifixion, impalement</sg>,;
+<sg>firing squad</sg>,;
+<sg>martyrdom</sg>,;
+<sg>auto-da-fe</sg>,;
+<sg>noyade</sg>,;
+<sg>happy dispatch</sg>,;
+<sg>hara-kiri, seppuku</sg>,;
+<sg>drinking the hemlock</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>punish</sg>,;
+<sg>chastise, chasten</sg>,;
+<sg>castigate, correct, inflict punishment, administer correction, deal retributive justice</sg>,;
+<sg>cowhide, lambaste</sg>,;
+<sg>visit upon, pay</sg>,;
+<sg>pay out, serve out</sg>,;
+<sg>do for</sg>,;
+<sg>make short work of, give a lesson to, serve one right, make an example of</sg>,;
+<sg>have a rod in pickle for</sg>,;
+<sg>give it one</sg>,;
+<sg>strike ,<cref> 276 <i>quiescence</i></cref></sg>,;
+<sg>deal a blow to, administer the lash, smite</sg>,;
+<sg>slap, slap the face</sg>,;
+<sg>smack, cuff, box the ears, spank, thwack, thump, beat, lay on, swinge, buffet</sg>,;
+<sg>thresh, thrash, pummel, drub, leather, trounce, sandbag, baste, belabor</sg>,;
+<sg>lace, lace one's jacket</sg>,;
+<sg>dress, dress down, give a dressing, trim, warm, wipe, tund, cob, bang, strap, comb, lash, lick, larrup, wallop, whop, flog, scourge, whip, birch, cane, give the stick, switch, flagellate, horsewhip, bastinado, towel, rub down with an oaken towel, rib roast, dust one's jacket, fustigate, pitch into, lay about one, beat black and blue</sg>,;
+<sg>beat to a mummy, beat to a jelly</sg>,;
+<sg>give a black eye</sg>,;
+<sg>tar and feather</sg>,;
+<sg>pelt, stone, lapidate</sg>,;
+<sg>masthead, keelhaul</sg>,;
+<sg>execute</sg>,;
+<sg>bring to the block, bring to the gallows</sg>,;
+<sg>behead, decapitate, guillotine</sg>,;
+<sg>decollate</sg>,;
+<sg>hang, turn off, gibbet, bowstring, hang draw and quarter</sg>,;
+<sg>shoot</sg>,;
+<sg>decimate</sg>,;
+<sg>burn</sg>,;
+<sg>break on the wheel, crucify</sg>,;
+<sg>empale, impale</sg>,;
+<sg>flay</sg>,;
+<sg>lynch</sg>,;
+<sg>electrocute</sg>,;
+<sg>gas, send to the gas chamber</sg>,;
+<sg>torture</sg>,;
+<sg>put on, put to the rack</sg>,;
+<sg>picket</sg>,;
+<sg>banish, exile, transport, expel, ostracize</sg>,;
+<sg>rusticate</sg>,;
+<sg>drum out</sg>,;
+<sg>dismiss, disbar, disbench</sg>,;
+<sg>strike off the roll, unfrock</sg>,;
+<sg>post</sg>,;
+<sg>suffer, suffer for, suffer punishment</sg>,;
+<sg>be flogged</sg>,;
+<sg>be executed, suffer the ultimate penalty</sg>,;
+<sg>be hanged </sg>,;
+<sg>come to the gallows, mount the gallows, swing, twist in the wind, dance upon nothing, die in one's shoes</sg>,;
+<sg>be rightly served</sg>,;
+<sg>be electrocuted, fry, ride the lightning</sg>,;
+<sg>face the firing squad</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>punishing</sg>,;
+<sg>penal</sg>,;
+<sg>punitory, punitive</sg>,;
+<sg>inflictive, castigatory</sg>,;
+<sg>punished</sg>,;
+<sg>Int</sg>,;
+<sg>a la lanterne! ,</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>culpan paena premit comes</sg>,;
+<sg>eating the bitter bread of banishment</sg>,;
+<sg>gravis ira regum est semper</sg>,;
+<sg>sera tamen tacitis paena venit pedibus</sg>,;
+<sg>suo sibi gladio hunc jugulo</sg>,;
+<br>
+</paragraph>

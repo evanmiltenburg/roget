@@ -1,0 +1,62 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#27#</sectionNumber>
+<headword>#<b>#[001] #662# Instrument #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>instrument, </i>machinery, mechanism, engineering</sg>,;
+<sg>instrument, organ, tool, implement, utensil, machine, engine, lathe, gin, mill</sg>,;
+<sg>air engine, caloric engine, heat engine</sg>,;
+<sg>gear</sg>,;
+<sg>tackle, tackling, rig, rigging, apparatus, appliances</sg>,;
+<sg>plant, materiel</sg>,;
+<sg>harness, trappings, fittings, accouterments</sg>,;
+<sg>barde</sg>,;
+<sg>equipment, equipmentage</sg>,;
+<sg>appointments, furniture, upholstery</sg>,;
+<sg>chattels</sg>,;
+<sg>paraphernalia ,<cref>780 <i>belongings</i></cref></sg>,;
+<sg>mechanical powers</sg>,;
+<sg>lever, leverage</sg>,;
+<sg>mechanical advantage</sg>,;
+<sg>crow, crowbar</sg>,;
+<sg>handspike, gavelock, jemmy, jimmy, arm, limb, wing</sg>,;
+<sg>oar, paddle</sg>,;
+<sg>pulley</sg>,;
+<sg>wheel and axle</sg>,;
+<sg>wheelwork, clockwork</sg>,;
+<sg>wheels within wheels</sg>,;
+<sg>pinion, crank, winch</sg>,;
+<sg>cam</sg>,;
+<sg>pedal</sg>,;
+<sg>capstan ,<cref>307 <i>lift</i></cref></sg>,;
+<sg>wheel ,<cref>312 <i>rotation</i></cref></sg>,;
+<sg>inclined plane</sg>,;
+<sg>wedge</sg>,;
+<sg>screw</sg>,;
+<sg>spring, mainspring</sg>,;
+<sg>can hook, glut, heald, heddle, jenny, parbuckle, sprag, water wheel</sg>,;
+<sg>handle, hilt, haft, shaft, heft, shank, blade, trigger, tiller, helm, treadle, key</sg>,;
+<sg>turnscrew, screwdriver</sg>,;
+<sg>knocker</sg>,;
+<sg>hammer ,<cref>276 <i>impulse</i></cref></sg>,;
+<sg>edge tool ,<cref>253 <i>cut</i></cref></sg>,;
+<sg>borer ,<cref> 262 <i>concavity</i></cref></sg>,;
+<sg>vice, teeth, ,<cref>781 <i>hold</i></cref></sg>,;
+<sg>nail, rope ,<cref>45 <i>join</i></cref></sg>,;
+<sg>peg ,<cref>214 <i>hang</i></cref></sg>,;
+<sg>support ,<cref> 215 <i>height</i></cref></sg>,;
+<sg>spoon ,<cref>272 <i>vehicle</i></cref></sg>,;
+<sg>arms ,<cref> 727 <i>skill</i></cref></sg>,;
+<sg>oar ,<cref>267 <i>navigation</i></cref></sg>,;
+<sg>cardiograph, recapper, snowplow, tenpenny, votograph</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>instrumental ,<cref> 631 <i>perseverance</i></cref></sg>,;
+<sg>mechanical, machinal</sg>,;
+<sg>brachial</sg>,;
+<br>
+</paragraph>

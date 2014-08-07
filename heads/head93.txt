@@ -1,0 +1,41 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#5#</sectionNumber>
+<headword>#<b>#[001] #93# Duality #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>duality, </i>dualism</sg>,;
+<sg>duplicity</sg>,;
+<sg>biplicity, biformity</sg>,;
+<sg>polarity</sg>,;
+<sg>two, deuce, couple, duet, brace, pair, cheeks, twins, Castor and Pollux, gemini, Siamese twins</sg>,;
+<sg>fellows</sg>,;
+<sg>yoke, conjugation</sg>,;
+<sg>dispermy, doublets, dyad, span</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>pair, couple, bracket, yoke</sg>,;
+<sg>conduplicate</sg>,;
+<sg>mate, span</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>two, twin</sg>,;
+<sg>dual, dualistic, double</sg>,;
+<sg>binary, binomial</sg>,;
+<sg>twin, biparous</sg>,;
+<sg>dyadic</sg>,;
+<sg>conduplicate</sg>,;
+<sg>duplex ,<cref> 90 <i>list</i></cref></sg>,;
+<sg>biduous, binate, diphyletic, dispermic, unijugate</sg>,;
+<sg>tete-a-tete</sg>,;
+<sg>coupled</sg>,;
+<sg>conjugate</sg>,;
+<sg>both, both the one and the other</sg>,;
+<br>
+</paragraph>

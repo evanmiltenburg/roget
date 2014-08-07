@@ -1,0 +1,73 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#38#</sectionNumber>
+<headword>#<b>#[001] #976# Detraction #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>detraction, </i>disparagement, depreciation, vilification, obloquy, scurrility, scandal, defamation, aspersion, traducement, slander, calumny, obtrectation, evil-speaking, backbiting, scandalum magnatum</sg>,;
+<sg>personality, libel, lampoon, skit, pasquinade</sg>,;
+<sg>chronique scandaleuse</sg>,;
+<sg>roorback</sg>,;
+<sg>sarcasm, cynicism</sg>,;
+<sg>criticism (disapprobation) 932</sg>,;
+<sg>invective ,<cref> 932 <i>exclusion</i></cref></sg>,;
+<sg>envenomed tongue</sg>,;
+<sg>spretae injuria formae</sg>,;
+<sg>personality, libel, lampoon, skit, pasquinade</sg>,;
+<sg>chronique scandaleuse</sg>,;
+<sg>roorback</sg>,;
+<sg>detractor ,<cref> 936 <i>love</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>detract, derogate, decry, deprecate, depreciate, disparage</sg>,;
+<sg>run down, cry down</sg>,;
+<sg>backcap</sg>,;
+<sg>belittle</sg>,;
+<sg>sneer at ,<cref>930 <i>contempt</i></cref></sg>,;
+<sg>criticize, pull to pieces, pick a hole in one's coat, asperse, cast aspersions, blow upon, bespatter, blacken, vilify, vilipend</sg>,;
+<sg>avile</sg>,;
+<sg>give a dog a bad name, brand, malign</sg>,;
+<sg>muckrake</sg>,;
+<sg>backbite, libel, lampoon, traduce, slander, defame, calumniate, bear false witness against</sg>,;
+<sg>speak ill of behind one's back</sg>,;
+<sg>fling dirt ,<cref>929 <i>disrespect</i></cref></sg>,;
+<sg>anathematize ,<cref> 932 <i>exclusion</i></cref></sg>,;
+<sg>dip the pen in gall, view in a bad light</sg>,;
+<sg>impugn (disparage the motives of)</sg>,;
+<sg>assail, attack ,<cref> 716 <i>repose</i></cref></sg>,;
+<sg>oppose ,<cref> 708 <i>misuse</i></cref></sg>,;
+<sg>denounce, accuse ,<cref> 938 <i>favorite</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>detracting</sg>,;
+<sg>defamatory, detractory, derogatory, deprecatory</sg>,;
+<sg>catty</sg>,;
+<sg>disparaging, libelous</sg>,;
+<sg>scurrile, scurrilous</sg>,;
+<sg>abusive</sg>,;
+<sg>foul- spoken, foul-tongued, foul-mouthed</sg>,;
+<sg>slanderous</sg>,;
+<sg>calumnious, calumniatory</sg>,;
+<sg>sarcastic, sardonic</sg>,;
+<sg>sarcastic, satirical, cynical</sg>,;
+<sg>critical ,<cref> 932 <i>exclusion</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>damn with faint praise, assent with civil leer</sg>,;
+<sg>and without sneering, teach the rest to sneer</sg>,;
+<sg>another lie nailed to the counter</sg>,;
+<sg>cut men's throats with whisperings</sg>,;
+<sg>foul whisperings are abroad</sg>,;
+<sg>soft-buzzing slander</sg>,;
+<sg>virtue itself 'scapes not calumnious strokes</sg>,;
+<br>
+</paragraph>

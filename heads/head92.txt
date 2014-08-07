@@ -1,0 +1,64 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#5#</sectionNumber>
+<headword>#<b>#[001] #92# Accompaniment #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>accompaniment</i></sg>,;
+<sg>adjunct ,<cref> 39 <i>addition</i></cref></sg>,;
+<sg>context</sg>,;
+<sg>appendage, appurtenance</sg>,;
+<sg>coexistence, concomitance, company, association, companionship</sg>,;
+<sg>partnership, copartnership</sg>,;
+<sg>coefficiency</sg>,;
+<sg>concomitant, accessory, coefficient</sg>,;
+<sg>companion, buddy, attendant, fellow, associate, friend, colleague</sg>,;
+<sg>consort, spouse, mate</sg>,;
+<sg>partner, co-partner</sg>,;
+<sg>satellite, hanger on, fellow-traveller, shadow</sg>,;
+<sg>escort, cortege</sg>,;
+<sg>attribute</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>accompany, coexist, attend</sg>,;
+<sg>hang on, wait on</sg>,;
+<sg>go hand in hand with</sg>,;
+<sg>synchronize ,<cref> 120 <i>chronometry</i></cref></sg>,;
+<sg>bear company, keep company</sg>,;
+<sg>row in the same boat</sg>,;
+<sg>bring in its train</sg>,;
+<sg>associate with, couple with</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>accompanying</sg>,;
+<sg>concomitant, fellow, twin, joint</sg>,;
+<sg>associated with, coupled with</sg>,;
+<sg>accessory, attendant, obbligato</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>with, withal</sg>,;
+<sg>together with, along with, in company with</sg>,;
+<sg>hand in hand, side by side</sg>,;
+<sg>cheek by jowl, cheek by jole</sg>,;
+<sg>arm in arm</sg>,;
+<sg>therewith, herewith</sg>,;
+<sg>and ,<cref>37 <i>addition</i></cref></sg>,;
+<sg>together, in a body, collectively</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>noscitur a sociis</sg>,;
+<sg>virtutis fortuna comes</sg>,;
+<br>
+</paragraph>

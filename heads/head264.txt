@@ -1,0 +1,104 @@
+<classNumber>#2#</classNumber>
+<sectionNumber>#11#</sectionNumber>
+<headword>#<b>#[001] #264# Sharpness #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>sharpness</i></sg>,;
+<sg>acuity, acumination</sg>,;
+<sg>spinosity</sg>,;
+<sg>point, spike, spine, spicule, spiculum</sg>,;
+<sg>needle, hypodermic needle, tack, nail, pin</sg>,;
+<sg>prick, prickle</sg>,;
+<sg>spur, rowel, barb</sg>,;
+<sg>spit, cusp</sg>,;
+<sg>horn, antler</sg>,;
+<sg>snag</sg>,;
+<sg>tag thorn, bristle</sg>,;
+<sg>Adam's needle, bear grass, tine, yucca</sg>,;
+<sg>nib, tooth, tusk</sg>,;
+<sg>spoke, cog, ratchet</sg>,;
+<sg>crag, crest, arete, cone peak, sugar loaf, pike, aiguille</sg>,;
+<sg>spire, pyramid, steeple</sg>,;
+<sg>beard, chevaux de frise, porcupine, hedgehog, brier, bramble, thistle</sg>,;
+<sg>comb</sg>,;
+<sg>awn, beggar's lice, bur, burr, catchweed, cleavers, clivers, goose, grass, hairif, hariff, flax comb, hackle, hatchel, heckle</sg>,;
+<sg>wedge</sg>,;
+<sg>knife edge, cutting edge</sg>,;
+<sg>blade, edge tool, cutlery, knife, penknife, whittle, razor, razor blade, safety razor, straight razor, electric razor</sg>,;
+<sg>scalpel</sg>,;
+<sg>bistoury, lancet</sg>,;
+<sg>plowshare, coulter, colter</sg>,;
+<sg>hatchet, ax, pickax, mattock, pick, adze, gill</sg>,;
+<sg>billhook, cleaver, cutter</sg>,;
+<sg>scythe, sickle</sg>,;
+<sg>scissors, shears, pruning shears, cutters, wire cutters, nail clipper, paper cutter</sg>,;
+<sg>sword ,<cref>727 <i>arms</i></cref></sg>,;
+<sg>bodkin ,<cref>262 <i>perforator</i></cref></sg>,;
+<sg>belduque, bowie knife, paring knife</sg>,;
+<sg>bushwhacker</sg>,;
+<sg>drawing knife, drawing shave</sg>,;
+<sg>microtome</sg>,;
+<sg>chisel, screwdriver blade</sg>,;
+<sg>flint blade</sg>,;
+<sg>guillotine</sg>,;
+<sg>sharpener, hone, strop</sg>,;
+<sg>grindstone, whetstone</sg>,;
+<sg>novaculite</sg>,;
+<sg>steel, emery</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be sharp</sg>,;
+<sg>taper to a point</sg>,;
+<sg>bristle with</sg>,;
+<sg>render sharp</sg>,;
+<sg>sharpen, point, aculeate, whet, barb, spiculate, set, strop, grind</sg>,;
+<sg>chip (flint)</sg>,;
+<sg>cut ,<cref>44 <i>sunder</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>sharp, keen</sg>,;
+<sg>acute</sg>,;
+<sg>acicular, aciform</sg>,;
+<sg>aculeated, acuminated</sg>,;
+<sg>pointed</sg>,;
+<sg>tapering</sg>,;
+<sg>conical, pyramidal</sg>,;
+<sg>mucronate, mucronated</sg>,;
+<sg>spindle shaped, needle shaped</sg>,;
+<sg>spiked, spiky, ensiform, peaked, salient</sg>,;
+<sg>cusped, cuspidate, cuspidated</sg>,;
+<sg>cornute, cornuted, cornicultate</sg>,;
+<sg>prickly</sg>,;
+<sg>spiny, spinous, spicular</sg>,;
+<sg>thorny, bristling, muricated, pectinated, studded, thistly, briary</sg>,;
+<sg>craggy ,<cref>256 <i>rough</i></cref></sg>,;
+<sg>snaggy, digitated, two-edged, fusiform</sg>,;
+<sg>dentiform, denticulated</sg>,;
+<sg>toothed</sg>,;
+<sg>odontoid</sg>,;
+<sg>starlike</sg>,;
+<sg>stellated, stelliform</sg>,;
+<sg>sagittate, sagittiform</sg>,;
+<sg>arrowheaded</sg>,;
+<sg>arrowy, barbed, spurred</sg>,;
+<sg>acinaciform</sg>,;
+<sg>apiculate, apiculated</sg>,;
+<sg>aristate, awned, awny, bearded, calamiform, cone-shaped, coniform, crestate, echinate, gladiate</sg>,;
+<sg>lanceolate, lanciform</sg>,;
+<sg>awl, awl-shaped, lance-shaped, awl- shaped, scimitar-shaped, sword-shaped</sg>,;
+<sg>setarious, spinuliferous, subulate, tetrahedral, xiphoid</sg>,;
+<sg>cutting</sg>,;
+<sg>sharp edged, knife edged</sg>,;
+<sg>sharp as a razor, keen as a razor</sg>,;
+<sg>sharp as a needle, sharp as a tack</sg>,;
+<sg>sharpened</sg>,;
+<sg>set</sg>,;
+<br>
+</paragraph>

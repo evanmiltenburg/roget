@@ -1,0 +1,59 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#6#</sectionNumber>
+<headword>#<b>#[001] #142# Untimeliness #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>untimeliness, </i>intempestivity, unseasonableness, inexpedience</sg>,;
+<sg>unsuitable time, improper time</sg>,;
+<sg>unreasonableness</sg>,;
+<sg>evil hour</sg>,;
+<sg>contretemps</sg>,;
+<sg>intrusion</sg>,;
+<sg>anachronism ,<cref> 115 <i>course</i></cref></sg>,;
+<sg>bad time, wrong time, inappropriate time, not the right occasion, unsuitable time, inopportune time, poor timing</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be ill timed</sg>,;
+<sg>mistime, intrude, come amiss, break in upon</sg>,;
+<sg>have other fish to fry</sg>,;
+<sg>be busy, be occupied</sg>,;
+<sg>lose an opportunity, throw away an opportunity, waste an opportunity, neglect an opportunity ,<cref> 460 <i>vision</i></cref></sg>,;
+<sg>allow the opportunity to pass, suffer the opportunity to pass, allow the opportunity to slip, suffer the opportunity to slip, allow the opportunity to go by, suffer the opportunity to go by, allow the opportunity to escape, suffer the opportunity to escape, allow the opportunity to lapse, suffer the opportunity to lapse, allow the occasion to pass, allow the occasion to slip by</sg>,;
+<sg>waste time ,<cref>683 <i>be inactive</i></cref></sg>,;
+<sg>let slip through the fingers, lock the barn door after the horse is stolen</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>ill-timed, mistimed</sg>,;
+<sg>ill-fated, ill-omened, ill-starred</sg>,;
+<sg>untimely, unseasonable</sg>,;
+<sg>out of date, out of season</sg>,;
+<sg>inopportune, timeless, intrusive, untoward, mal a propos, unlucky, inauspicious, infelicitous, unbefitting, unpropitious, unfortunate, unfavorable</sg>,;
+<sg>unsuited ,<cref> 24 <i>prototype</i></cref></sg>,;
+<sg>inexpedient ,<cref> 647 <i>good</i></cref></sg>,;
+<sg>unpunctual ,<cref>133 <i>late</i></cref></sg>,;
+<sg>too late for</sg>,;
+<sg>premature ,<cref>132 <i>early</i></cref></sg>,;
+<sg>too soon for</sg>,;
+<sg>wise after the event, monday morning quarterbacking, twenty-twenty hindsight</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>inopportunely</sg>,;
+<sg>as ill luck would have it, in an evil hour, the time having gone by, a day after the fair</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>after death the doctor, after meat mustard</sg>,;
+<br>
+</paragraph>

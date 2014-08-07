@@ -1,0 +1,78 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#8#</sectionNumber>
+<headword>#<b>#[001] #167# Weakness #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>weakness</i></sg>,;
+<sg>debility, atony, relaxation, languor, enervation</sg>,;
+<sg>impotence ,<cref> 158 <i>eventuality</i></cref></sg>,;
+<sg>infirmity</sg>,;
+<sg>effeminacy, feminality</sg>,;
+<sg>fragility, flaccidity</sg>,;
+<sg>inactivity ,<cref> 683 <i>health</i></cref></sg>,;
+<sg>anaemia, bloodlessness, deficiency of blood, poverty of blood</sg>,;
+<sg>declension of strength, loss of strength, failure of strength</sg>,;
+<sg>delicacy, invalidation, decrepitude, asthenia, adynamy, cachexy, cachexia, sprain, strain</sg>,;
+<sg>reed, thread, rope of sand, house of cards</sg>,;
+<sg>softling, weakling</sg>,;
+<sg>infant ,<cref> 129 <i>newness</i></cref></sg>,;
+<sg>youth ,<cref> 127 <i>futurity</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be weak</sg>,;
+<sg>drop, crumble, give way, totter, tremble, shake, halt, limp, fade, languish, decline, flag, fail, have one leg in the grave</sg>,;
+<sg>render weak</sg>,;
+<sg>weaken, enfeeble, debilitate, shake, deprive of strength, relax, enervate, eviscerate</sg>,;
+<sg>unbrace, unnerve</sg>,;
+<sg>cripple, unman ,<cref>158 <i>render powerless</i></cref></sg>,;
+<sg>cramp, reduce, sprain, strain, blunt the edge of</sg>,;
+<sg>dilute, impoverish</sg>,;
+<sg>decimate</sg>,;
+<sg>extenuate</sg>,;
+<sg>reduce in strength, reduce the strength of</sg>,;
+<sg>mettre de l'eau dans son vin</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>weak, feeble, debile</sg>,;
+<sg>impotent ,<cref> 158 <i>eventuality</i></cref></sg>,;
+<sg>relaxed, unnerved,</sg>,;
+<sg>sapless, strengthless, powerless</sg>,;
+<sg>weakly, unstrung, flaccid, adynamic, asthenic</sg>,;
+<sg>nervous</sg>,;
+<sg>soft, effeminate, feminate, womanly</sg>,;
+<sg>frail, fragile, shattery</sg>,;
+<sg>flimsy, unsubstantial, insubstantial, gimcrack, gingerbread</sg>,;
+<sg>rickety, creaky, creaking, cranky</sg>,;
+<sg>craichy</sg>,;
+<sg>drooping, tottering</sg>,;
+<sg>broken, lame, withered, shattered, shaken, crazy, shaky</sg>,;
+<sg>palsied ,<cref> 158 <i>eventuality</i></cref></sg>,;
+<sg>decrepit</sg>,;
+<sg>languid, poor, infirm</sg>,;
+<sg>faint, faintish</sg>,;
+<sg>sickly ,<cref>655 <i>disease</i></cref></sg>,;
+<sg>dull, slack, evanid, spent, short-winded, effete</sg>,;
+<sg>weather-beaten</sg>,;
+<sg>decayed, rotten, worn, seedy, languishing, wasted, washy, laid low, pulled down, the worse for wear</sg>,;
+<sg>unstrengthened ,<cref> 159 <i>destiny</i></cref>, unsupported, unaided, unassisted</sg>,;
+<sg>aidless, defenseless ,<cref> 158 <i>eventuality</i></cref></sg>,;
+<sg>cantilevered (support) 215</sg>,;
+<sg>on its last legs</sg>,;
+<sg>weak as a child, weak as a baby, weak as a chicken, weak as a cat, weak as a rat</sg>,;
+<sg>weak as water, weak as water gruel, weak as gingerbread, weak as milk and water</sg>,;
+<sg>colorless ,<cref> 429 <i>cry</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>non sum qualis eram</sg>,;
+<br>
+</paragraph>

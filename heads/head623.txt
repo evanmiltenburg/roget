@@ -1,0 +1,84 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#25#</sectionNumber>
+<headword>#<b>#[001] #623# Poetry #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>poetry, </i>poetics, poesy, Muse, Calliope, tuneful Nine, Parnassus, Helicon, Pierides, Pierian spring</sg>,;
+<sg>versification, rhyming, making verses</sg>,;
+<sg>prosody, orthometry</sg>,;
+<sg>poem</sg>,;
+<sg>epic, epic poem</sg>,;
+<sg>epopee, epopoea, ode, epode, idyl, lyric, eclogue, pastoral, bucolic, dithyramb, anacreontic, sonnet, roundelay, rondeau, rondo, madrigal, canzonet, cento, monody, elegy</sg>,;
+<sg>amoebaeum, ghazal, palinode</sg>,;
+<sg>dramatic poetry, lyric poetry</sg>,;
+<sg>opera</sg>,;
+<sg>posy, anthology</sg>,;
+<sg>disjecta membra poetae song, ballad, lay</sg>,;
+<sg>love song, drinking song, war song, sea song</sg>,;
+<sg>lullaby</sg>,;
+<sg>music ,<cref> 415 <i>inodorousness</i></cref></sg>,;
+<sg>nursery rhymes</sg>,;
+<sg>doggerel, Hudibrastic verse, prose run mad</sg>,;
+<sg>macaronics</sg>,;
+<sg>macaronic verse, leonine verse</sg>,;
+<sg>runes</sg>,;
+<sg>canto, stanza, distich, verse, line, couplet, triplet, quatrain</sg>,;
+<sg>strophe, antistrophe</sg>,;
+<sg>verse, rhyme, assonance, crambo, meter, measure, foot, numbers, strain, rhythm</sg>,;
+<sg>accentuation ,<cref>580 <i>voice</i></cref></sg>,;
+<sg>dactyl, spondee, trochee, anapest </sg>,;
+<sg>hexameter, pentameter</sg>,;
+<sg>Alexandrine</sg>,;
+<sg>anacrusis, antispast, blank verse, ictus</sg>,;
+<sg>elegiacs</sg>,;
+<sg>elegiac verse, elegaic meter, elegaic poetry</sg>,;
+<sg>poet, poet laureate</sg>,;
+<sg>laureate</sg>,;
+<sg>bard, lyrist, scald, skald, troubadour, trouvere</sg>,;
+<sg>minstrel</sg>,;
+<sg>minnesinger, meistersinger</sg>,;
+<sg>improvisatore</sg>,;
+<sg>versifier, sonneteer</sg>,;
+<sg>rhymer, rhymist, rhymester</sg>,;
+<sg>ballad monger, runer</sg>,;
+<sg>poetaster</sg>,;
+<sg>genus irritabile vatum</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>poetize, sing, versify, make verses, rhyme, scan</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>poetic, poetical</sg>,;
+<sg>lyric, lyrical, tuneful, epic, dithyrambic</sg>,;
+<sg>metrical</sg>,;
+<sg>a catalectin</sg>,;
+<sg>elegiac, iambic, trochaic, anapestic</sg>,;
+<sg>amoebaeic, Melibean, skaldic</sg>,;
+<sg>Ionic, Sapphic, Alcaic, Pindaric</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>a poem round and perfect as a star</sg>,;
+<sg>Dichtung und Wahrheit</sg>,;
+<sg>furor poeticus</sg>,;
+<sg>his virtues formed the magic of his song</sg>,;
+<sg>I do but sing because I must</sg>,;
+<sg>I learnt life from the poets</sg>,;
+<sg>licentia vatum</sg>,;
+<sg>mutum est pictura poema</sg>,;
+<sg>O for a muse of fire!</sg>,;
+<sg>sweet food of sweetly uttered knowledge</sg>,;
+<sg>the true poem is the poet's mind</sg>,;
+<sg>Volk der Dichter und Denker</sg>,;
+<sg>wisdom married to immortal verse</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,21 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#15#</sectionNumber>
+<headword>#<b>#[001] #376# Animality #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>animality, </i>animal life</sg>,;
+<sg>animation, animality, animalization</sg>,;
+<sg>animalness, corporeal nature, human system</sg>,;
+<sg>breath</sg>,;
+<sg>flesh, flesh and blood</sg>,;
+<sg>physique</sg>,;
+<sg>strength ,<cref> 159 <i>destiny</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>fleshly, human, corporeal</sg>,;
+<br>
+</paragraph>

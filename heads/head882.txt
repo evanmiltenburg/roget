@@ -1,0 +1,24 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#36#</sectionNumber>
+<headword>#<b>#[001] #882# Humorist #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>humorist, </i>wag, wit, reparteeist, epigrammatist, punster</sg>,;
+<sg>bel esprit, life of the party</sg>,;
+<sg>wit-snapper, wit-cracker, wit- worm</sg>,;
+<sg>joker, jester, Joe Miller, drole de corps, gaillard, spark</sg>,;
+<sg>bon diable</sg>,;
+<sg>practical joker</sg>,;
+<sg>buffoon, farceur, merry-andrew, mime, tumbler, acrobat, mountebank, charlatan, posturemaster, harlequin, punch, pulcinella, scaramouch, clown</sg>,;
+<sg>wearer of the cap and bells, wearer of the motley</sg>,;
+<sg>motley fool</sg>,;
+<sg>pantaloon, gypsy</sg>,;
+<sg>jack-pudding, jack in the green, jack a dandy</sg>,;
+<sg>wiseacre, wise guy, smartass</sg>,;
+<sg>fool ,<cref> 501 <i>demonstration</i></cref></sg>,;
+<sg>zany, madcap</sg>,;
+<sg>pickle-herring, witling, caricaturist, grimacier</sg>,;
+<sg>persifleur</sg>,;
+<br>
+</paragraph>

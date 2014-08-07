@@ -1,0 +1,74 @@
+<classNumber>#2#</classNumber>
+<sectionNumber>#12#</sectionNumber>
+<headword>#<b>#[001] #281# Transference #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>transfer, transference</sg>,;
+<sg>translocation, elocation</sg>,;
+<sg>displacement</sg>,;
+<sg>metastasis, metathesis</sg>,;
+<sg>removal</sg>,;
+<sg>remotion, amotion</sg>,;
+<sg>relegation</sg>,;
+<sg>deportation, asportation</sg>,;
+<sg>extradition, conveyance, draft, carrying, carriage</sg>,;
+<sg>convection, conduction, contagion</sg>,;
+<sg>transfer ,<cref>783 <i>of property</i></cref></sg>,;
+<sg>transit, transition</sg>,;
+<sg>passage, ferry, gestation</sg>,;
+<sg>portage, porterage, carting, cartage</sg>,;
+<sg>shoveling</sg>,;
+<sg>vection, vecture, vectitation</sg>,;
+<sg>shipment, freight, wafture</sg>,;
+<sg>transmission, transport, transportation, importation, exportation, transumption, transplantation, translation</sg>,;
+<sg>shifting, dodging</sg>,;
+<sg>dispersion ,<cref> 73 <i>continuity</i></cref></sg>,;
+<sg>transposition ,<cref>148 <i>interchange</i></cref></sg>,;
+<sg>traction ,<cref> 285 <i>velocity</i></cref></sg>,;
+<sg>drift</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>transfer, transmit, transport, transplace, transplant, translocate</sg>,;
+<sg>convey, carry, bear, fetch and carry</sg>,;
+<sg>carry over, ferry over</sg>,;
+<sg>hand pass, forward</sg>,;
+<sg>shift</sg>,;
+<sg>conduct, convoy, bring, fetch, reach</sg>,;
+<sg>tote</sg>,;
+<sg>port, import, export</sg>,;
+<sg>send, delegate, consign, relegate, turn over to, deliver</sg>,;
+<sg>ship, embark</sg>,;
+<sg>waft</sg>,;
+<sg>shunt</sg>,;
+<sg>transpose ,<cref>148 <i>interchange</i></cref></sg>,;
+<sg>displace ,<cref> 185 <i>liability</i></cref></sg>,;
+<sg>throw ,<cref> 284 <i>ship</i></cref></sg>,;
+<sg>drag ,<cref> 285 <i>velocity</i></cref></sg>,;
+<sg>mail, post</sg>,;
+<sg>shovel, ladle, decant, draft off, transfuse, infuse, siphon</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>transferred</sg>,;
+<sg>drifted, movable</sg>,;
+<sg>portable, portative</sg>,;
+<sg>mailable</sg>,;
+<sg>contagious</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>from hand to hand, from pillar to post</sg>,;
+<sg>on the way, by the way</sg>,;
+<sg>on the road, on the wing, under way, in transit, on course</sg>,;
+<sg>as one goes</sg>,;
+<sg>in transitu, en route, chemin faisant, en passant, in mid progress, in mid course</sg>,;
+<br>
+</paragraph>

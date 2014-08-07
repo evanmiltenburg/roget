@@ -1,0 +1,41 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#27#</sectionNumber>
+<headword>#<b>#[001] #698# Alarm #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>alarm</i></sg>,;
+<sg>alarum, larum, alarm bell, tocsin, alerts, beat of drum, sound of trumpet, note of alarm, hue and cry, fire cross, signal of distress</sg>,;
+<sg>blue lights</sg>,;
+<sg>war-cry, war- whoop</sg>,;
+<sg>warning ,<cref> 668 <i>sufficiency</i></cref></sg>,;
+<sg>fogsignal, foghorn</sg>,;
+<sg>yellow flag</sg>,;
+<sg>danger signal</sg>,;
+<sg>red light, red flag</sg>,;
+<sg>fire bell</sg>,;
+<sg>police whistle</sg>,;
+<sg>false alarm, cry of wolf</sg>,;
+<sg>bug-bear, bugaboo</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>give the alarm, raise the alarm, sound the alarm, turn in the alarm, beat the alarm, give an alarm, raise an alarm, sound an alarm, turn in an alarm, beat an alarm</sg>,;
+<sg>alarm</sg>,;
+<sg>warn ,<cref> 668 <i>sufficiency</i></cref></sg>,;
+<sg>ring the tocsin</sg>,;
+<sg>battre la generale</sg>,;
+<sg>cry wolf</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>alarming</sg>,;
+<sg>Int</sg>,;
+<sg>sauve qui peut!, every man for himself!</sg>,;
+<sg>qui vive?</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,74 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#25#</sectionNumber>
+<headword>#<b>#[001] #620# Description #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>description, </i>account, statement, report</sg>,;
+<sg>expose ,<cref>529 <i>disclosure</i></cref></sg>,;
+<sg>specification, particulars</sg>,;
+<sg>state of facts, summary of facts</sg>,;
+<sg>brief ,<cref>596 <i>abstract</i></cref></sg>,;
+<sg>return ,<cref>551 <i>record</i></cref></sg>,;
+<sg>catalogue raisonne ,<cref>86 <i>list</i></cref></sg>,;
+<sg>guidebook ,<cref>527 <i>information</i></cref></sg>,;
+<sg>delineation ,<cref>554 <i>representation</i></cref></sg>,;
+<sg>sketch</sg>,;
+<sg>monograph</sg>,;
+<sg>minute account, detailed particular account, circumstantial account, graphic account</sg>,;
+<sg>narration, recital, rehearsal, relation</sg>,;
+<sg>historiography, chronography</sg>,;
+<sg>historic Muse, Clio</sg>,;
+<sg>history</sg>,;
+<sg>biography, autobiography</sg>,;
+<sg>necrology, obituary</sg>,;
+<sg>narrative, history</sg>,;
+<sg>memoir, memorials</sg>,;
+<sg>annals ,<cref>551 <i>chronicle</i></cref></sg>,;
+<sg>saga</sg>,;
+<sg>tradition, legend, story, tale, historiette</sg>,;
+<sg>personal narrative, journal, life, adventures, fortunes, experiences, confessions</sg>,;
+<sg>anecdote, ana, trait</sg>,;
+<sg>work of fiction, novel, romance, Minerva press</sg>,;
+<sg>fairy tale, nursery tale</sg>,;
+<sg>fable, parable, apologue</sg>,;
+<sg>dime novel, penny dreadful, shilling shocker relator</sg>,;
+<sg>raconteur, historian ,<cref>553 <i>recorder</i></cref></sg>,;
+<sg>biographer, fabulist, novelist</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>describe</sg>,;
+<sg>set forth ,<cref>535 <i>state</i></cref></sg>,;
+<sg>draw a picture, picture</sg>,;
+<sg>portray ,<cref>554 <i>represent</i></cref></sg>,;
+<sg>characterize, particularize</sg>,;
+<sg>narrate, relate, recite, recount, sum up, run over, recapitulate, rehearse, fight one's battles over again</sg>,;
+<sg>unfold a tale ,<cref>529 <i>disclose</i></cref></sg>,;
+<sg>tell</sg>,;
+<sg>give an account of, render an account of</sg>,;
+<sg>report, make a report, draw up a statement</sg>,;
+<sg>detail</sg>,;
+<sg>enter into particulars, enter into details, descend to particulars, descend to details</sg>,;
+<sg>itemize</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>descriptive, graphic, narrative, epic, suggestive, well-drawn</sg>,;
+<sg>historic</sg>,;
+<sg>traditional, traditionary</sg>,;
+<sg>legendary</sg>,;
+<sg>anecdotic, storied</sg>,;
+<sg>described</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>furor scribendi</sg>,;
+<br>
+</paragraph>

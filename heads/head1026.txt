@@ -1,0 +1,29 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#39#</sectionNumber>
+<headword>#<b>#[001] #1026# Theology #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>theology</i> (natural and revealed)</sg>,;
+<sg>theogony, theosophy</sg>,;
+<sg>divinity</sg>,;
+<sg>hagiology, hagiography</sg>,;
+<sg>Caucasian mystery</sg>,;
+<sg>monotheism</sg>,;
+<sg>religion</sg>,;
+<sg>religious persuasion, religious sect, religious denomination</sg>,;
+<sg>creed ,<cref>484 <i>belief</i></cref></sg>,;
+<sg>article of faith, declaration of faith, profession of faith, confession of faith</sg>,;
+<sg>theologue, theologian</sg>,;
+<sg>scholastic, divine, schoolman, canonist, theologist</sg>,;
+<sg>the Fathers</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>theological, religious</sg>,;
+<sg>denominational</sg>,;
+<sg>sectarian ,<cref> 984 <i>disinterestedness</i></cref></sg>,;
+<br>
+</paragraph>

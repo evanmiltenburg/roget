@@ -1,0 +1,110 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#3#</sectionNumber>
+<headword>#<b>#[001] #55# Completeness #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>completeness</i></sg>,;
+<sg>completion ,<cref> 729 <i>proficient</i></cref></sg>,;
+<sg>integration</sg>,;
+<sg>allness</sg>,;
+<sg>entirety</sg>,;
+<sg>perfection ,<cref> 650 <i>chance</i></cref></sg>,;
+<sg>solidity, solidarity</sg>,;
+<sg>unity</sg>,;
+<sg>all</sg>,;
+<sg>ne plus ultra, ideal, limit</sg>,;
+<sg>complement, supplement, make-weight</sg>,;
+<sg>filling, up</sg>,;
+<sg>impletion</sg>,;
+<sg>saturation, saturity</sg>,;
+<sg>high water</sg>,;
+<sg>high tide, flood tide, spring tide</sg>,;
+<sg>fill, load, bumper, bellyful</sg>,;
+<sg>brimmer</sg>,;
+<sg>sufficiency ,<cref> 639 <i>predetermination</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be complete</sg>,;
+<sg>come to a head</sg>,;
+<sg>render complete</sg>,;
+<sg>complete ,<cref>729 <i>accomplish</i></cref></sg>,;
+<sg>fill, charge, load, replenish</sg>,;
+<sg>make up, make good</sg>,;
+<sg>piece out, eke out</sg>,;
+<sg>supply deficiencies</sg>,;
+<sg>fill up, fill in, fill to the brim, fill the measure of</sg>,;
+<sg>saturate</sg>,;
+<sg>go the whole hog, go the whole length</sg>,;
+<sg>go all lengths</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>complete, entire</sg>,;
+<sg>whole ,<cref> 50 <i>incoherence</i></cref></sg>,;
+<sg>perfect ,<cref> 650 <i>chance</i></cref></sg>,;
+<sg>full, good, absolute, thorough, plenary</sg>,;
+<sg>solid, undivided</sg>,;
+<sg>with all its parts</sg>,;
+<sg>all- sided</sg>,;
+<sg>exhaustive, radical, sweeping, thorough-going</sg>,;
+<sg>dead</sg>,;
+<sg>regular, consummate, unmitigated, sheer, unqualified, unconditional, free</sg>,;
+<sg>abundant ,<cref>639 <i>sufficient</i></cref></sg>,;
+<sg>brimming</sg>,;
+<sg>brimful, topful, topfull</sg>,;
+<sg>chock full, choke full</sg>,;
+<sg>as full as an egg is of meat, as full as a vetch</sg>,;
+<sg>saturated, crammed</sg>,;
+<sg>replete ,<cref>641 <i>redundant</i></cref></sg>,;
+<sg>fraught, laden</sg>,;
+<sg>full-laden, full-fraught, full-charged</sg>,;
+<sg>heavy laden</sg>,;
+<sg>completing</sg>,;
+<sg>supplemental, supplementary</sg>,;
+<sg>ascititious</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>completely</sg>,;
+<sg>altogether, outright, wholly, totally, in toto, quite</sg>,;
+<sg>all out</sg>,;
+<sg>over head and ears</sg>,;
+<sg>effectually, for good and all, nicely, fully, through thick and thin, head and shoulders</sg>,;
+<sg>neck and heel, neck and crop</sg>,;
+<sg>in all respects, in every respect</sg>,;
+<sg>at all points, out and out, to all intents and purposes</sg>,;
+<sg>toto coelo</sg>,;
+<sg>utterly</sg>,;
+<sg>clean, clean as a whistle</sg>,;
+<sg>to the full, to the utmost, to the backbone</sg>,;
+<sg>hollow, stark</sg>,;
+<sg>heart and soul, root and branch, down to the ground</sg>,;
+<sg>to the top of one's bent, as far as possible, a outrance</sg>,;
+<sg>throughout</sg>,;
+<sg>from first to last, from beginning to end, from end to end, from one end to the other, from Dan to Beersheba, from head to foot, from top to toe, from top to bottom, de fond en comble</sg>,;
+<sg>a fond, a capite ad calcem, ab ovo usque ad mala, fore and aft</sg>,;
+<sg>every, whit, every inch</sg>,;
+<sg>cap-a-pie, to the end of the chapter</sg>,;
+<sg>up to the brim, up to the ears, up to the eyes</sg>,;
+<sg>as a as can be</sg>,;
+<sg>on all accounts</sg>,;
+<sg>sous tous les rapports</sg>,;
+<sg>with a vengeance, with a witness</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>falsus in uno falsus in omnibus, false in one thing, false in everything</sg>,;
+<sg>omnem movere lapidem</sg>,;
+<sg>una scopa nuova spazza bene</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,80 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#2#</sectionNumber>
+<headword>#<b>#[001] #20# Imitation #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>imitation</i></sg>,;
+<sg>copying</sg>,;
+<sg>transcription</sg>,;
+<sg>repetition, duplication, reduplication</sg>,;
+<sg>quotation</sg>,;
+<sg>reproduction</sg>,;
+<sg>mimeograph, xerox, facsimile</sg>,;
+<sg>reprint, offprint</sg>,;
+<sg>mockery, mimicry</sg>,;
+<sg>simulation, impersonation, personation</sg>,;
+<sg>representation ,<cref> 554 <i>concealment</i></cref></sg>,;
+<sg>semblance</sg>,;
+<sg>copy ,<cref> 21 <i>nonimitation</i></cref></sg>,;
+<sg>assimilation</sg>,;
+<sg>paraphrase, parody, take-off, lampoon, caricature ,<cref> 21 <i>nonimitation</i></cref></sg>,;
+<sg>plagiarism</sg>,;
+<sg>forgery, counterfeit ,<cref>544 <i>falsehood</i></cref></sg>,;
+<sg>celluloid</sg>,;
+<sg>imitator, echo, cuckoo, parrot, ape, monkey, mocking bird, mime</sg>,;
+<sg>copyist, copycat</sg>,;
+<sg>plagiarist, pirate</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>imitate, copy, mirror, reflect, reproduce, repeat</sg>,;
+<sg>do like, echo, reecho, catch</sg>,;
+<sg>transcribe</sg>,;
+<sg>match, parallel</sg>,;
+<sg>mock, take off, mimic, ape, simulate, impersonate, personate</sg>,;
+<sg>act ,<cref>599 <i>drama</i></cref></sg>,;
+<sg>represent ,<cref> 554 <i>concealment</i></cref></sg>,;
+<sg>counterfeit, parody, travesty, caricature, lampoon, burlesque</sg>,;
+<sg>follow in the steps of, tread in the steps, follow in the footsteps of, follow in the wake of</sg>,;
+<sg>take pattern by</sg>,;
+<sg>follow suit, follow the example of</sg>,;
+<sg>walk in the shoes of, take a leaf out of another's book, strike in with, follow suit</sg>,;
+<sg>take after, model after</sg>,;
+<sg>emulate</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>imitated</sg>,;
+<sg>mock, mimic</sg>,;
+<sg>modelled after, molded on</sg>,;
+<sg>paraphrastic</sg>,;
+<sg>literal</sg>,;
+<sg>imitative</sg>,;
+<sg>secondhand</sg>,;
+<sg>imitable</sg>,;
+<sg>aping, apish, mimicking</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>literally, to the letter, verbatim, literatim, sic, totidem verbis, word for word, mot a mot</sg>,;
+<sg>exactly, precisely</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>like master like man</sg>,;
+<sg>like - but oh! how different!</sg>,;
+<sg>genius borrows nobly</sg>,;
+<sg>pursuing echoes calling 'mong the rocks</sg>,;
+<sg>quotation confesses inferiority</sg>,;
+<sg>Imitation is the sincerest form of flattery</sg>,;
+<br>
+</paragraph>

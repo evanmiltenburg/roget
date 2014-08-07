@@ -1,0 +1,39 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#15#</sectionNumber>
+<headword>#<b>#[001] #448# Achromatism #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>achromatism</i></sg>,;
+<sg>decoloration, discoloration</sg>,;
+<sg>pallor, pallidness, pallidity</sg>,;
+<sg>paleness</sg>,;
+<sg>etiolation</sg>,;
+<sg>neutral tint, monochrome, black and white</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>lose color ,<cref> 428 <i>stridor</i></cref></sg>,;
+<sg>fade, fly, go</sg>,;
+<sg>become colorless</sg>,;
+<sg>turn pale, pale</sg>,;
+<sg>deprive of color, decolorize, bleach, tarnish, achromatize, blanch, etiolate, wash out, tone down</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>uncolored &c (color) ,<cref> 428 <i>stridor</i></cref></sg>,;
+<sg>colorless, achromatic, aplanatic</sg>,;
+<sg>etiolate, etiolated</sg>,;
+<sg>hueless, pale, pallid</sg>,;
+<sg>palefaced, tallow-faced</sg>,;
+<sg>faint, dull, cold, muddy, leaden, dun, wan, sallow, dead, dingy, ashy, ashen, ghastly, cadaverous, glassy, lackluster</sg>,;
+<sg>discolored</sg>,;
+<sg>light-colored, fair, blond</sg>,;
+<sg>white ,<cref> 430 <i>ululation</i></cref></sg>,;
+<sg>pale as death, pale as ashes, pale as a witch, pale as a ghost, pale as a corpse, white as a corpse</sg>,;
+<br>
+</paragraph>

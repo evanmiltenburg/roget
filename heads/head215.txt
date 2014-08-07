@@ -1,0 +1,109 @@
+<classNumber>#2#</classNumber>
+<sectionNumber>#10#</sectionNumber>
+<headword>#<b>#[001] #215# Height #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>height, </i>altitude, elevation</sg>,;
+<sg>eminence, pitch</sg>,;
+<sg>loftiness</sg>,;
+<sg>sublimity</sg>,;
+<sg>tallness</sg>,;
+<sg>stature, procerity</sg>,;
+<sg>prominence ,<cref> 250 <i>form</i></cref></sg>,;
+<sg>colossus ,<cref>192 <i>size</i></cref></sg>,;
+<sg>giant, grenadier, giraffe, camelopard</sg>,;
+<sg>mount, mountain</sg>,;
+<sg>hill alto, butte, monticle, fell, knap</sg>,;
+<sg>cape</sg>,;
+<sg>headland, foreland</sg>,;
+<sg>promontory</sg>,;
+<sg>ridge, hog's back, dune</sg>,;
+<sg>rising ground, vantage ground</sg>,;
+<sg>down</sg>,;
+<sg>moor, moorland</sg>,;
+<sg>Alp</sg>,;
+<sg>uplands, highlands</sg>,;
+<sg>heights ,<cref>210 <i>summit</i></cref></sg>,;
+<sg>knob, loma, pena, picacho, tump</sg>,;
+<sg>knoll, hummock, hillock, barrow, mound, mole</sg>,;
+<sg>steeps, bluff, cliff, craig, tor, peak, pike, clough</sg>,;
+<sg>escarpment, edge, ledge, brae</sg>,;
+<sg>dizzy height</sg>,;
+<sg>tower, pillar, column, obelisk, monument, steeple, spire, minaret, campanile, turret, dome, cupola</sg>,;
+<sg>skyscraper</sg>,;
+<sg>pole, pikestaff, maypole, flagstaff</sg>,;
+<sg>top mast, topgallant mast</sg>,;
+<sg>ceiling ,<cref>223 <i>covering</i></cref></sg>,;
+<sg>high water</sg>,;
+<sg>high tide, flood tide, spring tide</sg>,;
+<sg>altimetry ,<cref>244 <i>angel</i></cref></sg>,;
+<sg>batophobia</sg>,;
+<sg>satellite, spy-in-the-sky</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be high</sg>,;
+<sg>tower, soar, command</sg>,;
+<sg>hover, hover over, fly over</sg>,;
+<sg>orbit, be in orbit</sg>,;
+<sg>cap, culminate</sg>,;
+<sg>overhang, hang over, impend, beetle, bestride, ride, mount</sg>,;
+<sg>perch, surmount</sg>,;
+<sg>cover ,<cref> 223 <i>pendency</i></cref></sg>,;
+<sg>overtop ,<cref>33 <i>be superior</i></cref></sg>,;
+<sg>stand on tiptoe</sg>,;
+<sg>become high</sg>,;
+<sg>grow higher, grow taller</sg>,;
+<sg>upgrow</sg>,;
+<sg>rise ,<cref>305 <i>ascend</i></cref></sg>,;
+<sg>send into orbit</sg>,;
+<sg>render high</sg>,;
+<sg>heighten ,<cref>307 <i>elevate</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>high, elevated, eminent, exalted, lofty, tall</sg>,;
+<sg>gigantic ,<cref>192 <i>big</i></cref></sg>,;
+<sg>Patagonian</sg>,;
+<sg>towering, beetling, soaring, hanging (gardens)</sg>,;
+<sg>elevated ,<cref> 307 <i>reception</i></cref></sg>,;
+<sg>upper</sg>,;
+<sg>highest ,<cref>210 <i>topmost</i></cref></sg>,;
+<sg>high reaching, insessorial, perching</sg>,;
+<sg>upland, moorland</sg>,;
+<sg>hilly, knobby</sg>,;
+<sg>mountainous, alpine, subalpine, heaven kissing</sg>,;
+<sg>cloudtopt, cloudcapt, cloudtouching</sg>,;
+<sg>aerial</sg>,;
+<sg>overhanging</sg>,;
+<sg>incumbent, overlying, superincumbent, supernatant, superimposed</sg>,;
+<sg>prominent</sg>,;
+<sg>250</sg>,;
+<sg>tall as a maypole, tall as a poplar, tall as a steeple, lanky ,<cref>203 <i>thin</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>on high, high up, aloft, up, above, aloof, overhead</sg>,;
+<sg>airwind</sg>,;
+<sg>upstairs, abovestairs</sg>,;
+<sg>in the clouds</sg>,;
+<sg>on tiptoe, on stilts, on the shoulders of</sg>,;
+<sg>over head and ears</sg>,;
+<sg>breast high</sg>,;
+<sg>over, upwards</sg>,;
+<sg>from top to bottom ,<cref>52 <i>completely</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>e meglio cader dalle finistre che dal tetto</sg>,;
+<br>
+</paragraph>

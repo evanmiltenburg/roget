@@ -1,0 +1,79 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#6#</sectionNumber>
+<headword>#<b>#[001] #130# Oldness #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>oldness</i></sg>,;
+<sg>age, antiquity</sg>,;
+<sg>cobwebs of antiquity</sg>,;
+<sg>maturity</sg>,;
+<sg>decline, decay</sg>,;
+<sg>senility ,<cref> 128 <i>the past</i></cref></sg>,;
+<sg>seniority, eldership, primogeniture</sg>,;
+<sg>archaism ,<cref>122 <i>the past</i></cref></sg>,;
+<sg>thing of the past, relic of the past</sg>,;
+<sg>megatherium</sg>,;
+<sg>Sanskrit</sg>,;
+<sg>tradition, prescription, custom, immemorial usage, common law</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be old</sg>,;
+<sg>have had its day, have seen its day</sg>,;
+<sg>become old</sg>,;
+<sg>age, fade, senesce</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>old, ancient, antique</sg>,;
+<sg>of long standing, time-honored, venerable</sg>,;
+<sg>elder, eldest</sg>,;
+<sg>firstborn</sg>,;
+<sg>prime</sg>,;
+<sg>primitive, primeval, primigenous</sg>,;
+<sg>paleolontological, paleontologic, paleoanthropological, paleoanthropic, paleolithic, primordial, primordinate</sg>,;
+<sg>aboriginal ,<cref>66 <i>beginning</i></cref></sg>,;
+<sg>diluvian, antediluvian</sg>,;
+<sg>protohistoric</sg>,;
+<sg>prehistoric</sg>,;
+<sg>antebellum, colonial, precolumbian</sg>,;
+<sg>patriarchal, preadamite</sg>,;
+<sg>paleocrystic</sg>,;
+<sg>fossil, paleozoolical, paleozoic, preglacial, antemundane</sg>,;
+<sg>archaic, classic, medieval, Pre-Raphaelite, ancestral, black-letter</sg>,;
+<sg>immemorial, traditional, prescriptive, customary, whereof the memory of man runneth not to the contrary</sg>,;
+<sg>inveterate, rooted</sg>,;
+<sg>antiquated, of other times, rococo, of the old school, after-age, obsolete</sg>,;
+<sg>out of date, out of fashion, out of it</sg>,;
+<sg>stale, old-fashioned, behind the age</sg>,;
+<sg>old-world</sg>,;
+<sg>exploded</sg>,;
+<sg>gone out, gone by</sg>,;
+<sg>passe, run out</sg>,;
+<sg>senile ,<cref> 128 <i>the past</i></cref></sg>,;
+<sg>time worn</sg>,;
+<sg>crumbling ,<cref>659 <i>deteriorated</i></cref></sg>,;
+<sg>secondhand</sg>,;
+<sg>old as the hills, old as Methuselah, old as Adam, old as history</sg>,;
+<sg>Archeozoic, Proterozoic, Paleozoic, Mesozoic, Cenozoic</sg>,;
+<sg>Precambrian, Cambrian, Ordovician, Silurian, Devonian, Mississippian, Pennsylvanian, Permian, Triassic, Jurassic, Cretaceous, Tertiary, Paleogene, Neocene, Quaternary</sg>,;
+<sg>Paleocene, Eocene, Oligocene, Miocene, Pliocene, Pleistocene, Recent</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>since the world was made, since the year one, since the days of Methuselah</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>vetera extollimus recentium incuriosi</sg>,;
+<br>
+</paragraph>

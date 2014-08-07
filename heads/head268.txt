@@ -1,0 +1,31 @@
+<classNumber>#2#</classNumber>
+<sectionNumber>#11#</sectionNumber>
+<headword>#<b>#[001] #268# Notch #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>notch, </i>dent, nick, cut</sg>,;
+<sg>indent, indentation</sg>,;
+<sg>dimple</sg>,;
+<sg>embrasure, battlement, machicolation</sg>,;
+<sg>saw, tooth, crenelle, scallop, scollop, vandyke</sg>,;
+<sg>depression</sg>,;
+<sg>jag</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>notch, nick, cut, dent, indent, jag, scarify, scotch, crimp, scallop, scollop, crenulate, vandyke</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>notched</sg>,;
+<sg>crenate, crenated</sg>,;
+<sg>dentate, dentated</sg>,;
+<sg>denticulate, denticulated</sg>,;
+<sg>toothed, palmated, serrated</sg>,;
+<br>
+</paragraph>

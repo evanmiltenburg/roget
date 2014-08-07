@@ -1,0 +1,38 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#25#</sectionNumber>
+<headword>#<b>#[001] #621# Dissertation #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>dissertation, </i>treatise, essay</sg>,;
+<sg>thesis, theme</sg>,;
+<sg>monograph, tract, tractate, tractation</sg>,;
+<sg>discourse, memoir, disquisition, lecture, sermon, homily, pandect</sg>,;
+<sg>excursus</sg>,;
+<sg>commentary, review, critique, criticism, article</sg>,;
+<sg>leader, leading article</sg>,;
+<sg>editorial</sg>,;
+<sg>running commentary</sg>,;
+<sg>investigation ,<cref>461 <i>inquiry</i></cref></sg>,;
+<sg>study ,<cref>451 <i>consideration</i></cref></sg>,;
+<sg>discussion ,<cref>476 <i>reasoning</i></cref></sg>,;
+<sg>exposition ,<cref>522 <i>explanation</i></cref></sg>,;
+<sg>commentator, critic, essayist, pamphleteer</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>expound upon a subject, dissert upon a subject, descant upon a subject, write upon a subject, touch upon a subject</sg>,;
+<sg>treat a subject, treat a subject thoroughly, treat of a subject, take up a subject, ventilate a subject, discuss a subject, deal with a subject, go into a subject, go into a subject at length, canvass a subject, handle a subject, do justice to a subject</sg>,;
+<sg>hold forth, discourse, delve into</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>discursive, discoursive</sg>,;
+<sg>disquisitionary</sg>,;
+<sg>expository</sg>,;
+<br>
+</paragraph>

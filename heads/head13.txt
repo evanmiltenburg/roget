@@ -1,0 +1,58 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#2#</sectionNumber>
+<headword>#<b>#[001] #13# Identity #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>identity, </i>sameness</sg>,;
+<sg>coincidence, coalescence</sg>,;
+<sg>convertibility</sg>,;
+<sg>equality ,<cref> 27 <i>quantity</i></cref></sg>,;
+<sg>selfness, self, oneself</sg>,;
+<sg>identification</sg>,;
+<sg>monotony, tautology ,<cref>104 <i>repetition</i></cref></sg>,;
+<sg>facsimile ,<cref>21 <i>copy</i></cref></sg>,;
+<sg>homoousia: alter ego ,<cref>17 <i>similar</i></cref></sg>,;
+<sg>ipsissima verba ,<cref>494 <i>exactness</i></cref></sg>,;
+<sg>same</sg>,;
+<sg>self, very, one and the same</sg>,;
+<sg>very thing, actual thing</sg>,;
+<sg>real McCoy</sg>,;
+<sg>no other</sg>,;
+<sg>one and only</sg>,;
+<sg>in the flesh</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be identical</sg>,;
+<sg>coincide, coalesce, merge</sg>,;
+<sg>treat as the same, render the same, identical</sg>,;
+<sg>identify</sg>,;
+<sg>recognize the identity of</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>identical</sg>,;
+<sg>self, ilk</sg>,;
+<sg>the same</sg>,;
+<sg>selfsame, one and the same, homoousian</sg>,;
+<sg>coincide, coalescent, coalescing</sg>,;
+<sg>indistinguishable</sg>,;
+<sg>one</sg>,;
+<sg>equivalent ,<cref>27 <i>equal</i></cref></sg>,;
+<sg>tweedle dee and tweedle dum</sg>,;
+<sg>much the same, of a muchness</sg>,;
+<sg>unaltered</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>identically</sg>,;
+<sg>on all fours</sg>,;
+<br>
+</paragraph>

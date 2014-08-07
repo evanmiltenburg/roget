@@ -1,0 +1,49 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#6#</sectionNumber>
+<headword>#<b>#[001] #120# Chronometry #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>chronometry, </i>horometry, horology</sg>,;
+<sg>date, epoch</sg>,;
+<sg>style, era</sg>,;
+<sg>almanac, calendar, ephemeris</sg>,;
+<sg>register, registry</sg>,;
+<sg>chronicle, annals, journal, diary</sg>,;
+<sg>chronogram</sg>,;
+<sg>clock, wall clock, pendulum clock, grandfather's clock, cuckoo clock, alarm clock, clock radio</sg>,;
+<sg>watch, wristwatch, pocket watch, stopwatch, Swiss watch</sg>,;
+<sg>atomic clock, digital clock, analog clock, quartz watch, water clock</sg>,;
+<sg>chronometer, chronoscope, chronograph</sg>,;
+<sg>repeater</sg>,;
+<sg>timekeeper, timepiece</sg>,;
+<sg>dial, sundial, gnomon, horologe, pendulum, hourglass, clepsydra</sg>,;
+<sg>ghurry</sg>,;
+<sg>chronographer, chronologer, chronologist, timekeeper</sg>,;
+<sg>annalist</sg>,;
+<sg>calendar year, leap year, Julian calendar, Gregorian calendar, Chinese calendar, Jewish calendar, perpetual calendar, Farmer's almanac, fiscal year</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>fix the time, mark the time</sg>,;
+<sg>date, register, chronicle</sg>,;
+<sg>measure time, beat time, mark time</sg>,;
+<sg>bear date</sg>,;
+<sg>synchronize watches</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>chronological, chronometrical, chronogrammatical</sg>,;
+<sg>cinquecento, quattrocento, trecento</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>o'clock</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,40 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#15#</sectionNumber>
+<headword>#<b>#[001] #369# Organization #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>organization, </i>organized world, organized nature</sg>,;
+<sg>living nature, animated nature</sg>,;
+<sg>living beings</sg>,;
+<sg>organic remains, fossils</sg>,;
+<sg>protoplasm, cytoplasm, protein</sg>,;
+<sg>albumen</sg>,;
+<sg>structure ,<cref> 329 <i>world</i></cref></sg>,;
+<sg>organization, organism</sg>,;
+<sg>biology</sg>,;
+<sg>natural history, organic chemistry, anatomy, physiology</sg>,;
+<sg>zoology ,<cref> 368 <i>resin</i></cref></sg>,;
+<sg>botany</sg>,;
+<sg>microbiology, virology, bacteriology, mycology ,<cref> 369 <i>organization</i></cref></sg>,;
+<sg>naturalist</sg>,;
+<sg>archegenesis ,<cref>161 <i>production</i></cref></sg>,;
+<sg>antherozoid, bioplasm, biotaxy, chromosome, dysmeromorph</sg>,;
+<sg>ecology, oecology</sg>,;
+<sg>erythroblast, gametangium, gamete, germinal matter, invagination</sg>,;
+<sg>isogamy, oogamy</sg>,;
+<sg>karyaster</sg>,;
+<sg>macrogamete, microgamete</sg>,;
+<sg>metabolism, anabolism, catabolism</sg>,;
+<sg>metaplasm, ontogeny, ovary, ovum, oxidation, phylogeny, polymorphism, protozoa, spermary, spermatozoon, trophoplasm, vacuole, vertebration, zoogloea, zygote</sg>,;
+<sg>Darwinism, neo-Darwinism, Lamarkism, neoLamarkism, Weismannism</sg>,;
+<sg>morphology, taxonomy</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>organic, organized</sg>,;
+<sg>karyoplasmic, unsegmentic, vacuolar, zoogloeic, zoogloeoid</sg>,;
+<br>
+</paragraph>

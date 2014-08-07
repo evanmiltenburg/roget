@@ -1,0 +1,105 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#30#</sectionNumber>
+<headword>#<b>#[001] #758# Completion #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>completion, </i>accomplishment, achievement, fulfillment</sg>,;
+<sg>performance, execution</sg>,;
+<sg>despatch, dispatch</sg>,;
+<sg>consummation, culmination</sg>,;
+<sg>finish, conclusion</sg>,;
+<sg>close ,<cref>67 <i>end</i></cref></sg>,;
+<sg>terminus ,<cref>292 <i>arrival</i></cref></sg>,;
+<sg>winding up</sg>,;
+<sg>finale, denouement, catastrophe, issue, upshot, result</sg>,;
+<sg>final touch, last touch, crowning touch, finishing touch, finishing stroke</sg>,;
+<sg>last finish, coup de grace</sg>,;
+<sg>crowning of the edifice</sg>,;
+<sg>coping-stone, keystone</sg>,;
+<sg>missing link ,<cref> 53 <i>whole</i></cref></sg>,;
+<sg>superstructure, ne plus ultra, work done, fait accompli</sg>,;
+<sg>elaboration</sg>,;
+<sg>finality</sg>,;
+<sg>completeness ,<cref> 52 <i>decomposition</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>effect, effectuate</sg>,;
+<sg>accomplish, achieve, compass, consummate, hammer out</sg>,;
+<sg>bring to maturity, bring to perfection</sg>,;
+<sg>perfect, complete</sg>,;
+<sg>elaborate</sg>,;
+<sg>do, execute, make</sg>,;
+<sg>go through, get through</sg>,;
+<sg>work out, enact</sg>,;
+<sg>bring about, bring to bear, bring to pass, bring through, bring to a head</sg>,;
+<sg>despatch, dispatch</sg>,;
+<sg>knock off, finish off, polish off</sg>,;
+<sg>make short work of</sg>,;
+<sg>dispose of, set at rest</sg>,;
+<sg>perform, discharge, fulfill, realize</sg>,;
+<sg>put in practice, put in force</sg>,;
+<sg>carry out, carry into effect, carry into execution</sg>,;
+<sg>make good</sg>,;
+<sg>be as good as one's word</sg>,;
+<sg>do thoroughly, not do by halves, go the whole hog</sg>,;
+<sg>drive home</sg>,;
+<sg>be in at the death ,<cref>604 <i>persevere</i></cref></sg>,;
+<sg>1</sg>,;
+<sg>carry through, play out, exhaust</sg>,;
+<sg>fill the bill</sg>,;
+<sg>finish, bring to a close ,<cref>67 <i>end</i></cref></sg>,;
+<sg>wind up, stamp, clinch, seal, set the seal on, put the seal</sg>,;
+<sg>give the final touch</sg>,;
+<sg>to</sg>,;
+<sg>put the last, put the finishing hand to, put the finishing touches on</sg>,;
+<sg>crown, crown all</sg>,;
+<sg>cap</sg>,;
+<sg>ripen, culminate</sg>,;
+<sg>come to a head, come to a crisis</sg>,;
+<sg>come to its end</sg>,;
+<sg>die a natural death, die of old age</sg>,;
+<sg>run its course, run one's race</sg>,;
+<sg>touch the goal, reach the goal, attain the goal</sg>,;
+<sg>reach ,<cref>292 <i>arrive</i></cref></sg>,;
+<sg>get in the harvest</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>completing, final</sg>,;
+<sg>concluding, conclusive</sg>,;
+<sg>crowning</sg>,;
+<sg>exhaustive</sg>,;
+<sg>done, completed</sg>,;
+<sg>done for, sped, wrought out</sg>,;
+<sg>highly wrought ,<cref>673 <i>preparation</i></cref></sg>,;
+<sg>thorough ,<cref> 52 <i>decomposition</i></cref></sg>,;
+<sg>ripe ,<cref>673 <i>ready</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>completely ,<cref>52 <i>thoroughly</i></cref></sg>,;
+<sg>to crown all, out of hand</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>the race is run</sg>,;
+<sg>actum est</sg>,;
+<sg>finis coronat opus</sg>,;
+<sg>consummatum est</sg>,;
+<sg>c'en est fait</sg>,;
+<sg>it is all over</sg>,;
+<sg>the game is played out, the bubble has burst</sg>,;
+<sg>aussitot dit aussitot fait</sg>,;
+<sg>aut non tentaris aut perfice</sg>,;
+<br>
+</paragraph>

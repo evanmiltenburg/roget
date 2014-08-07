@@ -1,0 +1,107 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#4#</sectionNumber>
+<headword>#<b>#[001] #62# Disorder #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>disorder</i></sg>,;
+<sg>derangement ,<cref> 61 <i>order</i></cref></sg>,;
+<sg>irregularity</sg>,;
+<sg>anomaly ,<cref>83 <i>unconformity</i></cref></sg>,;
+<sg>anarchy, anarchism</sg>,;
+<sg>want of method</sg>,;
+<sg>untidiness</sg>,;
+<sg>disunion</sg>,;
+<sg>discord ,<cref> 24 <i>prototype</i></cref></sg>,;
+<sg>confusion</sg>,;
+<sg>confusedness</sg>,;
+<sg>mishmash, mix</sg>,;
+<sg>disarray, jumble, huddle, litter, lumber</sg>,;
+<sg>cahotage</sg>,;
+<sg>farrago</sg>,;
+<sg>mess, mash, muddle, muss, hash, hodgepodge</sg>,;
+<sg>hotch-potch, hotch-pot</sg>,;
+<sg>imbroglio, chaos, omnium gatherum, medley</sg>,;
+<sg>mere mixture ,<cref> 41 <i>adjunct</i></cref></sg>,;
+<sg>fortuitous concourse of atoms, disjecta membra, rudis indigestaque moles</sg>,;
+<sg>complexity ,<cref> 59 <i>component</i></cref></sg>,;
+<sg>1</sg>,;
+<sg>turmoil</sg>,;
+<sg>ferment ,<cref>315 <i>agitation</i></cref></sg>,;
+<sg>to-do, trouble, pudder, pother, row, rumble, disturbance, hubbub, convulsion, tumult, uproar, revolution, riot, rumpus, stour, scramble, brawl, fracas, rhubarb, fight, free-for-all, row, ruction, rumpus, embroilment, melee, spill and pelt, rough and tumble</sg>,;
+<sg>whirlwind ,<cref> 349 <i>air</i></cref></sg>,;
+<sg>bear garden, Babel, Saturnalia, donnybrook, Donnybrook Fair, confusion worse confounded, most admired disorder, concordia discors</sg>,;
+<sg>Bedlam, all hell broke loose</sg>,;
+<sg>bull in a china shop</sg>,;
+<sg>all the fat in the fire, diable a' quatre, Devil to pay</sg>,;
+<sg>pretty kettle of fish</sg>,;
+<sg>pretty piece of work, pretty piece of business</sg>,;
+<sg>disorderly person</sg>,;
+<sg>disorderly persons offence</sg>,;
+<sg>misdemeanor</sg>,;
+<sg>slattern, slut (libertine) 962</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be disorderly</sg>,;
+<sg>ferment, play at cross-purposes</sg>,;
+<sg>put out of order</sg>,;
+<sg>derange ,<cref> 61 <i>order</i></cref></sg>,;
+<sg>ravel ,<cref> 219 <i>summit</i></cref></sg>,;
+<sg>ruffle, rumple</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>disorderly, orderless</sg>,;
+<sg>out of order, out of place, out of gear</sg>,;
+<sg>irregular, desultory</sg>,;
+<sg>anomalous ,<cref>83 <i>unconformable</i></cref></sg>,;
+<sg>acephalous, deranged</sg>,;
+<sg>aimless</sg>,;
+<sg>disorganized</sg>,;
+<sg>straggling</sg>,;
+<sg>unmethodical, immethodical</sg>,;
+<sg>unsymmetric, unsystematic</sg>,;
+<sg>untidy, slovenly</sg>,;
+<sg>dislocated</sg>,;
+<sg>out of sorts</sg>,;
+<sg>promiscuous, indiscriminate</sg>,;
+<sg>chaotic, anarchical</sg>,;
+<sg>unarranged &c (arrange) ,<cref> 60 <i>extraneousness</i></cref></sg>,;
+<sg>confused</sg>,;
+<sg>deranged ,<cref> 61 <i>order</i></cref></sg>,;
+<sg>topsy-turvy ,<cref>218 <i>inverted</i></cref></sg>,;
+<sg>shapeless ,<cref> 241 <i>edge</i></cref></sg>,;
+<sg>disjointed, out of joint</sg>,;
+<sg>troublous</sg>,;
+<sg>riotous ,<cref>173 <i>violent</i></cref></sg>,;
+<sg>complex ,<cref> 59 <i>component</i></cref></sg>,;
+<sg>1</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>irregularly</sg>,;
+<sg>by fits, by fits and snatches, by fits and starts</sg>,;
+<sg>pellmell</sg>,;
+<sg>higgledy-piggledy</sg>,;
+<sg>helter-skelter, harum-scarum</sg>,;
+<sg>in a ferment</sg>,;
+<sg>at sixes and sevens, at cross-purposes</sg>,;
+<sg>upside down ,<cref> 218 <i>shallowness</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>the cart before the horse</sg>,;
+<sg>hysteron proteron</sg>,;
+<sg>chaos is come again</sg>,;
+<sg>the wreck of matter and the crush of worlds</sg>,;
+<br>
+</paragraph>

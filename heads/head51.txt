@@ -1,0 +1,30 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#3#</sectionNumber>
+<headword>#<b>#[001] #51# Combination #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>combination</i></sg>,;
+<sg>mixture ,<cref> 41 <i>adjunct</i></cref></sg>,;
+<sg>junction ,<cref> 43 <i>decrement</i></cref></sg>,;
+<sg>union, unification, synthesis, incorporation, amalgamation, embodiment, coalescence, crasis, fusion, blending, absorption, centralization</sg>,;
+<sg>alloy, compound, amalgam, composition, tertium quid</sg>,;
+<sg>resultant, impregnation</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>combine, unite, incorporate, amalgamate, embody, absorb, reembody, blend, merge, fuse, melt into one, consolidate, coalesce, centralize, impregnate</sg>,;
+<sg>put together, lump together</sg>,;
+<sg>cement a union, marry</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>combined</sg>,;
+<sg>impregnated with, ingrained</sg>,;
+<sg>imbued inoculated</sg>,;
+<br>
+</paragraph>

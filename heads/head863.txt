@@ -1,0 +1,99 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#35#</sectionNumber>
+<headword>#<b>#[001] #863# Excitability #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>excitability, </i>impetuosity, vehemence</sg>,;
+<sg>boisterousness</sg>,;
+<sg>turbulence</sg>,;
+<sg>impatience, intolerance, nonendurance</sg>,;
+<sg>irritability ,<cref>901 <i>irascibility</i></cref></sg>,;
+<sg>itching ,<cref>865 <i>desire</i></cref></sg>,;
+<sg>wincing</sg>,;
+<sg>disquiet, disquietude</sg>,;
+<sg>restlessness</sg>,;
+<sg>fidgets, fidgetiness</sg>,;
+<sg>agitation ,<cref>315 <i>irregular motion</i></cref></sg>,;
+<sg>trepidation, perturbation, ruffle, hurry, fuss, flurry</sg>,;
+<sg>fluster, flutter</sg>,;
+<sg>pother, stew, ferment</sg>,;
+<sg>whirl</sg>,;
+<sg>buck fever</sg>,;
+<sg>hurry-skurry, thrill ,<cref>821 <i>feeling</i></cref></sg>,;
+<sg>state of excitement, fever of excitement</sg>,;
+<sg>transport</sg>,;
+<sg>passion, excitement, flush, heat</sg>,;
+<sg>fever, heat</sg>,;
+<sg>fire, flame, fume, blood boiling</sg>,;
+<sg>tumult</sg>,;
+<sg>effervescence, ebullition</sg>,;
+<sg>boiling over</sg>,;
+<sg>whiff, gust, story, tempest</sg>,;
+<sg>scene, breaking out, burst, fit, paroxysm, explosion</sg>,;
+<sg>outbreak, outburst</sg>,;
+<sg>agony</sg>,;
+<sg>violence ,<cref> 173 <i>paternity</i></cref></sg>,;
+<sg>fierceness</sg>,;
+<sg>rage, fury, furor, furore, desperation, madness, distraction, raving, delirium</sg>,;
+<sg>phrensy, frenzy, hysterics</sg>,;
+<sg>intoxication</sg>,;
+<sg>tearing passion, raging passion</sg>,;
+<sg>anger ,<cref> 900 <i>courage</i></cref></sg>,;
+<sg>fascination, infatuation, fanaticism</sg>,;
+<sg>Quixotism, Quixotry</sg>,;
+<sg>tete montee</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be impatient</sg>,;
+<sg>not be able to bear ,<cref> 826 <i>booty</i></cref></sg>,;
+<sg>bear ill, wince, chafe, champ a bit</sg>,;
+<sg>be in a stew</sg>,;
+<sg>be out of all patience, fidget, fuss, not have a wink of sleep</sg>,;
+<sg>toss on one's pillow</sg>,;
+<sg>lose one's temper ,<cref> 900 <i>courage</i></cref></sg>,;
+<sg>break out, burst out, fly out</sg>,;
+<sg>go off, fly off, fly off at a tangent, fly off the handle, lose one's cool</sg>,;
+<sg>explode, flare up, flame up, fire up, burst into a flame, take fire, fire, burn</sg>,;
+<sg>boil, boil over</sg>,;
+<sg>foam, fume, rage, rave, rant, tear</sg>,;
+<sg>go wild, run wild, run mad, go into hysterics</sg>,;
+<sg>run riot, run amuck</sg>,;
+<sg>battre la campagne, faire le diable a quatre, play the deuce</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>excitable, easily excited, in an excitable state</sg>,;
+<sg>high-strung</sg>,;
+<sg>irritable ,<cref>901 <i>irascible</i></cref></sg>,;
+<sg>impatient, intolerant</sg>,;
+<sg>feverish, febrile, hysterical</sg>,;
+<sg>delirious, mad, moody, maggoty- headed</sg>,;
+<sg>unquiet, mercurial, electric, galvanic, hasty, hurried, restless, fidgety, fussy</sg>,;
+<sg>chafing</sg>,;
+<sg>startlish, mettlesome, high-mettled, skittish</sg>,;
+<sg>vehement, demonstrative, violent, wild, furious, fierce, fiery, hot-headed, madcap</sg>,;
+<sg>overzealous, enthusiastic, impassioned, fanatical</sg>,;
+<sg>rabid ,<cref>865 <i>eager</i></cref></sg>,;
+<sg>rampant, clamorous, uproarious, turbulent, tempestuous, tumultuary, boisterous</sg>,;
+<sg>impulsive, impetuous, passionate</sg>,;
+<sg>uncontrolled, uncontrollable</sg>,;
+<sg>ungovernable, irrepressible, stanchless, inextinguishable, burning, simmering, volcanic, ready to burst forth, volatile</sg>,;
+<sg>excited, exciting ,<cref> 824 <i>stealing</i></cref></sg>,;
+<sg>Int</sg>,;
+<sg>pish!, pshaw!,</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>noli me tangere</sg>,;
+<sg>filled with fury, rapt, inspir'd</sg>,;
+<sg>maggiore fretta minore atto</sg>,;
+<br>
+</paragraph>

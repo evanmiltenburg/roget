@@ -1,0 +1,63 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#15#</sectionNumber>
+<headword>#<b>#[001] #387# Sexuality #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>sex, <i>sexuality, </i>gender</sg>,;
+<sg>male, masculinity, maleness ,<cref> 373 <i>killing</i></cref></sg>,;
+<sg>female, femininity ,<cref> 374 <i>corpse</i></cref></sg>,;
+<sg>sexual intercourse, copulation, mating, coitus, sex</sg>,;
+<sg>lovemaking, marital relations, sexual union</sg>,;
+<sg>sleeping together, carnal knowledge</sg>,;
+<sg>sex instinct, sex drive, libido, lust, concupiscence</sg>,;
+<sg>hots, horns</sg>,;
+<sg>arousal, heat, rut, estrus, oestrus</sg>,;
+<sg>tumescence</sg>,;
+<sg>erection, hard-on, boner</sg>,;
+<sg>masturbation, self-gratification, autoeroticism, onanism, self- abuse</sg>,;
+<sg>orgasm, climax, ejaculation</sg>,;
+<sg>sexiness, attractiveness</sg>,;
+<sg>sensuality, voluptuousness</sg>,;
+<sg>fornication, adultery</sg>,;
+<sg>sex symbol, sex goddess</sg>,;
+<sg>stud, hunk</sg>,;
+<sg>one-night stand</sg>,;
+<sg>pornography, porn, porno</sg>,;
+<sg>hardcore pornography, softcore pornography</sg>,;
+<sg>pin-up, cheesecake</sg>,;
+<sg>beefcake</sg>,;
+<sg>Playboy, Esquire, Hustler</sg>,;
+<sg>perversion, deviation, sexual abnormality</sg>,;
+<sg>fetish, fetishism</sg>,;
+<sg>homosexuality, lesbianism, bisexuality</sg>,;
+<sg>sodomy, buggery</sg>,;
+<sg>pederasty</sg>,;
+<sg>sadism</sg>,;
+<sg>masochism, sado-masochism</sg>,;
+<sg>incest</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>mate, copulate</sg>,;
+<sg>make love, have intercourse, fornicate, have sex, do it, sleep together, fuck</sg>,;
+<sg>sleep around, play the field</sg>,;
+<sg>masturbate, jerk off, jack off, play with oneself</sg>,;
+<sg>have the hots</sg>,;
+<sg>become aroused, get hot</sg>,;
+<sg>have an erection, get it up</sg>,;
+<sg>come, climax, ejaculate</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>sexy, erotic, sexual, carnal, sensual</sg>,;
+<sg>hot, horny, randy, rutting</sg>,;
+<sg>passionate, lusty, hot-blooded, libidinous</sg>,;
+<sg>up, in the mood</sg>,;
+<sg>homosexual, gay, lesbian, bisexual</sg>,;
+<br>
+</paragraph>

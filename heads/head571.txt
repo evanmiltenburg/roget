@@ -1,0 +1,174 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#24#</sectionNumber>
+<headword>#<b>#[001] #571# Deception #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>deception</i></sg>,;
+<sg>falseness ,<cref> 544 <i>unintelligibility</i></cref></sg>,;
+<sg>untruth ,<cref> 546 <i>metaphor</i></cref></sg>,;
+<sg>imposition, imposture</sg>,;
+<sg>fraud, deceit, guile</sg>,;
+<sg>fraudulence, fraudulency</sg>,;
+<sg>covin</sg>,;
+<sg>knavery ,<cref>702 <i>cunning</i></cref></sg>,;
+<sg>misrepresentation ,<cref>544 <i>falsehood</i></cref></sg>,;
+<sg>bluff</sg>,;
+<sg>straw-bail, straw bid</sg>,;
+<sg>spoof</sg>,;
+<sg>delusion, gullery</sg>,;
+<sg>juggling, jugglery</sg>,;
+<sg>slight of hand, legerdemain</sg>,;
+<sg>prestigiation, prestidigitation</sg>,;
+<sg>magic ,<cref> 992 <i>penitence</i></cref></sg>,;
+<sg>conjuring, conjuration</sg>,;
+<sg>hocus-pocus, escamoterie, jockeyship</sg>,;
+<sg>trickery, coggery, chicanery</sg>,;
+<sg>supercherie, cozenage, circumvention, ingannation, collusion</sg>,;
+<sg>treachery ,<cref> 940 <i>irascibility</i></cref></sg>,;
+<sg>practical joke</sg>,;
+<sg>trick, cheat, wile, blind, feint, plant, bubble, fetch, catch, chicane, juggle, reach, hocus, bite</sg>,;
+<sg>card sharping, stacked deck, loaded dice, quick shuffle, double dealing, dealing seconds, dealing from the bottom of the deck</sg>,;
+<sg>artful dodge, swindle</sg>,;
+<sg>tricks upon travelers</sg>,;
+<sg>stratagem ,<cref>702 <i>artifice</i></cref></sg>,;
+<sg>confidence trick, fake, hoax</sg>,;
+<sg>theft ,<cref> 791 <i>permission</i></cref></sg>,;
+<sg>ballot-box stuffing, barney</sg>,;
+<sg>brace game, bunko game, drop game, gum game, panel game, shell game, thimblerig, skin game</sg>,;
+<sg>snare, trap, pitfall, decoy, gin</sg>,;
+<sg>springe, springle</sg>,;
+<sg>noose, hoot</sg>,;
+<sg>bait, decoy-duck, tub to the whale, baited trap, guet-a-pens</sg>,;
+<sg>cobweb, net, meshes, toils, mouse trap, birdlime</sg>,;
+<sg>dionaea, Venus's flytrap</sg>,;
+<sg>ambush ,<cref> 530 <i>oblivion</i></cref></sg>,;
+<sg>trapdoor, sliding panel, false bottom</sg>,;
+<sg>spring-net, spring net, spring gun, mask, masked battery</sg>,;
+<sg>mine</sg>,;
+<sg>flytrap</sg>,;
+<sg>green goods</sg>,;
+<sg>panel house</sg>,;
+<sg>Cornish hug</sg>,;
+<sg>wolf in sheep's clothing ,<cref>548 <i>deceiver</i></cref></sg>,;
+<sg>disguise, disguisement</sg>,;
+<sg>false colors, masquerade, mummery, borrowed plumes</sg>,;
+<sg>pattes de velours</sg>,;
+<sg>mockery ,<cref>19 <i>imitation</i></cref></sg>,;
+<sg>copy ,<cref> 21 <i>nonimitation</i></cref></sg>,;
+<sg>counterfeit, sham, make- believe, forgery, fraud</sg>,;
+<sg>lie ,<cref> 546 <i>metaphor</i></cref></sg>,;
+<sg>a delusion a mockery and a snare, hollow mockery</sg>,;
+<sg>whited sepulcher, painted sepulcher</sg>,;
+<sg>tinsel</sg>,;
+<sg>paste, junk jewelry, costume jewelry, false jewelry, synthetic jewels</sg>,;
+<sg>scagliola, ormolu, German silver, albata, paktong, white metal, Britannia metal, paint</sg>,;
+<sg>veneer</sg>,;
+<sg>jerry building</sg>,;
+<sg>man of straw</sg>,;
+<sg>illusion ,<cref>495 <i>error</i></cref></sg>,;
+<sg>ignis fatuus ,<cref> 423 <i>snap</i></cref></sg>,;
+<sg>mirage ,<cref> 443 <i>transparency</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>deceive, take in</sg>,;
+<sg>defraud, cheat, jockey, do, cozen, diddle, nab, chouse, play one false, bilk, cully, jilt, bite, pluck, swindle, victimize</sg>,;
+<sg>abuse</sg>,;
+<sg>mystify</sg>,;
+<sg>blind one's eyes</sg>,;
+<sg>blindfold, hoodwink</sg>,;
+<sg>throw dust into the eyes</sg>,;
+<sg>dupe, gull, hoax, fool, befool, bamboozle, flimflam, hornswoggle</sg>,;
+<sg>trick</sg>,;
+<sg>impose upon, practice upon, play upon, put upon, palm off on, palm upon, foist upon</sg>,;
+<sg>snatch a verdict</sg>,;
+<sg>bluff off, bluff</sg>,;
+<sg>bunko, four flush, gum, spoof, stuff (a ballot box)</sg>,;
+<sg>circumvent, overreach</sg>,;
+<sg>outreach, out wit, out maneuver</sg>,;
+<sg>steal a march upon, give the go-by, to leave in the lurch decoy, waylay, lure, beguile, delude, inveigle</sg>,;
+<sg>entrap, intrap, ensnare</sg>,;
+<sg>nick, springe</sg>,;
+<sg>set a trap, lay a trap, lay a snare for</sg>,;
+<sg>bait the hook, forelay, spread the toils, lime</sg>,;
+<sg>trapan, trepan</sg>,;
+<sg>kidnap</sg>,;
+<sg>let in, hook in</sg>,;
+<sg>nousle, nousel</sg>,;
+<sg>blind a trail</sg>,;
+<sg>enmesh, immesh</sg>,;
+<sg>shanghai</sg>,;
+<sg>catch, catch in a trap</sg>,;
+<sg>sniggle, entangle, illaqueate, hocus, escamoter, practice on one's credulity</sg>,;
+<sg>hum, humbug</sg>,;
+<sg>gammon, stuff up, sell</sg>,;
+<sg>play a trick upon one, play a practical joke upon one, put something over on one, put one over on</sg>,;
+<sg>balk, trip up, throw a tub to a whale</sg>,;
+<sg>fool to the top of one's bent, send on a fool's errand</sg>,;
+<sg>make game, make a fool of, make an April fool of, make an ass of</sg>,;
+<sg>trifle with, cajole, flatter</sg>,;
+<sg>come over ,<cref>615 <i>influence</i></cref></sg>,;
+<sg>gild the pill, make things pleasant, divert, put a good face upon</sg>,;
+<sg>dissemble ,<cref> 544 <i>unintelligibility</i></cref></sg>,;
+<sg>cog, cog the dice, load the dice, stack the deck</sg>,;
+<sg>live by one's wits, play at hide and seek</sg>,;
+<sg>obtain money under false pretenses ,<cref>791 <i>steal</i></cref></sg>,;
+<sg>conjure, juggle, practice chicanery</sg>,;
+<sg>deacon</sg>,;
+<sg>play off, palm off, foist off, fob-off</sg>,;
+<sg>lie ,<cref> 544 <i>unintelligibility</i></cref></sg>,;
+<sg>misinform ,<cref> 538 <i>supposition</i></cref></sg>,;
+<sg>mislead ,<cref>495 <i>error</i></cref></sg>,;
+<sg>betray ,<cref> 940 <i>irascibility</i></cref></sg>,;
+<sg>be deceived ,<cref> 547 <i>interpretation</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>deceived</sg>,;
+<sg>deceiving </sg>,;
+<sg>cunning ,<cref> 702 <i>preparation</i></cref></sg>,;
+<sg>prestigious, prestigiatory</sg>,;
+<sg>deceptive, deceptious</sg>,;
+<sg>deceitful, covinous</sg>,;
+<sg>delusive, delusory</sg>,;
+<sg>illusive, illusory</sg>,;
+<sg>elusive, insidious, ad captandum vulgus</sg>,;
+<sg>untrue ,<cref> 546 <i>metaphor</i></cref></sg>,;
+<sg>mock, sham, make-believe, counterfeit, snide, pseudo, spurious, supposititious, so-called, pretended, feigned, trumped up, bogus, scamped, fraudulent, tricky, factitious bastard</sg>,;
+<sg>surreptitious, illegitimate, contraband, adulterated, sophisticated</sg>,;
+<sg>unsound, rotten at the core</sg>,;
+<sg>colorable</sg>,;
+<sg>disguised</sg>,;
+<sg>meretricious, tinsel, pinchbeck, plated</sg>,;
+<sg>catchpenny</sg>,;
+<sg>Brummagem</sg>,;
+<sg>artificial, synthetic, ersatz</sg>,;
+<sg>simulated ,<cref> 544 <i>unintelligibility</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>under false colors, under the garb of, under cover of</sg>,;
+<sg>over the left</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>keep the word of promise to the ear and break it to the hope</sg>,;
+<sg>fronti nulla fides</sg>,;
+<sg>ah that deceit should steal such gentle shapes</sg>,;
+<sg>a quicksand of deceit</sg>,;
+<sg>decipimur specie recti</sg>,;
+<sg>falsi crimen</sg>,;
+<sg>fraus est celare fraudem</sg>,;
+<sg>lupus in fabula</sg>,;
+<sg>so smooth, he daubed his vice with show of virtue</sg>,;
+<br>
+</paragraph>

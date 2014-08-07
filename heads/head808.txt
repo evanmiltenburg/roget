@@ -1,0 +1,50 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#34#</sectionNumber>
+<headword>#<b>#[001] #808# Loss #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>loss</i></sg>,;
+<sg>deperdition, perdition</sg>,;
+<sg>forfeiture, lapse</sg>,;
+<sg>privation, bereavement</sg>,;
+<sg>deprivation ,<cref>789 <i>dispossession</i></cref></sg>,;
+<sg>riddance</sg>,;
+<sg>damage, squandering, waste</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>lose</sg>,;
+<sg>incur a loss, experience a loss, meet with a loss</sg>,;
+<sg>miss</sg>,;
+<sg>mislay, let slip, allow to slip through the fingers</sg>,;
+<sg>be without ,<cref>777 <i>exempt</i></cref></sg>,;
+<sg>1</sg>,;
+<sg>forfeit</sg>,;
+<sg>get rid of ,<cref> 782 <i>restraint</i></cref></sg>,;
+<sg>waste ,<cref> 638 <i>rejection</i></cref></sg>,;
+<sg>be lost</sg>,;
+<sg>lapse</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>losing</sg>,;
+<sg>not having ,<cref> 777 <i>servant</i></cref></sg>,;
+<sg>1</sg>,;
+<sg>shorn of, deprived of</sg>,;
+<sg>denuded, bereaved, bereft, minus, cut off</sg>,;
+<sg>dispossessed ,<cref> 789 <i>consignee</i></cref></sg>,;
+<sg>rid of, quit of</sg>,;
+<sg>out of pocket</sg>,;
+<sg>lost</sg>,;
+<sg>long lost</sg>,;
+<sg>irretrievable ,<cref>859 <i>hopeless</i></cref></sg>,;
+<sg>off one's hands</sg>,;
+<sg>Int</sg>,;
+<sg>farewell to!, adieu to</sg>,;
+<br>
+</paragraph>

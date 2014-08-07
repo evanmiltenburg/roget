@@ -1,0 +1,27 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#34#</sectionNumber>
+<headword>#<b>#[001] #837# Treasury #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>treasury, </i>bank, exchequer, fisc, hanaper</sg>,;
+<sg>cash register, kutcherry, bursary</sg>,;
+<sg>strong box, strong hold, strong room</sg>,;
+<sg>coffer</sg>,;
+<sg>chest ,<cref>191 <i>receptacle</i></cref></sg>,;
+<sg>safe</sg>,;
+<sg>bank vault</sg>,;
+<sg>depository ,<cref> 636 <i>choice</i></cref></sg>,;
+<sg>till, tiller</sg>,;
+<sg>purse</sg>,;
+<sg>money bag, money box</sg>,;
+<sg>porte-monnaie</sg>,;
+<sg>purse strings</sg>,;
+<sg>pocket, breeches pocket</sg>,;
+<sg>sinking fund</sg>,;
+<sg>stocks</sg>,;
+<sg>public stocks, public funds, public securities, parliamentary stocks, parliamentary funds, parliamentary securities</sg>,;
+<sg>Consols, credit mobilier</sg>,;
+<sg>bonds</sg>,;
+<br>
+</paragraph>

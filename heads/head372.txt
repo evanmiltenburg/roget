@@ -1,0 +1,125 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#15#</sectionNumber>
+<headword>#<b>#[001] #372# Death #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>death</i></sg>,;
+<sg>decease, demise</sg>,;
+<sg>dissolution, departure, obit, release, rest, quietus, fall</sg>,;
+<sg>loss, bereavement</sg>,;
+<sg>mortality, morbidity</sg>,;
+<sg>end of life &c 67, cessation of life &c 142, loss of life, extinction of life, ebb of life ,<cref> 359 <i>river</i></cref></sg>,;
+<sg>death warrant, death watch, death rattle, death bed</sg>,;
+<sg>stroke of death, agonies of death, shades of death, valley of death, jaws of death, hand of death</sg>,;
+<sg>last breath, last gasp, last agonies</sg>,;
+<sg>dying day, dying breath, dying agonies</sg>,;
+<sg>chant du cygne</sg>,;
+<sg>rigor mortis</sg>,;
+<sg>Stygian shore</sg>,;
+<sg>King of terrors, King Death</sg>,;
+<sg>Death</sg>,;
+<sg>doom ,<cref>601 <i>necessity</i></cref></sg>,;
+<sg>Hell's grim Tyrant</sg>,;
+<sg>euthanasia</sg>,;
+<sg>break up of the system</sg>,;
+<sg>natural death, natural decay</sg>,;
+<sg>sudden death, violent death</sg>,;
+<sg>untimely end, watery grave</sg>,;
+<sg>debt of nature</sg>,;
+<sg>suffocation, asphyxia</sg>,;
+<sg>fatal disease ,<cref>655 <i>disease</i></cref></sg>,;
+<sg>death blow ,<cref>361 <i>killing</i></cref></sg>,;
+<sg>necrology, bills of mortality, obituary</sg>,;
+<sg>death song ,<cref>839 <i>lamentation</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>die, expire, perish</sg>,;
+<sg>meet one's death, meet one's end</sg>,;
+<sg>pass away, be taken</sg>,;
+<sg>yield one's breath, resign one's breath</sg>,;
+<sg>resign one's being, resign one's life</sg>,;
+<sg>end one's days, end one's life, end one's earthly career</sg>,;
+<sg>breathe one's last</sg>,;
+<sg>cease to live, cease to breathe</sg>,;
+<sg>depart this life</sg>,;
+<sg>be no more</sg>,;
+<sg>go off, drop off, pop off</sg>,;
+<sg>lose one's life, lay down one's life, relinquish one's life, surrender one's life</sg>,;
+<sg>drop into the grave, sink into the grave</sg>,;
+<sg>close one's eyes</sg>,;
+<sg>fall dead, drop dead, fall down dead, drop down dead</sg>,;
+<sg>break one's neck</sg>,;
+<sg>give up the ghost, yield up the ghost</sg>,;
+<sg>be all over with one</sg>,;
+<sg>pay the debt to nature, shuffle off this mortal coil, take one's last sleep</sg>,;
+<sg>go the way of all flesh</sg>,;
+<sg>hand in one's checks, pass in one's checks, hand in one's chips, pass in one's chips</sg>,;
+<sg>join the greater number, join the majority</sg>,;
+<sg>come to dust, turn to dust</sg>,;
+<sg>cross the Stygian ferry, cross the bar</sg>,;
+<sg>go to one's long account, go to one's last home, go to Davy Jones's locker, go to the wall</sg>,;
+<sg>receive one's death warrant, make one's will, step out, die a natural death, go out like the snuff of a candle</sg>,;
+<sg>come to an untimely end</sg>,;
+<sg>catch one's death</sg>,;
+<sg>go off the hooks, kick the bucket, buy the farm, hop the twig, turn up one's toes</sg>,;
+<sg>die a violent death ,<cref>361 <i>be killed</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>dead, lifeless</sg>,;
+<sg>deceased, demised, departed, defunct, extinct</sg>,;
+<sg>late, gone, no more</sg>,;
+<sg>exanimate, inanimate</sg>,;
+<sg>out of the world, taken off, released</sg>,;
+<sg>departed this life</sg>,;
+<sg>dead and gone</sg>,;
+<sg>dead as a doornail, dead as a doorpost, dead as a mutton, dead as a herring, dead as nits</sg>,;
+<sg>launched into eternity, gone to one's eternal reward, gone to meet one's maker, pushing up daisies, gathered to one's fathers, numbered with the dead</sg>,;
+<sg>dying</sg>,;
+<sg>moribund, morient</sg>,;
+<sg>hippocratic</sg>,;
+<sg>in articulo, in extremis</sg>,;
+<sg>in the jaws of death, in the agony of death</sg>,;
+<sg>going off</sg>,;
+<sg>aux abois</sg>,;
+<sg>one one's last legs, on one's death bed</sg>,;
+<sg>at the point of death, at death's door, at the last gasp</sg>,;
+<sg>near one's end, given over, booked</sg>,;
+<sg>with one foot in the grave, tottering on the brink of the grave</sg>,;
+<sg>stillborn</sg>,;
+<sg>mortuary</sg>,;
+<sg>deadly ,<cref>361 <i>killing</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>post obit, post mortem</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>life ebbs, life fails, life hangs by a thread</sg>,;
+<sg>one's days are numbered, one's hour is come, one's race is run, one's doom is sealed</sg>,;
+<sg>Death knocks at the door, Death stares one in the face</sg>,;
+<sg>the breath is out of the body</sg>,;
+<sg>the grave closes over one</sg>,;
+<sg>sic itur ad astra</sg>,;
+<sg>de mortuis nil nisi bonum</sg>,;
+<sg>dulce et decorum est pro patria mori</sg>,;
+<sg>honesta mors turpi vita potior</sg>,;
+<sg>in adamantine chains shall death be bound</sg>,;
+<sg>mors ultima linea rerum est</sg>,;
+<sg>ominia mors aequat</sg>,;
+<sg>Spake the grisly Terror</sg>,;
+<sg>the lone couch of this everlasting sleep</sg>,;
+<sg>nothing is certain but death and taxes</sg>,;
+<br>
+</paragraph>

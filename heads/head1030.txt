@@ -1,0 +1,15 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#39#</sectionNumber>
+<headword>#<b>#[001] #1030# Pseudo-Revelation #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>pseudo-revelation, </i>the Koran, the Alcoran</sg>,;
+<sg>Lyking, Vedas, Zendavesta, Avesta, Sastra, Shastra, Tantra, Upanishads, Purana, Edda</sg>,;
+<sg>Book of Mormon</sg>,;
+<sg>Gautama, Buddha</sg>,;
+<sg>Zoroaster, Confucius, Bab-ed-Din, Mohammed</sg>,;
+<sg>golden calf ,<cref> 991 <i>bad man</i></cref></sg>,;
+<sg>Baal, Moloch, Dagon</sg>,;
+<br>
+</paragraph>

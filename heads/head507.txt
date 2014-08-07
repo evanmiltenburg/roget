@@ -1,0 +1,39 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#20#</sectionNumber>
+<headword>#<b>#[001] #507# Underestimation #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>underestimation</i></sg>,;
+<sg>depreciation ,<cref>934 <i>detraction</i></cref></sg>,;
+<sg>pessimism, pessimist</sg>,;
+<sg>undervaluing</sg>,;
+<sg>modesty ,<cref> 881 <i>dullness</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>underrate, underestimate, undervalue, underreckon</sg>,;
+<sg>depreciate</sg>,;
+<sg>disparage ,<cref>934 <i>detract</i></cref></sg>,;
+<sg>not do justice to</sg>,;
+<sg>misprize, disprize</sg>,;
+<sg>ridicule ,<cref> 856 <i>prodigality</i></cref></sg>,;
+<sg>slight ,<cref>930 <i>despise</i></cref></sg>,;
+<sg>neglect ,<cref> 460 <i>vision</i></cref></sg>,;
+<sg>slur over</sg>,;
+<sg>make light of, make little of, make nothing of, make no account of</sg>,;
+<sg>belittle</sg>,;
+<sg>minimize, think nothing of</sg>,;
+<sg>set no store by, set at naught</sg>,;
+<sg>shake off as dewdrops from the lion's mane</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>depreciating, depreciated</sg>,;
+<sg>unvalued, unprized</sg>,;
+<br>
+</paragraph>

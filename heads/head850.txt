@@ -1,0 +1,46 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#34#</sectionNumber>
+<headword>#<b>#[001] #850# Discount #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>discount, </i>abatement, concession, reduction, depreciation, allowance</sg>,;
+<sg>qualification, set-off, drawback, poundage, agio, percentage</sg>,;
+<sg>rebate, rebatement</sg>,;
+<sg>backwardation, contango</sg>,;
+<sg>salvage</sg>,;
+<sg>tare and tret</sg>,;
+<sg>sale, bargain</sg>,;
+<sg>half price</sg>,;
+<sg>price war</sg>,;
+<sg>wholesale, wholesale price</sg>,;
+<sg>dealer's price</sg>,;
+<sg>trade price</sg>,;
+<sg>coupon, discount coupon, cents-off coupon</sg>,;
+<sg>store coupon, manufacturer's coupon</sg>,;
+<sg>double coupon discount, triple coupon discount</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>discount, bate</sg>,;
+<sg>abate, rebate</sg>,;
+<sg>reduce, price down, mark down take off, allow, give, make allowance</sg>,;
+<sg>tax</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>discounting</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>at a discount, below par</sg>,;
+<sg>at wholesale</sg>,;
+<sg>have a friend in the business</sg>,;
+<br>
+</paragraph>

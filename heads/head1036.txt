@@ -1,0 +1,54 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#39#</sectionNumber>
+<headword>#<b>#[001] #1036# Sorcery #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>sorcery</i></sg>,;
+<sg>occult art, occult sciences</sg>,;
+<sg>magic, the black art, necromancy, theurgy, thaumaturgy</sg>,;
+<sg>demonology, demonomy, demonship</sg>,;
+<sg>diablerie, bedevilment</sg>,;
+<sg>witchcraft, witchery</sg>,;
+<sg>glamor</sg>,;
+<sg>fetishism, fetichism, feticism</sg>,;
+<sg>ghost dance, hoodoo</sg>,;
+<sg>obi, obiism</sg>,;
+<sg>voodoo, voodooism</sg>,;
+<sg>Shamanism (Esquimaux), vampirism</sg>,;
+<sg>conjuration</sg>,;
+<sg>bewitchery, exorcism, enchantment, mysticism, second sight, mesmerism, animal magnetism</sg>,;
+<sg>od force, odylic force</sg>,;
+<sg>electrobiology, clairvoyance</sg>,;
+<sg>spiritualism, spirit rapping, table turning</sg>,;
+<sg>divination ,<cref>511 <i>prediction</i></cref></sg>,;
+<sg>sortilege, ordeal, sortes Virgilianae</sg>,;
+<sg>hocus-pocus ,<cref>545 <i>deception</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>practice sorcery</sg>,;
+<sg>cast a nativity, conjure, exorcise, charm, enchant</sg>,;
+<sg>bewitch, bedevil</sg>,;
+<sg>hoodoo, voodoo</sg>,;
+<sg>entrance, mesmerize, magnetize</sg>,;
+<sg>fascinate ,<cref>615 <i>influence</i></cref></sg>,;
+<sg>taboo</sg>,;
+<sg>wave a wand</sg>,;
+<sg>rub the ring, rub the lamp</sg>,;
+<sg>cast a spell</sg>,;
+<sg>call up spirits, call up spirits from the vasty deep</sg>,;
+<sg>raise spirits from the dead</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>magic, magical</sg>,;
+<sg>mystic, weird, cabalistic, talismanic, phylacteric, incantatory</sg>,;
+<sg>charmed</sg>,;
+<sg>Circean, odylic, voodoo</sg>,;
+<br>
+</paragraph>

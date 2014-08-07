@@ -1,0 +1,19 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#4#</sectionNumber>
+<headword>#<b>#[001] #75# Term #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>term, </i>rank, station, stage, step</sg>,;
+<sg>degree ,<cref> 26 <i>disagreement</i></cref></sg>,;
+<sg>scale, remove, grade, link, peg, round of the ladder, status, position, place, point, mark, pas, period, pitch</sg>,;
+<sg>stand, standing</sg>,;
+<sg>footing, range</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>hold a place, occupy a place, find a place, fall into a place</sg>,;
+<br>
+</paragraph>

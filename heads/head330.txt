@@ -1,0 +1,47 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#13#</sectionNumber>
+<headword>#<b>#[001] #330# Gravity #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>gravity, </i>gravitation</sg>,;
+<sg>weight</sg>,;
+<sg>heaviness</sg>,;
+<sg>specific gravity</sg>,;
+<sg>pondorosity, pressure, load</sg>,;
+<sg>burden, burthen</sg>,;
+<sg>ballast, counterpoise</sg>,;
+<sg>lump of, mass of, weight of</sg>,;
+<sg>lead, millstone, mountain, Ossa on Pelion</sg>,;
+<sg>weighing, ponderation, trutination</sg>,;
+<sg>weights</sg>,;
+<sg>avoirdupois weight, troy weight, apothecaries' weight</sg>,;
+<sg>grain, scruple, drachma, ounce, pound, lb, arroba, load, stone, hundredweight, cwt, ton, long ton, metric ton, quintal, carat, pennyweight, tod</sg>,;
+<sg>gram, centigram, milligram, microgram, kilogram</sg>,;
+<sg>nanogram, picogram, femtogram, attogram</sg>,;
+<sg>balance, scale, scales, steelyard, beam, weighbridge</sg>,;
+<sg>spring balance, piezoelectric balance, analytical balance, two-pan balance, one-pan balance</sg>,;
+<sg>postal scale, baby scale</sg>,;
+<sg>statics</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be heavy</sg>,;
+<sg>gravitate, weigh, press, cumber, load</sg>,;
+<sg>weigh, poise</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>weighty</sg>,;
+<sg>weighing</sg>,;
+<sg>heavy as lead</sg>,;
+<sg>ponderous, ponderable</sg>,;
+<sg>lumpish, lumpy, cumbersome, burdensome</sg>,;
+<sg>cumbrous, unwieldy, massive</sg>,;
+<sg>incumbent, superincumbent</sg>,;
+<br>
+</paragraph>

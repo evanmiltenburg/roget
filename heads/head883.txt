@@ -1,0 +1,109 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#36#</sectionNumber>
+<headword>#<b>#[001] #883# Beauty #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>beauty, </i>the beautiful, to kalon, le beau ideal</sg>,;
+<sg>aesthetics, callaesthetics</sg>,;
+<sg>pulchritude, form, elegance, grace, beauty unadorned, natural beauty</sg>,;
+<sg>symmetry ,<cref> 242 <i>inclosure</i></cref></sg>,;
+<sg>comeliness, fairness</sg>,;
+<sg>polish, gloss</sg>,;
+<sg>good effect, good looks</sg>,;
+<sg>belle tournure</sg>,;
+<sg>trigness</sg>,;
+<sg>bloom, brilliancy, radiance, splendor, gorgeousness, magnificence</sg>,;
+<sg>sublimity, sublimification</sg>,;
+<sg>concinnity, delicacy, refinement</sg>,;
+<sg>charm, je ne sais quoi, style</sg>,;
+<sg>Venus, Aphrodite, Hebe, the Graces, Peri, Houri, Cupid, Apollo, Hyperion, Adonis, Antionous, Narcissus</sg>,;
+<sg>peacock, butterfly</sg>,;
+<sg>garden</sg>,;
+<sg>flower of, pink of</sg>,;
+<sg>bijou</sg>,;
+<sg>jewel ,<cref>847 <i>ornament</i></cref></sg>,;
+<sg>work of art</sg>,;
+<sg>flower, flow'ret gay</sg>,;
+<sg>wildflower</sg>,;
+<sg>rose, lily, anemone, asphodel, buttercup, crane's bill, daffodil, tulip, tiger lily, day lily, begonia, marigold, geranium, lily of the valley, ranunculus, rhododendron, windflower</sg>,;
+<sg>pleasurableness ,<cref> 829 <i>sale</i></cref></sg>,;
+<sg>beautifying</sg>,;
+<sg>landscaping, landscape gardening</sg>,;
+<sg>decoration ,<cref> 847 <i>price</i></cref></sg>,;
+<sg>calisthenics</sg>,;
+<sg>beauty</sg>,;
+<sg>hunk (of men)</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be beautiful</sg>,;
+<sg>shine, beam, bloom</sg>,;
+<sg>become one ,<cref>23 <i>accord</i></cref></sg>,;
+<sg>set off, grace</sg>,;
+<sg>render beautiful</sg>,;
+<sg>beautify</sg>,;
+<sg>polish, burnish</sg>,;
+<sg>gild ,<cref>847 <i>decorate</i></cref></sg>,;
+<sg>set out</sg>,;
+<sg>snatch a grace beyond the reach of art</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>beautiful, beauteous</sg>,;
+<sg>handsome</sg>,;
+<sg>gorgeous</sg>,;
+<sg>pretty</sg>,;
+<sg>lovely, graceful, elegant, prepossessing</sg>,;
+<sg>attractive ,<cref>615 <i>inviting</i></cref></sg>,;
+<sg>delicate, dainty, refined</sg>,;
+<sg>fair, personable, comely, seemly</sg>,;
+<sg>bonny</sg>,;
+<sg>good-looking</sg>,;
+<sg>well-favored, well-made, well-formed, well- proportioned</sg>,;
+<sg>proper, shapely</sg>,;
+<sg>symmetrical ,<cref>242 <i>regular</i></cref></sg>,;
+<sg>harmonious ,<cref>428 <i>color</i></cref></sg>,;
+<sg>sightly</sg>,;
+<sg>fit to be seen, passable, not amiss</sg>,;
+<sg>goodly, dapper, tight, jimp</sg>,;
+<sg>gimp</sg>,;
+<sg>janty, jaunty</sg>,;
+<sg>trig, natty, quaint, trim, tidy, neat, spruce, smart, tricksy</sg>,;
+<sg>bright, bright eyed</sg>,;
+<sg>rosy cheeked, cherry cheeked</sg>,;
+<sg>rosy, ruddy</sg>,;
+<sg>blooming, in full bloom</sg>,;
+<sg>brilliant, shining</sg>,;
+<sg>beamy, beaming</sg>,;
+<sg>sparkling, splendid, resplendent, dazzling, glowing</sg>,;
+<sg>glossy, sleek</sg>,;
+<sg>rich, superb, magnificent, grand, fine, sublime, showy, specious</sg>,;
+<sg>artistic, artistical</sg>,;
+<sg>aesthetic</sg>,;
+<sg>picturesque, pictorial</sg>,;
+<sg>fait a peindre</sg>,;
+<sg>well-composed, well grouped, well varied</sg>,;
+<sg>curious</sg>,;
+<sg>enchanting ,<cref>829 <i>pleasure-giving</i></cref></sg>,;
+<sg>becoming ,<cref>23 <i>accordant</i></cref></sg>,;
+<sg>ornamental ,<cref> 847 <i>price</i></cref></sg>,;
+<sg>undeformed, undefaced, unspotted</sg>,;
+<sg>spotless ,<cref>650 <i>perfect</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>auxilium non leve vultus habet</sg>,;
+<sg>beauty born of murmuring sound</sg>,;
+<sg>flowers preach to us if we will hear</sg>,;
+<sg>gratior ac pulchro veniens in corpore virtus</sg>,;
+<sg>none but the brave deserve the fair</sg>,;
+<sg>thou who hast the fatal gift of beauty</sg>,;
+<br>
+</paragraph>

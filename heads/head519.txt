@@ -1,0 +1,122 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#20#</sectionNumber>
+<headword>#<b>#[001] #519# Error #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>error, </i>fallacy</sg>,;
+<sg>misconception, misapprehension, misstanding, misunderstanding</sg>,;
+<sg>inexactness</sg>,;
+<sg>laxity</sg>,;
+<sg>misconstruction ,<cref>523 <i>misinterpretation</i></cref></sg>,;
+<sg>miscomputation ,<cref>481 <i>misjudgment</i></cref></sg>,;
+<sg>non sequitur ,<cref> 477 <i>attention</i></cref></sg>,;
+<sg>mis-statement, mis-report</sg>,;
+<sg>mumpsimus</sg>,;
+<sg>mistake</sg>,;
+<sg>miss, fault, blunder, quiproquo, cross purposes, oversight, misprint, erratum, corrigendum, slip, blot, flaw, loose thread</sg>,;
+<sg>trip, stumble ,<cref>732 <i>failure</i></cref></sg>,;
+<sg>botchery ,<cref>699 <i>want of skill</i></cref></sg>,;
+<sg>slip of the tongue, slip of the lip, Freudian slip</sg>,;
+<sg>slip of the pen</sg>,;
+<sg>lapsus linguae, clerical error</sg>,;
+<sg>bull ,<cref>497 <i>absurdity</i></cref></sg>,;
+<sg>haplography</sg>,;
+<sg>illusion, delusion</sg>,;
+<sg>snare</sg>,;
+<sg>false impression, false idea</sg>,;
+<sg>bubble</sg>,;
+<sg>self-decit, self-deception</sg>,;
+<sg>mists of error</sg>,;
+<sg>heresy ,<cref>984 <i>heterodoxy</i></cref></sg>,;
+<sg>hallucination ,<cref>503 <i>insanity</i></cref></sg>,;
+<sg>false light ,<cref>443 <i>fallacy of vision</i></cref></sg>,;
+<sg>dream ,<cref>515 <i>fancy</i></cref></sg>,;
+<sg>fable ,<cref>546 <i>untruth</i></cref></sg>,;
+<sg>bias ,<cref>481 <i>misjudgment</i></cref></sg>,;
+<sg>misleading</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be erroneous</sg>,;
+<sg>cause error</sg>,;
+<sg>mislead, misguide</sg>,;
+<sg>lead astray, lead into error</sg>,;
+<sg>beguile, misinform ,<cref>538 <i>misteach</i></cref></sg>,;
+<sg>delude</sg>,;
+<sg>give a false impression, give a false idea</sg>,;
+<sg>falsify, misstate</sg>,;
+<sg>deceive ,<cref> 545 <i>equivocalness</i></cref></sg>,;
+<sg>lie ,<cref> 544 <i>unintelligibility</i></cref></sg>,;
+<sg>err</sg>,;
+<sg>be in error</sg>,;
+<sg>, be mistaken</sg>,;
+<sg>be deceived ,<cref>547 <i>duped</i></cref></sg>,;
+<sg>mistake, receive a false impression, deceive oneself</sg>,;
+<sg>fall into error, lie under error, labor under an error</sg>,;
+<sg>be in the wrong, blunder</sg>,;
+<sg>misapprehend, misconceive, misunderstand, misreckon, miscount, miscalculate ,<cref>481 <i>misjudge</i></cref></sg>,;
+<sg>play at cross purposes, be at cross purposes ,<cref>523 <i>misinterpret</i></cref></sg>,;
+<sg>trip, stumble</sg>,;
+<sg>lose oneself ,<cref>475 <i>uncertainty</i></cref></sg>,;
+<sg>go astray</sg>,;
+<sg>fail ,<cref> 732 <i>artlessness</i></cref></sg>,;
+<sg>be in the wrong box</sg>,;
+<sg>take the wrong sow by the ear ,<cref>699 <i>mismanage</i></cref></sg>,;
+<sg>put the saddle on the wrong horse</sg>,;
+<sg>reckon without one's host</sg>,;
+<sg>take the shadow for the substance ,<cref>486 <i>credulity</i></cref></sg>,;
+<sg>dream ,<cref>515 <i>imagine</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>erroneous, untrue, false, devoid of truth, fallacious, apocryphal, unreal, ungrounded, groundless</sg>,;
+<sg>unsubstantial ,<cref> 4 <i>unsubstantiality</i></cref></sg>,;
+<sg>heretical ,<cref>984 <i>heterodox</i></cref></sg>,;
+<sg>unsound</sg>,;
+<sg>illogical ,<cref> 477 <i>attention</i></cref></sg>,;
+<sg>inexact, unexact inaccurate, incorrect</sg>,;
+<sg>indefinite ,<cref>475 <i>uncertain</i></cref></sg>,;
+<sg>illusive, illusory</sg>,;
+<sg>delusive</sg>,;
+<sg>mock, ideal ,<cref>515 <i>imaginary</i></cref></sg>,;
+<sg>spurious ,<cref> 545 <i>equivocalness</i></cref></sg>,;
+<sg>deceitful ,<cref> 544 <i>unintelligibility</i></cref></sg>,;
+<sg>perverted</sg>,;
+<sg>controvertible, unsustainable</sg>,;
+<sg>unauthenticated, untrustworthy</sg>,;
+<sg>exploded, refuted</sg>,;
+<sg>discarded</sg>,;
+<sg>in error, under an error</sg>,;
+<sg>mistaken</sg>,;
+<sg>tripping</sg>,;
+<sg>out, out in one's reckoning</sg>,;
+<sg>aberrant</sg>,;
+<sg>beside the mark, wide of the mark, wide of the truth, way off, far off</sg>,;
+<sg>astray ,<cref>475 <i>at fault</i></cref></sg>,;
+<sg>on a false scent, on the wrong scent</sg>,;
+<sg>in the wrong box, outside the ballpark</sg>,;
+<sg>at cross purposes, all in the wrong</sg>,;
+<sg>all out</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>more or less</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>errare est humanum</sg>,;
+<sg>mentis gratissimus error</sg>,;
+<sg>on the dubious waves of error tost</sg>,;
+<sg>to err is human, to forgive divine</sg>,;
+<sg>you lie -- under a mistake</sg>,;
+<br>
+</paragraph>

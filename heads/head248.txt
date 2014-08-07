@@ -1,0 +1,26 @@
+<classNumber>#2#</classNumber>
+<sectionNumber>#10#</sectionNumber>
+<headword>#<b>#[001] #248# Dextrality #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>dextrality</i></sg>,;
+<sg>right, right hand</sg>,;
+<sg>dexter, offside, starboard</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>dextral, right-handed</sg>,;
+<sg>dexter, dextrorsal, dextrorse</sg>,;
+<sg>ambidextral, ambidextrous</sg>,;
+<sg>dextro-</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>dextrad, dextrally</sg>,;
+<br>
+</paragraph>

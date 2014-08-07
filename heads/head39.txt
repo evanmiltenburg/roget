@@ -1,0 +1,69 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#3#</sectionNumber>
+<headword>#<b>#[001] #39# Addition #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>addition, </i>annexation, adjection</sg>,;
+<sg>junction ,<cref> 43 <i>decrement</i></cref></sg>,;
+<sg>superposition, superaddition, superjunction, superfetation</sg>,;
+<sg>accession, reinforcement</sg>,;
+<sg>increase ,<cref> 35 <i>superiority</i></cref></sg>,;
+<sg>increment, supplement</sg>,;
+<sg>accompaniment ,<cref> 88 <i>number</i></cref></sg>,;
+<sg>interposition ,<cref> 228 <i>inversion</i></cref></sg>,;
+<sg>insertion ,<cref> 300 <i>repulsion</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>add, annex, affix, superadd, subjoin, superpose</sg>,;
+<sg>clap on, saddle on</sg>,;
+<sg>tack to, append, tag</sg>,;
+<sg>ingraft</sg>,;
+<sg>saddle with</sg>,;
+<sg>sprinkle</sg>,;
+<sg>introduce ,<cref>228 <i>interpose</i></cref></sg>,;
+<sg>insert ,<cref> 300 <i>repulsion</i></cref></sg>,;
+<sg>become added, accrue</sg>,;
+<sg>advene, supervene</sg>,;
+<sg>reinforce, reenforce, restrengthen</sg>,;
+<sg>swell the ranks of</sg>,;
+<sg>augment ,<cref> 35 <i>superiority</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>added</sg>,;
+<sg>additional</sg>,;
+<sg>supplemental, supplementary</sg>,;
+<sg>suppletory, subjunctive</sg>,;
+<sg>adjectitious, adscititious, ascititious</sg>,;
+<sg>additive, extra, accessory</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>au reste, in addition, more, plus, extra</sg>,;
+<sg>and, also, likewise, too, furthermore, further, item</sg>,;
+<sg>and also, and eke</sg>,;
+<sg>else, besides, to boot, et cetera</sg>,;
+<sg></sg>,;
+<sg>and so on, and so forth</sg>,;
+<sg>into the bargain, cum multis aliis, over and above, moreover</sg>,;
+<sg>with, withal</sg>,;
+<sg>including, inclusive, as well as, not to mention, let alone</sg>,;
+<sg>together with, along with, coupled with, in conjunction with</sg>,;
+<sg>conjointly</sg>,;
+<sg>jointly ,<cref> 43 <i>decrement</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>adde parvum parvo magnus acervus erit</sg>,;
+<br>
+</paragraph>

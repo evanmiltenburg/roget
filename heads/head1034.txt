@@ -1,0 +1,86 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#39#</sectionNumber>
+<headword>#<b>#[001] #1034# Worship #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>worship, </i>adoration, devotion, aspiration, homage, service, humiliation</sg>,;
+<sg>kneeling, genuflection, prostration</sg>,;
+<sg>prayer, invocation, supplication, rogation, intercession, orison, holy breathing</sg>,;
+<sg>petition ,<cref>765 <i>request</i></cref></sg>,;
+<sg>collect, litany, Lord's prayer, paternoster</sg>,;
+<sg>beadroll</sg>,;
+<sg>latria, dulia, hyperdulia, vigils</sg>,;
+<sg>revival</sg>,;
+<sg>cult</sg>,;
+<sg>anxious meeting, camp meeting</sg>,;
+<sg>ebenezer, virginal</sg>,;
+<sg>thanksgiving</sg>,;
+<sg>giving thanks, returning thanks</sg>,;
+<sg>grace, praise, glorification, benediction, doxology, hosanna</sg>,;
+<sg>hallelujah, allelujah</sg>,;
+<sg>Te Deum, non nobis Domine, nunc dimittis</sg>,;
+<sg>paean</sg>,;
+<sg>benschen</sg>,;
+<sg>Ave Maria, O Salutaris, Sanctus, The Annunciation, Tersanctus, Trisagion</sg>,;
+<sg>psalm, psalmody</sg>,;
+<sg>hymn, plain song, chant, chaunt, response, anthem, motet</sg>,;
+<sg>antiphon, antiphony</sg>,;
+<sg>oblation, sacrifice, incense, libation</sg>,;
+<sg>burnt offering, heave offering, votive offering</sg>,;
+<sg>offertory</sg>,;
+<sg>discipline</sg>,;
+<sg>self-discipline, self-examination, self-denial</sg>,;
+<sg>fasting</sg>,;
+<sg>divine service, office, duty</sg>,;
+<sg>exercises</sg>,;
+<sg>morning prayer</sg>,;
+<sg>mass, matins, evensong, vespers</sg>,;
+<sg>undernsong, tierce</sg>,;
+<sg>holyday ,<cref>998 <i>rites</i></cref></sg>,;
+<sg>worshipper, congregation, communicant, celebrant</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>worship, lift up the heart, aspire</sg>,;
+<sg>revere ,<cref> 928 <i>enmity</i></cref></sg>,;
+<sg>adore, do service, pay homage</sg>,;
+<sg>humble oneself, kneel</sg>,;
+<sg>bow the knee, bend the knee</sg>,;
+<sg>fall down, fall on one's knees</sg>,;
+<sg>prostrate oneself, bow down and worship</sg>,;
+<sg>pray, invoke, supplicate</sg>,;
+<sg>put up, offer up prayers, offer petitions</sg>,;
+<sg>beseech ,<cref>765 <i>ask</i></cref></sg>,;
+<sg>say one's prayers, tell one's beads</sg>,;
+<sg>return thanks, give thanks</sg>,;
+<sg>say grace, bless, praise, laud, glorify, magnify, sing praises</sg>,;
+<sg>give benediction, lead the choir, intone</sg>,;
+<sg>deacon, deacon off propitiate, offer sacrifice, fast, deny oneself</sg>,;
+<sg>vow, offer vows, give alms</sg>,;
+<sg>work out one's salvation</sg>,;
+<sg>go to church</sg>,;
+<sg>attend service, attend mass</sg>,;
+<sg>communicate ,<cref>998 <i>rite</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>worshipping</sg>,;
+<sg>devout, devotional, reverent, pure, solemn</sg>,;
+<sg>fervid ,<cref>821 <i>heartfelt</i></cref></sg>,;
+<sg>Int</sg>,;
+<sg>hallelujah, allelujah!, hosanna!, glory be to God!, O Lord!, pray God that!, God grant, God bless, God save, God forbid!, sursum corda</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>making their lives a prayer</sg>,;
+<sg>ora et labora</sg>,;
+<sg>prayers ardent open heaven</sg>,;
+<br>
+</paragraph>

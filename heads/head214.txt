@@ -1,0 +1,35 @@
+<classNumber>#2#</classNumber>
+<sectionNumber>#10#</sectionNumber>
+<headword>#<b>#[001] #214# Filament #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>filament, </i>line</sg>,;
+<sg>fiber, fibril</sg>,;
+<sg>funicle, vein</sg>,;
+<sg>hair, capillament, cilium, cilia, pilus, pili</sg>,;
+<sg>tendril, gossamer</sg>,;
+<sg>hair stroke</sg>,;
+<sg>veinlet, venula, venule</sg>,;
+<sg>wire, string, thread, packthread, cotton, sewing silk, twine, twist, whipcord, tape, ribbon, cord, rope, yarn, hemp, oakum, jute</sg>,;
+<sg>strip, shred, slip, spill, list, band, fillet, fascia, ribbon, riband, roll, lath, splinter, shiver, shaving</sg>,;
+<sg>beard ,<cref>256 <i>roughness</i></cref></sg>,;
+<sg>ramification</sg>,;
+<sg>strand</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>filamentous, filamentiferous, filaceous, filiform</sg>,;
+<sg>fibrous, fibrillous</sg>,;
+<sg>thread-like, wiry, stringy, ropy</sg>,;
+<sg>capillary, capilliform</sg>,;
+<sg>funicular, wire-drawn</sg>,;
+<sg>anguilliform</sg>,;
+<sg>flagelliform</sg>,;
+<sg>hairy ,<cref>256 <i>rough</i></cref></sg>,;
+<sg>taeniate, taeniform, taenioid</sg>,;
+<sg>venose, venous</sg>,;
+<br>
+</paragraph>

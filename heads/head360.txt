@@ -1,0 +1,83 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#14#</sectionNumber>
+<headword>#<b>#[001] #360# Wind #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>wind, </i>draught, flatus, afflatus, efflation, eluvium</sg>,;
+<sg>air</sg>,;
+<sg>breath, breath of air</sg>,;
+<sg>puff, whiff, zephyr</sg>,;
+<sg>blow, breeze, drift</sg>,;
+<sg>aura</sg>,;
+<sg>stream, current, jet stream</sg>,;
+<sg>undercurrent</sg>,;
+<sg>gust, blast, squall, gale, half a gale, storm, tempest, hurricane, whirlwind, tornado, samiel, cyclone, anticyclone, typhoon</sg>,;
+<sg>simoon, simoom</sg>,;
+<sg>harmattan, monsoon, trade wind, sirocco, mistral, bise, tramontane, levanter</sg>,;
+<sg>capful of wind</sg>,;
+<sg>fresh breeze, stiff breeze</sg>,;
+<sg>keen blast</sg>,;
+<sg>blizzard, barber, candelia, chinook, foehn, khamsin, norther, vendaval, wuther</sg>,;
+<sg>windiness</sg>,;
+<sg>ventosity</sg>,;
+<sg>rough weather, dirty weather, ugly weather, stress of weather</sg>,;
+<sg>dirty sky, mare's tail</sg>,;
+<sg>thick squall, black squall, white squall</sg>,;
+<sg>anemography, aerodynamics</sg>,;
+<sg>wind gauge, weathercock, vane, weather- vane, wind sock</sg>,;
+<sg>anemometer, anemoscope</sg>,;
+<sg>sufflation, insufflation, perflation, inflation, afflation</sg>,;
+<sg>blowing, fanning</sg>,;
+<sg>ventilation</sg>,;
+<sg>sneezing</sg>,;
+<sg>errhine</sg>,;
+<sg>sternutative, sternutatory</sg>,;
+<sg>sternutation</sg>,;
+<sg>hiccup, hiccough</sg>,;
+<sg>catching of the breath</sg>,;
+<sg>Eolus, Boreas, Zephyr, cave of Eolus</sg>,;
+<sg>air pump, air blower, lungs, bellows, blowpipe, fan, ventilator, punkah</sg>,;
+<sg>branchiae, gills, flabellum, vertilabrum</sg>,;
+<sg>whiffle ball</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>blow, waft</sg>,;
+<sg>blow hard, blow great guns, blow a hurricane</sg>,;
+<sg>wuther</sg>,;
+<sg>stream, issue</sg>,;
+<sg>respire, breathe, puff</sg>,;
+<sg>whiff, whiffle</sg>,;
+<sg>gasp, wheeze</sg>,;
+<sg>snuff, snuffle</sg>,;
+<sg>sniff, sniffle</sg>,;
+<sg>sneeze, cough</sg>,;
+<sg>fan, ventilate</sg>,;
+<sg>inflate, perflate</sg>,;
+<sg>blow up</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>blowing</sg>,;
+<sg>windy, flatulent</sg>,;
+<sg>breezy, gusty, squally</sg>,;
+<sg>stormy, tempestuous, blustering</sg>,;
+<sg>boisterous ,<cref>173 <i>violent</i></cref></sg>,;
+<sg>pulmonic, pulmonary</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>lull'd by soft zephyrs</sg>,;
+<sg>the storm is up and all is on the hazard</sg>,;
+<sg>the winds were wither'd in the stagnant air</sg>,;
+<sg>while mocking winds are piping loud</sg>,;
+<sg>winged with red lightning and tempestuous rage</sg>,;
+<br>
+</paragraph>

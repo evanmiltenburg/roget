@@ -1,0 +1,40 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#24#</sectionNumber>
+<headword>#<b>#[001] #568# School #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>school, </i>academy, university, alma mater, college, seminary, Lyceum</sg>,;
+<sg>institute, institution</sg>,;
+<sg>palaestra, Gymnasium, class, seminar</sg>,;
+<sg>day school, boarding school, preparatory school, primary school, infant school, dame's school, grammar school, middle class school, Board school, denominational school, National school, British and Foreign school, collegiate school, art school, continuation school, convent school, County Council school, government school, grant-in-aid school, high school, higher grade school, military school, missionary school, naval school, naval academy, state-aided school, technical school, voluntary school, school</sg>,;
+<sg>school of art</sg>,;
+<sg>kindergarten, nursery, creche, reformatory</sg>,;
+<sg>pulpit, lectern, soap box desk, reading desk, ambo, lecture room, theater, auditorium, amphitheater, forum, state, rostrum, platform, hustings, tribune</sg>,;
+<sg>school book, horn book, text book</sg>,;
+<sg>grammar, primer, abecedary, rudiments, manual, vade mecum</sg>,;
+<sg>encyclopedia, cyclopedia</sg>,;
+<sg>Lindley Murray, Cocker</sg>,;
+<sg>dictionary, lexicon</sg>,;
+<sg>professorship, lectureship, readership, fellowship, tutorship</sg>,;
+<sg>chair</sg>,;
+<sg>School Board Council of Education</sg>,;
+<sg>Board of Education</sg>,;
+<sg>Board of Studies, Prefect of Studies</sg>,;
+<sg>Textbook Committee</sg>,;
+<sg>propaganda</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>scholastic, academic, collegiate</sg>,;
+<sg>educational</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>ex cathedra</sg>,;
+<br>
+</paragraph>

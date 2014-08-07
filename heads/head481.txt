@@ -1,0 +1,135 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#17#</sectionNumber>
+<headword>#<b>#[001] #481# Inquiry #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>inquiry</i></sg>,;
+<sg>request ,<cref> 765 <i>mediocrity</i></cref></sg>,;
+<sg>search, research, quest, pursuit ,<cref> 622 <i>compendium</i></cref></sg>,;
+<sg>examination, review, scrutiny, investigation, indagation</sg>,;
+<sg>perquisition, perscrutation, pervestigation</sg>,;
+<sg>inquest, inquisition</sg>,;
+<sg>exploration</sg>,;
+<sg>exploitation, ventilation</sg>,;
+<sg>sifting</sg>,;
+<sg>calculation, analysis, dissection, resolution, induction</sg>,;
+<sg>Baconian method</sg>,;
+<sg>strict inquiry, close inquiry, searching inquiry, exhaustive inquiry</sg>,;
+<sg>narrow search, strict search</sg>,;
+<sg>study ,<cref>451 <i>consideration</i></cref></sg>,;
+<sg>scire facias, ad referendum</sg>,;
+<sg>trial</sg>,;
+<sg>questioning</sg>,;
+<sg>interrogation, interrogatory</sg>,;
+<sg>interpellation</sg>,;
+<sg>challenge, examination, cross-examination, catechism</sg>,;
+<sg>feeler, Socratic method, zetetic philosophy</sg>,;
+<sg>leading question</sg>,;
+<sg>discussion ,<cref>476 <i>reasoning</i></cref></sg>,;
+<sg>reconnoitering, reconnaissance</sg>,;
+<sg>prying</sg>,;
+<sg>espionage, espionnage</sg>,;
+<sg>domiciliary visit, peep behind the curtain</sg>,;
+<sg>lantern of Diogenes</sg>,;
+<sg>question, query, problem, desideratum, point to be solved, porism</sg>,;
+<sg>subject of inquiry, field of inquiry, subject of controversy</sg>,;
+<sg>point in dispute, matter in dispute</sg>,;
+<sg>moot point</sg>,;
+<sg>issue, question at issue</sg>,;
+<sg>bone of contention ,<cref>713 <i>discord</i></cref></sg>,;
+<sg>plain question, fair question, open question</sg>,;
+<sg>enigma ,<cref>533 <i>secret</i></cref></sg>,;
+<sg>knotty point ,<cref>704 <i>difficulty</i></cref></sg>,;
+<sg>quodlibet</sg>,;
+<sg>threshold of an inquiry</sg>,;
+<sg>inquirer, investigator, inquisitor, inspector, querist, examiner, catechist</sg>,;
+<sg>scrutator scrutineer scrutinizer</sg>,;
+<sg>analyst</sg>,;
+<sg>quidnunc ,<cref>455 <i>curiosity</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>make inquiry</sg>,;
+<sg>inquire, ask, seek, search</sg>,;
+<sg>look for, look about for, look out for</sg>,;
+<sg>scan, reconnoiter, explore, sound, rummage, ransack, pry, peer, look round</sg>,;
+<sg>look over, go over, look through, go through</sg>,;
+<sg>spy, overhaul</sg>,;
+<sg>ask about, inquire about</sg>,;
+<sg>scratch the head, slap the forehead</sg>,;
+<sg>look into every hole and corner, peer into every hole and corner, pry into every hole and corner</sg>,;
+<sg>nose</sg>,;
+<sg>trace up</sg>,;
+<sg>search out, hunt down, hunt out, fish out, ferret out</sg>,;
+<sg>unearth</sg>,;
+<sg>leave no stone unturned</sg>,;
+<sg>seek a clue, seek a clew</sg>,;
+<sg>hunt, track, trail, mouse, dodge, trace</sg>,;
+<sg>follow the trail, follow the scent</sg>,;
+<sg>pursue ,<cref> 662 <i>instrument</i></cref></sg>,;
+<sg>beat up one's quarters</sg>,;
+<sg>fish for</sg>,;
+<sg>feel for ,<cref>463 <i>experiment</i></cref></sg>,;
+<sg>investigate</sg>,;
+<sg>take up an inquiry, institute an inquiry, pursue an inquiry, follow up an inquiry, conduct an inquiry, carry on an inquiry, carry out an inquiry, prosecute an inquiry</sg>,;
+<sg>look at, look into</sg>,;
+<sg>preexamine</sg>,;
+<sg>discuss, canvass, agitate</sg>,;
+<sg>examine, study, consider, calculate</sg>,;
+<sg>dip into, dive into, delve into, go deep into</sg>,;
+<sg>make sure of, probe, sound, fathom</sg>,;
+<sg>probe to the bottom, probe to the quick</sg>,;
+<sg>scrutinize, analyze, anatomize, dissect, parse, resolve, sift, winnow</sg>,;
+<sg>view in all its phases, try in all its phases</sg>,;
+<sg>thresh out</sg>,;
+<sg>bring in question, bring into question, subject to examination</sg>,;
+<sg>put to the proof ,<cref>463 <i>experiment</i></cref></sg>,;
+<sg>audit, tax, pass in review</sg>,;
+<sg>take into consideration ,<cref>451 <i>think over</i></cref></sg>,;
+<sg>take counsel ,<cref> 695 <i>refuge</i></cref></sg>,;
+<sg>question, demand</sg>,;
+<sg>put the question, pop the question, propose the question, propound the question, moot the question, start the question, raise the question, stir the question, suggest the question, put forth the question, ventilate the question, grapple with the question, go into a question</sg>,;
+<sg>question, put to the question, interrogate, pump</sg>,;
+<sg>subject to interrogation, subject to examination</sg>,;
+<sg>cross-question, cross-examine</sg>,;
+<sg>press for an answer</sg>,;
+<sg>give the third degree</sg>,;
+<sg>put to the inquisition</sg>,;
+<sg>dodge</sg>,;
+<sg>catechize</sg>,;
+<sg>require an answer</sg>,;
+<sg>pick the brains of, suck the brains of</sg>,;
+<sg>feel the pulse</sg>,;
+<sg>get the lay of the land</sg>,;
+<sg>see how the wind is blowing</sg>,;
+<sg>put one's ear to the ground</sg>,;
+<sg>be in question</sg>,;
+<sg>undergo examination</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>inquiry</sg>,;
+<sg>inquisitive ,<cref>455 <i>curious</i></cref></sg>,;
+<sg>requisitive, requisitory</sg>,;
+<sg>catechetical, inquisitorial, analytic</sg>,;
+<sg>in search of, in quest of</sg>,;
+<sg>on the lookout for, interrogative, zetetic</sg>,;
+<sg>all searching</sg>,;
+<sg>undetermined, untried, undecided</sg>,;
+<sg>in question, in dispute, in issue, in course of inquiry</sg>,;
+<sg>under discussion, under consideration, under investigation</sg>,;
+<sg>sub judice, moot, proposed</sg>,;
+<sg>doubtful ,<cref>475 <i>uncertain</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>quaere?, what?, why?, wherefore?, whence?, whither?, where?, how comes it?, how happens it?, how is it?, what is the reason?, what's the matter?, nicht wahr?, what's in the wind?, what on earth?, when?, who?</sg>,;
+<br>
+</paragraph>

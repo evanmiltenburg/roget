@@ -1,0 +1,54 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#38#</sectionNumber>
+<headword>#<b>#[001] #995# Temperance #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>temperance, </i>moderation, sobriety, soberness</sg>,;
+<sg>forbearance, abnegation</sg>,;
+<sg>self-denial, self-restraint, self-control ,<cref>604 <i>resolution</i></cref></sg>,;
+<sg>frugality</sg>,;
+<sg>vegetarianism, teetotalism, total abstinence</sg>,;
+<sg>abstinence, abstemiousness</sg>,;
+<sg>Encratism, prohibition</sg>,;
+<sg>system of Pythagoras, system of Cornaro</sg>,;
+<sg>Pythagorism, Stoicism</sg>,;
+<sg>vegetarian</sg>,;
+<sg>Pythagorean, gymnosophist</sg>,;
+<sg>teetotaler ,<cref> 958 <i>ingratitude</i></cref></sg>,;
+<sg>abstainer</sg>,;
+<sg>designated driver</sg>,;
+<sg>Encratite, fruitarian, hydropot</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be temperate</sg>,;
+<sg>abstain, forbear, refrain, deny oneself, spare, swear off</sg>,;
+<sg>know when one has had enough, know one's limit</sg>,;
+<sg>take the pledge, go on the wagon</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>temperate, moderate, sober, frugal, sparing</sg>,;
+<sg>abstemious, abstinent</sg>,;
+<sg>within compass</sg>,;
+<sg>measured ,<cref>639 <i>sufficient</i></cref></sg>,;
+<sg>on the wagon, on the water wagon</sg>,;
+<sg>dry</sg>,;
+<sg>Pythagorean</sg>,;
+<sg>vegetarian</sg>,;
+<sg>teetotal</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>appetitus rationi obediant</sg>,;
+<sg>l'abstenir pour jouir c'est l'epicurisme de la raison</sg>,;
+<sg>trahit sua quemque voluptas</sg>,;
+<br>
+</paragraph>

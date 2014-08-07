@@ -1,0 +1,58 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#15#</sectionNumber>
+<headword>#<b>#[001] #420# Silence #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>silence</i></sg>,;
+<sg>stillness ,<cref>265 <i>quiet</i></cref></sg>,;
+<sg>peace, hush, lull</sg>,;
+<sg>muteness ,<cref> 581 <i>misrepresentation</i></cref></sg>,;
+<sg>solemn silence, awful silence, dead silence, deathlike silence</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be silent</sg>,;
+<sg>hold one's tongue ,<cref>585 <i>not speak</i></cref></sg>,;
+<sg>render silent</sg>,;
+<sg>silence, still, hush</sg>,;
+<sg>stifle, muffle, stop</sg>,;
+<sg>muzzle, put to silence ,<cref>581 <i>render mute</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>silent</sg>,;
+<sg>still, stilly</sg>,;
+<sg>noiseless, soundless</sg>,;
+<sg>hushed</sg>,;
+<sg>mute ,<cref> 581 <i>misrepresentation</i></cref></sg>,;
+<sg>soft, solemn, awful, deathlike, silent as the grave</sg>,;
+<sg>inaudible ,<cref>405 <i>faint</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>silently</sg>,;
+<sg>sub silentio</sg>,;
+<sg>Int</sg>,;
+<sg>hush!, silence!, soft!, whist!, tush!, chut!, tut!, pax!, be quiet!, be silent!, be still!, shut up!</sg>,;
+<sg>chup!, chup rao!, tace! ,</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>one might hear a feather drop, one might hear a pin drop, so quiet you could hear a pin drop</sg>,;
+<sg>grosse Seelen dulden still</sg>,;
+<sg>le silence est la vertu de ceux qui ne sont pas sages</sg>,;
+<sg>le silence est le parti le plus sar de celui se d_efie de soi-meme</sg>,;
+<sg>silence more musical than any song</sg>,;
+<sg>tacent satis laudant</sg>,;
+<sg>better to be silent and thought a fool than to speak up and remove all doubt</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,55 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#39#</sectionNumber>
+<headword>#<b>#[001] #1031# Piety #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>piety, </i>religion, theism, faith</sg>,;
+<sg>religiousness, holiness</sg>,;
+<sg>saintship</sg>,;
+<sg>religionism</sg>,;
+<sg>sanctimony ,<cref>988 <i>assumed piety</i></cref></sg>,;
+<sg>reverence ,<cref>928 <i>respect</i></cref></sg>,;
+<sg>humility, veneration, devotion</sg>,;
+<sg>prostration ,<cref>990 <i>worship</i></cref></sg>,;
+<sg>grace, unction, edification</sg>,;
+<sg>sanctity, sanctitude</sg>,;
+<sg>consecration</sg>,;
+<sg>spiritual existence, odor of sanctity, beauty of holiness</sg>,;
+<sg>theopathy, beatification, adoption, regeneration, conversion, justification, sanctification, salvation, inspiration, bread of life</sg>,;
+<sg>Body and Blood of Christ</sg>,;
+<sg>believer, convert, theist, Christian, devotee, pietist</sg>,;
+<sg>the good, the righteous, the just, the believing, the elect</sg>,;
+<sg>Saint, Madonna, Notre Dame, Our Lady</sg>,;
+<sg>the children of God, the children of the Kingdom, the children of the light</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be pious</sg>,;
+<sg>have faith</sg>,;
+<sg>believe, receive Christ</sg>,;
+<sg>revere ,<cref> 928 <i>enmity</i></cref></sg>,;
+<sg>be converted </sg>,;
+<sg>convert, edify, sanctify, keep holy, beatify, regenerate, inspire, consecrate, enshrine</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>pious, religious, devout, devoted, reverent, godly, heavenly- minded, humble, pure, holy, spiritual, pietistic</sg>,;
+<sg>saintly, saint-like</sg>,;
+<sg>seraphic, sacred, solemn</sg>,;
+<sg>believing, faithful, Christian, Catholic</sg>,;
+<sg>elected, adopted, justified, sanctified, regenerated, inspired, consecrated, converted, unearthly, not of the earth</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>ne vile fano</sg>,;
+<sg>pure-eyed Faith</sg>,;
+<sg>thou hovering angel girt with golden wings</sg>,;
+<br>
+</paragraph>

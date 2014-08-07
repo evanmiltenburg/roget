@@ -1,0 +1,74 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#27#</sectionNumber>
+<headword>#<b>#[001] #679# Perfection #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>perfection</i></sg>,;
+<sg>perfectness</sg>,;
+<sg>indefectibility</sg>,;
+<sg>impeccancy, impeccability</sg>,;
+<sg>pink, beau ideal, phenix, paragon</sg>,;
+<sg>pink of perfection, acme of perfection</sg>,;
+<sg>ne plus ultra</sg>,;
+<sg>summit ,<cref> 210 <i>shortness</i></cref></sg>,;
+<sg>cygne noir</sg>,;
+<sg>philosopher's stone</sg>,;
+<sg>chrysolite, Koh-i-noor</sg>,;
+<sg>model, standard, pattern, mirror, admirable Crichton</sg>,;
+<sg>trump, very prince of</sg>,;
+<sg>masterpiece, superexcellence ,<cref>648 <i>goodness</i></cref></sg>,;
+<sg>transcendence ,<cref>33 <i>superiority</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be perfect</sg>,;
+<sg>transcend ,<cref>33 <i>be supreme</i></cref></sg>,;
+<sg>bring to perfection, perfect, ripen, mature</sg>,;
+<sg>complete ,<cref> 729 <i>proficient</i></cref></sg>,;
+<sg>put in trim ,<cref>673 <i>prepare</i></cref></sg>,;
+<sg>maturate</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>perfect, faultless</sg>,;
+<sg>indefective, indeficient, indefectible</sg>,;
+<sg>immaculate, spotless, impeccable</sg>,;
+<sg>free from imperfection ,<cref> 651 <i>pursuit</i></cref></sg>,;
+<sg>unblemished, uninjured ,<cref> 659 <i>requirement</i></cref></sg>,;
+<sg>sound, sound as a roach</sg>,;
+<sg>in perfect condition</sg>,;
+<sg>scathless, intact, harmless</sg>,;
+<sg>seaworthy ,<cref>644 <i>safe</i></cref></sg>,;
+<sg>right as a trivet</sg>,;
+<sg>in seipso totus teres atque rotundus</sg>,;
+<sg>consummate ,<cref>52 <i>complete</i></cref></sg>,;
+<sg>finished ,<cref> 729 <i>proficient</i></cref></sg>,;
+<sg>best ,<cref>648 <i>good</i></cref></sg>,;
+<sg>model, standard</sg>,;
+<sg>inimitable, unparagoned, unparalleled ,<cref>33 <i>supreme</i></cref></sg>,;
+<sg>superhuman, divine</sg>,;
+<sg>beyond all praise ,<cref>931 <i>approbation</i></cref></sg>,;
+<sg>sans peur et sans reproche</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>to perfection</sg>,;
+<sg>perfectly</sg>,;
+<sg>ad unguem</sg>,;
+<sg>clean, clean as a whistle</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>let us go on unto perfection</sg>,;
+<sg>the perfection of art is to conceal art</sg>,;
+<br>
+</paragraph>

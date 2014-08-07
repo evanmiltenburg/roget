@@ -1,0 +1,93 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#4#</sectionNumber>
+<headword>#<b>#[001] #71# End #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>end, </i>close, termination</sg>,;
+<sg>desinence, conclusion, finis, finale, period, term, terminus, endpoint, last, omega</sg>,;
+<sg>extreme, extremity</sg>,;
+<sg>gable end, butt end, fag-end</sg>,;
+<sg>tip, nib, point</sg>,;
+<sg>tail ,<cref>235 <i>rear</i></cref></sg>,;
+<sg>verge ,<cref>231 <i>edge</i></cref></sg>,;
+<sg>tag, peroration</sg>,;
+<sg>bonne bouche</sg>,;
+<sg>bottom dollar, tail end, rear guard</sg>,;
+<sg>consummation, denouement</sg>,;
+<sg>finish ,<cref>729 <i>completion</i></cref></sg>,;
+<sg>fate</sg>,;
+<sg>doom, doomsday</sg>,;
+<sg>crack of doom, day of Judgment, dies irae, fall of the curtain</sg>,;
+<sg>goal, destination</sg>,;
+<sg>limit, determination</sg>,;
+<sg>expiration, expiry, extinction, extermination</sg>,;
+<sg>death ,<cref> 360 <i>wind</i></cref></sg>,;
+<sg>end of all things</sg>,;
+<sg>finality</sg>,;
+<sg>eschatology</sg>,;
+<sg>break up, commencement de la fin, last stage, turning point</sg>,;
+<sg>coup de grace, deathblow</sg>,;
+<sg>knock-out-blow</sg>,;
+<sg>sockdolager</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>end, close, finish, terminate, conclude, be all over</sg>,;
+<sg>expire</sg>,;
+<sg>die ,<cref> 360 <i>wind</i></cref></sg>,;
+<sg>come-, draw-to-a-close</sg>,;
+<sg>have run its course</sg>,;
+<sg>run out, pass away</sg>,;
+<sg>bring to an end</sg>,;
+<sg>put an end to, make an end of</sg>,;
+<sg>determine</sg>,;
+<sg>get through</sg>,;
+<sg>achieve ,<cref>729 <i>complete</i></cref></sg>,;
+<sg>stop ,<cref>142 <i>make to cease</i></cref></sg>,;
+<sg>shut up shop</sg>,;
+<sg>hang up one's fiddle</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>ending</sg>,;
+<sg>final, terminal, definitive</sg>,;
+<sg>crowning ,<cref>729 <i>completing</i></cref></sg>,;
+<sg>last, ultimate</sg>,;
+<sg>hindermost</sg>,;
+<sg>rear ,<cref> 235 <i>clothing</i></cref></sg>,;
+<sg>caudal</sg>,;
+<sg>vergent</sg>,;
+<sg>conterminate, conterminous, conterminable</sg>,;
+<sg>ended</sg>,;
+<sg>at an end</sg>,;
+<sg>settled, decided, over, played out, set at rest</sg>,;
+<sg>conclusive</sg>,;
+<sg>penultimate</sg>,;
+<sg>last but one, last but two,  unbegun, uncommenced</sg>,;
+<sg>fresh</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>finally</sg>,;
+<sg>in fine</sg>,;
+<sg>at the last</sg>,;
+<sg>once for all</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>as high as Heaven and as deep as hell</sg>,;
+<sg>deficit omne quod nascitur</sg>,;
+<sg>en toute chose il faut considerer la fin</sg>,;
+<sg>finem respice</sg>,;
+<sg>ultimus Romanorum</sg>,;
+<br>
+</paragraph>

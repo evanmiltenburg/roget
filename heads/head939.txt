@@ -1,0 +1,139 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#37#</sectionNumber>
+<headword>#<b>#[001] #939# Resentment #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>resentment, </i>displeasure, animosity, anger, wrath, indignation</sg>,;
+<sg>exasperation, bitter resentment, wrathful indignation</sg>,;
+<sg>pique, umbrage, huff, miff, soreness, dudgeon, acerbity, virulence, bitterness, acrimony, asperity, spleen, gall</sg>,;
+<sg>heart-burning, heart-swelling</sg>,;
+<sg>rankling</sg>,;
+<sg>ill humor, bad humor, ill temper, bad temper</sg>,;
+<sg>irascibility ,<cref> 901 <i>cowardice</i></cref></sg>,;
+<sg>ill blood ,<cref>898 <i>hate</i></cref></sg>,;
+<sg>revenge ,<cref> 919 <i>vanity</i></cref></sg>,;
+<sg>excitement, irritation</sg>,;
+<sg>warmth, bile, choler, ire, fume, pucker, dander, ferment, ebullition</sg>,;
+<sg>towering passion, acharnement, angry mood, taking, pet, tiff, passion, fit, tantrums</sg>,;
+<sg>burst, explosion, paroxysm, storm, rage, fury, desperation</sg>,;
+<sg>violence ,<cref> 173 <i>paternity</i></cref></sg>,;
+<sg>fire and fury</sg>,;
+<sg>vials of wrath</sg>,;
+<sg>gnashing of teeth, hot blood, high words</sg>,;
+<sg>scowl ,<cref> 895 <i>ridicule</i></cref></sg>,;
+<sg>sulks ,<cref> 901 <i>cowardice</i></cref></sg>,;
+<sg>1</sg>,;
+<sg>affront, provocation, offense</sg>,;
+<sg>indignity ,<cref>929 <i>insult</i></cref></sg>,;
+<sg>grudge, crow to pluck, bone to pick, sore subject, casus belli</sg>,;
+<sg>ill turn, outrage</sg>,;
+<sg>Furies, Eumenides</sg>,;
+<sg>buffet, slap in the face, box on the ear, rap on the knuckles</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>resent, take amiss, take ill, take to heart, take offense, take umbrage, take huff, take exception</sg>,;
+<sg>take in ill part, take in bad part, take in dudgeon</sg>,;
+<sg>ne pas entendre raillerie</sg>,;
+<sg>breathe revenge, cut up rough</sg>,;
+<sg>fly into a rage, fall into a rage, get into a rage, fly into a passion</sg>,;
+<sg>bridle up, bristle up, froth up, fire up, flare up</sg>,;
+<sg>open the vials of one's wrath, pour out the vials of one's wrath</sg>,;
+<sg>pout, knit the brow, frown, scowl, lower, snarl, growl, gnarl, gnash, snap</sg>,;
+<sg>redden, color</sg>,;
+<sg>look black, look black as thunder, look daggers</sg>,;
+<sg>bite one's thumb</sg>,;
+<sg>show one's teeth, grind one's teeth</sg>,;
+<sg>champ the bit, champ at the bit</sg>,;
+<sg>chafe, mantle, fume, kindle, fly out, take fire</sg>,;
+<sg>boil, boil over</sg>,;
+<sg>boil with indignation, boil with rage</sg>,;
+<sg>rage, storm, foam, vent one's rage, vent one's spleen</sg>,;
+<sg>lose one's temper, stand on one's hind legs, stamp the foot, stamp with rage, quiver with rage, swell with rage, foam with rage</sg>,;
+<sg>burst with anger</sg>,;
+<sg>raise Cain</sg>,;
+<sg>have a fling at</sg>,;
+<sg>bear malice ,<cref>919 <i>revenge</i></cref></sg>,;
+<sg>cause anger, raise anger</sg>,;
+<sg>affront, offend</sg>,;
+<sg>give offense, give umbrage</sg>,;
+<sg>anger</sg>,;
+<sg>hurt the feelings</sg>,;
+<sg>insult, discompose, fret, ruffle, nettle, huff, pique</sg>,;
+<sg>excite ,<cref> 824 <i>stealing</i></cref></sg>,;
+<sg>irritate, stir the blood, stir up bile</sg>,;
+<sg>sting, sting to the quick</sg>,;
+<sg>rile, provoke, chafe, wound, incense, inflame, enrage, aggravate, add fuel to the flame, fan into a flame, widen the breach, envenom, embitter, exasperate, infuriate, kindle wrath</sg>,;
+<sg>stick in one's gizzard</sg>,;
+<sg>rankle ,<cref> 919 <i>vanity</i></cref></sg>,;
+<sg>hit on the raw, rub on the raw, sting on the raw, strike on the raw</sg>,;
+<sg>put out of countenance, put out of humor</sg>,;
+<sg>put one's monkey up, put one's back up</sg>,;
+<sg>raise one's gorge, raise one's dander, raise one's choler</sg>,;
+<sg>work up into a passion</sg>,;
+<sg>make one's blood boil, make the ears tingle</sg>,;
+<sg>throw, into a ferment, madden, drive one mad</sg>,;
+<sg>lash into fury, lash into madness</sg>,;
+<sg>fool to the top of one's bent</sg>,;
+<sg>set by the ears</sg>,;
+<sg>bring a hornet's nest about one's ears</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>angry, wrath, irate</sg>,;
+<sg>ireful, wrathful</sg>,;
+<sg>cross ,<cref>901 <i>irascible</i></cref></sg>,;
+<sg>Achillean</sg>,;
+<sg>sulky, ,<cref> 901 <i>cowardice</i></cref></sg>,;
+<sg>1</sg>,;
+<sg>bitter, virulent</sg>,;
+<sg>acrimonious &c (discourteous) ,<cref> 895 <i>ridicule</i></cref></sg>,;
+<sg>violent ,<cref> 173 <i>paternity</i></cref></sg>,;
+<sg>warm, burning</sg>,;
+<sg>boiling, boiling over</sg>,;
+<sg>fuming, raging</sg>,;
+<sg>foaming, foaming at the mouth</sg>,;
+<sg>convulsed with rage</sg>,;
+<sg>offended</sg>,;
+<sg>waxy, acharne</sg>,;
+<sg>wrought, worked up</sg>,;
+<sg>indignant, hurt, sore</sg>,;
+<sg>set against</sg>,;
+<sg>fierce, wild, rageful, furious, mad with rage, fiery, infuriate, rabid, savage</sg>,;
+<sg>relentless ,<cref> 919 <i>vanity</i></cref></sg>,;
+<sg>flushed with anger, flushed with rage</sg>,;
+<sg>in a huff, in a stew, in a fume, in a pucker, in a passion, in a rage, in a fury, in a taking, in a way</sg>,;
+<sg>on one's high ropes, up in arms</sg>,;
+<sg>in high dudgeon</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>angrily</sg>,;
+<sg>in the height of passion</sg>,;
+<sg>in the heat of passion, in the heat of the moment</sg>,;
+<sg>Int</sg>,;
+<sg>tantaene animis coelestibus irae!, , marry come up!, zounds!, 'sdeath!</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>one's blood being up, one's back being up, one's monkey being up</sg>,;
+<sg>fervens difficili bile jecur</sg>,;
+<sg>the gorge rising, eyes flashing fire</sg>,;
+<sg>the blood rising, the blood boiling</sg>,;
+<sg>haeret lateri lethalis arundo</sg>,;
+<sg>beware the fury of a patient man</sg>,;
+<sg>furor arma ministrat</sg>,;
+<sg>ira furor brevis est</sg>,;
+<sg>quem Jupiter vult perdere dementat prius</sg>,;
+<sg>What, drunk with choler?</sg>,;
+<br>
+</paragraph>

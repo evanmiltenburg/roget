@@ -1,0 +1,75 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#34#</sectionNumber>
+<headword>#<b>#[001] #824# Stealing #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>stealing</i></sg>,;
+<sg>theft, thievery, latrociny, direption</sg>,;
+<sg>abstraction, appropriation</sg>,;
+<sg>plagiary, plagiarism</sg>,;
+<sg>autoplagiarism</sg>,;
+<sg>latrocinium</sg>,;
+<sg>spoliation, plunder, pillage</sg>,;
+<sg>sack, sackage</sg>,;
+<sg>rapine, brigandage, foray, razzia, rape, depredation, raid</sg>,;
+<sg>blackmail</sg>,;
+<sg>piracy, privateering, buccaneering</sg>,;
+<sg>license to plunder, letters of marque, letters of mark and reprisal</sg>,;
+<sg>filibustering, filibusterism</sg>,;
+<sg>burglary</sg>,;
+<sg>housebreaking</sg>,;
+<sg>badger game</sg>,;
+<sg>robbery, highway robbery, hold-up, mugging</sg>,;
+<sg>peculation, embezzlement</sg>,;
+<sg>fraud ,<cref> 545 <i>equivocalness</i></cref></sg>,;
+<sg>larceny, petty larceny, grand larceny, shoplifting</sg>,;
+<sg>thievishness, rapacity, kleptomania, Alsatia, den of Cacus, den of thieves</sg>,;
+<sg>blackmail, extortion, shakedown, Black Hand</sg>,;
+<sg>thief ,<cref> 792 <i>prohibition</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>steal, thieve, rob, mug, purloin, pilfer, filch, prig, bag, nim, crib, cabbage, palm</sg>,;
+<sg>abstract</sg>,;
+<sg>appropriate, plagiarize</sg>,;
+<sg>convey away, carry off, abduct, kidnap, crimp</sg>,;
+<sg>make off with, walk off with, run off with</sg>,;
+<sg>run away with</sg>,;
+<sg>spirit away, seize ,<cref>789 <i>lay violent hands on</i></cref></sg>,;
+<sg>plunder, pillage, rifle, sack, loot, ransack, spoil, spoliate, despoil, strip, sweep, gut, forage, levy blackmail, pirate, pickeer, maraud, lift cattle, poach</sg>,;
+<sg>smuggle, run</sg>,;
+<sg>badger</sg>,;
+<sg>bail up, hold up, stick up</sg>,;
+<sg>bunco, bunko, filibuster</sg>,;
+<sg>swindle, peculate, embezzle</sg>,;
+<sg>sponge, mulct, rook, bilk, pluck, pigeon, fleece</sg>,;
+<sg>defraud ,<cref> 545 <i>equivocalness</i></cref></sg>,;
+<sg>obtain under false pretenses</sg>,;
+<sg>live by one's wits</sg>,;
+<sg>rob Peter to pay Paul, borrow of Peter to pay Paul</sg>,;
+<sg>set a thief to catch a thief</sg>,;
+<sg>disregard the distinction between meum and tuum</sg>,;
+<sg>fence, launder, launder money</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>thieving</sg>,;
+<sg>thievish, light-fingered</sg>,;
+<sg>furacious, furtive</sg>,;
+<sg>piratical</sg>,;
+<sg>predaceous, predal, predatory, predatorial</sg>,;
+<sg>raptorial ,<cref>789 <i>rapacious</i></cref></sg>,;
+<sg>stolen</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>sic vos non vobis</sg>,;
+<br>
+</paragraph>

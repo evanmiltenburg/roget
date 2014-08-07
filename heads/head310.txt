@@ -1,0 +1,36 @@
+<classNumber>#2#</classNumber>
+<sectionNumber>#12#</sectionNumber>
+<headword>#<b>#[001] #310# Excretion #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>excretion, </i>discharge, emanation</sg>,;
+<sg>exhalation, exudation, extrusion, secretion, effusion, extravasation, ecchymosis</sg>,;
+<sg>evacuation, dejection, faeces, excrement, shit, stools, crap</sg>,;
+<sg>bloody flux</sg>,;
+<sg>cacation</sg>,;
+<sg>coeliac-flux, coeliac- passion</sg>,;
+<sg>dysentery</sg>,;
+<sg>perspiration, sweat</sg>,;
+<sg>subation, exudation</sg>,;
+<sg>diaphoresis</sg>,;
+<sg>sewage</sg>,;
+<sg>eccrinology</sg>,;
+<sg>saliva, spittle, rheum</sg>,;
+<sg>ptyalism, salivation, catarrh</sg>,;
+<sg>diarrhoea</sg>,;
+<sg>ejecta, egesta, sputa</sg>,;
+<sg>excreta</sg>,;
+<sg>lava</sg>,;
+<sg>exuviae ,<cref>653 <i>uncleanness</i></cref></sg>,;
+<sg>hemorrhage, bleeding</sg>,;
+<sg>outpouring ,<cref>295 <i>egress</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>excrete ,<cref>297 <i>eject</i></cref></sg>,;
+<sg>emanate ,<cref>295 <i>come out</i></cref></sg>,;
+<br>
+</paragraph>

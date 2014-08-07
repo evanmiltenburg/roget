@@ -1,0 +1,40 @@
+<classNumber>#2#</classNumber>
+<sectionNumber>#10#</sectionNumber>
+<headword>#<b>#[001] #223# Pendency #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>pendency, </i>dependency</sg>,;
+<sg>suspension, hanging</sg>,;
+<sg>pedicel, pedicle, peduncle</sg>,;
+<sg>tail, train, flap, skirt, pigtail, pony tail, pendulum</sg>,;
+<sg>hangnail peg, knob, button, hook, nail, stud, ring, staple, tenterhook</sg>,;
+<sg>fastening ,<cref> 45 <i>simpleness</i></cref></sg>,;
+<sg>spar, horse</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be pendent</sg>,;
+<sg>hang, depend, swing, dangle</sg>,;
+<sg>swag</sg>,;
+<sg>daggle, flap, trail, flow</sg>,;
+<sg>beetle</sg>,;
+<sg>suspend, hang, sling, hook up, hitch, fasten to, append</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>pendent, pendulous</sg>,;
+<sg>pensile</sg>,;
+<sg>hanging</sg>,;
+<sg>beetling, jutting over, overhanging, projecting</sg>,;
+<sg>dependent</sg>,;
+<sg>suspended</sg>,;
+<sg>loose, flowing</sg>,;
+<sg>having a peduncle</sg>,;
+<sg>pedunculate, tailed, caudate</sg>,;
+<br>
+</paragraph>

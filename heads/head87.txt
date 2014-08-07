@@ -1,0 +1,115 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#4#</sectionNumber>
+<headword>#<b>#[001] #87# Unconformity #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>unconformity, </i>nonconformity ,<cref> 82 <i>generality</i></cref></sg>,;
+<sg>unconformity, disconformity</sg>,;
+<sg>unconventionality, informality, abnormity, abnormality, anomaly</sg>,;
+<sg>anomalousness</sg>,;
+<sg>exception, peculiarity</sg>,;
+<sg>infraction of law, breach, of law, violation of law, violation of custom, violation of usage, infringement of law, infringement of custom, infringement of usage</sg>,;
+<sg>teratism, eccentricity, bizarrerie, oddity, je ne sais quoi, monster, monstrosity, rarity</sg>,;
+<sg>freak, freak of Nature, weirdo, mutant</sg>,;
+<sg>rouser, snorter</sg>,;
+<sg>individuality, idiosyncrasy, originality, mannerism</sg>,;
+<sg>aberration</sg>,;
+<sg>irregularity</sg>,;
+<sg>variety</sg>,;
+<sg>singularity</sg>,;
+<sg>exemption</sg>,;
+<sg>salvo ,<cref>469 <i>qualification</i></cref></sg>,;
+<sg>nonconformist</sg>,;
+<sg>nondescript, character, original, nonesuch, nonsuch, monster, prodigy, wonder, miracle, curiosity, flying fish, black sheep, black swan, lusus naturae, rara avis, queer fish</sg>,;
+<sg>mongrel, random breed</sg>,;
+<sg>half-caste, half-blood, half-breed</sg>,;
+<sg>metis, crossbreed, hybrid, mule, hinny, mulatto</sg>,;
+<sg>tertium quid, hermaphrodite</sg>,;
+<sg>phoenix, chimera, hydra, sphinx, minotaur</sg>,;
+<sg>griffin, griffon</sg>,;
+<sg>centaur</sg>,;
+<sg>saggittary</sg>,;
+<sg>kraken, cockatrice, wyvern, roc, dragon, sea serpent</sg>,;
+<sg>mermaid, merman, merfolk</sg>,;
+<sg>unicorn</sg>,;
+<sg>Cyclops, men whose heads do grow beneath their shoulders</sg>,;
+<sg>teratology</sg>,;
+<sg>fish out of water</sg>,;
+<sg>neither one thing nor another, neither fish nor fowl, neither fish flesh nor fowl nor good red herring</sg>,;
+<sg>one in a million, one in a way, one in a thousand</sg>,;
+<sg>outcast, outlaw</sg>,;
+<sg>off the beaten track</sg>,;
+<sg>oasis</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be uncomformable</sg>,;
+<sg>abnormalize</sg>,;
+<sg>leave the beaten track, leave the beaten path</sg>,;
+<sg>infringe a law, infringe a habit, infringe a usage, infringe a custom, break a law, break a habit, break a usage, break a custom, violate a law, violate a habit, violate a usage, violate a custom</sg>,;
+<sg>drive a coach and six through</sg>,;
+<sg>stretch a point</sg>,;
+<sg>have no business there</sg>,;
+<sg>baffle all description, beggar all description</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>uncomformable, exceptional</sg>,;
+<sg>abnormal, abnormous</sg>,;
+<sg>anomalous, anomalistic</sg>,;
+<sg>out of order, out of place, out of keeping, out of tune, out of one's element</sg>,;
+<sg>irregular, arbitrary</sg>,;
+<sg>teratogenic</sg>,;
+<sg>lawless, informal, aberrant, stray, wandering, wanton</sg>,;
+<sg>peculiar, exclusive, unnatural, eccentric, egregious</sg>,;
+<sg>out of the beaten track, off the beaten track, out of the common, out of the common run</sg>,;
+<sg>beyond the pale of, out of the pale of</sg>,;
+<sg>misplaced</sg>,;
+<sg>funny</sg>,;
+<sg>unusual, unaccustomed, uncustomary, unwonted, uncommon</sg>,;
+<sg>rare, curious, odd, extraordinary, out of the ordinary</sg>,;
+<sg>strange, monstrous</sg>,;
+<sg>wonderful ,<cref> 870 <i>discontent</i></cref></sg>,;
+<sg>unexpected, unaccountable</sg>,;
+<sg>outre, out of the way, remarkable, noteworthy</sg>,;
+<sg>queer, quaint, nondescript, none such, sui generis</sg>,;
+<sg>unfashionable</sg>,;
+<sg>fantastic, grotesque, bizarre</sg>,;
+<sg>outlandish, exotic, tombe des nues, preternatural</sg>,;
+<sg>denaturalized</sg>,;
+<sg>heterogeneous, heteroclite, amorphous, mongrel, amphibious, epicene, half blood, hybrid</sg>,;
+<sg>androgynous, androgynal</sg>,;
+<sg>asymmetric ,<cref> 243 <i>limit</i></cref></sg>,;
+<sg>adelomorphous, bisexual, hermaphrodite, monoclinous</sg>,;
+<sg>qualified ,<cref> 469 <i>intellect</i></cref></sg>,;
+<sg>singular, unique, one-of-a-kind</sg>,;
+<sg>newfangled, novel, non-classical</sg>,;
+<sg>original, unconventional, unheard of, unfamiliar</sg>,;
+<sg>undescribed, unprecedented, unparalleled, unexampled</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>unconformably</sg>,;
+<sg>except, unless, save barring, beside, without, save and except, let alone</sg>,;
+<sg>however, yet, but</sg>,;
+<sg>once in a blue moon, once in a million years</sg>,;
+<sg>Int</sg>,;
+<sg>what on earth!, what in the world!, What the devil!, Holy cow!, Can you top that?</sg>,;
+<sg>Sacre bleu</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>never was seen the like, never was heard the like, never was known the like</sg>,;
+<sg>I could hardly believe it</sg>,;
+<sg>I saw it, but I didn't believe it</sg>,;
+<br>
+</paragraph>

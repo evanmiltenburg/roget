@@ -1,0 +1,35 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#37#</sectionNumber>
+<headword>#<b>#[001] #944# Celibacy #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>celibacy, </i>singleness, single blessedness</sg>,;
+<sg>bachelorhood, bachelorship</sg>,;
+<sg>misogamy, misogyny</sg>,;
+<sg>virginity, pucelage</sg>,;
+<sg>maidenhood, maidenhead</sg>,;
+<sg>unmarried man, bachelor, Coelebs, agamist, old bachelor</sg>,;
+<sg>misogamist, misogynist</sg>,;
+<sg>monogamist</sg>,;
+<sg>monk</sg>,;
+<sg>unmarried woman, spinster</sg>,;
+<sg>maid, maiden, virgin, feme sole, old maid</sg>,;
+<sg>bachelor girl, girl-bachelor</sg>,;
+<sg>nun</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>live single, live alone</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>unmarried, unwed, unwedded</sg>,;
+<sg>wifeless, spouseless</sg>,;
+<sg>single</sg>,;
+<br>
+</paragraph>

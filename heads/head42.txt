@@ -1,0 +1,49 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#3#</sectionNumber>
+<headword>#<b>#[001] #42# Remainder #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>remainder, </i>residue</sg>,;
+<sg>remains, remanent, remnant, rest, relic</sg>,;
+<sg>leavings, heeltap, odds and ends, cheesepairings, candle ends, orts</sg>,;
+<sg>residuum</sg>,;
+<sg>dregs ,<cref>653 <i>dirt</i></cref></sg>,;
+<sg>refuse ,<cref>645 <i>useless</i></cref></sg>,;
+<sg>stubble, result, educt</sg>,;
+<sg>fag-end</sg>,;
+<sg>ruins, wreck, skeleton</sg>,;
+<sg>, stump</sg>,;
+<sg>alluvium</sg>,;
+<sg>surplus, overplus, excess</sg>,;
+<sg>balance, complement</sg>,;
+<sg>superplus, surplusage</sg>,;
+<sg>superfluity ,<cref>641 <i>redundancy</i></cref></sg>,;
+<sg>survival, survivance</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>remain</sg>,;
+<sg>be left</sg>,;
+<sg>exceed, survive</sg>,;
+<sg>leave</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>remaining, left</sg>,;
+<sg>left behind left over</sg>,;
+<sg>residual, residuary</sg>,;
+<sg>over, odd</sg>,;
+<sg>unconsumed, sedimentary</sg>,;
+<sg>surviving</sg>,;
+<sg>net</sg>,;
+<sg>exceeding, over and above</sg>,;
+<sg>outlying, outstanding</sg>,;
+<sg>cast off ,<cref> 782 <i>restraint</i></cref></sg>,;
+<sg>superfluous ,<cref>641 <i>redundant</i></cref></sg>,;
+<br>
+</paragraph>

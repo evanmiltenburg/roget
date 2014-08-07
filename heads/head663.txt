@@ -1,0 +1,11 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#27#</sectionNumber>
+<headword>#<b>#[001] #663# Substitute #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>substitute</i> ,<cref> 147 <i>change</i></cref></sg>,;
+<sg>deputy ,<cref> 759 <i>noncompletion</i></cref></sg>,;
+<sg>badli</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,77 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#1#</sectionNumber>
+<headword>#<b>#[001] #5# Intrinsicality #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>intrinsicality, </i>inbeing, inherence, inhesion</sg>,;
+<sg>subjectiveness</sg>,;
+<sg>ego</sg>,;
+<sg>egohood</sg>,;
+<sg>essence, noumenon</sg>,;
+<sg>essentialness</sg>,;
+<sg>essential part, quintessence, incarnation, quiddity, gist, pith, marrow, core, sap, lifeblood, backbone, heart, soul</sg>,;
+<sg>important part ,<cref>642 <i>importance</i></cref></sg>,;
+<sg>principle, nature, constitution, character, type, quality, crasis, diathesis</sg>,;
+<sg>habit</sg>,;
+<sg>temper, temperament</sg>,;
+<sg>spirit, humor, grain</sg>,;
+<sg>disposition</sg>,;
+<sg>endowment, capacity</sg>,;
+<sg>capability ,<cref>157 <i>power</i></cref></sg>,;
+<sg>moods, declensions, features, aspects</sg>,;
+<sg>peculiarities ,<cref>79 <i>speciality</i></cref></sg>,;
+<sg>idiosyncrasy, oddity</sg>,;
+<sg>idiocrasy ,<cref>176 <i>tendency</i></cref></sg>,;
+<sg>diagnostics</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be in the blood, run in the blood</sg>,;
+<sg>be born so</sg>,;
+<sg>be intrinsic</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>derived from within, subjective</sg>,;
+<sg>intrinsic, intrinsical</sg>,;
+<sg>fundamental, normal</sg>,;
+<sg>implanted, inherent, essential, natural</sg>,;
+<sg>innate, inborn, inbred, ingrained, inwrought</sg>,;
+<sg>coeval with birth, genetous, haematobious, syngenic</sg>,;
+<sg>radical, incarnate, thoroughbred, hereditary, inherited, immanent</sg>,;
+<sg>congenital, congenite</sg>,;
+<sg>connate, running in the blood</sg>,;
+<sg>ingenerate, ingenite</sg>,;
+<sg>indigenous</sg>,;
+<sg>in the grain</sg>,;
+<sg>bred in the bone, instinctive</sg>,;
+<sg>inward, internal ,<cref> 221 <i>verticality</i></cref></sg>,;
+<sg>to the manner born</sg>,;
+<sg>virtual</sg>,;
+<sg>characteristic ,<cref>550 <i>special) 79, (indicative</i></cref></sg>,;
+<sg>invariable, incurable, incorrigible, ineradicable, fixed</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>intrinsically</sg>,;
+<sg>at bottom, in the main, in effect, practically, virtually, substantially, au fond</sg>,;
+<sg>fairly</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>character is higher than intellect</sg>,;
+<sg>come give us a taste of your quality</sg>,;
+<sg>magnos homines virtute metimur non fortuna</sg>,;
+<sg>non numero haec judicantur sed pondere</sg>,;
+<sg>vital spark of heavenly flame</sg>,;
+<br>
+</paragraph>

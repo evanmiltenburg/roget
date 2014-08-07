@@ -1,0 +1,42 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#38#</sectionNumber>
+<headword>#<b>#[001] #1018# Scourge #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>scourge, </i>rod, cane, stick</sg>,;
+<sg>ratan, rattan</sg>,;
+<sg>birch, birch rod</sg>,;
+<sg>azote, blacksnake, bullwhack, chicote, kurbash, quirt, rawhide, sjambok</sg>,;
+<sg>rod in pickle</sg>,;
+<sg>switch, ferule, cudgel, truncheon</sg>,;
+<sg>whip, bullwhip, lash, strap, thong, cowhide, knout</sg>,;
+<sg>cat, cat o'nine tails</sg>,;
+<sg>rope's end</sg>,;
+<sg>pillory, stocks, whipping post</sg>,;
+<sg>cucking stool, ducking stool</sg>,;
+<sg>brank</sg>,;
+<sg>trebuchet, trebuket</sg>,;
+<sg>triangle, wooden horse, iron maiden, thumbscrew, boot, rack, wheel, iron heel</sg>,;
+<sg>chinese water torture</sg>,;
+<sg>treadmill, crank, galleys</sg>,;
+<sg>scaffold</sg>,;
+<sg>block, ax, guillotine</sg>,;
+<sg>stake</sg>,;
+<sg>cross</sg>,;
+<sg>gallows, gibbet, tree, drop, noose, rope, halter, bowstring</sg>,;
+<sg>death chair, electric chair</sg>,;
+<sg>gas chamber</sg>,;
+<sg>lethal injection</sg>,;
+<sg>firing squad</sg>,;
+<sg>mecate</sg>,;
+<sg>house of correction ,<cref>752 <i>prison</i></cref></sg>,;
+<sg>goaler, jailer</sg>,;
+<sg>executioner</sg>,;
+<sg>electrocutioner</sg>,;
+<sg>lyncher</sg>,;
+<sg>hangman</sg>,;
+<sg>headsman</sg>,;
+<sg>Jack Ketch</sg>,;
+<br>
+</paragraph>

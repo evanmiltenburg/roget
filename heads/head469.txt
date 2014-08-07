@@ -1,0 +1,82 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#16#</sectionNumber>
+<headword>#<b>#[001] #469# Intellect #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>intellect, </i>mind, understanding, reason, thinking principle</sg>,;
+<sg>rationality</sg>,;
+<sg>cogitative faculties, cognitive faculties, discursive faculties, reasoning faculties, intellectual faculties</sg>,;
+<sg>faculties, senses, consciousness, observation, percipience, intelligence, intellection, intuition, association of ideas, instinct, conception, judgment, wits, parts, capacity, intellectuality, genius</sg>,;
+<sg>brains, cognitive powers, intellectual powers</sg>,;
+<sg>wit ,<cref> 498 <i>uncertainty</i></cref></sg>,;
+<sg>ability ,<cref>698 <i>skill</i></cref></sg>,;
+<sg>wisdom ,<cref> 498 <i>uncertainty</i></cref></sg>,;
+<sg>Vernunft, Verstand</sg>,;
+<sg>soul, spirit, ghost, inner man, heart, breast, bosom, penetralia mentis, divina particula aurae, heart's core</sg>,;
+<sg>the Absolute, psyche, subliminal consciousness, supreme principle</sg>,;
+<sg>brain, organ of thought, seat of thought</sg>,;
+<sg>sensorium, sensory</sg>,;
+<sg>head, headpiece</sg>,;
+<sg>pate, noddle, noggin, skull, scull, pericranium, cerebrum, cranium, brainpan, sconce, upper story</sg>,;
+<sg>central processing unit, CPU</sg>,;
+<sg>arithmetic and logical unit, ALU</sg>,;
+<sg>metaphysics</sg>,;
+<sg>psychics, psychology</sg>,;
+<sg>ideology</sg>,;
+<sg>mental philosophy, moral philosophy</sg>,;
+<sg>philosophy of the mind</sg>,;
+<sg>pneumatology, phrenology</sg>,;
+<sg>craniology, cranioscopy</sg>,;
+<sg>ideality, idealism</sg>,;
+<sg>transcendentalism, spiritualism</sg>,;
+<sg>immateriality ,<cref> 317 <i>descent</i></cref></sg>,;
+<sg>universal concept, universal conception</sg>,;
+<sg>metaphysician, psychologist </sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>note, notice, mark</sg>,;
+<sg>take notice of, take cognizance of be aware of, be conscious of</sg>,;
+<sg>realize</sg>,;
+<sg>appreciate</sg>,;
+<sg>ruminate ,<cref>451 <i>think</i></cref></sg>,;
+<sg>fancy ,<cref>515 <i>imagine</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>intellectual, mental, rational, subjective, metaphysical, nooscopic, spiritual</sg>,;
+<sg>ghostly</sg>,;
+<sg>psychical, psychological</sg>,;
+<sg>cerebral</sg>,;
+<sg>animastic</sg>,;
+<sg>brainy</sg>,;
+<sg>hyperphysical, superphysical</sg>,;
+<sg>subconscious, subliminal</sg>,;
+<sg>immaterial ,<cref> 317 <i>descent</i></cref></sg>,;
+<sg>endowed with reason</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>in petto</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>ens rationis</sg>,;
+<sg>frons est animi janua</sg>,;
+<sg>locos y ninos dicen la verdad</sg>,;
+<sg>mens sola loco non exulat</sg>,;
+<sg>my mind is my kingdom</sg>,;
+<sg>stern men with empires in their brains</sg>,;
+<sg>the mind, the music breathing from her face</sg>,;
+<sg>thou living ray of intellectual Fire</sg>,;
+<br>
+</paragraph>

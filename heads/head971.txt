@@ -1,0 +1,77 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#38#</sectionNumber>
+<headword>#<b>#[001] #971# Disrespect #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>disrespect, </i>disesteem, disestimation</sg>,;
+<sg>disparagement ,<cref>934 <i>dispraise) 932, (detraction</i></cref></sg>,;
+<sg>irreverence</sg>,;
+<sg>slight, neglect, spretae injuria formae , superciliousness ,<cref>930 <i>contempt</i></cref></sg>,;
+<sg>vilipendency, vilification, contumely, affront, dishonor, insult, indignity, outrage, discourtesy ,<cref> 895 <i>ridicule</i></cref></sg>,;
+<sg>practical joking</sg>,;
+<sg>scurrility, scoffing, sibilance, hissing, sibilation</sg>,;
+<sg>irrision</sg>,;
+<sg>derision</sg>,;
+<sg>mockery</sg>,;
+<sg>irony ,<cref>856 <i>ridicule</i></cref></sg>,;
+<sg>sarcasm</sg>,;
+<sg>hiss, hoot, boo, gibe, flout, jeer, scoff, gleek, taunt, sneer, quip, fling, wipe, slap in the face</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>hold in disrespect ,<cref>930 <i>despise</i></cref></sg>,;
+<sg>misprize, disregard, slight, trifle with, set at naught, pass by, push aside, overlook, turn one's back upon, laugh in one's sleeve</sg>,;
+<sg>be disrespectful</sg>,;
+<sg>, be discourteous ,<cref> 895 <i>ridicule</i></cref></sg>,;
+<sg>treat with disrespect</sg>,;
+<sg>set down, put down, browbeat</sg>,;
+<sg>dishonor, desecrate</sg>,;
+<sg>insult, affront, outrage</sg>,;
+<sg>speak slightingly of</sg>,;
+<sg>disparage ,<cref>932 <i>dispraise</i></cref></sg>,;
+<sg>vilipend, vilify, call names</sg>,;
+<sg>throw dirt, fling dirt</sg>,;
+<sg>drag through the mud, point at, indulge in personalities</sg>,;
+<sg>make mouths, make faces</sg>,;
+<sg>bite the thumb</sg>,;
+<sg>take by the beard</sg>,;
+<sg>pluck by the beard</sg>,;
+<sg>toss in a blanket, tar and feather</sg>,;
+<sg>have in derision</sg>,;
+<sg>hold in derision</sg>,;
+<sg>deride, scoff, barrack, sneer, laugh at, snigger, ridicule, gibe, mock, jeer, hiss, hoot, taunt, twit, niggle, gleek, gird, flout, fleer</sg>,;
+<sg>roast, turn into ridicule</sg>,;
+<sg>burlesque ,<cref> 856 <i>prodigality</i></cref></sg>,;
+<sg>laugh to scorn ,<cref>930 <i>contempt</i></cref></sg>,;
+<sg>smoke</sg>,;
+<sg>fool</sg>,;
+<sg>make game of, make a fool of, make an April fool of</sg>,;
+<sg>play a practical joke</sg>,;
+<sg>lead one a dance, run the rig upon, have a fling at, scout</sg>,;
+<sg>mob</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>disrespectful</sg>,;
+<sg>aweless, irreverent</sg>,;
+<sg>disparaging ,<cref> 934 <i>discourtesy</i></cref></sg>,;
+<sg>insulting</sg>,;
+<sg>supercilious, contemptuous, patronizing ,<cref>930 <i>scornful</i></cref></sg>,;
+<sg>rude, derisive, sarcastic</sg>,;
+<sg>scurrile, scurrilous</sg>,;
+<sg>contumelious</sg>,;
+<sg>unrespected, unworshiped, unenvied, unsaluted</sg>,;
+<sg>unregarded, disregarded</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>disrespectfully</sg>,;
+<br>
+</paragraph>

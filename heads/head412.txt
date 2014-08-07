@@ -1,0 +1,54 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#15#</sectionNumber>
+<headword>#<b>#[001] #412# Sweetness #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>sweetness, </i>dulcitude</sg>,;
+<sg>sugar, syrup, treacle, molasses, honey, manna</sg>,;
+<sg>confection, confectionary</sg>,;
+<sg>sweets, grocery, conserve, preserve, confiture, jam, julep</sg>,;
+<sg>sugar-candy, sugar-plum</sg>,;
+<sg>licorice, marmalade, plum, lollipop, bonbon, jujube, comfit, sweetmeat</sg>,;
+<sg>apple butter, caramel, damson, glucose</sg>,;
+<sg>maple sirup, maple syrup, maple sugar</sg>,;
+<sg>mithai, sorghum, taffy</sg>,;
+<sg>nectar</sg>,;
+<sg>hydromel, mead, meade, metheglin, honeysuckle, liqueur, sweet wine, aperitif</sg>,;
+<sg>sugar cane, sugar beets</sg>,;
+<sg>desert, pastry, pie, cake, candy, ice cream, tart, puff, pudding (food) 298</sg>,;
+<sg>dulcification, dulcoration</sg>,;
+<sg>sweetener, corn syrup, cane sugar, refined sugar, beet sugar, dextrose</sg>,;
+<sg>artificial sweetener, saccharin, cyclamate, aspartame, Sweet'N Low</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be sweet</sg>,;
+<sg>render sweet</sg>,;
+<sg>sweeten</sg>,;
+<sg>edulcorate</sg>,;
+<sg>dulcorate, dulcify</sg>,;
+<sg>candy</sg>,;
+<sg>mull</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>sweet</sg>,;
+<sg>saccharine, sacchariferous</sg>,;
+<sg>dulcet, candied, honied, luscious, lush, nectarious, melliferous</sg>,;
+<sg>sweetened</sg>,;
+<sg>sweet as a nut, sweet as sugar, sweet as honey</sg>,;
+<sg>sickly sweet</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>eau sucr_ee</sg>,;
+<sg>sweets to the sweet</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,64 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#27#</sectionNumber>
+<headword>#<b>#[001] #660# Instrumentality #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>instrumentality</i></sg>,;
+<sg>aid ,<cref> 707 <i>disuse</i></cref></sg>,;
+<sg>subservience, subserviency</sg>,;
+<sg>mediation, intervention, medium, intermedium, vehicle, hand</sg>,;
+<sg>agency ,<cref> 170 <i>reproduction</i></cref></sg>,;
+<sg>minister, handmaid</sg>,;
+<sg>midwife, accoucheur, accoucheuse, obstetrician</sg>,;
+<sg>gobetween</sg>,;
+<sg>cat's-paw</sg>,;
+<sg>stepping-stone</sg>,;
+<sg>opener ,<cref> 260 <i>convexity</i></cref></sg>,;
+<sg>key</sg>,;
+<sg>master key, passkey, latchkey</sg>,;
+<sg>open sesame</sg>,;
+<sg>passport, passe-partout, safe-conduct, password</sg>,;
+<sg>instrument ,<cref> 633 <i>obstinacy</i></cref></sg>,;
+<sg>expedient ,<cref>626 <i>plan</i></cref></sg>,;
+<sg>means ,<cref> 632 <i>irresolution</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>subserve, minister, mediate, intervene</sg>,;
+<sg>be instrumental</sg>,;
+<sg>pander to</sg>,;
+<sg>officiate</sg>,;
+<sg>tend</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>instrumental</sg>,;
+<sg>useful ,<cref> 644 <i>absence of motive</i></cref></sg>,;
+<sg>ministerial, subservient, mediatorial</sg>,;
+<sg>intermediate, intervening</sg>,;
+<sg>conducive</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>through, by, per</sg>,;
+<sg>whereby, thereby, hereby</sg>,;
+<sg>by the agency of ,<cref> 170 <i>reproduction</i></cref></sg>,;
+<sg>by dint of</sg>,;
+<sg>by virtue of, in virtue of</sg>,;
+<sg>through the medium of</sg>,;
+<sg>along with</sg>,;
+<sg>on the shoulders of</sg>,;
+<sg>by means of ,<cref> 632 <i>irresolution</i></cref></sg>,;
+<sg>by the aid of, with the aid of ,<cref>707 <i>assistance</i></cref></sg>,;
+<sg>per fas et nefas, by fair means or foul</sg>,;
+<sg>somehow, somehow or other</sg>,;
+<sg>by hook or by crook</sg>,;
+<br>
+</paragraph>

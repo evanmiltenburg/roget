@@ -1,0 +1,34 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#6#</sectionNumber>
+<headword>#<b>#[001] #125# Different time #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>different time, </i>other time</sg>,;
+<sg>aorist</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>aoristic</sg>,;
+<sg>indefinite</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>at that time, at which time, at that moment, at that instant</sg>,;
+<sg>then, on that occasion, upon</sg>,;
+<sg>not now, some other time</sg>,;
+<sg>when</sg>,;
+<sg>whenever, whensoever</sg>,;
+<sg>upon which, on which occasion</sg>,;
+<sg>at another time, at a different time, at some other time, at any time</sg>,;
+<sg>at various times</sg>,;
+<sg>some one of these days, one of these days, one fine morning</sg>,;
+<sg>eventually, some day, by and by, sooner or later</sg>,;
+<sg>some time or other</sg>,;
+<sg>once upon a time</sg>,;
+<br>
+</paragraph>

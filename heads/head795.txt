@@ -1,0 +1,77 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#32#</sectionNumber>
+<headword>#<b>#[001] #795# Refusal #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>refusal, </i>rejection</sg>,;
+<sg>noncompliance, incompliance</sg>,;
+<sg>denial</sg>,;
+<sg>declining</sg>,;
+<sg>declension</sg>,;
+<sg>declinature</sg>,;
+<sg>peremptory refusal, flat refusal, point blank refusal</sg>,;
+<sg>repulse, rebuff</sg>,;
+<sg>discountenance</sg>,;
+<sg>recusancy, abnegation, protest, disclaimer</sg>,;
+<sg>dissent ,<cref> 489 <i>measurement</i></cref></sg>,;
+<sg>revocation ,<cref> 756 <i>arms</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>refuse, reject, deny, decline, turn down</sg>,;
+<sg>nill, negative</sg>,;
+<sg>refuse one's assent, withhold one's assent</sg>,;
+<sg>shake the head</sg>,;
+<sg>close the hand, close the purse</sg>,;
+<sg>grudge, begrudge, be slow to, hang fire</sg>,;
+<sg>pass (at cards)</sg>,;
+<sg>be deaf to</sg>,;
+<sg>dismiss, turn a deaf ear to, turn one's back upon</sg>,;
+<sg>set one's face against, discountenance, not hear of, have nothing to do with, wash one's hands of, stand aloof, forswear, set aside, cast behind one</sg>,;
+<sg>not yield an inch ,<cref>606 <i>obstinacy</i></cref></sg>,;
+<sg>resist, cross</sg>,;
+<sg>not grant ,<cref> 762 <i>trophy</i></cref></sg>,;
+<sg>repel, repulse, shut the door in one's face, slam the door in one's face</sg>,;
+<sg>rebuff</sg>,;
+<sg>send back, send to the right about, send away with a flea in the ear</sg>,;
+<sg>deny oneself, not be at home to</sg>,;
+<sg>discard, spurn, ,<cref>610 <i>repudiate</i></cref></sg>,;
+<sg>rescind ,<cref>756 <i>revoke</i></cref></sg>,;
+<sg>disclaim, protest</sg>,;
+<sg>dissent ,<cref> 489 <i>measurement</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>refusing</sg>,;
+<sg>restive, restiff</sg>,;
+<sg>recusant</sg>,;
+<sg>uncomplying, unconsenting</sg>,;
+<sg>not willing to hear of, deaf to</sg>,;
+<sg>refused</sg>,;
+<sg>ungranted, out of the question, not to be thought of, impossible</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>no ,<cref> 536 <i>omen</i></cref></sg>,;
+<sg>on no account, not for the world</sg>,;
+<sg>no thank you, thanks but no thanks</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>non possumus</sg>,;
+<sg>your humble servant</sg>,;
+<sg>bien oblige</sg>,;
+<sg>not on your life</sg>,;
+<sg>no way</sg>,;
+<sg>not even if you beg on your knees</sg>,;
+<br>
+</paragraph>

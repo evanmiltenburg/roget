@@ -1,0 +1,43 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#6#</sectionNumber>
+<headword>#<b>#[001] #135# Infant #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>infant, </i>babe, baby, babe in arms</sg>,;
+<sg>nurseling, suckling, yearling, weanling</sg>,;
+<sg>papoose, bambino</sg>,;
+<sg>kid</sg>,;
+<sg>vagitus</sg>,;
+<sg>child, bairn, little one, brat, chit, pickaninny, urchin</sg>,;
+<sg>bantling, bratling</sg>,;
+<sg>elf</sg>,;
+<sg>youth, boy, lad, stripling, youngster, youngun, younker, callant, whipster, whippersnapper, whiffet, schoolboy, hobbledehoy, hopeful, cadet, minor, master</sg>,;
+<sg>scion</sg>,;
+<sg>sap, seedling</sg>,;
+<sg>tendril, olive branch, nestling, chicken, larva, chrysalis, tadpole, whelp, cub, pullet, fry, callow</sg>,;
+<sg>codlin, codling</sg>,;
+<sg>foetus, calf, colt, pup, foal, kitten</sg>,;
+<sg>lamb, lambkin</sg>,;
+<sg>aurelia, caterpillar, cocoon, nymph, nympha, orphan, pupa, staddle</sg>,;
+<sg>girl</sg>,;
+<sg>lass, lassie</sg>,;
+<sg>wench, miss, damsel, demoiselle</sg>,;
+<sg>maid, maiden</sg>,;
+<sg>virgin</sg>,;
+<sg>hoyden</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>infantine, infantile</sg>,;
+<sg>puerile</sg>,;
+<sg>boyish, girlish, childish, babyish, kittenish</sg>,;
+<sg>baby</sg>,;
+<sg>newborn, unfledged, new-fledged, callow</sg>,;
+<sg>in the cradle, in swaddling clothes, in long clothes, in arms, in leading strings</sg>,;
+<sg>at the breast</sg>,;
+<sg>in one's teens</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,37 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#6#</sectionNumber>
+<headword>#<b>#[001] #137# Adolescence #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>adolescence, </i>pubescence, majority</sg>,;
+<sg>adultism</sg>,;
+<sg>adultness</sg>,;
+<sg>manhood, virility, maturity full age, ripe age</sg>,;
+<sg>flower of age</sg>,;
+<sg>prime of life, meridian of life, spring of life</sg>,;
+<sg>man ,<cref> 373 <i>killing</i></cref></sg>,;
+<sg>woman ,<cref> 374 <i>corpse</i></cref></sg>,;
+<sg>adult, no chicken</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>come of age, come to man's estate, come to years of discretion</sg>,;
+<sg>attain majority, assume the toga virilis</sg>,;
+<sg>have cut one's eyeteeth, have sown one's mild oats</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>adolescent, pubescent, of age</sg>,;
+<sg>of full age, of ripe age</sg>,;
+<sg>out of one's teens, grown up, mature, full grown, in one's prime, middle-aged, manly, virile, adult</sg>,;
+<sg>womanly, matronly</sg>,;
+<sg>marriageable, nubile</sg>,;
+<sg>3</sg>,;
+<sg>Time with reference to an Effect or Purpose</sg>,;
+<br>
+</paragraph>

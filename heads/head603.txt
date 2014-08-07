@@ -1,0 +1,71 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#25#</sectionNumber>
+<headword>#<b>#[001] #603# Ornament #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>ornament</i></sg>,;
+<sg>floridness c</sg>,;
+<sg>adj</sg>,;
+<sg>turgidity, turgescence</sg>,;
+<sg>altiloquence</sg>,;
+<sg>declamation, teratology</sg>,;
+<sg>well-rounded periods</sg>,;
+<sg>elegance ,<cref> 578 <i>obliteration</i></cref></sg>,;
+<sg>orotundity</sg>,;
+<sg>inversion, antithesis, alliteration, paronomasia</sg>,;
+<sg>figurativeness ,<cref>521 <i>metaphor</i></cref></sg>,;
+<sg>flourish</sg>,;
+<sg>flowers of speech, flowers of rhetoric</sg>,;
+<sg>frills of style, euphuism, euphemism</sg>,;
+<sg>big-sounding words, high-sounding words</sg>,;
+<sg>macrology, sesquipedalia verba, Alexandrine</sg>,;
+<sg>inflation, pretension</sg>,;
+<sg>rant, bombast, fustian, prose run mad</sg>,;
+<sg>fine writing</sg>,;
+<sg>sesquipedality</sg>,;
+<sg>Minerva press</sg>,;
+<sg>phrasemonger</sg>,;
+<sg>euphuist, euphemist</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>ornament, overlay with ornament, overcharge</sg>,;
+<sg>smell of the lamp</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>ornament</sg>,;
+<sg>beautified ,<cref> 847 <i>price</i></cref></sg>,;
+<sg>ornate, florid, rich, flowery</sg>,;
+<sg>euphuistic, euphemistic</sg>,;
+<sg>sonorous</sg>,;
+<sg>high-sounding, big-sounding</sg>,;
+<sg>inflated, swelling, tumid</sg>,;
+<sg>turgid, turgescent</sg>,;
+<sg>pedantic, pompous, stilted</sg>,;
+<sg>orotund</sg>,;
+<sg>high flown, high flowing</sg>,;
+<sg>sententious, rhetorical, declamatory</sg>,;
+<sg>grandiose</sg>,;
+<sg>grandiloquent, magniloquent, altiloquent</sg>,;
+<sg>sesquipedal, sesquipedalian</sg>,;
+<sg>Johnsonian, mouthy</sg>,;
+<sg>bombastic</sg>,;
+<sg>fustian</sg>,;
+<sg>frothy, flashy, flaming</sg>,;
+<sg>antithetical, alliterative</sg>,;
+<sg>figurative ,<cref> 521 <i>absurdity</i></cref></sg>,;
+<sg>artificial ,<cref>579 <i>inelegant</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>ore rutundo</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,29 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#32#</sectionNumber>
+<headword>#<b>#[001] #797# Deprecation #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>deprecation, </i>expostulation</sg>,;
+<sg>intercession, mediation, protest, remonstrance</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>deprecate, protest, expostulate, enter a protest, intercede for</sg>,;
+<sg>remonstrate</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>deprecatory, expostulatory, intercessory, mediatorial</sg>,;
+<sg>deprecated, protested</sg>,;
+<sg>unsought, unbesought</sg>,;
+<sg>unasked &c (ask) ,<cref> 765 <i>mediocrity</i></cref></sg>,;
+<sg>Int</sg>,;
+<sg>cry you mercy!, God forbid!, forbid it Heaven!, Heaven forefend, Heaven forbid!, far be it from!, hands off!, ,<cref>761 <i>prohibition</i></cref></sg>,;
+<sg>please don't</sg>,;
+<br>
+</paragraph>

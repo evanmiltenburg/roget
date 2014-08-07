@@ -1,0 +1,40 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#15#</sectionNumber>
+<headword>#<b>#[001] #442# Shade #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>shade</i></sg>,;
+<sg>awning ,<cref>223 <i>cover</i></cref></sg>,;
+<sg>parasol, sunshade, umbrella</sg>,;
+<sg>chick</sg>,;
+<sg>portiere</sg>,;
+<sg>screen, curtain, shutter, blind, gauze, veil, chador, mantle, mask</sg>,;
+<sg>cloud, mist, gathering</sg>,;
+<sg>of clouds</sg>,;
+<sg>umbrage, glade</sg>,;
+<sg>shadow ,<cref> 421 <i>loudness</i></cref></sg>,;
+<sg>beach umbrella, folding umbrella</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>draw a curtain</sg>,;
+<sg>put up a shutter, close a shutter</sg>,;
+<sg>veil</sg>,;
+<sg>cast a shadow ,<cref>421 <i>darken</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>shady, umbrageous</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>welcome ye shades! ye bowery thickets hail</sg>,;
+<br>
+</paragraph>

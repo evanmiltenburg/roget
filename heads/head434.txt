@@ -1,0 +1,63 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#15#</sectionNumber>
+<headword>#<b>#[001] #434# Musician #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>musician, </i>artiste, performer, player, minstrel</sg>,;
+<sg>bard ,<cref>597 <i>poet</i></cref></sg>,;
+<sg>accompanist, accordionist, instrumentalist, organist, pianist, violinist, flautist</sg>,;
+<sg>harper, fiddler, fifer, trumpeter, piper, drummer</sg>,;
+<sg>catgut scraper</sg>,;
+<sg>band, orchestral waits</sg>,;
+<sg>vocalist, melodist</sg>,;
+<sg>singer, warbler</sg>,;
+<sg>songster, chaunter, chauntress, songstress</sg>,;
+<sg>cantatrice</sg>,;
+<sg>choir, quire, chorister</sg>,;
+<sg>chorus, chorus singer</sg>,;
+<sg>liedertafel</sg>,;
+<sg>nightingale, philomel, thrush</sg>,;
+<sg>siren</sg>,;
+<sg>bulbul, mavis</sg>,;
+<sg>Pierides</sg>,;
+<sg>sacred nine</sg>,;
+<sg>Orpheus, Apollo, the Muses Erato, Euterpe, Terpsichore</sg>,;
+<sg>tuneful nine, tuneful quire</sg>,;
+<sg>composer ,<cref> 413 <i>sourness</i></cref></sg>,;
+<sg>performance, execution, touch, expression, solmization</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>play, pipe, strike up, sweep the chords, tweedle, fiddle</sg>,;
+<sg>strike the lyre, beat the drum</sg>,;
+<sg>blow the horn, sound the horn, wind the horn</sg>,;
+<sg>doodle</sg>,;
+<sg>grind the organ</sg>,;
+<sg>touch the guitar ,<cref>417 <i>instruments</i></cref></sg>,;
+<sg>thrum, strum, beat time</sg>,;
+<sg>execute, perform</sg>,;
+<sg>accompany</sg>,;
+<sg>sing a second, play a second</sg>,;
+<sg>compose, set to music, arrange</sg>,;
+<sg>sing, chaunt, chant, hum, warble, carol, chirp, chirrup, lilt, purl, quaver, trill, shake, twitter, whistle</sg>,;
+<sg>sol-fa</sg>,;
+<sg>intone</sg>,;
+<sg>have an ear for music, have a musical ear, have a correct ear</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>playing</sg>,;
+<sg>musical</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>adagio, andante ,<cref>415 <i>music</i></cref></sg>,;
+<br>
+</paragraph>

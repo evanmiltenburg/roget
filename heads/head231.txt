@@ -1,0 +1,60 @@
+<classNumber>#2#</classNumber>
+<sectionNumber>#10#</sectionNumber>
+<headword>#<b>#[001] #231# Interiority #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>interiority</i></sg>,;
+<sg>inside, interior</sg>,;
+<sg>interspace, subsoil, substratum</sg>,;
+<sg>intrados</sg>,;
+<sg>contents ,<cref> 190 <i>region</i></cref></sg>,;
+<sg>substance, pith, marrow</sg>,;
+<sg>backbone ,<cref>222 <i>center</i></cref></sg>,;
+<sg>heart, bosom, breast</sg>,;
+<sg>abdomen</sg>,;
+<sg>vitals, viscera, entrails, bowels, belly, intestines, guts, chitterings, womb, lap</sg>,;
+<sg>penetralia, recesses, innermost recesses</sg>,;
+<sg>cave ,<cref>252 <i>concavity</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be inside</sg>,;
+<sg>within</sg>,;
+<sg>place within, keep within</sg>,;
+<sg>inclose ,<cref>229 <i>circumscribe</i></cref></sg>,;
+<sg>intern</sg>,;
+<sg>imbed ,<cref>300 <i>insert</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>interior, internal</sg>,;
+<sg>inner, inside, inward, intraregarding</sg>,;
+<sg>inmost, innermost</sg>,;
+<sg>deep seated, gut</sg>,;
+<sg>intestine, intestinal</sg>,;
+<sg>inland</sg>,;
+<sg>subcutaneous</sg>,;
+<sg>abdominal, coeliac, endomorphic</sg>,;
+<sg>interstitial ,<cref>228 <i>interjacent</i></cref></sg>,;
+<sg>inwrought ,<cref>5 <i>intrinsic</i></cref></sg>,;
+<sg>inclosed</sg>,;
+<sg>home, domestic, indoor, intramural, vernacular</sg>,;
+<sg>endemic</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>internally</sg>,;
+<sg>inwards, within, in, inly</sg>,;
+<sg>here in, there in, where in</sg>,;
+<sg>ab intra, withinside</sg>,;
+<sg>in doors, within doors</sg>,;
+<sg>at home, in the bosom of one's family</sg>,;
+<br>
+</paragraph>

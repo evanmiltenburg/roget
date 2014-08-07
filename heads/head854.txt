@@ -1,0 +1,55 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#34#</sectionNumber>
+<headword>#<b>#[001] #854# Economy #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>economy, </i>frugality</sg>,;
+<sg>thrift, thriftiness</sg>,;
+<sg>care, husbandry, good housewifery, savingness, retrenchment</sg>,;
+<sg>savings</sg>,;
+<sg>prevention of waste, save-all</sg>,;
+<sg>cheese parings and candle ends</sg>,;
+<sg>parsimony ,<cref> 819 <i>apportionment</i></cref></sg>,;
+<sg>cost-cutting, cost control</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be economical</sg>,;
+<sg>practice economy</sg>,;
+<sg>economize, save</sg>,;
+<sg>retrench, cut back expenses, cut expenses</sg>,;
+<sg>cut one's coat according to one's cloth, make both ends meet, keep within compass, meet one's expenses, pay one's way, pay as you go</sg>,;
+<sg>husband ,<cref>636 <i>lay by</i></cref></sg>,;
+<sg>save money, invest money</sg>,;
+<sg>put out to interest</sg>,;
+<sg>provide for a rainy day, save for a rainy day, provide against a rainy day, save against a rainy day</sg>,;
+<sg>feather one's nest</sg>,;
+<sg>look after the main chance</sg>,;
+<sg>cut costs</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>economical, frugal, careful, thrifty, saving, chary, spare, sparing</sg>,;
+<sg>parsimonious ,<cref> 819 <i>apportionment</i></cref></sg>,;
+<sg>underpaid</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>sparingly</sg>,;
+<sg>ne quid nimis</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>adde parvum parvo magnus acervus erit</sg>,;
+<sg>magnum est vectigal parsimonia</sg>,;
+<br>
+</paragraph>

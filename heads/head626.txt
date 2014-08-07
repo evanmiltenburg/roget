@@ -1,0 +1,92 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#26#</sectionNumber>
+<headword>#<b>#[001] #626# Will #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>will, </i>volition, conation, velleity</sg>,;
+<sg>liberum arbitrium</sg>,;
+<sg>will and pleasure, free will</sg>,;
+<sg>freedom ,<cref> 748 <i>resistance</i></cref></sg>,;
+<sg>discretion</sg>,;
+<sg>option ,<cref>609 <i>choice</i></cref></sg>,;
+<sg>voluntariness</sg>,;
+<sg>spontaneity, spontaneousness</sg>,;
+<sg>originality</sg>,;
+<sg>pleasure, wish, mind</sg>,;
+<sg>desire</sg>,;
+<sg>frame of mind ,<cref>602 <i>inclination</i></cref></sg>,;
+<sg>intention ,<cref> 620 <i>description</i></cref></sg>,;
+<sg>predetermination ,<cref> 611 <i>taciturnity</i></cref></sg>,;
+<sg>selfcontrol </sg>,;
+<sg>determination ,<cref>604 <i>resolution</i></cref></sg>,;
+<sg>force of will</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>will, list</sg>,;
+<sg>see fit, think fit</sg>,;
+<sg>determine ,<cref>604 <i>resolve</i></cref></sg>,;
+<sg>enjoin</sg>,;
+<sg>settle ,<cref>609 <i>choose</i></cref></sg>,;
+<sg>volunteer</sg>,;
+<sg>have a will of one's own</sg>,;
+<sg>do what one chooses ,<cref>748 <i>freedom</i></cref></sg>,;
+<sg>have it all</sg>,;
+<sg>one's own way</sg>,;
+<sg>have one's will, have one's own way</sg>,;
+<sg>use one's discretion, exercise one's discretion</sg>,;
+<sg>take upon oneself, take one's own course, take the law into one's own hands</sg>,;
+<sg>do of one's own accord, do upon one's own authority</sg>,;
+<sg>originate ,<cref>153 <i>cause</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>voluntary, volitional, willful</sg>,;
+<sg>free ,<cref> 748 <i>resistance</i></cref></sg>,;
+<sg>optional</sg>,;
+<sg>discretional, discretionary</sg>,;
+<sg>volitient, volitive</sg>,;
+<sg>minded ,<cref>602 <i>willing</i></cref></sg>,;
+<sg>prepense ,<cref>611 <i>predetermined</i></cref></sg>,;
+<sg>intended ,<cref> 620 <i>description</i></cref></sg>,;
+<sg>autocratic</sg>,;
+<sg>unbidden &c (bid) ,<cref> 741 <i>party</i></cref></sg>,;
+<sg>spontaneous</sg>,;
+<sg>original ,<cref>153 <i>casual</i></cref></sg>,;
+<sg>unconstrained</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>voluntarily</sg>,;
+<sg>at will, at pleasure</sg>,;
+<sg>a volonte, a discretion</sg>,;
+<sg>al piacere</sg>,;
+<sg>ad libitum, ad arbitrium</sg>,;
+<sg>as one thinks proper, as it seems good to</sg>,;
+<sg>a beneplacito</sg>,;
+<sg>of one's won accord, of one's own free will</sg>,;
+<sg>proprio motu, suo motu, ex meromotu</sg>,;
+<sg>out of one's won head</sg>,;
+<sg>by choice ,<cref> 609 <i>stammering</i></cref></sg>,;
+<sg>purposely ,<cref>620 <i>intentionally</i></cref></sg>,;
+<sg>deliberately ,<cref> 611 <i>taciturnity</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>stet pro ratione voluntas</sg>,;
+<sg>sic volo sic jubeo</sg>,;
+<sg>a vostro beneplacito</sg>,;
+<sg>beneficium accipere libertatem est vendere</sg>,;
+<sg>Deus vult</sg>,;
+<sg>was man nicht kann meiden muss man willig leiden</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,33 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#3#</sectionNumber>
+<headword>#<b>#[001] #57# Composition #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>composition, </i>constitution, crasis</sg>,;
+<sg>combination ,<cref> 48 <i>connection</i></cref></sg>,;
+<sg>inclusion, admission, comprehension, reception</sg>,;
+<sg>embodiment</sg>,;
+<sg>formation</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be composed of, be made of, be formed of, be made up of</sg>,;
+<sg>consist of, be resolved into</sg>,;
+<sg>include ,<cref>76 <i>in a class</i></cref></sg>,;
+<sg>contain, hold, comprehend, take in, admit, embrace, embody</sg>,;
+<sg>involve, implicate</sg>,;
+<sg>drag into</sg>,;
+<sg>compose, constitute, form, make</sg>,;
+<sg>make up, fill up, build up</sg>,;
+<sg>enter into the composition of ,<cref>56 <i>be a component</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>containing, constituting</sg>,;
+<br>
+</paragraph>

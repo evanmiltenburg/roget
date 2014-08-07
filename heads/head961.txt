@@ -1,0 +1,28 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#37#</sectionNumber>
+<headword>#<b>#[001] #961# Jealousy #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>jealousy, </i>jealousness</sg>,;
+<sg>jaundiced eye</sg>,;
+<sg>envious suspicion, suspicion</sg>,;
+<sg>green-eyed monster</sg>,;
+<sg>yellows</sg>,;
+<sg>Juno</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be jealous</sg>,;
+<sg>view with jealousy, view with a jealous eye</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>jealous, jealous as a barbary pigeon</sg>,;
+<sg>jaundiced, yellow-eyed, envious, hornmad</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,30 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#15#</sectionNumber>
+<headword>#<b>#[001] #457# Blueness #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>blueness, </i>blue</sg>,;
+<sg>garter-blue</sg>,;
+<sg>watchet</sg>,;
+<sg>ultramarine, smalt, cobalt, cyanogen</sg>,;
+<sg>Prussian blue, syenite blue</sg>,;
+<sg>bice, indigo</sg>,;
+<sg>zaffer</sg>,;
+<sg>lapis lazuli, sapphire, turquoise</sg>,;
+<sg>indicolite</sg>,;
+<sg>blueness, bluishness</sg>,;
+<sg>bloom</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>blue, azure, cerulean</sg>,;
+<sg>sky-blue, sky-colored, sky-dyed</sg>,;
+<sg>cerulescent</sg>,;
+<sg>powder blue, bluish</sg>,;
+<sg>atmospheric, retiring</sg>,;
+<sg>cold</sg>,;
+<br>
+</paragraph>

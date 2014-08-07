@@ -1,0 +1,79 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#37#</sectionNumber>
+<headword>#<b>#[001] #940# Irascibility #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>irascibility, </i>irascibleness, temper</sg>,;
+<sg>crossness</sg>,;
+<sg>susceptibility, procacity, petulance, irritability, tartness, acerbity, protervity</sg>,;
+<sg>pugnacity ,<cref>720 <i>contentiousness</i></cref></sg>,;
+<sg>excitability ,<cref> 825 <i>thief</i></cref></sg>,;
+<sg>bad temper, fiery temper, crooked temper, irritable</sg>,;
+<sg>temper</sg>,;
+<sg>genus irritabile, hot blood</sg>,;
+<sg>ill humor ,<cref>901 <i>sullenness</i></cref></sg>,;
+<sg>1</sg>,;
+<sg>asperity </sg>,;
+<sg>churlishness ,<cref>895 <i>discourtesy</i></cref></sg>,;
+<sg>huff ,<cref>900 <i>resentment</i></cref></sg>,;
+<sg>a word and a blow</sg>,;
+<sg>Sir Fretful Plagiary</sg>,;
+<sg>brabbler, Tartar</sg>,;
+<sg>shrew, vixen, virago, termagant, dragon, scold, Xantippe</sg>,;
+<sg>porcupine</sg>,;
+<sg>spitfire</sg>,;
+<sg>fire eater ,<cref>887 <i>blusterer</i></cref></sg>,;
+<sg>fury ,<cref>173 <i>violent person</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be irascible</sg>,;
+<sg>have a temper</sg>,;
+<sg>, have a devil in one</sg>,;
+<sg>fire up ,<cref>900 <i>be angry</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>irascible</sg>,;
+<sg>bad-tempered, ill-tempered</sg>,;
+<sg>irritable, susceptible</sg>,;
+<sg>excitable ,<cref> 825 <i>thief</i></cref></sg>,;
+<sg>thin-skinned ,<cref>822 <i>sensitive</i></cref></sg>,;
+<sg>fretful, fidgety</sg>,;
+<sg>on the fret</sg>,;
+<sg>hasty, overhasty, quick, warm, hot, testy, touchy, techy, tetchy</sg>,;
+<sg>like touchwood, like tinder</sg>,;
+<sg>huffy, pettish, petulant</sg>,;
+<sg>waspish, snappish, peppery, fiery, passionate, choleric, shrewish, sudden and quick in quarrel</sg>,;
+<sg>querulous, captious, moodish</sg>,;
+<sg>quarrelsome, contentious, disputatious</sg>,;
+<sg>pugnacious ,<cref>720 <i>bellicose</i></cref></sg>,;
+<sg>cantankerous, exceptious</sg>,;
+<sg>restiff ,<cref>901 <i>perverse</i></cref></sg>,;
+<sg>1</sg>,;
+<sg>churlish ,<cref>895 <i>discourteous</i></cref></sg>,;
+<sg>cross, cross as crabs, cross as two sticks, cross as a cat, cross as a dog, cross as the tongs</sg>,;
+<sg>fractious, peevish, acari=atre</sg>,;
+<sg>in a bad temper</sg>,;
+<sg>sulky ,<cref> 901 <i>cowardice</i></cref></sg>,;
+<sg>1</sg>,;
+<sg>angry ,<cref> 900 <i>courage</i></cref></sg>,;
+<sg>resentful, resentive</sg>,;
+<sg>vindictive ,<cref> 919 <i>vanity</i></cref></sg>,;
+<sg>Int</sg>,;
+<sg>pish!,</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>a vieux comptes nouvelles disputes</sg>,;
+<sg>quamvis tegatur proditur vultu furor</sg>,;
+<sg>vino tortus et ira</sg>,;
+<br>
+</paragraph>

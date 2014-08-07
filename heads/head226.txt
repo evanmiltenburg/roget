@@ -1,0 +1,26 @@
+<classNumber>#2#</classNumber>
+<sectionNumber>#10#</sectionNumber>
+<headword>#<b>#[001] #226# Perpendicularity #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>perpendicularity, </i>orthogonality</sg>,;
+<sg>verticality, ,<cref> 212 <i>thinness</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be perpendicular, be orthogonal</sg>,;
+<sg>intersect at right angles, be rectangular, be at right angles to, intersect at 90 degrees</sg>,;
+<sg>have no correlation</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>orthogonal, perpendicular</sg>,;
+<sg>rectangular</sg>,;
+<sg>uncorrelated</sg>,;
+<br>
+</paragraph>

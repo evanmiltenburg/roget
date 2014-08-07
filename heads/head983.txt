@@ -1,0 +1,20 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#38#</sectionNumber>
+<headword>#<b>#[001] #983# Knave #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>knave, </i>rogue</sg>,;
+<sg>Scapin, rascal</sg>,;
+<sg>Lazarillo de Tormes</sg>,;
+<sg>bad man ,<cref> 949 <i>threat</i></cref></sg>,;
+<sg>blackguard ,<cref> 949 <i>threat</i></cref></sg>,;
+<sg>barrater, barrator</sg>,;
+<sg>shyster</sg>,;
+<sg>traitor, betrayer, archtraitor, conspirator, Judas, Catiline</sg>,;
+<sg>reptile, serpent, snake in the grass, wolf in sheep's clothing, sneak, Jerry Sneak, squealer, tell-tale, mischief-maker</sg>,;
+<sg>trimmer, fence-sitter, renegade ,<cref>607 <i>tergiversation</i></cref></sg>,;
+<sg>truant, recreant</sg>,;
+<sg>sycophant ,<cref>886 <i>servility</i></cref></sg>,;
+<br>
+</paragraph>

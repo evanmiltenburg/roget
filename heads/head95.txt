@@ -1,0 +1,37 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#5#</sectionNumber>
+<headword>#<b>#[001] #95# bisection #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>bisection, </i>bipartition</sg>,;
+<sg>dichotomy, subdichotomy</sg>,;
+<sg>halving</sg>,;
+<sg>dimidiation</sg>,;
+<sg>bifurcation, forking, branching, ramification, divarication</sg>,;
+<sg>fork, prong</sg>,;
+<sg>fold</sg>,;
+<sg>half, moiety</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>bisect, halve, divide, split, cut in two, cleave dimidiate, dichotomize</sg>,;
+<sg>go halves, divide with</sg>,;
+<sg>separate, fork, bifurcate</sg>,;
+<sg>branch off, out</sg>,;
+<sg>ramify</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>bisected</sg>,;
+<sg>cloven, cleft</sg>,;
+<sg>bipartite, biconjugate, bicuspid, bifid</sg>,;
+<sg>bifurcous, bifurcate, bifurcated</sg>,;
+<sg>distichous, dichotomous, furcular</sg>,;
+<sg>semi-, demi-, hemi</sg>,;
+<br>
+</paragraph>

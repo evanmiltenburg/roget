@@ -1,0 +1,25 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#25#</sectionNumber>
+<headword>#<b>#[001] #624# Prose #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>prose, </i>prose writer</sg>,;
+<sg>prosaicism, prosaism, prosaist, proser</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>prose</sg>,;
+<sg>write prose, write in prose</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>prosal, prosy, prosaic</sg>,;
+<sg>unpoetic, unpoetical</sg>,;
+<sg>rhymeless, unrhymed, in prose, not in verse</sg>,;
+<br>
+</paragraph>

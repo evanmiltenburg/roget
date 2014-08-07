@@ -1,0 +1,97 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#8#</sectionNumber>
+<headword>#<b>#[001] #166# Strength #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>strength</i></sg>,;
+<sg>power ,<cref> 157 <i>stability</i></cref></sg>,;
+<sg>energy ,<cref> 171 <i>producer</i></cref></sg>,;
+<sg>vigor, force</sg>,;
+<sg>main force, physical force, brute force</sg>,;
+<sg>spring, elasticity, tone, tension, tonicity</sg>,;
+<sg>stoutness</sg>,;
+<sg>lustihood, stamina, nerve, muscle, sinew, thews and sinews, physique</sg>,;
+<sg>pith, pithiness</sg>,;
+<sg>virtility, vitality</sg>,;
+<sg>athletics, athleticism</sg>,;
+<sg>gymnastics, feats of strength</sg>,;
+<sg>adamant, steel, iron, oak, heart of oak</sg>,;
+<sg>iron grip</sg>,;
+<sg>grit, bone</sg>,;
+<sg>athlete, gymnast, acrobat</sg>,;
+<sg>superman, Atlas, Hercules, Antaeus, Samson, Cyclops, Goliath</sg>,;
+<sg>tower of strength</sg>,;
+<sg>giant refreshed</sg>,;
+<sg>strengthening</sg>,;
+<sg>invigoration, refreshment, refocillation</sg>,;
+<sg>dynamics, statics</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be strong</sg>,;
+<sg>, be stronger</sg>,;
+<sg>overmatch</sg>,;
+<sg>render strong</sg>,;
+<sg>give strength</sg>,;
+<sg>strengthen, invigorate, brace, nerve, fortify, sustain, harden, case harden, steel, gird</sg>,;
+<sg>screw up, wind up, set up</sg>,;
+<sg>gird up one's loins, brace up one's loins</sg>,;
+<sg>recruit, set on one's legs</sg>,;
+<sg>vivify</sg>,;
+<sg>refresh ,<cref> 689 <i>restoration</i></cref></sg>,;
+<sg>refect</sg>,;
+<sg>reinforce, reenforce ,<cref>660 <i>restore</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>strong, mighty, vigorous, forcible, hard, adamantine, stout, robust, sturdy, hardy, powerful, potent, puissant, valid</sg>,;
+<sg>resistless, irresistible, invincible, proof against, impregnable, unconquerable, indomitable, dominating, inextinguishable, unquenchable</sg>,;
+<sg>incontestable</sg>,;
+<sg>more than a match for</sg>,;
+<sg>overpowering, overwhelming</sg>,;
+<sg>all powerful, all sufficient</sg>,;
+<sg>sovereign</sg>,;
+<sg>able-bodied</sg>,;
+<sg>athletic</sg>,;
+<sg>Herculean, Cyclopean, Atlantean</sg>,;
+<sg>muscular, brawny, wiry, well-knit, broad-shouldered, sinewy, strapping, stalwart, gigantic</sg>,;
+<sg>manly, man-like, manful</sg>,;
+<sg>masculine, male, virile</sg>,;
+<sg>unweakened, unallayed, unwithered, unshaken, unworn, unexhausted</sg>,;
+<sg>in full force, in full swing</sg>,;
+<sg>in the plenitude of power</sg>,;
+<sg>stubborn, thick-ribbed, made of iron, deep-rooted</sg>,;
+<sg>strong as a lion, strong as a horse, strong as an ox, strong as brandy</sg>,;
+<sg>sound as a roach</sg>,;
+<sg>in fine feather, in high feather</sg>,;
+<sg>built like a brick shithouse</sg>,;
+<sg>like a giant refreshed</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>strongly</sg>,;
+<sg>by force</sg>,;
+<sg>by main force ,<cref>744 <i>by compulsion</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>our withers are unwrung</sg>,;
+<sg>Blut und Eisen</sg>,;
+<sg>coelitus mihi vires</sg>,;
+<sg>du fort au diable</sg>,;
+<sg>en habiles gens</sg>,;
+<sg>ex vi termini</sg>,;
+<sg>flecti non frangi</sg>,;
+<sg>he that wrestles with us strengthens our nerves and sharpens our skill</sg>,;
+<sg>inflexible in faith invincible in arms</sg>,;
+<br>
+</paragraph>

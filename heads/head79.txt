@@ -1,0 +1,19 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#4#</sectionNumber>
+<headword>#<b>#[001] #79# Class #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>class, </i>division, category, categorema, head, order, section</sg>,;
+<sg>department, subdepartment, province, domain</sg>,;
+<sg>kind, sort, genus, species, variety, family, order, kingdom, race, tribe, caste, sept, clan, breed, type, subtype, kit, sect, set, subset</sg>,;
+<sg>assortment</sg>,;
+<sg>feather, kidney</sg>,;
+<sg>suit</sg>,;
+<sg>range</sg>,;
+<sg>gender, sex, kin</sg>,;
+<sg>manner, description, denomination, designation, rubric, character, stamp predicament</sg>,;
+<sg>indication, particularization, selection, specification</sg>,;
+<sg>similarity ,<cref> 17 <i>nonuniformity</i></cref></sg>,;
+<br>
+</paragraph>

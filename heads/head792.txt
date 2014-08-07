@@ -1,0 +1,73 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#32#</sectionNumber>
+<headword>#<b>#[001] #792# Prohibition #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>prohibition, </i>inhibition</sg>,;
+<sg>veto, disallowance</sg>,;
+<sg>interdict, interdiction</sg>,;
+<sg>injunction, estoppel</sg>,;
+<sg>embargo, ban, taboo, proscription</sg>,;
+<sg>index expurgatorius</sg>,;
+<sg>restriction ,<cref>751 <i>restraint</i></cref></sg>,;
+<sg>hindrance ,<cref> 706 <i>use</i></cref></sg>,;
+<sg>forbidden fruit</sg>,;
+<sg>Maine law</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>prohibit, inhibit</sg>,;
+<sg>forbid, put one's veto upon, disallow, enjoin, ban, outlaw, taboo, proscribe, estop</sg>,;
+<sg>bar</sg>,;
+<sg>debar ,<cref>706 <i>hinder</i></cref>, forefend</sg>,;
+<sg>keep in, keep within bounds</sg>,;
+<sg>restrain ,<cref> 751 <i>warfare</i></cref></sg>,;
+<sg>cohibit, withhold, limit, circumscribe, clip the wings of, restrict</sg>,;
+<sg>interdict, taboo</sg>,;
+<sg>put under an interdiction, place under an interdiction</sg>,;
+<sg>put under the ban, place under the ban</sg>,;
+<sg>proscribe</sg>,;
+<sg>exclude, shut out</sg>,;
+<sg>shut the door, bolt the door, show the door</sg>,;
+<sg>warn off</sg>,;
+<sg>dash the cup from one's lips</sg>,;
+<sg>forbid the banns</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>prohibitive, prohibitory</sg>,;
+<sg>proscriptive</sg>,;
+<sg>restrictive, exclusive</sg>,;
+<sg>forbidding</sg>,;
+<sg>prohibited</sg>,;
+<sg>not permitted ,<cref> 760 <i>success</i></cref></sg>,;
+<sg>unlicensed, contraband, impermissible, under the ban of</sg>,;
+<sg>illegal ,<cref> 964 <i>wrong</i></cref></sg>,;
+<sg>unauthorized, not to be thought of, uncountenanced, unthinkable, beyond the pale</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>on no account ,<cref>536 <i>no</i></cref></sg>,;
+<sg>Int</sg>,;
+<sg>forbid it heaven!, ,<cref>766 <i>deprecation</i></cref></sg>,;
+<sg>hands off!, keep off!, hold!, stop!, desist!, cease and desist!, avast!,</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>that will never do</sg>,;
+<sg>don't you dare</sg>,;
+<sg>forget it</sg>,;
+<sg>don't even think about doing it</sg>,;
+<sg>go ahead</sg>,;
+<sg>make my day</sg>,;
+<br>
+</paragraph>

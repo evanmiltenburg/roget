@@ -1,0 +1,71 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#18#</sectionNumber>
+<headword>#<b>#[001] #492# Qualification #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>qualification, </i>limitation, modification, coloring</sg>,;
+<sg>allowance, grains of allowance, consideration, extenuating circumstances</sg>,;
+<sg>mitigation</sg>,;
+<sg>condition, proviso, prerequisite, contingency, stipulation, provision, specification, sine qua non</sg>,;
+<sg>catch, string, strings attached</sg>,;
+<sg>exemption</sg>,;
+<sg>exception, escape clause, salvo, saving clause</sg>,;
+<sg>discount ,<cref> 813 <i>property</i></cref></sg>,;
+<sg>restriction</sg>,;
+<sg>fine print</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>qualify, limit, modify, leaven, give a color to, introduce new conditions, narrow, temper</sg>,;
+<sg>waffle, quibble, hem and haw (be uncertain) 475</sg>,;
+<sg>equivocate (sophistry) 477</sg>,;
+<sg>depend, depend on, be contingent on (effect) 154</sg>,;
+<sg>allow for, make allowance for</sg>,;
+<sg>admit exceptions, take into account</sg>,;
+<sg>modulate</sg>,;
+<sg>moderate, temper, season, leaven</sg>,;
+<sg>take exception</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>qualifying</sg>,;
+<sg>qualified, conditioned, restricted, hedged</sg>,;
+<sg>conditional</sg>,;
+<sg>exceptional ,<cref>83 <i>unconformable</i></cref></sg>,;
+<sg>hypothetical ,<cref>514 <i>supposed</i></cref></sg>,;
+<sg>contingent ,<cref>475 <i>uncertain</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>provided, provided that, provided always</sg>,;
+<sg>if, unless, but, yet</sg>,;
+<sg>according as</sg>,;
+<sg>conditionally, admitting, supposing</sg>,;
+<sg>on the supposition of ,<cref>514 <i>theoretically</i></cref></sg>,;
+<sg>with the understanding, even, although, though, for all that, after all, at all events</sg>,;
+<sg>approximately ,<cref> 197 <i>inhabitant</i></cref>, 17</sg>,;
+<sg>in a limited degree (smallness) 32</sg>,;
+<sg>somewhat, sort of, something like that, to a certain extent, to a degree, in a sense, so to speak</sg>,;
+<sg>with grains of allowance, cum grano salis, with a grain of salt</sg>,;
+<sg>exceptis excipiendis</sg>,;
+<sg>wind and weather permitting</sg>,;
+<sg>if possible ,<cref> 470 <i>absence or want of intellect</i></cref></sg>,;
+<sg>subject to, conditioned upon</sg>,;
+<sg>with this proviso</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>if the good lord is willing and the creeks don't rise</sg>,;
+<sg>catch- 22</sg>,;
+<sg>Degrees of Evidence</sg>,;
+<br>
+</paragraph>

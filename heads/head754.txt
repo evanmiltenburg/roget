@@ -1,0 +1,74 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#29#</sectionNumber>
+<headword>#<b>#[001] #754# Submission #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>submission, </i>yielding</sg>,;
+<sg>nonresistance</sg>,;
+<sg>obedience ,<cref> 743 <i>concord</i></cref></sg>,;
+<sg>surrender, cession, capitulation, resignation</sg>,;
+<sg>backdown</sg>,;
+<sg>obeisance, homage, kneeling, genuflexion, courtesy, curtsy, kowtow, prostration</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>succumb, submit, yeild, bend, resign, defer to</sg>,;
+<sg>lay down one's arms, deliver up one's arms</sg>,;
+<sg>lower colors, haul down colors, strike one's flag, strike colors</sg>,;
+<sg>surrender, surrender at discretion</sg>,;
+<sg>cede, capitulate, come to terms, retreat, beat a retreat</sg>,;
+<sg>draw in one's horns ,<cref>879 <i>humility</i></cref></sg>,;
+<sg>give way, give round, give in, give up</sg>,;
+<sg>cave in</sg>,;
+<sg>suffer judgment by default</sg>,;
+<sg>bend, bend to one's yoke, bend before the storm</sg>,;
+<sg>reel back</sg>,;
+<sg>bend down, knuckle down, knuckle to, knuckle under</sg>,;
+<sg>knock under</sg>,;
+<sg>eat dirt, eat the leek, eat humble pie</sg>,;
+<sg>bite the dust, lick the dust</sg>,;
+<sg>be at one's feet, fall at one's feet</sg>,;
+<sg>craven</sg>,;
+<sg>crouch before, throw oneself at the feet of</sg>,;
+<sg>swallow the leek, swallow the pill</sg>,;
+<sg>kiss the rod</sg>,;
+<sg>turn the other cheek</sg>,;
+<sg>avaler les couleuvres, gulp down</sg>,;
+<sg>obey ,<cref> 743 <i>concord</i></cref></sg>,;
+<sg>kneel to, bow to, pay homage to, cringe to, truckle to</sg>,;
+<sg>bend the neck, bend the knee</sg>,;
+<sg>kneel, fall on one's knees, bow submission, courtesy, curtsy, kowtow</sg>,;
+<sg>pocket the affront</sg>,;
+<sg>make the best of, make a virtue of necessity</sg>,;
+<sg>grin and abide, grin and bear it, shrug the shoulders, resign oneself</sg>,;
+<sg>submit with a good grace ,<cref>826 <i>bear with</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>surrendering</sg>,;
+<sg>submissive, resigned, crouching</sg>,;
+<sg>downtrodden</sg>,;
+<sg>down on one's marrow bones</sg>,;
+<sg>on one's bended knee</sg>,;
+<sg>unresistant, unresisting, nonresisting</sg>,;
+<sg>pliant ,<cref>324 <i>soft</i></cref></sg>,;
+<sg>undefended</sg>,;
+<sg>untenable, indefensible</sg>,;
+<sg>humble ,<cref> 879 <i>weariness</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>have it your own way</sg>,;
+<sg>it can't be helped</sg>,;
+<sg>amen ,<cref>488 <i>assent</i></cref></sg>,;
+<sg>da locum melioribus</sg>,;
+<sg>tempori parendum</sg>,;
+<br>
+</paragraph>

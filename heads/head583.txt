@@ -1,0 +1,41 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#25#</sectionNumber>
+<headword>#<b>#[001] #583# Sculpture #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>sculpture, </i>insculpture</sg>,;
+<sg>carving</sg>,;
+<sg>statuary</sg>,;
+<sg>high relief, low relief, bas relief</sg>,;
+<sg>relief</sg>,;
+<sg>relieve</sg>,;
+<sg>bassorilievo, altorilievo, mezzorilievo</sg>,;
+<sg>intaglio, anaglyph</sg>,;
+<sg>medal, medallion</sg>,;
+<sg>cameo</sg>,;
+<sg>marble, bronze, terra cotta, papier-mache</sg>,;
+<sg>ceramic ware, pottery, porcelain, china, earthenware</sg>,;
+<sg>cloisonne, enamel, faience, Laocoon, satsuma</sg>,;
+<sg>statue, ,<cref>554 <i>image</i></cref></sg>,;
+<sg>cast ,<cref>21 <i>copy</i></cref></sg>,;
+<sg>glyptotheca</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>sculpture, carve, cut, chisel, model, mold</sg>,;
+<sg>cast</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>sculptured , v</sg>,;
+<sg>in relief, anaglyptic, ceroplastic, ceramic</sg>,;
+<sg>parian</sg>,;
+<sg>marble</sg>,;
+<sg>xanthian</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,89 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#23#</sectionNumber>
+<headword>#<b>#[001] #547# Interpretation #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>interpretation, </i>definition</sg>,;
+<sg>explanation, explication</sg>,;
+<sg>solution, answer</sg>,;
+<sg>rationale</sg>,;
+<sg>plain interpretation, simple interpretation, strict interpretation</sg>,;
+<sg>meaning ,<cref> 516 <i>scholar</i></cref></sg>,;
+<sg>translation</sg>,;
+<sg>rendering, rendition</sg>,;
+<sg>redition</sg>,;
+<sg>literal translation, free translation</sg>,;
+<sg>key</sg>,;
+<sg>secret</sg>,;
+<sg>clew ,<cref>550 <i>indication</i></cref></sg>,;
+<sg>clavis, crib, pony, trot</sg>,;
+<sg>exegesis</sg>,;
+<sg>expounding, exposition</sg>,;
+<sg>hermeneutics</sg>,;
+<sg>comment, commentary</sg>,;
+<sg>inference ,<cref>480 <i>deduction</i></cref></sg>,;
+<sg>illustration, exemplification</sg>,;
+<sg>gloss, annotation, scholium, note</sg>,;
+<sg>elucidation, dilucidation</sg>,;
+<sg>eclaircissement, mot d'enigme</sg>,;
+<sg>symptomatology, semiology, semeiology, semiotics</sg>,;
+<sg>metoposcopy, physiognomy</sg>,;
+<sg>paleography ,<cref>560 <i>philology</i></cref></sg>,;
+<sg>oneirology acception, acceptation, acceptance</sg>,;
+<sg>light, reading, lection, construction, version</sg>,;
+<sg>equivalent, equivalent meaning ,<cref> 516 <i>scholar</i></cref></sg>,;
+<sg>synonym</sg>,;
+<sg>paraphrase, metaphrase</sg>,;
+<sg>convertible terms, apposition</sg>,;
+<sg>dictionary ,<cref> 562 <i>negation</i></cref></sg>,;
+<sg>polyglot</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>interpret, explain, define, construe, translate, render</sg>,;
+<sg>do into, turn into</sg>,;
+<sg>transfuse the sense of</sg>,;
+<sg>find out ,<cref> 480 <i>neglect</i></cref></sg>,;
+<sg>1 the meaning of, ,<cref> 516 <i>scholar</i></cref> read</sg>,;
+<sg>spell out, make out</sg>,;
+<sg>decipher, unravel, disentangle</sg>,;
+<sg>find the key of, enucleate, resolve, solve</sg>,;
+<sg>read between the lines</sg>,;
+<sg>account for</sg>,;
+<sg>find the cause, tell the cause of ,<cref> 153 <i>revolution</i></cref></sg>,;
+<sg>throw light upon, shed light upon, shed new light upon, shed fresh light upon</sg>,;
+<sg>clear up, clarify, elucidate</sg>,;
+<sg>illustrate, exemplify</sg>,;
+<sg>unfold, expound, comment upon, annotate</sg>,;
+<sg>popularize ,<cref>518 <i>render intelligible</i></cref></sg>,;
+<sg>take in a particular sense, understand in a particular sense, receive in a particular sense, accept in a particular sense</sg>,;
+<sg>understand by, put a construction on, be given to understand</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>explanatory, expository</sg>,;
+<sg>explicative, explicatory</sg>,;
+<sg>exegetical</sg>,;
+<sg>construable</sg>,;
+<sg>polyglot</sg>,;
+<sg>literal</sg>,;
+<sg>paraphrastic, metaphrastic</sg>,;
+<sg>consignificative, synonymous</sg>,;
+<sg>equivalent ,<cref> 27 <i>quantity</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>in explanation</sg>,;
+<sg>that is to say, id est, videlicet, to wit, namely, in other words</sg>,;
+<sg>literally, strictly speaking</sg>,;
+<sg>in plain, in plainer terms, in plainer words, in plainer English</sg>,;
+<sg>more simply</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,104 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#38#</sectionNumber>
+<headword>#<b>#[001] #982# Improbity #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>improbity</i></sg>,;
+<sg>dishonesty, dishonor</sg>,;
+<sg>deviation from rectitude</sg>,;
+<sg>disgrace ,<cref>874 <i>disrepute</i></cref></sg>,;
+<sg>fraud ,<cref>545 <i>deception</i></cref></sg>,;
+<sg>lying ,<cref> 544 <i>unintelligibility</i></cref></sg>,;
+<sg>bad faith, Punic faith</sg>,;
+<sg>mala fides, Punica fides</sg>,;
+<sg>infidelity</sg>,;
+<sg>faithlessness</sg>,;
+<sg>Judas kiss, betrayal</sg>,;
+<sg>breach of promise, breach of trust, breach of faith</sg>,;
+<sg>prodition, disloyalty, treason, high treason</sg>,;
+<sg>apostasy ,<cref>607 <i>tergiversation</i></cref></sg>,;
+<sg>nonobservance ,<cref> 773 <i>disobedience</i></cref></sg>,;
+<sg>shabbiness</sg>,;
+<sg>villainy, villany</sg>,;
+<sg>baseness</sg>,;
+<sg>abjection, debasement, turpitude, moral turpitude, laxity, trimming, shuffling</sg>,;
+<sg>perfidy</sg>,;
+<sg>perfidiousness</sg>,;
+<sg>treachery, double dealing</sg>,;
+<sg>unfairness</sg>,;
+<sg>knavery, roguery, rascality, foul play</sg>,;
+<sg>jobbing, jobbery</sg>,;
+<sg>graft, bribery</sg>,;
+<sg>venality, nepotism</sg>,;
+<sg>corruption, job, shuffle, fishy transaction</sg>,;
+<sg>barratry, sharp practice, heads I win tails you lose</sg>,;
+<sg>mouth honor ,<cref>933 <i>flattery</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be dishonest</sg>,;
+<sg>play false</sg>,;
+<sg>break one's word, break one's faith, break one's promise</sg>,;
+<sg>jilt, betray, forswear</sg>,;
+<sg>shuffle ,<cref>544 <i>lie</i></cref></sg>,;
+<sg>live by one's wits, sail near the wind</sg>,;
+<sg>disgrace oneself, dishonor oneself, demean oneself</sg>,;
+<sg>derogate, stoop, grovel, sneak, lose caste</sg>,;
+<sg>sell oneself, go over to the enemy</sg>,;
+<sg>seal one's infamy</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>dishonest, dishonorable</sg>,;
+<sg>unconscientious, unscrupulous</sg>,;
+<sg>fraudulent ,<cref> 545 <i>equivocalness</i></cref></sg>,;
+<sg>knavish</sg>,;
+<sg>disgraceful ,<cref>974 <i>disreputable</i></cref></sg>,;
+<sg>wicked ,<cref> 945 <i>divorce</i></cref></sg>,;
+<sg>false-hearted, disingenuous</sg>,;
+<sg>unfair, one-sided</sg>,;
+<sg>double, double- hearted, double-tongued, double-faced</sg>,;
+<sg>timeserving, crooked, tortuous, insidious, Machiavelian, dark, slippery</sg>,;
+<sg>fishy</sg>,;
+<sg>perfidious, treacherous, perjured</sg>,;
+<sg>infamous, arrant, foul, base, vile, ignominious, blackguard</sg>,;
+<sg>contemptible, unrespectable, abject, mean, shabby, little, paltry, dirty, scurvy, scabby, sneaking, groveling, scrubby, rascally, pettifogging</sg>,;
+<sg>beneath one</sg>,;
+<sg>low-minded, low-thoughted</sg>,;
+<sg>base-minded</sg>,;
+<sg>undignified, indign</sg>,;
+<sg>unbecoming, unbeseeming, unbefitting</sg>,;
+<sg>derogatory, degrading</sg>,;
+<sg>infra dignitatem, beneath one's dignity</sg>,;
+<sg>ungentlemanly, ungentlemanlike</sg>,;
+<sg>unknightly, unchivalric, unmanly, unhandsome</sg>,;
+<sg>recreant, inglorious</sg>,;
+<sg>corrupt, venal</sg>,;
+<sg>debased, mongrel</sg>,;
+<sg>faithless, of bad faith, false, unfaithful, disloyal</sg>,;
+<sg>untrustworthy</sg>,;
+<sg>trustless, trothless</sg>,;
+<sg>lost to shame, dead to honor</sg>,;
+<sg>barratrous</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>dishonestly</sg>,;
+<sg>mala fide, like a thief in the night, by crooked paths</sg>,;
+<sg>Int</sg>,;
+<sg>O tempora!, O mores!,</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>corruptissima respublica plurimae leges</sg>,;
+<br>
+</paragraph>

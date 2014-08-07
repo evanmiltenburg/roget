@@ -1,0 +1,79 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#38#</sectionNumber>
+<headword>#<b>#[001] #1012# Lawsuit #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>lawsuit, </i>suit, action, cause</sg>,;
+<sg>litigation</sg>,;
+<sg>suit in law</sg>,;
+<sg>dispute ,<cref> 713 <i>haste</i></cref></sg>,;
+<sg>citation, arraignment, prosecution, impeachment</sg>,;
+<sg>accusation ,<cref> 938 <i>favorite</i></cref></sg>,;
+<sg>presentment, true bill, indictment</sg>,;
+<sg>apprehension, arrest</sg>,;
+<sg>committal</sg>,;
+<sg>imprisonment ,<cref>751 <i>restraint</i></cref></sg>,;
+<sg>writ, summons, subpoena, latitat, nisi prius</sg>,;
+<sg>venire, venire facias pleadings</sg>,;
+<sg>declaration, bill, claim</sg>,;
+<sg>proces verbal</sg>,;
+<sg>bill of right, information, corpus delicti</sg>,;
+<sg>affidavit, state of facts</sg>,;
+<sg>answer, reply, replication, plea, demurrer, rebutter, rejoinder</sg>,;
+<sg>surrebutter, surrejoinder</sg>,;
+<sg>suitor, party to a suit</sg>,;
+<sg>plaintiff, defendant, litigant ,<cref> 938 <i>favorite</i></cref></sg>,;
+<sg>hearing, trial</sg>,;
+<sg>verdict ,<cref>480 <i>judgment</i></cref></sg>,;
+<sg>appeal, appeal motion</sg>,;
+<sg>writ of error</sg>,;
+<sg>certiorari</sg>,;
+<sg>case</sg>,;
+<sg>decision, precedent</sg>,;
+<sg>decided case, reports (legal reference works, see reference books)</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>go to law, appeal to the law</sg>,;
+<sg>bring to justice, bring to trial, bring to the bar</sg>,;
+<sg>put on trial, pull up</sg>,;
+<sg>accuse ,<cref> 938 <i>favorite</i></cref></sg>,;
+<sg>prefer a claim, file a claim</sg>,;
+<sg>take the law of, inform against</sg>,;
+<sg>serve with a writ, cite, apprehend, arraign, sue, prosecute, bring an action against, indict, impeach, attach, distrain, commit</sg>,;
+<sg>arrest</sg>,;
+<sg>summon, summons</sg>,;
+<sg>give in charge ,<cref>751 <i>restrain</i></cref></sg>,;
+<sg>empanel a jury, implead, join issue</sg>,;
+<sg>close the pleadings</sg>,;
+<sg>set down for hearing</sg>,;
+<sg>try, hear a cause</sg>,;
+<sg>sit in judgment</sg>,;
+<sg>adjudicate ,<cref> 480 <i>neglect</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>litigious ,<cref>713 <i>quarrelsome</i></cref></sg>,;
+<sg>qui tam</sg>,;
+<sg>coram judice, sub judice</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>pendente lite</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>adhuc sub judice lis est</sg>,;
+<sg>accedas ad curiam</sg>,;
+<sg>transeat in exemplum</sg>,;
+<br>
+</paragraph>

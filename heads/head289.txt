@@ -1,0 +1,87 @@
+<classNumber>#2#</classNumber>
+<sectionNumber>#12#</sectionNumber>
+<headword>#<b>#[001] #289# Direction #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>direction, </i>bearing, course, vector</sg>,;
+<sg>set, drift, tenor</sg>,;
+<sg>tendency ,<cref> 176 <i>unproductiveness</i></cref></sg>,;
+<sg>incidence</sg>,;
+<sg>bending, trending</sg>,;
+<sg>dip, tack, aim, collimation</sg>,;
+<sg>steering steerage</sg>,;
+<sg>point of the compass, cardinal points</sg>,;
+<sg>North East, South, West</sg>,;
+<sg>N by E, ENE, NE by N, NE, </sg>,;
+<sg>rhumb, azimuth, line of collimation</sg>,;
+<sg>line, path, road, range, quarter, line of march</sg>,;
+<sg>alignment, allignment</sg>,;
+<sg>air line, beeline</sg>,;
+<sg>straight shoot</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>tend towards, bend towards, point towards</sg>,;
+<sg>conduct to, go to</sg>,;
+<sg>point to, point at</sg>,;
+<sg>bend, trend, verge, incline, dip, determine</sg>,;
+<sg>steer for, steer towards, make for, make towards</sg>,;
+<sg>aim at, level at</sg>,;
+<sg>take aim</sg>,;
+<sg>keep a course, hold a course</sg>,;
+<sg>be bound for</sg>,;
+<sg>bend one's steps towards</sg>,;
+<sg>direct one's course, steer one's course, bend one's course, shape one's course</sg>,;
+<sg>align one's march, allign one's march</sg>,;
+<sg>to straight, go straight to the point</sg>,;
+<sg>march on, march on a point</sg>,;
+<sg>ascertain one's direction</sg>,;
+<sg>s'orienter, see which way the wind blows</sg>,;
+<sg>box the compass</sg>,;
+<sg>take the air line</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>directed</sg>,;
+<sg>directed towards</sg>,;
+<sg>pointing towards</sg>,;
+<sg>bound for</sg>,;
+<sg>aligned, with alligned with</sg>,;
+<sg>direct, straight</sg>,;
+<sg>undeviating, unswerving</sg>,;
+<sg>straightforward</sg>,;
+<sg>North, Northern, Northerly,</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>towards</sg>,;
+<sg>on the road, on the high road to</sg>,;
+<sg>en avant</sg>,;
+<sg>versus, to</sg>,;
+<sg>hither, thither, whither</sg>,;
+<sg>directly</sg>,;
+<sg>straight as an arrow, forwards as an arrow</sg>,;
+<sg>point blank</sg>,;
+<sg>in a bee line to, in a direct line to, as the crow flies, in a straight line to, in a bee line for, in a direct line for, in a straight line for, in a bee line with, in a direct line with, in a straight line with</sg>,;
+<sg>in a line with</sg>,;
+<sg>full tilt at, as the crow flies</sg>,;
+<sg>before the wind, near the wind, close to the wind, against the wind</sg>,;
+<sg>windwards, in the wind's eye</sg>,;
+<sg>through, via, by way of</sg>,;
+<sg>in all directions, in all manner of ways</sg>,;
+<sg>quaquaversum, from the four winds</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>the shortest distance between two points is a straight line</sg>,;
+<br>
+</paragraph>

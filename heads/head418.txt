@@ -1,0 +1,20 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#15#</sectionNumber>
+<headword>#<b>#[001] #418# Acridity #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>acridity, </i>astringency, bite</sg>,;
+<sg>tear gas</sg>,;
+<sg>smoke, acrid fumes</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>acrid, biting, astringent, sharp, harsh</sg>,;
+<sg>bitter ,<cref> 392 <i>touch</i></cref></sg>,;
+<sg>2</sg>,;
+<sg>(5) Sound (i) SOUND IN GENERAL</sg>,;
+<br>
+</paragraph>

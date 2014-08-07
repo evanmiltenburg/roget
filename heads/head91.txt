@@ -1,0 +1,64 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#5#</sectionNumber>
+<headword>#<b>#[001] #91# Unity #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>unity</i></sg>,;
+<sg>oneness</sg>,;
+<sg>individuality</sg>,;
+<sg>solitude ,<cref>893 <i>seclusion</i></cref></sg>,;
+<sg>isolation ,<cref>44 <i>disjunction</i></cref></sg>,;
+<sg>unification ,<cref> 48 <i>connection</i></cref></sg>,;
+<sg>one, unit, ace</sg>,;
+<sg>individual</sg>,;
+<sg>none else, no other</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be one, be alone</sg>,;
+<sg>dine with Duke Humphrey</sg>,;
+<sg>isolate ,<cref>44 <i>disjoin</i></cref></sg>,;
+<sg>render one</sg>,;
+<sg>unite ,<cref>48 <i>join) 43, (combine</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>one, sole, single, solitary, unitary</sg>,;
+<sg>individual, apart, alone</sg>,;
+<sg>kithless</sg>,;
+<sg>unaccompanied, unattended</sg>,;
+<sg>solus, single-handed</sg>,;
+<sg>singular, odd, unique, unrepeated, azygous, first and last</sg>,;
+<sg>isolated ,<cref>44 <i>disjoined</i></cref></sg>,;
+<sg>insular</sg>,;
+<sg>monospermous</sg>,;
+<sg>unific, uniflorous, unifoliate, unigenital, uniliteral, unijocular, unimodal, unimodular</sg>,;
+<sg>lone, lonely, lonesome</sg>,;
+<sg>desolate, dreary</sg>,;
+<sg>insecable, inseverable, indiscerptible</sg>,;
+<sg>compact, indivisible, atomic, irresolvable</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>singly</sg>,;
+<sg>alone, by itself, per se, only, apart, in the singular number, in the abstract</sg>,;
+<sg>one by one, one at a time</sg>,;
+<sg>simply</sg>,;
+<sg>one and a half, sesqui-</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>natura il fece, e poi roppe la stampa</sg>,;
+<sg>du fort au faible</sg>,;
+<sg>two souls with but a single thought, two hearts that beat as one</sg>,;
+<br>
+</paragraph>

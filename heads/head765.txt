@@ -1,0 +1,21 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#30#</sectionNumber>
+<headword>#<b>#[001] #765# Mediocrity #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>mediocrity, </i>moderate circumstances, average circumstances</sg>,;
+<sg>respectability</sg>,;
+<sg>middle classes</sg>,;
+<sg>mediocrity</sg>,;
+<sg>golden mean ,<cref>174 <i>mid-course) 628, (moderation</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>jog on</sg>,;
+<sg>go fairly, go quietly, go peaceably, go tolerably, go respectably, get on fairly, get on quietly, get on peaceably, get on tolerably, get on respectably</sg>,;
+<sg>DIVISION II INTERSOCIAL VOLITION</sg>,;
+<br>
+</paragraph>

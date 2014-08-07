@@ -1,0 +1,34 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#8#</sectionNumber>
+<headword>#<b>#[001] #185# Liability #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>liability, </i>liableness</sg>,;
+<sg>possibility, contingency</sg>,;
+<sg>susceptivity, susceptibility, exposure</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be liable</sg>,;
+<sg>incur, lay oneself open to</sg>,;
+<sg>run the chance, stand a chance</sg>,;
+<sg>lie under, expose oneself to, open a door to</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>liable, subject</sg>,;
+<sg>in danger ,<cref> 665 <i>store</i></cref></sg>,;
+<sg>open to, exposed to, obnoxious to</sg>,;
+<sg>answerable</sg>,;
+<sg>unexempt from</sg>,;
+<sg>apt to</sg>,;
+<sg>dependent on</sg>,;
+<sg>incident to</sg>,;
+<sg>contingent, incidental, possible, on the cards, within range of, at the mercy of</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,83 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#13#</sectionNumber>
+<headword>#<b>#[001] #329# World #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>world, </i>creation, nature, universe</sg>,;
+<sg>earth, globe, wide world</sg>,;
+<sg>cosmos</sg>,;
+<sg>kosmos</sg>,;
+<sg>terraqueous globe, sphere</sg>,;
+<sg>macrocosm, megacosm</sg>,;
+<sg>music of the spheres</sg>,;
+<sg>heavens, sky, welkin, empyrean</sg>,;
+<sg>starry cope, starry heaven, starry host</sg>,;
+<sg>firmament</sg>,;
+<sg>Midgard</sg>,;
+<sg>supersensible regions</sg>,;
+<sg>varuna</sg>,;
+<sg>vault of heaven, canopy of heaven</sg>,;
+<sg>celestial spaces</sg>,;
+<sg>heavenly bodies, stars, asteroids</sg>,;
+<sg>nebulae</sg>,;
+<sg>galaxy, milky way, galactic circle, via lactea, ame no kawa</sg>,;
+<sg>sun, orb of day, Apollo, Phoebus</sg>,;
+<sg>photosphere, chromosphere</sg>,;
+<sg>solar system</sg>,;
+<sg>planet, planetoid</sg>,;
+<sg>comet</sg>,;
+<sg>satellite, moon, orb of night, Diana, silver-footed queen</sg>,;
+<sg>aerolite, meteor</sg>,;
+<sg>planetary ring</sg>,;
+<sg>falling star, shooting star</sg>,;
+<sg>meteorite, uranolite</sg>,;
+<sg>constellation, zodiac, signs of the zodiac, Charles's wain, Big Dipper, Little Dipper, Great Bear, Southern Cross, Orion's belt, Cassiopea's chair, Pleiades</sg>,;
+<sg>colures, equator, ecliptic, orbit</sg>,;
+<sg>astronomy</sg>,;
+<sg>uranography, uranology</sg>,;
+<sg>cosmology, cosmography, cosmogony</sg>,;
+<sg>eidouranion, orrery</sg>,;
+<sg>geodesy ,<cref>466 <i>measurement</i></cref></sg>,;
+<sg>star gazing, star gazer</sg>,;
+<sg>astronomer</sg>,;
+<sg>observatory</sg>,;
+<sg>planetarium</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>cosmic, cosmical</sg>,;
+<sg>mundane, terrestrial, terrestrious, terraqueous, terrene, terreous, telluric, earthly, geotic, under the sun</sg>,;
+<sg>sublunary, subastral</sg>,;
+<sg>solar, heliacal</sg>,;
+<sg>lunar</sg>,;
+<sg>celestial, heavenly, sphery</sg>,;
+<sg>starry, stellar</sg>,;
+<sg>sidereal, sideral</sg>,;
+<sg>astral</sg>,;
+<sg>nebular</sg>,;
+<sg>uranic</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>in all creation, on the face of the globe, here below, under the sun</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>die Weltgeschichte ist das Weltergesicht</sg>,;
+<sg>earth is but the frozen echo of the silent voice of God</sg>,;
+<sg>green calm below, blue quietness above</sg>,;
+<sg>hanging in a golden chain this pendant World</sg>,;
+<sg>nothing in nature is unbeautiful</sg>,;
+<sg>silently as a dream the fabric rose</sg>,;
+<sg>some touch of nature's genial glow</sg>,;
+<sg>this majestical roof fretted with golden fire</sg>,;
+<sg>through knowledge we behold the World's creation</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,75 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#38#</sectionNumber>
+<headword>#<b>#[001] #963# Right #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>right</i></sg>,;
+<sg>what ought to be, what should be</sg>,;
+<sg>fitness</sg>,;
+<sg>summum jus</sg>,;
+<sg>justice, equity</sg>,;
+<sg>equitableness</sg>,;
+<sg>propriety</sg>,;
+<sg>fair play, impartiality, measure for measure, give and take, lex talionis</sg>,;
+<sg>Astraea, Nemesis, Themis</sg>,;
+<sg>scales of justice, evenhanded justice, karma</sg>,;
+<sg>suum cuique</sg>,;
+<sg>clear stage, fair field and no favor, level playing field</sg>,;
+<sg>morals ,<cref>926 <i>duty</i></cref></sg>,;
+<sg>law ,<cref> 963 <i>right</i></cref></sg>,;
+<sg>honor ,<cref>939 <i>probity</i></cref></sg>,;
+<sg>virtue ,<cref> 944 <i>celibacy</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be right</sg>,;
+<sg>stand to reason</sg>,;
+<sg>see justice done, see one righted, see fair play</sg>,;
+<sg>do justice to</sg>,;
+<sg>recompense ,<cref>973 <i>reward</i></cref></sg>,;
+<sg>bold the scales even, give and take</sg>,;
+<sg>serve one right, put the saddle on the right horse</sg>,;
+<sg>give every one his due, give the devil his due</sg>,;
+<sg>audire alteram partem</sg>,;
+<sg>deserve ,<cref>924 <i>be entitled to</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>right, good</sg>,;
+<sg>just, reasonable</sg>,;
+<sg>fit ,<cref> 924 <i>insolence</i></cref></sg>,;
+<sg>equal, equable, equatable</sg>,;
+<sg>evenhanded, fair</sg>,;
+<sg>legitimate, justifiable, rightful</sg>,;
+<sg>as it should be, as it ought to be</sg>,;
+<sg>lawful ,<cref>963 <i>permitted) 760, (legal</i></cref></sg>,;
+<sg>deserved ,<cref> 924 <i>insolence</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>rightly</sg>,;
+<sg>+a bon droit, au bon droit, in justice, in equity, in reason</sg>,;
+<sg>without distinction of persons, without regard to persons, without respect to persons</sg>,;
+<sg>upon even terms</sg>,;
+<sg>Int</sg>,;
+<sg>all right!, fair's fair</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>Dieu et mon droit</sg>,;
+<sg>in equal scale weighing delight and dole</sg>,;
+<sg>justitia cuum cuique distribuit</sg>,;
+<sg>justitiae soror incorrupta fides</sg>,;
+<sg>justitia virtutem regina</sg>,;
+<sg>thrice is he armed that hath his quarrel just</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,44 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#3#</sectionNumber>
+<headword>#<b>#[001] #45# Simpleness #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>simpleness</i></sg>,;
+<sg>purity, homogeneity</sg>,;
+<sg>elimination</sg>,;
+<sg>sifting</sg>,;
+<sg>purification ,<cref>652 <i>cleanness</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>render simple</sg>,;
+<sg>simplify</sg>,;
+<sg>sift, winnow, bolt, eliminate</sg>,;
+<sg>exclude, get rid of</sg>,;
+<sg>clear</sg>,;
+<sg>purify ,<cref>652 <i>clean</i></cref></sg>,;
+<sg>disentangle ,<cref>44 <i>disjoin</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>simple, uniform, of a piece, homogeneous, single, pure, sheer, neat</sg>,;
+<sg>unmixed, unmingled, unblended, uncombined, uncompounded</sg>,;
+<sg>elementary, undecomposed</sg>,;
+<sg>unadulterated, unsophisticated, unalloyed, untinged, unfortified, pur et simple</sg>,;
+<sg>incomplex</sg>,;
+<sg>free from, exempt from</sg>,;
+<sg>exclusive</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>simple</sg>,;
+<sg>only</sg>,;
+<br>
+</paragraph>

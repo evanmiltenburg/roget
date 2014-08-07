@@ -1,0 +1,42 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#37#</sectionNumber>
+<headword>#<b>#[001] #949# Threat #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>threat, </i>menace</sg>,;
+<sg>defiance ,<cref> 715 <i>exertion</i></cref></sg>,;
+<sg>abuse, minacity, intimidation</sg>,;
+<sg>denunciation</sg>,;
+<sg>fulmination</sg>,;
+<sg>commination ,<cref>908 <i>curse</i></cref></sg>,;
+<sg>gathering clouds ,<cref>668 <i>warning</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>threat, threaten</sg>,;
+<sg>menace</sg>,;
+<sg>snarl, growl, gnarl, mutter, bark, bully</sg>,;
+<sg>defy ,<cref> 715 <i>exertion</i></cref></sg>,;
+<sg>intimidate ,<cref> 860 <i>sensibility</i></cref></sg>,;
+<sg>keep in terrorem, hold up in terrorem, hold out in terrorem</sg>,;
+<sg>shake the fist at, double the fist at, clinch the fist at</sg>,;
+<sg>thunder, talk big, fulminate, use big words, bluster, look daggers, stare daggers</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>threatening, menacing</sg>,;
+<sg>minatory, minacious</sg>,;
+<sg>comminatory, abusive</sg>,;
+<sg>in terrorem</sg>,;
+<sg>ominous ,<cref>511 <i>predicting</i></cref></sg>,;
+<sg>defiant ,<cref> 715 <i>exertion</i></cref></sg>,;
+<sg>under the ban</sg>,;
+<sg>Int</sg>,;
+<sg>vae victis!, at your peril!, do your worst!,</sg>,;
+<br>
+</paragraph>

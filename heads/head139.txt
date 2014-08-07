@@ -1,0 +1,40 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#6#</sectionNumber>
+<headword>#<b>#[001] #139# Punctuality #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>punctuality, </i>promptness, immediateness</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be prompt, be on time, be in time</sg>,;
+<sg>arrive on time</sg>,;
+<sg>be in the nick of time</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>timely, seasonable, in time, punctual, prompt</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>on time, punctually, at the deadline, precisely, exactly</sg>,;
+<sg>right on time, to the minute</sg>,;
+<sg>in time</sg>,;
+<sg>in good time, in military time, in pudding time, in due time</sg>,;
+<sg>time enough</sg>,;
+<sg>with no time to spare, by a hair's breadth</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>touch and go, not a minute too soon, in the nick of time, just under the wire, get on board before the train leaves the station</sg>,;
+<br>
+</paragraph>

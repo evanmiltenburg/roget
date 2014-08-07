@@ -1,0 +1,77 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#26#</sectionNumber>
+<headword>#<b>#[001] #631# Perseverance #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>perseverance</i></sg>,;
+<sg>continuance ,<cref>143 <i>inaction</i></cref></sg>,;
+<sg>permanence ,<cref>141 <i>absence of change</i></cref></sg>,;
+<sg>firmness ,<cref>150 <i>stability</i></cref></sg>,;
+<sg>constancy, steadiness</sg>,;
+<sg>singleness of purpose, tenacity of purpose</sg>,;
+<sg>persistence, plodding, patience</sg>,;
+<sg>sedulity ,<cref>682 <i>industry</i></cref></sg>,;
+<sg>pertinacy, pertinacity, pertinaciousness</sg>,;
+<sg>iteration ,<cref> 104 <i>plurality </i></cref></sg>,;
+<sg>bottom, game, pluck, stamina, backbone, grit</sg>,;
+<sg>indefatigability, indefatigableness</sg>,;
+<sg>bulldog courage</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>persevere, persist</sg>,;
+<sg>hold on, hold out</sg>,;
+<sg>die in the last ditch, be in at the death</sg>,;
+<sg>stick to, cling to, adhere to</sg>,;
+<sg>stick to one's text, keep on</sg>,;
+<sg>keep to one's course, keep to one's ground, maintain one's course, maintain one's ground</sg>,;
+<sg>go all lengths, go through fire and water</sg>,;
+<sg>bear up, keep up, hold up</sg>,;
+<sg>plod</sg>,;
+<sg>stick to work ,<cref>686 <i>work</i></cref></sg>,;
+<sg>continue ,<cref> 143 <i>frequency</i></cref></sg>,;
+<sg>follow up</sg>,;
+<sg>die in harness, die at one's post</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>persevering, constant</sg>,;
+<sg>steady, steadfast</sg>,;
+<sg>undeviating, unwavering, unfaltering, unswerving, unflinching, unsleeping, unflagging, undrooping</sg>,;
+<sg>steady as time</sg>,;
+<sg>unrelenting, unintermitting, unremitting</sg>,;
+<sg>plodding</sg>,;
+<sg>industrious ,<cref> 682 <i>uncleanness</i></cref></sg>,;
+<sg>strenuous ,<cref> 686 <i>insalubrity</i></cref></sg>,;
+<sg>pertinacious</sg>,;
+<sg>persisting, persistent</sg>,;
+<sg>solid, sturdy, staunch, stanch, true to oneself</sg>,;
+<sg>unchangeable ,<cref> 150 <i>continuance in action</i></cref></sg>,;
+<sg>unconquerable ,<cref>159 <i>strong</i></cref></sg>,;
+<sg>indomitable, game to the last, indefatigable, untiring, unwearied, never tiring</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>through evil report and good report, through thick and thin, through fire and water</sg>,;
+<sg>per fas et nefas</sg>,;
+<sg>without fail, sink or swim, at any price, vogue la galere</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>never say die</sg>,;
+<sg>give it the old college try</sg>,;
+<sg>vestigia nulla retrorsum</sg>,;
+<sg>aut vincer aut mori</sg>,;
+<sg>la garde meurt et ne se rend pas</sg>,;
+<sg>tout vient a temps pour qui sait attendre</sg>,;
+<br>
+</paragraph>

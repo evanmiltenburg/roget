@@ -1,0 +1,93 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#23#</sectionNumber>
+<headword>#<b>#[001] #544# Unintelligibility #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>unintelligibility</i></sg>,;
+<sg>incomprehensibility, imperspicuity</sg>,;
+<sg>inconceivableness, vagueness</sg>,;
+<sg>obscurity</sg>,;
+<sg>ambiguity ,<cref> 520 <i>maxim</i></cref></sg>,;
+<sg>doubtful meaning</sg>,;
+<sg>uncertainty ,<cref> 475 <i>curiosity</i></cref></sg>,;
+<sg>perplexity ,<cref>59 <i>confusion</i></cref></sg>,;
+<sg>spinosity</sg>,;
+<sg>obscurum per obscurius</sg>,;
+<sg>mystification ,<cref>528 <i>concealment</i></cref></sg>,;
+<sg>latency ,<cref> 526 <i>sanity</i></cref></sg>,;
+<sg>transcendentalism</sg>,;
+<sg>paradox, oxymoron</sg>,;
+<sg>riddle, enigma, puzzle ,<cref>533 <i>secret</i></cref></sg>,;
+<sg>diagnus vindice nodus</sg>,;
+<sg>sealed book</sg>,;
+<sg>steganography, freemasonry</sg>,;
+<sg>pons asinorum, asses' bridge</sg>,;
+<sg>high Dutch, Greek, Hebrew</sg>,;
+<sg>jargon ,<cref>517 <i>unmeaning</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be unintelligible</sg>,;
+<sg>require explanation ,<cref> 522 <i>wisdom</i></cref></sg>,;
+<sg>have a doubtful meaning, pass comprehension</sg>,;
+<sg>render unintelligible</sg>,;
+<sg>conceal ,<cref> 528 <i>madman</i></cref></sg>,;
+<sg>darken ,<cref> 421 <i>loudness</i></cref></sg>,;
+<sg>confuse ,<cref>61 <i>derange</i></cref></sg>,;
+<sg>perplex ,<cref>475 <i>bewilder</i></cref></sg>,;
+<sg>not understand ,<cref> 518 <i>truth</i></cref></sg>,;
+<sg>lose, lose the clue</sg>,;
+<sg>miss</sg>,;
+<sg>not know what to make of, be able to make nothing of, give it up</sg>,;
+<sg>not be able to account for, not be able to make either head or tail of</sg>,;
+<sg>be at sea ,<cref>475 <i>uncertain</i></cref></sg>,;
+<sg>wonder ,<cref> 870 <i>discontent</i></cref></sg>,;
+<sg>see through a glass darkly ,<cref>491 <i>ignorance</i></cref></sg>,;
+<sg>not understand one another</sg>,;
+<sg>play at cross purposes ,<cref>523 <i>misinterpret</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>unintelligible, unaccountable, undecipherable, undiscoverable, unknowable, unfathomable</sg>,;
+<sg>incognizable, inexplicable, inscrutable</sg>,;
+<sg>inapprehensible, incomprehensible</sg>,;
+<sg>insolvable, insoluble</sg>,;
+<sg>impenetrable</sg>,;
+<sg>illegible, as Greek to one, unexplained, paradoxical</sg>,;
+<sg>enigmatic, enigmatical, puzzling (secret) 533</sg>,;
+<sg>indecipherable</sg>,;
+<sg>obscure, dark, muddy, clear as mud, seen through a mist, dim, nebulous, shrouded in mystery</sg>,;
+<sg>opaque, dense</sg>,;
+<sg>undiscernible ,<cref>447 <i>invisible</i></cref></sg>,;
+<sg>misty ,<cref>426 <i>opaque</i></cref></sg>,;
+<sg>hidden ,<cref> 528 <i>madman</i></cref></sg>,;
+<sg>latent ,<cref> 526 <i>sanity</i></cref></sg>,;
+<sg>indefinite, garbled ,<cref>447 <i>indistinct</i></cref></sg>,;
+<sg>perplexed ,<cref>59 <i>confused</i></cref></sg>,;
+<sg>undetermined, vague, loose, ambiguous</sg>,;
+<sg>mysterious</sg>,;
+<sg>mystic, mystical</sg>,;
+<sg>acroamatic, acroamatical</sg>,;
+<sg>metempirical</sg>,;
+<sg>transcendental</sg>,;
+<sg>occult, recondite, abstruse, crabbed</sg>,;
+<sg>inconceivable, inconceptible</sg>,;
+<sg>searchless</sg>,;
+<sg>above comprehension, beyond comprehension, past comprehension</sg>,;
+<sg>beyond one's depth</sg>,;
+<sg>unconceived</sg>,;
+<sg>inexpressible, undefinable, incommunicable</sg>,;
+<sg>unpredictable, unforeseeable</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>it's Greek to me</sg>,;
+<br>
+</paragraph>

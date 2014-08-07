@@ -1,0 +1,108 @@
+<classNumber>#2#</classNumber>
+<sectionNumber>#10#</sectionNumber>
+<headword>#<b>#[001] #233# Covering #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>covering, </i>cover</sg>,;
+<sg>baldachin, baldachino, baldaquin</sg>,;
+<sg>canopy, tilt, awning, tent, marquee, tente d'abri, umbrella, parasol, sunshade</sg>,;
+<sg>veil (shade) 424</sg>,;
+<sg>shield ,<cref>717 <i>defense</i></cref></sg>,;
+<sg>roof, ceiling, thatch, tile</sg>,;
+<sg>pantile, pentile</sg>,;
+<sg>tiling, slates, slating, leads</sg>,;
+<sg>barrack, plafond, planchment, tiling, shed ,<cref>189 <i>abode</i></cref></sg>,;
+<sg>top, lid, covercle, door, operculum</sg>,;
+<sg>bulkhead</sg>,;
+<sg>bandage, plaster, lint, wrapping, dossil, finger stall</sg>,;
+<sg>coverlet, counterpane, sheet, quilt, tarpaulin, blanket, rug, drugget</sg>,;
+<sg>housing</sg>,;
+<sg>antimacassar, eiderdown, numdah, pillowcase, pillowslip</sg>,;
+<sg>linoleum</sg>,;
+<sg>saddle cloth, blanket cloth</sg>,;
+<sg>tidy</sg>,;
+<sg>tilpah, apishamore</sg>,;
+<sg>integument, tegument</sg>,;
+<sg>skin, pellicle, fleece, fell, fur, leather, shagreen, hide</sg>,;
+<sg>pelt, peltry</sg>,;
+<sg>cordwain</sg>,;
+<sg>derm</sg>,;
+<sg>robe, buffalo robe</sg>,;
+<sg>cuticle, scarfskin, epidermis</sg>,;
+<sg>clothing ,<cref> 225 <i>parallelism</i></cref></sg>,;
+<sg>mask ,<cref>530 <i>concealment</i></cref></sg>,;
+<sg>peel, crust, bark, rind, cortex, husk, shell, coat</sg>,;
+<sg>eggshell, glume</sg>,;
+<sg>capsule</sg>,;
+<sg>sheath, sheathing</sg>,;
+<sg>pod, cod</sg>,;
+<sg>casing, case, theca</sg>,;
+<sg>elytron</sg>,;
+<sg>elytrum</sg>,;
+<sg>involucrum</sg>,;
+<sg>wrapping, wrapper</sg>,;
+<sg>envelope, vesicle</sg>,;
+<sg>corn husk, corn shuck</sg>,;
+<sg>dermatology, conchology</sg>,;
+<sg>testaceology</sg>,;
+<sg>inunction</sg>,;
+<sg>incrustation, superimposition, superposition, obduction</sg>,;
+<sg>scale ,<cref>204 <i>layer</i></cref></sg>,;
+<sg>veneer, facing</sg>,;
+<sg>overlay</sg>,;
+<sg>plate, silver plate, gold plate, copper plate</sg>,;
+<sg>engobe</sg>,;
+<sg>ormolu</sg>,;
+<sg>Sheffield plate</sg>,;
+<sg>pavement</sg>,;
+<sg>coating, paint</sg>,;
+<sg>varnish ,<cref>216 <i>resin</i></cref></sg>,;
+<sg>1</sg>,;
+<sg>plating, barrel plating, anointing</sg>,;
+<sg>enamel</sg>,;
+<sg>epitaxial deposition, vapor deposition</sg>,;
+<sg>ground, whitewash, plaster, spackel, stucco, compo</sg>,;
+<sg>cerement</sg>,;
+<sg>ointment ,<cref>356 <i>grease</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>cover</sg>,;
+<sg>superpose, superimpose</sg>,;
+<sg>overlay, overspread</sg>,;
+<sg>wrap ,<cref> 225 <i>parallelism</i></cref></sg>,;
+<sg>encase, incase</sg>,;
+<sg>face, case, veneer, pave, paper</sg>,;
+<sg>tip, cap, bind</sg>,;
+<sg>bulkhead, bulkhead in</sg>,;
+<sg>clapboard</sg>,;
+<sg>coat, paint, varnish, pay, incrust, stucco, dab, plaster, tar</sg>,;
+<sg>wash</sg>,;
+<sg>besmear, bedaub</sg>,;
+<sg>anoint, do over</sg>,;
+<sg>gild, plate, japan, lacquer, lacker, enamel, whitewash</sg>,;
+<sg>parget</sg>,;
+<sg>lay it on thick</sg>,;
+<sg>overlie, overarch</sg>,;
+<sg>endome</sg>,;
+<sg>conceal ,<cref> 528 <i>madman</i></cref></sg>,;
+<sg>anodize</sg>,;
+<sg>galvanize</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>covering</sg>,;
+<sg>superimposed, overlaid, plated</sg>,;
+<sg>cutaneous, dermal, cortical, cuticular, tegumentary, skinny, scaly, squamous</sg>,;
+<sg>covered</sg>,;
+<sg>imbricated, loricated, armor plated, ironclad</sg>,;
+<sg>under cover</sg>,;
+<sg>cowled, cucullate, dermatoid, encuirassed, hooded, squamiferous, tectiform</sg>,;
+<sg>vaginate</sg>,;
+<br>
+</paragraph>

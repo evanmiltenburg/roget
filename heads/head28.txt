@@ -1,0 +1,36 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#3#</sectionNumber>
+<headword>#<b>#[001] #28# Degree #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>degree, </i>grade, extent, measure, amount, ratio, stint, standard, height, pitch</sg>,;
+<sg>reach, amplitude, range, scope, caliber</sg>,;
+<sg>gradation, shade</sg>,;
+<sg>tenor, compass</sg>,;
+<sg>sphere, station, rank, standing</sg>,;
+<sg>rate, way, sort</sg>,;
+<sg>point, mark, stage ,<cref>71 <i>term</i></cref></sg>,;
+<sg>intensity, strength ,<cref>31 <i>greatness</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>comparative</sg>,;
+<sg>gradual, shading off</sg>,;
+<sg>within the bounds ,<cref>233 <i>limit</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>by degrees, gradually, inasmuch, pro tanto</sg>,;
+<sg>however, howsoever</sg>,;
+<sg>step by step, bit by bit, little by little, inch by inch, drop by drop</sg>,;
+<sg>a little at a time, by inches, by slow degrees, by degrees, by little and little</sg>,;
+<sg>in some degree, in some measure</sg>,;
+<sg>to some extent</sg>,;
+<sg>di grado in grado</sg>,;
+<br>
+</paragraph>

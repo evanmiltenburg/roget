@@ -1,0 +1,99 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#27#</sectionNumber>
+<headword>#<b>#[001] #652# Avoidance #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>avoidance, </i>abstention, abstinence</sg>,;
+<sg>for bearance</sg>,;
+<sg>refraining</sg>,;
+<sg>inaction ,<cref> 681 <i>cleanness</i></cref></sg>,;
+<sg>neutrality</sg>,;
+<sg>avoidance, evasion, elusion</sg>,;
+<sg>seclusion ,<cref> 893 <i>fop</i></cref></sg>,;
+<sg>avolation, flight</sg>,;
+<sg>escape ,<cref> 671 <i>importance</i></cref></sg>,;
+<sg>retreat ,<cref> 287 <i>impulse</i></cref></sg>,;
+<sg>recoil ,<cref> 277 <i>journey</i></cref></sg>,;
+<sg>departure ,<cref> 293 <i>progression</i></cref></sg>,;
+<sg>rejection ,<cref> 610 <i>loquacity</i></cref></sg>,;
+<sg>shirker</sg>,;
+<sg>truant</sg>,;
+<sg>fugitive, refugee</sg>,;
+<sg>runaway, runagate</sg>,;
+<sg>maroon</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>abstain, refrain, spare, not attempt</sg>,;
+<sg>not do ,<cref> 681 <i>cleanness</i></cref></sg>,;
+<sg>maintain the even tenor of one's way</sg>,;
+<sg>eschew, keep from, let alone, have nothing to do with</sg>,;
+<sg>keep aloof keep off, stand aloof, stand off, hold aloof, hold off</sg>,;
+<sg>take no part in, have no hand in</sg>,;
+<sg>avoid, shun</sg>,;
+<sg>steer clear of, keep clear of</sg>,;
+<sg>fight shy of</sg>,;
+<sg>keep one's distance, keep at a respectful distance</sg>,;
+<sg>keep out of the way, get out of the way</sg>,;
+<sg>evade, elude, turn away from</sg>,;
+<sg>set one's face against ,<cref>708 <i>oppose</i></cref></sg>,;
+<sg>deny oneself</sg>,;
+<sg>shrink back</sg>,;
+<sg>hang back, hold back, draw back</sg>,;
+<sg>recoil ,<cref> 277 <i>journey</i></cref></sg>,;
+<sg>retire ,<cref>287 <i>recede</i></cref></sg>,;
+<sg>flinch, blink, blench, shy, shirk, dodge, parry, make way for, give place to</sg>,;
+<sg>beat a retreat</sg>,;
+<sg>turn tail, turn one's back</sg>,;
+<sg>take to one's heels</sg>,;
+<sg>runaway, run for one's life</sg>,;
+<sg>cut and run</sg>,;
+<sg>be off like a shot</sg>,;
+<sg>fly, flee</sg>,;
+<sg>fly away, flee away, run away from</sg>,;
+<sg>take flight, take to flight</sg>,;
+<sg>desert, elope</sg>,;
+<sg>make off, scamper off, sneak off, shuffle off, sheer off</sg>,;
+<sg>break away, tear oneself away, slip away, slink away, steel away, make away from, scamper away from, sneak away from, shuffle away from, sheer away from</sg>,;
+<sg>slip cable, part company, turn one's heel</sg>,;
+<sg>sneak out of, play truant, give one the go by, give leg bail, take French leave, slope, decamp, flit, bolt, abscond, levant, skedaddle, absquatulat, cut one's stick, walk one's chalks, show a light pair of heels, make oneself scarce</sg>,;
+<sg>escape ,<cref> 671 <i>importance</i></cref></sg>,;
+<sg>go away ,<cref>293 <i>depart</i></cref></sg>,;
+<sg>abandon ,<cref> 624 <i>prose</i></cref></sg>,;
+<sg>reject ,<cref> 610 <i>loquacity</i></cref></sg>,;
+<sg>lead one a dance, lead one a pretty dance</sg>,;
+<sg>throw off the scent, play at hide and seek</sg>,;
+<sg>Adj</sg>,;
+<sg>unsought, unattempted</sg>,;
+<sg>avoiding</sg>,;
+<sg>neutral, shy of ,<cref>603 <i>unwilling</i></cref></sg>,;
+<sg>elusive, evasive</sg>,;
+<sg>fugitive, runaway</sg>,;
+<sg>shy, wild</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>unsought, unattempted</sg>,;
+<sg>avoiding</sg>,;
+<sg>neutral, shy of ,<cref>603 <i>unwilling</i></cref></sg>,;
+<sg>elusive, evasive</sg>,;
+<sg>fugitive, runaway</sg>,;
+<sg>shy, wild</sg>,;
+<sg>Adj</sg>,;
+<sg>lest, in order to avoid</sg>,;
+<sg>Int</sg>,;
+<sg>forbear!, keep off, hands off!, sauve qui peut!, every man for himself!</sg>,;
+<sg>devil take the hindmost!,</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>things unattempted yet in prose or rhyme</sg>,;
+<br>
+</paragraph>

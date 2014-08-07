@@ -1,0 +1,32 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#1#</sectionNumber>
+<headword>#<b>#[001] #3# Substantiality #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>substantiality, </i>hypostasis</sg>,;
+<sg>person, being, thing, object, article, item</sg>,;
+<sg>something, a being, an existence</sg>,;
+<sg>creature, body, substance, flesh and blood, stuff, substratum</sg>,;
+<sg>matter ,<cref> 316 <i>ascent</i></cref></sg>,;
+<sg>corporeity, element, essential nature, groundwork, materiality, substantialness, vital part</sg>,;
+<sg>world ,<cref> 318 <i>elevation</i></cref></sg>,;
+<sg>plenum</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>substantive, substantial</sg>,;
+<sg>hypostatic</sg>,;
+<sg>personal, bodily, tangible ,<cref>316 <i>material</i></cref></sg>,;
+<sg>corporeal</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>substantially</sg>,;
+<sg>bodily, essentially</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,28 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#8#</sectionNumber>
+<headword>#<b>#[001] #183# Absence of Influence #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>absence of influence, </i>impotence ,<cref> 158 <i>eventuality</i></cref></sg>,;
+<sg>powerlessness</sg>,;
+<sg>inertness ,<cref> 172 <i>destroyer</i></cref></sg>,;
+<sg>irrelevancy ,<cref> 10 <i>irrelation</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>have no influence ,<cref> 175 <i>productiveness</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>uninfluential, ineffective</sg>,;
+<sg>inconsequential, nugatory</sg>,;
+<sg>unconducing, unconducive, unconducting to</sg>,;
+<sg>powerless ,<cref> 158 <i>eventuality</i></cref></sg>,;
+<sg>irrelevant ,<cref> 10 <i>irrelation</i></cref></sg>,;
+<br>
+</paragraph>

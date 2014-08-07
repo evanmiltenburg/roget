@@ -1,0 +1,56 @@
+<classNumber>#2#</classNumber>
+<sectionNumber>#12#</sectionNumber>
+<headword>#<b>#[001] #319# Depression #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>depression, </i>lowering</sg>,;
+<sg>depression</sg>,;
+<sg>dip ,<cref>252 <i>concavity</i></cref></sg>,;
+<sg>abasement</sg>,;
+<sg>detrusion</sg>,;
+<sg>reduction</sg>,;
+<sg>overthrow, overset, overturn</sg>,;
+<sg>upset</sg>,;
+<sg>prostration, subversion, precipitation</sg>,;
+<sg>bow</sg>,;
+<sg>courtesy, curtsy</sg>,;
+<sg>genuflexion, genuflection, kowtow, obeisance, salaam</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>depress, lower, let down, take down, let down a peg, take down a peg</sg>,;
+<sg>cast</sg>,;
+<sg>let drop, let fall</sg>,;
+<sg>sink, debase, bring low, abase, reduce, detrude, pitch, precipitate</sg>,;
+<sg>overthrow, overturn, overset</sg>,;
+<sg>upset, subvert, prostate, level, fell</sg>,;
+<sg>cast down, take down, throw down, fling down, dash down, pull down, cut down, knock down, hew down</sg>,;
+<sg>raze, raze to the ground, rase to the ground</sg>,;
+<sg>trample in the dust, pull about one's ears</sg>,;
+<sg>sit, sit down</sg>,;
+<sg>couch, squat, crouch, stoop, bend, bow</sg>,;
+<sg>courtesy, curtsy</sg>,;
+<sg>bob, duck, dip, kneel</sg>,;
+<sg>bend the knee, bow the knee, bend the head, bow the head</sg>,;
+<sg>cower</sg>,;
+<sg>recline ,<cref>213 <i>be horizontal</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>depressed</sg>,;
+<sg>at a low ebb</sg>,;
+<sg>prostrate ,<cref>213 <i>horizontal</i></cref></sg>,;
+<sg>detrusive</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>facinus quos inquinat aequat</sg>,;
+<br>
+</paragraph>

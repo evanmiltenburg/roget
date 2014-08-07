@@ -1,0 +1,68 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#5#</sectionNumber>
+<headword>#<b>#[001] #107# Multitude #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>multitude</i></sg>,;
+<sg>numerous</sg>,;
+<sg>numerosity, numerality</sg>,;
+<sg>multiplicity</sg>,;
+<sg>profusion ,<cref>639 <i>plenty</i></cref></sg>,;
+<sg>legion, host</sg>,;
+<sg>great number, large number, round number, enormous number</sg>,;
+<sg>a quantity, numbers, array, sight, army, sea, galaxy</sg>,;
+<sg>scores, peck, bushel, shoal, swarm, draught, bevy, cloud, flock, herd, drove, flight, covey, hive, brood, litter, farrow, fry, nest</sg>,;
+<sg>crowd ,<cref>72 <i>assemblage</i></cref></sg>,;
+<sg>lots</sg>,;
+<sg>all in the world and his wife</sg>,;
+<sg>greater number, majority</sg>,;
+<sg>multiplication, multiple</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be numerous</sg>,;
+<sg>swarm with, teem with, creep with</sg>,;
+<sg>crowd, swarm, come thick upon</sg>,;
+<sg>outnumber, multiply</sg>,;
+<sg>people</sg>,;
+<sg>swarm like locusts, swarm like bees</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>many, several, sundry, divers, various, not a few</sg>,;
+<sg>Briarean</sg>,;
+<sg>a hundred, a thousand, a myriad, a million, a quadrillion, a nonillion, a thousand and one</sg>,;
+<sg>some ten or a dozen, some forty or fifty </sg>,;
+<sg>half a dozen, half a hundred </sg>,;
+<sg>very many, full many, ever so many</sg>,;
+<sg>numerous</sg>,;
+<sg>numerose</sg>,;
+<sg>profuse, in profusion</sg>,;
+<sg>manifold, multiplied, multitudinous, multiple, multinominal, teeming, populous, peopled, crowded, thick, studded</sg>,;
+<sg>galore</sg>,;
+<sg>thick coming, many more, more than one can tell, a world of</sg>,;
+<sg>no end of, no end to</sg>,;
+<sg>cum multis aliis</sg>,;
+<sg>thick as hops, thick as hail</sg>,;
+<sg>plenty as blackberries</sg>,;
+<sg>numerous as the stars in the firmament, numerous as the sands on the seashore, numerous as the hairs on the head</sg>,;
+<sg>and what not, and heaven knows what</sg>,;
+<sg>endless ,<cref>105 <i>infinite</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>their name is 'legion'</sg>,;
+<sg>acervatim</sg>,;
+<sg>en foule</sg>,;
+<sg>many- headed multitude</sg>,;
+<sg>numerous as glittering gems of morning dew</sg>,;
+<sg>vel prece vel pretio</sg>,;
+<br>
+</paragraph>

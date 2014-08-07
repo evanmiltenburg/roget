@@ -1,0 +1,76 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#36#</sectionNumber>
+<headword>#<b>#[001] #898# Hopelessness #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>hopelessness</i></sg>,;
+<sg>despair, desperation</sg>,;
+<sg>despondency, depression ,<cref>837 <i>dejection</i></cref></sg>,;
+<sg>pessimism, pessimist</sg>,;
+<sg>Job's comforter</sg>,;
+<sg>bird of bad omen, bird of ill omen</sg>,;
+<sg>abandonment, desolation</sg>,;
+<sg>resignation, surrender, submission ,<cref> 725 <i>council</i></cref></sg>,;
+<sg>hope deferred, dashed hopes</sg>,;
+<sg>vain expectation ,<cref>509 <i>disappointment</i></cref></sg>,;
+<sg>airy hopes &c ,<cref> 858 <i>affections</i></cref></sg>,;
+<sg>forlorn hope</sg>,;
+<sg>gone case, dead duck, gone coon</sg>,;
+<sg>goner</sg>,;
+<sg>bad job, bad business</sg>,;
+<sg>enfant perdu</sg>,;
+<sg>gloomy horizon, black spots in the horizon</sg>,;
+<sg>slough of Despond, cave of Despair</sg>,;
+<sg>immedicabile vulnus</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>despair</sg>,;
+<sg>lose all hope, give up all hope, abandon all hope, relinquish all hope, lose the hope of, give up the hope of, abandon the hope of, relinquish the hope of</sg>,;
+<sg>give up, give over</sg>,;
+<sg>yield to despair</sg>,;
+<sg>falter</sg>,;
+<sg>despond ,<cref>837 <i>be dejected</i></cref></sg>,;
+<sg>jeter le manche apres la cognee</sg>,;
+<sg>inspire despair, drive to despair</sg>,;
+<sg>disconcert</sg>,;
+<sg>dash one's hopes, crush one's hopes, destroy one's hopes</sg>,;
+<sg>hope against hope</sg>,;
+<sg>abandon</sg>,;
+<sg>resign, surrender, submit ,<cref> 725 <i>council</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>hopeless, desperate, despairing, gone, in despair, au desespoir, forlorn, desolate</sg>,;
+<sg>inconsolable ,<cref>837 <i>dejected</i></cref></sg>,;
+<sg>broken hearted</sg>,;
+<sg>unpromising, unpropitious</sg>,;
+<sg>inauspicious, ill-omened, threatening, clouded over</sg>,;
+<sg>out of the question, not to be thought of</sg>,;
+<sg>impracticable ,<cref> 471 <i>thought</i></cref></sg>,;
+<sg>past hope, past cure, past mending, past recall</sg>,;
+<sg>at one's last gasp ,<cref>360 <i>death</i></cref></sg>,;
+<sg>given up, given over</sg>,;
+<sg>incurable, cureless, immedicable, remediless, beyond remedy</sg>,;
+<sg>incorrigible</sg>,;
+<sg>irreparable, irremediable, irrecoverable, irreversible, irretrievable, irreclaimable, irredeemable, irrevocable</sg>,;
+<sg>ruined, undone</sg>,;
+<sg>immitigable</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>lasciate ogni speranza voi ch'entrate</sg>,;
+<sg>its days are numbered</sg>,;
+<sg>the worst come to the worst</sg>,;
+<sg>no change, no pause, no hope, yet I endure</sg>,;
+<sg>O dark, dark, dark, amid the blaze of noon</sg>,;
+<sg>mene mene tekel upharson</sg>,;
+<br>
+</paragraph>

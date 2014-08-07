@@ -1,0 +1,58 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#25#</sectionNumber>
+<headword>#<b>#[001] #617# Printing #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>printing</i></sg>,;
+<sg>block printing, type-printing</sg>,;
+<sg>plate printing ,<cref> 558 <i>news</i></cref> (engraving)</sg>,;
+<sg>the press ,<cref>531 <i>publication</i></cref></sg>,;
+<sg>composition</sg>,;
+<sg>print, letterpress, text</sg>,;
+<sg>context, note, page, column</sg>,;
+<sg>typography</sg>,;
+<sg>stereotype, electrotype, aprotype</sg>,;
+<sg>type, black letter, font, fount</sg>,;
+<sg>pi, pie</sg>,;
+<sg>capitals ,<cref>561 <i>letters</i></cref></sg>,;
+<sg>brevier, bourgeois, pica boldface , capitals, caps</sg>,;
+<sg>, catchword</sg>,;
+<sg>composing-frame, composing room, composing rule, composing stand, composing stick</sg>,;
+<sg>italics, justification, linotype, live matter, logotype</sg>,;
+<sg>lower case, upper case</sg>,;
+<sg>make-up, matrix, matter, monotype</sg>,;
+<sg>4-1/2 point, 5 point, 5-1/2 point, 6 point, 7 point, 8 point, press room, press work</sg>,;
+<sg>reglet, roman</sg>,;
+<sg>running head, running title</sg>,;
+<sg>scale, serif, shank, sheet work, shoulder, signature, slug, underlay</sg>,;
+<sg>folio ,<cref>593 <i>book</i></cref></sg>,;
+<sg>copy, impression, pull, proof, revise</sg>,;
+<sg>author's proof, galley proof, press proof</sg>,;
+<sg>press revise</sg>,;
+<sg>printer, compositor, reader</sg>,;
+<sg>printer's devil copyholder</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>print</sg>,;
+<sg>compose</sg>,;
+<sg>put to press, go to press</sg>,;
+<sg>pass through the press, see through the press</sg>,;
+<sg>publish ,<cref> 531 <i>expectation</i></cref></sg>,;
+<sg>bring out</sg>,;
+<sg>appear in print, rush into print</sg>,;
+<sg>distribute, makeup, mortise, offset, overrun, rout</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>printed</sg>,;
+<sg>in type</sg>,;
+<sg>typographical</sg>,;
+<sg>solid in galleys</sg>,;
+<br>
+</paragraph>

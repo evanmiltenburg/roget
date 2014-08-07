@@ -1,0 +1,91 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#31#</sectionNumber>
+<headword>#<b>#[001] #780# Subjection #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>subjection</i></sg>,;
+<sg>dependence, dependency</sg>,;
+<sg>subordination</sg>,;
+<sg>thrall, thralldom, thraldom, enthrallment, subjugation, bondage, serfdom</sg>,;
+<sg>feudalism, feudality</sg>,;
+<sg>vassalage, villenage</sg>,;
+<sg>slavery, enslavement, involuntary servitude</sg>,;
+<sg>conquest</sg>,;
+<sg>service</sg>,;
+<sg>servitude, servitorship</sg>,;
+<sg>tendence, employ, tutelage, clientship</sg>,;
+<sg>liability ,<cref> 177 <i>agency</i></cref></sg>,;
+<sg>constraint ,<cref> 751 <i>warfare</i></cref></sg>,;
+<sg>oppression ,<cref>739 <i>severity</i></cref></sg>,;
+<sg>yoke ,<cref>752 <i>means of restraint</i></cref></sg>,;
+<sg>submission ,<cref> 725 <i>council</i></cref></sg>,;
+<sg>obedience ,<cref> 743 <i>concord</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be subject</sg>,;
+<sg>be at the mercy of, lie at the mercy of</sg>,;
+<sg>depend upon, lean upon, hang upon</sg>,;
+<sg>fall a prey to, fall under</sg>,;
+<sg>play second fiddle</sg>,;
+<sg>be a mere machine, be a puppet, be a football</sg>,;
+<sg>not dare to say one's soul is his own</sg>,;
+<sg>drag a chain</sg>,;
+<sg>serve ,<cref> 746 <i>defense</i></cref></sg>,;
+<sg>obey ,<cref> 743 <i>concord</i></cref></sg>,;
+<sg>submit ,<cref> 725 <i>council</i></cref></sg>,;
+<sg>break in, tame</sg>,;
+<sg>subject, subjugate</sg>,;
+<sg>master ,<cref> 731 <i>cunning</i></cref></sg>,;
+<sg>tread down, tread under foot</sg>,;
+<sg>weigh down</sg>,;
+<sg>drag at one's chariot wheels</sg>,;
+<sg>reduce to subjection, reduce to slavery</sg>,;
+<sg>enthrall, inthrall, bethrall</sg>,;
+<sg>enslave, lead captive</sg>,;
+<sg>take into custody ,<cref>751 <i>restrain</i></cref></sg>,;
+<sg>rule ,<cref> 737 <i>opposition</i></cref></sg>,;
+<sg>drive into a corner, hold at the sword's point</sg>,;
+<sg>keep under</sg>,;
+<sg>hold in bondage, hold in leading strings, hold in swaddling clothes</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>subject, dependent, subordinate</sg>,;
+<sg>feudal, feudatory</sg>,;
+<sg>in subjection to, under control</sg>,;
+<sg>in leading strings, in harness</sg>,;
+<sg>subjected, enslaved</sg>,;
+<sg>constrained ,<cref> 751 <i>warfare</i></cref></sg>,;
+<sg>downtrodden</sg>,;
+<sg>overborne, overwhelmed</sg>,;
+<sg>under the lash, on the hip, led by the nose, henpecked</sg>,;
+<sg>the puppet of, the sport of, the plaything of</sg>,;
+<sg>under one's orders, under one's command, under one's thumb</sg>,;
+<sg>a slave to</sg>,;
+<sg>at the mercy of</sg>,;
+<sg>in the power of, in the hands of, in the clutches of</sg>,;
+<sg>at the feet of</sg>,;
+<sg>at one's beck and call ,<cref>743 <i>obedient</i></cref></sg>,;
+<sg>liable ,<cref> 177 <i>agency</i></cref></sg>,;
+<sg>parasitical</sg>,;
+<sg>stipendiary</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>under</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>slaves - in a land of light and law</sg>,;
+<br>
+</paragraph>

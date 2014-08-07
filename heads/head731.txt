@@ -1,0 +1,103 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#28#</sectionNumber>
+<headword>#<b>#[001] #731# Cunning #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>cunning, </i>craft</sg>,;
+<sg>cunningness, craftiness</sg>,;
+<sg>subtlety, artificiality</sg>,;
+<sg>maneuvering</sg>,;
+<sg>temporization</sg>,;
+<sg>circumvention</sg>,;
+<sg>chicane, chicanery</sg>,;
+<sg>sharp practice, knavery, jugglery</sg>,;
+<sg>concealment ,<cref> 528 <i>madman</i></cref></sg>,;
+<sg>guile, doubling, duplicity ,<cref>544 <i>falsehood</i></cref></sg>,;
+<sg>foul play</sg>,;
+<sg>diplomacy, politics</sg>,;
+<sg>Machiavelism</sg>,;
+<sg>jobbery, backstairs influence</sg>,;
+<sg>art, artifice</sg>,;
+<sg>device, machination</sg>,;
+<sg>plot ,<cref>626 <i>plan</i></cref></sg>,;
+<sg>maneuver, stratagem, dodge, sidestep, artful dodge, wile</sg>,;
+<sg>trick, trickery ,<cref>545 <i>deception</i></cref></sg>,;
+<sg>ruse, ruse de guerre</sg>,;
+<sg>finesse, side blow, thin end of the wedge, shift, go by, subterfuge, evasion</sg>,;
+<sg>white lie ,<cref>546 <i>untruth</i></cref></sg>,;
+<sg>juggle, tour de force</sg>,;
+<sg>tricks of the trade, tricks upon travelers</sg>,;
+<sg>espieglerie</sg>,;
+<sg>net, trap ,<cref> 545 <i>equivocalness</i></cref></sg>,;
+<sg>Ulysses, Machiavel, sly boots, fox, reynard</sg>,;
+<sg>Scotchman</sg>,;
+<sg>Jew, Yankee</sg>,;
+<sg>intriguer, intrigant</sg>,;
+<sg>floater, Indian giver, keener, repeater</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be cunning</sg>,;
+<sg>have cut one's eyeteeth</sg>,;
+<sg>contrive ,<cref>626 <i>plan</i></cref></sg>,;
+<sg>live by one's wits</sg>,;
+<sg>maneuver</sg>,;
+<sg>intrigue, gerrymander, finesse, double, temporize, stoop to conquer, reculer pour mieux sauter, circumvent, steal a march upon</sg>,;
+<sg>overreach ,<cref> 545 <i>equivocalness</i></cref></sg>,;
+<sg>throw off one's guard</sg>,;
+<sg>surprise ,<cref> 508 <i>belief</i></cref></sg>,;
+<sg>snatch a verdict</sg>,;
+<sg>waylay, undermine, introduce the thin end of the wedge</sg>,;
+<sg>play a deep game, play tricks with</sg>,;
+<sg>ambiguas in vulgum spargere voces</sg>,;
+<sg>flatter, make things pleasant</sg>,;
+<sg>have an ax to grind</sg>,;
+<sg>dodge, sidestep, bob and weave</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>cunning, crafty, artful</sg>,;
+<sg>skillful ,<cref> 698 <i>alarm</i></cref></sg>,;
+<sg>subtle, feline, vulpine</sg>,;
+<sg>cunning as a fox, cunning as a serpent</sg>,;
+<sg>deep, deep laid</sg>,;
+<sg>profound</sg>,;
+<sg>designing, contriving</sg>,;
+<sg>intriguing</sg>,;
+<sg>strategic, diplomatic, politic, Machiavelian, timeserving</sg>,;
+<sg>artificial</sg>,;
+<sg>tricky, tricksy</sg>,;
+<sg>wily, sly, slim, insidious, stealthy</sg>,;
+<sg>underhand ,<cref>528 <i>hidden</i></cref></sg>,;
+<sg>subdolous</sg>,;
+<sg>deceitful ,<cref> 545 <i>equivocalness</i></cref></sg>,;
+<sg>slippery as an eel, evasive ,<cref> 623 <i>poetry</i></cref></sg>,;
+<sg>crooked</sg>,;
+<sg>arch, pawky, shrewd, acute</sg>,;
+<sg>sharp, sharp as a tack, sharp as a needle</sg>,;
+<sg>canny, astute, leery, knowing, up to snuff, too clever by half, not to be caught with chaff</sg>,;
+<sg>tactful, diplomatic, politic</sg>,;
+<sg>polite ,<cref> 894 <i>affectation</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>cunningly</sg>,;
+<sg>slyly, slily, on the sly, by a side wind</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>diamond cut diamond</sg>,;
+<sg>a' bis ou a blanc</sg>,;
+<sg>fin contre fin</sg>,;
+<sg>something is rotten in the state of Denmark</sg>,;
+<br>
+</paragraph>

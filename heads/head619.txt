@@ -1,0 +1,60 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#25#</sectionNumber>
+<headword>#<b>#[001] #619# Book #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>book</i>let</sg>,;
+<sg>writing, work, volume, tome, opuscule</sg>,;
+<sg>tract, tractate</sg>,;
+<sg>livret</sg>,;
+<sg>brochure, libretto, handbook, codex, manual, pamphlet, enchiridion, circular, publication</sg>,;
+<sg>chap book</sg>,;
+<sg>part, issue, number livraison</sg>,;
+<sg>album, portfolio</sg>,;
+<sg>periodical, serial, magazine, ephemeris, annual, journal</sg>,;
+<sg>paper, bill, sheet, broadsheet</sg>,;
+<sg>leaf, leaflet</sg>,;
+<sg>fly leaf, page</sg>,;
+<sg>quire, ream</sg>,;
+<sg>chapter, section, head, article, paragraph, passage, clause</sg>,;
+<sg>endpapers, frontispiece</sg>,;
+<sg>cover, binding</sg>,;
+<sg>folio, quarto, octavo</sg>,;
+<sg>duodecimo, sextodecimo, octodecimo</sg>,;
+<sg>encyclopedia</sg>,;
+<sg>encompilation</sg>,;
+<sg>library, bibliotheca</sg>,;
+<sg>press ,<cref>531 <i>publication</i></cref></sg>,;
+<sg>definitive work, treatise, comprehensive treatise (dissertation) 595</sg>,;
+<sg>writer, author, litterateur, essayist, journalism</sg>,;
+<sg>pen, scribbler, the scribbling race</sg>,;
+<sg>literary hack, Grub-street writer</sg>,;
+<sg>writer for the press, gentleman of the press, representative of the press</sg>,;
+<sg>adjective jerker, diaskeaust, ghost, hack writer, ink slinger</sg>,;
+<sg>publicist</sg>,;
+<sg>reporter, penny a liner</sg>,;
+<sg>editor, subeditor</sg>,;
+<sg>playwright ,<cref> 599 <i>diffuseness</i></cref></sg>,;
+<sg>poet ,<cref> 597 <i>obscurity</i></cref></sg>,;
+<sg>bookseller, publisher</sg>,;
+<sg>bibliopole, bibliopolist</sg>,;
+<sg>librarian</sg>,;
+<sg>bookstore, bookshop, bookseller's shop</sg>,;
+<sg>knowledge of books, bibliography</sg>,;
+<sg>book learning ,<cref>490 <i>knowledge</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>among the giant fossils of my past</sg>,;
+<sg>craignez tout d'un auteur en courroux</sg>,;
+<sg>for authors nobler palms remain</sg>,;
+<sg>I lived to write and wrote to live</sg>,;
+<sg>look in thy heart and write</sg>,;
+<sg>there is no Past so long as Books shall live</sg>,;
+<sg>the public mind is the creation of the Master-Writers</sg>,;
+<sg>volumes that I prize above my dukedom</sg>,;
+<br>
+</paragraph>

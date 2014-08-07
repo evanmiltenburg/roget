@@ -1,0 +1,57 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#2#</sectionNumber>
+<headword>#<b>#[001] #19# Dissimilarity #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>dissimilarity, </i>dissimilaritude</sg>,;
+<sg>unlikeness, diversity, disparity, dissemblance</sg>,;
+<sg>divergence, variation</sg>,;
+<sg>difference ,<cref> 15 <i>difference</i></cref></sg>,;
+<sg>novelty, originality</sg>,;
+<sg>creativeness</sg>,;
+<sg>oogamy</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be unlike</sg>,;
+<sg>vary ,<cref>15 <i>differ</i></cref></sg>,;
+<sg>bear no resemblance to, differ toto coelo</sg>,;
+<sg>render unlike</sg>,;
+<sg>vary ,<cref>140 <i>diversify</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>dissimilar, unlike, disparate</sg>,;
+<sg>divergent</sg>,;
+<sg>of a different kind</sg>,;
+<sg>,<cref>75 <i>class</i></cref> unmatched, unique</sg>,;
+<sg>new, novel</sg>,;
+<sg>unprecedented ,<cref> 83 <i>speciality</i></cref></sg>,;
+<sg>original</sg>,;
+<sg>nothing of the kind</sg>,;
+<sg>no such thing, quite another thing</sg>,;
+<sg>far from it, cast in a different mold, tertium quid, as like a dock as a daisy, very like a whale</sg>,;
+<sg>as different as chalk from cheese, as different as Macedon and Monmouth</sg>,;
+<sg>lucus a non lucendo</sg>,;
+<sg>diversified ,<cref> 16 <i>uniformity</i></cref></sg>,;
+<sg>1</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>otherwise</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>diis aliter visum</sg>,;
+<sg>no more like my father than I to Hercules</sg>,;
+<br>
+</paragraph>

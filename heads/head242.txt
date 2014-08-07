@@ -1,0 +1,34 @@
+<classNumber>#2#</classNumber>
+<sectionNumber>#10#</sectionNumber>
+<headword>#<b>#[001] #242# Inclosure #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>inclosure, </i>envelope</sg>,;
+<sg>case ,<cref>191 <i>receptacle</i></cref></sg>,;
+<sg>wrapper</sg>,;
+<sg>girdle ,<cref> 230 <i>exteriority</i></cref></sg>,;
+<sg>pen, fold</sg>,;
+<sg>pen fold, in fold, sheep fold</sg>,;
+<sg>paddock, pound</sg>,;
+<sg>corral</sg>,;
+<sg>yard</sg>,;
+<sg>net, seine net</sg>,;
+<sg>wall, hedge, hedge row</sg>,;
+<sg>espalier</sg>,;
+<sg>fence ,<cref>717 <i>defense</i></cref></sg>,;
+<sg>pale, paling, balustrade, rail, railing, quickset hedge, park paling, circumvallation, enceinte, ring fence</sg>,;
+<sg>barrier, barricade</sg>,;
+<sg>gate, gateway</sg>,;
+<sg>bent, dingle</sg>,;
+<sg>door, hatch, cordon</sg>,;
+<sg>prison ,<cref> 752 <i>pacification</i></cref></sg>,;
+<sg>dike, dyke, ditch, fosse, moat</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>inclose, circumscribe ,<cref> 229 <i>crossing</i></cref></sg>,;
+<br>
+</paragraph>

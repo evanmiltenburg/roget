@@ -1,0 +1,45 @@
+<classNumber>#2#</classNumber>
+<sectionNumber>#12#</sectionNumber>
+<headword>#<b>#[001] #312# Extraction #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>extraction</i></sg>,;
+<sg>extracting</sg>,;
+<sg>removal, elimination, extrication, eradication, evolution</sg>,;
+<sg>evulsion, avulsion</sg>,;
+<sg>wrench</sg>,;
+<sg>expression, squeezing</sg>,;
+<sg>extirpation, extermination</sg>,;
+<sg>ejection ,<cref> 297 <i>approach</i></cref></sg>,;
+<sg>export ,<cref>295 <i>egress</i></cref></sg>,;
+<sg>extractor, corkscrew, forceps, pliers</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>extract, draw</sg>,;
+<sg>take out, draw out, pull out, tear out, pluck out, pick out, get out</sg>,;
+<sg>wring from, wrench</sg>,;
+<sg>extort</sg>,;
+<sg>root up, weed up, grub up, rake up, root out, weed out, grub out, rake out</sg>,;
+<sg>eradicate</sg>,;
+<sg>pull up by the roots, pluck up by the roots</sg>,;
+<sg>averruncate</sg>,;
+<sg>unroot</sg>,;
+<sg>uproot, pull up, extirpate, dredge</sg>,;
+<sg>remove</sg>,;
+<sg>educe, elicit</sg>,;
+<sg>evolve, extricate</sg>,;
+<sg>eliminate ,<cref>297 <i>eject</i></cref></sg>,;
+<sg>eviscerate ,<cref> 297 <i>approach</i></cref></sg>,;
+<sg>express, squeeze out, press out</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>extracted</sg>,;
+<br>
+</paragraph>

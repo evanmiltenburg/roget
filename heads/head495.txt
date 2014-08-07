@@ -1,0 +1,65 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#18#</sectionNumber>
+<headword>#<b>#[001] #495# Probability #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>probability, </i>likelihood</sg>,;
+<sg>credibleness</sg>,;
+<sg>likeliness</sg>,;
+<sg>vraisemblance, verisimilitude, plausibility</sg>,;
+<sg>color, semblance, show of</sg>,;
+<sg>presumption</sg>,;
+<sg>presumptive evidence, circumstantial evidence</sg>,;
+<sg>credibility</sg>,;
+<sg>reasonable chance, fair chance, good chance, favorable chance, reasonable prospect, fair prospect, good prospect, favorable prospect</sg>,;
+<sg>prospect, wellgrounded hope</sg>,;
+<sg>chance ,<cref> 156 <i>changeableness</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be probable</sg>,;
+<sg>give color to, lend color to</sg>,;
+<sg>point to</sg>,;
+<sg>imply ,<cref>467 <i>evidence</i></cref></sg>,;
+<sg>bid fair ,<cref>511 <i>promise</i></cref></sg>,;
+<sg>stand fair for</sg>,;
+<sg>stand a good chance, run a good chance</sg>,;
+<sg>think likely, dare say, flatter oneself</sg>,;
+<sg>expect ,<cref> 507 <i>underestimation</i></cref></sg>,;
+<sg>count upon ,<cref>484 <i>believe</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>probable, likely, hopeful, to be expected, in a fair way</sg>,;
+<sg>plausible, specious, ostensible, colorable, ben trovato, well-founded, reasonable, credible, easy of belief, presumable, presumptive, apparent</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>probably</sg>,;
+<sg>belike</sg>,;
+<sg>in all probability, in all likelihood</sg>,;
+<sg>very likely, most likely</sg>,;
+<sg>like enough</sg>,;
+<sg>odds on, odds in favor, ten to one </sg>,;
+<sg>apparently, seemingly, according to every reasonable expectation</sg>,;
+<sg>prim=a facie</sg>,;
+<sg>to all appearance ,<cref>448 <i>to the eye</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>the chances, the odds are</sg>,;
+<sg>appearances are in favor of, chances are in favor of</sg>,;
+<sg>there is reason to believe, there is reason to think, there is reason to expect</sg>,;
+<sg>I dare say</sg>,;
+<sg>all Lombard Street to a China orange</sg>,;
+<br>
+</paragraph>

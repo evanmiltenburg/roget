@@ -1,0 +1,55 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#39#</sectionNumber>
+<headword>#<b>#[001] #1023# Demon #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>demon, </i>daemon, demonry, demonology</sg>,;
+<sg>evil genius, fiend, familiar, daeva, devil</sg>,;
+<sg>bad spirit, unclean spirit</sg>,;
+<sg>cacodemon, incubus, Eblis, shaitan, succubus, succuba</sg>,;
+<sg>Frankenstein's monster</sg>,;
+<sg>Titan, Shedim, Mephistopheles, Asmodeus, Moloch, Belial, Ahriman</sg>,;
+<sg>fury, harpy</sg>,;
+<sg>Friar Rush</sg>,;
+<sg>vampire, ghoul</sg>,;
+<sg>afreet, barghest, Loki</sg>,;
+<sg>ogre, ogress</sg>,;
+<sg>gnome, gin, jinn, imp, deev, lamia</sg>,;
+<sg>bogie, bogeyman, bogle</sg>,;
+<sg>nis, kobold, flibbertigibbet, fairy, brownie, pixy, elf, dwarf, urchin</sg>,;
+<sg>Puck, Robin Goodfellow</sg>,;
+<sg>leprechaun, Cluricaune, troll, dwerger, sprite, ouphe, bad fairy, nix, nixie, pigwidgeon, will-o'-the wisp</sg>,;
+<sg>ghost, revenant, specter, apparition, spirit, shade, shadow, vision</sg>,;
+<sg>hobglobin, goblin, orc</sg>,;
+<sg>wraith, spook, boggart, banshee, loup-garou, lemures</sg>,;
+<sg>evil eye</sg>,;
+<sg>merman, mermaid, merfolk</sg>,;
+<sg>siren</sg>,;
+<sg>satyr, faun</sg>,;
+<sg>manito, manitou, manitu</sg>,;
+<sg>possession, demonic possession, diabolic possession</sg>,;
+<sg>insanity ,<cref> 503 <i>judgment</i></cref></sg>,;
+<sg>Maxwell's demon</sg>,;
+<sg>demoniac</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>demonic, demonical, impish, demoniacal</sg>,;
+<sg>fiendish, fiend-like</sg>,;
+<sg>supernatural, weird, uncanny, unearthly, spectral</sg>,;
+<sg>ghostly, ghost-like</sg>,;
+<sg>elfin, elvin, elfish, elflike</sg>,;
+<sg>haunted</sg>,;
+<sg>pokerish</sg>,;
+<sg>possessed, possessed by a devil, possessed by a demon</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>demonically</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,44 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#26#</sectionNumber>
+<headword>#<b>#[001] #640# Impulse #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>impulse, </i>sudden thought</sg>,;
+<sg>impromptu, improvisation</sg>,;
+<sg>inspiration, flash, spurt</sg>,;
+<sg>improvisatore</sg>,;
+<sg>creature of impulse</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>flash on the mind</sg>,;
+<sg>say what comes uppermost</sg>,;
+<sg>improvise, extemporize</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>extemporaneous, impulsive, indeliberate</sg>,;
+<sg>snap</sg>,;
+<sg>improvised, improvisate, improvisatory</sg>,;
+<sg>unpremeditated, unmeditated</sg>,;
+<sg>improvise</sg>,;
+<sg>unprompted, unguided</sg>,;
+<sg>natural, unguarded</sg>,;
+<sg>spontaneous ,<cref>600 <i>voluntary</i></cref></sg>,;
+<sg>instinctive ,<cref> 601 <i>feebleness</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>extempore, extemporaneously</sg>,;
+<sg>offhand, impromptu, a limproviste</sg>,;
+<sg>improviso</sg>,;
+<sg>on the spur of the moment, on the spur of the occasion</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,50 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#34#</sectionNumber>
+<headword>#<b>#[001] #814# Retention #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>retention</i></sg>,;
+<sg>retaining</sg>,;
+<sg>keep, detention, custody</sg>,;
+<sg>tenacity, firm hold, grasp, gripe, grip, iron grip</sg>,;
+<sg>fangs, teeth, claws, talons, nail, unguis, hook, tentacle, tenaculum</sg>,;
+<sg>bond ,<cref>45 <i>vinculum</i></cref></sg>,;
+<sg>clutches, tongs, forceps, pincers, nippers, pliers, vice</sg>,;
+<sg>paw, hand, finger, wrist, fist, neaf, neif</sg>,;
+<sg>bird in hand</sg>,;
+<sg>captive ,<cref> 754 <i>submission</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>retain, keep</sg>,;
+<sg>hold fast one's own, hold tight one's own, hold fast one's ground, hold tight one's ground</sg>,;
+<sg>clinch, clench, clutch, grasp, gripe, hug, have a firm hold of</sg>,;
+<sg>secure, withhold, detain</sg>,;
+<sg>hold back, keep back</sg>,;
+<sg>keep close</sg>,;
+<sg>husband ,<cref>636 <i>store</i></cref></sg>,;
+<sg>reserve</sg>,;
+<sg>have in stock, have on hand, keep in stock ,<cref>777 <i>possess</i></cref></sg>,;
+<sg>entail, tie up, settle</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>retaining</sg>,;
+<sg>retentive, tenacious</sg>,;
+<sg>unforfeited, undeprived, undisposed, uncommunicated</sg>,;
+<sg>incommunicable, inalienable</sg>,;
+<sg>in mortmain</sg>,;
+<sg>in strict settlement</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>uti possidetis</sg>,;
+<br>
+</paragraph>

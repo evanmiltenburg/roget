@@ -1,0 +1,105 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#31#</sectionNumber>
+<headword>#<b>#[001] #782# Restraint #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>restraint</i></sg>,;
+<sg>hindrance ,<cref> 706 <i>use</i></cref></sg>,;
+<sg>coercion ,<cref>744 <i>compulsion</i></cref></sg>,;
+<sg>cohibition, constraint, repression, suppression</sg>,;
+<sg>discipline, control</sg>,;
+<sg>confinement</sg>,;
+<sg>durance, duress</sg>,;
+<sg>imprisonment</sg>,;
+<sg>incarceration, coarctation, entombment, mancipation, durance vile, limbo, captivity</sg>,;
+<sg>blockade</sg>,;
+<sg>arrest, arrestation</sg>,;
+<sg>custody, keep, care, charge, ward, restringency</sg>,;
+<sg>curb ,<cref>752 <i>means of restraint</i></cref></sg>,;
+<sg>lettres de cachet</sg>,;
+<sg>limitation, restriction, protection, monopoly</sg>,;
+<sg>prohibition ,<cref> 761 <i>failure</i></cref></sg>,;
+<sg>prisoner ,<cref> 754 <i>submission</i></cref></sg>,;
+<sg>repressionist</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>restrain, check</sg>,;
+<sg>put under restraint, lay under restraint</sg>,;
+<sg>enthral, enthrall, inthral, inthrall, bethral, bethrall</sg>,;
+<sg>restrict</sg>,;
+<sg>debar ,<cref>706 <i>hinder</i></cref></sg>,;
+<sg>constrain</sg>,;
+<sg>coerce ,<cref>744 <i>compel</i></cref></sg>,;
+<sg>curb, control</sg>,;
+<sg>hold back, hold from, hold in, hold in check, hold within bounds, keep back, keep from, keep in, keep in check, keep within bounds</sg>,;
+<sg>hold in leash, hold in leading strings</sg>,;
+<sg>withhold</sg>,;
+<sg>keep under</sg>,;
+<sg>repress, suppress</sg>,;
+<sg>smother</sg>,;
+<sg>pull in, rein in</sg>,;
+<sg>hold, hold fast</sg>,;
+<sg>keep a tight hand on</sg>,;
+<sg>prohibit ,<cref> 761 <i>failure</i></cref></sg>,;
+<sg>inhibit, cohibit</sg>,;
+<sg>enchain</sg>,;
+<sg>fasten ,<cref>43 <i>join</i></cref></sg>,;
+<sg>fetter, shackle</sg>,;
+<sg>entrammel</sg>,;
+<sg>bridle, muzzle, hopple, gag, pinion, manacle, handcuff, tie one's hands, hobble, bind hand and foot</sg>,;
+<sg>swathe, swaddle</sg>,;
+<sg>pin down, tether</sg>,;
+<sg>picket</sg>,;
+<sg>tie down, tie up</sg>,;
+<sg>secure</sg>,;
+<sg>forge fetters</sg>,;
+<sg>disable, hamstring (incapacitate) 158</sg>,;
+<sg>confine</sg>,;
+<sg>shut up, shut in</sg>,;
+<sg>clap up, lock up, box up, mew up, bottle up, cork up, seal up, button up</sg>,;
+<sg>hem in, bolt in, wall in, rail in</sg>,;
+<sg>impound, pen, coop</sg>,;
+<sg>inclose ,<cref>229 <i>circumscribe</i></cref></sg>,;
+<sg>cage</sg>,;
+<sg>incage, encage</sg>,;
+<sg>close the door upon, cloister</sg>,;
+<sg>imprison, immure</sg>,;
+<sg>incarcerate, entomb</sg>,;
+<sg>clap under hatches, lay under hatches</sg>,;
+<sg>put in irons, put in a strait-waistcoat</sg>,;
+<sg>throw into prison, cast into prison</sg>,;
+<sg>put into bilboes</sg>,;
+<sg>arrest</sg>,;
+<sg>take up, take charge of, take into custody</sg>,;
+<sg>take prisoner, take captive, make prisoner, make captive</sg>,;
+<sg>captivate</sg>,;
+<sg>lead captive, lead into captivity</sg>,;
+<sg>send to prison, commit to prison</sg>,;
+<sg>commit</sg>,;
+<sg>give in charge, give in custody</sg>,;
+<sg>subjugate ,<cref> 749 <i>contention</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>restrained, constrained</sg>,;
+<sg>imprisoned</sg>,;
+<sg>pent up</sg>,;
+<sg>jammed in, wedged in</sg>,;
+<sg>under lock and key, under restraint, under hatches</sg>,;
+<sg>in swaddling clothes</sg>,;
+<sg>on parole</sg>,;
+<sg>in custody, doing time ,<cref>754 <i>prisoner</i></cref></sg>,;
+<sg>cohibitive</sg>,;
+<sg>coactive ,<cref>744 <i>compulsory</i></cref></sg>,;
+<sg>stiff, restringent, strait-laced, hidebound, barkbound</sg>,;
+<sg>ice bound, wind bound, weather bound</sg>,;
+<sg>cabined cribbed confined</sg>,;
+<sg>in Lob's pound, laid by the heels</sg>,;
+<br>
+</paragraph>

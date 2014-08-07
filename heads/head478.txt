@@ -1,0 +1,97 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#17#</sectionNumber>
+<headword>#<b>#[001] #478# Inattention #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>inattention, </i>inconsideration</sg>,;
+<sg>inconsiderateness</sg>,;
+<sg>oversight</sg>,;
+<sg>inadvertence, inadvertency, nonobservance, disregard</sg>,;
+<sg>supineness ,<cref>683 <i>inactivity</i></cref></sg>,;
+<sg>etourderie, want of thought</sg>,;
+<sg>heedlessness ,<cref>460 <i>neglect</i></cref></sg>,;
+<sg>insouciance ,<cref>866 <i>indifference</i></cref></sg>,;
+<sg>abstraction</sg>,;
+<sg>absence of mind, absorption of mind</sg>,;
+<sg>preoccupation, distraction, reverie, brown study, deep musing, fit of abstraction</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be inattentive</sg>,;
+<sg>overlook, disregard</sg>,;
+<sg>pass by ,<cref>460 <i>neglect</i></cref></sg>,;
+<sg>not observe ,<cref> 457 <i>blueness</i></cref></sg>,;
+<sg>think little of</sg>,;
+<sg>close one's eyes to, shut one's eyes to</sg>,;
+<sg>pay no attention to</sg>,;
+<sg>dismiss from one's thoughts, discard from one's thoughts, discharge from one's thoughts, dismiss from one's mind, discard from one's mind, discharge from one's mind</sg>,;
+<sg>drop the subject, think no more of</sg>,;
+<sg>set aside, turn aside, put aside</sg>,;
+<sg>turn away from, turn one's attention from, turn a deaf ear to, turn one's back upon</sg>,;
+<sg>abstract oneself, dream, indulge in reverie</sg>,;
+<sg>escape notice, escape attention</sg>,;
+<sg>come in at one ear and go out at the other</sg>,;
+<sg>forget ,<cref>506 <i>have no remembrance</i></cref></sg>,;
+<sg>call off the attention, draw off the attention, call away the attention, divert the attention, distract the mind</sg>,;
+<sg>put out of one's head</sg>,;
+<sg>disconcert, discompose</sg>,;
+<sg>put out, confuse, perplex, bewilder, moider, fluster, muddle, dazzle</sg>,;
+<sg>throw a sop to Cerberus</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>inattentive</sg>,;
+<sg>unobservant, unmindful, heedless, unthinking, unheeding, undiscerning</sg>,;
+<sg>inadvertent</sg>,;
+<sg>mindless, regardless, respectless, listless ,<cref>866 <i>indifferent</i></cref></sg>,;
+<sg>blind, deaf</sg>,;
+<sg>bird-witted</sg>,;
+<sg>hand over head</sg>,;
+<sg>cursory, percursory</sg>,;
+<sg>giddy-brained, scatter-brained, hare-brained</sg>,;
+<sg>unreflective, unreflecting, ecervele</sg>,;
+<sg>offhand</sg>,;
+<sg>dizzy, muzzy, brainsick</sg>,;
+<sg>giddy, giddy as a goose</sg>,;
+<sg>wild, harum-scarum, rantipole, highflying</sg>,;
+<sg>heedless, careless ,<cref>460 <i>neglectful</i></cref></sg>,;
+<sg>inconsiderate, thoughtless</sg>,;
+<sg>absent, abstracted, distrait</sg>,;
+<sg>absentminded, lost</sg>,;
+<sg>lost in thought, wrapped in thought</sg>,;
+<sg>rapt, in the clouds, bemused</sg>,;
+<sg>dreaming on other things, musing on other things</sg>,;
+<sg>preoccupied, engrossed ,<cref>457 <i>attentive</i></cref></sg>,;
+<sg>daydreaming, in a reverie</sg>,;
+<sg>off one's guard ,<cref>508 <i>inexpectant</i></cref></sg>,;
+<sg>napping</sg>,;
+<sg>dreamy</sg>,;
+<sg>caught napping</sg>,;
+<sg>disconcerted, distracted, put out</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>inattentively, inadvertently, absent-mindedly</sg>,;
+<sg>per incuriam, sub silentio</sg>,;
+<sg>Int</sg>,;
+<sg>stand at ease, stand easy!,</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>the attention wanders</sg>,;
+<sg>one's wits gone a woolgathering, one's wits gone a bird's nesting</sg>,;
+<sg>it never entered into one's head</sg>,;
+<sg>the mind running on other things</sg>,;
+<sg>one's thoughts being elsewhere</sg>,;
+<sg>had it been a bear it would have bitten you</sg>,;
+<br>
+</paragraph>

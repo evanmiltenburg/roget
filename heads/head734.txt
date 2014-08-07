@@ -1,0 +1,101 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#29#</sectionNumber>
+<headword>#<b>#[001] #734# Facility #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>facility, </i>ease</sg>,;
+<sg>easiness</sg>,;
+<sg>capability</sg>,;
+<sg>feasibility ,<cref>470 <i>practicability</i></cref></sg>,;
+<sg>flexibility, pliancy ,<cref> 324 <i>evolution</i></cref></sg>,;
+<sg>smoothness ,<cref> 255 <i>curvature</i></cref></sg>,;
+<sg>plain sailing, smooth sailing, straight sailing</sg>,;
+<sg>mere child's play, holiday task</sg>,;
+<sg>cinch</sg>,;
+<sg>smooth water, fair wind</sg>,;
+<sg>smooth royal road</sg>,;
+<sg>clear coast, clear stage</sg>,;
+<sg>tabula rasa</sg>,;
+<sg>full play ,<cref>748 <i>freedom</i></cref></sg>,;
+<sg>disencumbrance, disentanglement</sg>,;
+<sg>deoppilation</sg>,;
+<sg>permission ,<cref> 760 <i>success</i></cref></sg>,;
+<sg>simplicity, lack of complication</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be easy</sg>,;
+<sg>go on smoothly, run smoothly</sg>,;
+<sg>have full play</sg>,;
+<sg>go on all fours, run on all fours</sg>,;
+<sg>obey the helm, work well</sg>,;
+<sg>flow with the stream, swim with the stream, drift with the stream, go with the stream, flow with the tide, drift with the tide</sg>,;
+<sg>see one's way</sg>,;
+<sg>have all one's own way, have the game in one's own hands</sg>,;
+<sg>walk over the course, win at a canter</sg>,;
+<sg>make light of, make nothing of, make no bones of</sg>,;
+<sg>be at home in, make it look easy, do it with one's eyes closed, do it in one's sleep ,<cref>698 <i>skillful</i></cref></sg>,;
+<sg>render easy</sg>,;
+<sg>facilitate, smooth, ease</sg>,;
+<sg>popularize</sg>,;
+<sg>lighten, lighten the labor</sg>,;
+<sg>free, clear</sg>,;
+<sg>disencumber, disembarrass, disentangle, disengage</sg>,;
+<sg>deobstruct, unclog, extricate, unravel</sg>,;
+<sg>untie the knot, cut the knot</sg>,;
+<sg>disburden, unload, exonerate, emancipate, free from, deoppilate</sg>,;
+<sg>humor ,<cref>707 <i>aid</i></cref></sg>,;
+<sg>lubricate ,<cref> 332 <i>density</i></cref></sg>,;
+<sg>relieve ,<cref> 834 <i>securities</i></cref></sg>,;
+<sg>leave a hole to creep out of, leave a loophole, leave the matter open</sg>,;
+<sg>give the reins to, give full play, give full swing</sg>,;
+<sg>make way for</sg>,;
+<sg>open the door to, open the way, prepare the ground, smooth the ground, clear the ground, open the way, open the path, open the road</sg>,;
+<sg>pave the way, bridge over</sg>,;
+<sg>permit ,<cref> 760 <i>success</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>easy, facile</sg>,;
+<sg>feasible ,<cref>470 <i>practicable</i></cref></sg>,;
+<sg>easily managed, easily accomplished</sg>,;
+<sg>within reach, accessible, easy of access, for the million, open to</sg>,;
+<sg>manageable, wieldy</sg>,;
+<sg>towardly, tractable</sg>,;
+<sg>submissive</sg>,;
+<sg>yielding, ductile</sg>,;
+<sg>suant</sg>,;
+<sg>pliant ,<cref>324 <i>soft</i></cref></sg>,;
+<sg>glib, slippery</sg>,;
+<sg>smooth ,<cref> 255 <i>curvature</i></cref></sg>,;
+<sg>on friction wheels, on velvet</sg>,;
+<sg>unembarrassed, disburdened, unburdened, disencumbered, unencumbered, disembarrassed</sg>,;
+<sg>exonerated</sg>,;
+<sg>unloaded, unobstructed, untrammeled</sg>,;
+<sg>unrestrained ,<cref>748 <i>free</i></cref></sg>,;
+<sg>at ease, light</sg>,;
+<sg>at home with</sg>,;
+<sg>quite at home</sg>,;
+<sg>in one's element, in smooth water</sg>,;
+<sg>skillful ,<cref> 698 <i>alarm</i></cref></sg>,;
+<sg>accustomed ,<cref> 613 <i>response</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>easily</sg>,;
+<sg>readily, smoothly, swimmingly, on easy terms, single-handed</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>touch and go</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,41 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#36#</sectionNumber>
+<headword>#<b>#[001] #910# Expectance #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>expectance</i> ,<cref>507 <i>expectation</i></cref></sg>,;
+<sg>example, instance (conformity) 82</sg>,;
+<sg>normality (habit) 613</sg>,;
+<sg>nine days' wonder</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>expect ,<cref> 507 <i>underestimation</i></cref></sg>,;
+<sg>not be surprised, not wonder ,<cref> 870 <i>discontent</i></cref></sg>,;
+<sg>nil admirari, make nothing of</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>expecting</sg>,;
+<sg>unamazed, astonished at nothing</sg>,;
+<sg>blase ,<cref>841 <i>weary</i></cref></sg>,;
+<sg>expected</sg>,;
+<sg>foreseen</sg>,;
+<sg>unsurprising</sg>,;
+<sg>common, ordinary, normal, typical, usual ,<cref>613 <i>habitual</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>naturally, as a matter of course</sg>,;
+<sg>Int</sg>,;
+<sg>no wonder</sg>,;
+<sg>of course</sg>,;
+<br>
+</paragraph>

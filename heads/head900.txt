@@ -1,0 +1,126 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#36#</sectionNumber>
+<headword>#<b>#[001] #900# Courage #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>courage, </i>bravery, valor</sg>,;
+<sg>resoluteness, boldness</sg>,;
+<sg>spirit, daring, gallantry, intrepidity</sg>,;
+<sg>contempt of danger, defiance of danger</sg>,;
+<sg>derring-do</sg>,;
+<sg>audacity</sg>,;
+<sg>rashness ,<cref> 863 <i>excitability</i></cref></sg>,;
+<sg>dash</sg>,;
+<sg>defiance ,<cref> 715 <i>exertion</i></cref></sg>,;
+<sg>confidence, self-reliance</sg>,;
+<sg>manliness, manhood</sg>,;
+<sg>nerve, pluck, mettle, game</sg>,;
+<sg>heart, heart of grace</sg>,;
+<sg>spunk, guts, face, virtue, hardihood, fortitude, intestinal fortitude</sg>,;
+<sg>firmness ,<cref>150 <i>stability</i></cref></sg>,;
+<sg>heart of oak</sg>,;
+<sg>bottom, backbone, spine ,<cref>604 <i>perseverance</i></cref></sg>,;
+<sg>1</sg>,;
+<sg>resolution ,<cref>604 <i>determination</i></cref></sg>,;
+<sg>bulldog courage</sg>,;
+<sg>prowess, heroism, chivalry</sg>,;
+<sg>exploit, feat, achievement</sg>,;
+<sg>heroic deed, heroic act</sg>,;
+<sg>bold stroke</sg>,;
+<sg>man, man of mettle</sg>,;
+<sg>hero, demigod, Amazon, Hector</sg>,;
+<sg>lion, tiger, panther, bulldog</sg>,;
+<sg>gamecock, fighting-cock</sg>,;
+<sg>bully, fire eater ,<cref> 863 <i>excitability</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be courageous</sg>,;
+<sg>dare, venture, make bold</sg>,;
+<sg>face danger, front danger, affront danger, confront danger, brave danger, defy danger, despise danger, mock danger</sg>,;
+<sg>look in the face</sg>,;
+<sg>look full in the face, look boldly in the face, look danger in the face</sg>,;
+<sg>face</sg>,;
+<sg>meet, meet in front</sg>,;
+<sg>brave, beard</sg>,;
+<sg>defy ,<cref> 715 <i>exertion</i></cref></sg>,;
+<sg>take courage, muster courage, summon up courage, pluck up courage</sg>,;
+<sg>nerve oneself, take heart</sg>,;
+<sg>take heart, pluck up heart of grace</sg>,;
+<sg>hold up one's head, screw one's courage to the sticking place</sg>,;
+<sg>come up to scratch</sg>,;
+<sg>stick to one's guns, standfire, stand against</sg>,;
+<sg>bear up, bear up against</sg>,;
+<sg>hold out ,<cref>604 <i>persevere</i></cref></sg>,;
+<sg>1</sg>,;
+<sg>put a bold face upon</sg>,;
+<sg>show a bold front, present a bold front</sg>,;
+<sg>show fight</sg>,;
+<sg>face the music</sg>,;
+<sg>bell the cat, take the bull by the horns, beard the lion in his den, march up to the cannon's mouth, go through fire and water, run the gantlet</sg>,;
+<sg>give courage, infuse courage, inspire courage</sg>,;
+<sg>reassure, encourage, embolden, inspirit, cheer, nerve, put upon one's mettle, rally, raise a rallying cry</sg>,;
+<sg>pat on the back, make a man of</sg>,;
+<sg>, keep in countenance</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>courageous, brave</sg>,;
+<sg>valiant, valorous</sg>,;
+<sg>gallant, intrepid</sg>,;
+<sg>spirited, spiritful</sg>,;
+<sg>high-spirited, high-mettled</sg>,;
+<sg>mettlesome, plucky</sg>,;
+<sg>manly, manful</sg>,;
+<sg>resolute</sg>,;
+<sg>stout, stout-hearted</sg>,;
+<sg>iron-hearted, lion-hearted</sg>,;
+<sg>heart of oak</sg>,;
+<sg>Penthesilean</sg>,;
+<sg>bold, bold-spirited</sg>,;
+<sg>daring, audacious</sg>,;
+<sg>fearless, dauntless, dreadless, aweless</sg>,;
+<sg>undaunted, unappalled, undismayed, unawed, unblanched, unabashed, unalarmed, unflinching, unshrinking, unblanching, unapprehensive</sg>,;
+<sg>confident, self-reliant</sg>,;
+<sg>bold as a lion, bold as brass</sg>,;
+<sg>enterprising, adventurous</sg>,;
+<sg>venturous, venturesome</sg>,;
+<sg>dashing, chivalrous</sg>,;
+<sg>soldierly ,<cref>722 <i>warlike</i></cref></sg>,;
+<sg>heroic</sg>,;
+<sg>fierce, savage</sg>,;
+<sg>pugnacious ,<cref>720 <i>bellicose</i></cref></sg>,;
+<sg>strong-minded, hardy, doughty</sg>,;
+<sg>firm ,<cref>150 <i>stable</i></cref></sg>,;
+<sg>determined ,<cref>604 <i>resolved</i></cref></sg>,;
+<sg>dogged, indomitable ,<cref>604 <i>persevering</i></cref></sg>,;
+<sg>1</sg>,;
+<sg>up to, up to the scratch</sg>,;
+<sg>upon one's mettle</sg>,;
+<sg>reassured</sg>,;
+<sg>unfeared, undreaded</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>one's blood being up</sg>,;
+<sg>courage sans peur</sg>,;
+<sg>fortes fortuna adjuvat</sg>,;
+<sg>have I not in my time heard lions roar</sg>,;
+<sg>I dare do all that may become a man</sg>,;
+<sg>male vincetis sed vincite</sg>,;
+<sg>omne solum forti patria</sg>,;
+<sg>self-trust is the essence of heroism</sg>,;
+<sg>stimulos dedit oemula virtus</sg>,;
+<sg>strong and great, a hero</sg>,;
+<sg>teloque animus proestantior omni</sg>,;
+<sg>there, is always safety in valor</sg>,;
+<sg>virtus ariete fortier</sg>,;
+<br>
+</paragraph>

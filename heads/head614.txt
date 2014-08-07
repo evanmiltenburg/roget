@@ -1,0 +1,70 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#25#</sectionNumber>
+<headword>#<b>#[001] #614# Conversation #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>conversation, </i>interlocution</sg>,;
+<sg>collocution, colloquy, converse, confabulation, talk, discourse, verbal intercourse</sg>,;
+<sg>oral communication, commerce</sg>,;
+<sg>dialogue, duologue, trialogue</sg>,;
+<sg>causerie, chat, chitchat</sg>,;
+<sg>small talk, table talk, teatable talk, town talk, village talk, idle talk</sg>,;
+<sg>tattle, gossip, tittle-tattle</sg>,;
+<sg>babble, babblement</sg>,;
+<sg>tripotage, cackle, prittle-prattle, cancan, on dit</sg>,;
+<sg>talk of the town, talk of the village</sg>,;
+<sg>conference, parley, interview, audience, pourparler</sg>,;
+<sg>tete-a-tete</sg>,;
+<sg>reception, conversazione</sg>,;
+<sg>congress ,<cref>696 <i>council</i></cref></sg>,;
+<sg>powwow</sg>,;
+<sg>hall of audience, durbar</sg>,;
+<sg>palaver, debate, logomachy, war of words</sg>,;
+<sg>gossip, tattler</sg>,;
+<sg>Paul Pry</sg>,;
+<sg>tabby</sg>,;
+<sg>chatterer ,<cref>584 <i>loquacity</i></cref></sg>,;
+<sg>interlocutor ,<cref>582 <i>spokesman</i></cref></sg>,;
+<sg>conversationist, dialogist</sg>,;
+<sg>the feast of reason and the flow of soul</sg>,;
+<sg>mollia tempora fandi</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>talk together, converse, confabulate</sg>,;
+<sg>hold on a conversation, carry on a conversation, join in a conversation, engage in a conversation</sg>,;
+<sg>put in a word</sg>,;
+<sg>shine in conversation</sg>,;
+<sg>bandy words</sg>,;
+<sg>parley</sg>,;
+<sg>palaver</sg>,;
+<sg>chat, gossip, tattle</sg>,;
+<sg>prate ,<cref>584 <i>loquacity</i></cref></sg>,;
+<sg>powwow</sg>,;
+<sg>discourse with, confer with, commune with, commerce with</sg>,;
+<sg>hold converse, hold conference, hold intercourse</sg>,;
+<sg>talk it over</sg>,;
+<sg>be closeted with</sg>,;
+<sg>talk with one in private, tete-a-tete</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>conversing</sg>,;
+<sg>interlocutory</sg>,;
+<sg>conversational, conversable</sg>,;
+<sg>discursive, discoursive</sg>,;
+<sg>chatty ,<cref>892 <i>sociable</i></cref></sg>,;
+<sg>colloquial</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>with thee conversing I forget all time</sg>,;
+<br>
+</paragraph>

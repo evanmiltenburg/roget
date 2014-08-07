@@ -1,0 +1,106 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#27#</sectionNumber>
+<headword>#<b>#[001] #650# Chance #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>chance</i> ,<cref> 156 <i>changeableness</i></cref></sg>,;
+<sg>lot, fate ,<cref>601 <i>necessity</i></cref></sg>,;
+<sg>luck</sg>,;
+<sg>good luck ,<cref>618 <i>good</i></cref></sg>,;
+<sg>mascot</sg>,;
+<sg>speculation, venture, stake, game of chance</sg>,;
+<sg>mere shot, random shot</sg>,;
+<sg>blind bargain, leap in the dark</sg>,;
+<sg>pig in a poke ,<cref>475 <i>uncertainty</i></cref></sg>,;
+<sg>fluke, potluck</sg>,;
+<sg>faro bank</sg>,;
+<sg>flyer</sg>,;
+<sg>limit</sg>,;
+<sg>uncertainty</sg>,;
+<sg>uncertainty principle, Heisenberg's uncertainty principle</sg>,;
+<sg>drawing lots</sg>,;
+<sg>sortilegy, sortition</sg>,;
+<sg>sortes, sortes Virgilianae</sg>,;
+<sg>rouge et noir, hazard, ante, chuck-a-luck, crack-loo, craps, faro, roulette, pitch and toss, chuck, farthing, cup tossing, heads or tails cross and pile, poker-dice</sg>,;
+<sg>wager</sg>,;
+<sg>bet, betting</sg>,;
+<sg>gambling</sg>,;
+<sg>the turf</sg>,;
+<sg>gaming house, gambling house, betting house</sg>,;
+<sg>bucket shop</sg>,;
+<sg>gambling joint</sg>,;
+<sg>totalizator, totalizer</sg>,;
+<sg>hell</sg>,;
+<sg>betting ring</sg>,;
+<sg>dice, dice box</sg>,;
+<sg>gambler, gamester</sg>,;
+<sg>man of the turf</sg>,;
+<sg>adventurer</sg>,;
+<sg>dicer</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>chance ,<cref>156 <i>hap</i></cref></sg>,;
+<sg>stand a chance ,<cref>470 <i>be possible</i></cref></sg>,;
+<sg>toss up</sg>,;
+<sg>cast lots, draw lots</sg>,;
+<sg>leave to chance, trust to chance, leave to the chapter of accidents, trust to the chapter of accidents</sg>,;
+<sg>tempt fortune</sg>,;
+<sg>chance it, take one's chance, take a shot at it (attempt) 675</sg>,;
+<sg>run the risk, run the chance, incur the risk, incur the chance, encounter the risk, encounter the chance</sg>,;
+<sg>stand the hazard of the die</sg>,;
+<sg>speculate, try one's luck, set on a cast, raffle, put into a lottery, buy a pig in a poke, shuffle the cards</sg>,;
+<sg>risk, venture, hazard, stake</sg>,;
+<sg>ante</sg>,;
+<sg>lay, lay a wager</sg>,;
+<sg>make a bet, wager, bet, gamble, game, play for</sg>,;
+<sg>play at chuck farthing</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>fortuitous ,<cref> 156 <i>changeableness</i></cref></sg>,;
+<sg>unintentional, unintended</sg>,;
+<sg>accidental</sg>,;
+<sg>not meant</sg>,;
+<sg>undesigned, purposed</sg>,;
+<sg>unpremeditated ,<cref> 612 <i>allocution</i></cref></sg>,;
+<sg>unforeseen, uncontemplated, never thought of</sg>,;
+<sg>random, indiscriminate, promiscuous</sg>,;
+<sg>undirected</sg>,;
+<sg>aimless, driftless, designless, purposeless, causeless</sg>,;
+<sg>without purpose</sg>,;
+<sg>possible ,<cref> 470 <i>absence or want of intellect</i></cref></sg>,;
+<sg>unforeseeable, unpredictable, chancy, risky, speculative, dicey</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>randomly, by chance, fortuitously</sg>,;
+<sg>unpredictably, unforeseeably</sg>,;
+<sg>casually ,<cref> 156 <i>changeableness</i></cref></sg>,;
+<sg>unintentionally</sg>,;
+<sg>unwittingly</sg>,;
+<sg>en passant, by the way, incidentally</sg>,;
+<sg>as it may happen</sg>,;
+<sg>at random, at a venture, at haphazard</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>acierta errando</sg>,;
+<sg>dextro tempore</sg>,;
+<sg>fearful concatenation of circumstances</sg>,;
+<sg>fortuitous combination of circumstances</sg>,;
+<sg>le jeu est le fils d'avarice et le pere du desespoir</sg>,;
+<sg>the happy combination of fortuitous circumstances</sg>,;
+<sg>the fortuitous or casual concourse of atoms</sg>,;
+<sg>God does not play dice with the universe</sg>,;
+<br>
+</paragraph>

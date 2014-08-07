@@ -1,0 +1,41 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#34#</sectionNumber>
+<headword>#<b>#[001] #845# Receipt #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>receipt, </i>value received, money coming in</sg>,;
+<sg>income, incomings, innings, revenue, return, proceeds</sg>,;
+<sg>gross receipts, net profit</sg>,;
+<sg>earnings ,<cref>775 <i>gain</i></cref></sg>,;
+<sg>accepta, avails</sg>,;
+<sg>rent, rent roll</sg>,;
+<sg>rental, rentage</sg>,;
+<sg>rack-rent</sg>,;
+<sg>premium, bonus</sg>,;
+<sg>sweepstakes, tontine</sg>,;
+<sg>pension, annuity</sg>,;
+<sg>jointure ,<cref>780 <i>property</i></cref></sg>,;
+<sg>alimony, palimony, pittance</sg>,;
+<sg>emolument ,<cref>973 <i>remuneration</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>receive ,<cref> 785 <i>prisoner</i></cref></sg>,;
+<sg>take money</sg>,;
+<sg>draw from, derive from</sg>,;
+<sg>acquire ,<cref> 775 <i>compulsion</i></cref></sg>,;
+<sg>take ,<cref> 789 <i>consignee</i></cref></sg>,;
+<sg>bring in, yield, afford, pay, return</sg>,;
+<sg>accrue ,<cref>785 <i>be received from</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>receiving, received</sg>,;
+<sg>profitable ,<cref>775 <i>gainful</i></cref></sg>,;
+<br>
+</paragraph>

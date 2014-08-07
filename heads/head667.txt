@@ -1,0 +1,58 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#27#</sectionNumber>
+<headword>#<b>#[001] #667# Waste #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>waste, </i>consumption, expenditure, exhaustion</sg>,;
+<sg>dispersion ,<cref> 73 <i>continuity</i></cref></sg>,;
+<sg>ebb</sg>,;
+<sg>leakage ,<cref>295 <i>exudation</i></cref></sg>,;
+<sg>loss ,<cref> 776 <i>master</i></cref></sg>,;
+<sg>wear and tear</sg>,;
+<sg>waste</sg>,;
+<sg>prodigality ,<cref> 818 <i>receiving</i></cref></sg>,;
+<sg>misuse ,<cref> 679 <i>perfection</i></cref></sg>,;
+<sg>wasting</sg>,;
+<sg>rubbish ,<cref>645 <i>useless</i></cref></sg>,;
+<sg>mountain in labor</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>spend, expend, use, consume, swallow up, exhaust</sg>,;
+<sg>impoverish</sg>,;
+<sg>spill, drain, empty</sg>,;
+<sg>disperse ,<cref> 73 <i>continuity</i></cref></sg>,;
+<sg>cast away, fool away, muddle away, throw away, fling away, fritter away</sg>,;
+<sg>burn the candle at both ends, waste</sg>,;
+<sg>squander ,<cref> 818 <i>receiving</i></cref></sg>,;
+<sg>waste its sweetness on the desert air</sg>,;
+<sg>cast one's bread upon the waters, cast pearls before swine</sg>,;
+<sg>employ a steam engine to crack a nut, waste powder and shot, break a butterfly on a wheel</sg>,;
+<sg>labor in vain ,<cref>645 <i>useless</i></cref></sg>,;
+<sg>cut blocks with a razor, pour water into a sieve</sg>,;
+<sg>leak ,<cref>295 <i>run out</i></cref></sg>,;
+<sg>run to waste</sg>,;
+<sg>ebb</sg>,;
+<sg>melt away, run dry, dry up</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>wasted</sg>,;
+<sg>at a low ebb</sg>,;
+<sg>wasteful ,<cref>818 <i>prodigal</i></cref></sg>,;
+<sg>penny wise and pound foolish</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>magno conatu magnas nugas</sg>,;
+<sg>le jeu ne vaut pas la chandelle</sg>,;
+<sg>idly busy rolls their world away</sg>,;
+<br>
+</paragraph>

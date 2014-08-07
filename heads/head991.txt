@@ -1,0 +1,65 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#38#</sectionNumber>
+<headword>#<b>#[001] #991# Bad Man #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>bad man, </i>wrongdoer, worker of iniquity</sg>,;
+<sg>evildoer ,<cref> 913 <i>disrepute</i></cref></sg>,;
+<sg>sinner</sg>,;
+<sg>the wicked ,<cref> 945 <i>divorce</i></cref></sg>,;
+<sg>bad example</sg>,;
+<sg>villain, rascal, scoundrel, miscreant, budmash, caitiff</sg>,;
+<sg>wretch, reptile, viper, serpent, cockatrice, basilisk, urchin</sg>,;
+<sg>tiger, monster</sg>,;
+<sg>devil ,<cref>980 <i>demon</i></cref></sg>,;
+<sg>devil incarnate</sg>,;
+<sg>demon in human shape, Nana Sahib</sg>,;
+<sg>hellhound, hellcat</sg>,;
+<sg>rakehell</sg>,;
+<sg>bad woman, jade, Jezebel</sg>,;
+<sg>scamp, scapegrace, rip, runagate, ne'er-do-well, reprobate, scalawag, scallawag</sg>,;
+<sg>rou_e, rake</sg>,;
+<sg>Sadist</sg>,;
+<sg>skeesicks, skeezix</sg>,;
+<sg>limb</sg>,;
+<sg>one who has sold himself to the devil, fallen angel, ame damnee, vaurien, mauvais sujet, loose fish, sad dog</sg>,;
+<sg>rounder</sg>,;
+<sg>lost sheep, black sheep</sg>,;
+<sg>castaway, recreant, defaulter</sg>,;
+<sg>prodigal ,<cref> 818 <i>receiving</i></cref></sg>,;
+<sg>rough, rowdy, hooligan, tough, ugly customer, mean mother, ruffian, bully, meanie</sg>,;
+<sg>Jonathan Wild</sg>,;
+<sg>hangman</sg>,;
+<sg>incendiary, arsonist, fire bug</sg>,;
+<sg>thief ,<cref> 792 <i>prohibition</i></cref></sg>,;
+<sg>murderer, terrorist ,<cref> 361 <i>conduit</i></cref></sg>,;
+<sg>culprit, delinquent, crook, hoodlum, hood, criminal, thug, malefactor, offender, perpetrator, perp</sg>,;
+<sg>disorderly person, misdemeanant</sg>,;
+<sg>outlaw</sg>,;
+<sg>scofflaw</sg>,;
+<sg>vandal</sg>,;
+<sg>felon, (convicted criminal)</sg>,;
+<sg>criminal</sg>,;
+<sg>convict, prisoner, inmate, jail bird, ticket of leave man</sg>,;
+<sg>multiple offender</sg>,;
+<sg>blackguard, polisson, loafer, sneak</sg>,;
+<sg>rapscallion, rascallion</sg>,;
+<sg>cullion, mean wretch, varlet, kern, ame-de-boue, drole</sg>,;
+<sg>cur, dog, hound, whelp, mongrel</sg>,;
+<sg>lown, loon, runnion, outcast, vagabond</sg>,;
+<sg>rogue ,<cref>941 <i>knave</i></cref></sg>,;
+<sg>ronian</sg>,;
+<sg>scum of the earth, riffraff</sg>,;
+<sg>Arcades ambo</sg>,;
+<sg>Int</sg>,;
+<sg>sirrah!,</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>Acherontis pabulum</sg>,;
+<sg>gibier de potence</sg>,;
+<br>
+</paragraph>

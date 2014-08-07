@@ -1,0 +1,41 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#20#</sectionNumber>
+<headword>#<b>#[001] #526# Sanity #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>sanity</i></sg>,;
+<sg>soundness</sg>,;
+<sg>rationality, sobriety, lucidity, lucid interval</sg>,;
+<sg>senses, sober senses, right mind, sound mind, mens sana</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be sane</sg>,;
+<sg>retain one's senses, retain one's reason</sg>,;
+<sg>become sane</sg>,;
+<sg>come to one's senses, sober down</sg>,;
+<sg>render sane</sg>,;
+<sg>bring to one's senses, sober</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>sane, rational, reasonable, compos mentis, of sound mind</sg>,;
+<sg>sound, sound-minded</sg>,;
+<sg>lucid</sg>,;
+<sg>self-possessed</sg>,;
+<sg>sober, sober-minded</sg>,;
+<sg>in one's sober senses, in one's right mind</sg>,;
+<sg>in possession of one's faculties</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>sanely</sg>,;
+<br>
+</paragraph>

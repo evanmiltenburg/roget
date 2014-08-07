@@ -1,0 +1,43 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#28#</sectionNumber>
+<headword>#<b>#[001] #719# Agent #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>doer, actor, <i>agent, </i>performer, perpetrator, operator</sg>,;
+<sg>executor, executrix</sg>,;
+<sg>practitioner, worker, stager</sg>,;
+<sg>bee, ant, working bee, termite, white ant</sg>,;
+<sg>laboring oar, servant of all work, factotum</sg>,;
+<sg>workman, artisan</sg>,;
+<sg>craftsman, handicraftsman</sg>,;
+<sg>mechanic, operative</sg>,;
+<sg>working man</sg>,;
+<sg>laboring man</sg>,;
+<sg>demiurgus, hewers of wood and drawers of water, laborer, navvy</sg>,;
+<sg>hand, man, day laborer, journeyman, charwoman, hack</sg>,;
+<sg>mere tool ,<cref> 633 <i>obstinacy</i></cref></sg>,;
+<sg>beast of burden, drudge, fag</sg>,;
+<sg>lumper, roustabout</sg>,;
+<sg>maker, artificer, artist, wright, manufacturer, architect, builder, mason, bricklayer, smith, forger, Vulcan</sg>,;
+<sg>carpenter</sg>,;
+<sg>ganger, platelayer</sg>,;
+<sg>blacksmith, locksmith, sailmaker, wheelwright</sg>,;
+<sg>machinist, mechanician, engineer</sg>,;
+<sg>sempstress, semstress, seamstress</sg>,;
+<sg>needlewoman, workwoman</sg>,;
+<sg>tailor, cordwainer</sg>,;
+<sg>minister ,<cref>631 <i>instrument</i></cref></sg>,;
+<sg>servant ,<cref> 746 <i>defense</i></cref></sg>,;
+<sg>representative ,<cref>759 <i>commissioner) 758, (deputy</i></cref></sg>,;
+<sg>coworker, party to, participator in, particeps criminis, dramatis personae</sg>,;
+<sg>personnel</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>quorum pars magna fui</sg>,;
+<sg>faber est quisque fortunae suae</sg>,;
+<br>
+</paragraph>

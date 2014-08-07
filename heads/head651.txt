@@ -1,0 +1,81 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#27#</sectionNumber>
+<headword>#<b>#[001] #651# Pursuit #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>pursuit</i></sg>,;
+<sg>pursuing</sg>,;
+<sg>prosecution</sg>,;
+<sg>pursuance</sg>,;
+<sg>enterprise ,<cref>676 <i>undertaking</i></cref></sg>,;
+<sg>business ,<cref> 625 <i>the drama</i></cref></sg>,;
+<sg>adventure ,<cref>675 <i>essay</i></cref></sg>,;
+<sg>quest ,<cref>461 <i>search</i></cref></sg>,;
+<sg>scramble, hue and cry, game</sg>,;
+<sg>hobby</sg>,;
+<sg>still-hunt</sg>,;
+<sg>chase, hunt, battue, race, steeple chase, hunting, coursing</sg>,;
+<sg>venation, venery</sg>,;
+<sg>fox chase</sg>,;
+<sg>sport, sporting</sg>,;
+<sg>shooting, angling, fishing, hawking</sg>,;
+<sg>shikar (Geog loc:India)</sg>,;
+<sg>pursuer</sg>,;
+<sg>hunter, huntsman</sg>,;
+<sg>shikari (Geog loc:India), sportsman, Nimrod</sg>,;
+<sg>hound ,<cref> 366 <i>unctuousness</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>pursue, prosecute, follow</sg>,;
+<sg>run after, make after, be after, hunt after, prowl after</sg>,;
+<sg>shadow</sg>,;
+<sg>carry on ,<cref>680 <i>do</i></cref></sg>,;
+<sg>engage in ,<cref>676 <i>undertake</i></cref></sg>,;
+<sg>set about ,<cref>66 <i>begin</i></cref></sg>,;
+<sg>endeavor ,<cref> 675 <i>expedience</i></cref></sg>,;
+<sg>court ,<cref>765 <i>request</i></cref></sg>,;
+<sg>seek ,<cref>461 <i>search</i></cref></sg>,;
+<sg>aim at ,<cref>620 <i>intention</i></cref></sg>,;
+<sg>follow the trail ,<cref>461 <i>trace</i></cref></sg>,;
+<sg>fish for ,<cref>463 <i>experiment</i></cref></sg>,;
+<sg>press on ,<cref>684 <i>haste</i></cref></sg>,;
+<sg>run a race ,<cref>274 <i>velocity</i></cref></sg>,;
+<sg>chase, give chase, course, dog, hunt, hound</sg>,;
+<sg>tread on the heels, follow on the heels of, ,<cref>281 <i>sequence</i></cref></sg>,;
+<sg>rush upon</sg>,;
+<sg>rush headlong ,<cref>173 <i>violence</i></cref>, ride full tilt at, run full tilt at</sg>,;
+<sg>make a leap at, jump at, snatch at run down</sg>,;
+<sg>start game</sg>,;
+<sg>tread a path</sg>,;
+<sg>take a course, hold a course</sg>,;
+<sg>shape one's steps, direct one's steps, bend one's steps, course</sg>,;
+<sg>play a game</sg>,;
+<sg>fight one's way, elbow one's way</sg>,;
+<sg>follow up</sg>,;
+<sg>take to, take up</sg>,;
+<sg>go in for</sg>,;
+<sg>ride one's hobby</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>pursuing</sg>,;
+<sg>in quest of ,<cref>461 <i>inquiry</i></cref></sg>,;
+<sg>in pursuit, in full cry, in hot pursuit</sg>,;
+<sg>on the scent</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>in pursuance of ,<cref>620 <i>intention</i></cref></sg>,;
+<sg>after</sg>,;
+<sg>Int</sg>,;
+<sg>tallyho!, yoicks!, soho!,</sg>,;
+<br>
+</paragraph>

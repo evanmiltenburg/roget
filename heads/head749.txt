@@ -1,0 +1,123 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#29#</sectionNumber>
+<headword>#<b>#[001] #749# Contention #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>contention, </i>strife</sg>,;
+<sg>contest, contestation</sg>,;
+<sg>struggle</sg>,;
+<sg>belligerency</sg>,;
+<sg>opposition ,<cref> 708 <i>misuse</i></cref></sg>,;
+<sg>controversy, polemics</sg>,;
+<sg>debate ,<cref>476 <i>discussion</i></cref></sg>,;
+<sg>war of words, logomachy, litigation</sg>,;
+<sg>paper war</sg>,;
+<sg>high words ,<cref>713 <i>quarrel</i></cref></sg>,;
+<sg>sparring</sg>,;
+<sg>competition, rivalry</sg>,;
+<sg>corrivalry, corrivalship, agonism, concours, match, race, horse racing, heat, steeple chase, handicap</sg>,;
+<sg>regatta</sg>,;
+<sg>field day</sg>,;
+<sg>sham fight, Derby day</sg>,;
+<sg>turf, sporting, bullfight, tauromachy, gymkhana</sg>,;
+<sg>boat race, torpids</sg>,;
+<sg>wrestling, greco-roman wrestling</sg>,;
+<sg>pugilism, boxing, fisticuffs, the manly art of self-defense</sg>,;
+<sg>spar, mill, set-to, round, bout, event, prize fighting</sg>,;
+<sg>quarterstaff, single stick</sg>,;
+<sg>gladiatorship, gymnastics</sg>,;
+<sg>jiujitsu, jujutsu, kooshti, sumo</sg>,;
+<sg>athletics, athletic sports</sg>,;
+<sg>games of skill ,<cref> 840 <i>credit</i></cref></sg>,;
+<sg>shindy</sg>,;
+<sg>fracas ,<cref>713 <i>discord</i></cref></sg>,;
+<sg>clash of arms</sg>,;
+<sg>tussle, scuffle, broil, fray</sg>,;
+<sg>affray, affrayment</sg>,;
+<sg>velitation</sg>,;
+<sg>colluctation, luctation</sg>,;
+<sg>brabble, brigue, scramble, melee, scrimmage, stramash, bushfighting</sg>,;
+<sg>free fight, stand up fight, hand to hand, running fight</sg>,;
+<sg>conflict, skirmish</sg>,;
+<sg>rencounter, encounter</sg>,;
+<sg>rencontre, collision, affair, brush, fight</sg>,;
+<sg>battle, battle royal</sg>,;
+<sg>combat, action, engagement, joust, tournament</sg>,;
+<sg>tilt, tilting</sg>,;
+<sg>tournay, list</sg>,;
+<sg>pitched battle</sg>,;
+<sg>death struggle, struggle for life or death, life or death struggle, Armageddon</sg>,;
+<sg>hard knocks, sharp contest, tug of war</sg>,;
+<sg>naval engagement, naumachia, sea fight</sg>,;
+<sg>duel, duello</sg>,;
+<sg>single combat, monomachy, satisfaction, passage d'armes, passage of arms, affair of honor</sg>,;
+<sg>triangular duel</sg>,;
+<sg>hostile meeting, digladiation</sg>,;
+<sg>deeds of arms, feats of arms</sg>,;
+<sg>appeal to arms ,<cref>722 <i>warfare</i></cref></sg>,;
+<sg>pugnacity</sg>,;
+<sg>combativeness</sg>,;
+<sg>bone of contention ,<cref> 713 <i>haste</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>contend</sg>,;
+<sg>contest, strive, struggle, scramble, wrestle</sg>,;
+<sg>spar, square</sg>,;
+<sg>exchange blows, exchange fisticuffs</sg>,;
+<sg>fib, justle, tussle, tilt, box, stave, fence</sg>,;
+<sg>skirmish</sg>,;
+<sg>pickeer</sg>,;
+<sg>fight ,<cref>722 <i>war</i></cref></sg>,;
+<sg>wrangle ,<cref>713 <i>quarrel</i></cref></sg>,;
+<sg>contend with , grapple with, engage with, close with, buckle with, bandy with, try conclusions with, have a brush</sg>,;
+<sg>with, tilt with</sg>,;
+<sg>encounter, fall foul of, pitch into, clapperclaw, run a tilt at</sg>,;
+<sg>oppose ,<cref> 708 <i>misuse</i></cref></sg>,;
+<sg>reluct</sg>,;
+<sg>join issue, come to blows, go to loggerheads, set to, come to the scratch, exchange shots, measure swords, meet hand to hand</sg>,;
+<sg>take up the cudgels, take up the glove, take up the gauntlet</sg>,;
+<sg>enter the lists</sg>,;
+<sg>couch one's lance</sg>,;
+<sg>give satisfaction</sg>,;
+<sg>appeal to arms</sg>,;
+<sg>,<cref>722 <i>warfare</i></cref></sg>,;
+<sg>lay about one</sg>,;
+<sg>break the peace</sg>,;
+<sg>compete with, cope with, vie with, race with</sg>,;
+<sg>outvie, emulate, rival</sg>,;
+<sg>run a race</sg>,;
+<sg>contend for , stipulate for, stickle for</sg>,;
+<sg>insist upon, make a point of</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>contending</sg>,;
+<sg>together by the ears, at loggerheads</sg>,;
+<sg>at war</sg>,;
+<sg>at issue</sg>,;
+<sg>competitive, rival</sg>,;
+<sg>belligerent</sg>,;
+<sg>contentious, combative, bellicose, unpeaceful</sg>,;
+<sg>warlike ,<cref> 722 <i>direction</i></cref></sg>,;
+<sg>quarrelsome ,<cref> 901 <i>cowardice</i></cref></sg>,;
+<sg>pugnacious</sg>,;
+<sg>pugilistic, gladiatorial</sg>,;
+<sg>palestric, palestrical</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>a verbis ad verbera</sg>,;
+<sg>a word and a blow</sg>,;
+<sg>a very pretty quarrel as it stands</sg>,;
+<sg>commune periculum concordiam parit</sg>,;
+<sg>lis litem generat</sg>,;
+<br>
+</paragraph>

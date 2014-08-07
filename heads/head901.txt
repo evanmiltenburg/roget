@@ -1,0 +1,70 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#36#</sectionNumber>
+<headword>#<b>#[001] #901# Cowardice #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>cowardice, </i>pusillanimity</sg>,;
+<sg>cowardliness</sg>,;
+<sg>timidity, effeminacy</sg>,;
+<sg>poltroonery, baseness</sg>,;
+<sg>dastardness, dastardy</sg>,;
+<sg>abject fear, funk</sg>,;
+<sg>Dutch courage</sg>,;
+<sg>fear ,<cref> 860 <i>sensibility</i></cref></sg>,;
+<sg>white feather, faint heart</sg>,;
+<sg>cold feet, yellow streak</sg>,;
+<sg>coward, poltroon, dastard, sneak, recreant</sg>,;
+<sg>shy cock, dunghill cock</sg>,;
+<sg>coistril, milksop, white liver, lily liver, nidget, one that cannot say 'boo' to a goose</sg>,;
+<sg>slink</sg>,;
+<sg>Bob Acres, Jerry Sneak</sg>,;
+<sg>alarmist, terrorist, pessimist</sg>,;
+<sg>runagate ,<cref>623 <i>fugitive</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>quail ,<cref>860 <i>fear</i></cref></sg>,;
+<sg>be cowardly</sg>,;
+<sg>, be a coward</sg>,;
+<sg>funk</sg>,;
+<sg>cower, skulk, sneak</sg>,;
+<sg>flinch, shy, fight shy, slink, turn tail</sg>,;
+<sg>run away ,<cref>623 <i>avoid</i></cref></sg>,;
+<sg>show, the white feather</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>coward, cowardly</sg>,;
+<sg>fearful, shy</sg>,;
+<sg>timid, timorous</sg>,;
+<sg>skittish</sg>,;
+<sg>poor- spirited, spiritless, soft, effeminate</sg>,;
+<sg>weak-minded</sg>,;
+<sg>infirm of purpose ,<cref> 605 <i>inelegance</i></cref></sg>,;
+<sg>weak-hearted, fainthearted, chickenhearted, henhearted, lilyhearted, pigeon-hearted</sg>,;
+<sg>white- livered, lily-livered, milk-livered</sg>,;
+<sg>milksop, smock-faced</sg>,;
+<sg>unable to say 'boo' to a goose</sg>,;
+<sg>dastard, dastardly</sg>,;
+<sg>base, craven, sneaking, dunghill, recreant</sg>,;
+<sg>unwarlike, unsoldier-like</sg>,;
+<sg>in face a lion but in heart a deer</sg>,;
+<sg>unmanned</sg>,;
+<sg>frightened ,<cref> 860 <i>sensibility</i></cref></sg>,;
+<sg>Int</sg>,;
+<sg>sauve qui peut!, every man for himself!</sg>,;
+<sg>devil take the hindmost!,</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>ante tubam trepidat, one's courage oozing out</sg>,;
+<sg>degeneres animos timor arguit</sg>,;
+<br>
+</paragraph>

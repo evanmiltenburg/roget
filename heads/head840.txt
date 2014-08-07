@@ -1,0 +1,44 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#34#</sectionNumber>
+<headword>#<b>#[001] #840# Credit #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>credit, </i>trust, tick, score, tally, account</sg>,;
+<sg>letter of credit, circular note</sg>,;
+<sg>duplicate</sg>,;
+<sg>mortgage, lien, debenture, paper credit, floating capital</sg>,;
+<sg>draft, lettre de creance, securities</sg>,;
+<sg>creditor, lender, lessor, mortgagee</sg>,;
+<sg>dun</sg>,;
+<sg>usurer</sg>,;
+<sg>credit account, line of credit, open line of credit</sg>,;
+<sg>credit card</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>keep an account with, run up an account with</sg>,;
+<sg>intrust, credit, accredit</sg>,;
+<sg>place to one's credit, credit to one's account, place to one's account</sg>,;
+<sg>give credit, take credit</sg>,;
+<sg>fly a kite</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>crediting, credited</sg>,;
+<sg>accredited</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>on credit</sg>,;
+<sg>on account</sg>,;
+<sg>to the account of, to the credit of</sg>,;
+<sg>a compte</sg>,;
+<br>
+</paragraph>

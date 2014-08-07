@@ -1,0 +1,9 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#4#</sectionNumber>
+<headword>#<b>#[001] #81# Exclusion #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>exclusion</i> ,<cref> 55 <i>completeness</i></cref></sg>,;
+<br>
+</paragraph>

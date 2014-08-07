@@ -1,0 +1,49 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#15#</sectionNumber>
+<headword>#<b>#[001] #398# Refrigeration #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>refrigeration, </i>infrigidation, reduction of temperature</sg>,;
+<sg>cooling</sg>,;
+<sg>congelation, conglaciation</sg>,;
+<sg>ice ,<cref> 383 <i>agriculture</i></cref></sg>,;
+<sg>solidification ,<cref>321 <i>density</i></cref></sg>,;
+<sg>ice box (refrigerator) 385</sg>,;
+<sg>extincteur</sg>,;
+<sg>fire annihilator</sg>,;
+<sg>amianth, amianthus</sg>,;
+<sg>earth- flax, mountain-flax</sg>,;
+<sg>flexible asbestos</sg>,;
+<sg>fireman, fire brigade (incombustibility) 388</sg>,;
+<sg>1</sg>,;
+<sg>incombustibility, incombustibleness</sg>,;
+<sg>(insulation) 388</sg>,;
+<sg>1</sg>,;
+<sg>air conditioning, central air conditioning</sg>,;
+<sg>air conditioner</sg>,;
+<sg>fan, attic fan</sg>,;
+<sg>dehumidifier</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>cool, fan, refrigerate, refresh, ice</sg>,;
+<sg>congeal, freeze, glaciate</sg>,;
+<sg>benumb, starve, pinch, chill, petrify, chill to the marrow, regelate, nip, cut, pierce, bite, make one's teeth chatter, damp, slack quench</sg>,;
+<sg>put out, stamp out</sg>,;
+<sg>extinguish</sg>,;
+<sg>go out, burn out (incombustibility) 388</sg>,;
+<sg>1</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>cooled</sg>,;
+<sg>frozen out</sg>,;
+<sg>cooling</sg>,;
+<sg>frigorific</sg>,;
+<br>
+</paragraph>

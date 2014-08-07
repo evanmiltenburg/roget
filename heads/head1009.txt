@@ -1,0 +1,54 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#38#</sectionNumber>
+<headword>#<b>#[001] #1009# Tribunal #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>tribunal, </i>court, board, bench, judicatory</sg>,;
+<sg>court of justice, court of law, court of arbitration, administrative court</sg>,;
+<sg>inquisition</sg>,;
+<sg>guild</sg>,;
+<sg>justice seat</sg>,;
+<sg>judgment seat, mercy seat</sg>,;
+<sg>woolsack</sg>,;
+<sg>bar of justice</sg>,;
+<sg>dock</sg>,;
+<sg>forum, hustings, bureau, drumhead</sg>,;
+<sg>jury box, witness box</sg>,;
+<sg>senate house, town hall, theater</sg>,;
+<sg>House of Commons, House of Lords</sg>,;
+<sg>statehouse, townhouse</sg>,;
+<sg>assize, eyre</sg>,;
+<sg>wardmote, burghmote</sg>,;
+<sg>barmote</sg>,;
+<sg>superior courts of Westminster</sg>,;
+<sg>court of record, court oyer and terminer, court assize, court of appeal, court of error</sg>,;
+<sg>High court of Judicature, High court of Appeal</sg>,;
+<sg>Judicial Committee of the Privy Council</sg>,;
+<sg>Star Chamber</sg>,;
+<sg>Court of Chancery, Court of King's or Queen's Bench, Court of Exchequer, Court of Common Pleas, Court of Probate, Court of Arches, Court of Admiralty</sg>,;
+<sg>Lords Justices' court, Rolls court, Vice Chancellor's court, Stannary court, Divorce court, Family court, Palatine court, county court, district court, police court</sg>,;
+<sg>sessions</sg>,;
+<sg>quarter sessions, petty sessions</sg>,;
+<sg>court-leet, court-baron, court of pie poudre, court of common council</sg>,;
+<sg>board of green cloth</sg>,;
+<sg>court martial</sg>,;
+<sg>drumhead court martial</sg>,;
+<sg>durbar, divan</sg>,;
+<sg>Areopagus</sg>,;
+<sg>Irota</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>judicial ,<cref> 965 <i>dueness</i></cref></sg>,;
+<sg>appellate</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>die Weltgeschichte ist das Weltgericht</sg>,;
+<br>
+</paragraph>

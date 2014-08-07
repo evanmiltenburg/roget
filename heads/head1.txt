@@ -1,0 +1,76 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#1#</sectionNumber>
+<headword>#<b>#[001] #1# Existence #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>existence, </i>being, entity, ens, esse, subsistence</sg>,;
+<sg>reality, actuality</sg>,;
+<sg>positiveness</sg>,;
+<sg>fact, matter of fact, sober reality</sg>,;
+<sg>truth ,<cref> 494 <i>impossibility</i></cref></sg>,;
+<sg>actual existence</sg>,;
+<sg>presence ,<cref>186 <i>existence in space</i></cref></sg>,;
+<sg>coexistence ,<cref> 120 <i>chronometry</i></cref></sg>,;
+<sg>stubborn fact, hard fact</sg>,;
+<sg>not a dream ,<cref> 515 <i>ignorance</i></cref></sg>,;
+<sg>no joke</sg>,;
+<sg>center of life, essence, inmost nature, inner reality, vital principle</sg>,;
+<sg>ontology</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>exist, be</sg>,;
+<sg>have being</sg>,;
+<sg>subsist, live, breathe, stand, obtain, be the case</sg>,;
+<sg>occur ,<cref>151 <i>event</i></cref></sg>,;
+<sg>have place, prevail</sg>,;
+<sg>find oneself, pass the time, vegetate</sg>,;
+<sg>consist in, lie in</sg>,;
+<sg>be comprised in, be contained in, be constituted by</sg>,;
+<sg>come into existence</sg>,;
+<sg>arise ,<cref>66 <i>begin</i></cref></sg>,;
+<sg>come forth ,<cref>446 <i>appear</i></cref></sg>,;
+<sg>become ,<cref>144 <i>be converted</i></cref></sg>,;
+<sg>bring into existence ,<cref> 161 <i>effect</i></cref></sg>,;
+<sg>abide, continue, endure, last, remain, stay</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>existing</sg>,;
+<sg>existent, under the sun</sg>,;
+<sg>in existence</sg>,;
+<sg>extant</sg>,;
+<sg>afloat, afoot, on foot, current, prevalent</sg>,;
+<sg>undestroyed</sg>,;
+<sg>real, actual, positive, absolute</sg>,;
+<sg>true ,<cref> 494 <i>impossibility</i></cref></sg>,;
+<sg>substantial, substantive</sg>,;
+<sg>self-existing, self-existent</sg>,;
+<sg>essential</sg>,;
+<sg>well-founded, well-grounded</sg>,;
+<sg>unideal, unimagined</sg>,;
+<sg>not potential ,<cref> 2 <i>inexistence</i></cref></sg>,;
+<sg>authentic</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>actually</sg>,;
+<sg>in fact, in point of fact, in reality</sg>,;
+<sg>indeed</sg>,;
+<sg>de facto, ipso facto</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>ens rationis</sg>,;
+<sg>ergo sum cogito, thinkest thou existence doth depend on time?</sg>,;
+<br>
+</paragraph>

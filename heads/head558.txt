@@ -1,0 +1,84 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#24#</sectionNumber>
+<headword>#<b>#[001] #558# News #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>news</i></sg>,;
+<sg>information ,<cref> 527 <i>insanity</i></cref></sg>,;
+<sg>piece of news, budget of news, budget of information</sg>,;
+<sg>intelligence, tidings</sg>,;
+<sg>word, advice, aviso, message</sg>,;
+<sg>dispatch, despatch</sg>,;
+<sg>telegram, cable, marconigram, wire, communication, errand, embassy</sg>,;
+<sg>report, rumor, hearsay, on dit, flying rumor, news stirring, cry, buzz, bruit, fame</sg>,;
+<sg>talk, oui dire, scandal, eavesdropping</sg>,;
+<sg>town tattle, table talk</sg>,;
+<sg>tittle tattle</sg>,;
+<sg>canard, topic of the day, idea afloat</sg>,;
+<sg>bulletin, fresh news, stirring news</sg>,;
+<sg>glad tidings</sg>,;
+<sg>flash, news just in</sg>,;
+<sg>on-the-spot coverage</sg>,;
+<sg>live coverage</sg>,;
+<sg>old story, old news, stale news, stale story</sg>,;
+<sg>chestnut</sg>,;
+<sg>narrator ,<cref>594 <i>describe</i></cref></sg>,;
+<sg>newsmonger, scandalmonger</sg>,;
+<sg>talebearer, telltale, gossip, tattler</sg>,;
+<sg>journalism</sg>,;
+<sg>media, news media, the press, the information industry</sg>,;
+<sg>newspaper, magazine, tract, journal, gazette, publication ,<cref> 531 <i>expectation</i></cref></sg>,;
+<sg>radio, television, ticker (electronic information transmission)</sg>,;
+<sg>United Press International, UPI</sg>,;
+<sg>Associated Press, AP</sg>,;
+<sg>The Dow Jones News Service, DJ</sg>,;
+<sg>The New York Times News Service, NYT</sg>,;
+<sg>Reuters</sg>,;
+<sg>TASS</sg>,;
+<sg>The Nikkei</sg>,;
+<sg>newscaster, newsman, newswoman, reporter, journalist, correspondent, foreign correspondent, special correspondent, war correspondent, news team, news department</sg>,;
+<sg>anchorman, anchorwoman</sg>,;
+<sg>sportscaster</sg>,;
+<sg>weatherman</sg>,;
+<sg>press secretary, public relations department, public relations man</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>transpire ,<cref>529 <i>be disclosed</i></cref></sg>,;
+<sg>rumor ,<cref>531 <i>publish</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>many-tongued</sg>,;
+<sg>rumored</sg>,;
+<sg>publicly rumored, currently rumored, currently reported</sg>,;
+<sg>rife, current, floating, afloat, going about, in circulation, in every one's mouth, all over the town</sg>,;
+<sg>in progress</sg>,;
+<sg>live</sg>,;
+<sg>on the spot</sg>,;
+<sg>in person</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>as the story goes, as the story runs</sg>,;
+<sg>as they say, it is said</sg>,;
+<sg>by telegraph, by wireless</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>airy tongues that syllable men's names</sg>,;
+<sg>what's up?</sg>,;
+<sg>what's the latest?</sg>,;
+<sg>what's new?</sg>,;
+<sg>what's the latest poop?</sg>,;
+<br>
+</paragraph>

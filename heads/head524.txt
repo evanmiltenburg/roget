@@ -1,0 +1,31 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#20#</sectionNumber>
+<headword>#<b>#[001] #524# Sage #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>sage, </i>wise man</sg>,;
+<sg>genius</sg>,;
+<sg>master mind, master spirit of the age</sg>,;
+<sg>longhead, thinker</sg>,;
+<sg>intellectual, longhair</sg>,;
+<sg>authority, oracle, luminary, shining light, esprit fort, magnus Apollo, Solon, Solomon, Nestor, Magi, second Daniel</sg>,;
+<sg>man of learning ,<cref> 492 <i>qualification</i></cref></sg>,;
+<sg>expert ,<cref> 700 <i>escape</i></cref></sg>,;
+<sg>wizard ,<cref> 994 <i>atonement</i></cref></sg>,;
+<sg>wiseacre, bigwig, know-it-all</sg>,;
+<sg>poor man's Einstein</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>venerable, reverenced, emeritus</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>barba tenus sapientes</sg>,;
+<br>
+</paragraph>

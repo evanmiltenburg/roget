@@ -1,0 +1,41 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#16#</sectionNumber>
+<headword>#<b>#[001] #474# Topic #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>topic, </i>subject of thought, material for thought</sg>,;
+<sg>food for the mind, mental pabulum</sg>,;
+<sg>subject, subject matter</sg>,;
+<sg>matter, theme, noemata, topic, what it is about, thesis, text, business, affair, matter in hand, argument</sg>,;
+<sg>motion, resolution</sg>,;
+<sg>head, chapter</sg>,;
+<sg>case, point</sg>,;
+<sg>proposition, theorem</sg>,;
+<sg>field of inquiry</sg>,;
+<sg>moot point, problem ,<cref>461 <i>question</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>float in the mind, pass in the mind ,<cref> 451 <i>gray</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>thought of</sg>,;
+<sg>uppermost in the mind</sg>,;
+<sg>in petto</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>under consideration</sg>,;
+<sg>in question, in the mind</sg>,;
+<sg>on foot, on the carpet, on the docket, on the tapis</sg>,;
+<sg>relative to ,<cref> 9 <i>relation</i></cref></sg>,;
+<br>
+</paragraph>

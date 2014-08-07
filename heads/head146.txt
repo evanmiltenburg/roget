@@ -1,0 +1,27 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#6#</sectionNumber>
+<headword>#<b>#[001] #146# Irregularity of recurrence #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>irregularity of recurrence, </i>irregularity, uncertainty, unpunctuality</sg>,;
+<sg>fitfulness</sg>,;
+<sg>capriciousness, ecrhythmus</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>irregular, uncertain, unpunctual, capricious, desultory, fitful, flickering</sg>,;
+<sg>rambling, rhapsodical</sg>,;
+<sg>spasmodic</sg>,;
+<sg>immethodical, unmethodical, variable</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>irregularly</sg>,;
+<sg>by fits and starts ,<cref>70 <i>discontinuously</i></cref></sg>,;
+<br>
+</paragraph>

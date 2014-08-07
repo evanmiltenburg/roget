@@ -1,0 +1,39 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#4#</sectionNumber>
+<headword>#<b>#[001] #72# Middle #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>middle, </i>midst, mediety, mean ,<cref> 29 <i>equality</i></cref></sg>,;
+<sg>medium, middle term</sg>,;
+<sg>center &c 222, mid-course ,<cref> 628 <i>willingness</i></cref></sg>,;
+<sg>mezzo termine</sg>,;
+<sg>juste milieu ,<cref> 628 <i>willingness</i></cref></sg>,;
+<sg>halfway house, nave, navel, omphalos</sg>,;
+<sg>nucleus, nucleolus</sg>,;
+<sg>equidistance, bisection, half distance</sg>,;
+<sg>equator, diaphragm, midriff</sg>,;
+<sg>intermediate ,<cref> 228 <i>inversion</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>middle, medial, mesial, mean, mid, median, average</sg>,;
+<sg>middlemost, midmost</sg>,;
+<sg>mediate</sg>,;
+<sg>intermediate ,<cref>228 <i>interjacent</i></cref></sg>,;
+<sg>equidistant</sg>,;
+<sg>central ,<cref> 222 <i>horizontality</i></cref></sg>,;
+<sg>mediterranean, equatorial</sg>,;
+<sg>homocentric</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>in the middle</sg>,;
+<sg>midway, halfway</sg>,;
+<sg>midships, amidships, in medias res</sg>,;
+<br>
+</paragraph>

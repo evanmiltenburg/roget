@@ -1,0 +1,31 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#26#</sectionNumber>
+<headword>#<b>#[001] #644# Absence of Motive #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>absence of motive, </i>aimlessness</sg>,;
+<sg>caprice ,<cref> 608 <i>speech</i></cref></sg>,;
+<sg>chance ,<cref>621 <i>absence of design</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>have no motive</sg>,;
+<sg>scruple ,<cref>603 <i>be unwilling</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>without rhyme or reason</sg>,;
+<sg>aimless, capricious, whimsical ,<cref>621 <i>chance</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>out of mere caprice</sg>,;
+<br>
+</paragraph>

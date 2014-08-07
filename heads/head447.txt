@@ -1,0 +1,54 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#15#</sectionNumber>
+<headword>#<b>#[001] #447# Color #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>color, </i>hue, tint, tinge, dye, complexion, shade, tincture, cast, livery, coloration, glow, flush</sg>,;
+<sg>tone, key</sg>,;
+<sg>pure color, positive color, primary color, primitive complementary color</sg>,;
+<sg>three primaries</sg>,;
+<sg>spectrum, chromatic dispersion</sg>,;
+<sg>broken color, secondary color, tertiary color</sg>,;
+<sg>local color, coloring, keeping, tone, value, aerial perspective</sg>,;
+<sg>chromatics, spectrum analysis, spectroscopy</sg>,;
+<sg>chromatism, chromatography, chromatology</sg>,;
+<sg>prism, spectroscope, spectrograph, spectrometer, colorimeter (optical instruments) 445</sg>,;
+<sg>pigment, coloring matter, paint, dye, wash, distemper, stain</sg>,;
+<sg>medium</sg>,;
+<sg>mordant</sg>,;
+<sg>oil paint ,<cref>556 <i>painting</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>color, dye, tinge, stain, tint, tinct, paint, wash, ingrain, grain, illuminate, emblazon, bedizen, imbue</sg>,;
+<sg>paint ,<cref>556 <i>fine art</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>colored</sg>,;
+<sg>colorific, tingent, tinctorial</sg>,;
+<sg>chromatic, prismatic</sg>,;
+<sg>full-colored, high-colored, deep-colored</sg>,;
+<sg>doubly-dyed</sg>,;
+<sg>polychromatic</sg>,;
+<sg>chromatogenous</sg>,;
+<sg>tingible</sg>,;
+<sg>bright, vivid, intense, deep</sg>,;
+<sg>fresh, unfaded</sg>,;
+<sg>rich, gorgeous</sg>,;
+<sg>gay</sg>,;
+<sg>gaudy, florid</sg>,;
+<sg>gay, garish</sg>,;
+<sg>rainbow-colored, multihued</sg>,;
+<sg>showy, flaunting, flashy</sg>,;
+<sg>raw, crude</sg>,;
+<sg>glaring, flaring</sg>,;
+<sg>discordant, inharmonious</sg>,;
+<sg>mellow, pastel, harmonious, pearly, sweet, delicate, tender, refined</sg>,;
+<br>
+</paragraph>

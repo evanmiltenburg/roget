@@ -1,0 +1,74 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#34#</sectionNumber>
+<headword>#<b>#[001] #842# Payment #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>payment, </i>defrayment</sg>,;
+<sg>discharge</sg>,;
+<sg>acquittance, quittance</sg>,;
+<sg>settlement, clearance, liquidation, satisfaction, reckoning, arrangement</sg>,;
+<sg>acknowledgment, release</sg>,;
+<sg>receipt, receipt in full, receipt in full of all demands</sg>,;
+<sg>voucher</sg>,;
+<sg>salary, compensation, remuneration (reward) 973</sg>,;
+<sg>repayment, reimbursement, retribution</sg>,;
+<sg>pay ,<cref>973 <i>reward</i></cref></sg>,;
+<sg>money paid ,<cref>809 <i>expenditure</i></cref></sg>,;
+<sg>ready money ,<cref>800 <i>cash</i></cref></sg>,;
+<sg>stake, remittance, installment</sg>,;
+<sg>payer, liquidator ,<cref> 801 <i>compact</i></cref></sg>,;
+<sg>pay cash, pay cash on the barrelhead</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>pay, defray, make payment</sg>,;
+<sg>paydown, pay on the nail, pay ready money, pay at sight, pay in advance</sg>,;
+<sg>cash, honor a bill, acknowledge</sg>,;
+<sg>redeem</sg>,;
+<sg>pay in kind</sg>,;
+<sg>pay one's way, pay one's shot, pay one's footing</sg>,;
+<sg>pay the piper, pay sauce for all, pay costs</sg>,;
+<sg>do the needful</sg>,;
+<sg>shell out, fork out</sg>,;
+<sg>cough up, fork over</sg>,;
+<sg>come down with, come down with the dust</sg>,;
+<sg>tickle the palm, grease the palm</sg>,;
+<sg>expend ,<cref> 809 <i>possession</i></cref></sg>,;
+<sg>put down, lay down</sg>,;
+<sg>discharge, settle, quit, acquit oneself of</sg>,;
+<sg>foot the bill</sg>,;
+<sg>account with, reckon with, settle with, be even with, be quits with</sg>,;
+<sg>strike a balance</sg>,;
+<sg>settle accounts with, balance accounts with, square accounts with</sg>,;
+<sg>quit scores</sg>,;
+<sg>wipe off old scores, clear off old scores</sg>,;
+<sg>satisfy</sg>,;
+<sg>pay in full</sg>,;
+<sg>satisfy all demands, pay in full of all demands</sg>,;
+<sg>clear, liquidate</sg>,;
+<sg>pay up, pay old debts</sg>,;
+<sg>disgorge, make repayment</sg>,;
+<sg>repay, refund, reimburse, retribute</sg>,;
+<sg>make compensation ,<cref> 30 <i>inequality</i></cref></sg>,;
+<sg>pay by credit card, put it on the plastic</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>paying </sg>,;
+<sg>paid</sg>,;
+<sg>owing nothing, out of debt, all straight</sg>,;
+<sg>unowed, never indebted</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>to the tune of</sg>,;
+<sg>on the nail, money down</sg>,;
+<br>
+</paragraph>

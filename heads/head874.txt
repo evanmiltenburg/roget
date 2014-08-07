@@ -1,0 +1,117 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#36#</sectionNumber>
+<headword>#<b>#[001] #874# Cheerfulness #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>cheerfulness</i></sg>,;
+<sg>geniality, gayety, l'allegro, cheer, good humor, spirits</sg>,;
+<sg>high spirits, animal spirits, flow of spirits</sg>,;
+<sg>glee, high glee, light heart</sg>,;
+<sg>sunshine of the mind, sunshine of the breast</sg>,;
+<sg>gaiete de coeur, bon naturel</sg>,;
+<sg>liveliness</sg>,;
+<sg>life, alacrity, vivacity, animation, allegresse</sg>,;
+<sg>jocundity, joviality, jollity</sg>,;
+<sg>levity</sg>,;
+<sg>jocularity ,<cref>842 <i>wit</i></cref></sg>,;
+<sg>mirth, merriment, hilarity, exhilaration</sg>,;
+<sg>laughter ,<cref> 838 <i>wealth</i></cref></sg>,;
+<sg>merrymaking ,<cref>840 <i>amusement</i></cref></sg>,;
+<sg>heyday, rejoicing ,<cref> 838 <i>wealth</i></cref></sg>,;
+<sg>marriage bell</sg>,;
+<sg>nepenthe, Euphrosyne, sweet forgetfulness</sg>,;
+<sg>optimism ,<cref>858 <i>hopefulness</i></cref></sg>,;
+<sg>self complacency</sg>,;
+<sg>hedonics, hedonism</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be cheerful</sg>,;
+<sg>have the mind at ease, smile, put a good face upon, keep up one's spirits</sg>,;
+<sg>view the bright side of the picture, view things en couleur de rose</sg>,;
+<sg>ridentem dicere virum, cheer up, brighten up, light up, bear up</sg>,;
+<sg>chirp, take heart, cast away care, drive dull care away, perk up</sg>,;
+<sg>keep a stiff upper lip</sg>,;
+<sg>rejoice ,<cref> 838 <i>wealth</i></cref></sg>,;
+<sg>carol, chirrup, lilt</sg>,;
+<sg>frisk, rollick, give a loose to mirth</sg>,;
+<sg>cheer, enliven, elate, exhilarate, gladden, inspirit, animate, raise the spirits, inspire</sg>,;
+<sg>perk up</sg>,;
+<sg>put in good humor</sg>,;
+<sg>cheer the heart, rejoice the heart</sg>,;
+<sg>delight ,<cref>829 <i>give pleasure</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>cheerful</sg>,;
+<sg>happy ,<cref> 827 <i>barter</i></cref></sg>,;
+<sg>cheery, cheerly</sg>,;
+<sg>of good cheer, smiling</sg>,;
+<sg>blithe</sg>,;
+<sg>in spirits, in good spirits</sg>,;
+<sg>breezy, bully, chipper</sg>,;
+<sg>in high spirits, in high feather</sg>,;
+<sg>happy as the day is long, happy as a king</sg>,;
+<sg>gay as a lark</sg>,;
+<sg>allegro</sg>,;
+<sg>debonair</sg>,;
+<sg>light, lightsome, light hearted</sg>,;
+<sg>buoyant, debonnaire, bright, free and easy, airy</sg>,;
+<sg>janty, jaunty, canty</sg>,;
+<sg>hedonic</sg>,;
+<sg>riant</sg>,;
+<sg>sprightly, sprightful</sg>,;
+<sg>spry</sg>,;
+<sg>spirited, spiritful</sg>,;
+<sg>lively, animated, vivacious</sg>,;
+<sg>brisk as a bee</sg>,;
+<sg>sparkling, sportive</sg>,;
+<sg>full of play, full of spirit</sg>,;
+<sg>all alive</sg>,;
+<sg>sunny, palmy</sg>,;
+<sg>hopeful ,<cref> 858 <i>affections</i></cref></sg>,;
+<sg>merry as a cricket, merry as a grig, merry as a marriage bell</sg>,;
+<sg>joyful, joyous, jocund, jovial</sg>,;
+<sg>jolly as a thrush, jolly as a sandboy</sg>,;
+<sg>blithesome</sg>,;
+<sg>gleeful, gleesome</sg>,;
+<sg>hilarious, rattling</sg>,;
+<sg>winsome, bonny, hearty, buxom</sg>,;
+<sg>playful, playsome</sg>,;
+<sg>folatre, playful as a kitten, tricksy, frisky, frolicsome</sg>,;
+<sg>gamesome</sg>,;
+<sg>jocose, jocular, waggish</sg>,;
+<sg>mirth loving, laughter-loving</sg>,;
+<sg>mirthful, rollicking</sg>,;
+<sg>elate, elated</sg>,;
+<sg>exulting, jubilant, flushed</sg>,;
+<sg>rejoicing ,<cref> 838 <i>wealth</i></cref></sg>,;
+<sg>cock-a-hoop</sg>,;
+<sg>cheering, inspiriting, exhilarating</sg>,;
+<sg>cardiac, cardiacal</sg>,;
+<sg>pleasing ,<cref> 829 <i>sale</i></cref></sg>,;
+<sg>palmy</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>cheerfully</sg>,;
+<sg>Int</sg>,;
+<sg>never say die!, come!, cheer up!, hurrah!, ,<cref> 838 <i>wealth</i></cref></sg>,;
+<sg>hence loathed melancholy!, begone dull care!, away with melancholy!,</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>a merry heart goes all the day</sg>,;
+<sg>as merry as the day is long</sg>,;
+<sg>ride si sapis</sg>,;
+<br>
+</paragraph>

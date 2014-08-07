@@ -1,0 +1,90 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#2#</sectionNumber>
+<headword>#<b>#[001] #9# Relation #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>relation, </i>bearing, reference, connection, concern, cognation</sg>,;
+<sg>correlation ,<cref> 12 <i>correlation</i></cref></sg>,;
+<sg>analogy</sg>,;
+<sg>similarity ,<cref> 17 <i>nonuniformity</i></cref></sg>,;
+<sg>affinity, homology, alliance, homogeneity, association</sg>,;
+<sg>approximation ,<cref>197 <i>nearness</i></cref></sg>,;
+<sg>filiation ,<cref>11 <i>consanguinity</i></cref></sg>,;
+<sg>interest</sg>,;
+<sg>relevancy ,<cref> 23 <i>copy</i></cref></sg>,;
+<sg>dependency, relationship, relative position</sg>,;
+<sg>comparison ,<cref> 464 <i>optical instruments</i></cref></sg>,;
+<sg>ratio, proportion</sg>,;
+<sg>link, tie, bond of union</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be related</sg>,;
+<sg>have a relation</sg>,;
+<sg>relate to, refer to</sg>,;
+<sg>bear upon, regard, concern, touch, affect, have to do with</sg>,;
+<sg>pertain to, belong to, appertain to</sg>,;
+<sg>answer to</sg>,;
+<sg>interest</sg>,;
+<sg>bring into relation with, bring to bear upon</sg>,;
+<sg>connect, associate, draw a parallel</sg>,;
+<sg>link ,<cref> 43 <i>decrement</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>relative</sg>,;
+<sg>correlative ,<cref> 12 <i>correlation</i></cref></sg>,;
+<sg>cognate</sg>,;
+<sg>relating to</sg>,;
+<sg>relative to, in relation with, referable or referrible to</sg>,;
+<sg>belonging to</sg>,;
+<sg>appurtenant to, in common with</sg>,;
+<sg>related, connected</sg>,;
+<sg>implicated, associated, affiliated, allied to</sg>,;
+<sg>en rapport, in touch with</sg>,;
+<sg>approximative, approximating</sg>,;
+<sg>proportional, proportionate, proportionable</sg>,;
+<sg>allusive, comparable</sg>,;
+<sg>in the same category ,<cref> 75 <i>term</i></cref></sg>,;
+<sg>like ,<cref> 17 <i>nonuniformity</i></cref></sg>,;
+<sg>relevant ,<cref>23 <i>apt</i></cref></sg>,;
+<sg>applicable, equiparant</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>relatively</sg>,;
+<sg>pertinently ,<cref> 23 <i>copy</i></cref></sg>,;
+<sg>thereof</sg>,;
+<sg>as to, as for, as respects, as regards</sg>,;
+<sg>about</sg>,;
+<sg>concerning</sg>,;
+<sg>anent</sg>,;
+<sg>relating to, as relates to</sg>,;
+<sg>with relation, with reference to, with respect to, with regard to</sg>,;
+<sg>in respect of</sg>,;
+<sg>while speaking of, a propos of</sg>,;
+<sg>in connection with</sg>,;
+<sg>by the way, by the by</sg>,;
+<sg>whereas</sg>,;
+<sg>for as much as, in as much as</sg>,;
+<sg>in point of, as far as</sg>,;
+<sg>on the part of, on the score of</sg>,;
+<sg>quoad hoc</sg>,;
+<sg>pro re nata</sg>,;
+<sg>under the head of ,<cref>75 <i>class</i></cref>, of</sg>,;
+<sg>in the matter of, in re</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>thereby hangs a tale</sg>,;
+<br>
+</paragraph>

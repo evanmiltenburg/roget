@@ -1,0 +1,61 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#32#</sectionNumber>
+<headword>#<b>#[001] #793# Consent #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>consent</i></sg>,;
+<sg>assent ,<cref> 488 <i>identification</i></cref></sg>,;
+<sg>acquiescence</sg>,;
+<sg>approval ,<cref> 931 <i>sociality</i></cref></sg>,;
+<sg>compliance, agreement, concession</sg>,;
+<sg>yieldance, yieldingness</sg>,;
+<sg>accession, acknowledgment, acceptance, agnition</sg>,;
+<sg>settlement, ratification, confirmation, adjustment</sg>,;
+<sg>permit ,<cref>760 <i>permission</i></cref></sg>,;
+<sg>promise ,<cref> 768 <i>politics</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>consent</sg>,;
+<sg>assent ,<cref> 488 <i>identification</i></cref></sg>,;
+<sg>yield assent, admit, allow, concede, grant, yield</sg>,;
+<sg>come round, come over</sg>,;
+<sg>give into, acknowledge, agnize, give consent, comply with, acquiesce, agree to, fall in with, accede, accept, embrace an offer, close with, take at one's word, have no objection</sg>,;
+<sg>satisfy, meet one's wishes, settle, come to terms ,<cref> 488 <i>identification</i></cref></sg>,;
+<sg>not refuse ,<cref> 764 <i>adversity</i></cref></sg>,;
+<sg>turn a willing ear ,<cref>602 <i>willingness</i></cref></sg>,;
+<sg>jump at</sg>,;
+<sg>deign, vouchsafe</sg>,;
+<sg>promise ,<cref> 768 <i>politics</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>consenting</sg>,;
+<sg>squeezable</sg>,;
+<sg>agreed ,<cref>488 <i>assent</i></cref></sg>,;
+<sg>unconditional</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>OK, yes ,<cref>488 <i>assent</i></cref></sg>,;
+<sg>by all means ,<cref>602 <i>willingly</i></cref></sg>,;
+<sg>no problem</sg>,;
+<sg>if you please, as you please</sg>,;
+<sg>be it so, so be it, well and good, of course</sg>,;
+<sg>please do</sg>,;
+<sg>don't hesitate</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>chi tace accousente</sg>,;
+<br>
+</paragraph>

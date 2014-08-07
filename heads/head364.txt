@@ -1,0 +1,48 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#14#</sectionNumber>
+<headword>#<b>#[001] #364# Bubble #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>bubble; cloud, </i>bubble, foam, froth, head, spume, lather, suds, spray, surf, yeast, barm, spindrift</sg>,;
+<sg>cloud, vapor, fog, mist, haze, steam, geyser</sg>,;
+<sg>scud, messenger, rack, nimbus</sg>,;
+<sg>cumulus, woolpack, cirrus, stratus</sg>,;
+<sg>cirrostratus, cumulostratus</sg>,;
+<sg>cirrocumulus</sg>,;
+<sg>mackerel sky, mare's tale, dirty sky</sg>,;
+<sg>curl cloud</sg>,;
+<sg>frost smoke</sg>,;
+<sg>thunderhead</sg>,;
+<sg>nephelognosy</sg>,;
+<sg>nephograph, nephology</sg>,;
+<sg>effervescence, fermentation</sg>,;
+<sg>bubbling</sg>,;
+<sg>nebula</sg>,;
+<sg>cloudliness ,<cref>426 <i>opacity</i></cref></sg>,;
+<sg>nebulosity ,<cref>422 <i>dimness</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>bubble, boil, foam, froth, mantle, sparkle, guggle, gurgle</sg>,;
+<sg>effervesce, ferment, fizzle</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>bubbling</sg>,;
+<sg>frothy, nappy, effervescent, sparkling, mousseux, frothy, up</sg>,;
+<sg>cloudy</sg>,;
+<sg>thunderheaded</sg>,;
+<sg>vaporous, nebulous, overcast</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>the lowring element scowls o'er the darkened landscip</sg>,;
+<br>
+</paragraph>

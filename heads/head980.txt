@@ -1,0 +1,83 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#38#</sectionNumber>
+<headword>#<b>#[001] #980# Accusation #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>accusation, </i>charge, imputation, slur, inculpation, exprobration, delation</sg>,;
+<sg>crimination</sg>,;
+<sg>incrimination, accrimination, recrimination</sg>,;
+<sg>tu quoque argument</sg>,;
+<sg>invective ,<cref> 932 <i>exclusion</i></cref></sg>,;
+<sg>denunciation, denouncement</sg>,;
+<sg>libel, challenge, citation, arraignment</sg>,;
+<sg>impeachment, appeachment</sg>,;
+<sg>indictment, bill of indictment, true bill</sg>,;
+<sg>lawsuit ,<cref> 969 <i>exemption</i></cref></sg>,;
+<sg>condemnation ,<cref> 971 <i>disrespect</i></cref></sg>,;
+<sg>gravamen of a charge, head and front of one's offending, argumentum ad hominem</sg>,;
+<sg>scandal ,<cref>934 <i>detraction</i></cref></sg>,;
+<sg>scandalum magnatum</sg>,;
+<sg>accuser, prosecutor, plaintiff</sg>,;
+<sg>relator, informer</sg>,;
+<sg>appellant</sg>,;
+<sg>accused, defendant, prisoner, perpetrator, panel, respondent</sg>,;
+<sg>litigant</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>accuse, charge, tax, impute, twit, taunt with, reproach</sg>,;
+<sg>brand with reproach</sg>,;
+<sg>stigmatize, slur</sg>,;
+<sg>cast a stone at, cast a slur on</sg>,;
+<sg>incriminate, criminate</sg>,;
+<sg>inculpate, implicate</sg>,;
+<sg>call to account ,<cref>932 <i>censure</i></cref></sg>,;
+<sg>take to blame, take to task</sg>,;
+<sg>put in the black book</sg>,;
+<sg>inform against, indict, denounce, arraign</sg>,;
+<sg>impeach, appeach</sg>,;
+<sg>have up, show up, pull up</sg>,;
+<sg>challenge, cite, lodge a complaint</sg>,;
+<sg>prosecute, bring an action against ,<cref> 969 <i>exemption</i></cref></sg>,;
+<sg>blow upon</sg>,;
+<sg>charge with, saddle with</sg>,;
+<sg>lay to one's door, lay charge</sg>,;
+<sg>lay the blame on, bring home to</sg>,;
+<sg>cast in one's teeth, throw in one's teeth</sg>,;
+<sg>cast the first stone at</sg>,;
+<sg>have a rod in pickle for, keep a rod in pickle for</sg>,;
+<sg>have a crow to pluck with</sg>,;
+<sg>trump up a charge</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>accusing</sg>,;
+<sg>accusatory, accusative</sg>,;
+<sg>imputative, denunciatory</sg>,;
+<sg>recriminatory, criminatory</sg>,;
+<sg>accused</sg>,;
+<sg>suspected</sg>,;
+<sg>under suspicion, under a cloud, under surveillance</sg>,;
+<sg>in custody, in detention</sg>,;
+<sg>in the lockup, in the watch house, in the house of detention</sg>,;
+<sg>accusable, imputable</sg>,;
+<sg>indefensible, inexcusable</sg>,;
+<sg>unpardonable, unjustifiable</sg>,;
+<sg>vicious ,<cref> 845 <i>receipt</i></cref></sg>,;
+<sg>Int</sg>,;
+<sg>look at home</sg>,;
+<sg>tu quoque ,<cref>718 <i>retaliation</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>the breath of accusation kills an innocent name</sg>,;
+<sg>thou can'st not say I did it</sg>,;
+<br>
+</paragraph>

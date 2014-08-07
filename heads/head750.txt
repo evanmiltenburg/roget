@@ -1,0 +1,50 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#29#</sectionNumber>
+<headword>#<b>#[001] #750# Peace #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>peace</i></sg>,;
+<sg>amity ,<cref>888 <i>friendship</i></cref></sg>,;
+<sg>harmony ,<cref>714 <i>concord</i></cref></sg>,;
+<sg>tranquility, calm ,<cref>265 <i>quiescence</i></cref></sg>,;
+<sg>truce, peace treaty, accord ,<cref>723 <i>pacification</i></cref></sg>,;
+<sg>peace pipe, pipe of peace, calumet of peace</sg>,;
+<sg>piping time of peace, quiet life</sg>,;
+<sg>neutrality</sg>,;
+<sg>dove of peace, white dove</sg>,;
+<sg>dove</sg>,;
+<sg>pax Romana</sg>,;
+<sg>Pax Americana</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be at peace</sg>,;
+<sg>keep the peace ,<cref>714 <i>concord</i></cref></sg>,;
+<sg>make peace ,<cref> 723 <i>director</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>pacific</sg>,;
+<sg>peaceable, peaceful</sg>,;
+<sg>calm, tranquil, untroubled, halcyon</sg>,;
+<sg>bloodless</sg>,;
+<sg>neutral</sg>,;
+<sg>dovish</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>the storm blown over</sg>,;
+<sg>the lion lies down with the lamb</sg>,;
+<sg>all quiet on the Potomac</sg>,;
+<sg>paritur pax bello</sg>,;
+<sg>peace hath her victories no less renowned than war</sg>,;
+<sg>they make a desert and they call it peace</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,30 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#15#</sectionNumber>
+<headword>#<b>#[001] #381# Botany #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>botany</i></sg>,;
+<sg>physiological botany, structural botany, systematic botany</sg>,;
+<sg>phytography, phytology, phytotomy</sg>,;
+<sg>vegetable physiology, herborization, dendrology, mycology, fungology, algology</sg>,;
+<sg>flora, romona</sg>,;
+<sg>botanic garden ,<cref>371 <i>garden</i></cref></sg>,;
+<sg>hortus siccus, herbarium, herbal</sg>,;
+<sg>botanist </sg>,;
+<sg>herbist, herbarist, herbalist, herborist, herbarian</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>botanize, herborize</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>botanical</sg>,;
+<sg>botanic</sg>,;
+<br>
+</paragraph>

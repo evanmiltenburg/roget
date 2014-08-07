@@ -1,0 +1,40 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#29#</sectionNumber>
+<headword>#<b>#[001] #740# Auxiliary #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>auxiliary</i></sg>,;
+<sg>recruit</sg>,;
+<sg>assistant</sg>,;
+<sg>adjuvant, adjutant</sg>,;
+<sg>ayudante, coaid</sg>,;
+<sg>adjunct</sg>,;
+<sg>help, helper, help mate, helping hand</sg>,;
+<sg>midwife</sg>,;
+<sg>colleague, partner, mate, confrere, cooperator</sg>,;
+<sg>coadjutor, coadjutrix</sg>,;
+<sg>collaborator</sg>,;
+<sg>ally</sg>,;
+<sg>friend ,<cref> 890 <i>vulgarity</i></cref>, confidant, fidus Achates, pal, buddy, alter ego</sg>,;
+<sg>confederate</sg>,;
+<sg>accomplice</sg>,;
+<sg>complice</sg>,;
+<sg>accessory, accessory after the fact</sg>,;
+<sg>particeps criminis</sg>,;
+<sg>socius criminis</sg>,;
+<sg>aide-de-camp, secretary, clerk, associate, marshal</sg>,;
+<sg>right-hand, right-hand man, Friday, girl Friday, man Friday, gopher, gofer</sg>,;
+<sg>candle- holder, bottle-holder</sg>,;
+<sg>handmaid</sg>,;
+<sg>servant ,<cref> 746 <i>defense</i></cref></sg>,;
+<sg>puppet, cat's-paw, jackal</sg>,;
+<sg>tool, dupe, stooge, ame damnee</sg>,;
+<sg>satellite, adherent</sg>,;
+<sg>votary</sg>,;
+<sg>sectarian, secretary</sg>,;
+<sg>seconder, backer, upholder, abettor, advocate, partisan, champion, patron, friend at court, mediator</sg>,;
+<sg>angel (theater, entertainment)</sg>,;
+<sg>friend in need, Jack at a pinch, deus ex machina, guardian angel, tutelary genius</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,120 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#26#</sectionNumber>
+<headword>#<b>#[001] #630# Resolution #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>resolution, </i>determination, will</sg>,;
+<sg>iron will, unconquerable will</sg>,;
+<sg>will of one's own, decision, resolution</sg>,;
+<sg>backbone</sg>,;
+<sg>clear grit, true grit, grit</sg>,;
+<sg>sand, strength of mind, strength of will</sg>,;
+<sg>resolve ,<cref>620 <i>intent</i></cref></sg>,;
+<sg>firmness ,<cref>150 <i>stability</i></cref></sg>,;
+<sg>energy, manliness, vigor</sg>,;
+<sg>game, pluck</sg>,;
+<sg>resoluteness ,<cref>861 <i>courage</i></cref></sg>,;
+<sg>zeal ,<cref> 682 <i>uncleanness</i></cref></sg>,;
+<sg>aplomb</sg>,;
+<sg>desperation</sg>,;
+<sg>devotion, devotedness</sg>,;
+<sg>mastery over self</sg>,;
+<sg>self control, self command, self possession, self reliance, self government, self restraint, self conquest, self denial</sg>,;
+<sg>moral courage, moral strength</sg>,;
+<sg>perseverance ,<cref> 604 <i>elegance</i></cref></sg>,;
+<sg>1</sg>,;
+<sg>tenacity</sg>,;
+<sg>obstinacy ,<cref> 606 <i>voice</i></cref></sg>,;
+<sg>bulldog</sg>,;
+<sg>British lion</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>have determination</sg>,;
+<sg>know one's own mind</sg>,;
+<sg>be resolved</sg>,;
+<sg>make up one's mind, will, resolve, determine</sg>,;
+<sg>decide ,<cref>480 <i>judgment</i></cref></sg>,;
+<sg>form a determination, come to a determination, come to a resolution, come to a resolve</sg>,;
+<sg>conclude, fix, seal, determine once for all, bring to a crisis, drive matters to an extremity</sg>,;
+<sg>take a decisive step ,<cref>609 <i>choice</i></cref></sg>,;
+<sg>take upon oneself ,<cref>676 <i>undertake</i></cref></sg>,;
+<sg>devote oneself to, give oneself up to</sg>,;
+<sg>throw away the scabbard, kick down the ladder, nail one's colors to the mast, set one's back against the wall, set one's teeth, put one's foot down, take one's stand</sg>,;
+<sg>stand firm ,<cref>150 <i>stability</i></cref></sg>,;
+<sg>steel oneself</sg>,;
+<sg>stand no nonsense, not listen to the voice of the charmer</sg>,;
+<sg>buckle to</sg>,;
+<sg>buckle oneself put one's shoulder to the wheel, lay one's shoulder to the wheel, set one's shoulder to the wheel</sg>,;
+<sg>put one's heart into</sg>,;
+<sg>run the gauntlet, make a dash at, take the bull by the horns</sg>,;
+<sg>rush in medias res, plunge in medias res</sg>,;
+<sg>go in for</sg>,;
+<sg>insist upon, make a point of</sg>,;
+<sg>set one's heart upon, set one's mind upon</sg>,;
+<sg>stick at nothing, stop at nothing</sg>,;
+<sg>make short work of ,<cref>682 <i>activity</i></cref></sg>,;
+<sg>not stick at trifles</sg>,;
+<sg>go all lengths, go the limit, go the whole hog</sg>,;
+<sg>persist ,<cref>604 <i>persevere</i></cref></sg>,;
+<sg>1</sg>,;
+<sg>go through fire and water, ride the tiger, ride in the whirlwind and direct the storm</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>resolved</sg>,;
+<sg>determined</sg>,;
+<sg>strong-willed, strong-minded</sg>,;
+<sg>resolute ,<cref>861 <i>brave</i></cref></sg>,;
+<sg>self-possessed</sg>,;
+<sg>decided, definitive, peremptory, tranchant</sg>,;
+<sg>unhesitating, unflinching, unshrinking</sg>,;
+<sg>firm, iron, gritty, indomitable, game to the backbone</sg>,;
+<sg>inexorable, relentless, not to be shaken, not to be put down</sg>,;
+<sg>tenax propositi</sg>,;
+<sg>inflexible ,<cref>323 <i>hard</i></cref></sg>,;
+<sg>obstinate ,<cref> 606 <i>voice</i></cref></sg>,;
+<sg>steady ,<cref>604 <i>persevering</i></cref></sg>,;
+<sg>1</sg>,;
+<sg>earnest, serious</sg>,;
+<sg>set upon, bent upon, intent upon</sg>,;
+<sg>steel against, proof against</sg>,;
+<sg>in utrumque paratus</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>resolutely</sg>,;
+<sg>in earnest, in good earnest</sg>,;
+<sg>seriously, joking apart, earnestly, heart and soul</sg>,;
+<sg>on one's mettle</sg>,;
+<sg>manfully, like a man, with a high hand</sg>,;
+<sg>with a strong hand ,<cref>686 <i>exertion</i></cref></sg>,;
+<sg>at any rate, at any risk, at any hazard, at any price, at any cost, at any sacrifice</sg>,;
+<sg>at all hazards, at all risks, at all events</sg>,;
+<sg>a' bis ou a blanc</sg>,;
+<sg>cost what it may</sg>,;
+<sg>coute</sg>,;
+<sg>a tort et a travers</sg>,;
+<sg>once for all</sg>,;
+<sg>neck or nothing</sg>,;
+<sg>rain or shine</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>spes sibi quisque</sg>,;
+<sg>celui qui veut celui-la peut</sg>,;
+<sg>chi non s'arrischia non guadagna</sg>,;
+<sg>frangas non flectes</sg>,;
+<sg>manu forti</sg>,;
+<sg>tentanda via est</sg>,;
+<br>
+</paragraph>

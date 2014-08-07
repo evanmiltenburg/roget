@@ -1,0 +1,159 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#27#</sectionNumber>
+<headword>#<b>#[001] #691# Remedy #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>remedy, </i>help, cure, redress</sg>,;
+<sg>medicine, medicament</sg>,;
+<sg>diagnosis, medical examination</sg>,;
+<sg>medical treatment</sg>,;
+<sg>surgery</sg>,;
+<sg>preventive medicine</sg>,;
+<sg>clinical thermometer, stethoscope, X-ray machine</sg>,;
+<sg>anthelmintic</sg>,;
+<sg>antidote, antifebrile, antipoison, counterpoison, antitoxin, antispasmodic</sg>,;
+<sg>bracer, faith cure, placebo</sg>,;
+<sg>helminthagogue, lithagogue, pick-meup, stimulant, tonic</sg>,;
+<sg>vermifuge, prophylactic, corrective, restorative</sg>,;
+<sg>sedative ,<cref> 174 <i>posterity</i></cref></sg>,;
+<sg>palliative</sg>,;
+<sg>febrifuge</sg>,;
+<sg>alterant, alterative</sg>,;
+<sg>specific</sg>,;
+<sg>antiseptic, emetic, analgesic, pain-killer, antitussive, antiinflammatory, antibiotic, antiviral, antifungal, carminative</sg>,;
+<sg>Nepenthe, Mithridate</sg>,;
+<sg>cure, treatment, regimen</sg>,;
+<sg>radical cure, perfect cure, certain cure</sg>,;
+<sg>sovereign remedy</sg>,;
+<sg>examination, diagnosis, diagnostics</sg>,;
+<sg>analysis, urinalysis, biopsy, radiology</sg>,;
+<sg>medicine, physic, Galenicals, simples, drug, pharmaceutical, prescription, potion, draught, dose, pill, bolus, injection, infusion, drip, suppository, electuary</sg>,;
+<sg>linctus, lincture</sg>,;
+<sg>medicament</sg>,;
+<sg>pharmacon</sg>,;
+<sg>nostrum, receipt, recipe, prescription</sg>,;
+<sg>catholicon, panacea, elixir, elixir vitae, philosopher's stone</sg>,;
+<sg>balm, balsam, cordial, theriac, ptisan</sg>,;
+<sg>agueweed, arnica, benzoin, bitartrate of potash, boneset, calomel, catnip, cinchona, cream of tartar, Epsom salts</sg>,;
+<sg>feverroot, feverwort</sg>,;
+<sg>friar's balsam, Indian sage</sg>,;
+<sg>ipecac, ipecacuanha</sg>,;
+<sg>jonquil, mercurous chloride, Peruvian bark</sg>,;
+<sg>quinine, quinquina</sg>,;
+<sg>sassafras, yarrow</sg>,;
+<sg>salve, ointment, cerate, oil, lenitive, lotion, cosmetic</sg>,;
+<sg>plaster</sg>,;
+<sg>epithem, embrocation, liniment, cataplasm, sinapism, arquebusade, traumatic, vulnerary, pepastic, poultice, collyrium, depilatory</sg>,;
+<sg>emplastrum</sg>,;
+<sg>eyewater, vesicant, vesicatory</sg>,;
+<sg>compress, pledget</sg>,;
+<sg>bandage ,<cref>215 <i>support</i></cref></sg>,;
+<sg>treatment, medical treatment, regimen</sg>,;
+<sg>dietary, dietetics</sg>,;
+<sg>vis medicatrix, vis medicatrix naturae</sg>,;
+<sg>medecine expectante</sg>,;
+<sg>bloodletting, bleeding, venesection, phlebotomy, cupping, sanguisae, leeches</sg>,;
+<sg>operation, surgical operation</sg>,;
+<sg>transfusion, infusion, intravenous infusion, catheter, feeding tube</sg>,;
+<sg>prevention, preventative medicine, immunization, inoculation, vaccination, vaccine, shot, booster, gamma globulin</sg>,;
+<sg>pharmacy, pharmacology, pharmaceutics</sg>,;
+<sg>pharmacopoeia, formulary</sg>,;
+<sg>acology, Materia Medica, therapeutics, posology</sg>,;
+<sg>homeopathy, allopathy, heteropathy, osteopathy, hydropathy</sg>,;
+<sg>cold water cure</sg>,;
+<sg>dietetics</sg>,;
+<sg>surgery, chirurgery, chirurgy</sg>,;
+<sg>healing art, leechcraft</sg>,;
+<sg>orthopedics, orthopedy, orthopraxy</sg>,;
+<sg>pediatrics</sg>,;
+<sg>dentistry, midwifery, obstetrics, gynecology</sg>,;
+<sg>tocology</sg>,;
+<sg>sarcology</sg>,;
+<sg>hospital, infirmary</sg>,;
+<sg>pesthouse, lazarhouse</sg>,;
+<sg>lazaretto</sg>,;
+<sg>lock hospital</sg>,;
+<sg>maison de sante</sg>,;
+<sg>ambulance</sg>,;
+<sg>dispensary</sg>,;
+<sg>dispensatory, drug store, pharmacy, apothecary, druggist, chemist</sg>,;
+<sg>Hotel des Invalides</sg>,;
+<sg>sanatorium, spa, pump room, well</sg>,;
+<sg>hospice</sg>,;
+<sg>Red Cross</sg>,;
+<sg>doctor, physician, surgeon</sg>,;
+<sg>medical practitioner, general practitioner, specialist</sg>,;
+<sg>medical attendant, apothecary, druggist</sg>,;
+<sg>leech</sg>,;
+<sg>osteopath, osteopathist</sg>,;
+<sg>optometrist, ophthalmologist</sg>,;
+<sg>internist, oncologist, gastroenterologist</sg>,;
+<sg>epidemiologist, public health specialist</sg>,;
+<sg>dermatologist</sg>,;
+<sg>podiatrist</sg>,;
+<sg>witch doctor, shaman, faith healer, quack, exorcist</sg>,;
+<sg>Aesculapius, Hippocrates, Galen</sg>,;
+<sg>accoucheur, accoucheuse, midwife, oculist, aurist</sg>,;
+<sg>operator</sg>,;
+<sg>nurse, registered nurse, practical nurse, monthly nurse, sister</sg>,;
+<sg>nurse's aide, candystriper</sg>,;
+<sg>dresser</sg>,;
+<sg>bonesetter</sg>,;
+<sg>pharmaceutist, pharmacist, druggist, chemist, pharmacopolist</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>apply a remedy</sg>,;
+<sg>doctor, dose, physic, nurse, minister to, attend, dress the wounds, plaster</sg>,;
+<sg>drain</sg>,;
+<sg>prevent ,<cref> 706 <i>use</i></cref></sg>,;
+<sg>relieve ,<cref> 834 <i>securities</i></cref></sg>,;
+<sg>palliate ,<cref> 658 <i>circuit</i></cref></sg>,;
+<sg>restore ,<cref> 660 <i>instrumentality</i></cref></sg>,;
+<sg>drench with physic</sg>,;
+<sg>bleed, cup, let blood</sg>,;
+<sg>manicure</sg>,;
+<sg>operate, excise, cut out</sg>,;
+<sg>incise</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>remedial</sg>,;
+<sg>restorative ,<cref> 660 <i>instrumentality</i></cref></sg>,;
+<sg>corrective, palliative, healing</sg>,;
+<sg>sanatory, sanative</sg>,;
+<sg>prophylactic, preventative, immunizing</sg>,;
+<sg>salutiferous ,<cref>656 <i>salutary</i></cref></sg>,;
+<sg>medical, medicinal</sg>,;
+<sg>therapeutic, chirurgical, epulotic, paregoric, tonic, corroborant, analeptic, balsamic, anodyne, hypnotic, neurotic, narcotic, sedative, lenitive, demulcent, emollient</sg>,;
+<sg>depuratory</sg>,;
+<sg>detersive, detergent</sg>,;
+<sg>abstersive, disinfectant, febrifugal, alterative</sg>,;
+<sg>traumatic, vulnerary</sg>,;
+<sg>allopathic, heteropathic, homeopathic, hydropathic</sg>,;
+<sg>anthelmintic</sg>,;
+<sg>antifebrile, antiluetic</sg>,;
+<sg>aperient, chalybeate, deobstruent, depurative, laxative, roborant</sg>,;
+<sg>dietetic, alimentary</sg>,;
+<sg>nutritious, nutritive</sg>,;
+<sg>peptic</sg>,;
+<sg>alexipharmic, alexiteric</sg>,;
+<sg>remediable, curable</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>aux grands maux les grands remedes</sg>,;
+<sg>Dios que da la llaga da la medicina</sg>,;
+<sg>para todo hay remedio sino para la muerte</sg>,;
+<sg>temporis ars medicina fere est</sg>,;
+<sg>the remedy is worse than the disease</sg>,;
+<sg>throw physic to the dogs, I'll none of it</sg>,;
+<br>
+</paragraph>

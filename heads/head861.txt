@@ -1,0 +1,120 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#35#</sectionNumber>
+<headword>#<b>#[001] #861# Insensibility #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>insensibility, </i>insensibleness</sg>,;
+<sg>moral insensibility</sg>,;
+<sg>inertness, inertia</sg>,;
+<sg>vis inertiae</sg>,;
+<sg>impassibility, impassibleness</sg>,;
+<sg>inappetency, apathy, phlegm, dullness, hebetude, supineness, lukewarmness</sg>,;
+<sg>cold fit, cold blood, cold heart</sg>,;
+<sg>coldness, coolness</sg>,;
+<sg>frigidity, sang froid</sg>,;
+<sg>stoicism, imperturbation ,<cref>826 <i>inexcitability</i></cref></sg>,;
+<sg>nonchalance, unconcern, dry eyes</sg>,;
+<sg>insouciance ,<cref>866 <i>indifference</i></cref></sg>,;
+<sg>recklessness ,<cref> 863 <i>excitability</i></cref></sg>,;
+<sg>callousness</sg>,;
+<sg>heart of stone, stock and stone, marble, deadness</sg>,;
+<sg>torpor, torpidity</sg>,;
+<sg>obstupefaction, lethargy, coma, trance, vegetative state</sg>,;
+<sg>sleep ,<cref> 683 <i>health</i></cref></sg>,;
+<sg>suspended animation</sg>,;
+<sg>stupor, stupefaction</sg>,;
+<sg>paralysis, palsy</sg>,;
+<sg>numbness ,<cref>376 <i>physical insensibility</i></cref></sg>,;
+<sg>neutrality</sg>,;
+<sg>quietism, vegetation</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be insensible</sg>,;
+<sg>have a rhinoceros hide</sg>,;
+<sg>show insensibility</sg>,;
+<sg>not mind, not care, not be affected by</sg>,;
+<sg>have no desire for ,<cref> 866 <i>pain</i></cref></sg>,;
+<sg>have no interest in, feel no interest in, take no interest in</sg>,;
+<sg>nil admirari</sg>,;
+<sg>not care a straw for ,<cref>643 <i>unimportance</i></cref></sg>,;
+<sg>disregard ,<cref>460 <i>neglect</i></cref></sg>,;
+<sg>set at naught ,<cref>483 <i>make light of</i></cref></sg>,;
+<sg>turn a deaf ear to ,<cref>458 <i>inattention</i></cref></sg>,;
+<sg>vegetate</sg>,;
+<sg>render insensible, render callous</sg>,;
+<sg>blunt, obtund, numb, benumb, paralyze, deaden, hebetate, stun, stupefy</sg>,;
+<sg>brutify</sg>,;
+<sg>brutalize</sg>,;
+<sg>chloroform, anaesthetize, put under</sg>,;
+<sg>assify</sg>,;
+<sg>inure</sg>,;
+<sg>harden the heart</sg>,;
+<sg>steel, caseharden, sear</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>insensible, unconscious</sg>,;
+<sg>impassive, impassible</sg>,;
+<sg>blind to, deaf to, dead to</sg>,;
+<sg>unsusceptible, insusceptible</sg>,;
+<sg>unimpressionable, unimpressible</sg>,;
+<sg>passionless, spiritless, heartless, soulless</sg>,;
+<sg>unfeeling, unmoral</sg>,;
+<sg>apathetic</sg>,;
+<sg>leuco-, phlegmatic</sg>,;
+<sg>dull, frigid</sg>,;
+<sg>cold blooded, cold hearted</sg>,;
+<sg>cold as charity</sg>,;
+<sg>flat, maudlin, obtuse, inert, supine, sluggish, torpid, torpedinous, torporific</sg>,;
+<sg>sleepy ,<cref>683 <i>inactive</i></cref></sg>,;
+<sg>languid, half-hearted, tame</sg>,;
+<sg>numbed</sg>,;
+<sg>comatose</sg>,;
+<sg>anaesthetic ,<cref> 376 <i>animality</i></cref></sg>,;
+<sg>stupefied, chloroformed, drugged, stoned</sg>,;
+<sg>palsy-stricken</sg>,;
+<sg>indifferent, lukewarm</sg>,;
+<sg>careless, mindless, regardless</sg>,;
+<sg>inattentive ,<cref> 458 <i>orange</i></cref></sg>,;
+<sg>neglectful ,<cref> 460 <i>vision</i></cref></sg>,;
+<sg>disregarding</sg>,;
+<sg>unconcerned, nonchalant, pococurante, insouciant, sans souci</sg>,;
+<sg>unambitious ,<cref> 866 <i>pain</i></cref></sg>,;
+<sg>unaffected, unruffled, unimpressed, uninspired, unexcited, unmoved, unstirred, untouched, unshocked, unstruck</sg>,;
+<sg>unblushing ,<cref>885 <i>shameless</i></cref></sg>,;
+<sg>unanimated</sg>,;
+<sg>vegetative</sg>,;
+<sg>callous, thick-skinned, hard-nosed, pachydermatous, impervious</sg>,;
+<sg>hardened</sg>,;
+<sg>inured, casehardened</sg>,;
+<sg>steeled against, proof against</sg>,;
+<sg>imperturbable ,<cref>826 <i>inexcitable</i></cref></sg>,;
+<sg>unfelt</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>insensibly</sg>,;
+<sg>aequo animo</sg>,;
+<sg>without being moved, without being touched, without being impressed</sg>,;
+<sg>in cold blood</sg>,;
+<sg>with dry eyes, with withers unwrung</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>never mind</sg>,;
+<sg>macht nichts, it is of no consequence ,<cref>643 <i>unimportant</i></cref></sg>,;
+<sg>it cannot be helped</sg>,;
+<sg>nothing coming amiss</sg>,;
+<sg>it is all the same to, it is all one to</sg>,;
+<br>
+</paragraph>

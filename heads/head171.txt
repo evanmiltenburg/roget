@@ -1,0 +1,11 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#8#</sectionNumber>
+<headword>#<b>#[001] #171# Producer #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>producer, </i>originator, inventor, author, founder, generator, mover, architect, creator, prime mover</sg>,;
+<sg>maker ,<cref>690 <i>agent</i></cref></sg>,;
+<sg>prime mover</sg>,;
+<br>
+</paragraph>

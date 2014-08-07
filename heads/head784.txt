@@ -1,0 +1,20 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#31#</sectionNumber>
+<headword>#<b>#[001] #784# Keeper #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>keeper, </i>custodian, custos, ranger, warder, jailer, gaoler, turnkey, castellan, guard</sg>,;
+<sg>watchdog, watchman</sg>,;
+<sg>Charley</sg>,;
+<sg>chokidar, durwan, hayward</sg>,;
+<sg>sentry, sentinel</sg>,;
+<sg>watch and ward</sg>,;
+<sg>concierge, coast guard, guarda costa, game keeper</sg>,;
+<sg>escort, bodyguard</sg>,;
+<sg>protector, governor, duenna</sg>,;
+<sg>guardian</sg>,;
+<sg>governess ,<cref>540 <i>teacher</i></cref></sg>,;
+<sg>nurse, nanny, babysitter, catsitter, dogsitter, bonne, ayah</sg>,;
+<br>
+</paragraph>

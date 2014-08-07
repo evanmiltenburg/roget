@@ -1,0 +1,52 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#6#</sectionNumber>
+<headword>#<b>#[001] #144# Infrequency #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>infrequency, </i>rareness, rarity</sg>,;
+<sg>fewness ,<cref> 103 <i>quinquesection </i></cref></sg>,;
+<sg>seldomness</sg>,;
+<sg>uncommonness</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be rare</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>unfrequent, infrequent</sg>,;
+<sg>rare, rare as a blue diamond</sg>,;
+<sg>few ,<cref> 103 <i>quinquesection </i></cref></sg>,;
+<sg>scarce</sg>,;
+<sg>almost unheard of, unprecedented, which has not occurred within the memory of the oldest inhabitant, not within one's previous experience</sg>,;
+<sg>not since Adam</sg>,;
+<sg>scarce as hen's teeth</sg>,;
+<sg>one in a million</sg>,;
+<sg>few and far between</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>seldom, rarely, scarcely, hardly</sg>,;
+<sg>not often, not much, infrequently, unfrequently, unoften</sg>,;
+<sg>scarcely, scarcely ever, hardly ever</sg>,;
+<sg>once in a blue moon</sg>,;
+<sg>once</sg>,;
+<sg>once in a blue moon</sg>,;
+<sg>once in a million years</sg>,;
+<sg>once for all, once in a way</sg>,;
+<sg>pro hac vice</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>ein mal kein mal</sg>,;
+<br>
+</paragraph>

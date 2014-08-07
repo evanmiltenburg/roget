@@ -1,0 +1,48 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#6#</sectionNumber>
+<headword>#<b>#[001] #115# Course #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>corridors of time, sweep of time, vesta of time, course of time, progress of time, process of time, succession of time, lapse of time, flow of time, flux of time, stream of time, tract of time, current of time, tide of time, march of time, step of time, flight of time</sg>,;
+<sg>duration ,<cref> 106 <i>zero</i></cref></sg>,;
+<sg>aorist</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>elapse, lapse, flow, run, proceed, advance, pass</sg>,;
+<sg>roll on, wear on, press on</sg>,;
+<sg>flit, fly, slip, slide, glide</sg>,;
+<sg>run its course</sg>,;
+<sg>run out, expire</sg>,;
+<sg>go by, pass by</sg>,;
+<sg>be past ,<cref> 122 <i>priority</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>elapsing</sg>,;
+<sg>aoristic</sg>,;
+<sg>progressive</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>in due time, in due season</sg>,;
+<sg>in in due course, in due process, in the fullness of time</sg>,;
+<sg>in time</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>labitur et labetur</sg>,;
+<sg>truditur dies die</sg>,;
+<sg>fugaces labuntur anni</sg>,;
+<sg>tomorrow and tomorrow and tomorrow creeps in this petty pace from day to day</sg>,;
+<br>
+</paragraph>

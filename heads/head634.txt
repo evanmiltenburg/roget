@@ -1,0 +1,84 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#26#</sectionNumber>
+<headword>#<b>#[001] #634# Tergiversation #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>tergiversation, </i>change of mind, change of intention, change of purpose</sg>,;
+<sg>afterthought</sg>,;
+<sg>tergiversation, recantation</sg>,;
+<sg>palinode, palinody</sg>,;
+<sg>renunciation</sg>,;
+<sg>abjuration, abjurement</sg>,;
+<sg>defection ,<cref>624 <i>relinquishment</i></cref></sg>,;
+<sg>going over</sg>,;
+<sg>apostasy</sg>,;
+<sg>retraction, retractation</sg>,;
+<sg>withdrawal</sg>,;
+<sg>disavowal ,<cref>536 <i>negation</i></cref></sg>,;
+<sg>revocation, revokement</sg>,;
+<sg>reversal</sg>,;
+<sg>repentance ,<cref> 950 <i>philanthropy</i></cref></sg>,;
+<sg>redintegratio amoris</sg>,;
+<sg>coquetry</sg>,;
+<sg>vacillation ,<cref> 605 <i>inelegance</i></cref></sg>,;
+<sg>backsliding</sg>,;
+<sg>volte-face</sg>,;
+<sg>turn coat, turn tippet</sg>,;
+<sg>rat, apostate, renegade</sg>,;
+<sg>convert, pervert</sg>,;
+<sg>proselyte, deserter</sg>,;
+<sg>backslider</sg>,;
+<sg>blackleg, crawfish, scab, mugwump, recidivist</sg>,;
+<sg>time server, time pleaser</sg>,;
+<sg>timist, Vicar of Bray, trimmer, ambidexter</sg>,;
+<sg>weathercock ,<cref>149 <i>changeable</i></cref></sg>,;
+<sg>Janus</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>change one's mind, change one's intention, change one's purpose, change one's note</sg>,;
+<sg>abjure, renounce</sg>,;
+<sg>withdraw from ,<cref>624 <i>relinquish</i></cref></sg>,;
+<sg>waver, vacillate</sg>,;
+<sg>wheel round, turn round, veer round</sg>,;
+<sg>turn a pirouette</sg>,;
+<sg>go over from one side to another, pass from one side to another, change from one side to another, skip from one side to another</sg>,;
+<sg>go to the rightabout</sg>,;
+<sg>box the compass, shift one's ground, go upon another tack</sg>,;
+<sg>apostatize, change sides, go over, rat</sg>,;
+<sg>recant, retract</sg>,;
+<sg>revoke</sg>,;
+<sg>rescind ,<cref>756 <i>abrogate</i></cref></sg>,;
+<sg>recall</sg>,;
+<sg>forswear, unsay</sg>,;
+<sg>come over, come round to an opinion</sg>,;
+<sg>crawfish, crawl</sg>,;
+<sg>draw in one's horns, eat one's words</sg>,;
+<sg>eat the leek, swallow the leek</sg>,;
+<sg>swerve, flinch, back out of, retrace one's steps, think better of it</sg>,;
+<sg>come back return to one's first love</sg>,;
+<sg>turn over a new leaf ,<cref>950 <i>repent</i></cref></sg>,;
+<sg>trim, shuffle, play fast and loose, blow hot and cold, coquet, be on the fence, straddle, bold with the hare but run with the hounds</sg>,;
+<sg>nager entre deux eaux</sg>,;
+<sg>wait to see how the cat jumps, wait to see how the wind blows</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>changeful ,<cref> 149 <i>cessation</i></cref></sg>,;
+<sg>irresolute ,<cref> 605 <i>inelegance</i></cref></sg>,;
+<sg>ductile, slippery as an eel, trimming, ambidextrous, timeserving</sg>,;
+<sg>coquetting</sg>,;
+<sg>revocatory, reactionary</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>a change came o'er the spirit of my dream</sg>,;
+<br>
+</paragraph>

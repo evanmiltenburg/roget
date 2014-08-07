@@ -1,0 +1,21 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#14#</sectionNumber>
+<headword>#<b>#[001] #362# Airpipe #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>airpipe, </i>air pipe, air tube</sg>,;
+<sg>airhole, blowhole, breathinghole, venthole</sg>,;
+<sg>shaft, flue, chimney, funnel, vent, nostril, nozzle, throat, weasand, trachea</sg>,;
+<sg>bronchus, bronchia</sg>,;
+<sg>larynx, tonsils, windpipe, spiracle</sg>,;
+<sg>ventiduct, ventilator</sg>,;
+<sg>louvre, jalousie, Venetian blinds</sg>,;
+<sg>blowpipe ,<cref>349 <i>wind</i></cref></sg>,;
+<sg>pipe ,<cref>260 <i>tube</i></cref></sg>,;
+<sg>jhilmil</sg>,;
+<sg>smokestack</sg>,;
+<sg>screen, window screen</sg>,;
+<sg>' artificial lung, iron lung, heart and lung machine</sg>,;
+<br>
+</paragraph>

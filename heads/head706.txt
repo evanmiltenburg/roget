@@ -1,0 +1,60 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#27#</sectionNumber>
+<headword>#<b>#[001] #706# Use #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>use</i></sg>,;
+<sg>employ, employment</sg>,;
+<sg>exercise, exercitation</sg>,;
+<sg>application, appliance</sg>,;
+<sg>adhibition, disposal</sg>,;
+<sg>consumption</sg>,;
+<sg>agency ,<cref>170 <i>physical</i></cref></sg>,;
+<sg>usufruct</sg>,;
+<sg>usefulness ,<cref> 644 <i>absence of motive</i></cref></sg>,;
+<sg>benefit</sg>,;
+<sg>recourse, resort, avail</sg>,;
+<sg>utilization, service, wear</sg>,;
+<sg>usage</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>use, make use of, employ, put to use</sg>,;
+<sg>put in action, put in operation, put in practice</sg>,;
+<sg>set in motion, set to work</sg>,;
+<sg>ply, work, wield, handle, manipulate</sg>,;
+<sg>play, play off</sg>,;
+<sg>exert, exercise, practice, avail oneself of, profit by, resort to, have recourse to, recur to, take betake oneself to</sg>,;
+<sg>take up with, take advantage of</sg>,;
+<sg>lay one's hands on, try</sg>,;
+<sg>render useful ,<cref> 644 <i>absence of motive</i></cref></sg>,;
+<sg>mold</sg>,;
+<sg>turn to account, turn to use</sg>,;
+<sg>convert to use, utilize</sg>,;
+<sg>work up</sg>,;
+<sg>call into play, bring into play</sg>,;
+<sg>put into requisition</sg>,;
+<sg>call forth, draw forth</sg>,;
+<sg>press into service, enlist into the service</sg>,;
+<sg>bring to bear upon, devote, dedicate, consecrate, apply, adhibit, dispose of</sg>,;
+<sg>make a handle of, make a cat's-paw of</sg>,;
+<sg>fall back upon, make a shift with</sg>,;
+<sg>make the most of, make the best of</sg>,;
+<sg>use up, swallow up</sg>,;
+<sg>consume, absorb, expend</sg>,;
+<sg>tax, task, wear, put to task</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>in use</sg>,;
+<sg>used</sg>,;
+<sg>well-worn, well-trodden</sg>,;
+<sg>useful ,<cref> 644 <i>absence of motive</i></cref></sg>,;
+<sg>subservient ,<cref>631 <i>instrumental</i></cref></sg>,;
+<br>
+</paragraph>

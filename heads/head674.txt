@@ -1,0 +1,119 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#27#</sectionNumber>
+<headword>#<b>#[001] #674# Inutility #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>inutility</i></sg>,;
+<sg>uselessness</sg>,;
+<sg>inefficacy, futility</sg>,;
+<sg>ineptitude, inaptitude</sg>,;
+<sg>unsubservience</sg>,;
+<sg>inadequacy ,<cref>640 <i>insufficiency</i></cref></sg>,;
+<sg>inefficiency, ,<cref>158 <i>incompetence</i></cref></sg>,;
+<sg>unskillfulness ,<cref> 699 <i>preservation</i></cref></sg>,;
+<sg>disservice</sg>,;
+<sg>unfruitfulness  (unproductiveness)</sg>,;
+<sg>169</sg>,;
+<sg>labor in vain, labor lost, labor of Sisyphus</sg>,;
+<sg>lost trouble, lost labor</sg>,;
+<sg>work of Penelope</sg>,;
+<sg>sleeveless errand, wild goose chase, mere farce</sg>,;
+<sg>tautology ,<cref>104 <i>repetition</i></cref></sg>,;
+<sg>supererogation ,<cref>641 <i>redundancy</i></cref></sg>,;
+<sg>vanitas vanitatum, vanity, inanity, worthlessness, nugacity</sg>,;
+<sg>triviality ,<cref>643 <i>unimportance</i></cref></sg>,;
+<sg>caput mortuum, waste paper, dead letter</sg>,;
+<sg>blunt tool</sg>,;
+<sg>litter, rubbish, junk, lumber, odds and ends, cast-off clothes</sg>,;
+<sg>button top</sg>,;
+<sg>shoddy</sg>,;
+<sg>rags, orts, trash, refuse, sweepings, scourings, offscourings, waste, rubble, debris, detritus</sg>,;
+<sg>stubble, leavings</sg>,;
+<sg>broken meat</sg>,;
+<sg>dregs ,<cref>653 <i>dirt</i></cref></sg>,;
+<sg>weeds, tares</sg>,;
+<sg>rubbish heap, dust hole</sg>,;
+<sg>rudera, deads</sg>,;
+<sg>fruges consumere natus</sg>,;
+<sg>,<cref>683 <i>drone</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be useless</sg>,;
+<sg>go a begging ,<cref>641 <i>redundant</i></cref></sg>,;
+<sg>fail ,<cref> 732 <i>artlessness</i></cref></sg>,;
+<sg>seek after impossibilities, strive after impossibilities</sg>,;
+<sg>use vain efforts, labor in vain, roll the stone of Sisyphus, beat the air, lash the waves, battre l'eau avec un baton, donner un coup d'epee dans l'eau, fish in the air, milk the ram, drop a bucket into an empty well, sow the sand</sg>,;
+<sg>bay the moon</sg>,;
+<sg>preach to the winds, speak to the winds</sg>,;
+<sg>whistle jigs to a milestone</sg>,;
+<sg>kick against the pricks, se battre contre des moulins</sg>,;
+<sg>lock the stable door when the steed is stolen, lock the barn door after the horse is stolen ,<cref>135 <i>too late</i></cref></sg>,;
+<sg>hold a farthing candle to the sun</sg>,;
+<sg>cast pearls before swine ,<cref>638 <i>waste</i></cref></sg>,;
+<sg>carry coals to Newcastle ,<cref>641 <i>redundancy</i></cref></sg>,;
+<sg>wash a blackamoor white ,<cref>471 <i>impossible</i></cref></sg>,;
+<sg>render useless</sg>,;
+<sg>dismantle, dismast, dismount, disqualify, disable</sg>,;
+<sg>unrig</sg>,;
+<sg>cripple, lame ,<cref>659 <i>injure</i></cref></sg>,;
+<sg>spike guns, clip the wings</sg>,;
+<sg>put out of gear</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>useless, inutile, inefficacious, futile, unavailing, bootless</sg>,;
+<sg>inoperative ,<cref> 158 <i>eventuality</i></cref></sg>,;
+<sg>inadequate ,<cref>640 <i>insufficient</i></cref></sg>,;
+<sg>inservient, unsubservient</sg>,;
+<sg>inept, inefficient ,<cref>158 <i>impotent</i></cref></sg>,;
+<sg>of no avail ,<cref>644 <i>use</i></cref></sg>,;
+<sg>ineffectual ,<cref>732 <i>failure</i></cref></sg>,;
+<sg>incompetent ,<cref>699 <i>unskillful</i></cref></sg>,;
+<sg>stale, flat and unprofitable</sg>,;
+<sg>superfluous ,<cref>641 <i>redundant</i></cref></sg>,;
+<sg>dispensable</sg>,;
+<sg>thrown away ,<cref>638 <i>wasted</i></cref></sg>,;
+<sg>abortive ,<cref>674 <i>immature</i></cref></sg>,;
+<sg>worthless, valueless, priceless</sg>,;
+<sg>unsalable</sg>,;
+<sg>not worth a straw ,<cref>643 <i>trifling</i></cref>, dear at any price</sg>,;
+<sg>vain, empty, inane</sg>,;
+<sg>gainless, profitless, fruitless</sg>,;
+<sg>unserviceable, unprofitable</sg>,;
+<sg>ill-spent</sg>,;
+<sg>unproductive ,<cref> 169 <i>destruction</i></cref></sg>,;
+<sg>hors de combat</sg>,;
+<sg>effete, past work ,<cref>659 <i>impaired</i></cref></sg>,;
+<sg>obsolete ,<cref>124 <i>old</i></cref></sg>,;
+<sg>fit for the dust hole</sg>,;
+<sg>good for nothing</sg>,;
+<sg>of no earthly use</sg>,;
+<sg>not worth having, not worth powder and shot</sg>,;
+<sg>leading to no end, uncalled for</sg>,;
+<sg>unnecessary, unneeded</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>uselessly</sg>,;
+<sg>to little purpose, to no purpose, to little or no purpose</sg>,;
+<sg>Int</sg>,;
+<sg>cui bono?</sg>,;
+<sg>what's the good!,</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>actum ne agas</sg>,;
+<sg>chercher une aiguille dans une botte de foin</sg>,;
+<sg>tanto buon che val niente</sg>,;
+<br>
+</paragraph>

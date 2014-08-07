@@ -1,0 +1,37 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#27#</sectionNumber>
+<headword>#<b>#[001] #657# Mid-course #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>mid-course, </i>middle course, midcourse</sg>,;
+<sg>mean ,<cref> 29 <i>equality</i></cref></sg>,;
+<sg>middle ,<cref> 68 <i>precursor</i></cref></sg>,;
+<sg>juste milieu, mezzo termine, golden mean, ariston metron, aurea mediocritas</sg>,;
+<sg>straight ,<cref>278 <i>direct</i></cref>, straight course, straight path</sg>,;
+<sg>short cut, cross cut</sg>,;
+<sg>great circle sailing</sg>,;
+<sg>neutrality</sg>,;
+<sg>half measure, half and half measures</sg>,;
+<sg>compromise</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>keep in a middle course, preserve a middle course, preserve an even course, go straight ,<cref>278 <i>direct</i></cref></sg>,;
+<sg>go halfway, compromise, make a compromise</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>straight ,<cref>278 <i>direct</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>medium tenuere beati</sg>,;
+<br>
+</paragraph>

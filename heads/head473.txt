@@ -1,0 +1,19 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#16#</sectionNumber>
+<headword>#<b>#[001] #473# Idea #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>idea, </i>notion, conception, thought, apprehension, impression, perception, image, eidolon, sentiment, reflection, observation, consideration</sg>,;
+<sg>abstract idea</sg>,;
+<sg>archetype, formative notion</sg>,;
+<sg>guiding conception, organizing conception</sg>,;
+<sg>image in the mind, regulative principle</sg>,;
+<sg>view ,<cref>484 <i>opinion</i></cref></sg>,;
+<sg>theory ,<cref> 514 <i>knowledge</i></cref></sg>,;
+<sg>conceit, fancy</sg>,;
+<sg>phantasy ,<cref>515 <i>imagination</i></cref></sg>,;
+<sg>point of view ,<cref>448 <i>aspect</i></cref></sg>,;
+<sg>field of view</sg>,;
+<br>
+</paragraph>

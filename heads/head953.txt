@@ -1,0 +1,51 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#37#</sectionNumber>
+<headword>#<b>#[001] #953# Evil doer #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>evil doer, evil worker</sg>,;
+<sg>wrongdoer ,<cref> 949 <i>threat</i></cref></sg>,;
+<sg>mischief-maker, marplot</sg>,;
+<sg>oppressor, tyrant</sg>,;
+<sg>destroyer, Vandal</sg>,;
+<sg>iconoclast</sg>,;
+<sg>firebrand, incendiary, fire bug, pyromaniac</sg>,;
+<sg>anarchist, communist, terrorist</sg>,;
+<sg>savage, brute, ruffian, barbarian, semibarbarian, caitiff, desperado</sg>,;
+<sg>Apache, hoodlum, hood, plug-ugly, Red Skin, tough</sg>,;
+<sg>Mohawk, Mo-hock, Mo-hawk</sg>,;
+<sg>bludgeon man, bully, rough, hooligan, larrikin, dangerous classes, ugly customer</sg>,;
+<sg>thief ,<cref> 792 <i>prohibition</i></cref></sg>,;
+<sg>cockatrice, scorpion, hornet</sg>,;
+<sg>snake, viper, adder, snake in the grass</sg>,;
+<sg>serpent, cobra, asp, rattlesnake, anaconda</sg>,;
+<sg>canker-worm, wire-worm</sg>,;
+<sg>locust, Colorado beetle</sg>,;
+<sg>alacran, alligator, caymon, crocodile, mosquito, mugger, octopus</sg>,;
+<sg>torpedo</sg>,;
+<sg>bane ,<cref> 663 <i>substitute</i></cref></sg>,;
+<sg>cutthroat ,<cref>461 <i>killer</i></cref></sg>,;
+<sg>cannibal</sg>,;
+<sg>anthropophagus, anthropophagist</sg>,;
+<sg>bloodsucker, vampire, ogre, ghoul, gorilla, vulture</sg>,;
+<sg>gyrfalcon, gerfalcon</sg>,;
+<sg>wild beast, tiger, hyena, butcher, hangman</sg>,;
+<sg>blood-hound, hell- hound, sleuth-hound</sg>,;
+<sg>catamount, cougar, jaguar, puma</sg>,;
+<sg>hag, hellhag, beldam, Jezebel</sg>,;
+<sg>monster</sg>,;
+<sg>fiend ,<cref>980 <i>demon</i></cref></sg>,;
+<sg>devil incarnate, demon in human shape</sg>,;
+<sg>Frankenstein's monster</sg>,;
+<sg>harpy, siren</sg>,;
+<sg>Furies, Eumenides</sg>,;
+<sg>Hun, Attila, scourge of the human race</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>faenum habet in cornu</sg>,;
+<br>
+</paragraph>

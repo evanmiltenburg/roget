@@ -1,0 +1,79 @@
+<classNumber>#2#</classNumber>
+<sectionNumber>#11#</sectionNumber>
+<headword>#<b>#[001] #260# Convexity #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>convexity, </i>prominence, projection, swelling, gibbosity, bilge, bulge, protuberance, protrusion</sg>,;
+<sg>camber, cahot</sg>,;
+<sg>thank-ye-ma'am</sg>,;
+<sg>swell</sg>,;
+<sg>intumescence</sg>,;
+<sg>tumour, tumor</sg>,;
+<sg>tubercle, tuberosity</sg>,;
+<sg>excrescence</sg>,;
+<sg>hump, hunch, bunch</sg>,;
+<sg>boss, embossment, hub, hubble</sg>,;
+<sg>tooth, knob, elbow, process, apophysis, condyle, bulb, node, nodule, nodosity, tongue, dorsum, bump, clump</sg>,;
+<sg>sugar loaf ,<cref>253 <i>sharpness</i></cref></sg>,;
+<sg>bow</sg>,;
+<sg>mamelon</sg>,;
+<sg>molar</sg>,;
+<sg>belly, corporation, pot belly, gut</sg>,;
+<sg>withers, back, shoulder, lip, flange</sg>,;
+<sg>pimple, zit</sg>,;
+<sg>wen, wheel, papula, pustule, pock, proud flesh, growth, sarcoma, caruncle, corn, wart, pappiloma, furuncle, polypus, fungus, fungosity, exostosis, bleb, blister, blain</sg>,;
+<sg>boil ,<cref>655 <i>disease</i></cref></sg>,;
+<sg>airbubble, blob, papule, verruca</sg>,;
+<sg>papilla, nipple, teat, tit, titty, boob, knocker, pap, breast, dug, mammilla</sg>,;
+<sg>proboscis, nose, neb, beak, snout, nozzle, schnoz</sg>,;
+<sg>peg, button, stud, ridge, rib, jutty, trunnion, snag</sg>,;
+<sg>cupola, dome, arch, balcony, eaves</sg>,;
+<sg>pilaster</sg>,;
+<sg>relief, relievo, cameo</sg>,;
+<sg>bassorilievo, mezzorilevo, altorivievo</sg>,;
+<sg>low relief, bas relief, high relief</sg>,;
+<sg>hill ,<cref>206 <i>height</i></cref></sg>,;
+<sg>cape, promontory, mull</sg>,;
+<sg>forehead, foreland</sg>,;
+<sg>point of land, mole, jetty, hummock, ledge, spur</sg>,;
+<sg>naze, ness</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be prominent</sg>,;
+<sg>project, bulge, protrude, pout, bouge, bunch</sg>,;
+<sg>jut out, stand out, stick out, poke out</sg>,;
+<sg>stick up, bristle up, start up, cock up, shoot up</sg>,;
+<sg>swell over, hang over, bend over</sg>,;
+<sg>beetle</sg>,;
+<sg>render prominent</sg>,;
+<sg>raise 307</sg>,;
+<sg>emboss, chase</sg>,;
+<sg>belly out</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>convex, prominent, protuberant, projecting</sg>,;
+<sg>bossed, embossed, bossy, nodular, bunchy</sg>,;
+<sg>clavate, clavated, claviform</sg>,;
+<sg>hummocky, moutonne, mammiliform</sg>,;
+<sg>papulous, papilose</sg>,;
+<sg>hemispheric, bulbous</sg>,;
+<sg>bowed, arched</sg>,;
+<sg>bold</sg>,;
+<sg>bellied</sg>,;
+<sg>tuberous, tuberculous</sg>,;
+<sg>tumous</sg>,;
+<sg>cornute, odontoid</sg>,;
+<sg>lentiform, lenticular</sg>,;
+<sg>gibbous</sg>,;
+<sg>club shaped, hubby, hubbly, knobby, papillose, saddle-shaped, selliform, subclavate, torose, ventricose, verrucose</sg>,;
+<sg>salient, in relief, raised, repousse</sg>,;
+<sg>bloated , (expanded) 194</sg>,;
+<br>
+</paragraph>

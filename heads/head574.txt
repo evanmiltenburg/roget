@@ -1,0 +1,35 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#24#</sectionNumber>
+<headword>#<b>#[001] #574# Deceiver #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>deceiver</i> &c (deceive) ,<cref> 545 <i>equivocalness</i></cref></sg>,;
+<sg>dissembler, hypocrite</sg>,;
+<sg>sophist, Pharisee, Jesuit, Mawworm, Pecksniff, Joseph Surface, Tartufe, Janus</sg>,;
+<sg>serpent, snake in the grass, cockatrice, Judas, wolf in sheep's clothing</sg>,;
+<sg>jilt</sg>,;
+<sg>shuffler, stool pigeon</sg>,;
+<sg>liar &c (lie) ,<cref> 544 <i>unintelligibility</i></cref></sg>,;
+<sg>story-teller, perjurer, false witness, menteur a triple etage, Scapin</sg>,;
+<sg>bunko steerer, carpetbagger, capper, faker, fraud, four flusher, horse coper, ringer, spieler, straw bidder</sg>,;
+<sg>imposter, pretender, soi-disant, humbug</sg>,;
+<sg>adventurer</sg>,;
+<sg>Cagliostro, Fernam Mendez Pinto</sg>,;
+<sg>ass in lion's skin ,<cref>701 <i>bungler</i></cref></sg>,;
+<sg>actor ,<cref>599 <i>stage player</i></cref></sg>,;
+<sg>quack, charlatan, mountebank, saltimbanco, saltimbanque, empiric, quacksalver, medicaster, Rosicrucian, gypsy</sg>,;
+<sg>man of straw</sg>,;
+<sg>conjuror, juggler, trickster, prestidigitator, jockey</sg>,;
+<sg>crimp, decoy, decoy duck</sg>,;
+<sg>rogue, knave, cheat</sg>,;
+<sg>swindler ,<cref>792 <i>thief</i></cref></sg>,;
+<sg>jobber</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>saint abroad and a devil at home</sg>,;
+<br>
+</paragraph>

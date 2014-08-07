@@ -1,0 +1,124 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#28#</sectionNumber>
+<headword>#<b>#[001] #728# Unskillfulness #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>unskillfulness</i></sg>,;
+<sg>want of skill ,<cref> 698 <i>alarm</i></cref></sg>,;
+<sg>incompetence, incompentency</sg>,;
+<sg>inability, infelicity, indexterity, inexperience</sg>,;
+<sg>disqualification, unproficiency</sg>,;
+<sg>quackery</sg>,;
+<sg>folly, stupidity ,<cref> 499 <i>reasoning,</i></cref></sg>,;
+<sg>indiscretion ,<cref>863 <i>rashness</i></cref></sg>,;
+<sg>thoughtlessness ,<cref>460 <i>inattention) 458 (neglect</i></cref></sg>,;
+<sg>sabotage</sg>,;
+<sg>mismanagement, misconduct</sg>,;
+<sg>impolicy</sg>,;
+<sg>maladministration</sg>,;
+<sg>misrule, misgovernment, misapplication, misdirection, misfeasance</sg>,;
+<sg>petticoat government</sg>,;
+<sg>absence of rule, rule of thumb</sg>,;
+<sg>bungling</sg>,;
+<sg>failure ,<cref> 732 <i>artlessness</i></cref></sg>,;
+<sg>screw loose: too many cooks</sg>,;
+<sg>blunder ,<cref>495 <i>mistake</i></cref></sg>,;
+<sg>etourderie gaucherie, act of folly, balourdise</sg>,;
+<sg>botch, botchery</sg>,;
+<sg>bad job, sad work</sg>,;
+<sg>sprat sent out to catch a whale, much ado about nothing, wild- goose chase</sg>,;
+<sg>bungler ,<cref> 701 <i>deliverance</i></cref></sg>,;
+<sg>fool ,<cref> 501 <i>demonstration</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be unskillful</sg>,;
+<sg>not see an inch beyond one's nose</sg>,;
+<sg>blunder, bungle, boggle, fumble, botch, bitch, flounder, stumble, trip</sg>,;
+<sg>hobble ,<cref> 275 <i>motion</i></cref></sg>,;
+<sg>put one's foot in it</sg>,;
+<sg>make a mess of, make hash of, make sad work of</sg>,;
+<sg>overshoot the mark</sg>,;
+<sg>play tricks with, play Puck, mismanage, misconduct, misdirect, misapply, missend</sg>,;
+<sg>stultify oneself, make a fool of oneself, commit oneself</sg>,;
+<sg>act foolishly</sg>,;
+<sg>play the fool</sg>,;
+<sg>put oneself out of court</sg>,;
+<sg>lose control, lose control of oneself, lose one's head, lose one's cunning</sg>,;
+<sg>begin at the wrong end</sg>,;
+<sg>do things by halves ,<cref>730 <i>not complete</i></cref></sg>,;
+<sg>make two bites of a cherry</sg>,;
+<sg>play at cross purposes</sg>,;
+<sg>strain at a gnat and swallow a camel ,<cref>608 <i>caprice</i></cref></sg>,;
+<sg>put the cart before the horse</sg>,;
+<sg>lock the stable door when the horse is stolen ,<cref>135 <i>too late</i></cref></sg>,;
+<sg>not know what one is about, not know one's own interest, not know on which side one's bread is buttered</sg>,;
+<sg>stand in one's own light, quarrel with one's bread and butter, throw a stone in one's own garden, kill the goose which lays the golden eggs, pay dear for one's whistle, cut one's own throat, bum one's fingers</sg>,;
+<sg>knock one's head against a stone wall, beat one's head against a stone wall</sg>,;
+<sg>fall into a trap, catch a Tartar, bring the house about one's ears</sg>,;
+<sg>have too many eggs in one basket (imprudent) 863, have too many irons in the fire</sg>,;
+<sg>mistake ,<cref> 495 <i>probability</i></cref></sg>,;
+<sg>take the shadow for the substance ,<cref>486 <i>credulity</i></cref></sg>,;
+<sg>bark up the wrong tree</sg>,;
+<sg>be in the wrong box, aim at a pigeon and kill a crow</sg>,;
+<sg>take the wrong pig by the tail, get the wrong pig by the tail, get the wrong sow by the ear, get the dirty end of the stick</sg>,;
+<sg>put the saddle on the wrong horse, put a square peg into a round hole, put new wine into old bottles</sg>,;
+<sg>cut blocks with a razor</sg>,;
+<sg>hold a farthing candle to the sun ,<cref>645 <i>useless</i></cref></sg>,;
+<sg>fight with a shadow, grasp at a shadow</sg>,;
+<sg>catch at straws, lean on a broken reed, reckon without one's host, pursue a wild goose chase</sg>,;
+<sg>go on a fool's goose chase, sleeveless errand</sg>,;
+<sg>go further and fare worse</sg>,;
+<sg>lose one's way, miss one's way</sg>,;
+<sg>fail ,<cref> 732 <i>artlessness</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>unskillful ,<cref> 698 <i>alarm</i></cref></sg>,;
+<sg>inexpert</sg>,;
+<sg>bungling</sg>,;
+<sg>awkward, clumsy, unhandy, lubberly, gauche, maladroit</sg>,;
+<sg>left-handed, heavy-handed</sg>,;
+<sg>slovenly, slatternly</sg>,;
+<sg>gawky</sg>,;
+<sg>adrift, at fault</sg>,;
+<sg>inapt, unapt</sg>,;
+<sg>inhabile</sg>,;
+<sg>untractable, unteachable</sg>,;
+<sg>giddy ,<cref>458 <i>inattentive</i></cref></sg>,;
+<sg>inconsiderate ,<cref>460 <i>neglectful</i></cref></sg>,;
+<sg>stupid ,<cref> 499 <i>reasoning,</i></cref></sg>,;
+<sg>inactive ,<cref> 683 <i>health</i></cref></sg>,;
+<sg>incompetent</sg>,;
+<sg>unqualified, disqualified, ill-qualified</sg>,;
+<sg>unfit</sg>,;
+<sg>quackish</sg>,;
+<sg>raw, green, inexperienced, rusty, out of practice</sg>,;
+<sg>unaccustomed, unused, untrained &c 537, uninitiated, unconversant ,<cref>491 <i>ignorant</i></cref></sg>,;
+<sg>shiftless</sg>,;
+<sg>unstatesmanlike</sg>,;
+<sg>unadvised</sg>,;
+<sg>ill-advised, misadvised</sg>,;
+<sg>ill-devised, ill-imagined, ill-judged, ill-contrived, ill-conducted</sg>,;
+<sg>unguided, misguided</sg>,;
+<sg>misconducted, foolish, wild</sg>,;
+<sg>infelicitous</sg>,;
+<sg>penny wise and pound foolish ,<cref>608 <i>inconsistent</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>one's fingers being all thumbs</sg>,;
+<sg>the right hand forgets its cunning</sg>,;
+<sg>il se noyerait dans une goutte d'eau</sg>,;
+<sg>incidit in Scyllam qui vult vitare Charybdim</sg>,;
+<sg>out of the frying pan into the fire</sg>,;
+<sg>non omnia possumus omnes</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,85 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#2#</sectionNumber>
+<headword>#<b>#[001] #26# Disagreement #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>disagreement</i></sg>,;
+<sg>discord, discordance</sg>,;
+<sg>dissonance, dissidence, discrepancy</sg>,;
+<sg>unconformity ,<cref> 83 <i>speciality</i></cref></sg>,;
+<sg>incongruity, incongruence</sg>,;
+<sg>discongruity, mesalliance</sg>,;
+<sg>jarring</sg>,;
+<sg>dissension ,<cref> 713 <i>haste</i></cref></sg>,;
+<sg>conflict ,<cref>708 <i>opposition</i></cref></sg>,;
+<sg>bickering, clashing, misunderstanding, wrangle</sg>,;
+<sg>disparity, mismatch, disproportion</sg>,;
+<sg>dissimilitude, inequality</sg>,;
+<sg>disproportionateness</sg>,;
+<sg>variance, divergence, repugnance</sg>,;
+<sg>unfitness</sg>,;
+<sg>inaptitude, impropriety</sg>,;
+<sg>inapplicability</sg>,;
+<sg>inconsistency, inconcinnity</sg>,;
+<sg>irrelevancy ,<cref>10 <i>irrelation</i></cref></sg>,;
+<sg>misjoining, misjoinder</sg>,;
+<sg>syncretism, intrusion, interference</sg>,;
+<sg>concordia discors</sg>,;
+<sg>fish out of water</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>disagree</sg>,;
+<sg>clash, jar ,<cref>713 <i>discord</i></cref></sg>,;
+<sg>interfere, intrude, come amiss</sg>,;
+<sg>not concern ,<cref> 10 <i>irrelation</i></cref></sg>,;
+<sg>mismatch</sg>,;
+<sg>humano capiti cervicem jungere equinam</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>disagreeing</sg>,;
+<sg>discordant, discrepant</sg>,;
+<sg>at variance, at war</sg>,;
+<sg>hostile, antagonistic, repugnant, incompatible, irreconcilable, inconsistent with</sg>,;
+<sg>unconformable, exceptional ,<cref> 83 <i>speciality</i></cref></sg>,;
+<sg>intrusive, incongruous</sg>,;
+<sg>disproportionate, disproportionated</sg>,;
+<sg>inharmonious, unharmonious</sg>,;
+<sg>inconsonant, unconsonant</sg>,;
+<sg>divergent, repugnant to</sg>,;
+<sg>inapt, unapt, inappropriate, improper</sg>,;
+<sg>unsuited, unsuitable</sg>,;
+<sg>inapplicable, not to the point</sg>,;
+<sg>unfit, unfitting, unbefitting</sg>,;
+<sg>unbecoming</sg>,;
+<sg>illtimed, unseasonable, mal a propos, inadmissible</sg>,;
+<sg>inapposite ,<cref>10 <i>irrelevant</i></cref></sg>,;
+<sg>uncongenial</sg>,;
+<sg>ill-assorted, ill-sorted</sg>,;
+<sg>mismatched, misjoined, misplaced, misclassified</sg>,;
+<sg>unaccommodating, irreducible, incommensurable, uncommensurable</sg>,;
+<sg>unsympathetic</sg>,;
+<sg>out of character, out of keeping, out of proportion, out of joint, out of tune, out of place, out of season, out of its element</sg>,;
+<sg>at odds with, at variance with</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>in defiance, in contempt, in spite of</sg>,;
+<sg>discordantly</sg>,;
+<sg>a tort et a travers</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>asinus ad lyram</sg>,;
+<br>
+</paragraph>

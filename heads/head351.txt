@@ -1,0 +1,53 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#14#</sectionNumber>
+<headword>#<b>#[001] #351# Dryness #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>dryness</i></sg>,;
+<sg>siccity, aridity, drought, ebb tide, low water</sg>,;
+<sg>exsiccation, desiccation</sg>,;
+<sg>arefaction, dephlegmation, drainage</sg>,;
+<sg>drier</sg>,;
+<sg>desiccative, dessicator</sg>,;
+<sg>dessicator</sg>,;
+<sg>hair drier, clothes drier, gas drier, electric drier</sg>,;
+<sg>vacuum oven, drying oven, kiln</sg>,;
+<sg>lyophilizer</sg>,;
+<sg>clothesline</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be dry</sg>,;
+<sg>render dry</sg>,;
+<sg>dry</sg>,;
+<sg>dry up, soak up</sg>,;
+<sg>sponge, swab, wipe</sg>,;
+<sg>drain</sg>,;
+<sg>desiccate, dehydrate, exsiccate</sg>,;
+<sg>parch</sg>,;
+<sg>kiln dry</sg>,;
+<sg>vacuum dry, blow dry, oven dry</sg>,;
+<sg>hang out to dry</sg>,;
+<sg>mummify</sg>,;
+<sg>be fine, hold up</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>dry, anhydrous, arid</sg>,;
+<sg>adust, arescent</sg>,;
+<sg>dried</sg>,;
+<sg>undamped</sg>,;
+<sg>juiceless, sapless</sg>,;
+<sg>sear</sg>,;
+<sg>husky</sg>,;
+<sg>rainless, without rain, fine</sg>,;
+<sg>dry as a bone, dry as dust, dry as a stick, dry as a mummy, dry as a biscuit</sg>,;
+<sg>water proof, water tight</sg>,;
+<sg>dehydrated, dessicated</sg>,;
+<br>
+</paragraph>

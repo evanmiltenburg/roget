@@ -1,0 +1,101 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#31#</sectionNumber>
+<headword>#<b>#[001] #779# Freedom #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>freedom, </i>liberty, independence</sg>,;
+<sg>license ,<cref>760 <i>permission</i></cref></sg>,;
+<sg>facility ,<cref> 705 <i>undertaking</i></cref></sg>,;
+<sg>scope, range, latitude, play</sg>,;
+<sg>free play, full play, free scope, full scope</sg>,;
+<sg>free stage and no favor</sg>,;
+<sg>swing, full swing, elbowroom, margin, rope, wide berth</sg>,;
+<sg>Liberty Hall</sg>,;
+<sg>franchise, denization</sg>,;
+<sg>free man, freed man, livery man</sg>,;
+<sg>denizen</sg>,;
+<sg>autonomy, self-government, liberalism, free trade</sg>,;
+<sg>noninterference ,<cref> 706 <i>use</i></cref></sg>,;
+<sg>Monroe Doctrine</sg>,;
+<sg>immunity, exemption</sg>,;
+<sg>emancipation ,<cref>750 <i>liberation</i></cref></sg>,;
+<sg>enfranchisement, affranchisement</sg>,;
+<sg>free land, freehold</sg>,;
+<sg>allodium</sg>,;
+<sg>frankalmoigne, mortmain</sg>,;
+<sg>bushwhacker</sg>,;
+<sg>freelance, free thinker, free trader</sg>,;
+<sg>independent</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be free</sg>,;
+<sg>have scope</sg>,;
+<sg>, have the run of, have one's own way, have a will of one's own, have one's fling</sg>,;
+<sg>do what one likes, do what one wishes, do what one pleases, do what one chooses</sg>,;
+<sg>go at large, feel at home, paddle one's own canoe</sg>,;
+<sg>stand on one's legs, stand on one's rights</sg>,;
+<sg>shift for oneself</sg>,;
+<sg>take a liberty</sg>,;
+<sg>make free with, make oneself quite at home</sg>,;
+<sg>use a freedom</sg>,;
+<sg>take leave, take French leave</sg>,;
+<sg>set free ,<cref>750 <i>liberate</i></cref></sg>,;
+<sg>give a loose to ,<cref>760 <i>permit</i></cref></sg>,;
+<sg>allow scope</sg>,;
+<sg>to, give scope</sg>,;
+<sg>to</sg>,;
+<sg>give a horse his head</sg>,;
+<sg>make free of</sg>,;
+<sg>give the freedom of, give the franchise</sg>,;
+<sg>enfranchise, affranchise</sg>,;
+<sg>laisser faire, laisser aller</sg>,;
+<sg>live and let live</sg>,;
+<sg>leave to oneself</sg>,;
+<sg>leave alone, let alone</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>free, free as air</sg>,;
+<sg>out of harness, independent, at large, loose, scot-free</sg>,;
+<sg>left alone, left to oneself</sg>,;
+<sg>in full swing</sg>,;
+<sg>uncaught, unconstrained, unbuttoned, unconfined, unrestrained, unchecked, unprevented, unhindered, unobstructed, unbound, uncontrolled, untrammeled</sg>,;
+<sg>unsubject, ungoverned, unenslaved, unenthralled, unchained, unshackled, unfettered, unreined, unbridled, uncurbed, unmuzzled</sg>,;
+<sg>unrestricted, unlimited, unmitigated, unconditional</sg>,;
+<sg>absolute</sg>,;
+<sg>discretionary ,<cref>600 <i>optional</i></cref></sg>,;
+<sg>unassailed, unforced, uncompelled</sg>,;
+<sg>unbiassed, spontaneous</sg>,;
+<sg>free and easy</sg>,;
+<sg>at ease, at one's ease</sg>,;
+<sg>degage, quite at home</sg>,;
+<sg>wanton, rampant, irrepressible, unvanquished</sg>,;
+<sg>exempt</sg>,;
+<sg>freed ,<cref> 750 <i>peace</i></cref></sg>,;
+<sg>freeborn</sg>,;
+<sg>autonomous, freehold, allodial</sg>,;
+<sg>gratis ,<cref> 815 <i>relinquishment</i></cref></sg>,;
+<sg>eleutherian</sg>,;
+<sg>unclaimed, going a begging</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>freely</sg>,;
+<sg>ad libitum ,<cref>600 <i>at will</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>ubi libertas ibi patria</sg>,;
+<sg>free white and twenty-one</sg>,;
+<br>
+</paragraph>

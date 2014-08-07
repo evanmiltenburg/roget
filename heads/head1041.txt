@@ -1,0 +1,26 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#39#</sectionNumber>
+<headword>#<b>#[001] #1041# Laity #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>laity, </i>flock, fold, congregation, assembly, brethren, people</sg>,;
+<sg>society</sg>,;
+<sg>temporality, secularization</sg>,;
+<sg>layman, civilian</sg>,;
+<sg>parishioner, catechumen</sg>,;
+<sg>secularist</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>secularize</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>secular, lay, laical, civil, temporal, profane</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,68 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#7#</sectionNumber>
+<headword>#<b>#[001] #148# Permanence #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>permanence, </i>stability ,<cref> 150 <i>continuance in action</i></cref></sg>,;
+<sg>quiescence ,<cref> 265 <i>bluntness</i></cref></sg>,;
+<sg>obstinacy ,<cref> 606 <i>voice</i></cref></sg>,;
+<sg>permanence, persistence, endurance</sg>,;
+<sg>durability</sg>,;
+<sg>standing, status quo</sg>,;
+<sg>maintenance, preservation, conservation</sg>,;
+<sg>conservation</sg>,;
+<sg>law of the Medes and Persians</sg>,;
+<sg>standing dish</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>let alone, let be, let it be</sg>,;
+<sg>persist, remain, stay, tarry, rest</sg>,;
+<sg>stet (copy editing) hold, hold on</sg>,;
+<sg>last, endure, bide, abide, aby, dwell, maintain, keep</sg>,;
+<sg>stand, stand still, stand fast</sg>,;
+<sg>subsist, live, outlive, survive</sg>,;
+<sg>hold one's ground, keep one's ground, hold one's footing, keep one's footing</sg>,;
+<sg>hold good</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>stable ,<cref> 150 <i>continuance in action</i></cref></sg>,;
+<sg>persisting</sg>,;
+<sg>permanent</sg>,;
+<sg>established</sg>,;
+<sg>unchanged &c (change) ,<cref> 140 <i>lateness</i></cref></sg>,;
+<sg>renewed</sg>,;
+<sg>intact, inviolate</sg>,;
+<sg>persistent</sg>,;
+<sg>monotonous, uncheckered</sg>,;
+<sg>unfailing</sg>,;
+<sg>undestroyed, unrepealed, unsuppressed</sg>,;
+<sg>conservative, qualis ab incepto</sg>,;
+<sg>prescriptive ,<cref>124 <i>old</i></cref></sg>,;
+<sg>stationary ,<cref> 265 <i>bluntness</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>in statu quo</sg>,;
+<sg>for good, finally</sg>,;
+<sg>at a stand, at a standstill</sg>,;
+<sg>uti possidetis</sg>,;
+<sg>without a shadow of turning</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>esto perpetua</sg>,;
+<sg>nolumus leges Angliae mutari</sg>,;
+<sg>j'y suis et j'y ereste</sg>,;
+<br>
+</paragraph>

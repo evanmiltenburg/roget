@@ -1,0 +1,84 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#3#</sectionNumber>
+<headword>#<b>#[001] #29# Equality #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>equality, </i>parity, coextension, symmetry, balance, poise</sg>,;
+<sg>evenness, monotony, level</sg>,;
+<sg>equivalence</sg>,;
+<sg>equipollence, equipoise, equilibrium, equiponderance</sg>,;
+<sg>par, quits, a wash</sg>,;
+<sg>not a pin to choose</sg>,;
+<sg>distinction without a difference, six of one and half a dozen of the other</sg>,;
+<sg>tweedle dee and tweedle dum</sg>,;
+<sg>identity ,<cref> 13 <i>identity</i></cref></sg>,;
+<sg>similarity ,<cref> 17 <i>nonuniformity</i></cref></sg>,;
+<sg>equalization, equation</sg>,;
+<sg>equilibration, co-ordination, adjustment, readjustment</sg>,;
+<sg>drawn game, drawn battle</sg>,;
+<sg>neck and neck race</sg>,;
+<sg>tie, draw, standoff, dead heat</sg>,;
+<sg>match, peer, compeer, equal, mate, fellow, brother</sg>,;
+<sg>equivalent</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be equal</sg>,;
+<sg>equal, match, reach, keep pace with, run abreast</sg>,;
+<sg>come to, amount to, come up to</sg>,;
+<sg>be on a level with, lie on a level with</sg>,;
+<sg>balance</sg>,;
+<sg>cope with</sg>,;
+<sg>come to the same thing</sg>,;
+<sg>render equal</sg>,;
+<sg>equalize level, dress, balance, equate, handicap, give points, spot points, handicap, trim, adjust, poise</sg>,;
+<sg>fit, accommodate</sg>,;
+<sg>adapt ,<cref>23 <i>render accordant</i></cref></sg>,;
+<sg>strike a balance</sg>,;
+<sg>establish equality, restore equality, restore equilibrium</sg>,;
+<sg>readjust</sg>,;
+<sg>stretch on the bed of Procrustes</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>equal, even, level, monotonous, coequal, symmetrical, coordinate</sg>,;
+<sg>on a par with, on a level with, on a footing with</sg>,;
+<sg>up to the mark</sg>,;
+<sg>equiparant</sg>,;
+<sg>equivalent, tantamount</sg>,;
+<sg>indistinguishable</sg>,;
+<sg>quits</sg>,;
+<sg>homologous</sg>,;
+<sg>synonymous ,<cref> 522 <i>wisdom</i></cref></sg>,;
+<sg>resolvable into, convertible, much at one, as broad as long, neither more nor less</sg>,;
+<sg>much the same as, the same thing as, as good as</sg>,;
+<sg>all one, all the same</sg>,;
+<sg>equipollent, equiponderant, equiponderous, equibalanced</sg>,;
+<sg>equalized</sg>,;
+<sg>drawn</sg>,;
+<sg>half and half</sg>,;
+<sg>isochronal, isochronous isoperimetric, isoperimetrical</sg>,;
+<sg>isobath, isobathic</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>equally</sg>,;
+<sg>pari passu, ad eundum, caeteris paribus</sg>,;
+<sg>in equilibrio</sg>,;
+<sg>to all intents and purposes</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>it comes to the same thing, it amounts to the same thing</sg>,;
+<sg>what is sauce for the goose is sauce for the gander</sg>,;
+<br>
+</paragraph>

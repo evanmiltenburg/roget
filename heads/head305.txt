@@ -1,0 +1,50 @@
+<classNumber>#2#</classNumber>
+<sectionNumber>#12#</sectionNumber>
+<headword>#<b>#[001] #305# Ingress #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>ingress</i></sg>,;
+<sg>entrance, entry</sg>,;
+<sg>introgression</sg>,;
+<sg>influx, intrusion, inroad, incursion, invasion, irruption</sg>,;
+<sg>ingression</sg>,;
+<sg>penetration, interpenetration</sg>,;
+<sg>illapse, import, infiltration</sg>,;
+<sg>immigration</sg>,;
+<sg>admission ,<cref>296 <i>reception</i></cref></sg>,;
+<sg>insinuation ,<cref>228 <i>interjacence</i></cref></sg>,;
+<sg>insertion ,<cref> 300 <i>repulsion</i></cref></sg>,;
+<sg>inlet</sg>,;
+<sg>way in</sg>,;
+<sg>mouth, door, ,<cref>260 <i>opening</i></cref></sg>,;
+<sg>barway</sg>,;
+<sg>path ,<cref>627 <i>way</i></cref></sg>,;
+<sg>conduit ,<cref> 350 <i>moisture</i></cref></sg>,;
+<sg>immigrant</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>have the entree</sg>,;
+<sg>enter</sg>,;
+<sg>go into, go in, come into, come in, pour into, pour in, flow into, flow in, creep into, creep in, slip into, slip in, pop into, pop in, break into, break in, burst into, burst in</sg>,;
+<sg>set foot on</sg>,;
+<sg>ingress</sg>,;
+<sg>burst in upon, break in upon</sg>,;
+<sg>invade, intrude</sg>,;
+<sg>insinuate itself</sg>,;
+<sg>interpenetrate, penetrate</sg>,;
+<sg>infiltrate</sg>,;
+<sg>find one's way into, wriggle into, worm oneself into</sg>,;
+<sg>give entrance to ,<cref>296 <i>receive</i></cref></sg>,;
+<sg>insert ,<cref> 300 <i>repulsion</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>incoming</sg>,;
+<br>
+</paragraph>

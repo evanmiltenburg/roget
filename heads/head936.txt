@@ -1,0 +1,117 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#37#</sectionNumber>
+<headword>#<b>#[001] #936# Love #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>love</i></sg>,;
+<sg>fondness</sg>,;
+<sg>liking</sg>,;
+<sg>inclination ,<cref>865 <i>desire</i></cref></sg>,;
+<sg>regard, dilection, admiration, fancy</sg>,;
+<sg>affection, sympathy, fellow-feeling</sg>,;
+<sg>tenderness</sg>,;
+<sg>heart, brotherly love</sg>,;
+<sg>benevolence ,<cref> 906 <i>dislike</i></cref></sg>,;
+<sg>attachment</sg>,;
+<sg>yearning, eros, tender passion, amour</sg>,;
+<sg>gyneolatry</sg>,;
+<sg>gallantry, passion, flame, devotion, fervor, enthusiasm, transport of love, rapture, enchantment, infatuation, adoration, idolatry</sg>,;
+<sg>Cupid, Venus</sg>,;
+<sg>myrtle</sg>,;
+<sg>true lover's knot</sg>,;
+<sg>love token, love suit, love affair, love tale, love story</sg>,;
+<sg>the, old story, plighted love</sg>,;
+<sg>courtship ,<cref> 902 <i>rashness</i></cref></sg>,;
+<sg>amourette</sg>,;
+<sg>free love</sg>,;
+<sg>maternal love, storge, parental love</sg>,;
+<sg>young love, puppy love</sg>,;
+<sg>attractiveness</sg>,;
+<sg>popularity</sg>,;
+<sg>favorite ,<cref> 899 <i>fear</i></cref></sg>,;
+<sg>lover, suitor, follower, admirer, adorer, wooer, amoret, beau, sweetheart, inamorato, swain, young man, flame, love, truelove</sg>,;
+<sg>leman, Lothario, gallant, paramour, amoroso, cavaliere servente, captive, cicisbeo</sg>,;
+<sg>caro sposo</sg>,;
+<sg>inamorata, ladylove, idol, darling, duck, Dulcinea, angel, goddess, cara sposa</sg>,;
+<sg>betrothed, affianced, fiancee</sg>,;
+<sg>flirt, coquette</sg>,;
+<sg>amorette</sg>,;
+<sg>pair of turtledoves</sg>,;
+<sg>abode of love, agapemone</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>love, like, affect, fancy, care for, take an interest in, be partial to, sympathize with</sg>,;
+<sg>affection</sg>,;
+<sg>be in love with</sg>,;
+<sg>have a love</sg>,;
+<sg>for, entertain a love</sg>,;
+<sg>for, harbor cherish a love</sg>,;
+<sg>for</sg>,;
+<sg>regard, revere</sg>,;
+<sg>take to, bear love to, be wedded to</sg>,;
+<sg>set one's affections on</sg>,;
+<sg>make much of, feast one's eyes on</sg>,;
+<sg>hold dear, prize</sg>,;
+<sg>hug, cling to, cherish, pet</sg>,;
+<sg>burn</sg>,;
+<sg>adore, idolize, love to distraction, aimer eperdument</sg>,;
+<sg>dote on, dote upon</sg>,;
+<sg>take a fancy to, look sweet upon</sg>,;
+<sg>become enamored</sg>,;
+<sg>fall in love with, lose one's heart</sg>,;
+<sg>desire ,<cref> 865 <i>pleasure</i></cref></sg>,;
+<sg>excite love</sg>,;
+<sg>win the heart, gain the heart, win the affections, gain the affections, secure the love, engage the affections</sg>,;
+<sg>take the fancy of have a place in the heart, wind round the heart</sg>,;
+<sg>attract, attach, endear, charm, fascinate, captivate, bewitch, seduce, enamor, enrapture, turn the head</sg>,;
+<sg>get into favor</sg>,;
+<sg>ingratiate oneself, insinuate oneself, worm oneself</sg>,;
+<sg>propitiate, curry favor with, pay one's court to, faire l'aimable, set one's cap at, flirt</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>loving</sg>,;
+<sg>fond of</sg>,;
+<sg>taken with, struck with</sg>,;
+<sg>smitten, bitten</sg>,;
+<sg>attached to, wedded to</sg>,;
+<sg>enamored</sg>,;
+<sg>charmed</sg>,;
+<sg>in love</sg>,;
+<sg>love-sick</sg>,;
+<sg>over head and ears in love, head over heels in love</sg>,;
+<sg>affectionate, tender, sweet upon, sympathetic, loving</sg>,;
+<sg>amorous, amatory</sg>,;
+<sg>fond, erotic, uxorious, ardent, passionate, rapturous, devoted, motherly</sg>,;
+<sg>loved</sg>,;
+<sg>beloved well beloved, dearly beloved</sg>,;
+<sg>dear, precious, darling, pet, little</sg>,;
+<sg>favorite, popular</sg>,;
+<sg>congenial</sg>,;
+<sg>after one's mind, after one's taste, after one's fancy, after one's own heart, to one's mind, to one's taste, to one's fancy, to one's own heart</sg>,;
+<sg>in one's good graces ,<cref>888 <i>friendly</i></cref></sg>,;
+<sg>dear as the apple of one's eye, nearest to one's heart</sg>,;
+<sg>lovable, adorable</sg>,;
+<sg>lovely, sweet</sg>,;
+<sg>attractive, seductive, winning</sg>,;
+<sg>charming, engaging, interesting, enchanting, captivating, fascinating, bewitching</sg>,;
+<sg>amiable, like an angel</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>amantes amentes</sg>,;
+<sg>credula res amor est</sg>,;
+<sg>militat omnis amasius</sg>,;
+<sg>love conquers all, omnia vincit amor</sg>,;
+<sg>si vis amari ama</sg>,;
+<sg>the sweetest joy, the wildest woe</sg>,;
+<br>
+</paragraph>

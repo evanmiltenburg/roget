@@ -1,0 +1,111 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#27#</sectionNumber>
+<headword>#<b>#[001] #672# Unimportance #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>unimportance, </i>insignificance, nothingness, immateriality</sg>,;
+<sg>triviality, levity, frivolity</sg>,;
+<sg>paltriness</sg>,;
+<sg>poverty</sg>,;
+<sg>smallness ,<cref> 32 <i>compensation</i></cref></sg>,;
+<sg>vanity ,<cref>645 <i>uselessness</i></cref></sg>,;
+<sg>matter of indifference ,<cref> 866 <i>pain</i></cref></sg>,;
+<sg>no object</sg>,;
+<sg>nothing, nothing to signify, nothing worth speaking of, nothing particular, nothing to boast of, nothing to speak of</sg>,;
+<sg>small matter, no great matter, trifling matter</sg>,;
+<sg>mere joke, mere nothing</sg>,;
+<sg>hardly anything</sg>,;
+<sg>scarcely anything</sg>,;
+<sg>nonentity, small beer, cipher</sg>,;
+<sg>no great shakes, peu de chose</sg>,;
+<sg>child's play, kinderspiel</sg>,;
+<sg>toy, plaything, popgun, paper pellet, gimcrack, gewgaw, bauble, trinket, bagatelle, Rickshaw, knickknack, whim-wham, trifle, trifles light as air</sg>,;
+<sg>yankee notions</sg>,;
+<sg>trumpery, trash, rubbish, stuff, fatras, frippery</sg>,;
+<sg>leather or prunello</sg>,;
+<sg>chaff, drug, froth bubble smoke, cobweb</sg>,;
+<sg>weed</sg>,;
+<sg>refuse ,<cref>645 <i>inutility</i></cref></sg>,;
+<sg>scum ,<cref>653 <i>dirt</i></cref></sg>,;
+<sg>joke, jest, snap of the fingers</sg>,;
+<sg>fudge ,<cref>517 <i>unmeaning</i></cref></sg>,;
+<sg>fiddlestick, fiddlestick end</sg>,;
+<sg>pack of nonsense, mere farce</sg>,;
+<sg>straw, pin, fig, button, rush</sg>,;
+<sg>bulrush, feather, halfpenny, farthing, brass farthing, doit, peppercorn, jot, rap, pinch of snuff, old son</sg>,;
+<sg>cent, mill, picayune, pistareen, red cent</sg>,;
+<sg>minutiae, details, minor details, small fry</sg>,;
+<sg>dust in the balance, feather in the scale, drop in the ocean, flea-bite, molehill</sg>,;
+<sg>nine days' wonder, ridiculus mus</sg>,;
+<sg>flash in the pan ,<cref>158 <i>impotence</i></cref></sg>,;
+<sg>much ado about nothing ,<cref>482 <i>overestimation</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be unimportant</sg>,;
+<sg>not matter ,<cref> 642 <i>desuetude</i></cref></sg>,;
+<sg>go for nothing, matter nothing, signify nothing, matter little, matter little or nothing</sg>,;
+<sg>not matter a straw</sg>,;
+<sg>make light of ,<cref>483 <i>underestimate</i></cref></sg>,;
+<sg>catch at straws ,<cref>482 <i>overestimate</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>unimportant</sg>,;
+<sg>of little account, of small account, of no account, of little importance, of no importance ,<cref> 642 <i>desuetude</i></cref></sg>,;
+<sg>immaterial</sg>,;
+<sg>unessential, nonessential</sg>,;
+<sg>indifferent</sg>,;
+<sg>subordinate ,<cref>34 <i>inferior</i></cref></sg>,;
+<sg>mediocre ,<cref>29 <i>average</i></cref></sg>,;
+<sg>passable, fair, respectable, tolerable, commonplace</sg>,;
+<sg>uneventful, mere, common</sg>,;
+<sg>ordinary ,<cref>613 <i>habitual</i></cref></sg>,;
+<sg>inconsiderable, so-so, insignificant, inappreciable</sg>,;
+<sg>trifling, trivial</sg>,;
+<sg>slight, slender, light, flimsy, frothy, idle</sg>,;
+<sg>puerile ,<cref>499 <i>foolish</i></cref></sg>,;
+<sg>airy, shallow</sg>,;
+<sg>weak ,<cref> 160 <i>cause</i></cref></sg>,;
+<sg>powerless ,<cref> 158 <i>eventuality</i></cref></sg>,;
+<sg>frivolous, petty, niggling</sg>,;
+<sg>piddling, peddling</sg>,;
+<sg>fribble, inane, ridiculous, farcical</sg>,;
+<sg>finical, finikin</sg>,;
+<sg>fiddle-faddle, fingle-fangle, namby-pamby, wishy-washy, milk and water</sg>,;
+<sg>poor, paltry, pitiful</sg>,;
+<sg>contemptible ,<cref>930 <i>contempt</i></cref></sg>,;
+<sg>sorry, mean, meager, shabby, miserable, wretched, vile, scrubby, scrannel, weedy, niggardly, scurvy, putid, beggarly, worthless, twopennyhalfpenny, cheap, trashy, catchpenny, gimcrack, trumpery</sg>,;
+<sg>one- horse</sg>,;
+<sg>not worth the pains, not worth while, not worth mentioning, not worth speaking of, not worth a thought, not worth a curse, not worth a straw</sg>,;
+<sg>beneath notice, unworthy of notice, beneath regard, unworthy of regard, beneath consideration, unworthy of consideration</sg>,;
+<sg>de lana caprina</sg>,;
+<sg>vain ,<cref>645 <i>useless</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>slightly</sg>,;
+<sg>rather, somewhat, pretty well, tolerably</sg>,;
+<sg>for aught one cares</sg>,;
+<sg>Int</sg>,;
+<sg>no matter!, pish!, tush!, tut!, pshaw!, pugh!, pooh, pooh-pooh!, fudge!, bosh!, humbug!, fiddlestick, fiddlestick end!, fiddlededee!, never mind!, n'importe!, what signifies it, what boots it, what of it, what of that, what matter, what's the odds, a fig for', stuff!, nonsense!, stuff and nonsense,</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>magno conatu magnas nugas</sg>,;
+<sg>le jeu ne vaut pas la chandelle</sg>,;
+<sg>it matters not, it does not signify</sg>,;
+<sg>it is of no consequence, it is of no importance</sg>,;
+<sg>elephantus non capit murem</sg>,;
+<sg>tempete dans un verre d'eau</sg>,;
+<br>
+</paragraph>

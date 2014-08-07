@@ -1,0 +1,63 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#15#</sectionNumber>
+<headword>#<b>#[001] #435# Musical Instruments #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>musical instruments</i></sg>,;
+<sg>band</sg>,;
+<sg>string-band, brass-band</sg>,;
+<sg>orchestra</sg>,;
+<sg>orchestrina</sg>,;
+<sg>monochord, polychord</sg>,;
+<sg>harp, lyre, lute, archlute</sg>,;
+<sg>mandola, mandolin, mandoline</sg>,;
+<sg>guitar</sg>,;
+<sg>zither</sg>,;
+<sg>cither, cithern</sg>,;
+<sg>gittern, rebeck, bandurria, bandura, banjo</sg>,;
+<sg>bina, vina</sg>,;
+<sg>xanorphica</sg>,;
+<sg>viol, violin, fiddle, kit</sg>,;
+<sg>viola, viola d'amore, viola di gamba</sg>,;
+<sg>tenor, cremona, violoncello, bass</sg>,;
+<sg>bass viol, base viol</sg>,;
+<sg>theorbo, double base, contrabasso, violone, psaltery</sg>,;
+<sg>bow, fiddlestick</sg>,;
+<sg>piano, pianoforte</sg>,;
+<sg>harpsichord, clavichord, clarichord, manichord</sg>,;
+<sg>clavier, spinet, virginals, dulcimer, hurdy-gurdy, vielle, pianino, Eolian harp</sg>,;
+<sg>organ, harmonium, harmoniphon</sg>,;
+<sg>American organ, barrel organ, hand organ</sg>,;
+<sg>accordion, seraphina, concertina</sg>,;
+<sg>humming top</sg>,;
+<sg>flute, fife, piccolo, flageolet</sg>,;
+<sg>clarinet, claronet</sg>,;
+<sg>basset horn, corno di bassetto, oboe, hautboy, cor Anglais, corno Inglese, bassoon, double bassoon, contrafagotto, serpent, bass clarinet</sg>,;
+<sg>bagpipes, union pipes</sg>,;
+<sg>musette, ocarina, Pandean pipes</sg>,;
+<sg>reed instrument</sg>,;
+<sg>sirene, pipe, pitch-pipe</sg>,;
+<sg>sourdet</sg>,;
+<sg>whistle, catcall</sg>,;
+<sg>doodlesack, harmoniphone</sg>,;
+<sg>horn, bugle, cornet, cornet-a-pistons, cornopean, clarion, trumpet, trombone, ophicleide</sg>,;
+<sg>French horn, saxophone, sax, buglehorn, saxhorn, flugelhorn, althorn, helicanhorn, posthorn</sg>,;
+<sg>sackbut, euphonium, bombardon tuba</sg>,;
+<sg>cymbal, bell, gong</sg>,;
+<sg>tambour, tambourine, tamborine</sg>,;
+<sg>drum, tom-tom</sg>,;
+<sg>tabor, tabret, tabourine, taborin</sg>,;
+<sg>side drum, kettle drum</sg>,;
+<sg>timpani, tympani</sg>,;
+<sg>tymbal, timbrel, castanet, bones</sg>,;
+<sg>musical glasses, musical stones</sg>,;
+<sg>harmonica, sounding-board, rattle</sg>,;
+<sg>tam-tam, zambomba</sg>,;
+<sg>reed, tuning fork, triangle, Jew's harp, musical box, harmonicon, xylophone</sg>,;
+<sg>sordine, sordet</sg>,;
+<sg>sourdine, sourdet</sg>,;
+<sg>mute</sg>,;
+<sg>(iv) PERCEPTION OF SOUND</sg>,;
+<br>
+</paragraph>

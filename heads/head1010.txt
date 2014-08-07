@@ -1,0 +1,59 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#38#</sectionNumber>
+<headword>#<b>#[001] #1010# Judge #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>judge</i></sg>,;
+<sg>justice, justiciar, justiciary</sg>,;
+<sg>chancellor</sg>,;
+<sg>justice of assize, judge of assize</sg>,;
+<sg>recorder, common sergeant</sg>,;
+<sg>puisne judge, assistant judge, county court judge</sg>,;
+<sg>conservator of the peace, justice of the peace</sg>,;
+<sg>J</sg>,;
+<sg>P</sg>,;
+<sg>court ,<cref>966 <i>tribunal</i></cref></sg>,;
+<sg>magistrate, police magistrate, beak</sg>,;
+<sg>his worship, his honor, his lordship</sg>,;
+<sg>jury, twelve men in a box</sg>,;
+<sg>Lord Chancellor, Lord Justice</sg>,;
+<sg>Master of the Rolls, Vice Chancellor</sg>,;
+<sg>Lord Chief Justice, Chief Baron</sg>,;
+<sg>Mr</sg>,;
+<sg>Justice, Associate Justice, Chief Justice</sg>,;
+<sg>Baron, Baron of the Exchequer</sg>,;
+<sg>jurat, assessor</sg>,;
+<sg>arbiter, arbitrator</sg>,;
+<sg>umpire</sg>,;
+<sg>referee, referendary</sg>,;
+<sg>revising barrister</sg>,;
+<sg>domesman</sg>,;
+<sg>censor ,<cref>480 <i>critic</i></cref></sg>,;
+<sg>barmaster, ephor</sg>,;
+<sg>grand juror, grand juryman</sg>,;
+<sg>juryman, talesman</sg>,;
+<sg>archon, tribune, praetor, syndic, podesta, mollah, ulema, mufti, cadi, kadi</sg>,;
+<sg>Rhadamanthus</sg>,;
+<sg>litigant ,<cref>938 <i>accusation</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>adjudge ,<cref>480 <i>determine</i></cref></sg>,;
+<sg>try a case, try a prisoner</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>judicial ,<cref> 965 <i>dueness</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>a Daniel come to judgment</sg>,;
+<br>
+</paragraph>

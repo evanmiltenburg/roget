@@ -1,0 +1,58 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#4#</sectionNumber>
+<headword>#<b>#[001] #61# Order #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>order, </i>regularity, uniformity, symmetry, lucidus ordo</sg>,;
+<sg>music of the spheres</sg>,;
+<sg>gradation, progression</sg>,;
+<sg>series ,<cref>69 <i>continuity</i></cref></sg>,;
+<sg>subordination</sg>,;
+<sg>course, even tenor, routine</sg>,;
+<sg>method, disposition, arrangement, array, system, economy, discipline orderliness</sg>,;
+<sg>rank, place ,<cref>71 <i>term</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be in order, become in order</sg>,;
+<sg>form, fall in, draw up</sg>,;
+<sg>arrange itself, range itself, place itself</sg>,;
+<sg>fall into one's place, take one's place, take one's rank</sg>,;
+<sg>rally round</sg>,;
+<sg>adjust, methodize, regulate, systematize</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>orderly, regular</sg>,;
+<sg>in order, in trim, in apple-pie order, in its proper place</sg>,;
+<sg>neat, tidy, en regle, well regulated, correct, methodical, uniform, symmetrical, shipshape, businesslike, systematic</sg>,;
+<sg>unconfused &c (confuse) ,<cref> 61 <i>order</i></cref></sg>,;
+<sg>arranged ,<cref> 60 <i>extraneousness</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>in order</sg>,;
+<sg>methodically</sg>,;
+<sg>in turn, in its turn</sg>,;
+<sg>by steps, step by step</sg>,;
+<sg>by regular steps, by regular gradations, by regular stages, by regular intervals</sg>,;
+<sg>seriatim, systematically, by clockwork, gradatim</sg>,;
+<sg>at stated periods ,<cref>138 <i>periodically</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>natura non facit saltum</sg>,;
+<sg>order is heaven's first law</sg>,;
+<sg>order from disorder sprung</sg>,;
+<sg>ordo est parium dispariumque rerum sua loca tribuens dispositio</sg>,;
+<br>
+</paragraph>

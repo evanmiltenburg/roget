@@ -1,0 +1,124 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#34#</sectionNumber>
+<headword>#<b>#[001] #822# Taking #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>taking</i></sg>,;
+<sg>reception ,<cref>296 <i>taking in</i></cref></sg>,;
+<sg>deglutition ,<cref>298 <i>taking food</i></cref></sg>,;
+<sg>appropriation, prehension, prensation</sg>,;
+<sg>capture, caption</sg>,;
+<sg>apprehension, deprehension</sg>,;
+<sg>abreption, seizure, expropriation, abduction, ablation</sg>,;
+<sg>subtraction, withdrawal ,<cref> 38 <i>decrease</i></cref></sg>,;
+<sg>abstraction, ademption</sg>,;
+<sg>adrolepsy</sg>,;
+<sg>dispossession</sg>,;
+<sg>deprivation, deprivement</sg>,;
+<sg>bereavement</sg>,;
+<sg>divestment</sg>,;
+<sg>disherison</sg>,;
+<sg>distraint, distress</sg>,;
+<sg>sequestration, confiscation</sg>,;
+<sg>eviction ,<cref> 297 <i>approach</i></cref></sg>,;
+<sg>rapacity, rapaciousness, extortion, vampirism</sg>,;
+<sg>theft ,<cref> 791 <i>permission</i></cref></sg>,;
+<sg>resumption</sg>,;
+<sg>reprise, reprisal</sg>,;
+<sg>recovery ,<cref> 775 <i>compulsion</i></cref></sg>,;
+<sg>clutch, swoop, wrench</sg>,;
+<sg>grip ,<cref>781 <i>retention</i></cref></sg>,;
+<sg>haul, take, catch</sg>,;
+<sg>scramble</sg>,;
+<sg>taker, captor</sg>,;
+<sg>subduction</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>take, catch, hook, nab, bag, sack, pocket, put into one's pocket</sg>,;
+<sg>receive</sg>,;
+<sg>accept</sg>,;
+<sg>reap, crop, cull, pluck</sg>,;
+<sg>gather ,<cref>775 <i>get</i></cref></sg>,;
+<sg>draw</sg>,;
+<sg>appropriate, expropriate, impropriate</sg>,;
+<sg>assume, possess oneself of</sg>,;
+<sg>take possession of</sg>,;
+<sg>commandeer</sg>,;
+<sg>lay one's hands on, clap one's hands on</sg>,;
+<sg>help oneself to</sg>,;
+<sg>make free with, dip one's hands into, lay under contribution</sg>,;
+<sg>intercept</sg>,;
+<sg>scramble for</sg>,;
+<sg>deprive of</sg>,;
+<sg>take away, carry away, bear away, take off, carry off, bear off</sg>,;
+<sg>adeem</sg>,;
+<sg>abstract</sg>,;
+<sg>hurry off with, run away with</sg>,;
+<sg>abduct</sg>,;
+<sg>steal ,<cref> 791 <i>permission</i></cref></sg>,;
+<sg>ravish</sg>,;
+<sg>seize</sg>,;
+<sg>pounce upon, spring upon</sg>,;
+<sg>swoop to, swoop down upon</sg>,;
+<sg>take by storm, take by assault</sg>,;
+<sg>snatch, reave</sg>,;
+<sg>snap up, nip up, whip up, catch up</sg>,;
+<sg>kidnap, crimp, capture, lay violent hands on</sg>,;
+<sg>get hold of, lay hold of, take hold of, catch hold of, lay fast hold of, take firm hold of</sg>,;
+<sg>lay by the heels, take prisoner</sg>,;
+<sg>fasten upon, grip, grapple, embrace, gripe, clasp, grab, clutch, collar, throttle, take by the throat, claw, clinch, clench, make sure of</sg>,;
+<sg>catch at, jump at, make a grab at, snap at, snatch at</sg>,;
+<sg>reach, make a long arm, stretch forth one's hand</sg>,;
+<sg>take from, take away from</sg>,;
+<sg>disseize</sg>,;
+<sg>deduct ,<cref> 38 <i>decrease</i></cref></sg>,;
+<sg>retrench ,<cref>201 <i>curtail</i></cref></sg>,;
+<sg>dispossess, ease one of, snatch from one's grasp</sg>,;
+<sg>tear from, tear away from, wrench from, wrest from, wring from</sg>,;
+<sg>extort</sg>,;
+<sg>deprive of, bereave</sg>,;
+<sg>disinherit, cut off with a shilling</sg>,;
+<sg>oust ,<cref>297 <i>eject</i></cref></sg>,;
+<sg>divest</sg>,;
+<sg>levy, distrain, confiscate</sg>,;
+<sg>sequester, sequestrate</sg>,;
+<sg>accroach</sg>,;
+<sg>usurp</sg>,;
+<sg>despoil, strip, fleece, shear, displume, impoverish, eat out of house and home</sg>,;
+<sg>drain, drain to the dregs</sg>,;
+<sg>gut, dry, exhaust, swallow up</sg>,;
+<sg>absorb ,<cref>296 <i>suck in</i></cref></sg>,;
+<sg>draw off</sg>,;
+<sg>suck the blood of, suck like a leech</sg>,;
+<sg>retake, resume</sg>,;
+<sg>recover ,<cref> 775 <i>compulsion</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>taking</sg>,;
+<sg>privative, prehensile</sg>,;
+<sg>predaceous, predal, predatory, predatorial</sg>,;
+<sg>lupine, rapacious, raptorial</sg>,;
+<sg>ravenous</sg>,;
+<sg>parasitic</sg>,;
+<sg>bereft ,<cref> 776 <i>master</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>at one fell swoop</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>give an inch and take an ell</sg>,;
+<br>
+</paragraph>

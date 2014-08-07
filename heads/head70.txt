@@ -1,0 +1,114 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#4#</sectionNumber>
+<headword>#<b>#[001] #70# Beginning #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>beginning, </i>commencement, opening, outset, incipience, inception, inchoation</sg>,;
+<sg>introduction ,<cref>64 <i>precursor</i></cref></sg>,;
+<sg>alpha, initial</sg>,;
+<sg>inauguration, debut, le premier pas, embarcation, rising of the curtain</sg>,;
+<sg>maiden speech</sg>,;
+<sg>outbreak, onset, brunt</sg>,;
+<sg>initiative, move, first move</sg>,;
+<sg>narrow end of the wedge, thin end of the wedge</sg>,;
+<sg>fresh start, new departure</sg>,;
+<sg>origin ,<cref>153 <i>cause</i></cref></sg>,;
+<sg>source, rise</sg>,;
+<sg>bud, germ ,<cref> 153 <i>revolution</i></cref></sg>,;
+<sg>egg, rudiment</sg>,;
+<sg>genesis, primogenesis, birth, nativity, cradle, infancy</sg>,;
+<sg>start, inception, creation, starting point ,<cref> 293 <i>progression</i></cref></sg>,;
+<sg>dawn ,<cref>125 <i>morning</i></cref></sg>,;
+<sg>evolution</sg>,;
+<sg>title-page</sg>,;
+<sg>head, heading</sg>,;
+<sg>van ,<cref>234 <i>front</i></cref></sg>,;
+<sg>caption, fatihah</sg>,;
+<sg>entrance, entry</sg>,;
+<sg>inlet, orifice, mouth, chops, lips, porch, portal, portico, propylon, door</sg>,;
+<sg>gate, gateway</sg>,;
+<sg>postern, wicket, threshold, vestibule</sg>,;
+<sg>propylaeum</sg>,;
+<sg>skirts, border ,<cref>231 <i>edge</i></cref></sg>,;
+<sg>first stage, first blush, first glance, first impression, first sight</sg>,;
+<sg>rudiments, elements, outlines, grammar, alphabet, ABC</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>begin, start, commence</sg>,;
+<sg>conceive, open, dawn, set in, take its rise, enter upon, enter</sg>,;
+<sg>set out ,<cref>293 <i>depart</i></cref></sg>,;
+<sg>embark in</sg>,;
+<sg>incept</sg>,;
+<sg>initiate, launch, inaugurate</sg>,;
+<sg>inchoate, rise, arise, originate</sg>,;
+<sg>usher in</sg>,;
+<sg>lead off, lead the way</sg>,;
+<sg>take the lead, take the initiative</sg>,;
+<sg>head</sg>,;
+<sg>stand at the head, stand first, stand for</sg>,;
+<sg>lay the foundations ,<cref>673 <i>prepare</i></cref></sg>,;
+<sg>found ,<cref>153 <i>cause</i></cref></sg>,;
+<sg>set up, set on foot, agoing, set abroach, set the ball in motion</sg>,;
+<sg>apply the match to a train</sg>,;
+<sg>broach</sg>,;
+<sg>open up, open the door to</sg>,;
+<sg>get underway, set about, get to work, set to work, set to</sg>,;
+<sg>make a beginning, make a start</sg>,;
+<sg>handsel</sg>,;
+<sg>take the first step, lay the first stone, cut the first turf</sg>,;
+<sg>break ground, break the ice, break cover</sg>,;
+<sg>pass the Rubicon, cross the Rubicon</sg>,;
+<sg>open fire, open the ball</sg>,;
+<sg>ventilate, air</sg>,;
+<sg>undertake ,<cref> 676 <i>inexpedience</i></cref></sg>,;
+<sg>come into existence, come into the world</sg>,;
+<sg>make one's debut, take birth</sg>,;
+<sg>burst forth, break out</sg>,;
+<sg>spring up, spring forth, crop up, pop up, appear, materialize</sg>,;
+<sg>begin at the beginning, begin ab ovo</sg>,;
+<sg>begin again, begin de novo</sg>,;
+<sg>start afresh, make a fresh start, take it from the top, shuffle the cards, reshuffle the cards, resume, recommence</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>beginning</sg>,;
+<sg>initial, initiatory, initiative</sg>,;
+<sg>inceptive, introductory, incipient</sg>,;
+<sg>proemial, inaugural</sg>,;
+<sg>inchoate, inchoative</sg>,;
+<sg>embryonic, rudimental</sg>,;
+<sg>primogenial</sg>,;
+<sg>primeval, primitive, primordial ,<cref>124 <i>old</i></cref></sg>,;
+<sg>aboriginal</sg>,;
+<sg>natal, nascent</sg>,;
+<sg>first, foremost, leading</sg>,;
+<sg>maiden</sg>,;
+<sg>begun</sg>,;
+<sg>just begun</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>at the beginning, in the beginning,</sg>,;
+<sg>first, in the first place, imprimis, first and foremost</sg>,;
+<sg>in limine</sg>,;
+<sg>in the bud, in embryo, in its infancy</sg>,;
+<sg>from the beginning, from its birth</sg>,;
+<sg>ab initio, ab ovo, ab incunabilis, ab origine</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>let's get going!, let's get this show on the road!, up and at 'em!</sg>,;
+<sg>aller Anfang ist schwer, dimidium facti qui coepit habet</sg>,;
+<sg>omnium rerum principia parva sunt</sg>,;
+<br>
+</paragraph>

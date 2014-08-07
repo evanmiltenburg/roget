@@ -1,0 +1,56 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#14#</sectionNumber>
+<headword>#<b>#[001] #341# Pulverulence #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>powderiness, pulverulence</sg>,;
+<sg>sandiness</sg>,;
+<sg>efflorescence</sg>,;
+<sg>friability</sg>,;
+<sg>powder, dust, sand, shingle</sg>,;
+<sg>sawdust</sg>,;
+<sg>grit</sg>,;
+<sg>meal, bran, flour, farina, rice, paddy, spore, sporule</sg>,;
+<sg>crumb, seed, grain</sg>,;
+<sg>particle ,<cref>32 <i>smallness</i></cref></sg>,;
+<sg>limature, filings, debris, detritus, tailings, talus slope, scobs, magistery, fine powder</sg>,;
+<sg>flocculi</sg>,;
+<sg>smoke</sg>,;
+<sg>cloud of dust, cloud of sand, cloud of smoke</sg>,;
+<sg>puff of smoke, volume of smoke</sg>,;
+<sg>sand storm, dust storm</sg>,;
+<sg>pulverization, comminution, attenuation, granulation, disintegration, subaction, contusion, trituration, levigation, abrasion, detrition, multure</sg>,;
+<sg>limitation</sg>,;
+<sg>tripsis</sg>,;
+<sg>filing</sg>,;
+<sg>mill, arrastra, gristmill, grater, rasp, file, mortar and pestle, nutmeg grater, teeth, grinder, grindstone, kern, quern, koniology</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>come to dust</sg>,;
+<sg>be disintegrated, be reduced to powder  reduce to powder, grind to powder</sg>,;
+<sg>pulverize, comminute, granulate, triturate, levigate</sg>,;
+<sg>scrape, file, abrade, rub down, grind, grate, rasp, pound, bray, bruise</sg>,;
+<sg>contuse, contund</sg>,;
+<sg>beat, crush, cranch, craunch, crunch, scranch, crumble, disintegrate</sg>,;
+<sg>attenuate ,<cref> 195 <i>presence</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>powdery, pulverulent, granular, mealy, floury, farinaceous, branny, furfuraceous, flocculent, dusty, sandy, sabulous, psammous</sg>,;
+<sg>arenose, arenarious, arenaceous</sg>,;
+<sg>gritty, efflorescent, impalpable</sg>,;
+<sg>lentiginous, lepidote, sabuline</sg>,;
+<sg>sporaceous, sporous</sg>,;
+<sg>pulverizable</sg>,;
+<sg>friable, crumbly, shivery</sg>,;
+<sg>pulverized</sg>,;
+<sg>attrite</sg>,;
+<sg>in pieces</sg>,;
+<br>
+</paragraph>

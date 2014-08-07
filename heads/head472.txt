@@ -1,0 +1,44 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#16#</sectionNumber>
+<headword>#<b>#[001] #472# Incogitancy #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>incogitancy, </i>vacancy, inunderstanding</sg>,;
+<sg>fatuity ,<cref> 499 <i>reasoning,</i></cref></sg>,;
+<sg>thoughtlessness ,<cref>458 <i>inattention</i></cref></sg>,;
+<sg>vacuity</sg>,;
+<sg>couch potato, vegetable</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>not think ,<cref> 451 <i>gray</i></cref></sg>,;
+<sg>not think of</sg>,;
+<sg>dismiss from the mind, dismiss from the thoughts ,<cref> 451 <i>gray</i></cref></sg>,;
+<sg>indulge in reverie ,<cref>458 <i>be inattentive</i></cref></sg>,;
+<sg>put away thought</sg>,;
+<sg>unbend the mind, relax the mind, divert the mind, veg out</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>vacant, unintellectual, unideal, unoccupied, unthinking, inconsiderate, thoughtless, mindless, no-brain, vacuous</sg>,;
+<sg>absent ,<cref>458 <i>inattentive</i></cref></sg>,;
+<sg>diverted</sg>,;
+<sg>irrational ,<cref> 499 <i>reasoning,</i></cref></sg>,;
+<sg>narrow-minded ,<cref> 481 <i>inquiry</i></cref></sg>,;
+<sg>unthought of, undreamt 'of, unconsidered</sg>,;
+<sg>off one's mind</sg>,;
+<sg>incogitable, not to be thought of</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>absence d'esprit</sg>,;
+<sg>pabulum pictura pascit inani</sg>,;
+<br>
+</paragraph>

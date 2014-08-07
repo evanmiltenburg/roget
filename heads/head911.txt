@@ -1,0 +1,33 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#36#</sectionNumber>
+<headword>#<b>#[001] #911# Prodigy #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>prodigy, </i>phenomenon</sg>,;
+<sg>wonder, wonderment</sg>,;
+<sg>marvel, miracle</sg>,;
+<sg>monster ,<cref>83 <i>unconformity</i></cref></sg>,;
+<sg>curiosity, lion, sight, spectacle</sg>,;
+<sg>jeu de theatre, coup de theatre</sg>,;
+<sg>gazingstock</sg>,;
+<sg>sign</sg>,;
+<sg>St</sg>,;
+<sg>Elmo's fire, St</sg>,;
+<sg>Elmo's light</sg>,;
+<sg>portent ,<cref> 512 <i>assent</i></cref></sg>,;
+<sg>bursting of a shell, bursting of a bomb</sg>,;
+<sg>volcanic eruption, peal of thunder</sg>,;
+<sg>thunder-clap, thunder-bolt</sg>,;
+<sg>what no words can paint</sg>,;
+<sg>wonders of the world</sg>,;
+<sg>annus mirabilis</sg>,;
+<sg>dignus vindice nodus</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>natura il fece e poi roppe la stampa</sg>,;
+<br>
+</paragraph>

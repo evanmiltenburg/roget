@@ -1,0 +1,108 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#28#</sectionNumber>
+<headword>#<b>#[001] #715# Exertion #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>exertion, </i>effort, strain, tug, pull, stress, throw, stretch, struggle, spell, spurt, spirt</sg>,;
+<sg>stroke of work, stitch of work</sg>,;
+<sg>a strong pull a long pull and a pull all together</sg>,;
+<sg>dead lift</sg>,;
+<sg>heft</sg>,;
+<sg>gymnastics</sg>,;
+<sg>exercise, exercitation</sg>,;
+<sg>wear and tear</sg>,;
+<sg>ado</sg>,;
+<sg>toil and trouble</sg>,;
+<sg>uphill work, hard work, warm work</sg>,;
+<sg>harvest time</sg>,;
+<sg>labor, work, toil, travail, manual labor, sweat of one's brow, swink, drudgery, slavery, fagging, hammering</sg>,;
+<sg>limae labor</sg>,;
+<sg>industry, industriousness, operoseness, operosity</sg>,;
+<sg>trouble, pains, duty</sg>,;
+<sg>resolution ,<cref> 604 <i>elegance</i></cref></sg>,;
+<sg>energy ,<cref>171 <i>physical</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>exert oneself</sg>,;
+<sg>exert one's energies, tax one's energies</sg>,;
+<sg>use exertion</sg>,;
+<sg>labor, work, toil, moil, sweat, fag, drudge, slave, drag a lengthened chain, wade through, strive, stretch a long arm</sg>,;
+<sg>pull, tug, ply</sg>,;
+<sg>ply the oar, tug at the oar</sg>,;
+<sg>do the work</sg>,;
+<sg>take the laboring oar bestir oneself (be active) 682</sg>,;
+<sg>take trouble, trouble oneself</sg>,;
+<sg>work hard</sg>,;
+<sg>rough it</sg>,;
+<sg>put forth one's strength, put forth a strong arm</sg>,;
+<sg>fall to work, bend the bow</sg>,;
+<sg>buckle to, set one's shoulder to the wheel ,<cref>604 <i>resolution</i></cref></sg>,;
+<sg>work like a horse, work like a cart horse, work like a galley slave, work like a coal heaver</sg>,;
+<sg>labor day and night, work day and night</sg>,;
+<sg>redouble one's efforts</sg>,;
+<sg>do double duty</sg>,;
+<sg>work double hours, work double tides</sg>,;
+<sg>sit up, burn the candle at both ends</sg>,;
+<sg>stick to ,<cref>604 <i>persevere</i></cref></sg>,;
+<sg>1</sg>,;
+<sg>work one's way, fight one's way, lay about one, hammer at</sg>,;
+<sg>take pains</sg>,;
+<sg>do one's best, do one's level best, do one's utmost</sg>,;
+<sg>give one hundred percent, do the best one can, do all one can, do all in one's power, do as much as in one lies, do what lies in one's power</sg>,;
+<sg>use one's best endeavor, use one's utmost endeavor</sg>,;
+<sg>try one's best, try one's utmost</sg>,;
+<sg>play one's best card</sg>,;
+<sg>put one's best leg foremost, put one's right leg foremost</sg>,;
+<sg>have one's whole soul in his work, put all one's strength into, strain every nerve</sg>,;
+<sg>spare no efforts, spare no pains</sg>,;
+<sg>go all lengths</sg>,;
+<sg>go through fire and water ,<cref>604 <i>resolution</i></cref></sg>,;
+<sg>move heaven and earth, leave no stone unturned</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>laboring</sg>,;
+<sg>laborious, operose, elaborate</sg>,;
+<sg>strained</sg>,;
+<sg>toilsome, troublesome, wearisome</sg>,;
+<sg>uphill</sg>,;
+<sg>herculean, gymnastic, palestric</sg>,;
+<sg>hard-working, painstaking</sg>,;
+<sg>strenuous, energetic</sg>,;
+<sg>hard at work, on the stretch</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>laboriously</sg>,;
+<sg>lustily</sg>,;
+<sg>pugnis et calcibus</sg>,;
+<sg>with might and main, with all one's might, with a strong hand, with a sledge hammer, with much ado</sg>,;
+<sg>to the best of one's abilities, totis viribus, vi et armis, manibus pedibusque, tooth and nail, unguibus et rostro, hammer and tongs, heart and soul</sg>,;
+<sg>through thick and thin ,<cref>604 <i>perseverance</i></cref></sg>,;
+<sg>1</sg>,;
+<sg>by the sweat of one's brow, suo Marte</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>aide-toi le ciel t'aidera</sg>,;
+<sg>and still be doing, never done</sg>,;
+<sg>buen principio la mitad es hecha</sg>,;
+<sg>cosa ben fatta e' fatta due volie</sg>,;
+<sg>it is better to wear out than to rust out</sg>,;
+<sg>labor omnia vincit</sg>,;
+<sg>labor, wide as the earth, has its summit in Heaven</sg>,;
+<sg>le travail du corps delivre des peines de l'esprit</sg>,;
+<sg>manu forti</sg>,;
+<sg>ora et labora</sg>,;
+<br>
+</paragraph>

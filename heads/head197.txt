@@ -1,0 +1,61 @@
+<classNumber>#2#</classNumber>
+<sectionNumber>#9#</sectionNumber>
+<headword>#<b>#[001] #197# Inhabitant #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>inhabitant</i></sg>,;
+<sg>resident, residentiary</sg>,;
+<sg>dweller, indweller</sg>,;
+<sg>addressee</sg>,;
+<sg>occupier, occupant</sg>,;
+<sg>householder, lodger, inmate, tenant, incumbent, sojourner, locum tenens, commorant</sg>,;
+<sg>settler, squatter, backwoodsman, colonist</sg>,;
+<sg>islander</sg>,;
+<sg>denizen, citizen</sg>,;
+<sg>burgher, oppidan, cockney, cit, townsman, burgess</sg>,;
+<sg>villager</sg>,;
+<sg>cottager, cottier, cotter</sg>,;
+<sg>compatriot</sg>,;
+<sg>backsettler, boarder</sg>,;
+<sg>hotel keeper, innkeeper</sg>,;
+<sg>habitant</sg>,;
+<sg>paying guest</sg>,;
+<sg>planter</sg>,;
+<sg>native, indigene, aborigines, autochthones</sg>,;
+<sg>Englishman, John Bull</sg>,;
+<sg>newcomer ,<cref>57 <i>stranger</i></cref></sg>,;
+<sg>aboriginal, American, Caledonian, Cambrian, Canadian, Canuck, downeaster, Scot, Scotchman, Hibernian, Irishman, Welshman, Uncle Sam, Yankee, Brother Jonathan</sg>,;
+<sg>garrison, crew</sg>,;
+<sg>population</sg>,;
+<sg>people ,<cref>372 <i>mankind</i></cref></sg>,;
+<sg>colony, settlement</sg>,;
+<sg>household</sg>,;
+<sg>mir</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>inhabit ,<cref>186 <i>be present</i></cref></sg>,;
+<sg>endenizen ,<cref>184 <i>locate oneself</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>indigenous</sg>,;
+<sg>native, natal</sg>,;
+<sg>autochthonal, autochthonous</sg>,;
+<sg>British</sg>,;
+<sg>English</sg>,;
+<sg>American</sg>,;
+<sg>Canadian, Irish, Scotch, Scottish, Welsh</sg>,;
+<sg>domestic</sg>,;
+<sg>domiciliated, domiciled</sg>,;
+<sg>naturalized, vernacular, domesticated</sg>,;
+<sg>domiciliary</sg>,;
+<sg>in the occupation of</sg>,;
+<sg>garrisoned by, occupied by</sg>,;
+<br>
+</paragraph>

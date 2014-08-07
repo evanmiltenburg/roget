@@ -1,0 +1,98 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#2#</sectionNumber>
+<headword>#<b>#[001] #25# Agreement #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>agreement</i></sg>,;
+<sg>accord, accordance</sg>,;
+<sg>unison, harmony</sg>,;
+<sg>concord ,<cref> 714 <i>leisure</i></cref></sg>,;
+<sg>concordance, concert</sg>,;
+<sg>understanding, mutual understanding</sg>,;
+<sg>conformity ,<cref> 82 <i>generality</i></cref></sg>,;
+<sg>conformance</sg>,;
+<sg>uniformity ,<cref> 16 <i>uniformity</i></cref></sg>,;
+<sg>consonance, consentaneousness, consistency</sg>,;
+<sg>congruity, congruence</sg>,;
+<sg>keeping</sg>,;
+<sg>congeniality</sg>,;
+<sg>correspondence, parallelism, apposition, union</sg>,;
+<sg>fitness, aptness</sg>,;
+<sg>relevancy</sg>,;
+<sg>pertinence, pertinencey</sg>,;
+<sg>sortance</sg>,;
+<sg>case in point</sg>,;
+<sg>aptitude, coaptation, propriety, applicability, admissibility, commensurability, compatibility</sg>,;
+<sg>cognation ,<cref>9 <i>relation</i></cref></sg>,;
+<sg>adaption, adjustment, graduation, accommodation</sg>,;
+<sg>reconciliation, reconcilement</sg>,;
+<sg>assimilation</sg>,;
+<sg>consent ,<cref>488 <i>assent</i></cref></sg>,;
+<sg>concurrence ,<cref> 178 <i>physical energy</i></cref></sg>,;
+<sg>cooperation ,<cref> 709 <i>action</i></cref></sg>,;
+<sg>right man in the right place, very thing</sg>,;
+<sg>quite the thing, just the thing</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be accordant</sg>,;
+<sg>agree, accord, harmonize</sg>,;
+<sg>correspond, tally, respond</sg>,;
+<sg>meet, suit, fit, befit, do, adapt itself to</sg>,;
+<sg>fall in with, chime in with, square with, quadrate with, consort with, comport with</sg>,;
+<sg>dovetail, assimilate</sg>,;
+<sg>fit like a glove, fit to a tittle, fit to a T</sg>,;
+<sg>match ,<cref> 17 <i>nonuniformity</i></cref></sg>,;
+<sg>become one</sg>,;
+<sg>homologate</sg>,;
+<sg>consent ,<cref>488 <i>assent</i></cref></sg>,;
+<sg>render accordant</sg>,;
+<sg>fit, suit, adapt, accommodate</sg>,;
+<sg>graduate</sg>,;
+<sg>adjust ,<cref>27 <i>render equal</i></cref></sg>,;
+<sg>dress, regulate, readjust</sg>,;
+<sg>accord, harmonize, reconcile</sg>,;
+<sg>fadge, dovetail, square</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>agreeing, suiting</sg>,;
+<sg>in accord, accordant, concordant, consonant, congruous, consentaneous, correspondent, congenial</sg>,;
+<sg>coherent</sg>,;
+<sg>becoming</sg>,;
+<sg>harmonious reconcilable, conformable</sg>,;
+<sg>in accordance with, in harmony with, in keeping with, in unison with,</sg>,;
+<sg>at one with, of one mind, of a piece</sg>,;
+<sg>consistent, compatible, proportionate</sg>,;
+<sg>commensurate</sg>,;
+<sg>on all fours</sg>,;
+<sg>apt, apposite, pertinent, pat</sg>,;
+<sg>to the point, to the purpose</sg>,;
+<sg>happy, felicitous, germane, ad rem, in point, on point, directly on point, bearing upon, applicable, relevant, admissible</sg>,;
+<sg>fit adapted, in loco, a propos, appropriate, seasonable, sortable, suitable, idoneous, deft</sg>,;
+<sg>meet ,<cref>646 <i>expedient</i></cref></sg>,;
+<sg>at home, in one's proper element</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>a propos of</sg>,;
+<sg>pertinently</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>rem acu tetigisti</sg>,;
+<sg>if the shoe fits, wear it</sg>,;
+<sg>the cap fits</sg>,;
+<sg>auxilia humilia firma consensus facit</sg>,;
+<sg>discers concordia</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,107 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#15#</sectionNumber>
+<headword>#<b>#[001] #438# Light #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>light, </i>ray, beam, stream, gleam, streak, pencil</sg>,;
+<sg>sunbeam, moonbeam</sg>,;
+<sg>aurora</sg>,;
+<sg>day</sg>,;
+<sg>sunshine</sg>,;
+<sg>light of day, light of heaven</sg>,;
+<sg>moonlight, starlight, sunlight ,<cref>432 <i>luminary</i></cref></sg>,;
+<sg>daylight, broad daylight, noontide light</sg>,;
+<sg>noontide, noonday, noonday sun</sg>,;
+<sg>glow</sg>,;
+<sg>glimmering</sg>,;
+<sg>glint</sg>,;
+<sg>play of light, flood of light</sg>,;
+<sg>phosphorescence, lambent flame</sg>,;
+<sg>flush, halo, glory, nimbus, aureola</sg>,;
+<sg>spark, scintilla</sg>,;
+<sg>facula</sg>,;
+<sg>sparkling</sg>,;
+<sg>emication, scintillation, flash, blaze, coruscation, fulguration</sg>,;
+<sg>flame ,<cref>382 <i>fire</i></cref></sg>,;
+<sg>lightning, levin, ignis fatuus, ,<cref>423 <i>luminary</i></cref></sg>,;
+<sg>luster, sheen, shimmer, reflexion, reflection</sg>,;
+<sg>gloss, tinsel, spangle, brightness, brilliancy, splendor</sg>,;
+<sg>effulgence, refulgence</sg>,;
+<sg>fulgor, fulgidity</sg>,;
+<sg>dazzlement, resplendence, transplendency</sg>,;
+<sg>luminousness</sg>,;
+<sg>luminosity</sg>,;
+<sg>lucidity</sg>,;
+<sg>renitency, nitency</sg>,;
+<sg>radiance, radiation</sg>,;
+<sg>irradiation, illumination</sg>,;
+<sg>actinic rays, actinism</sg>,;
+<sg>Roentgen-ray, Xray</sg>,;
+<sg>photography, heliography</sg>,;
+<sg>photometer ,<cref> 445 <i>turbidity</i></cref></sg>,;
+<sg>optics</sg>,;
+<sg>photology, photometry</sg>,;
+<sg>dioptrics, catoptrics</sg>,;
+<sg>chiaroscuro, clairobscur, clear obscure, breadth, light and shade, black and white, tonality</sg>,;
+<sg>reflection, refraction, dispersion</sg>,;
+<sg>refractivity</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>shine, glow, glitter</sg>,;
+<sg>glister, glisten</sg>,;
+<sg>twinkle, gleam</sg>,;
+<sg>flare, flare up</sg>,;
+<sg>glare, beam, shimmer, glimmer, flicker, sparkle, scintillate, coruscate, flash, blaze</sg>,;
+<sg>be bright</sg>,;
+<sg>reflect light, daze, dazzle, bedazzle, radiate, shoot out beams</sg>,;
+<sg>fulgurate</sg>,;
+<sg>clear up, brighten</sg>,;
+<sg>lighten, enlighten</sg>,;
+<sg>levin</sg>,;
+<sg>light, light up</sg>,;
+<sg>irradiate, shine upon</sg>,;
+<sg>give out a light, hang out a light</sg>,;
+<sg>cast light upon, cast light in, throw light upon, throw light in, shed light upon, shed luster upon</sg>,;
+<sg>illume, illumine, illuminate</sg>,;
+<sg>relume, strike a light</sg>,;
+<sg>kindle ,<cref>384 <i>set fire to</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>shining</sg>,;
+<sg>luminous, luminiferous</sg>,;
+<sg>lucid, lucent, luculent, lucific, luciferous</sg>,;
+<sg>light, lightsome</sg>,;
+<sg>bright, vivid, splendent, nitid, lustrous, shiny, beamy, scintillant, radiant, lambent</sg>,;
+<sg>sheen, sheeny</sg>,;
+<sg>glossy, burnished, glassy, sunny, orient, meridian</sg>,;
+<sg>noonday, tide</sg>,;
+<sg>cloudless, clear</sg>,;
+<sg>unclouded, unobscured</sg>,;
+<sg>gairish, garish</sg>,;
+<sg>resplendent, transplendent</sg>,;
+<sg>refulgent, effulgent</sg>,;
+<sg>fulgid, fulgent</sg>,;
+<sg>relucent, splendid, blazing, in a blaze, ablaze, rutilant, meteoric, phosphorescent</sg>,;
+<sg>aglow</sg>,;
+<sg>bright as silver</sg>,;
+<sg>light as day, bright as day, light as noonday, bright as noonday, bright as the sun at noonday</sg>,;
+<sg>actinic</sg>,;
+<sg>photogenic, graphic</sg>,;
+<sg>heliographic</sg>,;
+<sg>heliophagous</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>a day for gods to stoop and men to soar</sg>,;
+<sg>dark with excessive bright</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,54 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#34#</sectionNumber>
+<headword>#<b>#[001] #847# Price #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>price, </i>amount, cost, expense, prime cost, charge, figure</sg>,;
+<sg>demand, damage</sg>,;
+<sg>fare, hire, wages ,<cref>973 <i>remuneration</i></cref></sg>,;
+<sg>value ,<cref> 812 <i>possessor</i></cref></sg>,;
+<sg>1</sg>,;
+<sg>dues, duty, toll, tax, impost, cess, sess, tallage, levy</sg>,;
+<sg>abkari</sg>,;
+<sg>capitation tax, poll tax</sg>,;
+<sg>doomage, likin</sg>,;
+<sg>gabel, gabelle</sg>,;
+<sg>gavel, octroi, custom, excise, assessment, benevolence, tithe, tenths, exactment, ransom, salvage, tariff</sg>,;
+<sg>brokerage, wharfage, freightage</sg>,;
+<sg>bill ,<cref>811 <i>account</i></cref></sg>,;
+<sg>shot</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>bear a price, set a price, fix a price</sg>,;
+<sg>appraise, assess, doom, price, charge, demand, ask, require, exact, run up</sg>,;
+<sg>distrain</sg>,;
+<sg>run up a bill ,<cref>806 <i>debt</i></cref></sg>,;
+<sg>have one's price</sg>,;
+<sg>liquidate</sg>,;
+<sg>amount to, come to, mount up to</sg>,;
+<sg>stand one in</sg>,;
+<sg>fetch, sell for, cost, bring in, yield, afford</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>priced</sg>,;
+<sg>to the tune of, ad valorem</sg>,;
+<sg>dutiable</sg>,;
+<sg>mercenary, venal</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>no penny no paternoster</sg>,;
+<sg>point d'argent point de Suisse, no longer pipe no longer dance, no song no supper, if you dance you have to pay the piper, you get what you pay for, there's no such thing as a free lunch</sg>,;
+<sg>one may have it for</sg>,;
+<sg>a bon marche</sg>,;
+<br>
+</paragraph>

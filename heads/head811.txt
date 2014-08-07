@@ -1,0 +1,53 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#34#</sectionNumber>
+<headword>#<b>#[001] #811# Participation #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>participation</i></sg>,;
+<sg>cotenancy, joint tenancy</sg>,;
+<sg>occupancy in common, possession in common, tenancy in common</sg>,;
+<sg>joint stock, common stock</sg>,;
+<sg>co-partnership, partnership</sg>,;
+<sg>communion</sg>,;
+<sg>community of possessions, community of goods</sg>,;
+<sg>communism, socialism</sg>,;
+<sg>cooperation ,<cref> 709 <i>action</i></cref></sg>,;
+<sg>snacks, coportion, picnic, hotchpot</sg>,;
+<sg>co-heirship, co-parceny, co- parcenary</sg>,;
+<sg>gavelkind</sg>,;
+<sg>participator, sharer</sg>,;
+<sg>co-partner, partner</sg>,;
+<sg>shareholder</sg>,;
+<sg>co-tenant, joint tenant</sg>,;
+<sg>tenants in common</sg>,;
+<sg>co-heir, co-parcener</sg>,;
+<sg>communist, socialist</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>participate, partake</sg>,;
+<sg>share, share in</sg>,;
+<sg>come in for a share</sg>,;
+<sg>go shares, go snacks, go halves</sg>,;
+<sg>share and share alike</sg>,;
+<sg>have in common, possess in common, be seized in common, have as joint tenants, possess as joint tenants, be seized as joint tenants</sg>,;
+<sg>join in</sg>,;
+<sg>have a hand in ,<cref>709 <i>cooperate</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>partaking</sg>,;
+<sg>communistic</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>share and share alike</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,69 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#39#</sectionNumber>
+<headword>#<b>#[001] #1040# Clergy #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>clergy, </i>clericals, ministry, priesthood, presbytery, the cloth, the desk</sg>,;
+<sg>clergyman, divine, ecclesiastic, churchman, priest, presbyter, hierophant, pastor, shepherd, minister</sg>,;
+<sg>father, father in Christ</sg>,;
+<sg>padre, abbe, cure</sg>,;
+<sg>patriarch</sg>,;
+<sg>reverend</sg>,;
+<sg>black coat</sg>,;
+<sg>confessor</sg>,;
+<sg>dignitaries of the church</sg>,;
+<sg>ecclesiarch, hierarch</sg>,;
+<sg>ebdomarius</sg>,;
+<sg>eminence, reverence, elder, primate, metropolitan, archbishop, bishop, prelate, diocesan, suffragan, dean, subdean, archdeacon, prebendary, canon, rural dean, rector, parson, vicar, perpetual curate, residentiary, beneficiary, incumbent, chaplain, curate</sg>,;
+<sg>deacon, deaconess</sg>,;
+<sg>preacher, reader, lecturer</sg>,;
+<sg>capitular</sg>,;
+<sg>missionary, propagandist, Jesuit, revivalist, field preacher</sg>,;
+<sg>churchwarden, sidesman</sg>,;
+<sg>clerk, precentor, choir</sg>,;
+<sg>almoner, suisse, verger, beadle, sexton, sacristan</sg>,;
+<sg>acolyth, acolothyst, acolyte, altar boy</sg>,;
+<sg>chorister</sg>,;
+<sg>Pope, Papa, pontiff, high priest, cardinal</sg>,;
+<sg>ancient flamen, flamen</sg>,;
+<sg>confessor, penitentiary</sg>,;
+<sg>spiritual director</sg>,;
+<sg>cenobite, conventual, abbot, prior, monk, friar, lay brother, beadsman, mendicant, pilgrim, palmer</sg>,;
+<sg>canon regular, canon secular</sg>,;
+<sg>Franciscan, Friars minor, Minorites</sg>,;
+<sg>Observant, Capuchin, Dominican, Carmelite</sg>,;
+<sg>Augustinian</sg>,;
+<sg>Gilbertine</sg>,;
+<sg>Austin Friars, Black Friars, White Friars, Gray Friars, Crossed Friars, Crutched Friars</sg>,;
+<sg>Bonhomme, Carthusian, Benedictine, Cistercian, Trappist, Cluniac, Premonstatensian, Maturine</sg>,;
+<sg>Templar, Hospitaler</sg>,;
+<sg>Bernardine, Lorettine, pillarist, stylite</sg>,;
+<sg>abbess, prioress, canoness</sg>,;
+<sg>religieuse, nun, novice, postulant</sg>,;
+<sg>prophet, priest, high priest, Levite</sg>,;
+<sg>Rabbi, Rabbin, Rebbe</sg>,;
+<sg>scribe</sg>,;
+<sg>mullah, muezzin, ayatollah</sg>,;
+<sg>ulema, imaum, imam, sheik</sg>,;
+<sg>sufi</sg>,;
+<sg>kahin, kassis</sg>,;
+<sg>mufti, hadji, dervish</sg>,;
+<sg>fakir, faquir</sg>,;
+<sg>brahmin, guru, kaziaskier, poonghie, sanyasi</sg>,;
+<sg>druid, bonze, santon, abdal, Lama, talapoin, caloyer</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>take orders ,<cref> 995 <i>temperance</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>the Reverend, the very Reverend, the Right Reverend</sg>,;
+<sg>ordained, in orders, called to the ministry</sg>,;
+<br>
+</paragraph>

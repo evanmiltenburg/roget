@@ -1,0 +1,77 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#6#</sectionNumber>
+<headword>#<b>#[001] #117# Transientness #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>transience, transientness</sg>,;
+<sg>evanescence, impermanence, fugacity, caducity, mortality, span</sg>,;
+<sg>nine days' wonder, bubble, Mayfly</sg>,;
+<sg>spurt</sg>,;
+<sg>flash in the pan</sg>,;
+<sg>temporary arrangement, interregnum</sg>,;
+<sg>velocity ,<cref> 274 <i>stopper</i></cref></sg>,;
+<sg>suddenness ,<cref> 113 <i>period</i></cref></sg>,;
+<sg>changeableness ,<cref> 149 <i>cessation</i></cref></sg>,;
+<sg>transient, transient boarder, transient guest</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be transient</sg>,;
+<sg>flit, pass away, fly, gallop, vanish, fade, evaporate</sg>,;
+<sg>pass away like a cloud, pass away like a summer cloud, pass away like a shadow, pass away like a dream</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>transient, transitory, transitive</sg>,;
+<sg>passing, evanescent, fleeting, cursory, short-lived, ephemeral</sg>,;
+<sg>flying</sg>,;
+<sg>fugacious, fugitive</sg>,;
+<sg>shifting, slippery</sg>,;
+<sg>spasmodic</sg>,;
+<sg>instantaneous, momentaneous</sg>,;
+<sg>temporal, temporary</sg>,;
+<sg>provisional, provisory</sg>,;
+<sg>deciduous</sg>,;
+<sg>perishable, mortal, precarious, unstable, insecure</sg>,;
+<sg>impermanent</sg>,;
+<sg>brief, quick, brisk, extemporaneous, summary</sg>,;
+<sg>pressed for time ,<cref>684 <i>haste</i></cref></sg>,;
+<sg>sudden, momentary ,<cref>113 <i>instantaneous</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>temporarily</sg>,;
+<sg>pro tempore</sg>,;
+<sg>for the moment, for a time</sg>,;
+<sg>awhile, en passant, in transitu</sg>,;
+<sg>in a short time</sg>,;
+<sg>soon ,<cref>132 <i>early</i></cref></sg>,;
+<sg>briefly</sg>,;
+<sg>at short notice</sg>,;
+<sg>on the point of, on the eve of</sg>,;
+<sg>in articulo</sg>,;
+<sg>between cup and lip</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>one's days are numbered</sg>,;
+<sg>the time is up</sg>,;
+<sg>here today and gone tomorrow</sg>,;
+<sg>non semper erit aestas</sg>,;
+<sg>eheu! fugaces labuntur anni</sg>,;
+<sg>sic transit gloria mundi</sg>,;
+<sg>a schoolboy's tale, the wonder of the hour!</sg>,;
+<sg>dum loquimur fugerit invidia aetas</sg>,;
+<sg>fugit hora</sg>,;
+<sg>all that is transitory is but an illusion</sg>,;
+<br>
+</paragraph>

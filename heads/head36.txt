@@ -1,0 +1,53 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#3#</sectionNumber>
+<headword>#<b>#[001] #36# Inferiority #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>inferiority, </i>minority, subordinacy</sg>,;
+<sg>shortcoming, deficiency</sg>,;
+<sg>minimum</sg>,;
+<sg>smallness ,<cref> 32 <i>compensation</i></cref></sg>,;
+<sg>imperfection</sg>,;
+<sg>lower quality, lower worth</sg>,;
+<sg>commonalty ,<cref> 876 <i>rejoicing</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be inferior</sg>,;
+<sg>fall short of, come short of</sg>,;
+<sg>not pass, not come up to</sg>,;
+<sg>want</sg>,;
+<sg>become smaller, render smaller ,<cref>195 <i>decrease) 36, (contract</i></cref></sg>,;
+<sg>hide its diminished head, retire into the shade, yield the palm, play second fiddle, be upstaged, take a back seat</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>inferior, smaller</sg>,;
+<sg>small ,<cref> 32 <i>compensation</i></cref></sg>,;
+<sg>minor, less, lesser, deficient, minus, lower, subordinate, secondary</sg>,;
+<sg>secondrate ,<cref>651 <i>imperfect</i></cref></sg>,;
+<sg>sub, subaltern</sg>,;
+<sg>thrown into the shade</sg>,;
+<sg>weighed in the balance and found wanting</sg>,;
+<sg>not fit to hold a candle to, can't hold a candle to</sg>,;
+<sg>least, smallest &c (little) (small) ,<cref> 193 <i>location</i></cref></sg>,;
+<sg>lowest</sg>,;
+<sg>diminished ,<cref>36 <i>decreased</i></cref></sg>,;
+<sg>reduced ,<cref>195 <i>contracted</i></cref></sg>,;
+<sg>unimportant ,<cref> 643 <i>motive</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>less</sg>,;
+<sg>under the mark, below the mark, below par</sg>,;
+<sg>at the bottom of the scale, at a low ebb, at a disadvantage</sg>,;
+<sg>short of, under</sg>,;
+<br>
+</paragraph>

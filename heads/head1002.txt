@@ -1,0 +1,105 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#38#</sectionNumber>
+<headword>#<b>#[001] #1002# Drunkenness #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>drunkenness</i></sg>,;
+<sg>intemperance</sg>,;
+<sg>drinking</sg>,;
+<sg>inebriety, inebriation</sg>,;
+<sg>ebriety, ebriosity</sg>,;
+<sg>insobriety</sg>,;
+<sg>intoxication</sg>,;
+<sg>temulency, bibacity, wine bibbing</sg>,;
+<sg>comtation, potation</sg>,;
+<sg>deep potations, bacchanals, bacchanalia, libations</sg>,;
+<sg>bender</sg>,;
+<sg>oinomania, dipsomania</sg>,;
+<sg>delirium tremens</sg>,;
+<sg>alcohol, alcoholism</sg>,;
+<sg>mania a potu</sg>,;
+<sg>drink</sg>,;
+<sg>alcoholic drinks</sg>,;
+<sg>blue ruin, grog, port wine</sg>,;
+<sg>punch, punch bowl</sg>,;
+<sg>cup, rosy wine, flowing bowl</sg>,;
+<sg>drop, drop too much</sg>,;
+<sg>dram</sg>,;
+<sg>beer ,<cref>298 <i>beverage</i></cref></sg>,;
+<sg>aguardiente</sg>,;
+<sg>apple brandy, applejack</sg>,;
+<sg>brandy, brandy smash</sg>,;
+<sg>chain lightning, champagne, cocktail</sg>,;
+<sg>gin, ginsling</sg>,;
+<sg>highball, peg, rum, rye, schnapps, sherry, sling, uisquebaugh, usquebaugh, whisky, xeres</sg>,;
+<sg>drunkard, sot, toper, tippler, bibber, wine-bibber, lush</sg>,;
+<sg>hard drinker, gin drinker, dram drinker</sg>,;
+<sg>soaker, sponge, tun</sg>,;
+<sg>love pot, toss pot</sg>,;
+<sg>thirsty soul, reveler, carouser, Bacchanal, Bacchanalian</sg>,;
+<sg>Bacchal, Bacchante</sg>,;
+<sg>devotee to Bacchus</sg>,;
+<sg>bum, guzzler, tavern haunter</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>get drunk, be drunk</sg>,;
+<sg>see double</sg>,;
+<sg>take a drop too much, take a glass too much</sg>,;
+<sg>drink</sg>,;
+<sg>tipple, tope, booze, bouse, guzzle, swill, soak, sot, bum, besot, have a jag on, have a buzz on, lush, bib, swig, carouse</sg>,;
+<sg>sacrifice at the shrine of Bacchus</sg>,;
+<sg>take to drinking</sg>,;
+<sg>drink hard, drink deep, drink like a fish</sg>,;
+<sg>have one's swill, drain the cup, splice the main brace, take a hair of the dog that bit you</sg>,;
+<sg>liquor, liquor up</sg>,;
+<sg>wet one's whistle, take a whet</sg>,;
+<sg>crack a bottle, pass the bottle</sg>,;
+<sg>toss off ,<cref>298 <i>drink up</i></cref></sg>,;
+<sg>go to the alehouse, go to the public house</sg>,;
+<sg>make one drunk</sg>,;
+<sg>inebriate, fuddle, befuddle, fuzzle, get into one's head</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>drunk, tipsy</sg>,;
+<sg>intoxicated</sg>,;
+<sg>inebrious, inebriate, inebriated</sg>,;
+<sg>in one's cups</sg>,;
+<sg>in a state of intoxication</sg>,;
+<sg>temulent, temulentive</sg>,;
+<sg>bombed, smashed</sg>,;
+<sg>fuddled, mellow, cut, boozy, fou, fresh, merry, elevated</sg>,;
+<sg>flustered, disguised, groggy, beery</sg>,;
+<sg>top-heavy</sg>,;
+<sg>potvaliant, glorious</sg>,;
+<sg>potulent</sg>,;
+<sg>squiffy</sg>,;
+<sg>overcome, overtaken</sg>,;
+<sg>whittled, screwed, tight, primed, corned, raddled, sewed up, lushy, nappy, muddled, muzzy, obfuscated, maudlin</sg>,;
+<sg>crapulous, dead drunk</sg>,;
+<sg>woozy, buzzed, flush, flushed</sg>,;
+<sg>inter pocula</sg>,;
+<sg>in liquor, the worse for liquor</sg>,;
+<sg>having had a drop too much, half seas over, three sheets in the wind, three sheets to the wind</sg>,;
+<sg>under the table</sg>,;
+<sg>drunk as a lord, drunk as a skunk, drunk as a piper, drunk as a fiddler, drunk as Chloe, drunk as an owl, drunk as David's sow, drunk as a wheelbarrow</sg>,;
+<sg>drunken, bibacious, sottish</sg>,;
+<sg>given to drink, addicted to drink, addicted to the bottle</sg>,;
+<sg>toping</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>nunc est bibendum</sg>,;
+<sg>Bacchus ever fair and young</sg>,;
+<sg>drink down all unkindness</sg>,;
+<sg>O that men should put an enemy in their mouths to steal away their brains</sg>,;
+<br>
+</paragraph>

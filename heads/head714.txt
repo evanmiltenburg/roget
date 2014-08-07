@@ -1,0 +1,52 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#28#</sectionNumber>
+<headword>#<b>#[001] #714# Leisure #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>leisure</i></sg>,;
+<sg>convenience</sg>,;
+<sg>spare time, spare hours, spare moments</sg>,;
+<sg>vacant hour</sg>,;
+<sg>time, time to spare, time on one's hands</sg>,;
+<sg>holiday, relaxation ,<cref>687 <i>rest</i></cref></sg>,;
+<sg>otium cum dignitate , ease</sg>,;
+<sg>no hurry</sg>,;
+<sg>no big rush</sg>,;
+<sg>no deadline</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>have leisure</sg>,;
+<sg>take one's time, take one's leisure, take one's ease</sg>,;
+<sg>repose ,<cref> 687 <i>improvement</i></cref></sg>,;
+<sg>move slowly ,<cref> 275 <i>motion</i></cref></sg>,;
+<sg>while away the time ,<cref>681 <i>inaction</i></cref></sg>,;
+<sg>be master of one's time, be an idle man</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>leisure, leisurely</sg>,;
+<sg>slow ,<cref> 275 <i>motion</i></cref></sg>,;
+<sg>deliberate, quiet, calm, undisturbed</sg>,;
+<sg>at leisure, at one's ease, at loose ends, at a loose end</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>unhurriedly, deliberately, without undue haste</sg>,;
+<sg>anytime</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>time hanging heavy on one's hands</sg>,;
+<sg>eile mit Weile</sg>,;
+<br>
+</paragraph>

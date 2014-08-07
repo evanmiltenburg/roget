@@ -1,0 +1,62 @@
+<classNumber>#2#</classNumber>
+<sectionNumber>#9#</sectionNumber>
+<headword>#<b>#[001] #188# Space #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>space, </i>extension, extent, superficial extent, expanse, stretch, hyperspace</sg>,;
+<sg>room, scope, range, field, way, expansion, compass, sweep, swing, spread</sg>,;
+<sg>dimension, length ,<cref> 200 <i>receptacle</i></cref></sg>,;
+<sg>distance ,<cref> 196 <i>absence</i></cref></sg>,;
+<sg>size ,<cref> 192 <i>situation</i></cref></sg>,;
+<sg>volume</sg>,;
+<sg>hypervolume</sg>,;
+<sg>latitude, play, leeway, purchase, tolerance, room for maneuver</sg>,;
+<sg>spare room, elbow room, house room</sg>,;
+<sg>stowage, roomage, margin</sg>,;
+<sg>opening, sphere, arena</sg>,;
+<sg>open space, free space</sg>,;
+<sg>void ,<cref>187 <i>absence</i></cref></sg>,;
+<sg>waste</sg>,;
+<sg>wildness, wilderness</sg>,;
+<sg>moor, moorland</sg>,;
+<sg>campagna</sg>,;
+<sg>abyss ,<cref>198 <i>interval</i></cref></sg>,;
+<sg>unlimited space</sg>,;
+<sg>infinity ,<cref> 105 <i>fraction</i></cref></sg>,;
+<sg>world</sg>,;
+<sg>ubiquity ,<cref>186 <i>presence</i></cref></sg>,;
+<sg>length and breadth of the land</sg>,;
+<sg>proportions, acreage</sg>,;
+<sg>acres, acres and perches, roods and perches, hectares, square miles</sg>,;
+<sg>square inches, square yards, square centimeters, square meters, yards (clothing) </sg>,;
+<sg>ares, arpents</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>spacious, roomy, extensive, expansive, capacious, ample</sg>,;
+<sg>widespread, vast, world-wide, uncircumscribed</sg>,;
+<sg>boundless ,<cref>105 <i>infinite</i></cref></sg>,;
+<sg>shoreless, trackless, pathless</sg>,;
+<sg>extended</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>extensively</sg>,;
+<sg>wherever</sg>,;
+<sg>everywhere</sg>,;
+<sg>far and near, far and wide</sg>,;
+<sg>right and left, all over, all the world over</sg>,;
+<sg>throughout the world, throughout the length and breadth of the land</sg>,;
+<sg>under the sun, in every quarter</sg>,;
+<sg>in all quarters, in all lands</sg>,;
+<sg>here there and everywhere</sg>,;
+<sg>from pole to pole, from China to Peru, from Indus to the pole, from Dan to Beersheba, from end to end</sg>,;
+<sg>on the face of the earth, in the wide world, from all points of the compass</sg>,;
+<sg>to the four winds, to the uttermost parts of the earth</sg>,;
+<br>
+</paragraph>

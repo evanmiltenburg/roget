@@ -1,0 +1,33 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#28#</sectionNumber>
+<headword>#<b>#[001] #730# Bungler #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>bungler</i></sg>,;
+<sg>blunderer, blunderhead</sg>,;
+<sg>marplot, fumbler, lubber, duffer, dauber, stick</sg>,;
+<sg>bad hand, poor hand, poor shot</sg>,;
+<sg>butterfingers</sg>,;
+<sg>no conjurer, flat, muff, slow coach, looby, lubber, swab</sg>,;
+<sg>clod, yokel, awkward squad, blanc-bec</sg>,;
+<sg>galoot</sg>,;
+<sg>land lubber</sg>,;
+<sg>fresh water sailor, fair weather sailor</sg>,;
+<sg>horse marine</sg>,;
+<sg>fish out of water, ass in lion's skin, jackdaw in peacock's feathers</sg>,;
+<sg>quack ,<cref>548 <i>deceiver</i></cref></sg>,;
+<sg>lord of misrule</sg>,;
+<sg>sloven, slattern, trapes</sg>,;
+<sg>amateur, novice, greenhorn (learner) 541</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>il n'a pas invente' la poudre</sg>,;
+<sg>he will never set the Thames on fire</sg>,;
+<sg>acierta errando</sg>,;
+<sg>aliquis in omnibus nullus in singulis</sg>,;
+<br>
+</paragraph>

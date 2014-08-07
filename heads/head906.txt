@@ -1,0 +1,88 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#36#</sectionNumber>
+<headword>#<b>#[001] #906# Dislike #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>dislike, </i>distaste, disrelish, disinclination, displacency</sg>,;
+<sg>reluctance</sg>,;
+<sg>backwardness ,<cref>603 <i>unwillingness</i></cref></sg>,;
+<sg>repugnance, disgust, queasiness, turn, nausea, loathing</sg>,;
+<sg>averseness, aversation, aversion</sg>,;
+<sg>abomination, antipathy, abhorrence, horror</sg>,;
+<sg>mortal antipathy, rooted antipathy, mortal horror, rooted horror</sg>,;
+<sg>hatred, detestation</sg>,;
+<sg>hate ,<cref> 898 <i>hopelessness</i></cref></sg>,;
+<sg>animosity ,<cref> 900 <i>courage</i></cref></sg>,;
+<sg>hydrophobia</sg>,;
+<sg>canine madness</sg>,;
+<sg>byssa, xenophobia</sg>,;
+<sg>sickener</sg>,;
+<sg>gall and wormwood ,<cref>395 <i>unsavory</i></cref></sg>,;
+<sg>shuddering, cold sweat</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>mislike misrelish, dislike, disrelish</sg>,;
+<sg>mind, object to</sg>,;
+<sg>have rather not, would rather not, prefer not to, not care for</sg>,;
+<sg>have a dislike for, conceive a dislike to, entertain a dislike for, take a dislike to, have an aversion to, have an aversion for</sg>,;
+<sg>have no taste for, have no stomach for</sg>,;
+<sg>shun, avoid ,<cref> 623 <i>poetry</i></cref></sg>,;
+<sg>eschew</sg>,;
+<sg>withdraw from, shrink from, recoil from</sg>,;
+<sg>not be able to bear, not be able to abide, not be able to endure</sg>,;
+<sg>shrug the shoulders at, shudder at, turn up the nose at, look askance at</sg>,;
+<sg>make a mouth, make a wry face, make a grimace</sg>,;
+<sg>make faces</sg>,;
+<sg>loathe, nauseate, abominate, detest, abhor</sg>,;
+<sg>hate ,<cref> 898 <i>hopelessness</i></cref></sg>,;
+<sg>take amiss ,<cref> 900 <i>courage</i></cref></sg>,;
+<sg>have enough of ,<cref>869 <i>be satiated</i></cref></sg>,;
+<sg>wish away, unwish cause dislike, excite dislike</sg>,;
+<sg>disincline, repel, sicken</sg>,;
+<sg>make sick, render sick</sg>,;
+<sg>turn one's stomach, nauseate, wamble, disgust, shock, stink in the nostrils</sg>,;
+<sg>go against the grain, go against the stomach</sg>,;
+<sg>stick in the throat</sg>,;
+<sg>make one's blood run cold ,<cref>830 <i>give pain</i></cref></sg>,;
+<sg>pall</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>disliking</sg>,;
+<sg>averse from, loathe, loathe to, loth, adverse</sg>,;
+<sg>shy of, sick of, out of conceit with</sg>,;
+<sg>disinclined</sg>,;
+<sg>heartsick, dogsick</sg>,;
+<sg>queasy</sg>,;
+<sg>disliked</sg>,;
+<sg>uncared for, unpopular</sg>,;
+<sg>out of favor</sg>,;
+<sg>repulsive, repugnant, repellant</sg>,;
+<sg>abhorrent, insufferable, fulsome, nauseous</sg>,;
+<sg>loathsome, loathful</sg>,;
+<sg>offensive</sg>,;
+<sg>disgusting</sg>,;
+<sg>disagreeable c</sg>,;
+<sg>(painful) 830</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>usque ad nauseam</sg>,;
+<sg>Int</sg>,;
+<sg>faugh!, foh!, ugh!,</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>non libet</sg>,;
+<br>
+</paragraph>

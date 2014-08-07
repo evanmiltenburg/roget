@@ -1,0 +1,35 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#39#</sectionNumber>
+<headword>#<b>#[001] #1025# Hell #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>hell, </i>bottomless pit, place of torment</sg>,;
+<sg>habitation of fallen angels</sg>,;
+<sg>Pandemonium, Abaddon, Domdaniel</sg>,;
+<sg>jahannan, sheol</sg>,;
+<sg>hell fire</sg>,;
+<sg>everlasting fire, everlasting torment, eternal damnation</sg>,;
+<sg>lake of fire and brimstone</sg>,;
+<sg>fire that is never quenched</sg>,;
+<sg>worm that never dies</sg>,;
+<sg>purgatory, limbo, gehenna, abyss</sg>,;
+<sg>Tartarus, Hades, Avernus, Styx, Stygian creek, pit of Acheron, Cocytus</sg>,;
+<sg>infernal regions, inferno, shades below, realms of Pluto</sg>,;
+<sg>Pluto, Rhadamanthus, Erebus</sg>,;
+<sg>Tophet</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>hellish, infernal, stygian</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>dies irae dies illa</sg>,;
+<sg>the hue of dungeons and the scowl of night</sg>,;
+<br>
+</paragraph>

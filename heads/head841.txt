@@ -1,0 +1,62 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#34#</sectionNumber>
+<headword>#<b>#[001] #841# Debt #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>debt, </i>obligation, liability, indebtment, debit, score</sg>,;
+<sg>bill</sg>,;
+<sg>check</sg>,;
+<sg>account (credit) 805</sg>,;
+<sg>arrears, deferred payment, deficit, default, insolvency ,<cref>808 <i>nonpayment</i></cref></sg>,;
+<sg>bad debt</sg>,;
+<sg>interest</sg>,;
+<sg>premium</sg>,;
+<sg>usance, usury</sg>,;
+<sg>floating debt, floating capital</sg>,;
+<sg>debtor, debitor</sg>,;
+<sg>mortgagor</sg>,;
+<sg>defaulter ,<cref> 808 <i>loss</i></cref></sg>,;
+<sg>borrower</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be in debt</sg>,;
+<sg>owe</sg>,;
+<sg>incur a debt, contract a debt</sg>,;
+<sg>run up a bill, run up a score, run up an account</sg>,;
+<sg>go on tick</sg>,;
+<sg>borrow ,<cref> 788 <i>resignation</i></cref></sg>,;
+<sg>run into debt, get into debt, outrun the constable</sg>,;
+<sg>run up debts, run up bills (spend) 809</sg>,;
+<sg>answer for, go bail for</sg>,;
+<sg>bill, charge</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>indebted</sg>,;
+<sg>liable, chargeable, answerable for</sg>,;
+<sg>in debt, in embarrassed circumstances, in difficulties</sg>,;
+<sg>incumbered, involved</sg>,;
+<sg>involved in debt, plunged in debt, deep in debt, over one's head in debt, over head and ears in debt</sg>,;
+<sg>deeply involved</sg>,;
+<sg>fast tied up</sg>,;
+<sg>insolvent ,<cref>808 <i>not paying</i></cref></sg>,;
+<sg>minus, out of pocket</sg>,;
+<sg>unpaid</sg>,;
+<sg>unrequited, unrewarded</sg>,;
+<sg>owing, due, in arrear, outstanding</sg>,;
+<sg>past due</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>aes alienum debitorem leve gravius inimicum facit</sg>,;
+<sg>neither a borrower nor a lender be</sg>,;
+<br>
+</paragraph>

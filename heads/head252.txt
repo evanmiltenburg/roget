@@ -1,0 +1,34 @@
+<classNumber>#2#</classNumber>
+<sectionNumber>#11#</sectionNumber>
+<headword>#<b>#[001] #252# Symmetry #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>symmetry, </i>shapeliness, finish</sg>,;
+<sg>beauty ,<cref> 845 <i>receipt</i></cref></sg>,;
+<sg>proportion, eurythmy, uniformity, parallelism</sg>,;
+<sg>bilateral symmetry, trilateral symmetry, multilateral symmetry</sg>,;
+<sg>centrality ,<cref> 222 <i>horizontality</i></cref></sg>,;
+<sg>arborescence, branching, ramification</sg>,;
+<sg>arbor vitae</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>symmetrical, shapely, well set, finished</sg>,;
+<sg>beautiful ,<cref> 845 <i>receipt</i></cref></sg>,;
+<sg>classic, chaste, severe</sg>,;
+<sg>regular, uniform, balanced</sg>,;
+<sg>equal ,<cref> 27 <i>quantity</i></cref></sg>,;
+<sg>parallel, coextensive</sg>,;
+<sg>arborescent, arboriform</sg>,;
+<sg>dendriform, dendroid</sg>,;
+<sg>branching</sg>,;
+<sg>ramous, ramose</sg>,;
+<sg>filiciform, filicoid</sg>,;
+<sg>subarborescent</sg>,;
+<sg>papilionaceous</sg>,;
+<sg>fuji-shaped, fujigata</sg>,;
+<br>
+</paragraph>

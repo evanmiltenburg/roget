@@ -1,0 +1,86 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#25#</sectionNumber>
+<headword>#<b>#[001] #610# Loquacity #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>loquacity, </i>loquaciousness</sg>,;
+<sg>talkativeness</sg>,;
+<sg>garrulity</sg>,;
+<sg>multiloquence, much speaking</sg>,;
+<sg>jaw</sg>,;
+<sg>gabble</sg>,;
+<sg>jabber, chatter</sg>,;
+<sg>prate, prattle, cackle, clack</sg>,;
+<sg>twaddle, twattle, rattle</sg>,;
+<sg>caquet, caquetterie</sg>,;
+<sg>blabber, bavardage, bibble-babble, gibble-gabble</sg>,;
+<sg>small talk ,<cref>588 <i>converse</i></cref></sg>,;
+<sg>fluency, flippancy, volubility, flowing, tongue</sg>,;
+<sg>flow of words</sg>,;
+<sg>flux de bouche, flux de mots</sg>,;
+<sg>copia verborum, cacoethes loquendi</sg>,;
+<sg>furor loquendi</sg>,;
+<sg>verbosity ,<cref>573 <i>diffuseness</i></cref></sg>,;
+<sg>gift of the gab ,<cref>582 <i>eloquence</i></cref></sg>,;
+<sg>talker</sg>,;
+<sg>chatterer, chatterbox</sg>,;
+<sg>babbler</sg>,;
+<sg>rattle</sg>,;
+<sg>ranter</sg>,;
+<sg>sermonizer, proser, driveler</sg>,;
+<sg>blatherskite</sg>,;
+<sg>gossip ,<cref>588 <i>converse</i></cref></sg>,;
+<sg>magpie, jay, parrot, poll, Babel</sg>,;
+<sg>moulin a paroles</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be loquacious</sg>,;
+<sg>talk glibly, pour forth, patter</sg>,;
+<sg>prate, palaver, prose, chatter, prattle, clack, jabber, jaw</sg>,;
+<sg>blather, blatter, blether</sg>,;
+<sg>rattle, rattle on</sg>,;
+<sg>twaddle, twattle</sg>,;
+<sg>babble, gabble</sg>,;
+<sg>outtalk</sg>,;
+<sg>talk oneself out of breath, talk oneself hoarse</sg>,;
+<sg>expatiate ,<cref>573 <i>speak at length</i></cref></sg>,;
+<sg>gossip ,<cref>588 <i>converse</i></cref></sg>,;
+<sg>din in the ears ,<cref>104 <i>repeat</i></cref></sg>,;
+<sg>talk at random, talk nonsense ,<cref> 497 <i>certainty</i></cref></sg>,;
+<sg>be hoarse with talking</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>loquacious, talkative, garrulous, linguacious, multiloquous</sg>,;
+<sg>largiloquent</sg>,;
+<sg>chattering</sg>,;
+<sg>chatty ,<cref>892 <i>sociable</i></cref></sg>,;
+<sg>declamatory ,<cref> 582 <i>painting</i></cref></sg>,;
+<sg>open-mouthed</sg>,;
+<sg>fluent, voluble, glib, flippant</sg>,;
+<sg>long tongued, long winded ,<cref>573 <i>diffuse</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>trippingly on the tongue</sg>,;
+<sg>glibly</sg>,;
+<sg>off the reel</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>the tongue running fast, the tongue running loose, the tongue running on wheels</sg>,;
+<sg>all talk and no cider</sg>,;
+<sg>foul whisperings are abroad</sg>,;
+<sg>what a spendthrift is he of his tongue!</sg>,;
+<br>
+</paragraph>

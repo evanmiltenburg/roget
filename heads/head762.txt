@@ -1,0 +1,25 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#30#</sectionNumber>
+<headword>#<b>#[001] #762# Trophy #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>trophy</i></sg>,;
+<sg>medal, prize, palm, award</sg>,;
+<sg>laurel, laurels</sg>,;
+<sg>bays, crown, chaplet, wreath, civic crown</sg>,;
+<sg>insignia ,<cref> 550 <i>manifestation</i></cref></sg>,;
+<sg>feather in one's cap ,<cref>873 <i>honor</i></cref></sg>,;
+<sg>decoration ,<cref> 877 <i>lamentation</i></cref></sg>,;
+<sg>garland, triumphal arch, Victoria Cross, Iron Cross</sg>,;
+<sg>triumph ,<cref>883 <i>celebration</i></cref></sg>,;
+<sg>flying colors ,<cref>882 <i>show</i></cref></sg>,;
+<sg>monumentum aere perennius</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>for valor</sg>,;
+<br>
+</paragraph>

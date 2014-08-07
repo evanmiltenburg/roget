@@ -1,0 +1,40 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#1#</sectionNumber>
+<headword>#<b>#[001] #7# State #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>state, </i>condition, category, estate, lot, ease, trim, mood, pickle, plight, temper</sg>,;
+<sg>aspect ,<cref>448 <i>appearance</i></cref>, dilemma, pass, predicament</sg>,;
+<sg>constitution, habitude, diathesis</sg>,;
+<sg>frame, fabric ,<cref> 329 <i>world</i></cref></sg>,;
+<sg>stamp, set, fit, mold, mould</sg>,;
+<sg>mode, modality, schesis</sg>,;
+<sg>form ,<cref>240 <i>shape</i></cref></sg>,;
+<sg>tone, tenor, turn</sg>,;
+<sg>trim, guise, fashion, light, complexion, style, character</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be in a state, possess a state, enjoy a state, labor under a state</sg>,;
+<sg>be on a footing, do, fare</sg>,;
+<sg>come to pass</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>conditional, modal, formal</sg>,;
+<sg>structural, organic</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>conditionally</sg>,;
+<sg>as the matter stands, as things are</sg>,;
+<sg>such being the case ,<cref> 8 <i>circumstance</i></cref></sg>,;
+<br>
+</paragraph>

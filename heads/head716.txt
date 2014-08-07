@@ -1,0 +1,54 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#28#</sectionNumber>
+<headword>#<b>#[001] #716# Repose #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>repose, </i>rest, silken repose</sg>,;
+<sg>sleep ,<cref> 683 <i>health</i></cref></sg>,;
+<sg>relaxation, breathing time</sg>,;
+<sg>halt, stay, pause ,<cref>142 <i>cessation</i></cref></sg>,;
+<sg>respite</sg>,;
+<sg>day of rest, dies non, Sabbath, Lord's day, holiday, red-letter day, vacation, recess</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>repose</sg>,;
+<sg>rest, rest and be thankful</sg>,;
+<sg>take a rest, take one's ease, take it easy</sg>,;
+<sg>relax, unbend, slacken</sg>,;
+<sg>take breath ,<cref>689 <i>refresh</i></cref></sg>,;
+<sg>rest upon one's oars</sg>,;
+<sg>pause ,<cref>142 <i>cease</i></cref></sg>,;
+<sg>stay one's hand</sg>,;
+<sg>lie down</sg>,;
+<sg>recline, recline on a bed of down, recline on an easy chair</sg>,;
+<sg>go to rest, go to bed, go to sleep ,<cref> 683 <i>health</i></cref></sg>,;
+<sg>take a holiday, shut up shop</sg>,;
+<sg>lie fallow ,<cref>681 <i>inaction</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>reposing</sg>,;
+<sg>relaxed</sg>,;
+<sg>unstrained</sg>,;
+<sg>unstressed</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>at rest</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>The best of men have ever loved repose</sg>,;
+<sg>to repair our nature with comforting repose</sg>,;
+<br>
+</paragraph>

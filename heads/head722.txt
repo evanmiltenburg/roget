@@ -1,0 +1,74 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#28#</sectionNumber>
+<headword>#<b>#[001] #722# Direction #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>direction</i></sg>,;
+<sg>management, managery</sg>,;
+<sg>government, gubernation, conduct, legislation, regulation, guidance</sg>,;
+<sg>bossism</sg>,;
+<sg>legislature</sg>,;
+<sg>steerage, pilotage</sg>,;
+<sg>reins, reins of government</sg>,;
+<sg>helm, rudder, needle, compass</sg>,;
+<sg>guiding star, load star, lode star, pole star</sg>,;
+<sg>cynosure</sg>,;
+<sg>supervision, superintendence</sg>,;
+<sg>surveillance, oversight</sg>,;
+<sg>eye of the master</sg>,;
+<sg>control, charge</sg>,;
+<sg>board of control ,<cref>696 <i>council</i></cref></sg>,;
+<sg>command ,<cref>737 <i>authority</i></cref></sg>,;
+<sg>premiership, senatorship</sg>,;
+<sg>director ,<cref> 694 <i>danger</i></cref></sg>,;
+<sg>chair, portfolio</sg>,;
+<sg>statesmanship</sg>,;
+<sg>statecraft, kingcraft, queencraft</sg>,;
+<sg>ministry, ministration</sg>,;
+<sg>administration</sg>,;
+<sg>stewardship, proctorship</sg>,;
+<sg>agency</sg>,;
+<sg>director ,<cref> 694 <i>danger</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>direct, manage, govern, conduct</sg>,;
+<sg>order, prescribe, cut out work for</sg>,;
+<sg>bead, lead</sg>,;
+<sg>lead the way, show the way</sg>,;
+<sg>take the lead, lead on</sg>,;
+<sg>regulate, guide, steer, pilot</sg>,;
+<sg>tackle, take the helm, be at the helm</sg>,;
+<sg>have the reins, handle the reins, hold the reins, take the reins</sg>,;
+<sg>drive, tool</sg>,;
+<sg>superintend, supervise</sg>,;
+<sg>overlook, control, keep in order, look after, see to, legislate for</sg>,;
+<sg>administer, ministrate</sg>,;
+<sg>matronize</sg>,;
+<sg>have the care of, have the charge of</sg>,;
+<sg>be in charge of, have charge of, take the direction</sg>,;
+<sg>boss, boss one around</sg>,;
+<sg>pull the strings, pull the wires</sg>,;
+<sg>rule ,<cref>737 <i>command</i></cref></sg>,;
+<sg>have the direction, hold office, hold the portfolio</sg>,;
+<sg>preside, preside at the board</sg>,;
+<sg>take the chair, occupy the chair, be in the chair</sg>,;
+<sg>pull the stroke oar</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>directing</sg>,;
+<sg>hegemonic</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>at the helm, at the head of</sg>,;
+<br>
+</paragraph>

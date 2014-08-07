@@ -1,0 +1,99 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#29#</sectionNumber>
+<headword>#<b>#[001] #737# Opposition #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>opposition, </i>antagonism</sg>,;
+<sg>oppugnancy, oppugnation</sg>,;
+<sg>impugnation</sg>,;
+<sg>contrariety</sg>,;
+<sg>contravention</sg>,;
+<sg>counteraction ,<cref> 179 <i>physical inertness</i></cref></sg>,;
+<sg>counterplot</sg>,;
+<sg>cross fire, undercurrent, head wind</sg>,;
+<sg>clashing, collision, conflict</sg>,;
+<sg>competition, two of a trade, rivalry, emulation, race</sg>,;
+<sg>absence of aid ,<cref> 708 <i>misuse</i></cref></sg>,;
+<sg>resistance ,<cref> 719 <i>agent</i></cref></sg>,;
+<sg>restraint ,<cref> 751 <i>warfare</i></cref></sg>,;
+<sg>hindrance ,<cref> 706 <i>use</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>oppose, counteract, run counter to</sg>,;
+<sg>withstand ,<cref>719 <i>resist</i></cref></sg>,;
+<sg>control ,<cref>751 <i>restrain</i></cref></sg>,;
+<sg>hinder ,<cref> 706 <i>use</i></cref></sg>,;
+<sg>antagonize, oppugn, fly in the face of, go dead against, kick against, fall afoul of, run afoul of</sg>,;
+<sg>set against, pit against</sg>,;
+<sg>face, confront, cope with</sg>,;
+<sg>make a stand, make a dead set against</sg>,;
+<sg>set oneself against, set one's face against</sg>,;
+<sg>protest against, vote against, raise one's voice against</sg>,;
+<sg>disfavor, turn one's back upon</sg>,;
+<sg>set at naught, slap in the face, slam the door in one's face</sg>,;
+<sg>be at cross purposes</sg>,;
+<sg>play at cross purposes</sg>,;
+<sg>counterwork, countermine</sg>,;
+<sg>thwart, overthwart</sg>,;
+<sg>work against, undermine</sg>,;
+<sg>stem, breast, encounter</sg>,;
+<sg>stem the tide, breast the tide, stem the current, stem the flood</sg>,;
+<sg>buffet the waves</sg>,;
+<sg>beat up against, make head against</sg>,;
+<sg>grapple with</sg>,;
+<sg>kick against the pricks ,<cref>719 <i>resist</i></cref></sg>,;
+<sg>contend ,<cref> 720 <i>workshop</i></cref></sg>,;
+<sg>do battle with ,<cref>722 <i>warfare</i></cref>, do battle against</sg>,;
+<sg>contradict, contravene</sg>,;
+<sg>belie</sg>,;
+<sg>go against, run against, beat against, militate against</sg>,;
+<sg>come in conflict with</sg>,;
+<sg>emulate ,<cref>720 <i>compete</i></cref></sg>,;
+<sg>rival, spoil one's trade</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>opposing, opposed</sg>,;
+<sg>adverse, antagonistic</sg>,;
+<sg>contrary ,<cref> 14 <i>contrariety</i></cref></sg>,;
+<sg>at variance ,<cref> 24 <i>prototype</i></cref></sg>,;
+<sg>at issue, at war with</sg>,;
+<sg>unfavorable, unfriendly</sg>,;
+<sg>hostile, inimical, cross, unpropitious</sg>,;
+<sg>in hostile array, front to front, with crossed bayonets, at daggers drawn</sg>,;
+<sg>up in arms</sg>,;
+<sg>resistant ,<cref> 719 <i>agent</i></cref></sg>,;
+<sg>competitive, emulous</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>against, versus, counter to, in conflict with, at cross purposes</sg>,;
+<sg>against the grain, against the current, against the stream, against the wind, against the tide</sg>,;
+<sg>with a headwind</sg>,;
+<sg>with the wind ahead, with the wind in one's teeth</sg>,;
+<sg>in spite, in despite, in defiance</sg>,;
+<sg>in the way, in the teeth of, in the face of</sg>,;
+<sg>across</sg>,;
+<sg>athwart, overthwart</sg>,;
+<sg>where the shoe pinches</sg>,;
+<sg>in spite of one's teeth</sg>,;
+<sg>though ,<cref> 30 <i>inequality</i></cref></sg>,;
+<sg>even</sg>,;
+<sg>quand meme</sg>,;
+<sg>per contra</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>nitor in adversum</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,49 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#26#</sectionNumber>
+<headword>#<b>#[001] #638# Rejection #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>rejection, </i>repudiation, exclusion</sg>,;
+<sg>refusal ,<cref> 764 <i>adversity</i></cref></sg>,;
+<sg>declination</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>reject</sg>,;
+<sg>set aside, lay aside</sg>,;
+<sg>give up</sg>,;
+<sg>decline ,<cref>764 <i>refuse</i></cref></sg>,;
+<sg>exclude, except</sg>,;
+<sg>pluck, spin</sg>,;
+<sg>cast</sg>,;
+<sg>repudiate, scout, set at naught</sg>,;
+<sg>fling to the winds, fling to the dogs, fling overboard, fling away, cast to the winds, cast to the dogs, cast overboard, cast away, throw to the winds, throw to the dogs, throw overboard, throw away, toss to the winds, toss to the dogs, toss overboard, toss away</sg>,;
+<sg>send to the right about</sg>,;
+<sg>disclaim ,<cref>536 <i>deny</i></cref></sg>,;
+<sg>discard ,<cref>678 <i>eject) 297, (have done with</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>rejected</sg>,;
+<sg>reject, rejectaneous, rejectious</sg>,;
+<sg>not chosen ,<cref> 609 <i>stammering</i></cref>, to be thought of, out of the question</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>neither, neither the one nor the other</sg>,;
+<sg>no ,<cref> 536 <i>omen</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>non haec in faedera</sg>,;
+<br>
+</paragraph>

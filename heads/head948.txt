@@ -1,0 +1,50 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#37#</sectionNumber>
+<headword>#<b>#[001] #948# Malediction #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>malediction, </i>malison, curse, imprecation, denunciation, execration, anathema, ban, proscription, excommunication, commination, thunders of the Vatican, fulmination, maranatha</sg>,;
+<sg>aspersion, disparagement, vilification, vituperation</sg>,;
+<sg>abuse</sg>,;
+<sg>foul language, bad language, strong language, unparliamentary language</sg>,;
+<sg>billingsgate, sauce, evil speaking</sg>,;
+<sg>cursing</sg>,;
+<sg>profane swearing, oath</sg>,;
+<sg>foul invective, ribaldry, rude reproach, scurrility</sg>,;
+<sg>threat ,<cref> 909 <i>wonder</i></cref></sg>,;
+<sg>more bark than bite</sg>,;
+<sg>invective ,<cref>932 <i>disapprobation</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>curse, accurse, imprecate, damn, swear at</sg>,;
+<sg>curse with bell book and candle</sg>,;
+<sg>invoke curses on the head of, call down curses on the head of</sg>,;
+<sg>devote to destruction</sg>,;
+<sg>execrate, beshrew, scold</sg>,;
+<sg>anathematize ,<cref>932 <i>censure</i></cref></sg>,;
+<sg>bold up to execration, denounce, proscribe, excommunicate, fulminate, thunder against</sg>,;
+<sg>threaten ,<cref> 909 <i>wonder</i></cref></sg>,;
+<sg>curse and swear</sg>,;
+<sg>swear, swear like a trooper</sg>,;
+<sg>fall a cursing, rap out an oath, damn</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>cursing, cursed</sg>,;
+<sg>Int</sg>,;
+<sg>woe to!, beshrew!, ruat coelum!, ill betide, woe betide</sg>,;
+<sg>confusion seize!, damn!, damn it!, damn you!, damn you to hell!, go to hell!, go to blazes!, confound!, blast!, curse!, devil take!, hang!, out with!, a plague upon!, out upon!, aroynt!, honi soit!, parbleu! ,</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>delenda est Carthago</sg>,;
+<br>
+</paragraph>

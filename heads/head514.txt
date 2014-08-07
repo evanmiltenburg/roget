@@ -1,0 +1,137 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#20#</sectionNumber>
+<headword>#<b>#[001] #514# Knowledge #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>knowledge</i></sg>,;
+<sg>cognizance, cognition, cognoscence</sg>,;
+<sg>acquaintance, experience, ken, privity, insight, familiarity</sg>,;
+<sg>comprehension, apprehension</sg>,;
+<sg>recognition</sg>,;
+<sg>appreciation ,<cref>480 <i>judgment</i></cref></sg>,;
+<sg>intuition</sg>,;
+<sg>conscience, consciousness</sg>,;
+<sg>perception, precognition</sg>,;
+<sg>acroamatics</sg>,;
+<sg>light, enlightenment</sg>,;
+<sg>glimpse, inkling</sg>,;
+<sg>glimmer, glimmering</sg>,;
+<sg>dawn</sg>,;
+<sg>scent, suspicion</sg>,;
+<sg>impression ,<cref>453 <i>idea</i></cref></sg>,;
+<sg>discovery ,<cref> 480 <i>neglect</i></cref></sg>,;
+<sg>1</sg>,;
+<sg>system of knowledge, body of knowledge</sg>,;
+<sg>science, philosophy, pansophy</sg>,;
+<sg>acroama</sg>,;
+<sg>theory, aetiology, etiology</sg>,;
+<sg>circle of the sciences</sg>,;
+<sg>pandect, doctrine, body of doctrine</sg>,;
+<sg>cyclopedia, encyclopedia</sg>,;
+<sg>school ,<cref>484 <i>system of opinions</i></cref></sg>,;
+<sg>tree of knowledge</sg>,;
+<sg>republic of letters ,<cref>560 <i>language</i></cref></sg>,;
+<sg>erudition, learning, lore, scholarship, reading, letters</sg>,;
+<sg>literature</sg>,;
+<sg>book madness</sg>,;
+<sg>book learning, bookishness</sg>,;
+<sg>bibliomania, bibliolatry</sg>,;
+<sg>information, general information</sg>,;
+<sg>store of knowledge </sg>,;
+<sg>education ,<cref>537 <i>teaching</i></cref></sg>,;
+<sg>culture, menticulture, attainments</sg>,;
+<sg>acquirements, acquisitions</sg>,;
+<sg>accomplishments</sg>,;
+<sg>proficiency</sg>,;
+<sg>practical knowledge ,<cref>698 <i>skill</i></cref></sg>,;
+<sg>liberal education</sg>,;
+<sg>dilettantism</sg>,;
+<sg>rudiments ,<cref>66 <i>beginning</i></cref></sg>,;
+<sg>deep knowledge, profound knowledge, solid knowledge, accurate knowledge, acroatic knowledge, acroamatic knowledge, vast knowledge, extensive knowledge, encyclopedic knowledge, encyclopedic learning</sg>,;
+<sg>omniscience, pantology</sg>,;
+<sg>march of intellect</sg>,;
+<sg>progress of science, advance of science, advance of learning</sg>,;
+<sg>schoolmaster abroad</sg>,;
+<sg>scholar ,<cref> 492 <i>qualification</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>know, ken, scan, wot</sg>,;
+<sg>wot aware, be aware of</sg>,;
+<sg>ween, weet, trow, have, possess</sg>,;
+<sg>conceive</sg>,;
+<sg>apprehend, comprehend</sg>,;
+<sg>take, realize, understand, savvy, appreciate</sg>,;
+<sg>fathom, make out</sg>,;
+<sg>recognize, discern, perceive, see, get a sight-of, experience</sg>,;
+<sg>know full well</sg>,;
+<sg>have some knowledge of, possess some knowledge of</sg>,;
+<sg>be au courant</sg>,;
+<sg>have in one's head, have at one' fingers ends</sg>,;
+<sg>know by heart, know by rote</sg>,;
+<sg>be master of</sg>,;
+<sg>connaitre le dessous des cartes, know what's what ,<cref> 698 <i>alarm</i></cref></sg>,;
+<sg>see one's way</sg>,;
+<sg>discover ,<cref> 480 <i>neglect</i></cref></sg>,;
+<sg>1</sg>,;
+<sg>come to one's knowledge ,<cref>527 <i>information</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>knowing</sg>,;
+<sg>cognitive</sg>,;
+<sg>acroamatic</sg>,;
+<sg>aware of, cognizant of, conscious of</sg>,;
+<sg>acquainted with, made acquainted with</sg>,;
+<sg>privy to, no stranger to</sg>,;
+<sg>au fait with, au courant</sg>,;
+<sg>in the secret</sg>,;
+<sg>up to, alive to</sg>,;
+<sg>behind the scenes, behind the curtain</sg>,;
+<sg>let into</sg>,;
+<sg>apprized of, informed of</sg>,;
+<sg>undeceived</sg>,;
+<sg>proficient with, versed with, read with, forward with, strong with, at home in</sg>,;
+<sg>conversant with, familiar with</sg>,;
+<sg>erudite, instructed, leaned, lettered, educated</sg>,;
+<sg>well conned, well informed, well read, well grounded, well educated</sg>,;
+<sg>enlightened, shrewd, savant, blue, bookish, scholastic, solid, profound, deep-read, book- learned</sg>,;
+<sg>accomplished ,<cref>698 <i>skillful</i></cref></sg>,;
+<sg>omniscient</sg>,;
+<sg>self-taught</sg>,;
+<sg>known</sg>,;
+<sg>ascertained, well-known, recognized, received, notorious, noted</sg>,;
+<sg>proverbial</sg>,;
+<sg>familiar, familiar as household words, familiar to every schoolboy</sg>,;
+<sg>hackneyed, trite, trivial, commonplace</sg>,;
+<sg>cognoscible, cognizable</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>to one's knowledge, to the best of one's knowledge</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>one's eyes being opened ,<cref>529 <i>disclosure</i></cref></sg>,;
+<sg>ompredre tout c'est tout pardonner, to know all is to pardon all</sg>,;
+<sg>empta dolore docet experientia</sg>,;
+<sg>gnothi seauton</sg>,;
+<sg>half our knowledge we must snatch not take</sg>,;
+<sg>Jahre lehren mehr als Bucher, years teach more than books</sg>,;
+<sg>knowledge comes but wisdom lingers</sg>,;
+<sg>knowledge is power</sg>,;
+<sg>les affaires font les hommes</sg>,;
+<sg>nec scire fas est omnia</sg>,;
+<sg>the amassed thought and experience of innumerable minds</sg>,;
+<sg>was ich nicht weiss macht mich nicht heiss</sg>,;
+<br>
+</paragraph>

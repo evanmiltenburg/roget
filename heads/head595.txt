@@ -1,0 +1,31 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#25#</sectionNumber>
+<headword>#<b>#[001] #595# Style #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>style, </i>diction, phraseology, wording</sg>,;
+<sg>manner, strain</sg>,;
+<sg>composition</sg>,;
+<sg>mode of expression, choice of words</sg>,;
+<sg>mode of speech, literary power, ready pen, pen of a ready writer</sg>,;
+<sg>command of language ,<cref>582 <i>eloquence</i></cref></sg>,;
+<sg>authorship</sg>,;
+<sg>la morgue litteraire</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>express by words ,<cref> 566 <i>teacher</i></cref></sg>,;
+<sg>write</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>le style c'est de l'homme</sg>,;
+<sg>style is the dress of thoughts</sg>,;
+<sg>Various Qualities of Style</sg>,;
+<br>
+</paragraph>

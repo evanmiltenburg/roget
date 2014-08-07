@@ -1,0 +1,34 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#27#</sectionNumber>
+<headword>#<b>#[001] #686# Insalubrity #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>insalubrity</i></sg>,;
+<sg>unhealthiness</sg>,;
+<sg>nonnaturals</sg>,;
+<sg>plague spot</sg>,;
+<sg>malaria ,<cref>663 <i>poison</i></cref></sg>,;
+<sg>death in the pot, contagion</sg>,;
+<sg>toxicity</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>insalubrious</sg>,;
+<sg>unhealthy, unwholesome</sg>,;
+<sg>noxious, noisome</sg>,;
+<sg>morbific, morbiferous</sg>,;
+<sg>mephitic, septic, azotic, deleterious</sg>,;
+<sg>pestilent, pestiferous, pestilential</sg>,;
+<sg>virulent, venomous, envenomed</sg>,;
+<sg>poisonous, toxic, toxiferous, teratogenic</sg>,;
+<sg>narcotic</sg>,;
+<sg>contagious, infectious, catching, taking, epidemic, zymotic</sg>,;
+<sg>epizootic</sg>,;
+<sg>innutritious, indigestible, ungenial</sg>,;
+<sg>uncongenial ,<cref>24 <i>disagreeing</i></cref></sg>,;
+<sg>deadly ,<cref>361 <i>killing</i></cref></sg>,;
+<br>
+</paragraph>

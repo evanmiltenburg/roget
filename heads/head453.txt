@@ -1,0 +1,61 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#15#</sectionNumber>
+<headword>#<b>#[001] #453# Redness #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>redness, </i>red, scarlet, vermilion, carmine, crimson, pink, lake, maroon, carnation, couleur de rose, rose du Barry</sg>,;
+<sg>magenta, damask, purple</sg>,;
+<sg>flesh color, flesh tint</sg>,;
+<sg>color</sg>,;
+<sg>fresh color, high color</sg>,;
+<sg>warmth</sg>,;
+<sg>gules</sg>,;
+<sg>ruby, carbuncle</sg>,;
+<sg>rose</sg>,;
+<sg>rust, iron mold</sg>,;
+<sg>cinnabar, cochineal</sg>,;
+<sg>fuchsine</sg>,;
+<sg>ruddle, madder</sg>,;
+<sg>Indian red, light red, Venetian red</sg>,;
+<sg>red ink, annotto</sg>,;
+<sg>annatto, realgar, minium, red lead</sg>,;
+<sg>redness</sg>,;
+<sg>rubescence, rubicundity, rubification</sg>,;
+<sg>erubescence, blush</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be red, become red</sg>,;
+<sg>blush, flush, color up, mantle, redden</sg>,;
+<sg>render red</sg>,;
+<sg>redden, rouge</sg>,;
+<sg>rubify, rubricate</sg>,;
+<sg>incarnadine</sg>,;
+<sg>ruddle</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>red</sg>,;
+<sg>, reddish</sg>,;
+<sg>rufous, ruddy, florid, incarnadine, sanguine</sg>,;
+<sg>rosy, roseate</sg>,;
+<sg>blowzy, blowed</sg>,;
+<sg>burnt</sg>,;
+<sg>rubicund, rubiform</sg>,;
+<sg>lurid, stammell blood red</sg>,;
+<sg>russet buff, murrey, carroty, sorrel, lateritious</sg>,;
+<sg>rubineous, rubricate, rubricose, rufulous</sg>,;
+<sg>rose-colored, ruby-colored, cherry-colored, claret-colored, flame- colored, flesh-colored, peach-colored, salmon-colored, brick-colored, brick-colored, dust-colored</sg>,;
+<sg>blushing</sg>,;
+<sg>erubescent</sg>,;
+<sg>reddened</sg>,;
+<sg>red as fire, red as blood, red as scarlet, red as a turkey cock, red as a lobster</sg>,;
+<sg>warm, hot</sg>,;
+<sg>foxy</sg>,;
+<br>
+</paragraph>

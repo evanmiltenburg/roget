@@ -1,0 +1,48 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#5#</sectionNumber>
+<headword>#<b>#[001] #108# Fewness #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>fewness</i></sg>,;
+<sg>paucity, small number</sg>,;
+<sg>small quantity ,<cref> 32 <i>compensation</i></cref></sg>,;
+<sg>rarity</sg>,;
+<sg>infrequency ,<cref> 137 <i>adolescence</i></cref></sg>,;
+<sg>handful, maniple</sg>,;
+<sg>minority</sg>,;
+<sg>exiguity</sg>,;
+<sg>reduction</sg>,;
+<sg>weeding</sg>,;
+<sg>elimination, sarculation, decimation</sg>,;
+<sg>eradication</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be few</sg>,;
+<sg>render few</sg>,;
+<sg>reduce, diminish the number, weed, eliminate, cull, thin, decimate</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>few</sg>,;
+<sg>scant, scanty</sg>,;
+<sg>thin, rare, scattered, thinly scattered, spotty, few and far between, exiguous</sg>,;
+<sg>infrequent ,<cref> 137 <i>adolescence</i></cref></sg>,;
+<sg>rari nantes</sg>,;
+<sg>hardly any, scarcely any</sg>,;
+<sg>to be counted on one's fingers</sg>,;
+<sg>reduced</sg>,;
+<sg>unrepeated</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>rarely, here and there</sg>,;
+<br>
+</paragraph>

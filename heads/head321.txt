@@ -1,0 +1,27 @@
+<classNumber>#2#</classNumber>
+<sectionNumber>#12#</sectionNumber>
+<headword>#<b>#[001] #321# Plunge #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>plunge, </i>dip, dive, header</sg>,;
+<sg>ducking</sg>,;
+<sg>diver</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>plunge, dip, souse, duck</sg>,;
+<sg>dive, plump</sg>,;
+<sg>take a plunge, take a header</sg>,;
+<sg>make a plunge</sg>,;
+<sg>bathe ,<cref>337 <i>water</i></cref></sg>,;
+<sg>submerge, submerse</sg>,;
+<sg>immerse</sg>,;
+<sg>douse, sink, engulf, send to the bottom</sg>,;
+<sg>get out of one's depth</sg>,;
+<sg>go to the bottom, go down like a stone, drop like a lead balloon</sg>,;
+<sg>founder, welter, wallow</sg>,;
+<br>
+</paragraph>

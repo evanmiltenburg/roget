@@ -1,0 +1,55 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#15#</sectionNumber>
+<headword>#<b>#[001] #406# Pungency #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>pungency, </i>piquance, piquancy, poignancy haut-gout, strong taste, twang, race</sg>,;
+<sg>sharpness</sg>,;
+<sg>acrimony</sg>,;
+<sg>roughness ,<cref>392 <i>sour</i></cref></sg>,;
+<sg>unsavoriness ,<cref> 395 <i>heat</i></cref></sg>,;
+<sg>mustard, cayenne, caviare</sg>,;
+<sg>seasoning ,<cref>393 <i>condiment</i></cref></sg>,;
+<sg>niter, saltpeter, brine (saltiness) 392</sg>,;
+<sg>1</sg>,;
+<sg>carbonate of ammonia</sg>,;
+<sg>sal ammoniac, sal volatile, smelling salts</sg>,;
+<sg>hartshorn (acridity) 401</sg>,;
+<sg>1</sg>,;
+<sg>dram, cordial, nip</sg>,;
+<sg>nicotine, tobacco, snuff, quid, smoke</sg>,;
+<sg>segar</sg>,;
+<sg>cigar, cigarette</sg>,;
+<sg>weed</sg>,;
+<sg>fragrant weed, Indian weed</sg>,;
+<sg>Cavendish, fid, negro head, old soldier, rappee, stogy</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be pungent</sg>,;
+<sg>bite the tongue</sg>,;
+<sg>render pungent</sg>,;
+<sg>season, spice, salt, pepper, pickle, brine, devil</sg>,;
+<sg>smoke, chew, take snuff</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>pungent, strong</sg>,;
+<sg>high-, full-flavored</sg>,;
+<sg>high-tasted, high-seasoned</sg>,;
+<sg>gamy, sharp, stinging, rough, piquant, racy</sg>,;
+<sg>biting, mordant</sg>,;
+<sg>spicy</sg>,;
+<sg>seasoned</sg>,;
+<sg>hot, hot as pepper</sg>,;
+<sg>peppery, vellicating, escharotic, meracious</sg>,;
+<sg>acrid, acrimonious, bitter</sg>,;
+<sg>rough ,<cref>397 <i>sour</i></cref></sg>,;
+<sg>unsavory ,<cref> 395 <i>heat</i></cref></sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,53 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#27#</sectionNumber>
+<headword>#<b>#[001] #692# Bane #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>bane, </i>curse</sg>,;
+<sg>evil ,<cref> 619 <i>book</i></cref></sg>,;
+<sg>hurtfulness ,<cref>649 <i>badness</i></cref></sg>,;
+<sg>painfulness ,<cref>830 <i>cause of pain</i></cref></sg>,;
+<sg>scourge ,<cref>975 <i>punishment</i></cref></sg>,;
+<sg>damnosa hereditas</sg>,;
+<sg>white elephant</sg>,;
+<sg>sting, fang, thorn, tang, bramble, brier, nettle</sg>,;
+<sg>poison, toxin</sg>,;
+<sg>teratogen</sg>,;
+<sg>leaven, virus venom</sg>,;
+<sg>arsenic</sg>,;
+<sg>antimony, tartar emetic</sg>,;
+<sg>strychnine, nicotine</sg>,;
+<sg>miasma, miasm, mephitis, malaria, azote, sewer gas</sg>,;
+<sg>pest</sg>,;
+<sg>Albany hemp, arsenious oxide, arsenious acid</sg>,;
+<sg>bichloride of mercury</sg>,;
+<sg>carbonic acid, carbonic gas</sg>,;
+<sg>choke damp, corrosive sublimate, fire damp</sg>,;
+<sg>hydrocyanic acid, cyanide, Prussic acid, hydrogen cyanide</sg>,;
+<sg>marsh gas, nux vomica, ratsbane</sg>,;
+<sg>hemlock, hellebore, nightshade, belladonna, henbane, aconite</sg>,;
+<sg>banewort, bhang, ganja, hashish</sg>,;
+<sg>Upas tree</sg>,;
+<sg>Toxline (online)</sg>,;
+<sg>rust, worm, helminth, moth, moth and rust, fungus, mildew</sg>,;
+<sg>dry rot</sg>,;
+<sg>canker, cankerworm</sg>,;
+<sg>cancer</sg>,;
+<sg>torpedo</sg>,;
+<sg>viper ,<cref>913 <i>evil doer</i></cref></sg>,;
+<sg>demon ,<cref> 980 <i>accusation</i></cref></sg>,;
+<sg>toxicology</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>baneful ,<cref>649 <i>bad</i></cref></sg>,;
+<sg>poisonous ,<cref>657 <i>unwholesome</i></cref></sg>,;
+<sg>phr</sg>,;
+<sg>bibere venenum in auro</sg>,;
+<sg>3</sg>,;
+<sg>Contingent Subservience</sg>,;
+<br>
+</paragraph>

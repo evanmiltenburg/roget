@@ -1,0 +1,45 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#16#</sectionNumber>
+<headword>#<b>#[001] #470# Absence or want of Intellect #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>absence of Intellect, </i>want of intellect ,<cref> 450 <i>blackness</i></cref></sg>,;
+<sg>imbecility ,<cref> 499 <i>reasoning,</i></cref></sg>,;
+<sg>brutality, brute force</sg>,;
+<sg>instinct, brute instinct, stimulus-response loop, conditioned response, instinctive reaction, Pavlovian response</sg>,;
+<sg>mimicry, aping (imitation) 19</sg>,;
+<sg>moron, imbecile, idiot</sg>,;
+<sg>fool ,<cref> 501 <i>demonstration</i></cref></sg>,;
+<sg>dumb animal</sg>,;
+<sg>vegetable, brain dead</sg>,;
+<sg>Adj</sg>,;
+<sg>unendowed with reason, void of reason</sg>,;
+<sg>thoughtless</sg>,;
+<sg>vegetative</sg>,;
+<sg>moronic, idiotic, brainless</sg>,;
+<sg>Adv</sg>,;
+<sg>instinctively, like Pavlov's dog</sg>,;
+<sg>vegetatively</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>unendowed with reason, void of reason</sg>,;
+<sg>thoughtless</sg>,;
+<sg>vegetative</sg>,;
+<sg>moronic, idiotic, brainless</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>instinctively, like Pavlov's dog</sg>,;
+<sg>vegetatively</sg>,;
+<sg>V</sg>,;
+<sg>mimic, ape (imitate) 19</sg>,;
+<sg>respond instinctively</sg>,;
+<br>
+</paragraph>

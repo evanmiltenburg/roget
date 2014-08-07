@@ -1,0 +1,76 @@
+<classNumber>#2#</classNumber>
+<sectionNumber>#12#</sectionNumber>
+<headword>#<b>#[001] #304# Departure #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>departure, </i>decession, decampment</sg>,;
+<sg>embarkation</sg>,;
+<sg>outset, start</sg>,;
+<sg>removal</sg>,;
+<sg>exit ,<cref>295 <i>egress</i></cref></sg>,;
+<sg>exodus, hejira, flight</sg>,;
+<sg>leave taking, valediction, adieu, farewell, goodbye, auf wiedersehen, sayonara, dosvidanya, ciao, aloha, hasta la vista</sg>,;
+<sg>stirrup cup</sg>,;
+<sg>valedictorian</sg>,;
+<sg>starting point, starting post</sg>,;
+<sg>point of departure, point of embarkation, place of departure, place of embarkation</sg>,;
+<sg>port of embarkation</sg>,;
+<sg>airport, take-off point, taxiing runway, runway, launching pad, spaceport</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>depart</sg>,;
+<sg>go away</sg>,;
+<sg>take one's departure, set out</sg>,;
+<sg>set off, march off, put off, start off, be off, move off, get off, whip off, pack off, go off, take oneself off</sg>,;
+<sg>start, issue, march out, debouch</sg>,;
+<sg>go forth, sally forth</sg>,;
+<sg>sally, set forward</sg>,;
+<sg>be gone</sg>,;
+<sg>hail from</sg>,;
+<sg>leave a place, quit, vacate, evacuate, abandon</sg>,;
+<sg>go off the stage, make one's exit</sg>,;
+<sg>retire, withdraw, remove</sg>,;
+<sg>vamoose, vamose</sg>,;
+<sg>go one's way, go along, go from home</sg>,;
+<sg>take flight, take wing</sg>,;
+<sg>spring, fly, flit, wing one's flight</sg>,;
+<sg>fly away, whip away</sg>,;
+<sg>embark</sg>,;
+<sg>go on board, go aboard</sg>,;
+<sg>set sail' put to sea, go to sea</sg>,;
+<sg>sail, take ship</sg>,;
+<sg>hoist blue Peter</sg>,;
+<sg>get under way, weigh anchor</sg>,;
+<sg>strike tents, decamp</sg>,;
+<sg>walk one's chalks, cut one's stick</sg>,;
+<sg>take leave</sg>,;
+<sg>say good bye, bid goodbye</sg>,;
+<sg>disappear ,<cref> 449 <i>whiteness</i></cref></sg>,;
+<sg>abscond ,<cref>623 <i>avoid</i></cref></sg>,;
+<sg>entrain</sg>,;
+<sg>inspan</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>departing</sg>,;
+<sg>valedictory</sg>,;
+<sg>outward bound</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>whence, hence, thence</sg>,;
+<sg>with a foot in the stirrup</sg>,;
+<sg>on the wing, on the move</sg>,;
+<sg>Int</sg>,;
+<sg>begone!, ,<cref>297 <i>ejection</i></cref></sg>,;
+<sg>farewell!, adieu!, goodbye!, good day!, au revoir!, fare you well!, God bless you!, God speed!, all aboard!, auf wiedersehen!, au plaisir de vous revoir!, bon voyage!, gluckliche Reise!, vive valeque! ,</sg>,;
+<br>
+</paragraph>

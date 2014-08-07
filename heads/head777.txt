@@ -1,0 +1,78 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#31#</sectionNumber>
+<headword>#<b>#[001] #777# Servant #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>servant, </i>subject, liegeman</sg>,;
+<sg>servant, retainer, follower, henchman, servitor, domestic, menial, help, lady help, employe, attache</sg>,;
+<sg>official</sg>,;
+<sg>retinue, suite, cortege, staff, court</sg>,;
+<sg>attendant, squire, usher, page, donzel, footboy</sg>,;
+<sg>train bearer, cup bearer</sg>,;
+<sg>waiter, lapster, butler, livery servant, lackey, footman, flunky, flunkey, valet, valet de chambre</sg>,;
+<sg>equerry, groom</sg>,;
+<sg>jockey, hostler, ostler, tiger, orderly, messenger, cad, gillie, herdsman, swineherd</sg>,;
+<sg>barkeeper, bartender</sg>,;
+<sg>bell boy, boots, boy, counterjumper</sg>,;
+<sg>khansamah, khansaman</sg>,;
+<sg>khitmutgar</sg>,;
+<sg>yardman</sg>,;
+<sg>bailiff, castellan, seneschal, chamberlain, major-domo, groom of the chambers</sg>,;
+<sg>secretary</sg>,;
+<sg>under secretary, assistant secretary</sg>,;
+<sg>clerk</sg>,;
+<sg>subsidiary</sg>,;
+<sg>agent ,<cref> 758 <i>completion</i></cref></sg>,;
+<sg>subaltern</sg>,;
+<sg>underling, understrapper</sg>,;
+<sg>man</sg>,;
+<sg>maid, maidservant</sg>,;
+<sg>handmaid</sg>,;
+<sg>confidente, lady's maid, abigail, soubrette</sg>,;
+<sg>amah, biddy, nurse, bonne, ayah</sg>,;
+<sg>nursemaid, nursery maid, house maid, parlor maid, waiting maid, chamber maid, kitchen maid, scullery maid</sg>,;
+<sg>femme de chambre, femme fille</sg>,;
+<sg>camarista</sg>,;
+<sg>chef de cuisine, cordon bleu, cook, scullion, Cinderella</sg>,;
+<sg>potwalloper</sg>,;
+<sg>maid of all work, servant of all work</sg>,;
+<sg>laundress, bedmaker</sg>,;
+<sg>journeyman, charwoman ,<cref>690 <i>worker</i></cref></sg>,;
+<sg>bearer, chokra, gyp (Cambridge), hamal, scout (Oxford)</sg>,;
+<sg>serf, vassal, slave, negro, helot</sg>,;
+<sg>bondsman, bondswoman</sg>,;
+<sg>bondslave</sg>,;
+<sg>ame damnee, odalisque, ryot, adscriptus gleboe</sg>,;
+<sg>villian, villein</sg>,;
+<sg>beadsman, bedesman</sg>,;
+<sg>sizar</sg>,;
+<sg>pensioner, pensionary</sg>,;
+<sg>client</sg>,;
+<sg>dependant, dependent</sg>,;
+<sg>hanger on, satellite</sg>,;
+<sg>parasite ,<cref>886 <i>servility</i></cref></sg>,;
+<sg>led captain</sg>,;
+<sg>protege, ward, hireling, mercenary, puppet, tool, creature</sg>,;
+<sg>badge of slavery</sg>,;
+<sg>bonds ,<cref> 752 <i>pacification</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>serve</sg>,;
+<sg>wait upon, attend upon, dance attendance upon, pin oneself upon</sg>,;
+<sg>squire, tend, hang on the sleeve of</sg>,;
+<sg>chore</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>in the train of</sg>,;
+<sg>in one's pay, in one's employ</sg>,;
+<sg>at one's call ,<cref>743 <i>obedient</i></cref></sg>,;
+<sg>in bonds</sg>,;
+<br>
+</paragraph>

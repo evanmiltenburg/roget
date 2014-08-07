@@ -1,0 +1,59 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#21#</sectionNumber>
+<headword>#<b>#[001] #530# Oblivion #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>oblivion, </i>obliviousness, lethe</sg>,;
+<sg>forgetfulness</sg>,;
+<sg>amnesia</sg>,;
+<sg>obliteration of &c 552, insensibility to the past ,<cref> 823 <i>restitution</i></cref></sg>,;
+<sg>short memory, treacherous memory, poor memory, loose memory, slippery memory, failing memory</sg>,;
+<sg>decay of memory, failure of memory, lapse of memory</sg>,;
+<sg>waters of Lethe, waters of oblivion</sg>,;
+<sg>amnesty, general pardon</sg>,;
+<sg>repressed memory</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>forget</sg>,;
+<sg>be forgetful</sg>,;
+<sg>fall into oblivion, sink into oblivion</sg>,;
+<sg>have a short memory</sg>,;
+<sg>, have no head</sg>,;
+<sg>forget one's own name, have on the tip of one's tongue, come in one ear and go out the other</sg>,;
+<sg>slip memory, escape memory, fade from memory, die away from the memory</sg>,;
+<sg>lose, lose sight of</sg>,;
+<sg>fail to recall, not be able to recall</sg>,;
+<sg>unlearn</sg>,;
+<sg>efface ,<cref> 552 <i>information</i></cref>, discharge from the memory</sg>,;
+<sg>consign to oblivion, consign to the tomb of the Capulets</sg>,;
+<sg>think no more of ,<cref>458 <i>turn the attention from</i></cref></sg>,;
+<sg>cast behind one's back, wean one's thoughts from</sg>,;
+<sg>let bygones be bygones ,<cref>918 <i>forgive</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>forgotten</sg>,;
+<sg>unremembered, past recollection, bygone, out of mind</sg>,;
+<sg>buried in oblivion, sunk in oblivion</sg>,;
+<sg>clean forgotten</sg>,;
+<sg>gone out of one's head, gone out of one's recollection</sg>,;
+<sg>forgetful, oblivious, mindless, Lethean</sg>,;
+<sg>insensible to the past ,<cref> 823 <i>restitution</i></cref></sg>,;
+<sg>heedless</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>non mi ricordo</sg>,;
+<sg>the memory failing, the memory deserting one, being at fault, being in fault</sg>,;
+<sg>2</sg>,;
+<sg>To the Future</sg>,;
+<br>
+</paragraph>

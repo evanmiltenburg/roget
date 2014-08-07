@@ -1,0 +1,73 @@
+<classNumber>#2#</classNumber>
+<sectionNumber>#12#</sectionNumber>
+<headword>#<b>#[001] #275# Motion #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>motion, </i>movement, move</sg>,;
+<sg>going</sg>,;
+<sg>unrest</sg>,;
+<sg>stream, flow, flux, run, course, stir</sg>,;
+<sg>evolution</sg>,;
+<sg>kinematics</sg>,;
+<sg>telekinesis</sg>,;
+<sg>step, rate, pace, tread, stride, gait, port, footfall, cadence, carriage, velocity, angular velocity</sg>,;
+<sg>clip, progress, locomotion</sg>,;
+<sg>journey ,<cref> 266 <i>smoothness</i></cref></sg>,;
+<sg>voyage ,<cref> 267 <i>roughness</i></cref></sg>,;
+<sg>transit ,<cref> 270 <i>furrow</i></cref></sg>,;
+<sg>restlessness ,<cref>149 <i>changeableness</i></cref></sg>,;
+<sg>mobility</sg>,;
+<sg>movableness, motive power</sg>,;
+<sg>laws of motion</sg>,;
+<sg>mobilization</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be in motion</sg>,;
+<sg>move, go, hie, gang, budge, stir, pass, flit</sg>,;
+<sg>hover about, hover round, hover about</sg>,;
+<sg>shift, slide, glide</sg>,;
+<sg>roll, roll on</sg>,;
+<sg>flow, stream, run, drift, sweep along</sg>,;
+<sg>wander ,<cref>279 <i>deviate</i></cref></sg>,;
+<sg>walk ,<cref> 266 <i>smoothness</i></cref></sg>,;
+<sg>change one's place, shift one's place, change one's quarters, shift one's quarters</sg>,;
+<sg>dodge</sg>,;
+<sg>keep going, keep moving</sg>,;
+<sg>put in motion, set in motion</sg>,;
+<sg>move</sg>,;
+<sg>impel ,<cref> 276 <i>quiescence</i></cref></sg>,;
+<sg>propel ,<cref> 284 <i>ship</i></cref></sg>,;
+<sg>render movable, mobilize</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>moving</sg>,;
+<sg>in motion</sg>,;
+<sg>transitional</sg>,;
+<sg>motory, motive</sg>,;
+<sg>shifting, movable, mobile, mercurial, unquiet</sg>,;
+<sg>restless ,<cref>149 <i>changeable</i></cref></sg>,;
+<sg>nomadic ,<cref> 266 <i>smoothness</i></cref></sg>,;
+<sg>erratic ,<cref> 279 <i>traveler</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>under way</sg>,;
+<sg>on the move, on the wing, on the tramp, on the march</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>eppur si muove</sg>,;
+<sg>es bildet ein Talent sich in der Stille, sich ein Charakter in dem Strom der Welt</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,29 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#38#</sectionNumber>
+<headword>#<b>#[001] #968# Dereliction of Duty #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>dereliction of duty</i></sg>,;
+<sg>fault ,<cref>947 <i>guilt</i></cref></sg>,;
+<sg>sin ,<cref>945 <i>vice</i></cref></sg>,;
+<sg>non-observance, non-performance</sg>,;
+<sg>neglect, relaxation, infraction, violation, transgression, failure, evasion</sg>,;
+<sg>dead letter</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>violate</sg>,;
+<sg>break, break through</sg>,;
+<sg>infringe</sg>,;
+<sg>set aside, set at naught</sg>,;
+<sg>encroach upon, trench upon</sg>,;
+<sg>trample on, trample under foot</sg>,;
+<sg>slight, neglect, evade, renounce, forswear, repudiate</sg>,;
+<sg>wash one's hands of</sg>,;
+<sg>escape, transgress, fail</sg>,;
+<sg>call to account ,<cref>932 <i>disapprobation</i></cref></sg>,;
+<br>
+</paragraph>

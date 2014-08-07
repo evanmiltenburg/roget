@@ -1,0 +1,84 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#27#</sectionNumber>
+<headword>#<b>#[001] #665# Store #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>store, </i>stock, fund, mine, vein, lode, quarry</sg>,;
+<sg>spring</sg>,;
+<sg>fount, fountain</sg>,;
+<sg>well, wellspring</sg>,;
+<sg>milch cow</sg>,;
+<sg>stock in trade, supply</sg>,;
+<sg>heap ,<cref>72 <i>collection</i></cref></sg>,;
+<sg>treasure</sg>,;
+<sg>reserve, corps de reserve, reserved fund, nest egg, savings, bonne bouche</sg>,;
+<sg>crop, harvest, mow, vintage</sg>,;
+<sg>store, accumulation, hoard, rick, stack</sg>,;
+<sg>lumber</sg>,;
+<sg>relay ,<cref>637 <i>provision</i></cref></sg>,;
+<sg>storehouse, storeroom, storecloset</sg>,;
+<sg>depository, depot, cache, repository, reservatory, repertory</sg>,;
+<sg>repertorium</sg>,;
+<sg>promptuary, warehouse, entrepot, magazine</sg>,;
+<sg>buttery, larder, spence</sg>,;
+<sg>garner, granary</sg>,;
+<sg>cannery, safe-deposit vault, stillroom</sg>,;
+<sg>thesaurus</sg>,;
+<sg>bank ,<cref>802 <i>treasury</i></cref></sg>,;
+<sg>armory</sg>,;
+<sg>arsenal</sg>,;
+<sg>dock</sg>,;
+<sg>gallery, museum, conservatory</sg>,;
+<sg>menagery, menagerie</sg>,;
+<sg>reservoir, cistern, aljibar, tank, pond, mill pond</sg>,;
+<sg>gasometer</sg>,;
+<sg>budget, quiver, bandolier, portfolio</sg>,;
+<sg>coffer ,<cref>191 <i>receptacle</i></cref></sg>,;
+<sg>conservation</sg>,;
+<sg>storing</sg>,;
+<sg>storage</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>store</sg>,;
+<sg>put by, lay by, set by</sg>,;
+<sg>stow away</sg>,;
+<sg>set apart, lay apart</sg>,;
+<sg>store treasure, hoard treasure, lay up, heap up, put up, garner up, save up</sg>,;
+<sg>bank</sg>,;
+<sg>cache</sg>,;
+<sg>accumulate, amass, hoard, fund, garner, save</sg>,;
+<sg>reserve</sg>,;
+<sg>keep back, hold back</sg>,;
+<sg>husband, husband one's resources</sg>,;
+<sg>deposit</sg>,;
+<sg>stow, stack, load</sg>,;
+<sg>harvest</sg>,;
+<sg>heap, collect ,<cref> 72 <i>middle</i></cref></sg>,;
+<sg>lay in store  Adj</sg>,;
+<sg>keep, file (papers)</sg>,;
+<sg>lay in ,<cref>637 <i>provide</i></cref></sg>,;
+<sg>preserve ,<cref> 670 <i>redundancy</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>keep, file (papers)</sg>,;
+<sg>lay in ,<cref>637 <i>provide</i></cref></sg>,;
+<sg>preserve ,<cref> 670 <i>redundancy</i></cref></sg>,;
+<sg>Adj</sg>,;
+<sg>stored</sg>,;
+<sg>in store, in reserve, in ordinary</sg>,;
+<sg>spare, supernumerary</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>adde parvum parvo magnus acervus erit</sg>,;
+<br>
+</paragraph>

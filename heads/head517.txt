@@ -1,0 +1,35 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#20#</sectionNumber>
+<headword>#<b>#[001] #517# Ignoramus #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>ignoramus, </i>dunce</sg>,;
+<sg>wooden spoon</sg>,;
+<sg>no scholar</sg>,;
+<sg>(imbecility) 499 (folly) 501 moron, imbecile, idiot</sg>,;
+<sg>fool, jerk, nincompoop, asshole</sg>,;
+<sg>dilettante, sciolist, smatterer, dabbler, half scholar</sg>,;
+<sg>charlatan</sg>,;
+<sg>wiseacre</sg>,;
+<sg>greenhorn, amateur ,<cref>547 <i>dupe</i></cref></sg>,;
+<sg>novice, tyro ,<cref>541 <i>learner</i></cref></sg>,;
+<sg>numskull</sg>,;
+<sg>lubber ,<cref>701 <i>bungler</i></cref></sg>,;
+<sg>fool ,<cref> 501 <i>demonstration</i></cref></sg>,;
+<sg>pedant ,<cref> 492 <i>qualification</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>bookless, shallow</sg>,;
+<sg>ignorant ,<cref> 491 <i>counter evidence</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>a wit with dunces and a dunce with wits</sg>,;
+<br>
+</paragraph>

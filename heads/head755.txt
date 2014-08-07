@@ -1,0 +1,97 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#29#</sectionNumber>
+<headword>#<b>#[001] #755# Combatant #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>combatant</i></sg>,;
+<sg>disputant, controversialist, polemic, litigant, belligerent</sg>,;
+<sg>competitor, rival, corrival</sg>,;
+<sg>fighter, assailant</sg>,;
+<sg>champion, Paladin</sg>,;
+<sg>mosstrooper, swashbuckler fire eater, duelist, bully, bludgeon man, rough</sg>,;
+<sg>prize fighter, pugilist, boxer, bruiser, the fancy, gladiator, athlete, wrestler</sg>,;
+<sg>fighting-cock, game-cock</sg>,;
+<sg>warrior, soldier, fighting man, Amazon, man at arms, armigerent</sg>,;
+<sg>campaigner, veteran</sg>,;
+<sg>swordsman, sabreur, redcoat, military man, Rajput</sg>,;
+<sg>armed force, troops, soldiery, military forces, sabaoth, the army, standing army, regulars, the line, troops of the line, militia, yeomanry, volunteers, trainband, fencible</sg>,;
+<sg>auxiliary, bersagliere, brave</sg>,;
+<sg>garde-nationale, garde-royale</sg>,;
+<sg>minuteman</sg>,;
+<sg>auxiliary forces, reserve forces</sg>,;
+<sg>reserves, posse comitatus, national guard, gendarme, beefeater</sg>,;
+<sg>guards, guardsman</sg>,;
+<sg>yeomen of the guard, life guards, household troops</sg>,;
+<sg>janissary</sg>,;
+<sg>myrmidon</sg>,;
+<sg>Mama, Mameluke</sg>,;
+<sg>spahee, spahi, Cossack, Croat, Pandoz</sg>,;
+<sg>irregular, guerilla, partisan, condottiere</sg>,;
+<sg>franctireur, tirailleur, bashi-bazouk</sg>,;
+<sg>vietminh, vietcong</sg>,;
+<sg>shining path</sg>,;
+<sg>contras</sg>,;
+<sg>huk, hukbalahap</sg>,;
+<sg>mercenary, soldier of fortune</sg>,;
+<sg>hired gun, gunfighter, gunslinger</sg>,;
+<sg>bushwhacker, free lance, companion</sg>,;
+<sg>Hessian</sg>,;
+<sg>hit man torpedo, soldier</sg>,;
+<sg>levy, draught</sg>,;
+<sg>Landwehr, Landsturm</sg>,;
+<sg>conscript, recruit, cadet, raw levies</sg>,;
+<sg>infantry, infantryman, private, private soldier, foot soldier</sg>,;
+<sg>Tommy Atkins, rank and file, peon, trooper, sepoy, legionnaire, legionary, cannon fodder, food for powder</sg>,;
+<sg>officer ,<cref>745 <i>commander</i></cref></sg>,;
+<sg>subaltern, ensign, standard bearer</sg>,;
+<sg>spearman, pikeman</sg>,;
+<sg>spear bearer</sg>,;
+<sg>halberdier, lancer</sg>,;
+<sg>musketeer, carabineer, rifleman, jager, sharpshooter, yager, skirmisher</sg>,;
+<sg>grenadier, fusileer</sg>,;
+<sg>archer, bowman</sg>,;
+<sg>horse and foot</sg>,;
+<sg>horse soldier</sg>,;
+<sg>cavalry, horse, artillery, horse artillery, light horse, voltigeur, uhlan, mounted rifles, dragoon, hussar</sg>,;
+<sg>light dragoon, heavy dragoon</sg>,;
+<sg>heavy</sg>,;
+<sg>cuirassier</sg>,;
+<sg>Foot Guards, Horse Guards</sg>,;
+<sg>gunner, cannoneer, bombardier, artilleryman, matross</sg>,;
+<sg>sapper, sapper and miner</sg>,;
+<sg>engineer</sg>,;
+<sg>light infantry, rifles, chasseur, zouave</sg>,;
+<sg>military train, coolie</sg>,;
+<sg>army, corps d'armee, host, division, battalia, column, wing, detachment, garrison, flying column, brigade, regiment, corps, battalion, sotnia, squadron, company, platoon, battery, subdivision, section, squad</sg>,;
+<sg>piquet, picket, guard, rank, file</sg>,;
+<sg>legion, phalanx, cohort</sg>,;
+<sg>cloud of skirmishers</sg>,;
+<sg>war horse, charger, destrier</sg>,;
+<sg>marine, man-of-war's man ,<cref>269 <i>sailor</i></cref></sg>,;
+<sg>navy, wooden walls, naval forces, fleet, flotilla, armada, squadron</sg>,;
+<sg>man-of-war</sg>,;
+<sg>destroyer</sg>,;
+<sg>submarine</sg>,;
+<sg>minesweeper</sg>,;
+<sg>torpedo-boat, torpedo-destroyer</sg>,;
+<sg>patrol torpedo boat, PT boat</sg>,;
+<sg>torpedo- catcher, war castle, H</sg>,;
+<sg>M</sg>,;
+<sg>S</sg>,;
+<sg>battleship, battle wagon, dreadnought, line of battle ship, ship of the line</sg>,;
+<sg>aircraft carrier, carrier</sg>,;
+<sg>flattop</sg>,;
+<sg>helicopter carrier</sg>,;
+<sg>missile platform, missile boat</sg>,;
+<sg>ironclad, turret ship, ram, monitor, floating battery</sg>,;
+<sg>first- rate, frigate, sloop of war, corvette, gunboat, bomb vessel</sg>,;
+<sg>flagship, guard ship, cruiser</sg>,;
+<sg>armored cruiser, protected cruiser</sg>,;
+<sg>privateer</sg>,;
+<sg>tender</sg>,;
+<sg>store ship, troop ship</sg>,;
+<sg>transport, catamaran</sg>,;
+<sg>merchant marine</sg>,;
+<br>
+</paragraph>

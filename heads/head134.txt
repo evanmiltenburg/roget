@@ -1,0 +1,78 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#6#</sectionNumber>
+<headword>#<b>#[001] #134# Age #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>age</i></sg>,;
+<sg>oldness</sg>,;
+<sg>old age, advanced age, golden years</sg>,;
+<sg>senility, senescence</sg>,;
+<sg>years, anility, gray hairs, climacteric, grand climacteric, declining years, decrepitude, hoary age, caducity, superannuation</sg>,;
+<sg>second childhood, second childishness</sg>,;
+<sg>dotage</sg>,;
+<sg>vale of years, decline of life, sear and yellow leaf</sg>,;
+<sg>threescore years and ten</sg>,;
+<sg>green old age, ripe age</sg>,;
+<sg>longevity</sg>,;
+<sg>time of life</sg>,;
+<sg>seniority, eldership</sg>,;
+<sg>elders ,<cref>130 <i>veteran</i></cref></sg>,;
+<sg>firstling</sg>,;
+<sg>doyen, father</sg>,;
+<sg>primogeniture</sg>,;
+<sg>geriatrics, nostology</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be aged</sg>,;
+<sg>grow old, get old</sg>,;
+<sg>age</sg>,;
+<sg>decline, wane, dodder</sg>,;
+<sg>senesce</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>aged</sg>,;
+<sg>old ,<cref> 124 <i>the present time</i></cref></sg>,;
+<sg>elderly, geriatric, senile</sg>,;
+<sg>matronly, anile</sg>,;
+<sg>in years</sg>,;
+<sg>ripe, mellow, run to seed, declining, waning, past one's prime</sg>,;
+<sg>gray, gray-headed</sg>,;
+<sg>hoar, hoary</sg>,;
+<sg>venerable, time-worn, antiquated, passe, effete, decrepit, superannuated</sg>,;
+<sg>advanced in life, advanced in years</sg>,;
+<sg>stricken in years</sg>,;
+<sg>wrinkled, marked withthe crow's foot</sg>,;
+<sg>having one foot in the grave</sg>,;
+<sg>doting ,<cref>499 <i>imbecile</i></cref></sg>,;
+<sg>like the last of pea time</sg>,;
+<sg>older, elder, eldest</sg>,;
+<sg>senior</sg>,;
+<sg>firstborn</sg>,;
+<sg>turned of, years old</sg>,;
+<sg>of a certain age, no chicken, old as Methuselah</sg>,;
+<sg>ancestral, patriarchal, ,<cref>124 <i>ancient</i></cref></sg>,;
+<sg>gerontic</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>give me a staff of honor for my age</sg>,;
+<sg>bis pueri senes</sg>,;
+<sg>peu de gens savent elre vieux</sg>,;
+<sg>plenus annis abiit plenus honoribus</sg>,;
+<sg>old age is creeping on apace</sg>,;
+<sg>slow-consuming age</sg>,;
+<sg>the hoary head is a crown of glory</sg>,;
+<sg>the silver livery of advised age</sg>,;
+<sg>to grow old gracefully</sg>,;
+<sg>to vanish in the chinks that Time has made</sg>,;
+<br>
+</paragraph>

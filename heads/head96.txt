@@ -1,0 +1,34 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#5#</sectionNumber>
+<headword>#<b>#[001] #96# Triality #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>triality, </i>trinity</sg>,;
+<sg>triunity</sg>,;
+<sg>three, triad, triplet, trey, trio, ternion, leash</sg>,;
+<sg>shamrock, tierce, spike-team, trefoil</sg>,;
+<sg>triangle, trident, triennium, trigon, trinomial, trionym, triplopia, tripod, trireme, triseme, triskele, triskelion, trisula</sg>,;
+<sg>third power, cube</sg>,;
+<sg>cube root</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>three</sg>,;
+<sg>triform, trinal, trinomial</sg>,;
+<sg>tertiary</sg>,;
+<sg>ternary</sg>,;
+<sg>triune</sg>,;
+<sg>triarch, triadie</sg>,;
+<sg>triple ,<cref> 93 <i>duality</i></cref></sg>,;
+<sg>tri-, tris-</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>tria juncta in uno</sg>,;
+<br>
+</paragraph>

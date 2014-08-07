@@ -1,0 +1,34 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#15#</sectionNumber>
+<headword>#<b>#[001] #404# Taste #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>taste, </i>flavor, gust, gusto, savor</sg>,;
+<sg>gout, relish</sg>,;
+<sg>sapor, sapidity</sg>,;
+<sg>twang, smack, smatch</sg>,;
+<sg>aftertaste, tang</sg>,;
+<sg>tasting</sg>,;
+<sg>degustation, gustation</sg>,;
+<sg>palate, tongue, tooth, stomach</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>taste, savor, smatch, smack, flavor, twang</sg>,;
+<sg>tickle the palate ,<cref>394 <i>savory</i></cref></sg>,;
+<sg>smack the lips</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>sapid, saporific</sg>,;
+<sg>gustable, gustatory</sg>,;
+<sg>gustful</sg>,;
+<sg>strong, gamy</sg>,;
+<sg>palatable ,<cref> 394 <i>numbness</i></cref></sg>,;
+<br>
+</paragraph>

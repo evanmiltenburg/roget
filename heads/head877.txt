@@ -1,0 +1,107 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#36#</sectionNumber>
+<headword>#<b>#[001] #877# Lamentation #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>lament, lamentation</sg>,;
+<sg>wail, complaint, plaint, murmur, mutter, grumble, groan, moan, whine, whimper, sob, sigh, suspiration, heaving, deep sigh</sg>,;
+<sg>cry ,<cref>411 <i>vociferation</i></cref></sg>,;
+<sg>scream, howl</sg>,;
+<sg>outcry, wail of woe, ululation</sg>,;
+<sg>frown, scowl</sg>,;
+<sg>tear</sg>,;
+<sg>weeping</sg>,;
+<sg>flood of tears, fit of crying, lacrimation, lachrymation, melting mood, weeping and gnashing of teeth</sg>,;
+<sg>plaintiveness</sg>,;
+<sg>languishment</sg>,;
+<sg>condolence ,<cref> 915 <i>commonalty</i></cref></sg>,;
+<sg>mourning, weeds, willow, cypress, crape, deep mourning</sg>,;
+<sg>sackcloth and ashes</sg>,;
+<sg>lachrymatory</sg>,;
+<sg>knell ,<cref> 363 <i>semiliquidity</i></cref></sg>,;
+<sg>deep death song, dirge, coronach, nenia, requiem, elegy, epicedium</sg>,;
+<sg>threne</sg>,;
+<sg>monody, threnody</sg>,;
+<sg>jeremiad, jeremiade</sg>,;
+<sg>ullalulla</sg>,;
+<sg>mourner</sg>,;
+<sg>grumbler ,<cref>832 <i>discontent</i></cref></sg>,;
+<sg>Noobe</sg>,;
+<sg>Heraclitus</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>lament, mourn, deplore, grieve, weep over</sg>,;
+<sg>bewail, bemoan</sg>,;
+<sg>condole with ,<cref> 915 <i>commonalty</i></cref></sg>,;
+<sg>fret ,<cref>828 <i>suffer</i></cref></sg>,;
+<sg>wear mourning, go into mourning, put on mourning</sg>,;
+<sg>wear the willow, wear sackcloth and ashes</sg>,;
+<sg>infandum renovare dolorem</sg>,;
+<sg>,<cref>833 <i>regret</i></cref> give sorrow words</sg>,;
+<sg>sigh</sg>,;
+<sg>give a sigh, heave, fetch a sigh</sg>,;
+<sg>waft a sigh from Indus to the pole</sg>,;
+<sg>sigh 'like a furnace'</sg>,;
+<sg>wail</sg>,;
+<sg>cry, weep, sob, greet, blubber, pipe, snivel, bibber, whimper, pule</sg>,;
+<sg>pipe one's eye</sg>,;
+<sg>drop tears, shed tears, drop a tear, shed a tear</sg>,;
+<sg>melt into tears, burst into tears</sg>,;
+<sg>fondre en larmes</sg>,;
+<sg>cry oneself blind, cry one's eyes out</sg>,;
+<sg>yammer</sg>,;
+<sg>scream ,<cref>411 <i>cry out</i></cref></sg>,;
+<sg>mew ,<cref>412 <i>animal sounds</i></cref></sg>,;
+<sg>groan, moan, whine</sg>,;
+<sg>roar</sg>,;
+<sg>roar like a bull, bellow like a bull</sg>,;
+<sg>cry out lustily, rend the air</sg>,;
+<sg>frown, scowl, make a wry face, gnash one's teeth, wring one's hands, tear one's hair, beat one's breast, roll on the ground, burst with grief</sg>,;
+<sg>complain, murmur, mutter, grumble, growl, clamor, make a fuss about, croak, grunt, maunder</sg>,;
+<sg>deprecate ,<cref>932 <i>disapprove</i></cref></sg>,;
+<sg>cry out before one is hurt, complain without cause</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>lamenting</sg>,;
+<sg>in mourning, in sackcloth and ashes</sg>,;
+<sg>sorrowing, sorrowful ,<cref>828 <i>unhappy</i></cref></sg>,;
+<sg>mournful, tearful</sg>,;
+<sg>lachrymose</sg>,;
+<sg>plaintive, plaintful</sg>,;
+<sg>querulous, querimonious</sg>,;
+<sg>in the melting mood</sg>,;
+<sg>threnetic</sg>,;
+<sg>in tears, with tears in one's eyes</sg>,;
+<sg>with moistened eyes, with watery eyes</sg>,;
+<sg>bathed in tears, dissolved in tears</sg>,;
+<sg>like Niobe all tears</sg>,;
+<sg>elegiac, epicedial</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>de profundis</sg>,;
+<sg>les larmes aux yeux</sg>,;
+<sg>Int</sg>,;
+<sg>heigh-ho!, alas!, alack!, O dear!, ah me!, woe is me!, lackadaisy!, well a day!, lack a day!, alack a day!, wellaway!, alas the day!, O tempora O mores!, what a pity!, miserabile dictu!, O lud lud!, too true!,</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>tears standing in the eyes, tears starting from the eyes</sg>,;
+<sg>eyes suffused, eyes swimming, eyes brimming, eyes overflowing with tears</sg>,;
+<sg>if you have tears prepare to shed them now</sg>,;
+<sg>interdum lacrymae pondera vocis habent</sg>,;
+<sg>strangled his language in his tears</sg>,;
+<sg>tears such as angels weep</sg>,;
+<br>
+</paragraph>

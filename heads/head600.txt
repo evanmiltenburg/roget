@@ -1,0 +1,44 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#25#</sectionNumber>
+<headword>#<b>#[001] #600# Vigor #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>vigor, </i>power, force</sg>,;
+<sg>boldness, raciness</sg>,;
+<sg>intellectual, force</sg>,;
+<sg>spirit, point, antithesis, piquance, piquancy</sg>,;
+<sg>verve, glow, fire, warmth</sg>,;
+<sg>strong language</sg>,;
+<sg>gravity, sententiousness</sg>,;
+<sg>elevation, loftiness, sublimity</sg>,;
+<sg>eloquence</sg>,;
+<sg>command of words, command of language</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>vigorous, nervous, powerful, forcible, trenchant, incisive, impressive</sg>,;
+<sg>sensational</sg>,;
+<sg>spirited, lively, glowing, sparkling, racy, bold, slashing</sg>,;
+<sg>pungent, piquant, full of point, pointed, pithy, antithetical</sg>,;
+<sg>sententious</sg>,;
+<sg>lofty, elevated, sublime</sg>,;
+<sg>eloquent</sg>,;
+<sg>vehement, petulant, impassioned</sg>,;
+<sg>poetic</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>in glowing terms, in good set terms, in no measured terms</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>thoughts that breath and words that burn</sg>,;
+<br>
+</paragraph>

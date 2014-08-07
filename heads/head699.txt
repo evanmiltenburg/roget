@@ -1,0 +1,69 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#27#</sectionNumber>
+<headword>#<b>#[001] #699# Preservation #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>preservation</i></sg>,;
+<sg>safe-keeping</sg>,;
+<sg>conservation ,<cref>636 <i>storage</i></cref></sg>,;
+<sg>maintenance, support, susteritation, conservatism</sg>,;
+<sg>vis conservatrix</sg>,;
+<sg>salvation ,<cref>672 <i>deliverance</i></cref></sg>,;
+<sg>prophylaxis</sg>,;
+<sg>preserver, preservative, additive</sg>,;
+<sg>antibiotics, antifungals, biocide</sg>,;
+<sg>hygiastics, hygiantics</sg>,;
+<sg>cover, drugget</sg>,;
+<sg>cordon sanitaire</sg>,;
+<sg>canning</sg>,;
+<sg>ensilage</sg>,;
+<sg>tinned goods, canned goods</sg>,;
+<sg>snake oil, spider webs, cure-all</sg>,;
+<sg>laetrile</sg>,;
+<sg>charm ,<cref> 993 <i>impenitence</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>preserve, maintain, keep, sustain, support, hold</sg>,;
+<sg>keep up, keep alive</sg>,;
+<sg>refrigerate, keep on ice</sg>,;
+<sg>not willingly let die</sg>,;
+<sg>bank up</sg>,;
+<sg>nurse</sg>,;
+<sg>save, rescue</sg>,;
+<sg>be safe, make safe ,<cref> 664 <i>materials</i></cref></sg>,;
+<sg>take care of ,<cref>459 <i>care</i></cref></sg>,;
+<sg>guard ,<cref>717 <i>defend</i></cref></sg>,;
+<sg>stare super antiquas vias</sg>,;
+<sg>hold one's own</sg>,;
+<sg>hold one's ground, stand one's ground ,<cref>719 <i>resist</i></cref></sg>,;
+<sg>embalm, cure, salt, pickle, season, kyanize, bottle, pot, tin, can</sg>,;
+<sg>sterilize, pasteurize, radiate</sg>,;
+<sg>dry, lyophilize, freeze- dry, concentrate, evaporate</sg>,;
+<sg>freeze, quick-freeze, deep-freeze</sg>,;
+<sg>husband ,<cref>636 <i>store</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>preserving</sg>,;
+<sg>conservative</sg>,;
+<sg>prophylactic</sg>,;
+<sg>preservatory, preservative</sg>,;
+<sg>hygienic</sg>,;
+<sg>preserved</sg>,;
+<sg>unimpaired, unbroken, uninjured, unhurt, unsinged, unmarred</sg>,;
+<sg>safe, safe and sound</sg>,;
+<sg>intact, with a whole skin</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>nolumus leges Angliae mutari</sg>,;
+<br>
+</paragraph>

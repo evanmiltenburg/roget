@@ -1,0 +1,16 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#5#</sectionNumber>
+<headword>#<b>#[001] #105# Fraction #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>fraction, </i>fractional part</sg>,;
+<sg>part ,<cref> 51 <i>combination</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>fractional, fragmentary, inconsiderable, negligible, infinitesimal</sg>,;
+<br>
+</paragraph>

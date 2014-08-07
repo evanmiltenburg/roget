@@ -1,0 +1,87 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#17#</sectionNumber>
+<headword>#<b>#[001] #479# Care #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>care, </i>solicitude, heed</sg>,;
+<sg>heedfulness</sg>,;
+<sg>scruple ,<cref>939 <i>conscientiousness</i></cref></sg>,;
+<sg>watchfulness</sg>,;
+<sg>vigilance, surveillance, eyes of Argus, watch, vigil, look out, watch and ward, loeil du maitre</sg>,;
+<sg>alertness ,<cref>682 <i>activity</i></cref></sg>,;
+<sg>attention ,<cref> 457 <i>blueness</i></cref></sg>,;
+<sg>prudence &c, circumspection ,<cref>864 <i>caution</i></cref></sg>,;
+<sg>anxiety</sg>,;
+<sg>forethought ,<cref> 510 <i>credulity</i></cref></sg>,;
+<sg>precaution ,<cref>673 <i>preparation</i></cref></sg>,;
+<sg>tidiness ,<cref>652 <i>order) 58, (cleanliness</i></cref></sg>,;
+<sg>accuracy ,<cref>494 <i>exactness</i></cref></sg>,;
+<sg>minuteness, attention to detail</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be careful</sg>,;
+<sg>reck</sg>,;
+<sg>take care ,<cref>864 <i>be cautious</i></cref></sg>,;
+<sg>pay attention to ,<cref> 457 <i>blueness</i></cref></sg>,;
+<sg>take care of</sg>,;
+<sg>look to, look after, see to, see after</sg>,;
+<sg>keep an eye on, keep a sharp eye on</sg>,;
+<sg>chaperon, matronize, play gooseberry</sg>,;
+<sg>keep watch, keep watch and ward</sg>,;
+<sg>mount guard, set watch, watch</sg>,;
+<sg>keep in sight, keep in view</sg>,;
+<sg>mind, mind one's business</sg>,;
+<sg>look sharp, look about one</sg>,;
+<sg>look with one's own eyes</sg>,;
+<sg>keep a good lookout, keep a sharp lookout</sg>,;
+<sg>have all one's wits about one, have all one's eyes about one</sg>,;
+<sg>watch for ,<cref>507 <i>expect</i></cref></sg>,;
+<sg>keep one's eyes open, have the eyes open, sleep with one's eye open</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>careful regardful, heedful</sg>,;
+<sg>taking care</sg>,;
+<sg>particular</sg>,;
+<sg>prudent ,<cref>864 <i>cautious</i></cref></sg>,;
+<sg>considerate</sg>,;
+<sg>thoughtful ,<cref>451 <i>deliberative</i></cref></sg>,;
+<sg>provident ,<cref>673 <i>prepared</i></cref></sg>,;
+<sg>alert ,<cref>682 <i>active</i></cref></sg>,;
+<sg>sure-footed</sg>,;
+<sg>guarded, on one's guard</sg>,;
+<sg>on the qui vivre, on the alert, on watch, on the lookout</sg>,;
+<sg>awake, broad awake, vigilant</sg>,;
+<sg>watchful, wakeful, wistful</sg>,;
+<sg>Argus-eyed</sg>,;
+<sg>wide awake ,<cref>498 <i>intelligent</i></cref></sg>,;
+<sg>on the watch for (expectant) 507</sg>,;
+<sg>tidy ,<cref>652 <i>orderly) 58, (clean</i></cref></sg>,;
+<sg>accurate ,<cref>494 <i>exact</i></cref></sg>,;
+<sg>scrupulous ,<cref>939 <i>conscientious</i></cref></sg>,;
+<sg>cavendo tutus ,<cref>664 <i>safe</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>carefully</sg>,;
+<sg>with care, gingerly</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>quis custodiet istos custodes?, who will watch the watchers?</sg>,;
+<sg>care will kill a cat</sg>,;
+<sg>ni bebas agua que no veas</sg>,;
+<sg>O polished perturbation! Golden care!</sg>,;
+<sg>the incessant care and labor of his mind</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,62 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#25#</sectionNumber>
+<headword>#<b>#[001] #607# Aphony #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>aphony, </i>aphonia</sg>,;
+<sg>dumbness</sg>,;
+<sg>obmutescence</sg>,;
+<sg>absence of voice, want of voice</sg>,;
+<sg>dysphony</sg>,;
+<sg>cacoepy</sg>,;
+<sg>silence ,<cref>585 <i>taciturnity</i></cref></sg>,;
+<sg>raucity</sg>,;
+<sg>harsh voice &c 410, unmusical voice ,<cref> 414 <i>odor</i></cref></sg>,;
+<sg>falsetto, childish treble mute</sg>,;
+<sg>dummy</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>keep silence ,<cref> 585 <i>artist</i></cref></sg>,;
+<sg>speak low, speak softly</sg>,;
+<sg>whisper ,<cref>405 <i>faintness</i></cref></sg>,;
+<sg>silence</sg>,;
+<sg>render mute, render silent</sg>,;
+<sg>muzzle, muffle, suppress, smother, gag, strike dumb, dumfounder</sg>,;
+<sg>drown the voice, put to silence, stop one's mouth, cut one short</sg>,;
+<sg>stick in the throat</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>aphonous, dumb, mute</sg>,;
+<sg>deafmute, deaf and dumb</sg>,;
+<sg>mum</sg>,;
+<sg>tongue-tied</sg>,;
+<sg>breathless, tongueless, voiceless, speechless, wordless</sg>,;
+<sg>mute as a fish, mute as a stockfish, mute as a mackerel</sg>,;
+<sg>silent ,<cref>585 <i>taciturn</i></cref></sg>,;
+<sg>muzzled</sg>,;
+<sg>inarticulate, inaudible</sg>,;
+<sg>croaking, raucous, hoarse, husky, dry, hollow, sepulchral, hoarse as a raven</sg>,;
+<sg>rough</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>with bated breath, with the finger on the lips</sg>,;
+<sg>sotto voce</sg>,;
+<sg>in a low tone, in a cracked voice, in a broken voice</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>vox faucibus haesit</sg>,;
+<br>
+</paragraph>

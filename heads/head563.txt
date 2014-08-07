@@ -1,0 +1,122 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#24#</sectionNumber>
+<headword>#<b>#[001] #563# Teaching #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>teaching</i></sg>,;
+<sg>instruction</sg>,;
+<sg>edification</sg>,;
+<sg>education</sg>,;
+<sg>tuition</sg>,;
+<sg>tutorage, tutelage</sg>,;
+<sg>direction, guidance</sg>,;
+<sg>opsimathy</sg>,;
+<sg>qualification, preparation</sg>,;
+<sg>training, schooling</sg>,;
+<sg>discipline</sg>,;
+<sg>excitation</sg>,;
+<sg>drill, practice</sg>,;
+<sg>book exercise</sg>,;
+<sg>persuasion, proselytism, propagandism, propaganda</sg>,;
+<sg>indoctrination, inculcation, inoculation</sg>,;
+<sg>advise ,<cref> 695 <i>refuge</i></cref></sg>,;
+<sg>explanation ,<cref>522 <i>interpretation</i></cref></sg>,;
+<sg>lesson, lecture, sermon</sg>,;
+<sg>apologue, parable</sg>,;
+<sg>discourse, prolection, preachment</sg>,;
+<sg>chalk talk</sg>,;
+<sg>Chautauqua</sg>,;
+<sg>exercise, task</sg>,;
+<sg>curriculum</sg>,;
+<sg>course, course of study</sg>,;
+<sg>grammar, three R's, initiation, A</sg>,;
+<sg>B</sg>,;
+<sg>C</sg>,;
+<sg>, ,<cref>66 <i>beginning</i></cref></sg>,;
+<sg>elementary education, primary education, secondary education, technical education, college education, collegiate education, military education, university education, liberal education, classical education, religious education, denominational education, moral education, secular education</sg>,;
+<sg>propaedeutics, moral tuition</sg>,;
+<sg>gymnastics, calisthenics</sg>,;
+<sg>physical drill, physical education</sg>,;
+<sg>sloyd</sg>,;
+<sg>phonics</sg>,;
+<sg>rote, rote memorization, brute memory</sg>,;
+<sg>cooperative learning</sg>,;
+<sg>Montessori method, ungraded classes</sg>,;
+<sg>test, examination, exam</sg>,;
+<sg>final exam, mid-term exam grade, score, marks</sg>,;
+<sg>A,B,C,D,E,F</sg>,;
+<sg>gentleman's C</sg>,;
+<sg>pass, fail, incomplete</sg>,;
+<sg>homework</sg>,;
+<sg>take-home lesson</sg>,;
+<sg>exercise for the student</sg>,;
+<sg>theme, project</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>teach, instruct, educate, edify, school, tutor</sg>,;
+<sg>cram, prime, coach</sg>,;
+<sg>enlighten ,<cref>527 <i>inform</i></cref></sg>,;
+<sg>inculcate, indoctrinate, inoculate, infuse, instill, infix, ingraft, infiltrate</sg>,;
+<sg>imbue, impregnate, implant</sg>,;
+<sg>graft, sow the seeds of, disseminate</sg>,;
+<sg>given an idea of</sg>,;
+<sg>put up to, put in the way of</sg>,;
+<sg>set right</sg>,;
+<sg>sharpen the wits, enlarge the mind</sg>,;
+<sg>give new ideas, open the eyes, bring forward, teach the young idea how to shoot</sg>,;
+<sg>improve ,<cref> 658 <i>circuit</i></cref></sg>,;
+<sg>expound ,<cref>522 <i>interpret</i></cref></sg>,;
+<sg>lecture</sg>,;
+<sg>read a lesson, give a lesson, give a lecture, give a sermon, give a discourse</sg>,;
+<sg>incept</sg>,;
+<sg>hold forth, preach</sg>,;
+<sg>sermonize, moralize</sg>,;
+<sg>point a moral</sg>,;
+<sg>train, discipline</sg>,;
+<sg>bring up, bring up to</sg>,;
+<sg>form, ground, prepare, qualify</sg>,;
+<sg>drill, exercise, practice, habituate, familiarize with, nurture, drynurse, breed, rear, take in hand</sg>,;
+<sg>break, break in</sg>,;
+<sg>tame</sg>,;
+<sg>preinstruct</sg>,;
+<sg>initiate</sg>,;
+<sg>inure ,<cref>613 <i>habituate</i></cref></sg>,;
+<sg>put to nurse, send to school</sg>,;
+<sg>direct, guide</sg>,;
+<sg>direct attention to ,<cref>457 <i>attention</i></cref></sg>,;
+<sg>impress upon the mind, impress upon the memory</sg>,;
+<sg>beat into, beat into the head</sg>,;
+<sg>convince ,<cref>484 <i>belief</i></cref></sg>,;
+<sg>book, workbook, exercise book</sg>,;
+<sg>preach to the wise, teach one's grandmother to suck eggs, teach granny to suck eggs</sg>,;
+<sg>preach to the converted</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>teaching</sg>,;
+<sg>taught</sg>,;
+<sg>educational</sg>,;
+<sg>scholastic, academic, doctrinal</sg>,;
+<sg>disciplinal</sg>,;
+<sg>instructive, instructional, didactic</sg>,;
+<sg>propaedeutic, propaedeutical</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>the schoolmaster abroad</sg>,;
+<sg>a bovi majori disscit arare minor</sg>,;
+<sg>adeo in teneris consuecere multum est</sg>,;
+<sg>docendo discimus</sg>,;
+<sg>quaenocent docent</sg>,;
+<sg>qui docet discit</sg>,;
+<sg>sermons in stones and good in everything</sg>,;
+<br>
+</paragraph>

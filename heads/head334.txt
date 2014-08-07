@@ -1,0 +1,53 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#14#</sectionNumber>
+<headword>#<b>#[001] #334# Hardness #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>hardness</i></sg>,;
+<sg>rigidity</sg>,;
+<sg>renitence, renitency</sg>,;
+<sg>inflexibility, temper, callosity, durity</sg>,;
+<sg>induration, petrifaction</sg>,;
+<sg>lapidification, lapidescence</sg>,;
+<sg>vitrification, ossification</sg>,;
+<sg>crystallization</sg>,;
+<sg>stone, pebble, flint, marble, rock, fossil, crag, crystal, quartz, granite, adamant</sg>,;
+<sg>bone, cartilage</sg>,;
+<sg>hardware</sg>,;
+<sg>heart of oak, block, board, deal board</sg>,;
+<sg>iron, steel</sg>,;
+<sg>cast iron, decarbonized iron, wrought iron</sg>,;
+<sg>nail</sg>,;
+<sg>brick, concrete</sg>,;
+<sg>cement</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>render hard</sg>,;
+<sg>harden, stiffen, indurate, petrify, temper, ossify, vitrify</sg>,;
+<sg>accrust</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>hard, rigid, stubborn, stiff, firm</sg>,;
+<sg>starch, starched</sg>,;
+<sg>stark, unbending, unlimber, unyielding</sg>,;
+<sg>inflexible, tense</sg>,;
+<sg>indurate, indurated</sg>,;
+<sg>gritty, proof</sg>,;
+<sg>adamant, adamantine, adamantean</sg>,;
+<sg>concrete, stony, granitic, calculous, lithic, vitreous</sg>,;
+<sg>horny, corneous</sg>,;
+<sg>bony</sg>,;
+<sg>osseous, ossific</sg>,;
+<sg>cartilaginous</sg>,;
+<sg>hard as a rock</sg>,;
+<sg>stiff as buckram, stiff as a poker</sg>,;
+<sg>stiff as starch, stiff as as board</sg>,;
+<br>
+</paragraph>

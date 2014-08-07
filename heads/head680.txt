@@ -1,0 +1,96 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#27#</sectionNumber>
+<headword>#<b>#[001] #680# Imperfection #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>imperfection</i></sg>,;
+<sg>imperfectness</sg>,;
+<sg>deficiency</sg>,;
+<sg>inadequacy ,<cref>640 <i>insufficiency</i></cref></sg>,;
+<sg>peccancy ,<cref>649 <i>badness</i></cref></sg>,;
+<sg>immaturity ,<cref> 674 <i>inutility</i></cref></sg>,;
+<sg>fault, defect, weak point</sg>,;
+<sg>screw loose</sg>,;
+<sg>flaw ,<cref>70 <i>break</i></cref></sg>,;
+<sg>gap ,<cref> 198 <i>abode</i></cref></sg>,;
+<sg>twist ,<cref> 243 <i>limit</i></cref></sg>,;
+<sg>taint, attainder</sg>,;
+<sg>bar sinister, hole in one's coat</sg>,;
+<sg>blemish ,<cref> 848 <i>value</i></cref></sg>,;
+<sg>weakness ,<cref> 160 <i>cause</i></cref></sg>,;
+<sg>half blood</sg>,;
+<sg>shortcoming ,<cref> 304 <i>departure</i></cref></sg>,;
+<sg>drawback</sg>,;
+<sg>seamy side</sg>,;
+<sg>mediocrity</sg>,;
+<sg>no great shakes, no great catch</sg>,;
+<sg>not much to boast of</sg>,;
+<sg>one-horse shay</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be imperfect</sg>,;
+<sg>have a defect</sg>,;
+<sg>lie under a disadvantage</sg>,;
+<sg>spring a leak</sg>,;
+<sg>not pass muster, barely pass muster</sg>,;
+<sg>fall short ,<cref> 304 <i>departure</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>imperfect</sg>,;
+<sg>not perfect ,<cref> 650 <i>chance</i></cref></sg>,;
+<sg>deficient, defective</sg>,;
+<sg>faulty, unsound, tainted</sg>,;
+<sg>out of order, out of tune</sg>,;
+<sg>cracked, leaky</sg>,;
+<sg>sprung</sg>,;
+<sg>warped ,<cref>243 <i>distort</i></cref></sg>,;
+<sg>lame</sg>,;
+<sg>injured ,<cref>659 <i>deteriorated</i></cref></sg>,;
+<sg>peccant ,<cref>649 <i>bad</i></cref></sg>,;
+<sg>frail ,<cref>160 <i>weak</i></cref></sg>,;
+<sg>inadequate ,<cref>640 <i>insufficient</i></cref></sg>,;
+<sg>crude ,<cref>674 <i>unprepared</i></cref></sg>,;
+<sg>incomplete ,<cref> 53 <i>whole</i></cref></sg>,;
+<sg>found wanting</sg>,;
+<sg>below par</sg>,;
+<sg>short-handed</sg>,;
+<sg>below its full strength, under its full strength, below its full complement</sg>,;
+<sg>indifferent, middling, ordinary, mediocre</sg>,;
+<sg>average ,<cref> 29 <i>equality</i></cref></sg>,;
+<sg>so-so</sg>,;
+<sg>coucicouci, milk and water</sg>,;
+<sg>tolerable, fair, passable</sg>,;
+<sg>pretty well, pretty good</sg>,;
+<sg>rather good, moderately good</sg>,;
+<sg>good</sg>,;
+<sg>good enough, well enough, adequate</sg>,;
+<sg>decent</sg>,;
+<sg>not bad, not amiss</sg>,;
+<sg>inobjectionable, unobjectionable, admissible, bearable, only better than nothing</sg>,;
+<sg>secondary, inferior</sg>,;
+<sg>second-rate, second-best</sg>,;
+<sg>one-horse</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>almost </sg>,;
+<sg>to a limited extent, rather ,<cref> 32 <i>compensation</i></cref></sg>,;
+<sg>pretty, moderately, passing</sg>,;
+<sg>only, considering, all things considered, enough</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>surgit amari aliquid</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,93 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#39#</sectionNumber>
+<headword>#<b>#[001] #1019# Deity #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>deity, </i>Divinity</sg>,;
+<sg>Godhead, Godship</sg>,;
+<sg>Omnipotence, Providence</sg>,;
+<sg>Heaven (metonymically)</sg>,;
+<sg>divineness, divinity</sg>,;
+<sg>God, Lord, Jehovah, Jahweh, Allah</sg>,;
+<sg>The Almighty, The Supreme Being, The First Cause, the Prime Mover</sg>,;
+<sg>Ens Entium</sg>,;
+<sg>Author of all things, Creator of all things</sg>,;
+<sg>Author of our being</sg>,;
+<sg>Cosmoplast</sg>,;
+<sg>El</sg>,;
+<sg>The Infinite, The Eternal</sg>,;
+<sg>The All-powerful, The All-wise, The All- merciful, The All-holy</sg>,;
+<sg>infinite power, infinite wisdom, infinite goodness, infinite justice, infinite truth, infinite mercy</sg>,;
+<sg>omnipotence, omniscience, omnipresence</sg>,;
+<sg>unity, immutability, holiness, glory, majesty, sovereignty, infinity, eternity</sg>,;
+<sg>The Trinity, The Holy Trinity, The Trinity in Unity, The Triune God, God the Father Son and Holy Ghost</sg>,;
+<sg>God the Father</sg>,;
+<sg>The Maker, The Creator, The Preserver</sg>,;
+<sg>creation, preservation, divine government</sg>,;
+<sg>Theocracy, Thearchy</sg>,;
+<sg>providence</sg>,;
+<sg>ways of Providence, dealings of Providence, dispensations of Providence, visitations of Providence</sg>,;
+<sg>God the Son, Jesus, Christ</sg>,;
+<sg>The Messiah, The Anointed, The Saviour, the Redeemer, The Mediator, The Intercessor, The Advocate, The Judge</sg>,;
+<sg>The Son of God, The Son of Man, The Son of David</sg>,;
+<sg>The Lamb of God, The Word</sg>,;
+<sg>Logos</sg>,;
+<sg>Emmanuel</sg>,;
+<sg>Immanuel</sg>,;
+<sg>The King of Kings and Lord of Lords, The King of Glory, The Prince of Peace, The Good Shepherd, The Way, The Truth, The Life, The Bread of Life, The Light of the World</sg>,;
+<sg>The Lord our, The Sun of Righteousness</sg>,;
+<sg>The Pilot of the Galilean lake</sg>,;
+<sg>The Incarnation, The Hypostatic Union</sg>,;
+<sg>salvation, redemption, atonement, propitiation, mediation, intercession, judgment</sg>,;
+<sg>God the Holy Ghost, The Holy Spirit, Paraclete</sg>,;
+<sg>The Comforter, The Spirit of Truth, The Dove</sg>,;
+<sg>inspiration, unction, regeneration, sanctification, consolation</sg>,;
+<sg>eon, aeon, special providence, deus ex machina</sg>,;
+<sg>avatar</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>create, move, uphold, preserve, govern </sg>,;
+<sg>atone, redeem, save, propitiate, mediate, </sg>,;
+<sg>predestinate, elect, call, ordain, bless, justify, sanctify, glorify  Adj</sg>,;
+<sg>almighty, holy, hallowed, sacred, divine, heavenly, celestial</sg>,;
+<sg>sacrosanct</sg>,;
+<sg>all-knowing, all-seeing, all-wise</sg>,;
+<sg>omniscient</sg>,;
+<sg>superhuman, supernatural</sg>,;
+<sg>ghostly, spiritual, hyperphysical, unearthly</sg>,;
+<sg>theistic, theocratic</sg>,;
+<sg>anointed</sg>,;
+<sg>soterial</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>almighty, holy, hallowed, sacred, divine, heavenly, celestial</sg>,;
+<sg>sacrosanct</sg>,;
+<sg>all-knowing, all-seeing, all-wise</sg>,;
+<sg>omniscient</sg>,;
+<sg>superhuman, supernatural</sg>,;
+<sg>ghostly, spiritual, hyperphysical, unearthly</sg>,;
+<sg>theistic, theocratic</sg>,;
+<sg>anointed</sg>,;
+<sg>soterial</sg>,;
+<sg>Adj</sg>,;
+<sg>jure divino, by divine right</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>Domine dirige nos</sg>,;
+<sg>en Dieu est ma fiance</sg>,;
+<sg>et sceleratis sol oritur</sg>,;
+<sg>He mounts the storm and walks upon the wind</sg>,;
+<sg>Thou great First Cause, least understood</sg>,;
+<sg>sans Dieu rien</sg>,;
+<br>
+</paragraph>

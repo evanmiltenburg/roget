@@ -1,0 +1,49 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#15#</sectionNumber>
+<headword>#<b>#[001] #385# Man #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>man, </i>male, he, him</sg>,;
+<sg>manhood ,<cref>131 <i>adolescence</i></cref></sg>,;
+<sg>gentleman, sir, master</sg>,;
+<sg>sahib</sg>,;
+<sg>yeoman, wight, swain, fellow, blade, beau, elf, chap, gaffer, good man</sg>,;
+<sg>husband ,<cref>903 <i>married man</i></cref></sg>,;
+<sg>Mr</sg>,;
+<sg>, mister</sg>,;
+<sg>boy ,<cref>129 <i>youth</i></cref></sg>,;
+<sg>cock, drake, gander, dog, boar, stag, hart, buck, horse, entire horse, stallion</sg>,;
+<sg>gibcat, tomcat</sg>,;
+<sg>he goat, Billy goat</sg>,;
+<sg>ram, tup</sg>,;
+<sg>bull, bullock</sg>,;
+<sg>capon, ox, gelding, steer, stot</sg>,;
+<sg>androgen</sg>,;
+<sg>homosexual, gay, queen</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>masculinize</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>male, he-, masculine</sg>,;
+<sg>manly, virile</sg>,;
+<sg>unwomanly, unfeminine</sg>,;
+<sg>Pron</sg>,;
+<sg>he, him, his</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>hominem pagina nostra sapit</sg>,;
+<sg>homo homini aut deus aut lupus</sg>,;
+<sg>homo vitae commodatus non donatus est</sg>,;
+<br>
+</paragraph>

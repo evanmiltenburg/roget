@@ -1,0 +1,27 @@
+<classNumber>#2#</classNumber>
+<sectionNumber>#11#</sectionNumber>
+<headword>#<b>#[001] #269# Fold #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>fold, </i>plicature, plait, pleat, ply, crease</sg>,;
+<sg>tuck, gather</sg>,;
+<sg>flexion, flexure, joint, elbow, double, doubling, duplicature, gather, wrinkle, rimple, crinkle, crankle, crumple, rumple, rivel, ruck, ruffle, dog's ear, corrugation, frounce, flounce, lapel</sg>,;
+<sg>pucker, crow's feet</sg>,;
+<sg>plication</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>fold, double, plicate, plait, crease, wrinkle, crinkle, crankle, curl, cockle up, cocker, rimple, rumple, flute, frizzle, frounce, rivel, twill, corrugate, ruffle, crimple, crumple, pucker</sg>,;
+<sg>turn down, double down, down under</sg>,;
+<sg>tuck, ruck, hem, gather</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>folded, fluted, pleated</sg>,;
+<br>
+</paragraph>

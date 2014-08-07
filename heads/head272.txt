@@ -1,0 +1,54 @@
+<classNumber>#2#</classNumber>
+<sectionNumber>#11#</sectionNumber>
+<headword>#<b>#[001] #272# Closure #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>closure, </i>occlusion, blockade</sg>,;
+<sg>shutting up</sg>,;
+<sg>obstruction ,<cref>706 <i>hindrance</i></cref></sg>,;
+<sg>embolus</sg>,;
+<sg>contraction ,<cref> 195 <i>presence</i></cref></sg>,;
+<sg>infarction</sg>,;
+<sg>constipation, obstipation</sg>,;
+<sg>blind alley, blind corner</sg>,;
+<sg>keddah</sg>,;
+<sg>cul-de-sac, caecum</sg>,;
+<sg>imperforation, imperviousness</sg>,;
+<sg>impermeability</sg>,;
+<sg>stopper ,<cref> 263 <i>sponge</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>close, occlude, plug</sg>,;
+<sg>block up, stop up, fill up, bung up, cork up, button up, stuff up, shut up, dam up</sg>,;
+<sg>blockade, obstruct ,<cref>706 <i>hinder</i></cref></sg>,;
+<sg>bar, bolt, stop, seal, plumb</sg>,;
+<sg>choke, throttle</sg>,;
+<sg>ram down, dam, cram</sg>,;
+<sg>trap, clinch</sg>,;
+<sg>put to the door, shut the door</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>closed</sg>,;
+<sg>shut, operculated</sg>,;
+<sg>unopened</sg>,;
+<sg>unpierced, imporous, caecal</sg>,;
+<sg>closable</sg>,;
+<sg>imperforate, impervious, impermeable</sg>,;
+<sg>impenetrable</sg>,;
+<sg>impassable, unpassable</sg>,;
+<sg>invious</sg>,;
+<sg>pathless, wayless</sg>,;
+<sg>untrodden, untrod</sg>,;
+<sg>unventilated</sg>,;
+<sg>air tight, water tight</sg>,;
+<sg>hermetically sealed</sg>,;
+<sg>tight, snug</sg>,;
+<br>
+</paragraph>

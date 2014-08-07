@@ -1,0 +1,101 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#24#</sectionNumber>
+<headword>#<b>#[001] #557# Publication #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>publication</i></sg>,;
+<sg>public announcement ,<cref> 527 <i>insanity</i></cref></sg>,;
+<sg>promulgation, propagation, proclamation, pronunziamento</sg>,;
+<sg>circulation, indiction, edition</sg>,;
+<sg>hue and cry</sg>,;
+<sg>publicity, notoriety, currency, flagrancy, cry, bruit, hype</sg>,;
+<sg>vox populi</sg>,;
+<sg>report ,<cref>532 <i>news</i></cref></sg>,;
+<sg>the Press, public press, newspaper, journal, gazette, daily</sg>,;
+<sg>telegraphy</sg>,;
+<sg>publisher</sg>,;
+<sg>imprint</sg>,;
+<sg>circular, circular letter</sg>,;
+<sg>manifesto, advertisement, ad</sg>,;
+<sg>, placard, bill, affiche, broadside, poster</sg>,;
+<sg>notice ,<cref> 527 <i>insanity</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>publish</sg>,;
+<sg>make public, make known ,<cref>527 <i>information</i></cref></sg>,;
+<sg>speak of, talk of</sg>,;
+<sg>broach, utter</sg>,;
+<sg>put forward</sg>,;
+<sg>circulate, propagate, promulgate</sg>,;
+<sg>spread, spread abroad</sg>,;
+<sg>rumor, diffuse, disseminate, evulugate</sg>,;
+<sg>put forth, give forth, send forth</sg>,;
+<sg>emit, edit, get out</sg>,;
+<sg>issue</sg>,;
+<sg>bring before the public, lay before the public, drag before the public</sg>,;
+<sg>give out, give to the world</sg>,;
+<sg>put about, bandy about, hawk about, buzz about, whisper about, bruit about, blaze about</sg>,;
+<sg>drag into the open day</sg>,;
+<sg>voice</sg>,;
+<sg>proclaim, herald, blazon</sg>,;
+<sg>blaze abroad, noise abroad</sg>,;
+<sg>sound a trumpet</sg>,;
+<sg>trumpet forth, thunder forth</sg>,;
+<sg>give tongue</sg>,;
+<sg>announce with beat of drum, announce with flourish of trumpets</sg>,;
+<sg>proclaim from the housetops, proclaim at Charing Cross</sg>,;
+<sg>advertise, placard</sg>,;
+<sg>post, post up afficher, publish in the Gazette, send round the crier</sg>,;
+<sg>raise a cry, raise a hue and cry, raise a report</sg>,;
+<sg>set news afloat</sg>,;
+<sg>be published </sg>,;
+<sg>be public, become public</sg>,;
+<sg>come out</sg>,;
+<sg>go about, fly about, buzz about, blow about</sg>,;
+<sg>get about, get abroad, get afloat, get wind</sg>,;
+<sg>find vent</sg>,;
+<sg>see the light</sg>,;
+<sg>go forth, take air, acquire currency, pass current</sg>,;
+<sg>go the rounds, go the round of the newspapers, go through the length and breadth of the land</sg>,;
+<sg>virum volitare per ora</sg>,;
+<sg>pass from mouth to mouth</sg>,;
+<sg>spread</sg>,;
+<sg>run like wildfire, spread like wildfire</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>published</sg>,;
+<sg>current ,<cref>532 <i>news</i></cref></sg>,;
+<sg>in circulation, public</sg>,;
+<sg>notorious</sg>,;
+<sg>flagrant, arrant</sg>,;
+<sg>open ,<cref> 525 <i>fool</i></cref></sg>,;
+<sg>trumpet-tongued</sg>,;
+<sg>encyclical, encyclic, promulgatory</sg>,;
+<sg>exoteric</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>publicly</sg>,;
+<sg>in open court, with open doors</sg>,;
+<sg>Int</sg>,;
+<sg>Oyez!, O yes!, notice!,</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>notice is hereby given</sg>,;
+<sg>this is to give, these are to give notice</sg>,;
+<sg>nomina stultorum parietibus haerent</sg>,;
+<sg>semel emissum volat irrevocabile verbum</sg>,;
+<br>
+</paragraph>

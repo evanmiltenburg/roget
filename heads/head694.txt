@@ -1,0 +1,104 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#27#</sectionNumber>
+<headword>#<b>#[001] #694# Danger #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>danger, </i>peril, insecurity, jeopardy, risk, hazard, venture, precariousness, slipperiness</sg>,;
+<sg>instability ,<cref> 149 <i>cessation</i></cref></sg>,;
+<sg>defenselessness</sg>,;
+<sg>, exposure ,<cref>177 <i>liability</i></cref></sg>,;
+<sg>vulnerability</sg>,;
+<sg>vulnerable point, heel of Achilles</sg>,;
+<sg>forlorn hope ,<cref>859 <i>hopelessness</i></cref></sg>,;
+<sg>leap in the dark ,<cref>863 <i>rashness</i></cref></sg>,;
+<sg>road to ruin, faciles descensus Averni , hairbreadth escape</sg>,;
+<sg>cause for alarm</sg>,;
+<sg>source of danger ,<cref> 667 <i>waste</i></cref></sg>,;
+<sg>rock ahead, breakers ahead</sg>,;
+<sg>storm brewing</sg>,;
+<sg>clouds in the horizon, clouds gathering</sg>,;
+<sg>warning ,<cref> 668 <i>sufficiency</i></cref></sg>,;
+<sg>alarm ,<cref> 669 <i>insufficiency</i></cref></sg>,;
+<sg>apprehension ,<cref> 860 <i>sensibility</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be in danger</sg>,;
+<sg>be exposed to danger, run into danger, incur danger, encounter danger</sg>,;
+<sg>run a risk</sg>,;
+<sg>lay oneself open to ,<cref>177 <i>liability</i></cref></sg>,;
+<sg>lean on a broken reed, trust to a broken reed</sg>,;
+<sg>feel the ground sliding from under one, have to run for it</sg>,;
+<sg>have the chances against one, have the odds against one, face long odds</sg>,;
+<sg>be in deep trouble, be between a rock and a hard place</sg>,;
+<sg>hang by a thread, totter</sg>,;
+<sg>sleep on a volcano, stand on a volcano</sg>,;
+<sg>sit on a barrel of gunpowder, live in a glass house</sg>,;
+<sg>bring in danger, place in danger, put in danger, place in jeopardy, put in jeopardy</sg>,;
+<sg>endanger, expose to danger, imperil</sg>,;
+<sg>jeopard, jeopardize</sg>,;
+<sg>compromise</sg>,;
+<sg>sail too near the wind ,<cref>863 <i>rash</i></cref></sg>,;
+<sg>adventure, risk, hazard, venture, stake, set at hazard</sg>,;
+<sg>run the gauntlet ,<cref>861 <i>dare</i></cref></sg>,;
+<sg>engage in a forlorn hope</sg>,;
+<sg>threaten danger ,<cref> 909 <i>wonder</i></cref></sg>,;
+<sg>run one hard</sg>,;
+<sg>lay a trap for ,<cref>545 <i>deceive</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>in danger</sg>,;
+<sg>endangered</sg>,;
+<sg>fraught with danger</sg>,;
+<sg>dangerous, hazardous, perilous, parlous, periculous</sg>,;
+<sg>unsafe, unprotected &c (safe, protect) ,<cref> 664 <i>materials</i></cref></sg>,;
+<sg>insecure</sg>,;
+<sg>untrustworthy</sg>,;
+<sg>built upon</sg>,;
+<sg>sand, on a sandy basis</sg>,;
+<sg>wildcat</sg>,;
+<sg>defenseless, fenceless, guardless, harborless</sg>,;
+<sg>unshielded</sg>,;
+<sg>vulnerable, expugnable, exposed</sg>,;
+<sg>open to ,<cref>177 <i>liable</i></cref></sg>,;
+<sg>aux abois, at bay</sg>,;
+<sg>on the wrong side of the wall, on a lee shore, on the rocks</sg>,;
+<sg>at stake, in question</sg>,;
+<sg>precarious, critical, ticklish</sg>,;
+<sg>slippery, slippy</sg>,;
+<sg>hanging by a thread</sg>,;
+<sg>with a halter round one's neck</sg>,;
+<sg>between the hammer and the anvil, between Scylla and Charybdis, between a rock and a hard place, between the devil and the deep blue sea, between two fires</sg>,;
+<sg>on the edge of a precipice, on the brink of a precipice, on the verge of a precipice, on the edge of a volcano</sg>,;
+<sg>in the lion's den, on slippery ground, under fire</sg>,;
+<sg>not out of the wood</sg>,;
+<sg>unwarned, unadmonished, unadvised, unprepared ,<cref> 674 <i>inutility</i></cref></sg>,;
+<sg>off one's guard ,<cref>508 <i>inexpectant</i></cref></sg>,;
+<sg>tottering</sg>,;
+<sg>unstable, unsteady</sg>,;
+<sg>shaky, top-heavy, tumbledown, ramshackle, crumbling, waterlogged</sg>,;
+<sg>helpless, guideless</sg>,;
+<sg>in a bad way</sg>,;
+<sg>reduced to the last extremity, at the last extremity</sg>,;
+<sg>trembling in the balance</sg>,;
+<sg>nodding to its fall ,<cref>162 <i>destruction</i></cref></sg>,;
+<sg>threatening ,<cref> 909 <i>wonder</i></cref></sg>,;
+<sg>ominous, illomened</sg>,;
+<sg>alarming ,<cref>860 <i>fear</i></cref></sg>,;
+<sg>explosive</sg>,;
+<sg>adventurous ,<cref>861 <i>rash) 863, (bold</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>incidit in Scyllam qui vult vitare Charybdim</sg>,;
+<sg>nam tua res agitur paries dum proximus ardet</sg>,;
+<br>
+</paragraph>

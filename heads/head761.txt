@@ -1,0 +1,160 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#30#</sectionNumber>
+<headword>#<b>#[001] #761# Failure #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>failure</i></sg>,;
+<sg>nonsuccess, nonfulfillment</sg>,;
+<sg>dead failure, successlessness</sg>,;
+<sg>abortion, miscarriage</sg>,;
+<sg>brutum fulmen ,<cref> 158 <i>eventuality</i></cref></sg>,;
+<sg>labor in vain ,<cref>645 <i>inutility</i></cref></sg>,;
+<sg>no go</sg>,;
+<sg>inefficacy</sg>,;
+<sg>inefficaciousness</sg>,;
+<sg>vain attempt, ineffectual attempt, abortive attempt, abortive efforts</sg>,;
+<sg>flash in the pan, lame and impotent conclusion</sg>,;
+<sg>frustration</sg>,;
+<sg>slip 'twixt cup and lip ,<cref>509 <i>disappointment</i></cref></sg>,;
+<sg>blunder ,<cref>495 <i>mistake</i></cref></sg>,;
+<sg>fault, omission, miss, oversight, slip, trip, stumble, claudication, footfall</sg>,;
+<sg>false step, wrong step</sg>,;
+<sg>faux pas, titubation, b_evue, faute, lurch</sg>,;
+<sg>botchery ,<cref>699 <i>want of skill</i></cref></sg>,;
+<sg>scrape, mess, fiasco, breakdown</sg>,;
+<sg>flunk</sg>,;
+<sg>mishap ,<cref>735 <i>misfortune</i></cref></sg>,;
+<sg>split, collapse, smash, blow, explosion</sg>,;
+<sg>repulse, rebuff, defeat, rout, overthrow, discomfiture</sg>,;
+<sg>beating, drubbing</sg>,;
+<sg>quietus, nonsuit, subjugation</sg>,;
+<sg>checkmate, stalemate, fool's mate</sg>,;
+<sg>fall, downfall, ruin, perdition</sg>,;
+<sg>wreck ,<cref>162 <i>destruction</i></cref></sg>,;
+<sg>deathblow</sg>,;
+<sg>bankruptcy ,<cref>808 <i>nonpayment</i></cref></sg>,;
+<sg>losing game, affaire flamb_ee</sg>,;
+<sg>victim</sg>,;
+<sg>bankrupt</sg>,;
+<sg>flunker, flunky</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>fail</sg>,;
+<sg>be unsuccessful</sg>,;
+<sg>not succeed ,<cref> 731 <i>cunning</i></cref></sg>,;
+<sg>make vain efforts</sg>,;
+<sg>do in vain, labor in vain, toil in vain</sg>,;
+<sg>flunk</sg>,;
+<sg>lose one's labor, take nothing by one's motion</sg>,;
+<sg>bring to naught, make nothing of</sg>,;
+<sg>wash a blackamoor white ,<cref>471 <i>impossible</i></cref></sg>,;
+<sg>roll the stones of Sisyphus ,<cref>645 <i>useless</i></cref></sg>,;
+<sg>do by halves ,<cref>730 <i>not complete</i></cref></sg>,;
+<sg>lose ground ,<cref>282 <i>recede</i></cref></sg>,;
+<sg>fall short of ,<cref> 304 <i>departure</i></cref></sg>,;
+<sg>miss, miss one's aim, miss the mark, miss one's footing, miss stays</sg>,;
+<sg>slip, trip, stumble</sg>,;
+<sg>make a slip</sg>,;
+<sg>blunder ,<cref> 495 <i>probability</i></cref>, make a mess of, make a botch of</sg>,;
+<sg>bitch it, miscarry, abort, go up like a rocket and come down like the stick, come down in flames, get shot down, reckon without one's host</sg>,;
+<sg>get the wrong pig by the tail, get the wrong sow by the ear ,<cref>699 <i>blunder), )mismanage</i></cref></sg>,;
+<sg>limp, halt, hobble, titubate</sg>,;
+<sg>fall, tumble</sg>,;
+<sg>lose one's balance</sg>,;
+<sg>fall to the ground, fall between two stools</sg>,;
+<sg>flounder, falter, stick in the mud, run aground, split upon a rock</sg>,;
+<sg>beat one's head against a stone wall, run one's head against a stone wall, knock one's head against a stone wall, dash one's head against a stone wall</sg>,;
+<sg>break one's back</sg>,;
+<sg>break down, sink, drown, founder, have the ground cut from under one</sg>,;
+<sg>get into trouble, get into a mess, get into a scrape</sg>,;
+<sg>come to grief ,<cref>735 <i>adversity</i></cref></sg>,;
+<sg>go to the wall, go to the dogs, go to pot</sg>,;
+<sg>lick the dust, bite the dust</sg>,;
+<sg>be defeated ,<cref> 731 <i>cunning</i></cref></sg>,;
+<sg>have the worst of it, lose the day, come off second best, lose</sg>,;
+<sg>fall a prey to</sg>,;
+<sg>succumb ,<cref>725 <i>submit</i></cref></sg>,;
+<sg>not have a leg to stand on</sg>,;
+<sg>come to nothing, end in smoke</sg>,;
+<sg>flat out</sg>,;
+<sg>fall to the ground, fall through, fall dead, fall stillborn, fall flat</sg>,;
+<sg>slip through one's fingers</sg>,;
+<sg>hang fire, miss fire</sg>,;
+<sg>flash in the pan, collapse</sg>,;
+<sg>topple down ,<cref>305 <i>descent</i></cref></sg>,;
+<sg>go to wrack and ruin ,<cref>162 <i>destruction</i></cref></sg>,;
+<sg>go amiss, go wrong, go cross, go hard with, go on a wrong tack</sg>,;
+<sg>go on ill, come off ill, turn out ill, work ill</sg>,;
+<sg>take a wrong term, take an ugly term</sg>,;
+<sg>take an ugly turn, take a turn for the worse</sg>,;
+<sg>be all over with, be all up with</sg>,;
+<sg>explode</sg>,;
+<sg>dash one's hopes ,<cref>509 <i>disappoint</i></cref></sg>,;
+<sg>defeat the purpose</sg>,;
+<sg>sow the wind and reap the whirlwind, jump out of the frying pan into the fire, go from the frying pan into the fire</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>unsuccessful, successless</sg>,;
+<sg>failing, tripping</sg>,;
+<sg>at fault</sg>,;
+<sg>unfortunate ,<cref> 735 <i>hindrance</i></cref></sg>,;
+<sg>abortive, addle, stillborn</sg>,;
+<sg>fruitless, bootless</sg>,;
+<sg>ineffectual, ineffective, inconsequential, trifling, nugatory</sg>,;
+<sg>inefficient ,<cref>158 <i>impotent</i></cref></sg>,;
+<sg>insufficient ,<cref> 640 <i>impulse</i></cref></sg>,;
+<sg>unavailing ,<cref>645 <i>useless</i></cref></sg>,;
+<sg>of no effect</sg>,;
+<sg>aground, grounded, swamped, stranded, cast away, wrecked, foundered, capsized, shipwrecked, nonsuited</sg>,;
+<sg>foiled</sg>,;
+<sg>defeated ,<cref> 731 <i>cunning</i></cref></sg>,;
+<sg>struck down, borne down, broken down</sg>,;
+<sg>downtrodden</sg>,;
+<sg>overborne, overwhelmed</sg>,;
+<sg>all up with</sg>,;
+<sg>ploughed, plowed, plucked</sg>,;
+<sg>lost, undone, ruined, broken</sg>,;
+<sg>bankrupt ,<cref>808 <i>not paying</i></cref></sg>,;
+<sg>played out</sg>,;
+<sg>done up, done for</sg>,;
+<sg>dead beat, ruined root and branch, flambe, knocked on the head</sg>,;
+<sg>destroyed ,<cref> 162 <i>attribution</i></cref></sg>,;
+<sg>frustrated, crossed, unhinged, disconcerted dashed</sg>,;
+<sg>thrown off one's balance, thrown on one's back, thrown on one's beam ends</sg>,;
+<sg>unhorsed, in a sorry plight</sg>,;
+<sg>hard hit</sg>,;
+<sg>stultified, befooled, dished, hoist on one's own petard</sg>,;
+<sg>victimized, sacrificed</sg>,;
+<sg>wide of the mark ,<cref>495 <i>error</i></cref></sg>,;
+<sg>out of one's reckoning ,<cref>508 <i>inexpectation</i></cref></sg>,;
+<sg>left in the lurch</sg>,;
+<sg>thrown away ,<cref>638 <i>wasted</i></cref></sg>,;
+<sg>unattained</sg>,;
+<sg>uncompleted ,<cref> 730 <i>bungler</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>unsuccessfully</sg>,;
+<sg>to little or no purpose, in vain, re infecta</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>the bubble has burst, the jig is up, the game is up</sg>,;
+<sg>all is lost</sg>,;
+<sg>the devil to pay</sg>,;
+<sg>parturiunt montes ,<cref>509 <i>disappointment</i></cref></sg>,;
+<sg>dies infaustus</sg>,;
+<sg>tout est perdu hors l'honneur</sg>,;
+<br>
+</paragraph>

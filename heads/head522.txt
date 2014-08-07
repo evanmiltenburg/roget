@@ -1,0 +1,113 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#20#</sectionNumber>
+<headword>#<b>#[001] #522# Wisdom #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>intelligence, wisdom, </i>intelligence, capacity, comprehension, understanding</sg>,;
+<sg>cuteness, sabe, savvy</sg>,;
+<sg>intellect ,<cref> 450 <i>blackness</i></cref></sg>,;
+<sg>nous, parts, sagacity, mother wit, wit, esprit, gumption, quick parts, grasp of intellect</sg>,;
+<sg>acuteness</sg>,;
+<sg>acumen, subtlety, penetration, perspicacy, perspicacity</sg>,;
+<sg>discernment, due sense of, good judgment</sg>,;
+<sg>discrimination ,<cref> 465 <i>visibility</i></cref></sg>,;
+<sg>cunning ,<cref> 702 <i>preparation</i></cref></sg>,;
+<sg>refinement ,<cref>850 <i>taste</i></cref></sg>,;
+<sg>head, brains, headpiece, upper story, long head</sg>,;
+<sg>eagle eye, eagle- glance</sg>,;
+<sg>eye of a lynx, eye of a hawk</sg>,;
+<sg>wisdom, sapience, sense</sg>,;
+<sg>good sense, common sense, horse sense, plain sense</sg>,;
+<sg>rationality, reason</sg>,;
+<sg>reasonableness</sg>,;
+<sg>judgment</sg>,;
+<sg>solidity, depth, profundity, caliber</sg>,;
+<sg>enlarged views</sg>,;
+<sg>reach of thought, compass of thought</sg>,;
+<sg>enlargement of mind</sg>,;
+<sg>genius, inspiration, geist, fire of genius, heaven-born genius, soul</sg>,;
+<sg>talent ,<cref>698 <i>aptitude</i></cref></sg>,;
+<sg>prudence ,<cref> 864 <i>inexcitability</i></cref></sg>,;
+<sg>vigilance ,<cref> 459 <i>variegation</i></cref></sg>,;
+<sg>tact ,<cref> 698 <i>alarm</i></cref></sg>,;
+<sg>foresight ,<cref> 510 <i>credulity</i></cref></sg>,;
+<sg>sobriety, self-possession, aplomb, ballast</sg>,;
+<sg>a bright thought, not a bad idea</sg>,;
+<sg>Solomon-like wisdom</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be intelligent</sg>,;
+<sg>have all one's wits about one</sg>,;
+<sg>understand ,<cref>518 <i>intelligible</i></cref></sg>,;
+<sg>catch an idea, take in an idea</sg>,;
+<sg>take a joke, take a hint</sg>,;
+<sg>see through, see at a glance, see with half an eye, see far into, see through a millstone</sg>,;
+<sg>penetrate</sg>,;
+<sg>discern ,<cref>441 <i>descry</i></cref></sg>,;
+<sg>foresee ,<cref> 510 <i>credulity</i></cref></sg>,;
+<sg>discriminate ,<cref> 465 <i>visibility</i></cref></sg>,;
+<sg>know what's what ,<cref> 698 <i>alarm</i></cref></sg>,;
+<sg>listen to reason</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>intelligent, quick of apprehension, keen, acute, alive, brainy, awake, bright, quick, sharp</sg>,;
+<sg>quick witted, keen witted, clear witted, sharp-eyed, sharp sighted, sharp witted</sg>,;
+<sg>wide- awake</sg>,;
+<sg>canny, shrewd, astute</sg>,;
+<sg>clear-headed</sg>,;
+<sg>farsighted ,<cref> 510 <i>credulity</i></cref></sg>,;
+<sg>discerning, perspicacious, penetrating, piercing</sg>,;
+<sg>argute</sg>,;
+<sg>quick-witted, nimble-witted, needle-witted</sg>,;
+<sg>sharp as a needle, sharp as a tack</sg>,;
+<sg>alive to ,<cref>490 <i>cognizant</i></cref></sg>,;
+<sg>clever ,<cref>698 <i>apt</i></cref></sg>,;
+<sg>arch ,<cref>702 <i>cunning</i></cref></sg>,;
+<sg>pas si bete</sg>,;
+<sg>acute ,<cref> 682 <i>uncleanness</i></cref></sg>,;
+<sg>wise, sage, sapient, sagacious, reasonable, rational, sound, in one's right mind, sensible, abnormis sapiens, judicious, strong- minded</sg>,;
+<sg>unprejudiced, unbiased, unbigoted, unprepossessed</sg>,;
+<sg>undazzled, unperplexed</sg>,;
+<sg>unwarped judgment, impartial, equitable, fair</sg>,;
+<sg>cool</sg>,;
+<sg>cool-headed, long-headed, hardheaded, strong-headed</sg>,;
+<sg>long- sighted, calculating, thoughtful, reflecting</sg>,;
+<sg>solid, deep, profound</sg>,;
+<sg>oracular</sg>,;
+<sg>heaven-directed, heaven-born</sg>,;
+<sg>prudent ,<cref>864 <i>cautious</i></cref></sg>,;
+<sg>sober, stand, solid</sg>,;
+<sg>considerate, politic, wise in one's generation</sg>,;
+<sg>watchful ,<cref> 459 <i>variegation</i></cref></sg>,;
+<sg>provident ,<cref>673 <i>prepared</i></cref></sg>,;
+<sg>in advance of one' age</sg>,;
+<sg>wise as a serpent, wise as Solomon, wise as Solon</sg>,;
+<sg>wise, sensible, reasonable, judicious</sg>,;
+<sg>well- thought-out, well-planned, well-judged, well-advised</sg>,;
+<sg>prudent, politic</sg>,;
+<sg>expedient ,<cref> 646 <i>pretext</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>aut regem aut fatuum nasci oportet</sg>,;
+<sg>but with the morning cool reflection came</sg>,;
+<sg>flosculi sententiarum</sg>,;
+<sg>les affaires font les hommes</sg>,;
+<sg>mas vale saber que haber</sg>,;
+<sg>mas vale ser necio que profiadol nemo solus sapit</sg>,;
+<sg>nosce te</sg>,;
+<sg>gnothi seauton</sg>,;
+<sg>nullum magnum ingenium sine mixtura dementiae fuit</sg>,;
+<sg>sapere aude</sg>,;
+<sg>victrix fortunae sapientia</sg>,;
+<br>
+</paragraph>

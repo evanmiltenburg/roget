@@ -1,0 +1,61 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#31#</sectionNumber>
+<headword>#<b>#[001] #786# Commission #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>commission, </i>delegation</sg>,;
+<sg>consignment, assignment</sg>,;
+<sg>procuration</sg>,;
+<sg>deputation, legation, mission, embassy</sg>,;
+<sg>agency, agentship</sg>,;
+<sg>power of attorney</sg>,;
+<sg>clerkship</sg>,;
+<sg>surrogacy</sg>,;
+<sg>errand, charge, brevet, diploma, exequatur, permit ,<cref>760 <i>permission</i></cref></sg>,;
+<sg>appointment, nomination, designation, return</sg>,;
+<sg>charter</sg>,;
+<sg>ordination</sg>,;
+<sg>installation, inauguration, investiture, swearing-in</sg>,;
+<sg>accession, coronation, enthronement</sg>,;
+<sg>vicegerency</sg>,;
+<sg>regency, regentship</sg>,;
+<sg>viceroy ,<cref> 745 <i>attack</i></cref></sg>,;
+<sg>consignee ,<cref> 758 <i>completion</i></cref></sg>,;
+<sg>deputy ,<cref> 759 <i>noncompletion</i></cref></sg>,;
+<sg>agent, delegate, consignee ,<cref> 758 <i>completion</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>commission, delegate, depute</sg>,;
+<sg>consign, assign</sg>,;
+<sg>charge</sg>,;
+<sg>intrust, entrust</sg>,;
+<sg>commit, commit to the hands of</sg>,;
+<sg>authorize ,<cref>760 <i>permit</i></cref></sg>,;
+<sg>put in commission, accredit, engage, hire, bespeak, appoint, name, nominate, return, ordain</sg>,;
+<sg>install, induct, inaugurate, swear in, invest, crown</sg>,;
+<sg>enroll, enlist</sg>,;
+<sg>give power of attorney to</sg>,;
+<sg>employ, empower</sg>,;
+<sg>set over, place over</sg>,;
+<sg>send out</sg>,;
+<sg>be commissioned, be accredited</sg>,;
+<sg>represent, stand for</sg>,;
+<sg>stand in the stead of, stand in the place of, stand in the shoes of</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>commissioned</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>per procurationem</sg>,;
+<br>
+</paragraph>

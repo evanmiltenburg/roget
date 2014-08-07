@@ -1,0 +1,77 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#3#</sectionNumber>
+<headword>#<b>#[001] #32# Compensation #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>compensation, </i>equation</sg>,;
+<sg>commutation</sg>,;
+<sg>indemnification</sg>,;
+<sg>compromise</sg>,;
+<sg>,<cref> 774 <i>obedience</i></cref> neutralization, nullification</sg>,;
+<sg>counteraction ,<cref> 179 <i>physical inertness</i></cref></sg>,;
+<sg>reaction</sg>,;
+<sg>measure for measure, retaliation, ,<cref> 718 <i>refreshment</i></cref> equalization</sg>,;
+<sg>,<cref> 27 <i>quantity</i></cref></sg>,;
+<sg>robbing Peter to pay Paul</sg>,;
+<sg>set-off, offset</sg>,;
+<sg>make-weight, casting-weight</sg>,;
+<sg>counterpoise, ballast</sg>,;
+<sg>indemnity, equivalent, quid pro quo</sg>,;
+<sg>bribe, hush money</sg>,;
+<sg>amends ,<cref>952 <i>atonement</i></cref></sg>,;
+<sg>counterbalance, counterclaim</sg>,;
+<sg>cross-debt, cross- demand</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>make compensation</sg>,;
+<sg>compensate, compense</sg>,;
+<sg>indemnify</sg>,;
+<sg>counteract, countervail, counterpoise</sg>,;
+<sg>balance</sg>,;
+<sg>outbalance, overbalance, counterbalance</sg>,;
+<sg>set off</sg>,;
+<sg>hedge, square, give and take</sg>,;
+<sg>make up for, lee way</sg>,;
+<sg>cover, fill up, neutralize, nullify</sg>,;
+<sg>equalize ,<cref> 27 <i>quantity</i></cref></sg>,;
+<sg>make good</sg>,;
+<sg>redeem ,<cref>952 <i>atone</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>compensating, compensatory</sg>,;
+<sg>countervailing</sg>,;
+<sg>in the opposite scale</sg>,;
+<sg>equivalent ,<cref>27 <i>equal</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>in return, in consideration</sg>,;
+<sg>but, however, yet, still, notwithstanding</sg>,;
+<sg>nevertheless, nathless, none the less</sg>,;
+<sg>although, though</sg>,;
+<sg>albeit, howbeit</sg>,;
+<sg>mauger</sg>,;
+<sg>at all events, at any rate</sg>,;
+<sg>be that as it may, for all that, even so, on the other, hand, at the same time, quoad minus, quand meme, however that may be</sg>,;
+<sg>after all is said and done</sg>,;
+<sg>taking one thing with another ,<cref>29 <i>average</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>light is mingled with the gloom</sg>,;
+<sg>every dark cloud has a silver lining</sg>,;
+<sg>primo avulso non deficit alter</sg>,;
+<sg>saepe creat molles aspera spina rosas</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,49 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#15#</sectionNumber>
+<headword>#<b>#[001] #450# Blackness #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>blackness</i>,</sg>,;
+<sg>darkness,  (want of light)</sg>,;
+<sg>421</sg>,;
+<sg>swartliness, lividity, dark color, tone, color</sg>,;
+<sg>chiaroscuro ,<cref> 420 <i>silence</i></cref></sg>,;
+<sg>nigrification, infuscation</sg>,;
+<sg>jet, ink, ebony, coal pitch, soot, charcoal, sloe, smut, raven, crow</sg>,;
+<sg>negro, blackamoor, man of color, nigger, darkie, Ethiop, black</sg>,;
+<sg>buck, nigger</sg>,;
+<sg>coon, sambo</sg>,;
+<sg>lampblack, ivory black, blueblack</sg>,;
+<sg>writing ink, printing ink, printer's ink, Indian ink, India ink</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be black</sg>,;
+<sg>render black</sg>,;
+<sg>blacken, infuscate, denigrate</sg>,;
+<sg>blot, blotch</sg>,;
+<sg>smutch</sg>,;
+<sg>smirch</sg>,;
+<sg>darken ,<cref> 421 <i>loudness</i></cref></sg>,;
+<sg>black, sable, swarthy, somber, dark, inky, ebony, ebon, atramentous, jetty</sg>,;
+<sg>coal-black, jet-black</sg>,;
+<sg>fuliginous, pitchy, sooty, swart, dusky, dingy, murky, Ethiopic</sg>,;
+<sg>low-toned, low in tone</sg>,;
+<sg>of the deepest dye</sg>,;
+<sg>black as jet</sg>,;
+<sg>, black as my hat, black as a shoe, black as a tinker's pot, black as November, black as thunder, black as midnight</sg>,;
+<sg>nocturnal ,<cref>421 <i>dark</i></cref></sg>,;
+<sg>nigrescent</sg>,;
+<sg>gray ,<cref> 432 <i>discord</i></cref></sg>,;
+<sg>obscure ,<cref> 421 <i>loudness</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>in mourning</sg>,;
+<br>
+</paragraph>

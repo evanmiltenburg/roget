@@ -1,0 +1,34 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#2#</sectionNumber>
+<headword>#<b>#[001] #22# Variation #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>variation</i></sg>,;
+<sg>alteration ,<cref>140 <i>change</i></cref></sg>,;
+<sg>modification, moods and tenses</sg>,;
+<sg>discrepance, discrepancy</sg>,;
+<sg>divergency ,<cref> 291 <i>precession</i></cref></sg>,;
+<sg>deviation ,<cref> 279 <i>traveler</i></cref></sg>,;
+<sg>aberration</sg>,;
+<sg>innovation</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>vary ,<cref>140 <i>change</i></cref></sg>,;
+<sg>deviate ,<cref> 279 <i>traveler</i></cref></sg>,;
+<sg>diverge ,<cref> 291 <i>precession</i></cref></sg>,;
+<sg>alternate, swerve</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>varied</sg>,;
+<sg>modified</sg>,;
+<sg>diversified ,<cref> 16 <i>uniformity</i></cref></sg>,;
+<sg>1</sg>,;
+<br>
+</paragraph>

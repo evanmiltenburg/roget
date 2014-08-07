@@ -1,0 +1,137 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#36#</sectionNumber>
+<headword>#<b>#[001] #899# Fear #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>fear, </i>timidity, diffidence, want of confidence</sg>,;
+<sg>apprehensiveness, fearfulness</sg>,;
+<sg>solicitude, anxiety, care, apprehension, misgiving</sg>,;
+<sg>feeze</sg>,;
+<sg>mistrust ,<cref>485 <i>doubt</i></cref></sg>,;
+<sg>suspicion, qualm</sg>,;
+<sg>hesitation ,<cref>605 <i>irresolution</i></cref></sg>,;
+<sg>nervousness, restlessness</sg>,;
+<sg>inquietude, disquietude, worry, concern</sg>,;
+<sg>batophobia</sg>,;
+<sg>heartquake</sg>,;
+<sg>flutter, trepidation, fear and trembling, perturbation, tremor, quivering, shaking, trembling, throbbing heart, palpitation, ague fit, cold sweat</sg>,;
+<sg>abject fear ,<cref>862 <i>cowardice</i></cref></sg>,;
+<sg>mortal funk, heartsinking, despondency</sg>,;
+<sg>despair ,<cref> 859 <i>feeling</i></cref></sg>,;
+<sg>fright</sg>,;
+<sg>affright, affrightment</sg>,;
+<sg>boof alarm, dread, awe, terror, horror, dismay, consternation, panic, scare, stampede (of horses)</sg>,;
+<sg>intimidation, terrorism, reign of terror</sg>,;
+<sg>bug bear, bugaboo</sg>,;
+<sg>scarecrow</sg>,;
+<sg>hobgoblin ,<cref>980 <i>demon</i></cref></sg>,;
+<sg>nightmare, Gorgon, mormo, ogre, Hurlothrumbo, raw head and bloody bones, fee-faw-fum, bete noire, enfant terrible</sg>,;
+<sg>alarmist ,<cref>862 <i>coward</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>fear, stand in awe of</sg>,;
+<sg>be afraid</sg>,;
+<sg>have qualms</sg>,;
+<sg>apprehend, sit upon thorns, eye askance</sg>,;
+<sg>distrust ,<cref>485 <i>disbelieve</i></cref></sg>,;
+<sg>hesitate ,<cref>605 <i>be irresolute</i></cref></sg>,;
+<sg>falter, funk, cower, crouch</sg>,;
+<sg>skulk ,<cref>862 <i>cowardice</i></cref></sg>,;
+<sg>let 'I dare not' wait upon 'I would'  take fright, take alarm</sg>,;
+<sg>start, wince, flinch, shy, shrink</sg>,;
+<sg>fly ,<cref>623 <i>avoid</i></cref></sg>,;
+<sg>tremble, shake</sg>,;
+<sg>shiver, shiver in one's shoes</sg>,;
+<sg>shudder, flutter</sg>,;
+<sg>shake like an aspen leaf, tremble like an aspen leaf, tremble all over</sg>,;
+<sg>quake, quaver, quiver, quail</sg>,;
+<sg>grow pale, turn pale</sg>,;
+<sg>blench, stand aghast</sg>,;
+<sg>not dare to say one's soul is one's own</sg>,;
+<sg>inspire fear, excite fear, inspire awe, excite awe</sg>,;
+<sg>raise apprehensions</sg>,;
+<sg>be in a daze, bulldoze</sg>,;
+<sg>faze, feeze</sg>,;
+<sg>give an alarm, raise an alarm, sound an alarm</sg>,;
+<sg>alarm, startle, scare, cry 'wolf', disquiet, dismay</sg>,;
+<sg>fright, frighten, terrify</sg>,;
+<sg>astound</sg>,;
+<sg>fright from one's propriety</sg>,;
+<sg>fright out of one's senses, fright out of one's wits, fright out of one's seven senses</sg>,;
+<sg>awe</sg>,;
+<sg>strike all of a heap, strike an awe into, strike terror</sg>,;
+<sg>harrow up the soul, appall, unman, petrify, horrify</sg>,;
+<sg>pile on the agony</sg>,;
+<sg>make one's flesh creep, make one's hair stand on end, make one's blood run cold, make one's teeth chatter</sg>,;
+<sg>take away one's breath, stop one's breath</sg>,;
+<sg>make one tremble </sg>,;
+<sg>haunt</sg>,;
+<sg>prey on the mind, weigh on the mind</sg>,;
+<sg>put in fear, put in bodily fear</sg>,;
+<sg>terrorize, intimidate, cow, daunt, overawe, abash, deter, discourage</sg>,;
+<sg>browbeat, bully</sg>,;
+<sg>threaten ,<cref> 909 <i>wonder</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>fearing</sg>,;
+<sg>frightened</sg>,;
+<sg>in fear, in a fright</sg>,;
+<sg>haunted with the fear of</sg>,;
+<sg>afeard</sg>,;
+<sg>afraid, fearful</sg>,;
+<sg>timid, timorous</sg>,;
+<sg>nervous, diffident, coy, faint- hearted, tremulous, shaky, afraid of one's shadow, apprehensive, restless, fidgety</sg>,;
+<sg>more frightened than hurt</sg>,;
+<sg>aghast</sg>,;
+<sg>awe-stricken, horror-stricken, terror-stricken, panic- stricken, awestruck, awe-stricken, horror-struck</sg>,;
+<sg>frightened to death, white as a sheet</sg>,;
+<sg>pale, pale as a ghost, pale as death, pale as ashes</sg>,;
+<sg>breathless, in hysterics</sg>,;
+<sg>inspiring fear</sg>,;
+<sg>alarming</sg>,;
+<sg>formidable, redoubtable</sg>,;
+<sg>perilous ,<cref>665 <i>danger</i></cref></sg>,;
+<sg>portentous</sg>,;
+<sg>fearful</sg>,;
+<sg>dread, dreadful</sg>,;
+<sg>fell</sg>,;
+<sg>dire, direful</sg>,;
+<sg>shocking</sg>,;
+<sg>terrible, terrific</sg>,;
+<sg>tremendous</sg>,;
+<sg>horrid, horrible, horrific</sg>,;
+<sg>ghastly</sg>,;
+<sg>awful, awe-inspiring</sg>,;
+<sg>revolting ,<cref>830 <i>painful</i></cref></sg>,;
+<sg>Gorgonian</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>in terrorem</sg>,;
+<sg>Int</sg>,;
+<sg>angels and ministers of grace defend us!</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>ante tubam trepidat</sg>,;
+<sg>horresco referens, one's heart failing one, obstupui steteruntque comae et vox faucibus haesit</sg>,;
+<sg>a dagger of the mind</sg>,;
+<sg>expertus metuit</sg>,;
+<sg>fain would I climb but that I fear to fall</sg>,;
+<sg>fear is the parent of cruelty</sg>,;
+<sg>Gorgons and hydras and chimeras dire</sg>,;
+<sg>omnia tuta timens</sg>,;
+<sg>our fears do make us traitors</sg>,;
+<br>
+</paragraph>

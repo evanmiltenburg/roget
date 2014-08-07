@@ -1,0 +1,44 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#6#</sectionNumber>
+<headword>#<b>#[001] #124# The Present Time #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>the present, <i>the present time, </i>the present day, the present moment, the present juncture, the present occasion</sg>,;
+<sg>the times, the existing time, the time being</sg>,;
+<sg>today, these days, nowadays, our times, modern times, the twentieth century</sg>,;
+<sg>nonce, crisis, epoch, day, hour</sg>,;
+<sg>age, time of life</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>present, actual, instant, current, existing, extant, that is</sg>,;
+<sg>present-day, up-to-date, up-to-the-moment</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>at this time, at this moment ,<cref> 113 <i>period</i></cref></sg>,;
+<sg>at the present time</sg>,;
+<sg>now, at present</sg>,;
+<sg>at hand</sg>,;
+<sg>at this time of day, today, nowadays</sg>,;
+<sg>already</sg>,;
+<sg>even now, but now, just now</sg>,;
+<sg>on the present occasion</sg>,;
+<sg>for the time being, for the nonce</sg>,;
+<sg>pro hac vice</sg>,;
+<sg>on the nail, on the spot</sg>,;
+<sg>on the spur of the moment, until now</sg>,;
+<sg>to this day, to the present day</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>the present hour alone is man's</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,120 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#3#</sectionNumber>
+<headword>#<b>#[001] #34# Smallness #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>smallness</i></sg>,;
+<sg>littleness ,<cref>193 <i>small size</i></cref></sg>,;
+<sg>tenuity</sg>,;
+<sg>paucity</sg>,;
+<sg>fewness ,<cref>103 <i>small number</i></cref></sg>,;
+<sg>meanness, insignificance (unimportance) 643</sg>,;
+<sg>mediocrity, moderation</sg>,;
+<sg>small quantity, modicum, trace, hint, minimum</sg>,;
+<sg>vanishing point</sg>,;
+<sg>material point, atom, particle, molecule, corpuscle, point, speck, dot, mote, jot, iota, ace</sg>,;
+<sg>minutiae, details</sg>,;
+<sg>look, thought, idea, soupcon, dab, dight, whit, tittle, shade, shadow</sg>,;
+<sg>spark, scintilla, gleam</sg>,;
+<sg>touch, cast</sg>,;
+<sg>grain, scruple, granule, globule, minim, sup, sip, sop, spice, drop, droplet, sprinkling, dash, morceau, screed, smack, tinge, tincture</sg>,;
+<sg>inch, patch, scantling, tatter, cantlet, flitter, gobbet, mite, bit, morsel, crumb, seed, fritter, shive</sg>,;
+<sg>snip, snippet</sg>,;
+<sg>snick, snack, snatch, slip, scrag</sg>,;
+<sg>chip, chipping</sg>,;
+<sg>shiver, sliver, driblet, clipping, paring, shaving, hair</sg>,;
+<sg>nutshell</sg>,;
+<sg>thimbleful, spoonful, handful, capful, mouthful</sg>,;
+<sg>fragment</sg>,;
+<sg>fraction ,<cref>51 <i>part</i></cref></sg>,;
+<sg>drop in the ocean</sg>,;
+<sg>animalcule ,<cref> 193 <i>location</i></cref></sg>,;
+<sg>trifle ,<cref>643 <i>unimportant thing</i></cref></sg>,;
+<sg>mere nothing, next to nothing</sg>,;
+<sg>hardly anything</sg>,;
+<sg>just enough to swear by</sg>,;
+<sg>the shadow of a shade</sg>,;
+<sg>finiteness, finite quantity</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be small</sg>,;
+<sg>lie in a nutshell</sg>,;
+<sg>diminish ,<cref>36 <i>decrease</i></cref></sg>,;
+<sg>(contract) 195</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>small, little</sg>,;
+<sg>diminutive ,<cref>193 <i>small in size</i></cref></sg>,;
+<sg>minute</sg>,;
+<sg>fine</sg>,;
+<sg>inconsiderable, paltry ,<cref>643 <i>unimportant</i></cref></sg>,;
+<sg>faint ,<cref>160 <i>weak</i></cref></sg>,;
+<sg>slender, light, slight, scanty, scant, limited</sg>,;
+<sg>meager ,<cref>640 <i>insufficient</i></cref></sg>,;
+<sg>sparing</sg>,;
+<sg>few ,<cref> 103 <i>quinquesection </i></cref></sg>,;
+<sg>low, so-so, middling, tolerable, no great shakes</sg>,;
+<sg>below par, under par, below the mark</sg>,;
+<sg>at a low ebb</sg>,;
+<sg>halfway</sg>,;
+<sg>moderate, modest</sg>,;
+<sg>tender, subtle</sg>,;
+<sg>inappreciable, evanescent, infinitesimal, homeopathic, very small</sg>,;
+<sg>atomic, corpuscular, microscopic, molecular, subatomic</sg>,;
+<sg>mere, simple, sheer, stark, bare</sg>,;
+<sg>near run</sg>,;
+<sg>dull, petty, shallow, stolid, ungifted, unintelligent</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>to a small extent, on a small scale</sg>,;
+<sg>a little bit, a wee bit</sg>,;
+<sg>slightly</sg>,;
+<sg>imperceptibly</sg>,;
+<sg>miserably, wretchedly</sg>,;
+<sg>insufficiently ,<cref> 640 <i>impulse</i></cref></sg>,;
+<sg>imperfectly</sg>,;
+<sg>faintly ,<cref> 160 <i>cause</i></cref></sg>,;
+<sg>passably, pretty well, well enough</sg>,;
+<sg>partially, in part</sg>,;
+<sg>in a certain degree, to a certain degree</sg>,;
+<sg>to a certain extent</sg>,;
+<sg>comparatively</sg>,;
+<sg>some, rather in some degree, in some measure</sg>,;
+<sg>something, somewhat</sg>,;
+<sg>simply, only, purely, merely</sg>,;
+<sg>at least, at the least, at most, at the most</sg>,;
+<sg>ever so little, as little as may be, tant soit peu, in ever so small a degree</sg>,;
+<sg>thus far, pro tanto, within bounds, in a manner, after a fashion, so to speak</sg>,;
+<sg>almost, nearly, well-nigh, short of, not quite, all but</sg>,;
+<sg>near upon, close upon</sg>,;
+<sg>peu s'en faut, near the mark</sg>,;
+<sg>within an ace of, within an inch of</sg>,;
+<sg>on the brink of</sg>,;
+<sg>scarcely, hardly, barely, only just, no more than</sg>,;
+<sg>about, thereabouts, somewhere about, nearly, say</sg>,;
+<sg>be the same, be little more or less</sg>,;
+<sg>no ways, no way, no wise</sg>,;
+<sg>not at all, not in the least, not a bit, not a bit of it, not a whit, not a jot, not a shadow</sg>,;
+<sg>in no wise, in no respect</sg>,;
+<sg>by no means, by no manner of means</sg>,;
+<sg>on no account, at no hand</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>dare pondus idonea fumo</sg>,;
+<sg>magno conatu magnas nugas</sg>,;
+<sg>small sands the mountain, moments make the year</sg>,;
+<br>
+</paragraph>

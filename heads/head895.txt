@@ -1,0 +1,63 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#36#</sectionNumber>
+<headword>#<b>#[001] #895# Ridicule #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>ridicule, </i>derision</sg>,;
+<sg>sardonic smile, sardonic grin</sg>,;
+<sg>irrision</sg>,;
+<sg>scoffing ,<cref>929 <i>disrespect</i></cref></sg>,;
+<sg>mockery, quiz, banter, irony, persiflage, raillery, chaff, badinage</sg>,;
+<sg>quizzing</sg>,;
+<sg>asteism</sg>,;
+<sg>squib, satire, skit, quip, quib, grin</sg>,;
+<sg>parody, burlesque, travesty, travestie</sg>,;
+<sg>farce ,<cref>599 <i>drama</i></cref></sg>,;
+<sg>caricature</sg>,;
+<sg>buffoonery ,<cref>840 <i>fun</i></cref></sg>,;
+<sg>practical joke</sg>,;
+<sg>horseplay</sg>,;
+<sg>scorn, contempt ,<cref> 930 <i>enemy</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>ridicule, deride, mock, taunt</sg>,;
+<sg>snigger</sg>,;
+<sg>laugh in one's sleeve</sg>,;
+<sg>tease, badinage, banter, rally, chaff, joke, twit, quiz, roast</sg>,;
+<sg>haze</sg>,;
+<sg>tehee</sg>,;
+<sg>fleer</sg>,;
+<sg>show up</sg>,;
+<sg>play upon, play tricks upon</sg>,;
+<sg>fool to the top of one's bent</sg>,;
+<sg>laugh at, grin at, smile at</sg>,;
+<sg>poke fun at</sg>,;
+<sg>satirize, parody, caricature, burlesque, travesty</sg>,;
+<sg>turn into ridicule</sg>,;
+<sg>make merry with</sg>,;
+<sg>make fun of, make game of, make a fool of, make an April fool of</sg>,;
+<sg>rally</sg>,;
+<sg>scoff ,<cref>929 <i>disrespect</i></cref></sg>,;
+<sg>raise a laugh ,<cref>840 <i>amuse</i></cref></sg>,;
+<sg>play the fool, make a fool of oneself</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>derisory, derisive</sg>,;
+<sg>mock, mocking</sg>,;
+<sg>sarcastic, ironic, ironical, quizzical, burlesque, Hudibrastic</sg>,;
+<sg>scurrilous ,<cref>929 <i>disrespectful</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>in ridicule</sg>,;
+<br>
+</paragraph>

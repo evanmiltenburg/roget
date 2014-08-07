@@ -1,0 +1,50 @@
+<classNumber>#2#</classNumber>
+<sectionNumber>#12#</sectionNumber>
+<headword>#<b>#[001] #291# Precession #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>precession, </i>leading, heading</sg>,;
+<sg>precedence ,<cref> 62 <i>disorder</i></cref></sg>,;
+<sg>priority ,<cref> 116 <i>diuturnity</i></cref></sg>,;
+<sg>the lead, le pas</sg>,;
+<sg>van ,<cref>234 <i>front</i></cref></sg>,;
+<sg>precursor ,<cref> 64 <i>arrangement</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>go before, go ahead, go in the van, go in advance</sg>,;
+<sg>precede, forerun</sg>,;
+<sg>usher in, introduce, herald, head, take the lead</sg>,;
+<sg>lead the way, lead the dance</sg>,;
+<sg>get the start, have the start</sg>,;
+<sg>steal a march</sg>,;
+<sg>get before, get ahead, get in front of</sg>,;
+<sg>outstrip ,<cref> 303 <i>arrival</i></cref></sg>,;
+<sg>take precedence ,<cref>62 <i>first in order</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>leading, precedent</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>in advance, before, ahead, in the van, in the lead</sg>,;
+<sg>foremost, headmost</sg>,;
+<sg>in front</sg>,;
+<sg>at the head, out in front</sg>,;
+<sg>way out in front, far ahead</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>seniores priores, ahead of his time</sg>,;
+<br>
+</paragraph>

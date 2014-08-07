@@ -1,0 +1,68 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#18#</sectionNumber>
+<headword>#<b>#[001] #494# Impossibility #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>impossibility</i></sg>,;
+<sg>what cannot, what can never be</sg>,;
+<sg>sour grapes</sg>,;
+<sg>hopelessness ,<cref> 859 <i>feeling</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be impossible</sg>,;
+<sg>have no chance whatever</sg>,;
+<sg>attempt impossibilities</sg>,;
+<sg>square the circle, wash a blackamoor white</sg>,;
+<sg>skin a flint</sg>,;
+<sg>make a silk purse out of a sow's ear, make bricks without straw</sg>,;
+<sg>have nothing to go upon</sg>,;
+<sg>weave a rope of sand, build castles in the air, prendre la lune avec les dents, extract sunbeams from cucumbers, set the Thames on fire, milk a he-goat into a sieve, catch a weasel asleep, rompre l'anguille au genou, be in two places at once</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>impossible</sg>,;
+<sg>not possible ,<cref> 470 <i>absence or want of intellect</i></cref></sg>,;
+<sg>absurd, contrary to reason</sg>,;
+<sg>unlikely</sg>,;
+<sg>unreasonable ,<cref> 477 <i>attention</i></cref></sg>,;
+<sg>incredible ,<cref> 485 <i>incomparability</i></cref></sg>,;
+<sg>beyond the bounds of reason, beyond the bounds of possibility, beyond the realm of possibility</sg>,;
+<sg>from which reason recoils</sg>,;
+<sg>visionary</sg>,;
+<sg>inconceivable ,<cref>473 <i>improbable</i></cref></sg>,;
+<sg>prodigious ,<cref>870 <i>wonderful</i></cref></sg>,;
+<sg>unimaginable, inimaginable</sg>,;
+<sg>unthinkable</sg>,;
+<sg>impracticable unachievable</sg>,;
+<sg>unfeasible, infeasible</sg>,;
+<sg>insuperable</sg>,;
+<sg>unsurmountable, insurmountable</sg>,;
+<sg>unattainable, unobtainable</sg>,;
+<sg>out of reach, out of the question</sg>,;
+<sg>not to be had, not to be thought of</sg>,;
+<sg>beyond control</sg>,;
+<sg>desperate ,<cref>859 <i>hopeless</i></cref></sg>,;
+<sg>incompatible ,<cref> 24 <i>prototype</i></cref></sg>,;
+<sg>inaccessible, uncomeatable, impassable, impervious, innavigable, inextricable</sg>,;
+<sg>self- contradictory</sg>,;
+<sg>out of one's power, beyond one's power, beyond one's depth, beyond one's reach, beyond one's grasp</sg>,;
+<sg>too much for</sg>,;
+<sg>ultra crepidam</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>the grapes are sour</sg>,;
+<sg>non possumus</sg>,;
+<sg>non nostrum tantas componere lites</sg>,;
+<sg>look for a needle in a haystack, chercher une aiguille dans une botte de foin</sg>,;
+<sg>il a le mer +a boire</sg>,;
+<br>
+</paragraph>

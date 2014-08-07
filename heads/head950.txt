@@ -1,0 +1,42 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#37#</sectionNumber>
+<headword>#<b>#[001] #950# Philanthropy #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>philanthropy, </i>humanity, humanitarianism universal benevolence</sg>,;
+<sg>endaemonism, deliciae humani generis</sg>,;
+<sg>cosmopolitanism utilitarianism, the greatest happiness of the greatest number, social science, sociology common weal</sg>,;
+<sg>socialism, communism, Fourierism, phalansterianism, Saint Simonianism</sg>,;
+<sg>patriotism, civism, nationality, love of country, amor patriae, public spirit</sg>,;
+<sg>chivalry, knight errantry</sg>,;
+<sg>generosity ,<cref> 942 <i>endearment</i></cref></sg>,;
+<sg>philanthropist, endaemonist, utilitarian, Benthamite, socialist, communist, cosmopolite, citizen of the world, amicus humani generis</sg>,;
+<sg>knight errant</sg>,;
+<sg>patriot</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>philanthropic, humanitarian, utilitarian, cosmopolitan</sg>,;
+<sg>public- spirited, patriotic</sg>,;
+<sg>humane, large-hearted ,<cref>906 <i>benevolent</i></cref></sg>,;
+<sg>chivalric</sg>,;
+<sg>generous ,<cref> 942 <i>endearment</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>pro bono publico, pro aris et focis</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>humani nihil a me alienum puto</sg>,;
+<sg>omne solum forti patria</sg>,;
+<sg>un bien fait n'est jamais perdu</sg>,;
+<br>
+</paragraph>

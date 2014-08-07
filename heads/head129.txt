@@ -1,0 +1,62 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#6#</sectionNumber>
+<headword>#<b>#[001] #129# Newness #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>newness</i></sg>,;
+<sg>novelty, recency</sg>,;
+<sg>immaturity</sg>,;
+<sg>youth ,<cref> 127 <i>futurity</i></cref></sg>,;
+<sg>gloss of novelty</sg>,;
+<sg>innovation</sg>,;
+<sg>renovation ,<cref>660 <i>restoration</i></cref></sg>,;
+<sg>modernism</sg>,;
+<sg>mushroom, parvenu</sg>,;
+<sg>latest fashion</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>renew ,<cref>660 <i>restore</i></cref></sg>,;
+<sg>modernize</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>new, novel, recent, fresh, green</sg>,;
+<sg>young ,<cref> 127 <i>futurity</i></cref></sg>,;
+<sg>evergreen</sg>,;
+<sg>raw, immature, unsettled, yeasty</sg>,;
+<sg>virgin</sg>,;
+<sg>untried, unhandseled, untrodden, untrod, unbeaten</sg>,;
+<sg>fire-new, span-new</sg>,;
+<sg>late, modern, neoteric, hypermodern, nouveau</sg>,;
+<sg>new-born, nascent, neonatal, new-fashioned, new-fangled, new-fledged</sg>,;
+<sg>of yesterday</sg>,;
+<sg>just out, brand-new, up to date, up to the minute, with it, fashionable, in fashion</sg>,;
+<sg>in, hip</sg>,;
+<sg>vernal, renovated, sempervirent, sempervirid</sg>,;
+<sg>fresh as a rose, fresh as a daisy, fresh as paint</sg>,;
+<sg>spick and span</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>newly</sg>,;
+<sg>afresh, anew, lately, just now, only yesterday, the other day</sg>,;
+<sg>latterly, of late</sg>,;
+<sg>not long ago, a short time ago</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>di novello tutto par bello</sg>,;
+<sg>nullum est jam dictum quod non dictum est prius</sg>,;
+<sg>una scopa nuova spazza bene</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,61 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#27#</sectionNumber>
+<headword>#<b>#[001] #653# Relinquishment #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>relinquishment, </i>abandonment</sg>,;
+<sg>desertion, defection, secession, withdrawal</sg>,;
+<sg>cave of Adullam</sg>,;
+<sg>nolle prosequi</sg>,;
+<sg>discontinuance ,<cref>142 <i>cessation</i></cref></sg>,;
+<sg>renunciation ,<cref>607 <i>recantation</i></cref></sg>,;
+<sg>abrogation ,<cref> 756 <i>arms</i></cref></sg>,;
+<sg>resignation ,<cref>757 <i>retirement</i></cref></sg>,;
+<sg>desuetude ,<cref> 614 <i>conversation</i></cref></sg>,;
+<sg>cession ,<cref>782 <i>of property</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>relinquish, give up, abandon, desert, forsake, leave in the lurch</sg>,;
+<sg>go back on</sg>,;
+<sg>depart from, secede from, withdraw from</sg>,;
+<sg>back out of</sg>,;
+<sg>leave, quit, take leave of, bid a long farewell</sg>,;
+<sg>vacate ,<cref>757 <i>resign</i></cref></sg>,;
+<sg>renounce ,<cref>607 <i>abjure</i></cref></sg>,;
+<sg>forego, have done with, drop</sg>,;
+<sg>disuse ,<cref> 678 <i>badness</i></cref></sg>,;
+<sg>discard ,<cref> 782 <i>restraint</i></cref></sg>,;
+<sg>wash one's hands of</sg>,;
+<sg>drop all idea of</sg>,;
+<sg>break off, leave off</sg>,;
+<sg>desist</sg>,;
+<sg>stop ,<cref>142 <i>cease</i></cref></sg>,;
+<sg>hold one's hand, stay one's hand</sg>,;
+<sg>quit one's hold</sg>,;
+<sg>give over, shut up shop</sg>,;
+<sg>throw up the game, throw up the cards</sg>,;
+<sg>give up the point, give up the argument</sg>,;
+<sg>pass to the order of the day, move to the previous question</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>unpursued</sg>,;
+<sg>relinquished</sg>,;
+<sg>relinquishing</sg>,;
+<sg>Int</sg>,;
+<sg>avast!, ,<cref>142 <i>stop</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>aufgeschoben ist nicht aufgehoben</sg>,;
+<sg>entbehre gern was du nicht hast</sg>,;
+<br>
+</paragraph>

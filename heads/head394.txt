@@ -1,0 +1,27 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#15#</sectionNumber>
+<headword>#<b>#[001] #394# Numbness #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>numbness</i> ,<cref>376 <i>physical insensibility</i></cref></sg>,;
+<sg>anaesthesia</sg>,;
+<sg>pins and needles</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>benumb ,<cref> 376 <i>animality</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>numb</sg>,;
+<sg>benumbed</sg>,;
+<sg>deadened</sg>,;
+<sg>intangible, impalpable</sg>,;
+<sg>(2) Heat</sg>,;
+<br>
+</paragraph>

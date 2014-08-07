@@ -1,0 +1,54 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#26#</sectionNumber>
+<headword>#<b>#[001] #647# Good #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>good, </i>benefit, advantage</sg>,;
+<sg>improvement ,<cref> 658 <i>circuit</i></cref></sg>,;
+<sg>greatest good, supreme good</sg>,;
+<sg>interest, service, behoof, behalf</sg>,;
+<sg>weal</sg>,;
+<sg>main chance, summum bonum, common weal</sg>,;
+<sg>consummation devoutly to be wished</sg>,;
+<sg>gain, boot</sg>,;
+<sg>profit, harvest</sg>,;
+<sg>boon ,<cref>784 <i>gift</i></cref></sg>,;
+<sg>good turn</sg>,;
+<sg>blessing</sg>,;
+<sg>world of good</sg>,;
+<sg>piece of good luck, piece of good fortune</sg>,;
+<sg>nuts, prize, windfall, godsend, waif, treasure-trove</sg>,;
+<sg>good fortune ,<cref>734 <i>prosperity</i></cref></sg>,;
+<sg>happiness ,<cref> 827 <i>barter</i></cref></sg>,;
+<sg>goodness ,<cref> 648 <i>evil</i></cref></sg>,;
+<sg>utility ,<cref> 644 <i>absence of motive</i></cref></sg>,;
+<sg>remedy ,<cref> 662 <i>instrument</i></cref></sg>,;
+<sg>pleasure giving ,<cref> 829 <i>sale</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>commendable ,<cref> 931 <i>sociality</i></cref></sg>,;
+<sg>useful ,<cref> 644 <i>absence of motive</i></cref></sg>,;
+<sg>good </sg>,;
+<sg>beneficial ,<cref> 648 <i>evil</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>well, aright, satisfactorily, favorably, not amis</sg>,;
+<sg>all for the best</sg>,;
+<sg>to one's advantage</sg>,;
+<sg>in one's favor, in one's interest</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>so far so good</sg>,;
+<sg>magnum bonum</sg>,;
+<br>
+</paragraph>

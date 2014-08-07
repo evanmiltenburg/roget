@@ -1,0 +1,83 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#15#</sectionNumber>
+<headword>#<b>#[001] #378# Animal #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>animal, </i>animal kingdom</sg>,;
+<sg>fauna</sg>,;
+<sg>brute creation</sg>,;
+<sg>beast, brute, creature, critter</sg>,;
+<sg>wight, created being</sg>,;
+<sg>creeping thing, living thing</sg>,;
+<sg>dumb animal, dumb creature</sg>,;
+<sg>zoophyte</sg>,;
+<sg>mammal, bird, reptile, amphibian, fish, crustacean, shellfish, mollusk, worm, insect, arthropod, microbe</sg>,;
+<sg>microbe, animalcule ,<cref> 193 <i>location</i></cref></sg>,;
+<sg>alligator, crocodile</sg>,;
+<sg>saurian</sg>,;
+<sg>dinosaur (extinct)</sg>,;
+<sg>snake, serpent, viper, eft</sg>,;
+<sg>asp, aspick</sg>,;
+<sg>frog, toad</sg>,;
+<sg>trout, bass, tuna, muskelunge, sailfish, sardine, mackerel</sg>,;
+<sg>ant, mosquito, bee, honeybee</sg>,;
+<sg>tardigrade, spider</sg>,;
+<sg>biped, quadruped</sg>,;
+<sg>webfoot</sg>,;
+<sg>flocks and herds, live stock</sg>,;
+<sg>domestic animals, wild animals</sg>,;
+<sg>game, ferae naturae</sg>,;
+<sg>beasts of the field, fowls of the air, denizens of the sea</sg>,;
+<sg>black game, black grouse</sg>,;
+<sg>blackcock, duck, grouse, plover, rail, snipe</sg>,;
+<sg>horse ,<cref>271 <i>beast of burden</i></cref></sg>,;
+<sg>cattle, kine, ox</sg>,;
+<sg>bull, bullock</sg>,;
+<sg>cow, milch cow, calf, heifer, shorthorn</sg>,;
+<sg>sheep</sg>,;
+<sg>lamb, lambkin</sg>,;
+<sg>ewe, ram, tup</sg>,;
+<sg>pig, swine, boar, hog, sow</sg>,;
+<sg>steer, stot</sg>,;
+<sg>tag, teg</sg>,;
+<sg>bison, buffalo, yak, zebu, dog, cat</sg>,;
+<sg>dog, hound</sg>,;
+<sg>pup, puppy</sg>,;
+<sg>whelp, cur, mongrel</sg>,;
+<sg>house dog, watch dog, sheep dog, shepherd's dog, sporting dog, fancy dog, lap dog, toy dog, bull dog, badger dog</sg>,;
+<sg>mastiff</sg>,;
+<sg>blood hound, grey hound, stag hound, deer hound, fox hound, otter hound</sg>,;
+<sg>harrier, beagle, spaniel, pointer, setter, retriever</sg>,;
+<sg>Newfoundland</sg>,;
+<sg>water dog, water spaniel</sg>,;
+<sg>pug, poodle</sg>,;
+<sg>turnspit</sg>,;
+<sg>terrier</sg>,;
+<sg>fox terrier, Skye terrier</sg>,;
+<sg>Dandie Dinmont</sg>,;
+<sg>collie</sg>,;
+<sg>feline, puss, pussy</sg>,;
+<sg>grimalkin</sg>,;
+<sg>gib cat, tom cat</sg>,;
+<sg>fox, Reynard, vixen, stag, deer, hart, buck, doe, roe</sg>,;
+<sg>caribou, coyote, elk, moose, musk ox, sambar</sg>,;
+<sg>bird</sg>,;
+<sg>poultry, fowl, cock, hen, chicken, chanticleer, partlet, rooster, dunghill cock, barn door fowl</sg>,;
+<sg>feathered tribes, feathered songster</sg>,;
+<sg>singing bird, dicky bird</sg>,;
+<sg>canary, warbler</sg>,;
+<sg>finch</sg>,;
+<sg>aberdevine, cushat, cygnet, ringdove, siskin, swan, wood pigeon</sg>,;
+<sg>vermin, varmint, pest</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>animal, zoological equine, bovine, vaccine, canine, feline, fishy</sg>,;
+<sg>piscatory, piscatorial</sg>,;
+<sg>molluscous, vermicular</sg>,;
+<sg>gallinaceous, rasorial, solidungulate, soliped</sg>,;
+<br>
+</paragraph>

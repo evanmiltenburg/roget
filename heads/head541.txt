@@ -1,0 +1,69 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#23#</sectionNumber>
+<headword>#<b>#[001] #541# Meaning #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>meaning</i></sg>,;
+<sg>signification, significance</sg>,;
+<sg>sense, expression</sg>,;
+<sg>import, purport</sg>,;
+<sg>force</sg>,;
+<sg>drift, tenor, spirit, bearing, coloring</sg>,;
+<sg>scope</sg>,;
+<sg>substance</sg>,;
+<sg>gist, essence, marrow, spirit ,<cref> 5 <i>intrinsicality</i></cref></sg>,;
+<sg>matter</sg>,;
+<sg>subject, subject matter</sg>,;
+<sg>argument, text, sum and substance</sg>,;
+<sg>general meaning, broad meaning, substantial meaning, colloquial meaning, literal meaning, plain meaning, simple meaning, natural meaning, unstrained meaning, true meaning, ,<cref>494 <i>exact</i></cref> honest meaning, &c 543 prima facie meaning</sg>,;
+<sg>,<cref>525 <i>manifest</i></cref></sg>,;
+<sg>letter of the law</sg>,;
+<sg>literally</sg>,;
+<sg>after acceptation</sg>,;
+<sg>synonym</sg>,;
+<sg>implication, allusion ,<cref>526 <i>latency</i></cref></sg>,;
+<sg>suggestion ,<cref>527 <i>information</i></cref></sg>,;
+<sg>figure of speech ,<cref> 521 <i>absurdity</i></cref></sg>,;
+<sg>acceptation ,<cref>522 <i>interpretation</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>mean, signify, express</sg>,;
+<sg>import, purport</sg>,;
+<sg>convey, imply, breathe, indicate, bespeak, bear a sense</sg>,;
+<sg>tell of, speak of</sg>,;
+<sg>touch on</sg>,;
+<sg>point to, allude to</sg>,;
+<sg>drive at</sg>,;
+<sg>involve ,<cref>526 <i>latency</i></cref></sg>,;
+<sg>declare ,<cref>535 <i>affirm</i></cref></sg>,;
+<sg>understand by ,<cref>522 <i>interpret</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>meaning</sg>,;
+<sg>expressive, suggestive, allusive</sg>,;
+<sg>significant, significative, significatory</sg>,;
+<sg>pithy</sg>,;
+<sg>full of meaning, pregnant with meaning</sg>,;
+<sg>declaratory ,<cref> 535 <i>prediction</i></cref></sg>,;
+<sg>intelligible ,<cref> 518 <i>truth</i></cref></sg>,;
+<sg>literal</sg>,;
+<sg>synonymous</sg>,;
+<sg>tantamount ,<cref>27 <i>equivalent</i></cref></sg>,;
+<sg>implied ,<cref>526 <i>latent</i></cref></sg>,;
+<sg>explicit ,<cref> 525 <i>fool</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>to that effect</sg>,;
+<sg>that is to say ,<cref>522 <i>being interpreted</i></cref></sg>,;
+<br>
+</paragraph>

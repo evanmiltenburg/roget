@@ -1,0 +1,36 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#24#</sectionNumber>
+<headword>#<b>#[001] #566# Teacher #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>teacher, </i>trainer, instructor, institutor, master, tutor, director, Corypheus, dry nurse, coach, grinder, crammer, don</sg>,;
+<sg>governor, bear leader</sg>,;
+<sg>governess, duenna</sg>,;
+<sg>disciplinarian</sg>,;
+<sg>professor, lecturer, reader, prelector, prolocutor, preacher</sg>,;
+<sg>chalk talker, khoja</sg>,;
+<sg>pastor ,<cref>996 <i>clergy</i></cref></sg>,;
+<sg>schoolmaster, dominie, usher, pedagogue, abecedarian</sg>,;
+<sg>schoolmistress, dame, monitor, pupil teacher</sg>,;
+<sg>expositor ,<cref> 524 <i>sage</i></cref></sg>,;
+<sg>preceptor, guide</sg>,;
+<sg>guru</sg>,;
+<sg>mentor ,<cref>695 <i>adviser</i></cref></sg>,;
+<sg>pioneer, apostle, missionary, propagandist, munshi, example ,<cref>22 <i>model for imitation</i></cref></sg>,;
+<sg>professorship ,<cref>542 <i>school</i></cref></sg>,;
+<sg>tutelage ,<cref>537 <i>teaching</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>professorial</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>qui doet discet</sg>,;
+<br>
+</paragraph>

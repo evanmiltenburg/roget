@@ -1,0 +1,93 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#20#</sectionNumber>
+<headword>#<b>#[001] #509# Doubt #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>unbelief doubt, </i>unbelief, disbelief, misbelief</sg>,;
+<sg>discredit, miscreance</sg>,;
+<sg>infidelity ,<cref>989 <i>irreligion</i></cref></sg>,;
+<sg>dissent ,<cref> 489 <i>measurement</i></cref></sg>,;
+<sg>change of opinion ,<cref> 484 <i>comparison</i></cref></sg>,;
+<sg>retraction ,<cref> 607 <i>aphony</i></cref></sg>,;
+<sg>doubt ,<cref>475 <i>uncertainty</i></cref></sg>,;
+<sg>skepticism, scepticism, misgiving, demure</sg>,;
+<sg>distrust, mistrust, cynicism</sg>,;
+<sg>misdoubt, suspicion, jealousy, scruple, qualm</sg>,;
+<sg>onus probandi</sg>,;
+<sg>incredibility, incredibleness</sg>,;
+<sg>incredulity</sg>,;
+<sg>doubter, skeptic, cynic</sg>,;
+<sg>unbeliever ,<cref> 487 <i>indiscrimination</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>disbelieve, discredit</sg>,;
+<sg>not believe ,<cref> 484 <i>comparison</i></cref></sg>,;
+<sg>misbelieve</sg>,;
+<sg>refuse to admit ,<cref>489 <i>dissent</i></cref></sg>,;
+<sg>refuse to believe ,<cref>487 <i>incredulity</i></cref></sg>,;
+<sg>doubt</sg>,;
+<sg>be doubtful ,<cref>475 <i>uncertain</i></cref></sg>,;
+<sg>doubt the truth of</sg>,;
+<sg>be skeptical as to</sg>,;
+<sg>diffide</sg>,;
+<sg>distrust, mistrust</sg>,;
+<sg>suspect, smoke, scent, smell a rat</sg>,;
+<sg>have doubts, harbor doubts, entertain doubts, suspicions</sg>,;
+<sg>have one's doubts</sg>,;
+<sg>demure, stick at, pause, hesitate, scruple</sg>,;
+<sg>stop to consider, waver</sg>,;
+<sg>hang in suspense, hang in doubt</sg>,;
+<sg>throw doubt upon, raise a question</sg>,;
+<sg>bring in, call in question</sg>,;
+<sg>question, challenge, dispute</sg>,;
+<sg>deny ,<cref> 536 <i>omen</i></cref></sg>,;
+<sg>cavil</sg>,;
+<sg>cause a doubt, raise a doubt, start a doubt, suggest a doubt, awake a doubt, make suspicion</sg>,;
+<sg>ergotize</sg>,;
+<sg>startle, stagger</sg>,;
+<sg>shake one's faith, shake one's belief, stagger one's faith, stagger one's belief</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>unbelieving</sg>,;
+<sg>skeptical, sceptical</sg>,;
+<sg>incredulous as to, skeptical as to</sg>,;
+<sg>distrustful as to, shy as to, suspicious of</sg>,;
+<sg>doubting</sg>,;
+<sg>doubtful ,<cref>475 <i>uncertain</i></cref></sg>,;
+<sg>disputable</sg>,;
+<sg>unworthy of, undeserving of belief ,<cref> 484 <i>comparison</i></cref></sg>,;
+<sg>questionable</sg>,;
+<sg>suspect, suspicious</sg>,;
+<sg>open to suspicion, open to doubt</sg>,;
+<sg>staggering, hard to believe, incredible, unbelievable, not to be believed, inconceivable</sg>,;
+<sg>impossible ,<cref> 471 <i>thought</i></cref></sg>,;
+<sg>fallible ,<cref>475 <i>uncertain</i></cref></sg>,;
+<sg>undemonstrable</sg>,;
+<sg>controvertible ,<cref>495 <i>untrue</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>cum grano salis, with a grain of salt</sg>,;
+<sg>with grains of allowance</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>fronti nulla fides</sg>,;
+<sg>nimium ne crede colori</sg>,;
+<sg>timeo Danaos et dona ferentes, I fear the Greeks even when bearing gifts, beware of Greeks bearing gifts</sg>,;
+<sg>credat Judaeus Apella</sg>,;
+<sg>let those believe who may</sg>,;
+<sg>ad tristem partem stenua est suspicio</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,100 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#37#</sectionNumber>
+<headword>#<b>#[001] #932# Exclusion #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>seclusion, exclusion, </i>seclusion, privacy</sg>,;
+<sg>retirement</sg>,;
+<sg>reclusion, recess</sg>,;
+<sg>snugness</sg>,;
+<sg>delitescence</sg>,;
+<sg>rustication, rus in urbe</sg>,;
+<sg>solitude</sg>,;
+<sg>solitariness ,<cref>87 <i>singleness</i></cref></sg>,;
+<sg>isolation</sg>,;
+<sg>loneliness</sg>,;
+<sg>estrangement from the world, voluntary exile</sg>,;
+<sg>aloofness</sg>,;
+<sg>cell, hermitage</sg>,;
+<sg>convent ,<cref> 1000 <i>gluttony</i></cref></sg>,;
+<sg>sanctum sanctorum</sg>,;
+<sg>depopulation, desertion, desolation</sg>,;
+<sg>wilderness ,<cref>169 <i>unproductive</i></cref></sg>,;
+<sg>howling wilderness</sg>,;
+<sg>rotten borough, Old Sarum</sg>,;
+<sg>exclusion, excommunication, banishment, exile, ostracism, proscription</sg>,;
+<sg>cut, cut direct</sg>,;
+<sg>dead cut</sg>,;
+<sg>inhospitality, inhospitableness</sg>,;
+<sg>dissociability</sg>,;
+<sg>domesticity, Darby and Joan</sg>,;
+<sg>recluse, hermit, eremite, cenobite</sg>,;
+<sg>anchoret, anchorite</sg>,;
+<sg>Simon Stylites</sg>,;
+<sg>troglodyte, Timon of Athens, Santon, solitaire, ruralist, disciple of Zimmermann, closet cynic, Diogenes</sg>,;
+<sg>outcast, Pariah, castaway, pilgarlic</sg>,;
+<sg>wastrel, foundling, wilding</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be secluded, live secluded</sg>,;
+<sg>keep aloof, stand, hold oneself aloof, keep in the background, stand in the background</sg>,;
+<sg>keep snug</sg>,;
+<sg>shut oneself up</sg>,;
+<sg>deny oneself, seclude oneself creep into a corner, rusticate, aller planter ses choux</sg>,;
+<sg>retire, retire from the world</sg>,;
+<sg>take the veil</sg>,;
+<sg>abandon ,<cref> 624 <i>prose</i></cref></sg>,;
+<sg>sport one's oak</sg>,;
+<sg>cut, cut dead</sg>,;
+<sg>refuse to associate with, refuse to acknowledge</sg>,;
+<sg>look cool upon, turn one's back upon, shut the door upon</sg>,;
+<sg>repel, blackball, excommunicate, exclude, exile, expatriate</sg>,;
+<sg>banish, outlaw, maroon, ostracize, proscribe, cut off from, send to Coventry, keep at arm's length, draw a cordon round</sg>,;
+<sg>depopulate</sg>,;
+<sg>dispeople, unpeople</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>secluded, sequestered, retired, delitescent, private, bye</sg>,;
+<sg>out of the world, out of the way</sg>,;
+<sg>the world forgetting by the world forgot</sg>,;
+<sg>snug, domestic, stay-at-home</sg>,;
+<sg>unsociable</sg>,;
+<sg>unsocial, dissocial</sg>,;
+<sg>inhospitable, cynical, inconversable, unclubbable, sauvage, troglodytic</sg>,;
+<sg>solitary</sg>,;
+<sg>lonely, lonesome</sg>,;
+<sg>isolated, single</sg>,;
+<sg>estranged</sg>,;
+<sg>unfrequented</sg>,;
+<sg>uninhabitable, uninhabited</sg>,;
+<sg>tenantless</sg>,;
+<sg>abandoned</sg>,;
+<sg>deserted, deserted in one's utmost need</sg>,;
+<sg>unfriended</sg>,;
+<sg>kithless, friendless, homeless</sg>,;
+<sg>lorn, forlorn, desolate</sg>,;
+<sg>unvisited, unintroduced, uninvited, unwelcome</sg>,;
+<sg>under a cloud, left to shift for oneself, derelict, outcast</sg>,;
+<sg>banished</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>noli me tangere</sg>,;
+<sg>among them but not of them</sg>,;
+<sg>and homeless near a thousand homes I stood</sg>,;
+<sg>far from the madding crowd's ignoble strife</sg>,;
+<sg>makes a solitude and calls it peace</sg>,;
+<sg>magna civitas magna solitudo</sg>,;
+<sg>never less alone than when alone</sg>,;
+<sg>O sacred solitude! divine retreat!</sg>,;
+<br>
+</paragraph>

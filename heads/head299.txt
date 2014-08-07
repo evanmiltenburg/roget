@@ -1,0 +1,47 @@
+<classNumber>#2#</classNumber>
+<sectionNumber>#12#</sectionNumber>
+<headword>#<b>#[001] #299# Attraction #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>attraction, </i>attractiveness</sg>,;
+<sg>attractivity</sg>,;
+<sg>drawing to, pulling towards, adduction</sg>,;
+<sg>electrical attraction, electricity, static electricity, static, static cling</sg>,;
+<sg>magnetism, magnetic attraction</sg>,;
+<sg>gravity, attraction of gravitation</sg>,;
+<sg>lodestone, loadstone, lodestar, loadstar</sg>,;
+<sg>magnet, permanent magnet, siderite, magnetite</sg>,;
+<sg>electromagnet</sg>,;
+<sg>magnetic coil, voice coil</sg>,;
+<sg>magnetic dipole</sg>,;
+<sg>motor coil, rotor, stator</sg>,;
+<sg>electrical charge</sg>,;
+<sg>positive charge, negative charge</sg>,;
+<sg>magnetic pole</sg>,;
+<sg>north pole, south pole</sg>,;
+<sg>magnetic monopole</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>attract, draw</sg>,;
+<sg>draw towards, pull towards, drag towards</sg>,;
+<sg>adduce</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>attracting</sg>,;
+<sg>attrahent, attractive, adducent, adductive</sg>,;
+<sg>centrifugal</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>ubi mel ibi apes</sg>,;
+<br>
+</paragraph>

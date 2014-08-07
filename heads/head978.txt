@@ -1,0 +1,25 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#38#</sectionNumber>
+<headword>#<b>#[001] #978# Detractor #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>detractor, </i>reprover</sg>,;
+<sg>censor, censurer</sg>,;
+<sg>cynic, critic, caviler, carper, word-catcher, frondeur</sg>,;
+<sg>barracker</sg>,;
+<sg>defamer, backbiter, slanderer, Sir Benjamin Backbite, lampooner, satirist, traducer, libeler, calumniator, dawplucker, Thersites</sg>,;
+<sg>Zoilus</sg>,;
+<sg>good-natured friend</sg>,;
+<sg>reviler, vituperator, castigator</sg>,;
+<sg>shrew ,<cref> 901 <i>cowardice</i></cref></sg>,;
+<sg>muckraker</sg>,;
+<sg>disapprover, laudator temporis acti</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>black-mouthed, abusive ,<cref> 934 <i>discourtesy</i></cref></sg>,;
+<br>
+</paragraph>

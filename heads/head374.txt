@@ -1,0 +1,24 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#15#</sectionNumber>
+<headword>#<b>#[001] #374# Corpse #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>corpse, </i>corse, carcass, cadaver, bones, skeleton, dry bones</sg>,;
+<sg>defunct, relics, reliquiae, remains, mortal remains, dust, ashes, earth, clay</sg>,;
+<sg>mummy</sg>,;
+<sg>carrion</sg>,;
+<sg>food for worms, food for fishes</sg>,;
+<sg>tenement of clay this mortal coil</sg>,;
+<sg>shade, ghost, manes</sg>,;
+<sg>organic remains, fossils</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>cadaverous, corpse-like</sg>,;
+<sg>unburied ,<cref> 363 <i>semiliquidity</i></cref></sg>,;
+<sg>sapromyiophyllous</sg>,;
+<br>
+</paragraph>

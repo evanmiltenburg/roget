@@ -1,0 +1,19 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#28#</sectionNumber>
+<headword>#<b>#[001] #726# Precept #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>precept, </i>direction, instruction, charge</sg>,;
+<sg>prescript, prescription</sg>,;
+<sg>recipe, receipt</sg>,;
+<sg>golden rule</sg>,;
+<sg>maxim ,<cref> 496 <i>improbability</i></cref></sg>,;
+<sg>rule, canon, law, code, corpus juris, lex scripta, act, statute, rubric, stage direction, regulation</sg>,;
+<sg>form, formula, formulary</sg>,;
+<sg>technicality</sg>,;
+<sg>canon law</sg>,;
+<sg>norm</sg>,;
+<sg>order ,<cref>741 <i>command</i></cref></sg>,;
+<br>
+</paragraph>

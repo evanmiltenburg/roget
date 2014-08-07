@@ -1,0 +1,55 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#19#</sectionNumber>
+<headword>#<b>#[001] #502# Confutation #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>confutation, </i>refutation</sg>,;
+<sg>answer, complete answer</sg>,;
+<sg>disproof, conviction, redargution, invalidation</sg>,;
+<sg>exposure, exposition</sg>,;
+<sg>clincher</sg>,;
+<sg>retort</sg>,;
+<sg>reductio ad absurdum</sg>,;
+<sg>knock down argument, tu quoque argument</sg>,;
+<sg>sockdolager, correction ,<cref> 572 <i>untruth</i></cref></sg>,;
+<sg>1</sg>,;
+<sg>dissuasion ,<cref> 616 <i>writing</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>confute, refute, disprove</sg>,;
+<sg>parry, negative, controvert, rebut, confound, disconfirm, redargue, expose, show the fallacy of, defeat</sg>,;
+<sg>demolish, break ,<cref>162 <i>destroy</i></cref></sg>,;
+<sg>overthrow, overturn scatter to the winds, explode, invalidate</sg>,;
+<sg>silence</sg>,;
+<sg>put to silence, reduce to silence</sg>,;
+<sg>clinch an argument, clinch a question</sg>,;
+<sg>give one a setdown, stop the mouth, shut up</sg>,;
+<sg>have, have on the hip</sg>,;
+<sg>not leave a leg to stand on, cut the ground from under one's feet</sg>,;
+<sg>be confuted </sg>,;
+<sg>fail</sg>,;
+<sg>expose one's weak point, show one's weak point</sg>,;
+<sg>counter evidence ,<cref> 468 <i>disappearance</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>confuting, confuted,</sg>,;
+<sg>capable of refutation</sg>,;
+<sg>refutable, confutable, defeasible</sg>,;
+<sg>contravene (counter evidence) 468</sg>,;
+<sg>condemned on one's own showing, condemned out of one's own mouth</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>the argument falls to the ground, cadit quaestio, it does not hold water, suo sibi gladio hunc jugulo</sg>,;
+<sg>his argument was demolished by new evidence</sg>,;
+<br>
+</paragraph>

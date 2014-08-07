@@ -1,0 +1,66 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#3#</sectionNumber>
+<headword>#<b>#[001] #53# Whole #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>whole, </i>totality, integrity</sg>,;
+<sg>totalness</sg>,;
+<sg>entirety, ensemble, collectiveness</sg>,;
+<sg>unity ,<cref> 87 <i>unconformity</i></cref></sg>,;
+<sg>completeness ,<cref> 52 <i>decomposition</i></cref></sg>,;
+<sg>indivisibility, indiscerptibility</sg>,;
+<sg>integration, embodiment</sg>,;
+<sg>integer</sg>,;
+<sg>all, the whole, total, aggregate, one and all, gross amount, sum, sum total, tout ensemble, length and breadth of, Alpha and Omega, be all and end all</sg>,;
+<sg>complex, complexus</sg>,;
+<sg>lock stock and barrel</sg>,;
+<sg>bulk, mass, lump, tissue, staple, body, compages</sg>,;
+<sg>trunk, torso, bole, hull, hulk, skeleton greater part, major part, best part, principal part, main part</sg>,;
+<sg>essential part ,<cref>642 <i>importance</i></cref></sg>,;
+<sg>lion's share, Benjamin's mess</sg>,;
+<sg>the long and the short</sg>,;
+<sg>nearly, all, almost all</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>form a whole, constitute a whole</sg>,;
+<sg>integrate, embody, amass</sg>,;
+<sg>aggregate ,<cref>72 <i>assemble</i></cref></sg>,;
+<sg>amount to, come to</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>whole, total, integral, entire</sg>,;
+<sg>complete ,<cref> 52 <i>decomposition</i></cref></sg>,;
+<sg>one, individual</sg>,;
+<sg>unbroken, intact, uncut, undivided, unsevered, unclipped, uncropped, unshorn</sg>,;
+<sg>seamless</sg>,;
+<sg>undiminished</sg>,;
+<sg>undemolished, undissolved, undestroyed, unbruised</sg>,;
+<sg>indivisible, indissoluble, indissolvable, indiscerptible</sg>,;
+<sg>wholesale, sweeping</sg>,;
+<sg>comprehensive</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>wholly, altogether</sg>,;
+<sg>totally ,<cref>52 <i>completely</i></cref></sg>,;
+<sg>entirely, all, all in all, as a whole, wholesale, in a body, collectively, all put together</sg>,;
+<sg>in the aggregate, in the lump, in the mass, in the gross, in the main, in the long run</sg>,;
+<sg>en masse, as a body, on the whole, bodily, en bloc, in extenso, throughout, every inch</sg>,;
+<sg>substantially</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>tout bien ou rien</sg>,;
+<br>
+</paragraph>

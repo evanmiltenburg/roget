@@ -1,0 +1,64 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#28#</sectionNumber>
+<headword>#<b>#[001] #732# Artlessness #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>artlessness</i></sg>,;
+<sg>nature, simplicity</sg>,;
+<sg>innocence ,<cref> 946 <i>benevolence</i></cref></sg>,;
+<sg>bonhomie, naivete, abandon, candor, sincerity</sg>,;
+<sg>singleness of purpose, singleness of heart</sg>,;
+<sg>honesty ,<cref> 939 <i>resentment</i></cref></sg>,;
+<sg>plain speaking</sg>,;
+<sg>epanchement</sg>,;
+<sg>rough diamond, matter of fact man</sg>,;
+<sg>le palais de verite</sg>,;
+<sg>enfant terrible</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be artless</sg>,;
+<sg>look one in the face</sg>,;
+<sg>wear one's heart upon his sleeves for daws to peck at</sg>,;
+<sg>think aloud</sg>,;
+<sg>speak out, speak one's mind</sg>,;
+<sg>be free with one, call a spade a spade</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>artless, natural, pure, native, confiding, simple, lain, inartificial, untutored, unsophisticated, ingenu, unaffected, naive</sg>,;
+<sg>sincere, frank</sg>,;
+<sg>open, open as day</sg>,;
+<sg>candid, ingenuous, guileless</sg>,;
+<sg>unsuspicious, honest ,<cref> 939 <i>resentment</i></cref></sg>,;
+<sg>innocent ,<cref> 946 <i>benevolence</i></cref></sg>,;
+<sg>Arcadian</sg>,;
+<sg>undesigning, straightforward, unreserved, aboveboard</sg>,;
+<sg>simple-minded, single-minded</sg>,;
+<sg>frank-hearted, open-hearted, single-hearted, simple-hearted</sg>,;
+<sg>free-spoken, plain-spoken, outspoken</sg>,;
+<sg>blunt, downright, direct, matter of fact, unpoetical</sg>,;
+<sg>unflattering</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>in plain words, in plain English</sg>,;
+<sg>without mincing the matter</sg>,;
+<sg>not to mince the matter ,<cref>535 <i>affirmation</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>Davus sum non Oedipus</sg>,;
+<sg>liberavi animam meam</sg>,;
+<sg>as frank as rain on cherry blossoms</sg>,;
+<br>
+</paragraph>

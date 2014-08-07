@@ -1,0 +1,199 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#27#</sectionNumber>
+<headword>#<b>#[001] #688# Deterioration #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>deterioration, </i>debasement</sg>,;
+<sg>wane, ebb</sg>,;
+<sg>recession ,<cref> 287 <i>impulse</i></cref></sg>,;
+<sg>retrogradation ,<cref> 283 <i>vehicle</i></cref></sg>,;
+<sg>decrease ,<cref> 36 <i>inferiority</i></cref></sg>,;
+<sg>degeneracy, degeneration, degenerateness</sg>,;
+<sg>degradation</sg>,;
+<sg>depravation, depravement</sg>,;
+<sg>devolution</sg>,;
+<sg>depravity ,<cref> 945 <i>divorce</i></cref></sg>,;
+<sg>demoralization, retrogression</sg>,;
+<sg>masochism</sg>,;
+<sg>impairment, inquination, injury, damage, loss, detriment, delaceration, outrage, havoc, inroad, ravage, scath</sg>,;
+<sg>perversion, prostitution, vitiation, discoloration, oxidation, pollution, defoedation, poisoning, venenation, leaven, contamination, canker, corruption, adulteration, alloy</sg>,;
+<sg>decline, declension, declination</sg>,;
+<sg>decadence, decadency</sg>,;
+<sg>falling off</sg>,;
+<sg>caducity, decrepitude</sg>,;
+<sg>decay, dilapidation, ravages of time, wear and tear</sg>,;
+<sg>corrosion, erosion</sg>,;
+<sg>moldiness, rottenness</sg>,;
+<sg>moth and rust, dry rot, blight, marasmus, atrophy, collapse</sg>,;
+<sg>disorganization</sg>,;
+<sg>delabrement  (destruction)</sg>,;
+<sg>162</sg>,;
+<sg>aphid, Aphis, plant louse, puceron</sg>,;
+<sg>vinefretter, vinegrub</sg>,;
+<sg>wreck, mere wreck, honeycomb, magni nominis umbra</sg>,;
+<sg>jade, plug, rackabones, skate</sg>,;
+<sg>tackey, tacky</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be worse, be deteriorated, become worse, become deteriorated  Adj</sg>,;
+<sg>have seen better days, deteriorate, degenerate, fall off</sg>,;
+<sg>wane ,<cref>36 <i>decrease</i></cref></sg>,;
+<sg>ebb</sg>,;
+<sg>retrograde ,<cref> 283 <i>vehicle</i></cref>, decline, droop</sg>,;
+<sg>go down ,<cref>306 <i>sink</i></cref></sg>,;
+<sg>go downhill, go from bad to worse, go farther and fare worse</sg>,;
+<sg>jump out of the frying pan into the fire</sg>,;
+<sg>run to seed, go to seed, run to waste swale, sweal</sg>,;
+<sg>lapse, be the worse for</sg>,;
+<sg>sphacelate: break, break down</sg>,;
+<sg>spring a leak, crack, start</sg>,;
+<sg>shrivel ,<cref>195 <i>contract</i></cref></sg>,;
+<sg>fade, go off, wither, molder, rot, rankle, decay, go bad</sg>,;
+<sg>go to decay, fall into decay</sg>,;
+<sg>fall into the sear and yellow leaf, rust, crumble, shake</sg>,;
+<sg>totter, totter to its fall</sg>,;
+<sg>perish ,<cref> 162 <i>attribution</i></cref></sg>,;
+<sg>die ,<cref> 360 <i>wind</i></cref></sg>,;
+<sg>deteriorate</sg>,;
+<sg>weaken ,<cref> 160 <i>cause</i></cref></sg>,;
+<sg>put back, set back</sg>,;
+<sg>taint, infect, contaminate, poison, empoison, envenom, canker, corrupt, exulcerate, pollute, vitiate, inquinate</sg>,;
+<sg>debase, embase</sg>,;
+<sg>denaturalize, denature, leaven</sg>,;
+<sg>deflower, debauch, defile, deprave, degrade</sg>,;
+<sg>ulcerate</sg>,;
+<sg>stain ,<cref>653 <i>dirt</i></cref></sg>,;
+<sg>discolor</sg>,;
+<sg>alloy, adulterate, sophisticate, tamper with, prejudice</sg>,;
+<sg>pervert, prostitute, demoralize, brutalize</sg>,;
+<sg>render vicious ,<cref> 945 <i>divorce</i></cref></sg>,;
+<sg>embitter, acerbate, exacerbate, aggravate</sg>,;
+<sg>injure, impair, labefy, damage, harm, hurt, shend, scath, scathe, spoil, mar, despoil, dilapidate, waste</sg>,;
+<sg>overrun</sg>,;
+<sg>ravage</sg>,;
+<sg>pillage ,<cref> 791 <i>permission</i></cref></sg>,;
+<sg>wound, stab, pierce, maim, lame, surbate, cripple, hough, hamstring, hit between wind and water, scotch, mangle, mutilate, disfigure, blemish, deface, warp</sg>,;
+<sg>blight, rot</sg>,;
+<sg>corrode, erode</sg>,;
+<sg>wear away, wear out</sg>,;
+<sg>gnaw, gnaw at the root of</sg>,;
+<sg>sap, mine, undermine, shake, sap the foundations of, break up</sg>,;
+<sg>disorganize, dismantle, dismast</sg>,;
+<sg>destroy ,<cref> 162 <i>attribution</i></cref></sg>,;
+<sg>damnify ,<cref>649 <i>aggrieve</i></cref></sg>,;
+<sg>do one's worst</sg>,;
+<sg>knock down</sg>,;
+<sg>deal a blow to</sg>,;
+<sg>play havoc with, play sad havoc with, play the mischief with, play the deuce with, play the very devil with, play havoc among, play sad havoc among, play the mischief among, play the deuce among, play the very devil among</sg>,;
+<sg>decimate</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>have seen better days, deteriorate, degenerate, fall off</sg>,;
+<sg>wane ,<cref>36 <i>decrease</i></cref></sg>,;
+<sg>ebb</sg>,;
+<sg>retrograde ,<cref> 283 <i>vehicle</i></cref>, decline, droop</sg>,;
+<sg>go down ,<cref>306 <i>sink</i></cref></sg>,;
+<sg>go downhill, go from bad to worse, go farther and fare worse</sg>,;
+<sg>jump out of the frying pan into the fire</sg>,;
+<sg>run to seed, go to seed, run to waste swale, sweal</sg>,;
+<sg>lapse, be the worse for</sg>,;
+<sg>sphacelate: break, break down</sg>,;
+<sg>spring a leak, crack, start</sg>,;
+<sg>shrivel ,<cref>195 <i>contract</i></cref></sg>,;
+<sg>fade, go off, wither, molder, rot, rankle, decay, go bad</sg>,;
+<sg>go to decay, fall into decay</sg>,;
+<sg>fall into the sear and yellow leaf, rust, crumble, shake</sg>,;
+<sg>totter, totter to its fall</sg>,;
+<sg>perish ,<cref> 162 <i>attribution</i></cref></sg>,;
+<sg>die ,<cref> 360 <i>wind</i></cref></sg>,;
+<sg>deteriorate</sg>,;
+<sg>weaken ,<cref> 160 <i>cause</i></cref></sg>,;
+<sg>put back, set back</sg>,;
+<sg>taint, infect, contaminate, poison, empoison, envenom, canker, corrupt, exulcerate, pollute, vitiate, inquinate</sg>,;
+<sg>debase, embase</sg>,;
+<sg>denaturalize, denature, leaven</sg>,;
+<sg>deflower, debauch, defile, deprave, degrade</sg>,;
+<sg>ulcerate</sg>,;
+<sg>stain ,<cref>653 <i>dirt</i></cref></sg>,;
+<sg>discolor</sg>,;
+<sg>alloy, adulterate, sophisticate, tamper with, prejudice</sg>,;
+<sg>pervert, prostitute, demoralize, brutalize</sg>,;
+<sg>render vicious ,<cref> 945 <i>divorce</i></cref></sg>,;
+<sg>embitter, acerbate, exacerbate, aggravate</sg>,;
+<sg>injure, impair, labefy, damage, harm, hurt, shend, scath, scathe, spoil, mar, despoil, dilapidate, waste</sg>,;
+<sg>overrun</sg>,;
+<sg>ravage</sg>,;
+<sg>pillage ,<cref> 791 <i>permission</i></cref></sg>,;
+<sg>wound, stab, pierce, maim, lame, surbate, cripple, hough, hamstring, hit between wind and water, scotch, mangle, mutilate, disfigure, blemish, deface, warp</sg>,;
+<sg>blight, rot</sg>,;
+<sg>corrode, erode</sg>,;
+<sg>wear away, wear out</sg>,;
+<sg>gnaw, gnaw at the root of</sg>,;
+<sg>sap, mine, undermine, shake, sap the foundations of, break up</sg>,;
+<sg>disorganize, dismantle, dismast</sg>,;
+<sg>destroy ,<cref> 162 <i>attribution</i></cref></sg>,;
+<sg>damnify ,<cref>649 <i>aggrieve</i></cref></sg>,;
+<sg>do one's worst</sg>,;
+<sg>knock down</sg>,;
+<sg>deal a blow to</sg>,;
+<sg>play havoc with, play sad havoc with, play the mischief with, play the deuce with, play the very devil with, play havoc among, play sad havoc among, play the mischief among, play the deuce among, play the very devil among</sg>,;
+<sg>decimate</sg>,;
+<sg>Adj</sg>,;
+<sg>unimproved &c (improve) ,<cref> 658 <i>circuit</i></cref></sg>,;
+<sg>deteriorated</sg>,;
+<sg>altered, altered for the worse</sg>,;
+<sg>injured</sg>,;
+<sg>sprung</sg>,;
+<sg>withering, spoiling</sg>,;
+<sg>on the wane, on the decline</sg>,;
+<sg>tabid</sg>,;
+<sg>degenerate</sg>,;
+<sg>marescent</sg>,;
+<sg>worse</sg>,;
+<sg>the worse for, all the worse for</sg>,;
+<sg>out of repair, out of tune</sg>,;
+<sg>imperfect ,<cref> 651 <i>pursuit</i></cref></sg>,;
+<sg>the worse for wear</sg>,;
+<sg>battered</sg>,;
+<sg>weathered, weather-beaten</sg>,;
+<sg>stale, passe, shaken, dilapidated, frayed, faded, wilted, shabby, secondhand, threadbare</sg>,;
+<sg>worn, worn to a thread, worn to a shadow, worn to the stump, worn to rags</sg>,;
+<sg>reduced, reduced to a skeleton</sg>,;
+<sg>far gone</sg>,;
+<sg>tacky</sg>,;
+<sg>decayed</sg>,;
+<sg>moth-eaten, worm-eaten</sg>,;
+<sg>mildewed, rusty, moldy, spotted, seedy, time-worn, moss-grown</sg>,;
+<sg>discolored</sg>,;
+<sg>effete, wasted, crumbling, moldering, rotten, cankered, blighted, tainted</sg>,;
+<sg>depraved ,<cref>945 <i>vicious</i></cref></sg>,;
+<sg>decrepid, decrepit</sg>,;
+<sg>broke, busted, broken, out of commission, hors de combat, out of action, broken down</sg>,;
+<sg>done, done for, done up</sg>,;
+<sg>worn out, used up, finished</sg>,;
+<sg>beyond saving, fit for the dust hole, fit for the wastepaper basket, past work ,<cref>645 <i>useless</i></cref></sg>,;
+<sg>at a low ebb, in a bad way, on one's last legs</sg>,;
+<sg>undermined, deciduous</sg>,;
+<sg>nodding to its fall ,<cref>162 <i>destruction</i></cref></sg>,;
+<sg>tottering ,<cref>665 <i>dangerous</i></cref></sg>,;
+<sg>past cure ,<cref>859 <i>hopeless</i></cref></sg>,;
+<sg>fatigued ,<cref> 688 <i>deterioration</i></cref></sg>,;
+<sg>retrograde ,<cref>283 <i>retrogressive</i></cref></sg>,;
+<sg>deleterious ,<cref> 649 <i>intention</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>out of the frying pan into the fire</sg>,;
+<sg>agrescit medendo</sg>,;
+<sg>what a falling off was there!</sg>,;
+<br>
+</paragraph>

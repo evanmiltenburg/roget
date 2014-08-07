@@ -1,0 +1,32 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#14#</sectionNumber>
+<headword>#<b>#[001] #352# Ocean #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>sea, <i>ocean, </i>main, deep, brine, salt water, waves, billows, high seas, offing, great waters, watery waste, vasty deep</sg>,;
+<sg>wave, tide, ,<cref>348 <i>water in motion</i></cref></sg>,;
+<sg>hydrography, hydrographer</sg>,;
+<sg>Neptune, Poseidon, Thetis, Triton, Naiad, Nereid</sg>,;
+<sg>sea nymph, Siren</sg>,;
+<sg>trident, dolphin</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>oceanic</sg>,;
+<sg>marine, maritime</sg>,;
+<sg>pelagic, pelagian</sg>,;
+<sg>seagoing</sg>,;
+<sg>hydrographic</sg>,;
+<sg>bathybic, cotidal</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>at sea, on sea</sg>,;
+<sg>afloat</sg>,;
+<br>
+</paragraph>

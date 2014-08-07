@@ -1,0 +1,37 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#3#</sectionNumber>
+<headword>#<b>#[001] #50# Incoherence #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>incoherence, </i>nonadhesion</sg>,;
+<sg>immiscibility</sg>,;
+<sg>incoherence</sg>,;
+<sg>looseness</sg>,;
+<sg>laxity</sg>,;
+<sg>relaxation</sg>,;
+<sg>loosening</sg>,;
+<sg>freedom</sg>,;
+<sg>disjunction ,<cref> 44 <i>mixture</i></cref></sg>,;
+<sg>rope of sand</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>make loose</sg>,;
+<sg>loosen, slacken, relax</sg>,;
+<sg>unglue ,<cref> 46 <i>junction</i></cref></sg>,;
+<sg>detach ,<cref>44 <i>disjoin</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>nonadhesive, immiscible</sg>,;
+<sg>incoherent, detached, loose, baggy, slack, lax, relaxed, flapping, streaming</sg>,;
+<sg>disheveled</sg>,;
+<sg>segregated, like grains of sand unconsolidated &c 231, uncombined ,<cref> 48 <i>connection</i></cref></sg>,;
+<sg>noncohesive</sg>,;
+<br>
+</paragraph>

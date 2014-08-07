@@ -1,0 +1,26 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#15#</sectionNumber>
+<headword>#<b>#[001] #405# Insipidity #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>insipidity, </i>blandness</sg>,;
+<sg>tastelessness</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be tasteless</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>bland, void of taste ,<cref> 390 <i>physical pleasure</i></cref></sg>,;
+<sg>insipid</sg>,;
+<sg>tasteless, gustless, savorless</sg>,;
+<sg>ingustible, mawkish, milk and water, weak, stale, flat, vapid, fade, wishy-washy, mild</sg>,;
+<sg>untasted</sg>,;
+<br>
+</paragraph>

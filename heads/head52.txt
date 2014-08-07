@@ -1,0 +1,34 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#3#</sectionNumber>
+<headword>#<b>#[001] #52# Decomposition #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>decomposition, </i>analysis, dissection, resolution, catalysis, dissolution</sg>,;
+<sg>corruption ,<cref>653 <i>uncleanness</i></cref></sg>,;
+<sg>dispersion ,<cref> 73 <i>continuity</i></cref></sg>,;
+<sg>disjunction ,<cref> 44 <i>mixture</i></cref></sg>,;
+<sg>disintegration</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>decompose, decompound</sg>,;
+<sg>analyze, disembody, dissolve</sg>,;
+<sg>resolve into its elements, separate into its elements</sg>,;
+<sg>electrolyze</sg>,;
+<sg>dissect, decentralize, break up</sg>,;
+<sg>disperse ,<cref> 73 <i>continuity</i></cref></sg>,;
+<sg>unravel ,<cref>313 <i>unroll</i></cref></sg>,;
+<sg>crumble into dust</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>decomposed</sg>,;
+<sg>catalytic, analytical</sg>,;
+<sg>resolvent, separative, solvent</sg>,;
+<br>
+</paragraph>

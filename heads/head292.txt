@@ -1,0 +1,42 @@
+<classNumber>#2#</classNumber>
+<sectionNumber>#12#</sectionNumber>
+<headword>#<b>#[001] #292# Sequence #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>sequence</i></sg>,;
+<sg>coming after ,<cref>63 <i>order</i></cref></sg>,;
+<sg>(time) 117</sg>,;
+<sg>following pursuit ,<cref> 622 <i>compendium</i></cref></sg>,;
+<sg>follower, attendant, satellite, shadow, dangler, train</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>follow</sg>,;
+<sg>pursue ,<cref> 622 <i>compendium</i></cref></sg>,;
+<sg>go after, fly after</sg>,;
+<sg>attend, beset, dance attendance on, dog</sg>,;
+<sg>tread in the steps of, tread close upon</sg>,;
+<sg>be in the wake of, be in the trail of, be in the rear of, go in the wake of, go in the trail of, go in the rear of, follow in the wake of, follow in the trail of, follow in the rear of</sg>,;
+<sg>follow as a shadow, hang on the skirts of</sg>,;
+<sg>tread on the heels of, follow on the heels of</sg>,;
+<sg>camp on the trail</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>subsequent, next, succeeding</sg>,;
+<sg>following</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>behind</sg>,;
+<sg>in the rear ,<cref> 235 <i>clothing</i></cref>, in the train of, in the wake of</sg>,;
+<sg>after ,<cref>117 <i>order) 63, (time</i></cref></sg>,;
+<br>
+</paragraph>

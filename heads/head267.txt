@@ -1,0 +1,80 @@
+<classNumber>#2#</classNumber>
+<sectionNumber>#11#</sectionNumber>
+<headword>#<b>#[001] #267# Roughness #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>roughness</i></sg>,;
+<sg>tooth, grain, texture, ripple</sg>,;
+<sg>asperity, rugosity, salebrosity, corrugation, nodosity</sg>,;
+<sg>arborescence ,<cref> 242 <i>inclosure</i></cref></sg>,;
+<sg>pilosity</sg>,;
+<sg>brush, hair, beard, shag, mane, whisker, moustache, imperial, tress, lock, curl, ringlet</sg>,;
+<sg>fimbriae, pili, cilia, villi</sg>,;
+<sg>lovelock</sg>,;
+<sg>beaucatcher</sg>,;
+<sg>curl paper</sg>,;
+<sg>goatee</sg>,;
+<sg>papillote, scalp lock</sg>,;
+<sg>plumage, plumosity</sg>,;
+<sg>plume, panache, crest</sg>,;
+<sg>feather, tuft, fringe, toupee</sg>,;
+<sg>wool, velvet, plush, nap, pile, floss, fur, down</sg>,;
+<sg>byssus, moss, bur</sg>,;
+<sg>fluff</sg>,;
+<sg>knot (convolution) 248</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be rough</sg>,;
+<sg>go against the grain</sg>,;
+<sg>render-rough</sg>,;
+<sg>roughen, ruffle, crisp, crumple, corrugate, set on edge, stroke the wrong way, rumple</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>rough, uneven, scabrous, scaly, knotted</sg>,;
+<sg>rugged, rugose, rugous</sg>,;
+<sg>knurly</sg>,;
+<sg>asperous, crisp, salebrous, gnarled, unpolished, unsmooth, roughhewn</sg>,;
+<sg>craggy, cragged</sg>,;
+<sg>crankling, scraggy</sg>,;
+<sg>prickly ,<cref>253 <i>sharp</i></cref></sg>,;
+<sg>arborescent ,<cref> 242 <i>inclosure</i></cref></sg>,;
+<sg>leafy, well-wooded</sg>,;
+<sg>feathery</sg>,;
+<sg>plumose, plumigerous</sg>,;
+<sg>laciniate, laciniform, laciniose</sg>,;
+<sg>pappose</sg>,;
+<sg>pileous, pilose</sg>,;
+<sg>trichogenous, trichoid</sg>,;
+<sg>tufted, fimbriated, hairy, ciliated, filamentous, hirsute</sg>,;
+<sg>crinose, crinite</sg>,;
+<sg>bushy, hispid, villous, pappous, bearded, pilous, shaggy, shagged</sg>,;
+<sg>fringed, befringed</sg>,;
+<sg>setous, setose, setaceous</sg>,;
+<sg>like quills upon the fretful porcupine</sg>,;
+<sg>rough as a nutmeg grater, rough as a bear</sg>,;
+<sg>downy, velvety, flocculent, woolly</sg>,;
+<sg>lanate, lanated</sg>,;
+<sg>lanuginous, lanuginose</sg>,;
+<sg>tomentose</sg>,;
+<sg>fluffy</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>against the grain</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>cabello luengo y corto el seso</sg>,;
+<br>
+</paragraph>

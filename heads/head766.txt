@@ -1,0 +1,85 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#31#</sectionNumber>
+<headword>#<b>#[001] #766# Authority #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>authority</i></sg>,;
+<sg>influence, patronage, power, preponderance, credit, prestige, prerogative, jurisdiction</sg>,;
+<sg>right ,<cref>924 <i>title</i></cref></sg>,;
+<sg>direction ,<cref> 693 <i>safety</i></cref></sg>,;
+<sg>government ,<cref> 737 <i>opposition</i></cref></sg>,;
+<sg>1</sg>,;
+<sg>divine right, dynastic rights, authoritativeness</sg>,;
+<sg>absoluteness, absolutism</sg>,;
+<sg>despotism</sg>,;
+<sg>jus nocendi</sg>,;
+<sg>jus divinum</sg>,;
+<sg>mastery, mastership, masterdom</sg>,;
+<sg>dictation, control</sg>,;
+<sg>hold, grasp</sg>,;
+<sg>grip, gripe</sg>,;
+<sg>reach</sg>,;
+<sg>iron sway ,<cref>739 <i>severity</i></cref></sg>,;
+<sg>fangs, clutches, talons</sg>,;
+<sg>rod of empire ,<cref>747 <i>scepter</i></cref></sg>,;
+<sg>commission ,<cref> 755 <i>combatant</i></cref></sg>,;
+<sg>deputy ,<cref> 759 <i>noncompletion</i></cref></sg>,;
+<sg>permission ,<cref> 760 <i>success</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>authorize ,<cref>760 <i>permit</i></cref></sg>,;
+<sg>warrant ,<cref>924 <i>right</i></cref></sg>,;
+<sg>dictate ,<cref>741 <i>order</i></cref></sg>,;
+<sg>be at the head of</sg>,;
+<sg>hold office, be in office, fill an office</sg>,;
+<sg>hold master, occupy master, a post master, be master ,<cref> 745 <i>attack</i></cref></sg>,;
+<sg>have the upper hand, get the upper hand, have the whip, get the whip</sg>,;
+<sg>gain a hold upon, preponderate, dominate, rule the roost</sg>,;
+<sg>boss</sg>,;
+<sg>override, overrule, overawe</sg>,;
+<sg>lord it over, hold in hand, keep under, make a puppet of, lead by the nose, turn round one's little finger, bend to one's will, hold one's own, wear the breeches</sg>,;
+<sg>have the ball at one's feet, have it all one's own way, have the game in one's own hand, have on the hip, have under one's thumb</sg>,;
+<sg>be master of the situation</sg>,;
+<sg>take the lead, play first fiddle, set the fashion</sg>,;
+<sg>give the law to</sg>,;
+<sg>carry with a high hand</sg>,;
+<sg>lay down the law</sg>,;
+<sg>ride in the whirlwind and direct the storm</sg>,;
+<sg>rule with a rod of iron ,<cref>739 <i>severity</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>at the head, dominant, paramount, supreme, predominant, preponderant, in the ascendant, influential</sg>,;
+<sg>arbitrary</sg>,;
+<sg>compulsory ,<cref> 744 <i>defiance</i></cref></sg>,;
+<sg>stringent</sg>,;
+<sg>at one's command</sg>,;
+<sg>in one's power, in one's grasp</sg>,;
+<sg>under control</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>in the name of, by the authority of, de par le Roi, in virtue of</sg>,;
+<sg>under the auspices of, in the hands of</sg>,;
+<sg>at one's pleasure</sg>,;
+<sg>by a dash if the pen, by a stroke of the pen</sg>,;
+<sg>ex mero motu</sg>,;
+<sg>ex cathedra, from the chair</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>the gray mare the better horse</sg>,;
+<sg>every inch a king</sg>,;
+<sg>780,</sg>,;
+<br>
+</paragraph>

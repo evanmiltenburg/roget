@@ -1,0 +1,112 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#37#</sectionNumber>
+<headword>#<b>#[001] #934# Discourtesy #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>discourtesy</i></sg>,;
+<sg>ill breeding</sg>,;
+<sg>ill manners, bad manners, ungainly manners</sg>,;
+<sg>insuavity</sg>,;
+<sg>uncourteousness,</sg>,;
+<sg>rusticity, inurbanity</sg>,;
+<sg>illiberality, incivility displacency</sg>,;
+<sg>disrespect ,<cref> 929 <i>friend</i></cref></sg>,;
+<sg>procacity, impudence: barbarism, barbarity</sg>,;
+<sg>misbehavior, brutality, blackguardism, conduct unbecoming a gentleman, grossieret_e, brusquerie</sg>,;
+<sg>vulgarity, ,<cref> 851 <i>dearness</i></cref></sg>,;
+<sg>churlishness</sg>,;
+<sg>spinosity, perversity</sg>,;
+<sg>moroseness ,<cref>901 <i>sullenness</i></cref></sg>,;
+<sg>1</sg>,;
+<sg>sternness</sg>,;
+<sg>austerity</sg>,;
+<sg>moodishness, captiousness ,<cref> 901 <i>cowardice</i></cref></sg>,;
+<sg>cynicism</sg>,;
+<sg>tartness</sg>,;
+<sg>acrimony, acerbity, virulence, asperity</sg>,;
+<sg>scowl, black looks, frown</sg>,;
+<sg>short answer, rebuff</sg>,;
+<sg>hard words, contumely</sg>,;
+<sg>unparliamentary language, personality</sg>,;
+<sg>bear, bruin, brute, blackguard, beast</sg>,;
+<sg>unlicked cub</sg>,;
+<sg>frump, crosspatch</sg>,;
+<sg>saucebox ,<cref> 887 <i>blemish</i></cref></sg>,;
+<sg>crooked stick</sg>,;
+<sg>grizzly</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be rude</sg>,;
+<sg>insult ,<cref> 929 <i>friend</i></cref></sg>,;
+<sg>treat with discourtesy</sg>,;
+<sg>take a name in vain</sg>,;
+<sg>make bold with, make free with</sg>,;
+<sg>take a liberty</sg>,;
+<sg>stare out of countenance, ogle, point at, put to the blush</sg>,;
+<sg>cut</sg>,;
+<sg>turn one's back upon, turn on one's heel</sg>,;
+<sg>give the cold shoulder</sg>,;
+<sg>keep at a distance, keep at arm's length</sg>,;
+<sg>look cool upon, look coldly upon, look black upon</sg>,;
+<sg>show the door to, send away with a flea in the ear</sg>,;
+<sg>lose one's temper ,<cref>900 <i>resentment</i></cref></sg>,;
+<sg>sulk ,<cref> 901 <i>cowardice</i></cref></sg>,;
+<sg>1</sg>,;
+<sg>frown, scowl, glower, pout</sg>,;
+<sg>snap, snarl, growl</sg>,;
+<sg>render rude</sg>,;
+<sg>brutalize, brutify</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>discourteous, uncourteous</sg>,;
+<sg>uncourtly</sg>,;
+<sg>ill-bred, ill-mannered, ill-behaved, ill-conditioned</sg>,;
+<sg>unbred</sg>,;
+<sg>unmannerly, unmannered</sg>,;
+<sg>impolite, unpolite</sg>,;
+<sg>unpolished, uncivilized, ungenteel</sg>,;
+<sg>ungentleman-like, ungentlemanly</sg>,;
+<sg>unladylike</sg>,;
+<sg>blackguard</sg>,;
+<sg>vulgar ,<cref> 851 <i>dearness</i></cref></sg>,;
+<sg>dedecorous</sg>,;
+<sg>foul- mouthed foul-spoken</sg>,;
+<sg>abusive</sg>,;
+<sg>uncivil, ungracious, unceremonious</sg>,;
+<sg>cool</sg>,;
+<sg>pert, forward, obtrusive, impudent, rude, saucy, precocious</sg>,;
+<sg>repulsive</sg>,;
+<sg>uncomplaisant, unaccommodating, unneighborly, ungallant</sg>,;
+<sg>inaffable</sg>,;
+<sg>ungentle, ungainly</sg>,;
+<sg>rough, rugged, bluff, blunt, gruff</sg>,;
+<sg>churlish, boorish, bearish</sg>,;
+<sg>brutal, brusque</sg>,;
+<sg>stern, harsh, austere</sg>,;
+<sg>cavalier</sg>,;
+<sg>taint, sour, crabbed, sharp, short, trenchant, sarcastic, biting, doggish, caustic, virulent, bitter, acrimonious, venomous, contumelious</sg>,;
+<sg>snarling</sg>,;
+<sg>surly, surly as a bear</sg>,;
+<sg>perverse</sg>,;
+<sg>grim, sullen ,<cref> 901 <i>cowardice</i></cref></sg>,;
+<sg>1</sg>,;
+<sg>peevish ,<cref>901 <i>irascible</i></cref></sg>,;
+<sg>untactful, impolitic, undiplomatic</sg>,;
+<sg>artless ,<cref> 703 <i>nonpreparation</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>discourteously</sg>,;
+<sg>with discourtesy</sg>,;
+<sg>, with a bad grace</sg>,;
+<br>
+</paragraph>

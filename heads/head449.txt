@@ -1,0 +1,41 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#15#</sectionNumber>
+<headword>#<b>#[001] #449# Whiteness #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>whiteness</i></sg>,;
+<sg>argent</sg>,;
+<sg>albification, etiolation</sg>,;
+<sg>lactescence</sg>,;
+<sg>snow, paper, chalk, milk, lily, ivory, alabaster</sg>,;
+<sg>albata, eburin, German silver, white metal, barium sulphate, titanium oxide, blanc fixe, ceruse, pearl white</sg>,;
+<sg>white lead, carbonate of lead</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be white</sg>,;
+<sg>render white</sg>,;
+<sg>whiten, bleach, blanch, etiolate, whitewash, silver</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>white</sg>,;
+<sg>milk-white, snow-white</sg>,;
+<sg>snowy</sg>,;
+<sg>niveous, candid, chalky</sg>,;
+<sg>hoar, hoary</sg>,;
+<sg>silvery</sg>,;
+<sg>argent, argentine</sg>,;
+<sg>canescent, cretaceous, lactescent</sg>,;
+<sg>whitish, creamy, pearly, fair, blond</sg>,;
+<sg>blanched</sg>,;
+<sg>high in tone, light</sg>,;
+<sg>white as a sheet, white as driven snow, white as a lily, white as silver</sg>,;
+<sg>like ivory</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,63 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#25#</sectionNumber>
+<headword>#<b>#[001] #599# Diffuseness #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>diffuseness</i></sg>,;
+<sg>amplification</sg>,;
+<sg>dilating</sg>,;
+<sg>verbosity, verbiage, cloud of words, copia verborum</sg>,;
+<sg>flow of words ,<cref>584 <i>loquacity</i></cref></sg>,;
+<sg>looseness</sg>,;
+<sg>Polylogy, tautology, battology, perissology</sg>,;
+<sg>pleonasm, exuberance, redundancy</sg>,;
+<sg>thrice-told tale</sg>,;
+<sg>prolixity</sg>,;
+<sg>circumlocution, ambages</sg>,;
+<sg>periphrase, periphrasis</sg>,;
+<sg>roundabout phrases</sg>,;
+<sg>episode</sg>,;
+<sg>expletive</sg>,;
+<sg>pennya-lining</sg>,;
+<sg>richness ,<cref> 577 <i>record</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be diffuse</sg>,;
+<sg>run out on, descant, expatiate, enlarge, dilate, amplify, expand, inflate</sg>,;
+<sg>launch out, branch out</sg>,;
+<sg>rant</sg>,;
+<sg>maunder, prose</sg>,;
+<sg>harp upon ,<cref>104 <i>repeat</i></cref></sg>,;
+<sg>dwell on, insist upon</sg>,;
+<sg>digress, ramble, battre la campagne, beat about the bush, perorate, spin a long yarn, protract</sg>,;
+<sg>spin out, swell out, draw out</sg>,;
+<sg>battologize</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>diffuse, profuse</sg>,;
+<sg>wordy, verbose, largiloquent, copious, exuberant, pleonastic, lengthy</sg>,;
+<sg>longsome, long-winded, longspun, long drawn out</sg>,;
+<sg>spun out, protracted, prolix, prosing, maundering</sg>,;
+<sg>circumlocutory, periphrastic, ambagious, roundabout</sg>,;
+<sg>digressive</sg>,;
+<sg>discursive, excursive</sg>,;
+<sg>loose</sg>,;
+<sg>rambling episodic</sg>,;
+<sg>flatulent, frothy</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>diffusely</sg>,;
+<sg>at large, in extenso</sg>,;
+<sg>about it and about it</sg>,;
+<br>
+</paragraph>

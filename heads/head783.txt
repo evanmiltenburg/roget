@@ -1,0 +1,40 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#31#</sectionNumber>
+<headword>#<b>#[001] #783# Prison #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>prison, </i>prison house</sg>,;
+<sg>jail, gaol, cage, coop, den, cell</sg>,;
+<sg>stronghold, fortress, keep, donjon, dungeon, Bastille, oubliette, bridewell, house of correction, hulks, tollbooth, panopticon, penitentiary, guardroom, lockup, hold</sg>,;
+<sg>round house, watch house, station house, sponging house</sg>,;
+<sg>station</sg>,;
+<sg>house of detention, black hole, pen, fold, pound</sg>,;
+<sg>inclosure ,<cref> 232 <i>centrality</i></cref></sg>,;
+<sg>isolation (exclusion) 893</sg>,;
+<sg>penal settlement, penal colony</sg>,;
+<sg>bilboes, stocks, limbo, quod</sg>,;
+<sg>calaboose, chauki, choky, thana</sg>,;
+<sg>workhouse</sg>,;
+<sg>Newgate, Fleet, Marshalsea</sg>,;
+<sg>King's Bench, Queen's Bench</sg>,;
+<sg>bond</sg>,;
+<sg>bandage</sg>,;
+<sg>irons, pinion, gyve, fetter, shackle, trammel, manacle, handcuff, straight jacket, strait jacket, strait-jacket, strait-waistcoat, hopples</sg>,;
+<sg>vice, vise</sg>,;
+<sg>yoke, collar, halter, harness</sg>,;
+<sg>muzzle, gag, bit, brake, curb, snaffle, bridle</sg>,;
+<sg>rein, reins</sg>,;
+<sg>bearing rein</sg>,;
+<sg>martingale</sg>,;
+<sg>leading string</sg>,;
+<sg>tether, picket, band, guy, chain</sg>,;
+<sg>cord ,<cref>45 <i>fastening</i></cref></sg>,;
+<sg>cavesson, hackamore, headstall, jaquima, lines, ribbons</sg>,;
+<sg>bolt, deadbolt, bar, lock, police lock, combination lock, padlock, rail, wall, stone wall</sg>,;
+<sg>paling, palisade</sg>,;
+<sg>fence, picket fence, barbed wire fence, Cyclone fence, stockade fence, chain-link fence</sg>,;
+<sg>barrier, barricade</sg>,;
+<sg>drag ,<cref>706 <i>hindrance</i></cref></sg>,;
+<br>
+</paragraph>

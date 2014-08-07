@@ -1,0 +1,74 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#5#</sectionNumber>
+<headword>#<b>#[001] #102# Five  #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>five, , </i>five, cinque, quint, quincux</sg>,;
+<sg>six, half-a- dozen, half dozen</sg>,;
+<sg>seven</sg>,;
+<sg>eight</sg>,;
+<sg>nine, three times three</sg>,;
+<sg>dicker</sg>,;
+<sg>ten, decade</sg>,;
+<sg>eleven</sg>,;
+<sg>twelve, dozen</sg>,;
+<sg>thirteen</sg>,;
+<sg>long dozen, baker's dozen</sg>,;
+<sg>quintuplet</sg>,;
+<sg>twenty, score</sg>,;
+<sg>twenty-four, four and twenty, two dozen</sg>,;
+<sg>twenty-five, five and twenty, quarter of a hundred</sg>,;
+<sg>forty, two score</sg>,;
+<sg>fifty, half a hundred</sg>,;
+<sg>sixty, three score</sg>,;
+<sg>seventy, three score and ten</sg>,;
+<sg>eighty, four score</sg>,;
+<sg>ninety, fourscore and ten</sg>,;
+<sg>sestiad</sg>,;
+<sg>hundred, centenary, hecatomb, century</sg>,;
+<sg>hundredweight, cwt</sg>,;
+<sg>one hundred and forty-four, gross</sg>,;
+<sg>thousand, chiliad</sg>,;
+<sg>millennium, thousand years, grand</sg>,;
+<sg>myriad</sg>,;
+<sg>ten thousand, ban, man</sg>,;
+<sg>ten thousand years, banzai</sg>,;
+<sg>lac, one hundred thousand, plum</sg>,;
+<sg>million</sg>,;
+<sg>thousand million, milliard, billion, trillion </sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>centuriate</sg>,;
+<sg>quintuplicate</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>five, quinary, quintuple</sg>,;
+<sg>fifth</sg>,;
+<sg>senary, sextuple</sg>,;
+<sg>sixth</sg>,;
+<sg>seventh</sg>,;
+<sg>septuple</sg>,;
+<sg>octuple</sg>,;
+<sg>eighth</sg>,;
+<sg>ninefold, ninth</sg>,;
+<sg>tenfold, decimal, denary, decuple, tenth</sg>,;
+<sg>eleventh</sg>,;
+<sg>duodenary, duodenal</sg>,;
+<sg>twelfth</sg>,;
+<sg>in one's 'teens, thirteenth</sg>,;
+<sg>vicesimal, vigesimal</sg>,;
+<sg>twentieth</sg>,;
+<sg>twenty-fourth</sg>,;
+<sg>vicenary, vicennial</sg>,;
+<sg>centuple, centuplicate, centennial, centenary, centurial</sg>,;
+<sg>secular, hundredth</sg>,;
+<sg>thousandth, </sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,38 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#38#</sectionNumber>
+<headword>#<b>#[001] #999# Fasting #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>fasting</i></sg>,;
+<sg>xerophagy</sg>,;
+<sg>famishment, starvation</sg>,;
+<sg>fast, jour maigre</sg>,;
+<sg>fast day, banyan day</sg>,;
+<sg>Lent, quadragesima</sg>,;
+<sg>Ramadan, Ramazan</sg>,;
+<sg>spare diet, meager diet</sg>,;
+<sg>lenten diet, lenten entertainment</sg>,;
+<sg>soupe maigre, short commons, Barmecide feast</sg>,;
+<sg>short rations</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>fast, starve, clem, famish, perish with hunger</sg>,;
+<sg>dine with Duke Humphrey</sg>,;
+<sg>make two bites of a cherry</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>lenten, quadragesimal</sg>,;
+<sg>unfed</sg>,;
+<sg>starved</sg>,;
+<sg>half-starved</sg>,;
+<sg>fasting</sg>,;
+<sg>hungry ,<cref> 865 <i>pleasure</i></cref></sg>,;
+<br>
+</paragraph>

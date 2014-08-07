@@ -1,0 +1,28 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#25#</sectionNumber>
+<headword>#<b>#[001] #581# Misrepresentation #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>misrepresentation, </i>distortion, caricatura, exaggeration</sg>,;
+<sg>daubing</sg>,;
+<sg>bad likeness, daub, sign painting</sg>,;
+<sg>scratch, caricature</sg>,;
+<sg>anamorphosis</sg>,;
+<sg>burlesque, falsification, misstatement</sg>,;
+<sg>parody, lampoon, take-off, travesty</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>misrepresent, distort, overdraw, exaggerate, caricature, daub</sg>,;
+<sg>burlesque, parody, travesty</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>misrepresented</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,32 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#15#</sectionNumber>
+<headword>#<b>#[001] #408# Bitterness #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>bitterness, </i>acridness, acridity, acrimony</sg>,;
+<sg>caustic, alkali</sg>,;
+<sg>acerbity</sg>,;
+<sg>gall, wormwood</sg>,;
+<sg>bitters, astringent bitters</sg>,;
+<sg>Angostura, aromatic bitters</sg>,;
+<sg>sourness ,<cref> 397 <i>calefaction</i></cref></sg>,;
+<sg>pungency ,<cref> 392 <i>touch</i></cref></sg>,;
+<sg>alkaloids</sg>,;
+<sg>turmeric</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>bitter, bitterish, acrid, acerb, acerbic</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>bitter as gall</sg>,;
+<sg>bitter pill to take</sg>,;
+<sg>sugar coating on a bitter pill</sg>,;
+<br>
+</paragraph>

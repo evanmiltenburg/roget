@@ -1,0 +1,40 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#36#</sectionNumber>
+<headword>#<b>#[001] #907# Fastidiousness #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>fastidiousness</i></sg>,;
+<sg>nicety, hypercriticism, difficulty in being pleased, friandise, epicurism, omnia suspendens naso</sg>,;
+<sg>epicure, gourmet</sg>,;
+<sg>prudery</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be fastidious</sg>,;
+<sg>have a sweet tooth</sg>,;
+<sg>mince the matter</sg>,;
+<sg>turn up one's nose at ,<cref>930 <i>disdain</i></cref></sg>,;
+<sg>look a gift horse in the mouth, see spots on the sun</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>fastidious, nice, delicate, delicat, finical, finicky, demanding, meticulous, exacting, strict, anal, difficult, dainty, lickerish, squeamish, thin-skinned</sg>,;
+<sg>squeasy, queasy</sg>,;
+<sg>hard to please, difficult to please</sg>,;
+<sg>querulous, particular, straitlaced, scrupulous</sg>,;
+<sg>censorious ,<cref> 932 <i>exclusion</i></cref></sg>,;
+<sg>hypercritical</sg>,;
+<sg>overcritical</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>noli me tangere</sg>,;
+<br>
+</paragraph>

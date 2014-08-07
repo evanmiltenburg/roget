@@ -1,0 +1,34 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#8#</sectionNumber>
+<headword>#<b>#[001] #176# Unproductiveness #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>unproductiveness</i></sg>,;
+<sg>infertility, sterility, infecundity</sg>,;
+<sg>masturbation</sg>,;
+<sg>impotence ,<cref> 158 <i>eventuality</i></cref></sg>,;
+<sg>unprofitableness ,<cref>645 <i>inutility</i></cref></sg>,;
+<sg>waste, desert, Sahara, wild, wilderness, howling wilderness</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be unproductive</sg>,;
+<sg>hang fire, flash in the pan, come to nothing</sg>,;
+<sg>sterilize, addle</sg>,;
+<sg>disable, inactivate</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>unproductive, acarpous, inoperative, barren, addled, infertile, unfertile, unprolific, arid, sterile, unfruitful, infecund</sg>,;
+<sg>sine prole</sg>,;
+<sg>fallow</sg>,;
+<sg>teemless, issueless, fruitless</sg>,;
+<sg>unprofitable ,<cref>645 <i>useless</i></cref></sg>,;
+<sg>null and void, of no effect</sg>,;
+<br>
+</paragraph>

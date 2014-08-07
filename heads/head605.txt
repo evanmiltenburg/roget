@@ -1,0 +1,43 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#25#</sectionNumber>
+<headword>#<b>#[001] #605# Inelegance #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>inelegance</i></sg>,;
+<sg>stiffness</sg>,;
+<sg>unlettered Muse</sg>,;
+<sg>barbarism</sg>,;
+<sg>slang ,<cref> 563 <i>teaching</i></cref></sg>,;
+<sg>solecism ,<cref> 568 <i>school</i></cref></sg>,;
+<sg>mannerism ,<cref>855 <i>affectation</i></cref></sg>,;
+<sg>euphuism</sg>,;
+<sg>fustian ,<cref> 577 <i>record</i></cref></sg>,;
+<sg>cacophony</sg>,;
+<sg>words that break the teeth, words that dislocate the jaw</sg>,;
+<sg>marinism</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be inelegant</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>inelegant, graceless, ungraceful</sg>,;
+<sg>harsh, abrupt</sg>,;
+<sg>dry, stiff, cramped, formal, guinde</sg>,;
+<sg>forced, labored</sg>,;
+<sg>artificial, mannered, ponderous</sg>,;
+<sg>awkward, uncourtly, unpolished</sg>,;
+<sg>turgid ,<cref> 577 <i>record</i></cref></sg>,;
+<sg>affected, euphuistic</sg>,;
+<sg>barbarous, uncouth, grotesque, rude, crude, halting</sg>,;
+<sg>offensive to ears polite</sg>,;
+<sg>2</sg>,;
+<sg>Spoken Language</sg>,;
+<br>
+</paragraph>

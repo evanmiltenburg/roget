@@ -1,0 +1,39 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#4#</sectionNumber>
+<headword>#<b>#[001] #85# Multiformity #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>multiformity, </i>omniformity</sg>,;
+<sg>variety, diversity</sg>,;
+<sg>multifariousness</sg>,;
+<sg>varied assortment</sg>,;
+<sg>dissimilarity ,<cref> 18 <i>similarity</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>polymorphous, multiform, multifold, multifarious, multigenerous, multiplex</sg>,;
+<sg>heterogeneous, diversified, dissimilar, various, varied, variform</sg>,;
+<sg>manifold, many-sided</sg>,;
+<sg>variegated, motley, mosaic</sg>,;
+<sg>epicene, indiscriminate, desultory, irregular</sg>,;
+<sg>mixed, different, assorted, mingled, odd, diverse, divers</sg>,;
+<sg>all manner of</sg>,;
+<sg>of every description, of all sorts and kinds</sg>,;
+<sg>et hoc genus omne</sg>,;
+<sg>and what not? de omnibus rebus et quibusdam aliis</sg>,;
+<sg>jumbled, confused, mixed up, discordant</sg>,;
+<sg>inharmonious, unmatched, unrelated, nonuniform</sg>,;
+<sg>omniform, omnigenous, omnifarious</sg>,;
+<sg>protean (form) 240</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>harmoniously confused</sg>,;
+<sg>variety's the very spice of life</sg>,;
+<br>
+</paragraph>

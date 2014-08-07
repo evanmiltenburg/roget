@@ -1,0 +1,37 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#4#</sectionNumber>
+<headword>#<b>#[001] #63# Complexity #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>complexity</i></sg>,;
+<sg>complexness</sg>,;
+<sg>complexus</sg>,;
+<sg>complication, implication</sg>,;
+<sg>intricacy, intrication</sg>,;
+<sg>perplexity</sg>,;
+<sg>network, labyrinth</sg>,;
+<sg>wilderness, jungle</sg>,;
+<sg>involution, raveling, entanglement</sg>,;
+<sg>coil ,<cref>248 <i>convolution</i></cref></sg>,;
+<sg>sleave, tangled skein, knot, Gordian knot, wheels within wheels</sg>,;
+<sg>kink, gnarl, knarl</sg>,;
+<sg>webwork</sg>,;
+<sg>difficulty ,<cref> 704 <i>essay</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>complexify, complicate</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>gnarled, knarled</sg>,;
+<sg>complex, complexed</sg>,;
+<sg>intricate, complicated, perplexed, involved, raveled, entangled, knotted, tangled, inextricable</sg>,;
+<sg>irreducible</sg>,;
+<br>
+</paragraph>

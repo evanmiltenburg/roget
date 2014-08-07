@@ -1,0 +1,73 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#38#</sectionNumber>
+<headword>#<b>#[001] #964# Wrong #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>wrong</i></sg>,;
+<sg>what ought not to be, what should not be</sg>,;
+<sg>malum in se</sg>,;
+<sg>unreasonableness, grievance</sg>,;
+<sg>shame</sg>,;
+<sg>injustice</sg>,;
+<sg>tort</sg>,;
+<sg>unfairness</sg>,;
+<sg>iniquity, foul play</sg>,;
+<sg>partiality, leaning, bias</sg>,;
+<sg>favor, favoritism</sg>,;
+<sg>nepotism, party spirit, partisanship</sg>,;
+<sg>bigotry</sg>,;
+<sg>undueness ,<cref> 925 <i>servility</i></cref></sg>,;
+<sg>wrongdoing (vice) 945</sg>,;
+<sg>unlawfulness ,<cref> 964 <i>wrong</i></cref></sg>,;
+<sg>robbing Peter to pay Paul</sg>,;
+<sg>the wolf and the lamb</sg>,;
+<sg>vice ,<cref> 945 <i>divorce</i></cref></sg>,;
+<sg>a custom more honored in the breach than the observance</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be wrong</sg>,;
+<sg>cry to heaven for vengeance</sg>,;
+<sg>do wrong</sg>,;
+<sg>be inequitable</sg>,;
+<sg>favor, lean towards</sg>,;
+<sg>encroach upon, impose upon</sg>,;
+<sg>reap where one has not sown</sg>,;
+<sg>give an inch and take an ell, give an inch and take an mile</sg>,;
+<sg>rob Peter to pay Paul</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>wrong, wrongful</sg>,;
+<sg>bad, too bad</sg>,;
+<sg>unjust, unfair</sg>,;
+<sg>inequitable, unequitable</sg>,;
+<sg>unequal, partial, one-sided</sg>,;
+<sg>injurious, tortious</sg>,;
+<sg>objectionable</sg>,;
+<sg>unreasonable, unallowable, unwarrantable, unjustifiable</sg>,;
+<sg>improper, unfit</sg>,;
+<sg>unjustified ,<cref> 925 <i>servility</i></cref></sg>,;
+<sg>illegal ,<cref> 964 <i>wrong</i></cref></sg>,;
+<sg>iniquitous</sg>,;
+<sg>immoral ,<cref> 945 <i>divorce</i></cref></sg>,;
+<sg>in the wrong, in the wrong box</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>wrongly</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>it will not do</sg>,;
+<br>
+</paragraph>

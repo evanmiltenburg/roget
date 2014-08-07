@@ -1,0 +1,58 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#26#</sectionNumber>
+<headword>#<b>#[001] #648# Evil #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>evil, </i>ill, harm, hurt</sg>,;
+<sg>, mischief, nuisance</sg>,;
+<sg>machinations of the devil, Pandora's box, ills that flesh is heir to</sg>,;
+<sg>blow, buffet, stroke, scratch, bruise, wound, gash, mutilation</sg>,;
+<sg>mortal blow, wound</sg>,;
+<sg>immedicabile vulnus</sg>,;
+<sg>damage, loss ,<cref>659 <i>deterioration</i></cref></sg>,;
+<sg>disadvantage, prejudice, drawback</sg>,;
+<sg>disaster, accident, casualty</sg>,;
+<sg>mishap ,<cref>735 <i>misfortune</i></cref></sg>,;
+<sg>bad job, devil to pay</sg>,;
+<sg>calamity, bale, catastrophe, tragedy</sg>,;
+<sg>ruin ,<cref>162 <i>destruction</i></cref></sg>,;
+<sg>adversity ,<cref> 735 <i>hindrance</i></cref></sg>,;
+<sg>mental suffering ,<cref> 828 <i>purchase</i></cref></sg>,;
+<sg>demon ,<cref> 980 <i>accusation</i></cref></sg>,;
+<sg>(Evil spirit) bane, ,<cref> 663 <i>substitute</i></cref> (cause of evil)</sg>,;
+<sg>badness, ,<cref> 649 <i>intention</i></cref> (Production of Evil)</sg>,;
+<sg>painfulness, ,<cref> 830 <i>merchant</i></cref></sg>,;
+<sg>evil doer, ,<cref> 913 <i>disrepute</i></cref></sg>,;
+<sg>outrage, wrong, injury, foul play</sg>,;
+<sg>bad turn, ill turn</sg>,;
+<sg>disservice, spoliation ,<cref> 791 <i>permission</i></cref></sg>,;
+<sg>grievance, crying evil</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be in trouble ,<cref>735 <i>adversity</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>disastrous, bad ,<cref> 649 <i>intention</i></cref></sg>,;
+<sg>awry, out of joint</sg>,;
+<sg>disadvantageous</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>amis, wrong, ill, to one's cost</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>moving accidents by flood and field</sg>,;
+<br>
+</paragraph>

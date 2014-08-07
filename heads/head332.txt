@@ -1,0 +1,73 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#14#</sectionNumber>
+<headword>#<b>#[001] #332# Density #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>density, </i>solidity</sg>,;
+<sg>solidness</sg>,;
+<sg>impenetrability, impermeability</sg>,;
+<sg>incompressibility</sg>,;
+<sg>imporosity</sg>,;
+<sg>cohesion ,<cref> 46 <i>junction</i></cref></sg>,;
+<sg>constipation, consistence, spissitude</sg>,;
+<sg>specific gravity</sg>,;
+<sg>hydrometer, areometer</sg>,;
+<sg>condensation</sg>,;
+<sg>caseation</sg>,;
+<sg>solidation, solidification</sg>,;
+<sg>consolidation</sg>,;
+<sg>concretion, coagulation</sg>,;
+<sg>petrification ,<cref>323 <i>hardening</i></cref></sg>,;
+<sg>crystallization, precipitation</sg>,;
+<sg>deposit, precipitate</sg>,;
+<sg>inspissation</sg>,;
+<sg>gelation, thickening</sg>,;
+<sg>indivisibility, indiscerptibility, insolubility, indissolvableness</sg>,;
+<sg>solid body, mass, block, knot, lump</sg>,;
+<sg>concretion, concrete, conglomerate</sg>,;
+<sg>cake, clot, stone, curd, coagulum</sg>,;
+<sg>bone, gristle, cartilage</sg>,;
+<sg>casein, crassamentum</sg>,;
+<sg>legumin</sg>,;
+<sg>superdense matter, condensed states of matter</sg>,;
+<sg>dwarf star, neutron star</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be dense</sg>,;
+<sg>become solid, render solid</sg>,;
+<sg>solidify, solidate</sg>,;
+<sg>concrete, set, take a set, consolidate, congeal, coagulate</sg>,;
+<sg>curd, curdle</sg>,;
+<sg>lopper</sg>,;
+<sg>fix, clot, cake, candy, precipitate, deposit, cohere, crystallize</sg>,;
+<sg>petrify ,<cref>323 <i>harden</i></cref></sg>,;
+<sg>condense, thicken, gel, inspissate, incrassate</sg>,;
+<sg>compress, squeeze, ram down, constipate</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>dense, solid</sg>,;
+<sg>solidified</sg>,;
+<sg>caseous</sg>,;
+<sg>pukka</sg>,;
+<sg>coherent, cohesive ,<cref> 46 <i>junction</i></cref></sg>,;
+<sg>compact, close, serried, thickset</sg>,;
+<sg>substantial, massive, lumpish</sg>,;
+<sg>impenetrable, impermeable, nonporous, imporous</sg>,;
+<sg>incompressible</sg>,;
+<sg>constipated</sg>,;
+<sg>concrete ,<cref>323 <i>hard</i></cref></sg>,;
+<sg>knotted, knotty</sg>,;
+<sg>gnarled</sg>,;
+<sg>crystalline, crystallizable</sg>,;
+<sg>thick, grumous, stuffy</sg>,;
+<sg>undissolved, unmelted, unliquefied, unthawed</sg>,;
+<sg>indivisible, indiscerptible, infrangible, indissolvable, indissoluble, insoluble, infusible</sg>,;
+<br>
+</paragraph>

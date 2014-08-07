@@ -1,0 +1,29 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#14#</sectionNumber>
+<headword>#<b>#[001] #366# Unctuousness #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>unctuousness</i></sg>,;
+<sg>unctuosity, lubricity</sg>,;
+<sg>ointment ,<cref>356 <i>oil</i></cref></sg>,;
+<sg>anointment</sg>,;
+<sg>lubrication ,<cref> 332 <i>density</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>oil ,<cref>332 <i>lubricate</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>unctuous, oily, oleaginous, adipose, sebaceous</sg>,;
+<sg>unguinous</sg>,;
+<sg>fat, fatty, greasy</sg>,;
+<sg>waxy, butyraceous, soapy, saponaceous, pinguid, lardaceous</sg>,;
+<sg>slippery</sg>,;
+<br>
+</paragraph>

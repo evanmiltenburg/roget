@@ -1,0 +1,101 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#19#</sectionNumber>
+<headword>#<b>#[001] #499# Reasoning, #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>reasoning</i> ratiocination rationalism</sg>,;
+<sg>dialectics, induction, generalization</sg>,;
+<sg>discussion, comment</sg>,;
+<sg>ventilation</sg>,;
+<sg>inquiry ,<cref> 461 <i>blindness</i></cref></sg>,;
+<sg>argumentation, controversy, debate</sg>,;
+<sg>polemics, wrangling</sg>,;
+<sg>contention ,<cref> 720 <i>workshop</i></cref></sg>,;
+<sg>logomachy</sg>,;
+<sg>disputation, disceptation</sg>,;
+<sg>paper war</sg>,;
+<sg>art of reasoning, logic</sg>,;
+<sg>process of reasoning, train of reasoning, chain of reasoning</sg>,;
+<sg>deduction, induction, abduction</sg>,;
+<sg>synthesis, analysis</sg>,;
+<sg>argument</sg>,;
+<sg>case, plaidoyer, opening</sg>,;
+<sg>lemma, proposition, terms, premises, postulate, data, starting point, principle</sg>,;
+<sg>inference ,<cref>480 <i>judgment</i></cref></sg>,;
+<sg>prosyllogism, syllogism</sg>,;
+<sg>enthymeme, sorites, dilemma, perilepsis, a priori reasoning, reductio ad absurdum, horns of a dilemma, argumentum ad hominem, comprehensive argument</sg>,;
+<sg>empirema, epagoge</sg>,;
+<sg>reasoner, logician, dialectician</sg>,;
+<sg>disputant</sg>,;
+<sg>controversialist, controvertist</sg>,;
+<sg>wrangler, arguer, debater polemic, casuist, rationalist</sg>,;
+<sg>scientist</sg>,;
+<sg>eristic</sg>,;
+<sg>logical sequence</sg>,;
+<sg>good case</sg>,;
+<sg>correct just reasoning, sound reasoning, valid reasoning, cogent reasoning, logical reasoning, forcible reasoning, persuasive reasoning, persuasory reasoning, consectary reasoning, conclusive ,<cref> 478 <i>inattention</i></cref></sg>,;
+<sg>subtle reasoning</sg>,;
+<sg>force of argument, strong point, strong argument, persuasive argument</sg>,;
+<sg>arguments, reasons, pros and cons</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>reason, argue, discuss, debate, dispute, wrangle, argufy, bandy words, bandy arguments</sg>,;
+<sg>chop logic</sg>,;
+<sg>hold an argument, carry on an argument</sg>,;
+<sg>controvert ,<cref>536 <i>deny</i></cref></sg>,;
+<sg>canvass</sg>,;
+<sg>comment upon, moralize upon</sg>,;
+<sg>spiritualize</sg>,;
+<sg>consider ,<cref>461 <i>examine</i></cref></sg>,;
+<sg>open a discussion, open a case</sg>,;
+<sg>try conclusions</sg>,;
+<sg>join issue, be at issue</sg>,;
+<sg>moot</sg>,;
+<sg>come to the point</sg>,;
+<sg>stir a question, agitate a question, ventilate a question, torture a question</sg>,;
+<sg>take up a side, take up a case</sg>,;
+<sg>contend, take one's stand upon, insist, lay stress on</sg>,;
+<sg>infer ,<cref> 480 <i>neglect</i></cref></sg>,;
+<sg>follow from ,<cref>478 <i>demonstration</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>reasoning</sg>,;
+<sg>rationalistic</sg>,;
+<sg>argumentative, controversial, dialectic, polemical</sg>,;
+<sg>discursory, discursive</sg>,;
+<sg>disputatious</sg>,;
+<sg>Aristotelian, eristic, eristical</sg>,;
+<sg>debatable, controvertible</sg>,;
+<sg>logical</sg>,;
+<sg>relevant ,<cref> 23 <i>copy</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>for, because, hence, whence, seeing that, since, sith, then thence so</sg>,;
+<sg>for that reason, for this reason, for which reason</sg>,;
+<sg>for as, inasmuch as</sg>,;
+<sg>whereas, ex concesso, considering, in consideration of</sg>,;
+<sg>therefore, wherefore</sg>,;
+<sg>consequently, ergo, thus, accordingly</sg>,;
+<sg>a fortiori</sg>,;
+<sg>in conclusion, in fine</sg>,;
+<sg>finally, after all, au bout du compt, on the whole, taking one thing with another</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>ab actu ad posse valet consecutio</sg>,;
+<sg>per troppo dibatter la verita si perde</sg>,;
+<sg>troppo disputare la verita fa errare</sg>,;
+<br>
+</paragraph>

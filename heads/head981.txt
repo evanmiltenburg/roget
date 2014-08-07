@@ -1,0 +1,119 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#38#</sectionNumber>
+<headword>#<b>#[001] #981# Probity #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>probity, </i>integrity, rectitude</sg>,;
+<sg>uprightness</sg>,;
+<sg>honesty, faith</sg>,;
+<sg>honor</sg>,;
+<sg>bonne foi, good faith, bona fides</sg>,;
+<sg>purity, clean hands</sg>,;
+<sg>fairness</sg>,;
+<sg>fair play, justice, equity, impartiality, principle, even-handedness</sg>,;
+<sg>grace</sg>,;
+<sg>constancy</sg>,;
+<sg>faithfulness</sg>,;
+<sg>fidelity, loyalty</sg>,;
+<sg>incorruption, incorruptibility</sg>,;
+<sg>trustworthiness</sg>,;
+<sg>truth, candor, singleness of heart</sg>,;
+<sg>veracity ,<cref> 543 <i>intelligibility</i></cref></sg>,;
+<sg>tender conscience ,<cref>926 <i>sense of duty</i></cref></sg>,;
+<sg>punctilio, delicacy, nicety</sg>,;
+<sg>scrupulosity, scrupulousness</sg>,;
+<sg>scruple</sg>,;
+<sg>point, point of honor</sg>,;
+<sg>punctuality</sg>,;
+<sg>dignity , (repute) 873</sg>,;
+<sg>respectability, respectableness</sg>,;
+<sg>gentilhomme, gentleman</sg>,;
+<sg>man of honor, man of his word</sg>,;
+<sg>fidus Achates, preux chevalier, galantuomo</sg>,;
+<sg>truepenny, trump, brick</sg>,;
+<sg>true Briton</sg>,;
+<sg>white man</sg>,;
+<sg>court of honor, a fair field and no favor</sg>,;
+<sg>argumentum ad verecundiam</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be honorable</sg>,;
+<sg>deal honorably, deal squarely, deal impartially, deal fairly</sg>,;
+<sg>speak the truth ,<cref>543 <i>veracity</i></cref></sg>,;
+<sg>draw a straight furrow</sg>,;
+<sg>tell the truth and shame the Devil, vitam impendere vero</sg>,;
+<sg>show a proper spirit, make a point of</sg>,;
+<sg>do one's duty ,<cref>944 <i>virtue</i></cref></sg>,;
+<sg>redeem one's pledge ,<cref> 926 <i>blusterer</i></cref></sg>,;
+<sg>keep one's promise, be as good as one's promise, be as good as one's word</sg>,;
+<sg>keep faith with, not fail</sg>,;
+<sg>give and take, audire alteram partem, give the Devil his due, put the saddle on the right horse</sg>,;
+<sg>redound to one's honor</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>upright</sg>,;
+<sg>honest, honest as daylight</sg>,;
+<sg>veracious ,<cref> 543 <i>intelligibility</i></cref></sg>,;
+<sg>virtuous ,<cref> 944 <i>celibacy</i></cref></sg>,;
+<sg>honorable</sg>,;
+<sg>fair, right, just, equitable, impartial, evenhanded, square</sg>,;
+<sg>fair and aboveboard, open and aboveboard</sg>,;
+<sg>white</sg>,;
+<sg>constant, constant as the northern star</sg>,;
+<sg>faithful, loyal, staunch</sg>,;
+<sg>true, true blue, true to one's colors, true to the core, true as the needle to the pole</sg>,;
+<sg>marble-constant</sg>,;
+<sg>true- hearted, trusty, trustworthy</sg>,;
+<sg>as good as one's word, to be depended on, incorruptible</sg>,;
+<sg>straightforward ,<cref>703 <i>ingenuous</i></cref></sg>,;
+<sg>frank, candid, open-hearted</sg>,;
+<sg>conscientious, tender-conscienced, right-minded</sg>,;
+<sg>high-principled, high-minded</sg>,;
+<sg>scrupulous, religious, strict</sg>,;
+<sg>nice, punctilious, correct, punctual</sg>,;
+<sg>respectable, reputable</sg>,;
+<sg>gentlemanlike</sg>,;
+<sg>inviolable, inviolate</sg>,;
+<sg>unviolated, unbroken, unbetrayed</sg>,;
+<sg>unbought, unbribed</sg>,;
+<sg>innocent ,<cref> 946 <i>benevolence</i></cref></sg>,;
+<sg>pure, stainless</sg>,;
+<sg>unstained, untarnished, unsullied, untainted, unperjured</sg>,;
+<sg>uncorrupt, uncorrupted</sg>,;
+<sg>undefiled, undepraved, undebauched</sg>,;
+<sg>integer vitae scelerisque purus</sg>,;
+<sg>justus et tenax propositi</sg>,;
+<sg>chivalrous, jealous of honor, sans peur et sans reproche</sg>,;
+<sg>high-spirited</sg>,;
+<sg>supramundane, unworldly, other-worldly, overscrupulous</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>honorable</sg>,;
+<sg>bona fide</sg>,;
+<sg>on the square, in good faith, honor bright, foro conscientiae, with clean hands</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>a face untaught to feign</sg>,;
+<sg>bene qui latuit bene vixit</sg>,;
+<sg>mens sibi conscia recti</sg>,;
+<sg>probitas laudatur et alget</sg>,;
+<sg>fidelis ad urnam</sg>,;
+<sg>his heart as far from fraud as heaven from earth</sg>,;
+<sg>loyaute m'oblige</sg>,;
+<sg>loyaute n'a honte</sg>,;
+<sg>what stronger breastplate than a heart untainted?</sg>,;
+<br>
+</paragraph>

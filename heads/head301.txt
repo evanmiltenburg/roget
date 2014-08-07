@@ -1,0 +1,36 @@
+<classNumber>#2#</classNumber>
+<sectionNumber>#12#</sectionNumber>
+<headword>#<b>#[001] #301# Convergence #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>convergence, </i>confluence, concourse, conflux, congress, concurrence, concentration</sg>,;
+<sg>convergency</sg>,;
+<sg>appulse, meeting</sg>,;
+<sg>corradiation</sg>,;
+<sg>assemblage ,<cref> 72 <i>middle</i></cref></sg>,;
+<sg>resort ,<cref>74 <i>focus</i></cref></sg>,;
+<sg>asymptote</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>converge, concur, come together, unite, meet, fall in with</sg>,;
+<sg>close with, close in upon</sg>,;
+<sg>center round, center in</sg>,;
+<sg>enter in</sg>,;
+<sg>pour in</sg>,;
+<sg>gather together, unite, concentrate, bring into a focus</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>converging</sg>,;
+<sg>convergent, confluent, concurrent</sg>,;
+<sg>centripetal</sg>,;
+<sg>asymptotical, asymptotic</sg>,;
+<sg>confluxible</sg>,;
+<br>
+</paragraph>

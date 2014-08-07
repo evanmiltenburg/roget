@@ -1,0 +1,55 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#4#</sectionNumber>
+<headword>#<b>#[001] #65# Derangement #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>derangement</i></sg>,;
+<sg>disorder ,<cref> 59 <i>component</i></cref></sg>,;
+<sg>evection, discomposure, disturbance</sg>,;
+<sg>disorganization, deorganization</sg>,;
+<sg>dislocation</sg>,;
+<sg>perturbation, interruption</sg>,;
+<sg>shuffling</sg>,;
+<sg>inversion ,<cref> 218 <i>shallowness</i></cref></sg>,;
+<sg>corrugation ,<cref>258 <i>fold</i></cref></sg>,;
+<sg>involvement</sg>,;
+<sg>interchange ,<cref> 148 <i>permanence</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>derange</sg>,;
+<sg>disarrange, misarrange</sg>,;
+<sg>displace, misplace</sg>,;
+<sg>mislay, discompose, disorder</sg>,;
+<sg>deorganize, discombobulate, disorganize</sg>,;
+<sg>embroil, unsettle, disturb, confuse, trouble, perturb, jumble, tumble</sg>,;
+<sg>shuffle, randomize</sg>,;
+<sg>huddle, muddle, toss, hustle, fumble, riot</sg>,;
+<sg>bring into disorder, put into disorder, throw into disorder ,<cref> 59 <i>component</i></cref></sg>,;
+<sg>muss</sg>,;
+<sg>break the ranks, disconcert, convulse</sg>,;
+<sg>break in upon</sg>,;
+<sg>unhinge, dislocate, put out of joint, throw out of gear</sg>,;
+<sg>turn topsy-turvy ,<cref>218 <i>invert</i></cref></sg>,;
+<sg>bedevil</sg>,;
+<sg>complicate, involve, perplex, confound</sg>,;
+<sg>imbrangle, embrangle, tangle, entangle, ravel, tousle, towzle, dishevel, ruffle</sg>,;
+<sg>rumple ,<cref>258 <i>fold</i></cref></sg>,;
+<sg>litter, scatter</sg>,;
+<sg>mix ,<cref> 41 <i>adjunct</i></cref></sg>,;
+<sg>rearrange ,<cref> 148 <i>permanence</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>deranged</sg>,;
+<sg>syncretic, syncretistic</sg>,;
+<sg>mussy, messy</sg>,;
+<sg>flaky</sg>,;
+<sg>random, unordered</sg>,;
+<br>
+</paragraph>

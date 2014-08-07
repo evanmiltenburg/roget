@@ -1,0 +1,82 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#24#</sectionNumber>
+<headword>#<b>#[001] #565# Learning #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>learning</i></sg>,;
+<sg>acquisition of knowledge &c 490, acquisition of skill ,<cref> 698 <i>alarm</i></cref></sg>,;
+<sg>acquirement, attainment</sg>,;
+<sg>edification, scholarship, erudition</sg>,;
+<sg>acquired knowledge, lore, wide information</sg>,;
+<sg>self-instruction</sg>,;
+<sg>study, reading, perusal</sg>,;
+<sg>inquiry ,<cref> 451 <i>gray</i></cref></sg>,;
+<sg>apprenticeship, prenticeship</sg>,;
+<sg>pupilage, pupilarity</sg>,;
+<sg>tutelage, novitiate, matriculation</sg>,;
+<sg>docility ,<cref>602 <i>willingness</i></cref></sg>,;
+<sg>aptitude ,<cref> 698 <i>alarm</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>learn</sg>,;
+<sg>acquire knowledge, gain knowledge, receive knowledge, take in knowledge, drink in knowledge, imbibe knowledge, pick up knowledge, gather knowledge, get knowledge, obtain knowledge, collect knowledge, glean knowledge, glean information, glean learning</sg>,;
+<sg>acquaint oneself with, master</sg>,;
+<sg>make oneself master of, make oneself acquainted with</sg>,;
+<sg>grind, cram</sg>,;
+<sg>get up, coach up</sg>,;
+<sg>learn by heart, learn by rote</sg>,;
+<sg>read, spell, peruse</sg>,;
+<sg>con over, pore over, thumb over</sg>,;
+<sg>wade through</sg>,;
+<sg>dip into</sg>,;
+<sg>run the eye over, run the eye through</sg>,;
+<sg>turn over the leaves</sg>,;
+<sg>study</sg>,;
+<sg>be studious</sg>,;
+<sg>burn the midnight oil, consume the midnight oil, mind one's book</sg>,;
+<sg>cram</sg>,;
+<sg>go to school, go to college, go to the university</sg>,;
+<sg>matriculate</sg>,;
+<sg>serve an apprenticeship, serve one's apprenticeship, serve one's time</sg>,;
+<sg>learn one's trade</sg>,;
+<sg>be informed ,<cref> 527 <i>insanity</i></cref></sg>,;
+<sg>be taught ,<cref> 537 <i>oracle</i></cref></sg>,;
+<sg>drop out, leave school, quit school</sg>,;
+<sg>graduate</sg>,;
+<sg>transfer</sg>,;
+<sg>take a leave</sg>,;
+<sg>dismiss, expel, kick out of school</sg>,;
+<sg>flunk out</sg>,;
+<sg>be dismissed </sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>studious</sg>,;
+<sg>scholastic, scholarly</sg>,;
+<sg>teachable</sg>,;
+<sg>docile ,<cref>602 <i>willing</i></cref></sg>,;
+<sg>apt &c 698, industrious ,<cref> 682 <i>uncleanness</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>at one's books</sg>,;
+<sg>in statu pupillari ,<cref>541 <i>learner</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>a lumber-house of books in every head</sg>,;
+<sg>ancora imparo!</sg>,;
+<sg>hold high converse with the mighty dead</sg>,;
+<sg>lash'd into Latin by the tingling rod</sg>,;
+<br>
+</paragraph>

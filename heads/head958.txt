@@ -1,0 +1,37 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#37#</sectionNumber>
+<headword>#<b>#[001] #958# Ingratitude #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>ingratitude, </i>thanklessness, oblivion of benefits, unthankfulness</sg>,;
+<sg>benefits forgot</sg>,;
+<sg>thankless task, thankless office</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be ungrateful</sg>,;
+<sg>forget benefits</sg>,;
+<sg>look a gift horse in the mouth</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>ungrateful, unmindful, unthankful</sg>,;
+<sg>thankless, ingrate, wanting in gratitude, insensible of benefits</sg>,;
+<sg>forgotten</sg>,;
+<sg>unacknowledged, unthanked, unrequited, unrewarded</sg>,;
+<sg>ill- requited</sg>,;
+<sg>Int</sg>,;
+<sg>thank you for nothing!, thanks for nothing!, et tu Brute!</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>ingratitude! thou marble-hearted fiend</sg>,;
+<br>
+</paragraph>

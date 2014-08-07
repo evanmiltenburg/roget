@@ -1,0 +1,37 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#3#</sectionNumber>
+<headword>#<b>#[001] #41# Adjunct #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>adjunct</i></sg>,;
+<sg>addition, additament</sg>,;
+<sg>additum, affix, appelidage, annexe, annex</sg>,;
+<sg>augment, augmentation</sg>,;
+<sg>increment, reinforcement, supernumerary, accessory, item</sg>,;
+<sg>garnish, sauce</sg>,;
+<sg>accompaniment ,<cref> 88 <i>number</i></cref></sg>,;
+<sg>adjective, addendum</sg>,;
+<sg>complement, supplement</sg>,;
+<sg>continuation</sg>,;
+<sg>rider, offshoot, episode, side issue, corollary</sg>,;
+<sg>piece</sg>,;
+<sg>flap, lappet, skirt, embroidery, trappings, cortege</sg>,;
+<sg>tail, suffix ,<cref>65 <i>sequel</i></cref></sg>,;
+<sg>wing</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>additional ,<cref> 37 <i>increase</i></cref></sg>,;
+<sg>alate, alated</sg>,;
+<sg>winged</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>in addition ,<cref> 37 <i>increase</i></cref></sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,22 @@
+<classNumber>#2#</classNumber>
+<sectionNumber>#10#</sectionNumber>
+<headword>#<b>#[001] #241# Edge #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>edge, </i>verge, brink, brow, brim, margin, border, confine, skirt, rim, flange, side, mouth</sg>,;
+<sg>jaws, chops, chaps, fauces</sg>,;
+<sg>lip, muzzle</sg>,;
+<sg>threshold, door, porch</sg>,;
+<sg>portal ,<cref>260 <i>opening</i></cref></sg>,;
+<sg>coast, shore</sg>,;
+<sg>frame, fringe, flounce, frill, list, trimming, edging, skirting, hem, selvedge, welt, furbelow, valance, gimp</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>border, marginal, skirting</sg>,;
+<sg>labial, labiated, marginated</sg>,;
+<br>
+</paragraph>

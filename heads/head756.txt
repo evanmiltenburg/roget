@@ -1,0 +1,96 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#29#</sectionNumber>
+<headword>#<b>#[001] #756# Arms #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>arm, arms</sg>,;
+<sg>weapon, deadly weapon</sg>,;
+<sg>armament, armaments, armature</sg>,;
+<sg>panoply, stand of arms</sg>,;
+<sg>armor ,<cref>717 <i>defense</i></cref></sg>,;
+<sg>armory ,<cref>636 <i>store</i></cref></sg>,;
+<sg>apparatus belli</sg>,;
+<sg>ammunition</sg>,;
+<sg>powder, powder and shot</sg>,;
+<sg>cartridge</sg>,;
+<sg>ball cartridge, cartouche, fireball</sg>,;
+<sg>villainous saltpeter</sg>,;
+<sg>dumdum bullet</sg>,;
+<sg>explosive</sg>,;
+<sg>gunpowder, guncotton</sg>,;
+<sg>mercury fulminate</sg>,;
+<sg>picrates</sg>,;
+<sg>pentaerythritol tetranitrate, PETN</sg>,;
+<sg>high explosive</sg>,;
+<sg>trinitrotoluene, TNT</sg>,;
+<sg>dynamite, melinite, cordite, lyddite, plastic explosive, plastique</sg>,;
+<sg>pyroxyline</sg>,;
+<sg>sword, saber, broadsword, cutlass, falchion, scimitar, cimeter, brand, whinyard, bilbo, glaive, glave, rapier, skean, Toledo, Ferrara, tuck, claymore, adaga, baselard, Lochaber ax, skean dhu, creese, kris, dagger, dirk, banger, poniard, stiletto, stylet, dudgeon, bayonet</sg>,;
+<sg>sword-bayonet, sword-stick</sg>,;
+<sg>side arms, foil, blade, steel</sg>,;
+<sg>ax, bill</sg>,;
+<sg>pole-ax, battle-ax</sg>,;
+<sg>gisarme, halberd, partisan, tomahawk, bowie knife</sg>,;
+<sg>ataghan, attaghan, yataghan</sg>,;
+<sg>yatacban</sg>,;
+<sg>assagai, assegai</sg>,;
+<sg>good sword, trusty sword, naked sword</sg>,;
+<sg>cold steel</sg>,;
+<sg>club, mace, truncheon, staff, bludgeon, cudgel, life preserver, shillelah, sprig</sg>,;
+<sg>hand staff, quarter staff</sg>,;
+<sg>bat, cane, stick, knuckle duster</sg>,;
+<sg>billy, blackjack, sandbag, waddy</sg>,;
+<sg>gun, piece</sg>,;
+<sg>firearms</sg>,;
+<sg>artillery, ordnance</sg>,;
+<sg>siege train, battering train</sg>,;
+<sg>park, battery</sg>,;
+<sg>cannon, gun of position, heavy gun, field piece, mortar, howitzer, carronade, culverin, basilisk</sg>,;
+<sg>falconet, jingal, swivel, pederero, bouche a feu</sg>,;
+<sg>petard, torpedo</sg>,;
+<sg>mitrailleur, mitrailleuse</sg>,;
+<sg>infernal machine</sg>,;
+<sg>smooth bore, rifled cannon, Armstrong gun, Lancaster gun, Paixhan gun, Whitworth gun, Parrott gun, Krupp gun, Gatling gun, Maxim gun, machine gun</sg>,;
+<sg>pompom</sg>,;
+<sg>ten pounder</sg>,;
+<sg>small arms</sg>,;
+<sg>musket, musketry, firelock, fowling piece, rifle, fusil, caliver, carbine, blunderbuss, musketoon, Brown Bess, matchlock, harquebuss, arquebus, haguebut</sg>,;
+<sg>pistol, postolet</sg>,;
+<sg>petronel</sg>,;
+<sg>small bore</sg>,;
+<sg>breach-loader, muzzle-loader</sg>,;
+<sg>revolver, repeater</sg>,;
+<sg>Minis rifle, Enfield rifle, Flobert rifle, Westley Richards rifle, Snider rifle, Martini-Henry rifle, Lee-Metford rifle, Lee-Enfield rifle, Mauser rifle, magazine rifle</sg>,;
+<sg>needle gun, chassepot</sg>,;
+<sg>wind gun, air gun</sg>,;
+<sg>automatic gun, automatic pistol</sg>,;
+<sg>escopet, escopette, gunflint, gun- lock</sg>,;
+<sg>hackbut, shooter, shooting iron, six-shooter, shotgun</sg>,;
+<sg>Uzzi, assault rifle, Kalashnikov</sg>,;
+<sg>bow, crossbow, balister, catapult, sling</sg>,;
+<sg>battering ram ,<cref>276 <i>impulse</i></cref></sg>,;
+<sg>gunnery</sg>,;
+<sg>ballistics ,<cref>284 <i>propulsion</i></cref></sg>,;
+<sg>missile, bolt, projectile, shot, ball</sg>,;
+<sg>grape</sg>,;
+<sg>grape shot, canister shot, bar shot, cannon shot, langrel shot, langrage shot, round shot, chain shot</sg>,;
+<sg>balista, ballista, slung shot, trebucbet, trebucket</sg>,;
+<sg>bullet, slug, stone, brickbat, grenade, shell, bomb, carcass, rocket</sg>,;
+<sg>congreve, congreve rocket</sg>,;
+<sg>shrapnel, mitraille</sg>,;
+<sg>levin bolt, levin brand</sg>,;
+<sg>thunderbolt</sg>,;
+<sg>pike, lance, spear, spontoon, javelin, dart, jereed, jerid, arrow, reed, shaft, bolt, boomerang, harpoon, gaff</sg>,;
+<sg>eelspear, oxgoad, weet-weet, wommerah</sg>,;
+<sg>cattle prod</sg>,;
+<sg>chemical mace</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>en flute</sg>,;
+<sg>nervos belli pecuniam infinitam</sg>,;
+<br>
+</paragraph>

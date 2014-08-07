@@ -1,0 +1,45 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#37#</sectionNumber>
+<headword>#<b>#[001] #928# Enmity #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>enmity, </i>hostility</sg>,;
+<sg>unfriendliness</sg>,;
+<sg>discord ,<cref> 713 <i>haste</i></cref></sg>,;
+<sg>bitterness, rancor</sg>,;
+<sg>alienation, estrangement</sg>,;
+<sg>dislike ,<cref> 867 <i>pleasurableness</i></cref></sg>,;
+<sg>hate ,<cref> 898 <i>hopelessness</i></cref></sg>,;
+<sg>heartburning</sg>,;
+<sg>animosity ,<cref> 900 <i>courage</i></cref></sg>,;
+<sg>malevolence ,<cref> 907 <i>fastidiousness</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be inimical</sg>,;
+<sg>keep at arm's length, hold at arm's length</sg>,;
+<sg>be at loggerheads</sg>,;
+<sg>bear malice ,<cref> 907 <i>fastidiousness</i></cref></sg>,;
+<sg>fall out</sg>,;
+<sg>take umbrage ,<cref> 900 <i>courage</i></cref></sg>,;
+<sg>harden the heart, alienate, estrange</sg>,;
+<sg>(indifference)</sg>,;
+<sg>866</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>inimical, unfriendly, hostile</sg>,;
+<sg>at enmity, at variance, at daggers drawn, at open war with</sg>,;
+<sg>up in arms against</sg>,;
+<sg>in bad odor with</sg>,;
+<sg>on bad terms, not on speaking terms</sg>,;
+<sg>cool</sg>,;
+<sg>cold, cold hearted</sg>,;
+<sg>estranged, alienated, disaffected, irreconcilable</sg>,;
+<br>
+</paragraph>

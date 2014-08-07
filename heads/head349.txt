@@ -1,0 +1,50 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#14#</sectionNumber>
+<headword>#<b>#[001] #349# Air #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>air</i> ,<cref>334 <i>gas</i></cref></sg>,;
+<sg>common air, atmospheric air</sg>,;
+<sg>atmosphere</sg>,;
+<sg>aerosphere</sg>,;
+<sg>open air</sg>,;
+<sg>sky, welkin</sg>,;
+<sg>blue sky</sg>,;
+<sg>cloud ,<cref> 353 <i>land</i></cref></sg>,;
+<sg>weather, climate, rise and fall of the barometer, isobar</sg>,;
+<sg>aerology, aerometry, aeroscopy, aeroscopy, aerography</sg>,;
+<sg>meteorology, climatology</sg>,;
+<sg>pneumatics</sg>,;
+<sg>eudioscope, baroscope, aeroscope, eudiometer, barometer, aerometer</sg>,;
+<sg>aneroid, baroscope</sg>,;
+<sg>weather gauge, weather glass, weather cock</sg>,;
+<sg>exposure to the air, exposure to the weather</sg>,;
+<sg>ventilation</sg>,;
+<sg>aerostation, aeronautics, aeronaut</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>air, ventilate, fan ,<cref>349 <i>wind</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>containing air, flatulent, effervescent</sg>,;
+<sg>windy ,<cref> 349 <i>air</i></cref></sg>,;
+<sg>atmospheric, airy</sg>,;
+<sg>aerial, aeriform</sg>,;
+<sg>meteorological</sg>,;
+<sg>weatherwise</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>in the open air, a la belle etoile, al fresco</sg>,;
+<sg>sub jove dio</sg>,;
+<br>
+</paragraph>

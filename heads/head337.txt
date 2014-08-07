@@ -1,0 +1,17 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#14#</sectionNumber>
+<headword>#<b>#[001] #337# Inelasticity #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>inelasticity, </i>want of elasticity, absence of elasticity ,<cref> 325 <i>oscillation</i></cref></sg>,;
+<sg>inelasticity ,<cref>324 <i>softness</i></cref>,</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>unyielding, inelastic, inflexible ,<cref>324 <i>soft</i></cref></sg>,;
+<sg>irresilient</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,78 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#27#</sectionNumber>
+<headword>#<b>#[001] #681# Cleanness #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>cleanness, </i>cleanliness</sg>,;
+<sg>purity</sg>,;
+<sg>cleaning</sg>,;
+<sg>purification, defecation</sg>,;
+<sg>purgation, lustration</sg>,;
+<sg>detersion, abstersion</sg>,;
+<sg>epuration, mundation</sg>,;
+<sg>ablution, lavation, colature</sg>,;
+<sg>disinfection</sg>,;
+<sg>drainage, sewerage</sg>,;
+<sg>lavatory, laundry, washhouse</sg>,;
+<sg>washerwoman, laundress, dhobi, laundryman, washerman</sg>,;
+<sg>scavenger, dustman, sweep</sg>,;
+<sg>white wings brush</sg>,;
+<sg>broom, besom, mop, rake, shovel, sieve, riddle, screen, filter</sg>,;
+<sg>blotter</sg>,;
+<sg>napkin, cloth, maukin, malkin, handkerchief, towel, sudary</sg>,;
+<sg>doyley, doily, duster, sponge, mop, swab</sg>,;
+<sg>cover, drugget</sg>,;
+<sg>wash, lotion, detergent, cathartic, purgative</sg>,;
+<sg>purifier</sg>,;
+<sg>disinfectant</sg>,;
+<sg>aperient</sg>,;
+<sg>benzene, benzine benzol, benolin</sg>,;
+<sg>bleaching powder, chloride of lime, dentifrice, deobstruent, laxative</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be clean, render clean</sg>,;
+<sg>clean, cleanse</sg>,;
+<sg>mundify, rinse, wring, flush, full, wipe, mop, sponge, scour, swab, scrub, brush up</sg>,;
+<sg>wash, lave, launder, buck</sg>,;
+<sg>absterge, deterge</sg>,;
+<sg>decrassify</sg>,;
+<sg>clear, purify</sg>,;
+<sg>depurate, despumate, defecate</sg>,;
+<sg>purge, expurgate, elutriate, lixiviate, edulcorate, clarify, refine, rack</sg>,;
+<sg>filter, filtrate</sg>,;
+<sg>drain, strain</sg>,;
+<sg>disinfect, fumigate, ventilate, deodorize</sg>,;
+<sg>whitewash</sg>,;
+<sg>castrate, emasculate</sg>,;
+<sg>sift, winnow, pick, weed, comb, rake, brush, sweep</sg>,;
+<sg>rout out, clear out, sweep out </sg>,;
+<sg>make a clean sweep of</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>clean, cleanly</sg>,;
+<sg>pure</sg>,;
+<sg>immaculate</sg>,;
+<sg>spotless, stainless, taintless</sg>,;
+<sg>trig</sg>,;
+<sg>without a stain, unstained, unspotted, unsoiled, unsullied, untainted, uninfected</sg>,;
+<sg>sweet, sweet as a nut</sg>,;
+<sg>neat, spruce, tidy, trim, gimp, clean as a new penny, like a cat in pattens</sg>,;
+<sg>cleaned</sg>,;
+<sg>kempt</sg>,;
+<sg>abstergent, cathartic, cleansing, purifying</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>neatly</sg>,;
+<sg>clean as a whistle</sg>,;
+<br>
+</paragraph>

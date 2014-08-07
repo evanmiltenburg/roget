@@ -1,0 +1,61 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#4#</sectionNumber>
+<headword>#<b>#[001] #73# Continuity #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>continuity</i></sg>,;
+<sg>consecution, consecutiveness</sg>,;
+<sg>succession, round, suite, progression, series, train chain</sg>,;
+<sg>catenation, concatenation</sg>,;
+<sg>scale</sg>,;
+<sg>gradation, course</sg>,;
+<sg>ceaselessness, constant flow, unbroken extent</sg>,;
+<sg>procession, column</sg>,;
+<sg>retinue, cortege, cavalcade, rank and file, line of battle, array</sg>,;
+<sg>pedigree, genealogy, lineage, race</sg>,;
+<sg>ancestry, descent, family, house</sg>,;
+<sg>line, line of ancestors</sg>,;
+<sg>strain</sg>,;
+<sg>rank, file, line, row, range, tier, string, thread, team</sg>,;
+<sg>suit</sg>,;
+<sg>colonnade</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>follow in a series, form a series</sg>,;
+<sg>fall in</sg>,;
+<sg>arrange in a series, collate</sg>,;
+<sg>string together, file, thread, graduate, organize, sort, tabulate</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>continuous, continued</sg>,;
+<sg>consecutive</sg>,;
+<sg>progressive, gradual</sg>,;
+<sg>serial, successive</sg>,;
+<sg>immediate, unbroken, entire</sg>,;
+<sg>linear</sg>,;
+<sg>in a line, in a row</sg>,;
+<sg>uninterrupted, unintermitting</sg>,;
+<sg>unremitting, unrelenting (perseverence) 604</sg>,;
+<sg>1</sg>,;
+<sg>perennial, evergreen</sg>,;
+<sg>constant</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>continuously</sg>,;
+<sg>seriatim</sg>,;
+<sg>in a line</sg>,;
+<sg>in succession, in turn</sg>,;
+<sg>running, gradually, step by step, gradatim, at a stretch</sg>,;
+<sg>in file, in column, in single file, in Indian file</sg>,;
+<br>
+</paragraph>

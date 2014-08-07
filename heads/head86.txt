@@ -1,0 +1,106 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#4#</sectionNumber>
+<headword>#<b>#[001] #86# Conformity #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>conformity, </i>conformance</sg>,;
+<sg>observance</sg>,;
+<sg>habituation</sg>,;
+<sg>naturalization</sg>,;
+<sg>conventionality ,<cref>613 <i>custom</i></cref></sg>,;
+<sg>agreement ,<cref> 23 <i>copy</i></cref></sg>,;
+<sg>example, instance, specimen, sample, quotation</sg>,;
+<sg>exemplification, illustration, case in point</sg>,;
+<sg>object lesson</sg>,;
+<sg>elucidation</sg>,;
+<sg>standard, model, pattern ,<cref>22 <i>prototype</i></cref></sg>,;
+<sg>rule, nature, principle</sg>,;
+<sg>law</sg>,;
+<sg>order of things</sg>,;
+<sg>normal state, natural state, ordinary state, model state, normal condition, natural condition, ordinary condition, model condition</sg>,;
+<sg>standing dish, standing order</sg>,;
+<sg>Procrustean law</sg>,;
+<sg>law of the Medes and Persians</sg>,;
+<sg>hard and fast rule</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>conform to, conform to rule</sg>,;
+<sg>accommodate oneself to, adapt oneself to</sg>,;
+<sg>rub off corners</sg>,;
+<sg>be regular</sg>,;
+<sg>move in a groove</sg>,;
+<sg>follow observe the rules, go by the rules, bend to the rules, obey the rules, obey the precedents</sg>,;
+<sg>comply with, tally with, chime in with, fall in with</sg>,;
+<sg>be guided by, be regulated by</sg>,;
+<sg>fall into a custom, fall into a usage</sg>,;
+<sg>follow the fashion, follow the crowd, follow the multitude</sg>,;
+<sg>pass muster, do as others do, hurler avec les loups</sg>,;
+<sg>stand on ceremony</sg>,;
+<sg>when in Rome do as the Romans do</sg>,;
+<sg>go with the stream, go with the flow, swim with the stream, swim with the current, swim with the tide, blow with the wind</sg>,;
+<sg>stick to the beaten track ,<cref>613 <i>habit</i></cref></sg>,;
+<sg>keep one in countenance</sg>,;
+<sg>exemplify, illustrate, cite, quote, quote precedent, quote authority, appeal to authority, put a case</sg>,;
+<sg>produce an instance</sg>,;
+<sg>elucidate, explain</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>conformable to rule</sg>,;
+<sg>regular ,<cref> 136 <i>veteran</i></cref></sg>,;
+<sg>according to regulation, according to rule, according to Hoyle, according to Cocker, according to Gunter</sg>,;
+<sg>en regle, selon les regles, well regulated, orderly</sg>,;
+<sg>symmetric ,<cref> 242 <i>inclosure</i></cref></sg>,;
+<sg>conventional ,<cref>613 <i>customary</i></cref></sg>,;
+<sg>of daily occurrence, of everyday occurrence</sg>,;
+<sg>in the natural order of things</sg>,;
+<sg>ordinary, common, habitual, usual, everyday, workaday</sg>,;
+<sg>in the order of the day</sg>,;
+<sg>naturalized</sg>,;
+<sg>typical, normal, nominal, formal</sg>,;
+<sg>canonical, orthodox, sound, strict, rigid, positive, uncompromising, Procrustean</sg>,;
+<sg>secundum artem, shipshape, technical</sg>,;
+<sg>exempIe</sg>,;
+<sg>illustrative, in point</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>conformably</sg>,;
+<sg>by rule</sg>,;
+<sg>agreeably to</sg>,;
+<sg>in conformity with, in accordance with, in keeping with</sg>,;
+<sg>according to</sg>,;
+<sg>consistently with</sg>,;
+<sg>as usual, ad instar, instar omnium</sg>,;
+<sg>more solito, more-majorum</sg>,;
+<sg>for the sake of conformity</sg>,;
+<sg>as a matter of course, of course</sg>,;
+<sg>pro forma, for form's sake, by the card</sg>,;
+<sg>invariably, ,<cref>16 <i>uniformly</i></cref></sg>,;
+<sg>for example, exempli gratia, e</sg>,;
+<sg>g</sg>,;
+<sg>inter alia, among other things</sg>,;
+<sg>for instance</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>cela va sans dire</sg>,;
+<sg>ex pede Herculem</sg>,;
+<sg>noscitur a sociis</sg>,;
+<sg>ne e quovis ligno Mercurius fiat</sg>,;
+<sg>they are happy men whose natures sort with their vocations</sg>,;
+<sg>The nail that sticks up hammered down</sg>,;
+<sg>Tall poppy syndrome</sg>,;
+<sg>Stick your neck out and it may get cut off</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,132 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#29#</sectionNumber>
+<headword>#<b>#[001] #751# Warfare #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>warfare</i></sg>,;
+<sg>fighting</sg>,;
+<sg>hostilities</sg>,;
+<sg>war, arms, the sword</sg>,;
+<sg>Mars, Bellona, grim visaged war, horrida bella</sg>,;
+<sg>bloodshed</sg>,;
+<sg>appeal to arms, appeal to the sword</sg>,;
+<sg>ordeal of battle</sg>,;
+<sg>wager of battle</sg>,;
+<sg>ultima ratio regum, arbitrament of the sword</sg>,;
+<sg>battle array, campaign, crusade, expedition, operations</sg>,;
+<sg>mobilization</sg>,;
+<sg>state of siege</sg>,;
+<sg>battlefield, theater of operations ,<cref>728 <i>arena</i></cref></sg>,;
+<sg>warpath</sg>,;
+<sg>art of war, tactics, strategy, castrametation</sg>,;
+<sg>generalship</sg>,;
+<sg>soldiership</sg>,;
+<sg>logistics</sg>,;
+<sg>military evolutions, ballistics, gunnery</sg>,;
+<sg>chivalry</sg>,;
+<sg>gunpowder, shot</sg>,;
+<sg>battle, tug of war ,<cref>720 <i>contention</i></cref></sg>,;
+<sg>service, campaigning, active service, tented field</sg>,;
+<sg>kriegspiel, Kriegsspiel</sg>,;
+<sg>fire cross, trumpet, clarion, bugle, pibroch, slogan</sg>,;
+<sg>war-cry, war-whoop</sg>,;
+<sg>battle cry, beat of drum, rappel, tom-tom</sg>,;
+<sg>calumet of war</sg>,;
+<sg>word of command</sg>,;
+<sg>password, watchword</sg>,;
+<sg>passage d-armes</sg>,;
+<sg>war to the death, war to the knife</sg>,;
+<sg>guerre a mort, guerre a outrance</sg>,;
+<sg>open war, internecine war, civil war</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>arm</sg>,;
+<sg>raise troops, mobilize troops</sg>,;
+<sg>raise up in arms</sg>,;
+<sg>take up the cudgels ,<cref> 720 <i>workshop</i></cref></sg>,;
+<sg>take up arms, fly to arms, appeal to arms, fly to the sword</sg>,;
+<sg>draw the sword, unsheathe the sword</sg>,;
+<sg>dig up the hatchet, dig up the tomahawk</sg>,;
+<sg>go to war, wage war, let slip the dogs of war</sg>,;
+<sg>cry havoc</sg>,;
+<sg>kindle the torch of war, light the torch of war</sg>,;
+<sg>raise one's banner, raise the fire cross</sg>,;
+<sg>hoist the black flag</sg>,;
+<sg>throw away, fling away the scabbard</sg>,;
+<sg>enroll, enlist</sg>,;
+<sg>take the field</sg>,;
+<sg>take the law into one's own hands</sg>,;
+<sg>do battle, give battle, join battle, engage in battle, go to battle</sg>,;
+<sg>flesh one's sword</sg>,;
+<sg>set to, fall to, engage, measure swords with, draw the trigger, cross swords</sg>,;
+<sg>come to blows, come to close quarters</sg>,;
+<sg>fight</sg>,;
+<sg>combat</sg>,;
+<sg>contend ,<cref> 720 <i>workshop</i></cref></sg>,;
+<sg>battle with, break a lance with</sg>,;
+<sg>raise the jolly roger, run up the jolly roger</sg>,;
+<sg>serve</sg>,;
+<sg>see service, be on service, be on active service</sg>,;
+<sg>campaign</sg>,;
+<sg>wield the sword, shoulder a musket, smell powder, be under fire</sg>,;
+<sg>spill blood, imbrue the hands in blood</sg>,;
+<sg>on the warpath</sg>,;
+<sg>carry on war, carry on hostilities</sg>,;
+<sg>keep the field</sg>,;
+<sg>fight the good fight</sg>,;
+<sg>fight it out, fight like devils, fight one's way, fight hand to hand</sg>,;
+<sg>sell one's life dearly</sg>,;
+<sg>pay the ferryman's fee</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>contending, contentious ,<cref> 720 <i>workshop</i></cref></sg>,;
+<sg>armed, armed to the teeth, armed cap-a-pie</sg>,;
+<sg>sword in hand</sg>,;
+<sg>in arms, under arms, up in arms</sg>,;
+<sg>at war with</sg>,;
+<sg>bristling with arms</sg>,;
+<sg>in battle array, in open arms, in the field</sg>,;
+<sg>embattled</sg>,;
+<sg>battled</sg>,;
+<sg>unpacific, unpeaceful</sg>,;
+<sg>belligerent, combative, armigerous, bellicose, martial, warlike</sg>,;
+<sg>military, militant</sg>,;
+<sg>soldier-like, soldierly</sg>,;
+<sg>chivalrous</sg>,;
+<sg>strategical, internecine</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>flagrante bello, in the thick of the fray, in the cannon's mouth</sg>,;
+<sg>at the sword's point, at the point of the bayonet</sg>,;
+<sg>Int</sg>,;
+<sg>vae victis!, to arms!, to your tents O Israel!,</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>the battle rages</sg>,;
+<sg>a la guerre comme a la guerre</sg>,;
+<sg>bis peccare in bello non licet</sg>,;
+<sg>jus gladii</sg>,;
+<sg>my voice is still for war</sg>,;
+<sg>'tis well that war is so terrible, otherwise we might grow fond of it</sg>,;
+<sg>my sentence is for open war</sg>,;
+<sg>pride, pomp, and circumstance of glorious war</sg>,;
+<sg>the cannons have their bowels full of wrath</sg>,;
+<sg>the cannons aspit forth their iron indignation</sg>,;
+<sg>the fire-eyed maid of smoky war</sg>,;
+<sg>silent leges inter arma</sg>,;
+<sg>si vis pacem para bellum</sg>,;
+<br>
+</paragraph>

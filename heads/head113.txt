@@ -1,0 +1,20 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#6#</sectionNumber>
+<headword>#<b>#[001] #113# Period #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>period, </i>age, era</sg>,;
+<sg>second, minute, hour, day, week, month, quarter, year, decade, decenniumm lustrum, quinquennium, lifetime, generation</sg>,;
+<sg>epoch, ghurry, lunation, moon</sg>,;
+<sg>century, millennium</sg>,;
+<sg>annus magnus</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>horary</sg>,;
+<sg>hourly, annual ,<cref>138 <i>periodical</i></cref></sg>,;
+<br>
+</paragraph>

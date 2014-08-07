@@ -1,0 +1,92 @@
+<classNumber>#2#</classNumber>
+<sectionNumber>#12#</sectionNumber>
+<headword>#<b>#[001] #286# Slowness #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>slowness</i></sg>,;
+<sg>languor ,<cref>683 <i>inactivity</i></cref></sg>,;
+<sg>drawl</sg>,;
+<sg>creeping</sg>,;
+<sg>, lentor</sg>,;
+<sg>retardation</sg>,;
+<sg>slackening</sg>,;
+<sg>delay ,<cref>133 <i>lateness</i></cref></sg>,;
+<sg>claudication</sg>,;
+<sg>jog trot, dog trot</sg>,;
+<sg>mincing steps</sg>,;
+<sg>slow march, slow time</sg>,;
+<sg>slow goer, slow coach, slow back</sg>,;
+<sg>lingerer, loiterer, sluggard, tortoise, snail</sg>,;
+<sg>poke</sg>,;
+<sg>dawdle ,<cref>683 <i>inactive</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>move slowly</sg>,;
+<sg>creep, crawl, lag, slug, drawl, linger, loiter, saunter</sg>,;
+<sg>plod, trudge, stump along, lumber</sg>,;
+<sg>trail, drag</sg>,;
+<sg>dawdle ,<cref>683 <i>be inactive</i></cref></sg>,;
+<sg>grovel, worm one's way, steal along</sg>,;
+<sg>job on, rub on, bundle on</sg>,;
+<sg>toddle, waddle, wabble, slug, traipse, slouch, shuffle, halt, hobble, limp, caludicate, shamble</sg>,;
+<sg>flag, falter, trotter, stagger</sg>,;
+<sg>mince, step short</sg>,;
+<sg>march in slow time, march in funeral procession</sg>,;
+<sg>take one's time</sg>,;
+<sg>hang fire ,<cref>133 <i>be late</i></cref></sg>,;
+<sg>retard, relax</sg>,;
+<sg>slacken, check, moderate, rein in, curb</sg>,;
+<sg>reef</sg>,;
+<sg>strike sail, shorten sail, take in sail</sg>,;
+<sg>put on the drag, apply the brake</sg>,;
+<sg>clip the wings</sg>,;
+<sg>reduce the speed</sg>,;
+<sg>slacken speed, slacken one's pace</sg>,;
+<sg>lose ground</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>slow, slack</sg>,;
+<sg>tardy</sg>,;
+<sg>dilatory ,<cref>683 <i>inactive</i></cref></sg>,;
+<sg>gentle, easy</sg>,;
+<sg>leisurely</sg>,;
+<sg>deliberate, gradual</sg>,;
+<sg>insensible, imperceptible</sg>,;
+<sg>glacial, languid, sluggish, slow paced, tardigrade, snail-like</sg>,;
+<sg>creeping</sg>,;
+<sg>reptatorial</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>slowly</sg>,;
+<sg>leisurely</sg>,;
+<sg>piano, adagio</sg>,;
+<sg>largo, larghetto</sg>,;
+<sg>at half speed, under easy sail</sg>,;
+<sg>at a foots pace, at a snail's pace, at a funeral pace</sg>,;
+<sg>in slow time, with mincing steps, with clipped wings</sg>,;
+<sg>haud passibus aequis</sg>,;
+<sg>gradually</sg>,;
+<sg>gradatim</sg>,;
+<sg>by degrees, by slow degrees, by inches, by little and little</sg>,;
+<sg>step by step, one step at a time</sg>,;
+<sg>inch by inch, bit by bit, little by little, seriatim</sg>,;
+<sg>consecutively</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>dum Roma deliberat Saguntum perit</sg>,;
+<sg>at a glacial pace</sg>,;
+<br>
+</paragraph>

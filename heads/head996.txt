@@ -1,0 +1,71 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#38#</sectionNumber>
+<headword>#<b>#[001] #996# Intemperance #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>intemperance</i></sg>,;
+<sg>sensuality, animalism, carnality</sg>,;
+<sg>tragalism</sg>,;
+<sg>pleasure</sg>,;
+<sg>effeminacy, silkiness</sg>,;
+<sg>luxury, luxuriousness</sg>,;
+<sg>lap of pleasure, lap of luxury</sg>,;
+<sg>free living</sg>,;
+<sg>indulgence</sg>,;
+<sg>high living, wild living, inabstinence, self- indulgence</sg>,;
+<sg>voluptuousness</sg>,;
+<sg>epicurism, epicureanism</sg>,;
+<sg>sybaritism</sg>,;
+<sg>drug habit</sg>,;
+<sg>dissipation</sg>,;
+<sg>licentiousness</sg>,;
+<sg>debauchery</sg>,;
+<sg>crapulence</sg>,;
+<sg>revels, revelry</sg>,;
+<sg>debauch, carousal, jollification, drinking bout, wassail, saturnalia, orgies</sg>,;
+<sg>excess, too much</sg>,;
+<sg>Circean cup</sg>,;
+<sg>bhang, hashish, marijuana, pot, hemp, grass</sg>,;
+<sg>opium, cocaine, morphine, heroin</sg>,;
+<sg>LSD, lysergic acid diethylamide</sg>,;
+<sg>phencyclidine, angel dust, PCP</sg>,;
+<sg>barbiturates</sg>,;
+<sg>amphetamines, speed</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be intemperate</sg>,;
+<sg>indulge, exceed</sg>,;
+<sg>live well, live high, live high on the fat of the land, live it up, live high on the hog</sg>,;
+<sg>give a loose to indulgence</sg>,;
+<sg>wallow in voluptuousness</sg>,;
+<sg>plunge into dissipation</sg>,;
+<sg>revel</sg>,;
+<sg>rake, live hard, run riot, sow one's wild oats</sg>,;
+<sg>slake one's appetite, slake one's thirst</sg>,;
+<sg>swill</sg>,;
+<sg>pamper</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>intemperate, inabstinent</sg>,;
+<sg>sensual, self-indulgent</sg>,;
+<sg>voluptuous, luxurious, licentious, wild, dissolute, rakish, fast, debauched</sg>,;
+<sg>brutish, crapulous, swinish, piggish</sg>,;
+<sg>Paphian, Epicurean, Sybaritical</sg>,;
+<sg>bred in the lap of luxury, nursed in the lap of luxury</sg>,;
+<sg>indulged, pampered</sg>,;
+<sg>full-fed, high-fed</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>being full of supper and distempering draughts</sg>,;
+<br>
+</paragraph>

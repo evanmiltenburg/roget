@@ -1,0 +1,37 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#28#</sectionNumber>
+<headword>#<b>#[001] #720# Workshop #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>workshop, </i>workhouse, workplace, shop, place of business</sg>,;
+<sg>manufactory, mill, plant, works, factory</sg>,;
+<sg>cabinet, studio</sg>,;
+<sg>office, branch office bureau, atelier</sg>,;
+<sg>hive, hive of industry</sg>,;
+<sg>nursery</sg>,;
+<sg>hothouse, hotbed</sg>,;
+<sg>kitchen</sg>,;
+<sg>mint, forge, loom</sg>,;
+<sg>dock, dockyard</sg>,;
+<sg>alveary</sg>,;
+<sg>armory</sg>,;
+<sg>laboratory, lab, research institute</sg>,;
+<sg>refinery</sg>,;
+<sg>cannery</sg>,;
+<sg>power plant</sg>,;
+<sg>beauty parlor</sg>,;
+<sg>beehive, bindery, forcing pit, nailery, usine, slip, yard, wharf</sg>,;
+<sg>foundry, foundery</sg>,;
+<sg>furnace</sg>,;
+<sg>vineyard</sg>,;
+<sg>crucible, alembic, caldron, matrix</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>at work, at the office, at the shop</sg>,;
+<sg>working</sg>,;
+<br>
+</paragraph>

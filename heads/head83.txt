@@ -1,0 +1,71 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#4#</sectionNumber>
+<headword>#<b>#[001] #83# Speciality #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>speciality, </i>specialite</sg>,;
+<sg>individuality, individuity</sg>,;
+<sg>particularity, peculiarity</sg>,;
+<sg>idiocrasy ,<cref>176 <i>tendency</i></cref></sg>,;
+<sg>personality, characteristic, mannerism, idiosyncrasy</sg>,;
+<sg>specificness</sg>,;
+<sg>singularity ,<cref>83 <i>unconformity</i></cref></sg>,;
+<sg>reading, version, lection</sg>,;
+<sg>state</sg>,;
+<sg>trait</sg>,;
+<sg>distinctive feature</sg>,;
+<sg>technicality</sg>,;
+<sg>differentia</sg>,;
+<sg>particulars, details, items, counts</sg>,;
+<sg>minutiae</sg>,;
+<sg>I, self, I myself</sg>,;
+<sg>myself, himself, herself, itself</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>specify, particularize, individualize, realize, specialize, designate, determine</sg>,;
+<sg>denote, indicate, point out, select</sg>,;
+<sg>descend to particulars, enter into detail, go into detail, come to the point</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>special, particular, individual, specific, proper, personal, original, private, respective, definite, determinate, especial, certain, esoteric, endemic, partial, party, peculiar, appropriate, several, characteristic, diagnostic, exclusive</sg>,;
+<sg>singular ,<cref>83 <i>exceptional</i></cref></sg>,;
+<sg>idiomatic</sg>,;
+<sg>idiotypical</sg>,;
+<sg>typical</sg>,;
+<sg>this, that</sg>,;
+<sg>yon, yonder</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>specially, especially, particularly</sg>,;
+<sg>in particular, in propria persona</sg>,;
+<sg>ad hominem</sg>,;
+<sg>for my part</sg>,;
+<sg>each, apiece, one by one, one at a time</sg>,;
+<sg>severally, respectively, each to each</sg>,;
+<sg>seriatim, in detail, in great detail, in excruciating detail, in mind-numbing detail</sg>,;
+<sg>bit by bit</sg>,;
+<sg>pro hac vice, pro re nata</sg>,;
+<sg>namely, that is to say, for example, id est, exemplia gratia, e</sg>,;
+<sg>g</sg>,;
+<sg>, i</sg>,;
+<sg>e</sg>,;
+<sg>, videlicet, viz</sg>,;
+<sg>to wit</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>le style est l'homme meme</sg>,;
+<br>
+</paragraph>

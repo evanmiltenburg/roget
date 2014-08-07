@@ -1,0 +1,36 @@
+<classNumber>#2#</classNumber>
+<sectionNumber>#11#</sectionNumber>
+<headword>#<b>#[001] #270# Furrow #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>furrow, </i>groove, rut, sulcus, scratch, streak, striae, crack, score, incision, slit</sg>,;
+<sg>chamfer, fluting</sg>,;
+<sg>corduroy road, cradle hole</sg>,;
+<sg>channel, gutter, trench, ditch, dike, dyke</sg>,;
+<sg>moat, fosse, trough, kennel</sg>,;
+<sg>ravine ,<cref>198 <i>interval</i></cref></sg>,;
+<sg>tajo, thank-ye-ma'am</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>furrow</sg>,;
+<sg>flute, plow</sg>,;
+<sg>incise, engrave, etch, bite in</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>furrowed</sg>,;
+<sg>ribbed, striated, sulcated, fluted, canaliculated</sg>,;
+<sg>bisulcous, bisulcate, bisulcated</sg>,;
+<sg>canaliferous</sg>,;
+<sg>trisulcate</sg>,;
+<sg>corduroy</sg>,;
+<sg>unisulcate</sg>,;
+<sg>costate, rimiform</sg>,;
+<br>
+</paragraph>

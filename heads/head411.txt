@@ -1,0 +1,39 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#15#</sectionNumber>
+<headword>#<b>#[001] #411# Unsavoriness #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>unsavoriness</i></sg>,;
+<sg>amaritude</sg>,;
+<sg>acrimony, acridity (bitterness) 392</sg>,;
+<sg>2</sg>,;
+<sg>roughness ,<cref>397 <i>sour</i></cref></sg>,;
+<sg>acerbity, austerity</sg>,;
+<sg>gall and wormwood, rue, quassia, aloes</sg>,;
+<sg>marah</sg>,;
+<sg>sickener</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be unpalatable</sg>,;
+<sg>sicken, disgust, nauseate, pall, turn the stomach</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>unsavory, unpalatable, unsweetened, unsweet</sg>,;
+<sg>ill-flavored</sg>,;
+<sg>bitter, bitter as gall</sg>,;
+<sg>acrid, acrimonious</sg>,;
+<sg>rough</sg>,;
+<sg>offensive, repulsive, nasty</sg>,;
+<sg>sickening</sg>,;
+<sg>nauseous</sg>,;
+<sg>loathsome, fulsome</sg>,;
+<sg>unpleasant ,<cref> 830 <i>merchant</i></cref></sg>,;
+<br>
+</paragraph>

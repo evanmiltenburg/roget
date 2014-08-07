@@ -1,0 +1,87 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#29#</sectionNumber>
+<headword>#<b>#[001] #738# Cooperation #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>cooperation</i></sg>,;
+<sg>coadjuvancy, coadjutancy</sg>,;
+<sg>coagency, coefficiency</sg>,;
+<sg>concert, concurrence, complicity, participation</sg>,;
+<sg>union ,<cref> 43 <i>decrement</i></cref></sg>,;
+<sg>additivity, combination ,<cref> 48 <i>connection</i></cref></sg>,;
+<sg>collusion</sg>,;
+<sg>association, alliance, colleagueship, joint stock, copartnership</sg>,;
+<sg>cartel</sg>,;
+<sg>confederation ,<cref>712 <i>party</i></cref></sg>,;
+<sg>coalition, fusion</sg>,;
+<sg>a long pull a strong pull and a pull all together</sg>,;
+<sg>logrolling, freemasonry</sg>,;
+<sg>unanimity ,<cref>488 <i>assent</i></cref></sg>,;
+<sg>esprit de corps, party spirit</sg>,;
+<sg>clanship, partisanship</sg>,;
+<sg>concord ,<cref> 714 <i>leisure</i></cref></sg>,;
+<sg>synergy, coaction</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>cooperate, concur</sg>,;
+<sg>coact, synergize</sg>,;
+<sg>conduce ,<cref> 178 <i>physical energy</i></cref></sg>,;
+<sg>combine, unite one's efforts</sg>,;
+<sg>keep together, draw together, pull together, club together, hand together, hold together, league together, band together, be banded together</sg>,;
+<sg>pool</sg>,;
+<sg>stand shoulder to shoulder, put shoulder to shoulder</sg>,;
+<sg>act in concert, join forces, fraternize, cling to one another, conspire, concert, lay one's heads together</sg>,;
+<sg>confederate, be in league with</sg>,;
+<sg>collude, understand one another, play into the hands of, hunt in couples</sg>,;
+<sg>side with, take side with, go along with, go hand in hand with, join hands with, make common cause with, strike in with, unite with, join with, mix oneself up with, take part with, cast in one's lot with</sg>,;
+<sg>join partnership, enter into partnership with</sg>,;
+<sg>rally round, follow the lead of</sg>,;
+<sg>come to, pass over to, come into the views of</sg>,;
+<sg>be in the same boat, row in the same boat</sg>,;
+<sg>sail in the same boat</sg>,;
+<sg>sail on the same tack</sg>,;
+<sg>be a party to, lend oneself to</sg>,;
+<sg>chip in</sg>,;
+<sg>participate</sg>,;
+<sg>have a hand in, have a finger in the pie</sg>,;
+<sg>take part in, bear part in</sg>,;
+<sg>second ,<cref>707 <i>aid</i></cref></sg>,;
+<sg>take the part of, play the game of</sg>,;
+<sg>espouse a cause, espouse a quarrel</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>cooperating</sg>,;
+<sg>in cooperation</sg>,;
+<sg>, in league ,<cref>712 <i>party</i></cref></sg>,;
+<sg>coadjuvant, coadjutant</sg>,;
+<sg>dyed in the wool</sg>,;
+<sg>cooperative</sg>,;
+<sg>additive</sg>,;
+<sg>participative</sg>,;
+<sg>coactive, synergetic, synergistic</sg>,;
+<sg>favorable to ,<cref> 707 <i>disuse</i></cref></sg>,;
+<sg>unopposed ,<cref> 708 <i>misuse</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>as one ,<cref>488 <i>unanimously</i></cref></sg>,;
+<sg>shoulder to shoulder</sg>,;
+<sg>synergistically</sg>,;
+<sg>cooperatively</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>due teste valgono piu che una sola</sg>,;
+<br>
+</paragraph>

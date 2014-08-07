@@ -1,0 +1,83 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#36#</sectionNumber>
+<headword>#<b>#[001] #884# Ugliness #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>ugliness</i></sg>,;
+<sg>deformity, inelegance</sg>,;
+<sg>acomia</sg>,;
+<sg>disfigurement ,<cref>848 <i>blemish</i></cref></sg>,;
+<sg>want of symmetry, inconcinnity</sg>,;
+<sg>distortion ,<cref> 243 <i>limit</i></cref></sg>,;
+<sg>squalor ,<cref>653 <i>uncleanness</i></cref></sg>,;
+<sg>forbidding countenance, vinegar aspect, hanging look, wry face, spretae injuria formae</sg>,;
+<sg>eyesore, object, witch, hag, figure, sight, fright</sg>,;
+<sg>monster</sg>,;
+<sg>dog, woofer, pig</sg>,;
+<sg>octopus, specter, scarecrow, harridan, satyr, toad, monkey, baboon, Caliban, Aesop, monstrum horrendum informe ingens cui lumen ademptum</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be ugly</sg>,;
+<sg>look ill, grin horribly a ghastly smile, make faces</sg>,;
+<sg>render ugly</sg>,;
+<sg>deface</sg>,;
+<sg>disfigure, defigure</sg>,;
+<sg>distort ,<cref> 23 <i>copy</i></cref></sg>,;
+<sg>blemish ,<cref>659 <i>injure</i></cref></sg>,;
+<sg>soil ,<cref>653 <i>render unclean</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>ugly, ugly as sin, ugly as a toad, ugly as a scarecrow, ugly as a dead monkey</sg>,;
+<sg>plain, bald (unadorned) 849</sg>,;
+<sg>homely</sg>,;
+<sg>ordinary, unornamental, inartistic</sg>,;
+<sg>unsightly, unseemly, uncomely, unlovely</sg>,;
+<sg>unshapely</sg>,;
+<sg>sightless, seemless</sg>,;
+<sg>not fit to be seen</sg>,;
+<sg>unbeauteous, unbeautiful</sg>,;
+<sg>beautiless, semibeautiful</sg>,;
+<sg>shapeless ,<cref>241 <i>amorphous</i></cref></sg>,;
+<sg>misshapen, misproportioned</sg>,;
+<sg>monstrous</sg>,;
+<sg>gaunt ,<cref>203 <i>thin</i></cref></sg>,;
+<sg>dumpy ,<cref>201 <i>short</i></cref></sg>,;
+<sg>curtailed of its fair proportions</sg>,;
+<sg>ill-made, ill- shaped, ill-proportioned</sg>,;
+<sg>crooked ,<cref>243 <i>distorted</i></cref></sg>,;
+<sg>hard featured, hard visaged</sg>,;
+<sg>ill-favored, hard-favored, evil-favored</sg>,;
+<sg>ill-looking</sg>,;
+<sg>unprepossessing, unattractive, uninviting, unpleasing</sg>,;
+<sg>graceless, inelegant</sg>,;
+<sg>ungraceful, ungainly, uncouth, stiff</sg>,;
+<sg>rugged, rough, gross, rude, awkward, clumsy, slouching, rickety</sg>,;
+<sg>gawky</sg>,;
+<sg>lumping, lumpish</sg>,;
+<sg>lumbering</sg>,;
+<sg>hulky, hulking</sg>,;
+<sg>unwieldy</sg>,;
+<sg>squalid, haggard</sg>,;
+<sg>grim, grim faced, grim visaged</sg>,;
+<sg>grisly, ghastly</sg>,;
+<sg>ghost like, death like</sg>,;
+<sg>cadaverous, grewsome, gruesome</sg>,;
+<sg>frightful, hideous, odious, uncanny, forbidding</sg>,;
+<sg>repellant, repulsive, repugnant, grotesque, bizarre</sg>,;
+<sg>grody, grody to the max</sg>,;
+<sg>horrid, horrible</sg>,;
+<sg>shocking ,<cref>830 <i>painful</i></cref></sg>,;
+<sg>foul ,<cref>653 <i>dirty</i></cref></sg>,;
+<sg>dingy ,<cref>429 <i>colorless</i></cref></sg>,;
+<sg>gaudy ,<cref>428 <i>color</i></cref></sg>,;
+<sg>disfigured</sg>,;
+<sg>discolored</sg>,;
+<br>
+</paragraph>

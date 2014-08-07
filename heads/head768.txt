@@ -1,0 +1,78 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#31#</sectionNumber>
+<headword>#<b>#[001] #768# Politics #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>politics</i></sg>,;
+<sg>political science</sg>,;
+<sg>candidacy, campaign, campaigning, electioneering</sg>,;
+<sg>partisanship, ideology, factionalism</sg>,;
+<sg>election, poll, ballot, vote, referendum, recall, initiative, voice, suffrage, plumper, cumulative vote, plebiscitum, plebiscite, vox populi</sg>,;
+<sg>electioneering</sg>,;
+<sg>voting</sg>,;
+<sg>elective franchise</sg>,;
+<sg>straight ticket</sg>,;
+<sg>opinion poll, popularity poll</sg>,;
+<sg>issue</sg>,;
+<sg>opinion, stand, position</sg>,;
+<sg>program, platform</sg>,;
+<sg>party line</sg>,;
+<sg>democracy, republicanism</sg>,;
+<sg>communism, statism, state socialism</sg>,;
+<sg>socialism</sg>,;
+<sg>conservatism, toryism</sg>,;
+<sg>liberalism, whigism</sg>,;
+<sg>theocracy</sg>,;
+<sg>constitutional monarchy</sg>,;
+<sg>party ,<cref> 712 <i>inactivity</i></cref></sg>,;
+<sg>Democratic Party, Republican Party, Socialist Party</sg>,;
+<sg>Communist Party</sg>,;
+<sg>Federalist Party, Bull Moose Party, Abolitionist Party</sg>,;
+<sg>Christian Democratic Party, Social Democratic Party</sg>,;
+<sg>National Socialist Worker's Party</sg>,;
+<sg>Nazi Party</sg>,;
+<sg>Liberal Party, Labor Party, Conservative Party</sg>,;
+<sg>ticket, slate</sg>,;
+<sg>politician activist</sg>,;
+<sg>candidate, aspirant, hopeful, office-seeker, front- runner, dark horse, long shot, shoo-in</sg>,;
+<sg>supporter, backer, political worker, campaign worker</sg>,;
+<sg>lobbyist, contributor</sg>,;
+<sg>party hack, ward heeler</sg>,;
+<sg>regional candidate, favorite son</sg>,;
+<sg>running mate, stalking horse</sg>,;
+<sg>perpetual candidate, political animal</sg>,;
+<sg>political contribution, campaign contribution</sg>,;
+<sg>political action committee, PAC</sg>,;
+<sg>political district, electoral division, electoral district, bailiwick</sg>,;
+<sg>electorate, constituents</sg>,;
+<sg>get-out-the-vote campaign, political education</sg>,;
+<sg>negative campaigning, dirty politics, smear campaign</sg>,;
+<sg>also-ran, loser</sg>,;
+<sg>has-been</sg>,;
+<sg>office holder, official, occupant of a position</sg>,;
+<sg>public servant, incumbent</sg>,;
+<sg>winner</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>run for office, stand for office</sg>,;
+<sg>campaign, stump</sg>,;
+<sg>throw one's hat in the ring</sg>,;
+<sg>announce one's candidacy</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>political, partisan</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>Money is the mother's milk of politics</sg>,;
+<br>
+</paragraph>

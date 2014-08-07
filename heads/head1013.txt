@@ -1,0 +1,52 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#38#</sectionNumber>
+<headword>#<b>#[001] #1013# Acquittal #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>acquittal, </i>acquitment</sg>,;
+<sg>clearance, exculpation</sg>,;
+<sg>acquittance, clearance, exoneration</sg>,;
+<sg>discharge ,<cref>750 <i>release</i></cref></sg>,;
+<sg>quietus, absolution, compurgation, reprieve, respite</sg>,;
+<sg>pardon ,<cref>918 <i>forgiveness</i></cref></sg>,;
+<sg>impunity</sg>,;
+<sg>diplomatic immunity</sg>,;
+<sg>immunity</sg>,;
+<sg>plea bargain, deal with the prosecutor</sg>,;
+<sg>no cause for action</sg>,;
+<sg>no damages</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>acquit, exculpate, exonerate, clear</sg>,;
+<sg>absolve, whitewash, assoil</sg>,;
+<sg>discharge, release</sg>,;
+<sg>liberate ,<cref> 750 <i>peace</i></cref></sg>,;
+<sg>reprieve, respite</sg>,;
+<sg>pardon ,<cref>918 <i>forgive</i></cref></sg>,;
+<sg>let off, let off scot- free</sg>,;
+<sg>drop the charges</sg>,;
+<sg>plea bargain, strike a deal</sg>,;
+<sg>no-cause (in civil suits)</sg>,;
+<sg>get no-caused</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>acquitted</sg>,;
+<sg>uncondemned, unpunished, unchastised</sg>,;
+<sg>not guilty</sg>,;
+<sg>not proven</sg>,;
+<sg>not liable</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>nemo bis punitur pro codem delicto</sg>,;
+<br>
+</paragraph>

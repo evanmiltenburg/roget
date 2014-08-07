@@ -1,0 +1,54 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#26#</sectionNumber>
+<headword>#<b>#[001] #645# Dissuasion #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>dissuasion, </i>dehortation, expostulation, remonstrance</sg>,;
+<sg>deprecation ,<cref> 766 <i>authority</i></cref></sg>,;
+<sg>discouragement, damper, wet blanket</sg>,;
+<sg>disillusionment, disenchantment</sg>,;
+<sg>cohibition ,<cref>751 <i>restraint</i></cref></sg>,;
+<sg>curb ,<cref>752 <i>means of restraint</i></cref></sg>,;
+<sg>check ,<cref>706 <i>hindrance</i></cref></sg>,;
+<sg>reluctance ,<cref>603 <i>unwillingness</i></cref></sg>,;
+<sg>contraindication</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>dissuade, dehort, cry out against, remonstrate, expostulate, warn, contraindicate</sg>,;
+<sg>disincline, indispose, shake, stagger</sg>,;
+<sg>dispirit</sg>,;
+<sg>discourage, dishearten</sg>,;
+<sg>deter</sg>,;
+<sg>repress, hold back, keep back ,<cref>751 <i>restrain</i></cref></sg>,;
+<sg>render averse ,<cref> 603 <i>ornament</i></cref></sg>,;
+<sg>repel</sg>,;
+<sg>turn aside ,<cref>279 <i>deviation</i></cref></sg>,;
+<sg>wean from</sg>,;
+<sg>act as a drag ,<cref>706 <i>hinder</i></cref></sg>,;
+<sg>throw cold water on, damp, cool, chill, blunt, calm, quiet, quench</sg>,;
+<sg>deprecate ,<cref> 766 <i>authority</i></cref></sg>,;
+<sg>disenchant, disillusion, deflate, take down a peg, pop one's balloon, prick one's balloon, burst one's bubble</sg>,;
+<sg>disabuse (correction) 527</sg>,;
+<sg>1</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>dissuading</sg>,;
+<sg>dissuasive</sg>,;
+<sg>dehortatory, expostulatory</sg>,;
+<sg>monitive, monitory</sg>,;
+<sg>dissuaded</sg>,;
+<sg>admonitory</sg>,;
+<sg>uninduced &c (induce) ,<cref> 615 <i>soliloquy</i></cref></sg>,;
+<sg>unpersuadable ,<cref>606 <i>obstinate</i></cref></sg>,;
+<sg>averse ,<cref>603 <i>unwilling</i></cref></sg>,;
+<sg>repugnant ,<cref>867 <i>dislike</i></cref></sg>,;
+<sg>repressed</sg>,;
+<br>
+</paragraph>

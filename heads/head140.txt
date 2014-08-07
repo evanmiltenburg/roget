@@ -1,0 +1,90 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#6#</sectionNumber>
+<headword>#<b>#[001] #140# Lateness #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>lateness</i></sg>,;
+<sg>tardiness ,<cref>275 <i>slowness</i></cref></sg>,;
+<sg>delay, delation</sg>,;
+<sg>cunctation, procrastination</sg>,;
+<sg>deferring, deferral</sg>,;
+<sg>postponement, adjournment, prorogation, retardation, respite, pause, reprieve, stay of execution</sg>,;
+<sg>protraction, prolongation</sg>,;
+<sg>Fabian policy, medecine expectante, chancery suit, federal case</sg>,;
+<sg>leeway</sg>,;
+<sg>high time</sg>,;
+<sg>moratorium, holdover</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be late</sg>,;
+<sg>tarry, wait, stay, bide, take time</sg>,;
+<sg>dawdle ,<cref>683 <i>be inactive</i></cref></sg>,;
+<sg>linger, loiter</sg>,;
+<sg>bide one's time, take one's time</sg>,;
+<sg>gain time</sg>,;
+<sg>hang fire</sg>,;
+<sg>stand over, lie over</sg>,;
+<sg>put off, defer, delay, lay over, suspend</sg>,;
+<sg>table</sg>,;
+<sg>shift off, stave off</sg>,;
+<sg>waive, retard, remand, postpone, adjourn</sg>,;
+<sg>procrastinate</sg>,;
+<sg>dally</sg>,;
+<sg>prolong, protract</sg>,;
+<sg>spin out, draw out, lengthen out, stretch out</sg>,;
+<sg>prorogue</sg>,;
+<sg>keep back</sg>,;
+<sg>tide over</sg>,;
+<sg>push to the last, drive to the last</sg>,;
+<sg>let the matter stand over</sg>,;
+<sg>reserve ,<cref>636 <i>store</i></cref></sg>,;
+<sg>temporize</sg>,;
+<sg>consult one's pillow, sleep on it</sg>,;
+<sg>lose an opportunity ,<cref> 135 <i>infant</i></cref></sg>,;
+<sg>be kept waiting, dance attendance</sg>,;
+<sg>kick one's heels, cool one's heels</sg>,;
+<sg>faire antichambre</sg>,;
+<sg>wait impatiently</sg>,;
+<sg>await ,<cref>507 <i>expect</i></cref></sg>,;
+<sg>sit up, sit up at night</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>late, tardy, slow, behindhand, serotine, belated, postliminious, posthumous, backward, unpunctual, untimely</sg>,;
+<sg>delayed, postponed</sg>,;
+<sg>dilatory ,<cref>275 <i>slow</i></cref></sg>,;
+<sg>delayed</sg>,;
+<sg>in abeyance</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>late</sg>,;
+<sg>lateward, backward</sg>,;
+<sg>late in the day</sg>,;
+<sg>at sunset, at the eleventh hour, at length, at last</sg>,;
+<sg>ultimately</sg>,;
+<sg>after time, behind time, after the deadline</sg>,;
+<sg>too late</sg>,;
+<sg>too late for ,<cref> 135 <i>infant</i></cref></sg>,;
+<sg>slowly, leisurely, deliberately, at one's leisure</sg>,;
+<sg>ex post facto</sg>,;
+<sg>sine die</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>nonum prematur in annum</sg>,;
+<sg>against the sunbeams serotine and lucent</sg>,;
+<sg>ie meglio tardi che mai</sg>,;
+<sg>deliberando saepe perit occasio</sg>,;
+<br>
+</paragraph>

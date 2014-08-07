@@ -1,0 +1,58 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#15#</sectionNumber>
+<headword>#<b>#[001] #466# Invisibility #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>invisibility, </i>invisibleness, nonappearance, imperceptibility</sg>,;
+<sg>indistinctness</sg>,;
+<sg>mystery, delitescence</sg>,;
+<sg>concealment ,<cref> 528 <i>madman</i></cref></sg>,;
+<sg>latency ,<cref> 526 <i>sanity</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be invisible</sg>,;
+<sg>be hidden ,<cref>528 <i>hide</i></cref></sg>,;
+<sg>lurk ,<cref>526 <i>lie hidden</i></cref></sg>,;
+<sg>escape notice</sg>,;
+<sg>render invisible</sg>,;
+<sg>conceal ,<cref> 528 <i>madman</i></cref></sg>,;
+<sg>put out of sight</sg>,;
+<sg>not see ,<cref>442 <i>be blind</i></cref></sg>,;
+<sg>lose sight of</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>invisible, imperceptible</sg>,;
+<sg>undiscernible, indiscernible</sg>,;
+<sg>unapparent, non-apparent</sg>,;
+<sg>out of sight, not in sight</sg>,;
+<sg>a perte de vue</sg>,;
+<sg>behind the scenes, behind the curtain</sg>,;
+<sg>viewless, sightless</sg>,;
+<sg>inconspicuous, unconspicuous</sg>,;
+<sg>unseen &c (see) ,<cref> 441 <i>luminary</i></cref></sg>,;
+<sg>covert ,<cref>526 <i>latent</i></cref></sg>,;
+<sg>eclipsed, under an eclipse</sg>,;
+<sg>dim ,<cref>422 <i>faint</i></cref></sg>,;
+<sg>mysterious, dark, obscure, confused</sg>,;
+<sg>indistinct, indistinguishable</sg>,;
+<sg>shadowy, indefinite, undefined</sg>,;
+<sg>ill- defined, ill-marked</sg>,;
+<sg>blurred, fuzzy, out of focus</sg>,;
+<sg>misty ,<cref>426 <i>opaque</i></cref></sg>,;
+<sg>delitescent</sg>,;
+<sg>hidden, obscured, covered, veiled (concealed) 528</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>full many a flower is born to blush unseen</sg>,;
+<br>
+</paragraph>

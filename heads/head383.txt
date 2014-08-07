@@ -1,0 +1,50 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#15#</sectionNumber>
+<headword>#<b>#[001] #383# Agriculture #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>agriculture, </i>cultivation, husbandry, farming</sg>,;
+<sg>georgics, geoponics</sg>,;
+<sg>tillage, agronomy, gardening, spade husbandry, vintage</sg>,;
+<sg>horticulture, arboriculture, floriculture</sg>,;
+<sg>landscape gardening</sg>,;
+<sg>viticulture</sg>,;
+<sg>husbandman, horticulturist, gardener, florist</sg>,;
+<sg>agricultor, agriculturist</sg>,;
+<sg>yeoman, farmer, cultivator, tiller of the soil, woodcutter, backwoodsman</sg>,;
+<sg>granger, habitat, vigneron, viticulturist</sg>,;
+<sg>Triptolemus</sg>,;
+<sg>field, meadow, garden</sg>,;
+<sg>botanic garden, winter garden, ornamental garden, flower garden, kitchen garden, market garden, hop garden</sg>,;
+<sg>nursery</sg>,;
+<sg>green house, hot house</sg>,;
+<sg>conservatory, bed, border, seed plot</sg>,;
+<sg>grassplot, grassplat, lawn</sg>,;
+<sg>park ,<cref>840 <i>pleasure ground</i></cref></sg>,;
+<sg>parterre, shrubbery, plantation, avenue, arboretum, pinery, pinetum, orchard</sg>,;
+<sg>vineyard, vinery</sg>,;
+<sg>orangery</sg>,;
+<sg>farm ,<cref>189 <i>abode</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>cultivate</sg>,;
+<sg>till the soil</sg>,;
+<sg>farm, garden</sg>,;
+<sg>sow, plant</sg>,;
+<sg>reap, mow, cut</sg>,;
+<sg>manure, dress the ground, dig, delve, dibble, hoe, plough, plow, harrow, rake, weed, lop and top</sg>,;
+<sg>backset</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>agricultural, agrarian, agrestic</sg>,;
+<sg>arable, predial, rural, rustic, country</sg>,;
+<sg>horticultural</sg>,;
+<br>
+</paragraph>

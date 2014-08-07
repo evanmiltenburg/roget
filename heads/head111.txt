@@ -1,0 +1,104 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#6#</sectionNumber>
+<headword>#<b>#[001] #111# Time #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>time, </i>duration</sg>,;
+<sg>period, term, stage, space, span, spell, season</sg>,;
+<sg>the whole time, the whole period</sg>,;
+<sg>space-time</sg>,;
+<sg>course ,<cref> 109 <i>repetition</i></cref></sg>,;
+<sg>snap</sg>,;
+<sg>intermediate time, while, interim, interval, pendency</sg>,;
+<sg>intervention, intermission, intermittence, interregnum, interlude</sg>,;
+<sg>respite</sg>,;
+<sg>era, epoch</sg>,;
+<sg>time of life, age, year, date</sg>,;
+<sg>decade ,<cref>108 <i>period</i></cref></sg>,;
+<sg>moment, ,<cref>113 <i>instant</i></cref></sg>,;
+<sg>glass of time, sands of time, march of time, Father Time, ravages of time</sg>,;
+<sg>arrow of time</sg>,;
+<sg>river of time, whirligig of time, noiseless foot of time</sg>,;
+<sg>scythe</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>continue last endure, go on, remain, persist</sg>,;
+<sg>intervene</sg>,;
+<sg>elapse ,<cref> 109 <i>repetition</i></cref></sg>,;
+<sg>hold out</sg>,;
+<sg>take time, take up time, fill time, occupy time</sg>,;
+<sg>pass time, pass away time, spend time, while away time, consume time, talk against time</sg>,;
+<sg>tide over</sg>,;
+<sg>use time, employ time</sg>,;
+<sg>seize an opportunity ,<cref> 134 <i>age</i></cref></sg>,;
+<sg>waste time ,<cref>683 <i>be inactive</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>continuing</sg>,;
+<sg>on foot</sg>,;
+<sg>permanent ,<cref>110 <i>durable</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>while, whilst, during, pending</sg>,;
+<sg>during the time, during the interval</sg>,;
+<sg>in the course of, at that point, at that point in time</sg>,;
+<sg>for the time being, day by day</sg>,;
+<sg>in the time of, when</sg>,;
+<sg>meantime, meanwhile</sg>,;
+<sg>in the meantime, in the interim</sg>,;
+<sg>ad interim, pendente lite</sg>,;
+<sg>de die in diem</sg>,;
+<sg>from day to day, from hour to hour </sg>,;
+<sg>hourly, always</sg>,;
+<sg>for a time, for a season</sg>,;
+<sg>till, until, up to, yet, as far as, by that time, so far, hereunto, heretofore, prior to this, up to this point</sg>,;
+<sg>the whole time, all the time</sg>,;
+<sg>all along</sg>,;
+<sg>throughout ,<cref>52 <i>completely</i></cref></sg>,;
+<sg>for good ,<cref>110 <i>diuturnity</i></cref></sg>,;
+<sg>hereupon, thereupon, whereupon</sg>,;
+<sg>then</sg>,;
+<sg>anno Domini, A</sg>,;
+<sg>D</sg>,;
+<sg>ante Christum, A</sg>,;
+<sg>C</sg>,;
+<sg>before Christ, B</sg>,;
+<sg>C</sg>,;
+<sg>anno urbis conditae, A</sg>,;
+<sg>U</sg>,;
+<sg>C</sg>,;
+<sg>anno regni, A</sg>,;
+<sg>R</sg>,;
+<sg>once upon a time, one fine morning, one fine day, one day, once</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>time flies, tempus fugit</sg>,;
+<sg>time runs out, time runs against, race against time, racing the clock, time marches on, time is of the essence, time and tide wait for no man</sg>,;
+<sg>ad calendas Groecas</sg>,;
+<sg>panting Time toileth after him in vain</sg>,;
+<sg>'gainst the tooth of time and razure of oblivion</sg>,;
+<sg>rich with the spoils of time</sg>,;
+<sg>tempus edax rerum</sg>,;
+<sg>the long hours come and go</sg>,;
+<sg>the time is out of joint</sg>,;
+<sg>Time rolls his ceaseless course</sg>,;
+<sg>Time the foe of man's dominion</sg>,;
+<sg>time wasted is existence, used is life</sg>,;
+<sg>truditur dies die</sg>,;
+<sg>volat hora per orbem</sg>,;
+<sg>carpe diem</sg>,;
+<br>
+</paragraph>

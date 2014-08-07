@@ -1,0 +1,83 @@
+<classNumber>#2#</classNumber>
+<sectionNumber>#12#</sectionNumber>
+<headword>#<b>#[001] #303# Arrival #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>arrival, </i>advent</sg>,;
+<sg>landing</sg>,;
+<sg>debarkation, disembarkation</sg>,;
+<sg>reception, welcome, vin d'honneur</sg>,;
+<sg>home, goal, goalpost</sg>,;
+<sg>landing place, landing stage</sg>,;
+<sg>bunder</sg>,;
+<sg>resting place</sg>,;
+<sg>destination, harbor, haven, port, airport, spaceport</sg>,;
+<sg>terminus, halting place, halting ground, landing strip, runway, terminal</sg>,;
+<sg>journey's end</sg>,;
+<sg>anchorage ,<cref>666 <i>refuge</i></cref></sg>,;
+<sg>return, remigration</sg>,;
+<sg>meeting</sg>,;
+<sg>rencounter, encounter</sg>,;
+<sg>completion ,<cref> 729 <i>proficient</i></cref></sg>,;
+<sg>recursion</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>arrive</sg>,;
+<sg>get to, come to</sg>,;
+<sg>come</sg>,;
+<sg>reach, attain</sg>,;
+<sg>come up with, come up to</sg>,;
+<sg>overtake, make, fetch</sg>,;
+<sg>complete ,<cref> 729 <i>proficient</i></cref></sg>,;
+<sg>join, rejoin</sg>,;
+<sg>light, alight, dismount</sg>,;
+<sg>land, go ashore</sg>,;
+<sg>debark, disembark</sg>,;
+<sg>put in, put into</sg>,;
+<sg>visit, cast anchor, pitch one's tent</sg>,;
+<sg>sit down ,<cref>184 <i>be located</i></cref></sg>,;
+<sg>get to one's journey's end</sg>,;
+<sg>make the land</sg>,;
+<sg>be in at the death</sg>,;
+<sg>come back, get back, come home, get home</sg>,;
+<sg>return</sg>,;
+<sg>come in ,<cref>294 <i>ingress</i></cref></sg>,;
+<sg>make one's appearance ,<cref>446 <i>appear</i></cref></sg>,;
+<sg>drop in</sg>,;
+<sg>detrain, deplane</sg>,;
+<sg>outspan</sg>,;
+<sg>de-orbit</sg>,;
+<sg>come to hand</sg>,;
+<sg>come at, come across</sg>,;
+<sg>hit</sg>,;
+<sg>come upon, light upon, pop upon, bounce upon, plump upon, burst upon, pitch upon</sg>,;
+<sg>meet</sg>,;
+<sg>encounter, rencounter</sg>,;
+<sg>come in contact</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>arriving</sg>,;
+<sg>homeward bound</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>here, hither</sg>,;
+<sg>Int</sg>,;
+<sg>welcome!, hail!, all Hail!, good-day, good morrow!,</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>any port in a storm</sg>,;
+<br>
+</paragraph>

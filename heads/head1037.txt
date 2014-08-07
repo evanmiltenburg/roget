@@ -1,0 +1,21 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#39#</sectionNumber>
+<headword>#<b>#[001] #1037# Spell #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>spell, </i>charm, incantation, exorcism, weird, cabala, exsufflation, cantrap, runes, abracadabra, open sesame, countercharm, Ephesian letters, bell book and candle, Mumbo Jumbo, evil eye, fee-faw- fum</sg>,;
+<sg>talisman, amulet, periapt, telesm, phylactery, philter</sg>,;
+<sg>fetich, fetish</sg>,;
+<sg>agnus Dei, lamb of God</sg>,;
+<sg>furcula, madstone</sg>,;
+<sg>mascot, mascotte</sg>,;
+<sg>merrythought</sg>,;
+<sg>Om, Aum</sg>,;
+<sg>scarab, scarabaeus</sg>,;
+<sg>sudarium, triskelion, veronica, wishbone</sg>,;
+<sg>swastika, fylfot, gammadion</sg>,;
+<sg>wand, caduceus, rod, divining rod, lamp of Aladdin</sg>,;
+<sg>wishing-cap, Fortunatus's cap</sg>,;
+<br>
+</paragraph>

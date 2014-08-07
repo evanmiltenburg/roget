@@ -1,0 +1,74 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#15#</sectionNumber>
+<headword>#<b>#[001] #391# Physical Pain #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>physical pain, </i>pain</sg>,;
+<sg>suffering, sufferance, suffrance</sg>,;
+<sg>bodily pain, physical pain, bodily suffering, physical suffering, body pain</sg>,;
+<sg>mental suffering ,<cref> 828 <i>purchase</i></cref></sg>,;
+<sg>dolour, ache</sg>,;
+<sg>aching</sg>,;
+<sg>smart</sg>,;
+<sg>shoot, shooting</sg>,;
+<sg>twinge, twitch, gripe, headache, stomach ache, heartburn, angina, angina pectoris</sg>,;
+<sg>hurt, cut</sg>,;
+<sg>sore, soreness</sg>,;
+<sg>discomfort, malaise</sg>,;
+<sg>cephalalgia, earache, gout, ischiagra, lumbago, neuralgia, odontalgia, otalgia, podagra, rheumatism, sciatica</sg>,;
+<sg>tic douloureux, toothache, tormina, torticollis</sg>,;
+<sg>spasm, cramp</sg>,;
+<sg>nightmare, ephialtes</sg>,;
+<sg>crick, stitch</sg>,;
+<sg>thrill, convulsion, throe</sg>,;
+<sg>throb ,<cref>315 <i>agitation</i></cref></sg>,;
+<sg>pang</sg>,;
+<sg>colic</sg>,;
+<sg>kink</sg>,;
+<sg>sharp pain, piercing pain, throbbing pain, shooting pain, sting, gnawing pain, burning pain</sg>,;
+<sg>excruciating pain</sg>,;
+<sg>anguish, agony</sg>,;
+<sg>torment, torture</sg>,;
+<sg>rack</sg>,;
+<sg>cruciation, crucifixion</sg>,;
+<sg>martyrdom, toad under a harrow, vivisection</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>feel pain, experience pain, suffer pain, undergo pain</sg>,;
+<sg>suffer, ache, smart, bleed</sg>,;
+<sg>tingle, shoot</sg>,;
+<sg>twinge, twitch, lancinate</sg>,;
+<sg>writhe, wince, make a wry face</sg>,;
+<sg>sit on thorns, sit on pins and needles</sg>,;
+<sg>give pain, inflict pain</sg>,;
+<sg>lacerate</sg>,;
+<sg>pain, hurt, chafe, sting, bite, gnaw, gripe</sg>,;
+<sg>pinch, tweak</sg>,;
+<sg>grate, gall, fret, prick, pierce, wring, convulse</sg>,;
+<sg>torment, torture</sg>,;
+<sg>rack, agonize</sg>,;
+<sg>crucify</sg>,;
+<sg>cruciate, excruciate</sg>,;
+<sg>break on the wheel, put to the rack</sg>,;
+<sg>flog ,<cref>972 <i>punish</i></cref></sg>,;
+<sg>grate on the ear ,<cref>410 <i>harsh sound</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>in pain</sg>,;
+<sg>, in a state of pain</sg>,;
+<sg>pained</sg>,;
+<sg>gouty, podagric, torminous</sg>,;
+<sg>painful</sg>,;
+<sg>aching</sg>,;
+<sg>sore, raw</sg>,;
+<sg>2</sg>,;
+<sg>Special Sensation (1) Touch</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,61 @@
+<classNumber>#2#</classNumber>
+<sectionNumber>#10#</sectionNumber>
+<headword>#<b>#[001] #219# Summit #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>summit, </i>summity</sg>,;
+<sg>top, peak, vertex, apex, zenith, pinnacle, acme, culmination, meridian, utmost height, ne plus utra, height, pitch, maximum, climax, culminating point, crowning point, turning point</sg>,;
+<sg>turn of the tide, fountain head</sg>,;
+<sg>water shed, water parting</sg>,;
+<sg>sky, pole</sg>,;
+<sg>tip, tip top</sg>,;
+<sg>crest, crow's nest, cap, truck, nib</sg>,;
+<sg>end ,<cref> 67 <i>sequence</i></cref></sg>,;
+<sg>crown, brow</sg>,;
+<sg>head, nob, noddle, pate</sg>,;
+<sg>capsheaf</sg>,;
+<sg>high places, heights</sg>,;
+<sg>topgallant mast, sky scraper</sg>,;
+<sg>quarter deck, hurricane deck</sg>,;
+<sg>architrave, frieze, cornice, coping stone, zoophorus, capital, epistyle, sconce, pediment, entablature</sg>,;
+<sg>tympanum</sg>,;
+<sg>ceiling ,<cref>223 <i>covering</i></cref></sg>,;
+<sg>attic, loft, garret, house top, upper story</sg>,;
+<sg>summit conference, summit</sg>,;
+<sg>peak of achievement, peak of performance</sg>,;
+<sg>peaks and troughs, peaks and valleys (in graphs)</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>culminate, crown, top</sg>,;
+<sg>overtop ,<cref>33 <i>be superior to</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>highest &c (high) ,<cref> 206 <i>nearness</i></cref></sg>,;
+<sg>top</sg>,;
+<sg>top most, upper most</sg>,;
+<sg>tiptop</sg>,;
+<sg>culminating</sg>,;
+<sg>meridian, meridional</sg>,;
+<sg>capital, head, polar, supreme, supernal, topgallant</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>atop, at the top of the tree</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>en flute</sg>,;
+<sg>fleur deau</sg>,;
+<br>
+</paragraph>

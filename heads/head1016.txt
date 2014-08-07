@@ -1,0 +1,66 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#38#</sectionNumber>
+<headword>#<b>#[001] #1016# Reward #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>reward, </i>recompense, remuneration, meed, guerdon, reguerdon</sg>,;
+<sg>price</sg>,;
+<sg>indemnity, indemnification</sg>,;
+<sg>quittance</sg>,;
+<sg>compensation</sg>,;
+<sg>reparation, redress, satisfaction</sg>,;
+<sg>reckoning, acknowledgment, requital, amends, sop</sg>,;
+<sg>atonement, retribution</sg>,;
+<sg>consideration, return, quid pro quo</sg>,;
+<sg>salvage, perquisite</sg>,;
+<sg>vail ,<cref>784 <i>donation</i></cref></sg>,;
+<sg>douceur, bribe</sg>,;
+<sg>hush money, smart money</sg>,;
+<sg>blackmail, extortion</sg>,;
+<sg>carcelage</sg>,;
+<sg>solatium</sg>,;
+<sg>allowance, salary, stipend, wages, compensation</sg>,;
+<sg>pay, payment</sg>,;
+<sg>emolument</sg>,;
+<sg>tribute</sg>,;
+<sg>batta, shot, scot</sg>,;
+<sg>bonus, premium, tip</sg>,;
+<sg>fee, honorarium</sg>,;
+<sg>hire</sg>,;
+<sg>dasturi, dustoori</sg>,;
+<sg>mileage</sg>,;
+<sg>crown ,<cref>877 <i>decoration of honor</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>reward, recompense, repay, requite</sg>,;
+<sg>remunerate, munerate</sg>,;
+<sg>compensate</sg>,;
+<sg>fee</sg>,;
+<sg>pay one's footing ,<cref>807 <i>pay</i></cref></sg>,;
+<sg>make amends, indemnify, atone</sg>,;
+<sg>satisfy, acknowledge</sg>,;
+<sg>get for one's pains, reap the fruits of</sg>,;
+<sg>tip</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>remunerative, remuneratory</sg>,;
+<sg>munerary, compensatory, retributive, reparatory</sg>,;
+<sg>rewarding</sg>,;
+<sg>satisfactory</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>fideli certa merces</sg>,;
+<sg>honor virtutis praemium</sg>,;
+<sg>tibi seris tibi metis</sg>,;
+<br>
+</paragraph>

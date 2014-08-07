@@ -1,0 +1,50 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#18#</sectionNumber>
+<headword>#<b>#[001] #491# Counter Evidence #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>counter evidence</i></sg>,;
+<sg>evidence on the other side, evidence on the other hand</sg>,;
+<sg>conflicting evidence, contradictory evidence, opposing evidence</sg>,;
+<sg>disproof, refutation ,<cref> 479 <i>care</i></cref></sg>,;
+<sg>negation ,<cref> 536 <i>omen</i></cref></sg>,;
+<sg>plea ,<cref> 617 <i>printing</i></cref></sg>,;
+<sg>vindication ,<cref> 937 <i>hate</i></cref></sg>,;
+<sg>counter protest</sg>,;
+<sg>'tu quoque' argument</sg>,;
+<sg>other side of the shield, other side of the coin, reverse of the shield</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>countervail, oppose</sg>,;
+<sg>mitigate against</sg>,;
+<sg>rebut ,<cref>479 <i>refute</i></cref></sg>,;
+<sg>subvert ,<cref>162 <i>destroy</i></cref></sg>,;
+<sg>cheek, weaken</sg>,;
+<sg>contravene</sg>,;
+<sg>contradict ,<cref>536 <i>deny</i></cref></sg>,;
+<sg>tell the other side of the story, tell another story, turn the scale, alter the case</sg>,;
+<sg>turn the tables</sg>,;
+<sg>cut both ways</sg>,;
+<sg>prove a negative</sg>,;
+<sg>audire alteram partem</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>countervailing</sg>,;
+<sg>contradictory</sg>,;
+<sg>unattested, unauthenticated, unsupported by evidence</sg>,;
+<sg>supposititious</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>on the contrary, per contra</sg>,;
+<br>
+</paragraph>

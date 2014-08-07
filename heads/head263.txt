@@ -1,0 +1,20 @@
+<classNumber>#2#</classNumber>
+<sectionNumber>#11#</sectionNumber>
+<headword>#<b>#[001] #263# Sponge #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>sponge, </i>honeycomb, network</sg>,;
+<sg>frit, filter</sg>,;
+<sg>sieve, net, screen (opening) 260</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>cellular, spongy, spongious</sg>,;
+<sg>honeycombed, alveolar</sg>,;
+<sg>sintered</sg>,;
+<sg>porous (opening) 260</sg>,;
+<br>
+</paragraph>

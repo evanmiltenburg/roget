@@ -1,0 +1,34 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#1#</sectionNumber>
+<headword>#<b>#[001] #6# Extrinsicality #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>extrinsicality, </i>objectiveness, non ego</sg>,;
+<sg>extraneousness ,<cref> 57 <i>composition</i></cref></sg>,;
+<sg>accident</sg>,;
+<sg>appearance, phenomenon ,<cref> 448 <i>achromatism</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>derived from without</sg>,;
+<sg>objective</sg>,;
+<sg>extrinsic, extrinsical</sg>,;
+<sg>extraneous ,<cref>57 <i>foreign</i></cref></sg>,;
+<sg>modal, adventitious</sg>,;
+<sg>ascititious, adscititious</sg>,;
+<sg>incidental, accidental, nonessential</sg>,;
+<sg>contingent, fortuitous</sg>,;
+<sg>implanted, ingrafted</sg>,;
+<sg>inculcated, infused</sg>,;
+<sg>outward, apparent ,<cref>220 <i>external</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>extrinsically</sg>,;
+<br>
+</paragraph>

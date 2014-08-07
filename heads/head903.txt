@@ -1,0 +1,82 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#36#</sectionNumber>
+<headword>#<b>#[001] #903# Caution #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>caution</i></sg>,;
+<sg>cautiousness</sg>,;
+<sg>discretion, prudence, cautel, heed, circumspection, calculation, deliberation</sg>,;
+<sg>foresight ,<cref> 510 <i>credulity</i></cref></sg>,;
+<sg>vigilance ,<cref> 459 <i>variegation</i></cref></sg>,;
+<sg>warning ,<cref> 668 <i>sufficiency</i></cref></sg>,;
+<sg>coolness</sg>,;
+<sg>self-possession, self-command</sg>,;
+<sg>presence of mind, sang froid</sg>,;
+<sg>well-regulated mind</sg>,;
+<sg>worldly wisdom, Fabian policy</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be cautious</sg>,;
+<sg>take care, take heed, take good care</sg>,;
+<sg>have a care mind, what one is about</sg>,;
+<sg>be on one's guard ,<cref>459 <i>keep watch</i></cref></sg>,;
+<sg>make assurance doubly sure</sg>,;
+<sg>bespeak ,<cref>132 <i>be early</i></cref></sg>,;
+<sg>think twice, look before one leaps, count the cost, look to the main chance, cut one's coat according to one's cloth</sg>,;
+<sg>feel one's ground, feel one's way</sg>,;
+<sg>see how the land lies ,<cref>510 <i>foresight</i></cref></sg>,;
+<sg>wait to see how the cat jumps</sg>,;
+<sg>bridle one's tongue</sg>,;
+<sg>reculer pour mieux sauter ,<cref>673 <i>prepare</i></cref></sg>,;
+<sg>let well alone, let well enough alone</sg>,;
+<sg>let sleeping dogs lie, ne pas reveiller le chat qui dort, don't wake a sleeping cat</sg>,;
+<sg>keep out of harm's way, keep out of troubled waters</sg>,;
+<sg>keep at a respectful distance, stand aloof</sg>,;
+<sg>keep on the safe side, be on the safe side</sg>,;
+<sg>husband one's resources ,<cref> 636 <i>choice</i></cref></sg>,;
+<sg>caution ,<cref>668 <i>warn</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>cautious, wary, guarded</sg>,;
+<sg>on one's guard ,<cref>459 <i>watchful</i></cref></sg>,;
+<sg>cavendo tutus</sg>,;
+<sg>in medio tutissimus</sg>,;
+<sg>vigilant</sg>,;
+<sg>careful, heedful</sg>,;
+<sg>cautelous, stealthy, chary, shy of, circumspect, prudent, discreet, politic</sg>,;
+<sg>sure-footed ,<cref>698 <i>skillful</i></cref></sg>,;
+<sg>unenterprising, unadventurous, cool, steady, self-possessed</sg>,;
+<sg>overcautious</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>cautiously</sg>,;
+<sg>Int</sg>,;
+<sg>have a care!,</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>timeo Danaos</sg>,;
+<sg>festina lente</sg>,;
+<sg>ante victoriam ne canas triumphum, don't sing out victory before the triumph</sg>,;
+<sg>give, every man thine ear but few thy voice</sg>,;
+<sg>he who laughs last laughs best, il rit bien qui rit le dernier</sg>,;
+<sg>ni firmes carta que no leas ni bebas agua que no veas</sg>,;
+<sg>nescit vox missa reverti</sg>,;
+<sg>love all, trust a few</sg>,;
+<sg>noli irritare leones</sg>,;
+<sg>safe bind safe find</sg>,;
+<sg>if it ain't broke, don't fix it</sg>,;
+<br>
+</paragraph>

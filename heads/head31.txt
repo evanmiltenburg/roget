@@ -1,0 +1,51 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#3#</sectionNumber>
+<headword>#<b>#[001] #31# Mean #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>mean, </i>average</sg>,;
+<sg>median, mode</sg>,;
+<sg>balance, medium, mediocrity, generality</sg>,;
+<sg>golden mean ,<cref>628 <i>mid-course</i></cref></sg>,;
+<sg>middle ,<cref> 68 <i>precursor</i></cref></sg>,;
+<sg>compromise ,<cref> 774 <i>obedience</i></cref></sg>,;
+<sg>middle course, middle state</sg>,;
+<sg>neutrality</sg>,;
+<sg>mediocrity, least common denominator</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>split the difference</sg>,;
+<sg>take the average</sg>,;
+<sg>reduce to a mean</sg>,;
+<sg>strike a balance, pair off</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>mean, intermediate</sg>,;
+<sg>middle ,<cref> 68 <i>precursor</i></cref></sg>,;
+<sg>average</sg>,;
+<sg>neutral</sg>,;
+<sg>mediocre, middle-class</sg>,;
+<sg>commonplace ,<cref>643 <i>unimportant</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>on an average, in the long run</sg>,;
+<sg>taking one with another, taking all things together, taking it for all in all</sg>,;
+<sg>communibus annis, in round numbers</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>medium tenuere beati</sg>,;
+<br>
+</paragraph>

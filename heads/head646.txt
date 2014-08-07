@@ -1,0 +1,60 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#26#</sectionNumber>
+<headword>#<b>#[001] #646# Pretext #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>pretext, </i>pretense, pretension, plea</sg>,;
+<sg>allegation, advocation</sg>,;
+<sg>ostensible motive, ostensible ground, ostensible reason, phony reason</sg>,;
+<sg>excuse ,<cref>937 <i>vindication</i></cref></sg>,;
+<sg>subterfuge</sg>,;
+<sg>color</sg>,;
+<sg>gloss, guise, cover</sg>,;
+<sg>loop hole, starting hole</sg>,;
+<sg>how to creep out of, salvo, come off</sg>,;
+<sg>way of escape</sg>,;
+<sg>handle, peg to hang on, room locus standi</sg>,;
+<sg>stalking-horse, cheval de bataille, cue</sg>,;
+<sg>pretense ,<cref>546 <i>untruth</i></cref></sg>,;
+<sg>put off, dust thrown in the eyes</sg>,;
+<sg>blind</sg>,;
+<sg>moonshine</sg>,;
+<sg>mere pretext, shallow pretext</sg>,;
+<sg>lame excuse, lame apology</sg>,;
+<sg>tub to a whale</sg>,;
+<sg>false plea, sour grapes</sg>,;
+<sg>makeshift, shift, white lie</sg>,;
+<sg>special pleading ,<cref>477 <i>sophistry</i></cref></sg>,;
+<sg>soft sawder ,<cref>933 <i>flattery</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>pretend, plead, allege</sg>,;
+<sg>shelter oneself under the plea of</sg>,;
+<sg>excuse ,<cref>937 <i>vindicate</i></cref></sg>,;
+<sg>lend a color to</sg>,;
+<sg>furnish a handle</sg>,;
+<sg>make a pretext of, make a handle of</sg>,;
+<sg>use as a plea</sg>,;
+<sg>take one's stand upon, make capital out of, pretend ,<cref>544 <i>lie</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>ostensibly ,<cref>525 <i>manifest</i></cref></sg>,;
+<sg>alleged, apologetic</sg>,;
+<sg>pretended ,<cref> 545 <i>equivocalness</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>ostensibly</sg>,;
+<sg>under color</sg>,;
+<sg>under the plea, under the pretense of, under the guise of</sg>,;
+<br>
+</paragraph>

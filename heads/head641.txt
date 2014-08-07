@@ -1,0 +1,117 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#26#</sectionNumber>
+<headword>#<b>#[001] #641# Habit #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>habit, </i>habitude</sg>,;
+<sg>assuetude, assuefaction, wont</sg>,;
+<sg>run, way</sg>,;
+<sg>common state of things, general state of things, natural state of things, ordinary state of things, ordinary course of things, ordinary run of things</sg>,;
+<sg>matter of course</sg>,;
+<sg>beaten path, beaten track, beaten ground</sg>,;
+<sg>prescription, custom, use, usage, immemorial usage, practice</sg>,;
+<sg>prevalence, observance</sg>,;
+<sg>conventionalism, conventionality</sg>,;
+<sg>mode, fashion, vogue</sg>,;
+<sg>etiquette ,<cref>852 <i>gentility</i></cref></sg>,;
+<sg>order of the day, cry</sg>,;
+<sg>conformity ,<cref> 82 <i>generality</i></cref></sg>,;
+<sg>consuetude, dustoor</sg>,;
+<sg>one's old way, old school, veteris vestigia flammae</sg>,;
+<sg>laudator temporis acti</sg>,;
+<sg>rule, standing order, precedent, routine</sg>,;
+<sg>red-tape, red-tapism</sg>,;
+<sg>pipe clay</sg>,;
+<sg>rut, groove</sg>,;
+<sg>cacoethes</sg>,;
+<sg>bad habit, confirmed habit, inveterate habit, intrinsic habit </sg>,;
+<sg>addiction, trick</sg>,;
+<sg>training ,<cref>537 <i>education</i></cref></sg>,;
+<sg>seasoning, second nature, acclimatization</sg>,;
+<sg>knack </sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be wont</sg>,;
+<sg>fall into a rut, fall into a custom ,<cref>82 <i>conform to</i></cref></sg>,;
+<sg>tread the beaten track, follow the beaten track, tread the beaten path, follow the beaten</sg>,;
+<sg>stare super antiquas vias</sg>,;
+<sg>move in a rut, run on in a groove, go round like a horse in a mill, go on in the old jog trot way</sg>,;
+<sg>habituate, inure, harden, season, caseharden</sg>,;
+<sg>accustom, familiarize</sg>,;
+<sg>naturalize, acclimatize</sg>,;
+<sg>keep one's hand in</sg>,;
+<sg>train ,<cref>537 <i>educate</i></cref></sg>,;
+<sg>get into the way, get into the knack of</sg>,;
+<sg>learn ,<cref> 539 <i>analogy</i></cref></sg>,;
+<sg>cling to, adhere to</sg>,;
+<sg>repeat ,<cref> 104 <i>plurality </i></cref></sg>,;
+<sg>acquire a habit, contract a habit, fall into a habit, acquire a trick, contract a trick, fall into a trick</sg>,;
+<sg>addict oneself to, take to, get into</sg>,;
+<sg>be habitual</sg>,;
+<sg>prevail</sg>,;
+<sg>come into use, become a habit, take root</sg>,;
+<sg>gain upon one, grow upon one</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>habitual</sg>,;
+<sg>accustomary</sg>,;
+<sg>prescriptive, accustomed</sg>,;
+<sg>of daily occurrence, of everyday occurrence</sg>,;
+<sg>consuetudinary</sg>,;
+<sg>wonted, usual, general, ordinary, common, frequent, everyday, household, garden variety, jog, trot</sg>,;
+<sg>well-trodden, well-known</sg>,;
+<sg>familiar, vernacular, trite, commonplace, conventional, regular, set, stock, established, stereotyped</sg>,;
+<sg>prevailing, prevalent</sg>,;
+<sg>current, received, acknowledged, recognized, accredited</sg>,;
+<sg>of course, admitted, understood</sg>,;
+<sg>conformable</sg>,;
+<sg>,<cref> 82 <i>generality</i></cref></sg>,;
+<sg>according to use, according to custom, according to routine</sg>,;
+<sg>in vogue, in fashion, in, with it</sg>,;
+<sg>fashionable ,<cref>852 <i>genteel</i></cref></sg>,;
+<sg>wont</sg>,;
+<sg>used to, given to, addicted to, attuned to, habituated</sg>,;
+<sg>in the habit of</sg>,;
+<sg>habitue</sg>,;
+<sg>at home in ,<cref>698 <i>skillful</i></cref></sg>,;
+<sg>seasoned</sg>,;
+<sg>imbued with</sg>,;
+<sg>devoted to, wedded to</sg>,;
+<sg>hackneyed, fixed, rooted, deep-rooted, ingrafted, permanent, inveterate, besetting</sg>,;
+<sg>naturalized</sg>,;
+<sg>ingrained ,<cref>5 <i>intrinsic</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>habitually</sg>,;
+<sg>always ,<cref>16 <i>uniformly</i></cref></sg>,;
+<sg>as usual, as is one's wont, as things go, as the world goes, as the sparks fly upwards</sg>,;
+<sg>more suo, more solito</sg>,;
+<sg>ex more</sg>,;
+<sg>as a rule, for the most part</sg>,;
+<sg>usually, generally, typically</sg>,;
+<sg>most often, most frequently</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>cela s'entend</sg>,;
+<sg>abeunt studia in mores</sg>,;
+<sg>adeo in teneris consuescere multum est</sg>,;
+<sg>consuetudo quasi altera natura</sg>,;
+<sg>hoc erat in more majorum</sg>,;
+<sg>How use doth breed a habit in a man!</sg>,;
+<sg>magna est vis consuetudinis</sg>,;
+<sg>morent fecerat usus</sg>,;
+<br>
+</paragraph>

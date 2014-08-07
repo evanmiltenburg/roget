@@ -1,0 +1,70 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#38#</sectionNumber>
+<headword>#<b>#[001] #979# Vindication #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>vindication, </i>justification, warrant</sg>,;
+<sg>exoneration, exculpation</sg>,;
+<sg>acquittal ,<cref> 970 <i>respect</i></cref></sg>,;
+<sg>whitewashing</sg>,;
+<sg>extenuation</sg>,;
+<sg>palliation, palliative</sg>,;
+<sg>softening, mitigation</sg>,;
+<sg>reply, defense</sg>,;
+<sg>recrimination ,<cref> 938 <i>favorite</i></cref></sg>,;
+<sg>apology, gloss, varnish</sg>,;
+<sg>plea ,<cref> 617 <i>printing</i></cref></sg>,;
+<sg>salvo</sg>,;
+<sg>excuse, extenuating circumstances</sg>,;
+<sg>allowance, allowance to be made</sg>,;
+<sg>locus paenitentiae</sg>,;
+<sg>apologist, vindicator, justifier</sg>,;
+<sg>defendant ,<cref> 938 <i>favorite</i></cref></sg>,;
+<sg>justifiable charge, true bill</sg>,;
+<sg>v</sg>,;
+<sg>justify, warrant</sg>,;
+<sg>be an excuse for</sg>,;
+<sg>lend a color, furnish a handle</sg>,;
+<sg>vindicate</sg>,;
+<sg>exculpate, disculpate</sg>,;
+<sg>acquit ,<cref> 970 <i>respect</i></cref></sg>,;
+<sg>clear, set right, exonerate, whitewash</sg>,;
+<sg>clear the skirts of</sg>,;
+<sg>extenuate, palliate, excuse, soften, apologize, varnish, slur, gloze</sg>,;
+<sg>put a gloss, put a good face upon</sg>,;
+<sg>mince</sg>,;
+<sg>gloss over, bolster up, help a lame dog over a stile</sg>,;
+<sg>advocate, defend, plead one's cause</sg>,;
+<sg>stand up for, stick up for, speak up for</sg>,;
+<sg>contend for, speak for</sg>,;
+<sg>bear out, keep in countenance, support</sg>,;
+<sg>plead , 617</sg>,;
+<sg>say in defense</sg>,;
+<sg>plead ignorance</sg>,;
+<sg>confess and avoid, propugn, put in a good word for</sg>,;
+<sg>take the will for the deed, make allowance for, give credit for, do justice to</sg>,;
+<sg>give one his due, give the Devil his due</sg>,;
+<sg>make good</sg>,;
+<sg>prove the truth of, prove one's case</sg>,;
+<sg>be justified by the event</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>vindicated, vindicating</sg>,;
+<sg>exculpatory</sg>,;
+<sg>apologetic</sg>,;
+<sg>excusable, defensible, pardonable</sg>,;
+<sg>venial, veniable</sg>,;
+<sg>specious, plausible, justifiable</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>honi sot qui mal y pense</sg>,;
+<sg>good wine needs no bush</sg>,;
+<br>
+</paragraph>

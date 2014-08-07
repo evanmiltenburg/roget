@@ -1,0 +1,19 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#25#</sectionNumber>
+<headword>#<b>#[001] #579# Recorder #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>recorder, </i>notary, clerk</sg>,;
+<sg>registrar, registrary, register</sg>,;
+<sg>prothonotary</sg>,;
+<sg>amanuensis, secretary, scribe, babu, remembrancer, bookkeeper, custos rotulorum, Master of the Rolls</sg>,;
+<sg>annalist</sg>,;
+<sg>historian, historiographer</sg>,;
+<sg>chronicler, journalist</sg>,;
+<sg>biographer ,<cref>594 <i>narrator</i></cref></sg>,;
+<sg>antiquary ,<cref>122 <i>antiquity</i></cref></sg>,;
+<sg>memorialist</sg>,;
+<sg>interviewer</sg>,;
+<br>
+</paragraph>

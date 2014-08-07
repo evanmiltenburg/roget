@@ -1,0 +1,42 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#15#</sectionNumber>
+<headword>#<b>#[001] #428# Stridor #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>stridor, </i>creak</sg>,;
+<sg>creaking</sg>,;
+<sg>discord, ,<cref> 414 <i>odor</i></cref></sg>,;
+<sg>stridor</sg>,;
+<sg>roughness, sharpness,</sg>,;
+<sg>cacophony</sg>,;
+<sg>cacoepy</sg>,;
+<sg>acute note, high note</sg>,;
+<sg>soprano, treble, tenor, alto, falsetto, penny trumpet, voce di testa</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>creak, grate, jar, burr, pipe, twang, jangle, clank, clink</sg>,;
+<sg>scream ,<cref>411 <i>cry</i></cref></sg>,;
+<sg>yelp ,<cref>412 <i>animal sound</i></cref></sg>,;
+<sg>buzz ,<cref>409 <i>hiss</i></cref></sg>,;
+<sg>set the teeth on edge, corcher les oreilles</sg>,;
+<sg>pierce the ears, split the ears, split the head</sg>,;
+<sg>offend the ear, grate upon the ear, jar upon the ear</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>creaking</sg>,;
+<sg>stridulous, harsh, coarse, hoarse, horrisonous, rough, gruff, grum, sepulchral, hollow</sg>,;
+<sg>sharp, high, acute, shrill</sg>,;
+<sg>trumpet-toned</sg>,;
+<sg>piercing, ear-piercing, high-pitched, high-toned</sg>,;
+<sg>cracked</sg>,;
+<sg>discordant ,<cref> 414 <i>odor</i></cref></sg>,;
+<sg>cacophonous</sg>,;
+<br>
+</paragraph>

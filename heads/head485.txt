@@ -1,0 +1,28 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#17#</sectionNumber>
+<headword>#<b>#[001] #485# Incomparability #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>incomparability</i></sg>,;
+<sg>incommensurability</sg>,;
+<sg>indistinguishablility ,<cref> 465 <i>visibility</i></cref></sg>,;
+<sg>1</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>incommensurable, incommensurate</sg>,;
+<sg>incomparable</sg>,;
+<sg>different ,<cref> 15 <i>difference</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>like apples and oranges</sg>,;
+<sg>no basis for comparison</sg>,;
+<sg>no standard for comparison</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,64 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#35#</sectionNumber>
+<headword>#<b>#[001] #860# Sensibility #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>sensibility, </i>sensibleness, sensitiveness</sg>,;
+<sg>moral sensibility</sg>,;
+<sg>impressibility, affectibility</sg>,;
+<sg>susceptibleness, susceptibility, susceptivity</sg>,;
+<sg>mobility</sg>,;
+<sg>vivacity, vivaciousness</sg>,;
+<sg>tenderness, softness</sg>,;
+<sg>sentimental, sentimentality</sg>,;
+<sg>sentimentalism</sg>,;
+<sg>excitability ,<cref> 825 <i>thief</i></cref></sg>,;
+<sg>fastidiousness ,<cref> 868 <i>painfulness</i></cref></sg>,;
+<sg>physical sensibility ,<cref> 375 <i>interment</i></cref></sg>,;
+<sg>sore point, sore place</sg>,;
+<sg>where the shoe pinches</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be sensible</sg>,;
+<sg>have a tender heart, have a warm heart, have a sensitive heart</sg>,;
+<sg>take to heart, treasure up in the heart</sg>,;
+<sg>shrink</sg>,;
+<sg>die of a rose in aromatic pain</sg>,;
+<sg>touch to the quick</sg>,;
+<sg>touch on the raw, touch a raw nerve</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>sensible, sensitive</sg>,;
+<sg>impressible, impressionable</sg>,;
+<sg>susceptive, susceptible</sg>,;
+<sg>alive to, impassionable, gushing</sg>,;
+<sg>warm hearted, tender hearted, soft hearted</sg>,;
+<sg>tender as a chicken</sg>,;
+<sg>soft, sentimental, romantic</sg>,;
+<sg>enthusiastic, highflying, spirited, mettlesome, vivacious, lively, expressive, mobile, tremblingly alive</sg>,;
+<sg>excitable ,<cref> 825 <i>thief</i></cref></sg>,;
+<sg>oversensitive, without skin, thin-skinned</sg>,;
+<sg>fastidious ,<cref> 868 <i>painfulness</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>sensibly</sg>,;
+<sg>to the quick, to the inmost core</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>mens aequa in arduis</sg>,;
+<sg>pour salt in the wound</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,47 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#24#</sectionNumber>
+<headword>#<b>#[001] #556# Ambush #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>ambush, </i>camouflage</sg>,;
+<sg>mimicry</sg>,;
+<sg>hiding place</sg>,;
+<sg>secret place, secret drawer</sg>,;
+<sg>recess, hold, holes and corners</sg>,;
+<sg>closet, crypt, adytum, abditory, oubliette</sg>,;
+<sg>ambush, ambuscade</sg>,;
+<sg>stalking horse</sg>,;
+<sg>lurking hole, lurking place</sg>,;
+<sg>secret path, back stairs</sg>,;
+<sg>retreat ,<cref>666 <i>refuge</i></cref></sg>,;
+<sg>screen, cover, shade, blinker</sg>,;
+<sg>veil, curtain, blind, cloak, cloud</sg>,;
+<sg>mask, visor, vizor, disguise, masquerade dress, domino</sg>,;
+<sg>pitfall ,<cref>667 <i>source of danger</i></cref></sg>,;
+<sg>trap ,<cref>545 <i>snare</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>blend in, blend into the background</sg>,;
+<sg>lie in ambush ,<cref>528 <i>hide oneself</i></cref></sg>,;
+<sg>lie in wait for, lurk</sg>,;
+<sg>set a trap for ,<cref>545 <i>deceive</i></cref></sg>,;
+<sg>ambuscade, ambush</sg>,;
+<sg>camouflage</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>camouflaged, hidden, concealed</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>aux aguets</sg>,;
+<br>
+</paragraph>

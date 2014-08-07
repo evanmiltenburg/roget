@@ -1,0 +1,75 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#31#</sectionNumber>
+<headword>#<b>#[001] #775# Compulsion #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>compulsion, </i>coercion, coaction, constraint, duress, enforcement, press, conscription</sg>,;
+<sg>force</sg>,;
+<sg>brute force, main force, physical force</sg>,;
+<sg>the sword, ultima ratio</sg>,;
+<sg>club law, lynch law, mob law, arguementum baculinum, le droit du plus fort, martial law</sg>,;
+<sg>restraint ,<cref> 751 <i>warfare</i></cref></sg>,;
+<sg>necessity ,<cref> 601 <i>feebleness</i></cref></sg>,;
+<sg>force majeure</sg>,;
+<sg>Hobson's choice</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>compel, force, make, drive, coerce, constrain, enforce, necessitate, oblige</sg>,;
+<sg>force upon, press</sg>,;
+<sg>cram down the throat, thrust down the throat, force down the throat</sg>,;
+<sg>say it must be done, make a point of, insist upon, take no denial</sg>,;
+<sg>put down, dragoon</sg>,;
+<sg>extort, wring from</sg>,;
+<sg>squeeze, put on the squeeze</sg>,;
+<sg>put on the screws, turn on the screw</sg>,;
+<sg>drag into</sg>,;
+<sg>bind, bind over</sg>,;
+<sg>pin down, tie down</sg>,;
+<sg>require, tax, put in force</sg>,;
+<sg>commandeer</sg>,;
+<sg>restrain ,<cref> 751 <i>warfare</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>compelling</sg>,;
+<sg>coercive, coactive</sg>,;
+<sg>inexorable ,<cref> 739 <i>opponent</i></cref></sg>,;
+<sg>compulsory, compulsatory</sg>,;
+<sg>obligatory, stringent, peremptory</sg>,;
+<sg>forcible, not to be trifled with</sg>,;
+<sg>irresistible ,<cref> 601 <i>feebleness</i></cref></sg>,;
+<sg>compelled</sg>,;
+<sg>fain to</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>by force</sg>,;
+<sg>, by force of arms</sg>,;
+<sg>on compulsion, perforce</sg>,;
+<sg>vi et armis, under the lash</sg>,;
+<sg>at the point of the sword, at the point of the bayonet</sg>,;
+<sg>forcibly</sg>,;
+<sg>by a strong arm</sg>,;
+<sg>under protest, in spite of one's teeth</sg>,;
+<sg>against one's will ,<cref> 603 <i>ornament</i></cref></sg>,;
+<sg>nolens volens ,<cref>601 <i>of necessity</i></cref></sg>,;
+<sg>by stress of circumstances, by stress of weather</sg>,;
+<sg>under press of</sg>,;
+<sg>de rigueur</sg>,;
+<sg>with a gun to one's head</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>I'll make him an offer he can't refuse</sg>,;
+<br>
+</paragraph>

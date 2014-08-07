@@ -1,0 +1,86 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#15#</sectionNumber>
+<headword>#<b>#[001] #371# Life #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>life, </i>vitality, viability</sg>,;
+<sg>animation</sg>,;
+<sg>vital spark, vital flame, soul, spirit</sg>,;
+<sg>respiration, wind</sg>,;
+<sg>breath of life, breath of one's nostrils</sg>,;
+<sg>oxygen, air</sg>,;
+<sg>respirator, artificial respirator, heart and lung machine, iron lung</sg>,;
+<sg>medical devices ,<cref> 662 <i>instrument</i></cref></sg>,;
+<sg>lifeblood</sg>,;
+<sg>Archeus</sg>,;
+<sg>existence ,<cref> 1 <i>existence</i></cref></sg>,;
+<sg>vivification</sg>,;
+<sg>vital force</sg>,;
+<sg>vitalization</sg>,;
+<sg>revivification ,<cref> 163 <i>chance</i></cref></sg>,;
+<sg>Prometheus</sg>,;
+<sg>life to come ,<cref>152 <i>destiny</i></cref></sg>,;
+<sg>physiology, biology</sg>,;
+<sg>animal ecology</sg>,;
+<sg>nourishment, staff of life ,<cref>298 <i>food</i></cref></sg>,;
+<sg>genetics, heredity, inheritance, evolution, natural selection, reproduction (production) 161</sg>,;
+<sg>microbe, aerobe, anaerobe, facultative anaerobe, obligate aerobe, obligate anaerobe, halophile, methanogen, archaebacteria, microaerophile</sg>,;
+<sg>animal ,<cref> 366 <i>unctuousness</i></cref></sg>,;
+<sg>vegetable ,<cref> 367 <i>oil</i></cref></sg>,;
+<sg>artificial life, robot, robotics, artificial intelligence</sg>,;
+<sg>breathing, breathing rate, heartbeat, pulse, temperature</sg>,;
+<sg>preservation of life, healing (medicine) 662</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be alive</sg>,;
+<sg>live, breathe, respire</sg>,;
+<sg>subsist ,<cref>1 <i>exist</i></cref></sg>,;
+<sg>walk the earth, strut and fret one's hour upon the stage</sg>,;
+<sg>be spared</sg>,;
+<sg>see the light, be born, come into the world, fetch breath, draw breath, fetch the breath of life, draw the breath of life</sg>,;
+<sg>quicken</sg>,;
+<sg>revive</sg>,;
+<sg>come to life</sg>,;
+<sg>give birth to ,<cref>161 <i>produce</i></cref></sg>,;
+<sg>bring to life, put into life, vitalize</sg>,;
+<sg>vivify, vivificate</sg>,;
+<sg>reanimate ,<cref>660 <i>restore</i></cref></sg>,;
+<sg>keep alive, keep body and soul together, keep the wolf from the door</sg>,;
+<sg>support life</sg>,;
+<sg>hive nine lives like a cat</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>living, alive</sg>,;
+<sg>in life, in the flesh, in the land of the living</sg>,;
+<sg>on this side of the grave, above ground, breathing, quick, animated</sg>,;
+<sg>animative</sg>,;
+<sg>lively ,<cref>682 <i>active</i></cref></sg>,;
+<sg>all alive and kicking</sg>,;
+<sg>tenacious of life</sg>,;
+<sg>full of life, yeasty</sg>,;
+<sg>vital, vitalic</sg>,;
+<sg>vivifying, vivified,</sg>,;
+<sg>viable, zoetic</sg>,;
+<sg>Promethean</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>vivendi causa</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>atqui vivere militare est</sg>,;
+<sg>non est vivere sed valere vita</sg>,;
+<br>
+</paragraph>

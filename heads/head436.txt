@@ -1,0 +1,61 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#15#</sectionNumber>
+<headword>#<b>#[001] #436# Hearing #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>hearing</i></sg>,;
+<sg>audition, auscultation</sg>,;
+<sg>eavesdropping</sg>,;
+<sg>audibility</sg>,;
+<sg>acute ear, nice ear, delicate ear, quick ear, sharp ear, correct ear, musical ear</sg>,;
+<sg>ear for music</sg>,;
+<sg>ear, auricle, lug, acoustic organs, auditory apparatus</sg>,;
+<sg>eardrum, tympanum, tympanic membrane</sg>,;
+<sg>ear trumpet, speaking trumpet, hearing aid, stethoscope</sg>,;
+<sg>earshot, hearing distance, hearing, hearing range, sound, carrying distance</sg>,;
+<sg>telephone, phone, telephone booth, intercom, house phone, radiotelephone, radiophone, wireless, wireless telephone, mobile telephone, car radio, police radio, two-way radio, walkie-talkie, handie-talkie, citizen's band, CB, amateur radio, ham radio, short-wave radio, police band, ship-to-shore radio, airplane radio, control tower communication</sg>,;
+<sg>(communication) 525, 527, 529, 531, 532</sg>,;
+<sg>electronic devices, phonograph, gramophone, megaphone, phonorganon</sg>,;
+<sg>microphone, directional microphone, mike, hand mike, lapel microphone</sg>,;
+<sg>phonograph needle, stylus, diamond stylus, pickup</sg>,;
+<sg>reading head (electronic devices)</sg>,;
+<sg>hearer, auditor, listener, eavesdropper, listener-in</sg>,;
+<sg>auditory, audience</sg>,;
+<sg>otology, otorhinolaryngology</sg>,;
+<sg>otologist, otorhinolaryngologist</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>hear, overhear</sg>,;
+<sg>hark, harken</sg>,;
+<sg>list, listen, pay attention, take heed</sg>,;
+<sg>give an ear, lend an ear, bend an ear</sg>,;
+<sg>catch, catch a sound, prick up one's ears</sg>,;
+<sg>give ear, give a hearing, give audience to</sg>,;
+<sg>hang upon the lips of, be all ears, listen with both ears</sg>,;
+<sg>become audible</sg>,;
+<sg>meet the ear, fall upon the ear, catch the ear, reach the ear</sg>,;
+<sg>be heard</sg>,;
+<sg>ring in the ear ,<cref>408 <i>resound</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>hearing</sg>,;
+<sg>auditory, auricular, acoustic</sg>,;
+<sg>phonic</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>arrectis auribus</sg>,;
+<sg>Int</sg>,;
+<sg>hark, hark ye!, hear!, list, listen!, O yes!, Oyez!, listen up</sg>,;
+<sg>listen here!, hear ye!, attention!, achtung</sg>,;
+<br>
+</paragraph>

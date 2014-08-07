@@ -1,0 +1,31 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#37#</sectionNumber>
+<headword>#<b>#[001] #955# Pitilessness #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>pitilessness</i></sg>,;
+<sg>inclemency</sg>,;
+<sg>severity ,<cref> 739 <i>opponent</i></cref></sg>,;
+<sg>malevolence ,<cref> 907 <i>fastidiousness</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>have no mercy, shut the gates of mercy ,<cref> 914 <i>nobility</i></cref></sg>,;
+<sg>give no quarter</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>pitiless, merciless, ruthless, bowelless</sg>,;
+<sg>unpitying, unmerciful, inclement</sg>,;
+<sg>grim-faced, grim-visaged</sg>,;
+<sg>incompassionate, uncompassionate</sg>,;
+<sg>inexorable</sg>,;
+<sg>harsh ,<cref> 739 <i>opponent</i></cref></sg>,;
+<sg>unrelenting ,<cref> 919 <i>vanity</i></cref></sg>,;
+<br>
+</paragraph>

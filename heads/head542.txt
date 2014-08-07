@@ -1,0 +1,52 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#23#</sectionNumber>
+<headword>#<b>#[001] #542# Unmeaningness #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>meaninglessness, unmeaningness</sg>,;
+<sg>scrabble</sg>,;
+<sg>empty sound, dead letter, vox et praeterea nihil</sg>,;
+<sg>a tale told by an idiot, full of sound and fury, signifying nothing</sg>,;
+<sg>sounding brass and a tinkling cymbal</sg>,;
+<sg>nonsense, utter nonsense, gibberish</sg>,;
+<sg>jargon, jabber, mere words, hocus-pocus, fustian, rant, bombast, balderdash, palaver, flummery, verbiage, babble, baverdage, baragouin, platitude, niaiserie</sg>,;
+<sg>inanity</sg>,;
+<sg>flap-doodle</sg>,;
+<sg>rigmarole, rodomontade</sg>,;
+<sg>truism</sg>,;
+<sg>nugae canorae</sg>,;
+<sg>twaddle, twattle, fudge, trash, garbage, humbug</sg>,;
+<sg>poppy-cock</sg>,;
+<sg>stuff, stuff and nonsense</sg>,;
+<sg>bosh, rubbish, moonshine, wish-wash, fiddle- faddle</sg>,;
+<sg>absurdity ,<cref> 497 <i>certainty</i></cref></sg>,;
+<sg>vagueness ,<cref>519 <i>unintelligibility</i></cref></sg>,;
+<sg>boilerplate, clich_¬</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>mean nothing</sg>,;
+<sg>be unmeaning</sg>,;
+<sg>twaddle, quibble, scrabble</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>unmeaning</sg>,;
+<sg>meaningless, senseless</sg>,;
+<sg>nonsensical</sg>,;
+<sg>void of sense ,<cref> 516 <i>scholar</i></cref></sg>,;
+<sg>inexpressive, unexpressive</sg>,;
+<sg>vacant</sg>,;
+<sg>not significant ,<cref> 516 <i>scholar</i></cref></sg>,;
+<sg>insignificant</sg>,;
+<sg>trashy, washy, trumpery, trivial, fiddle-faddle, twaddling, quibbling</sg>,;
+<sg>unmeant, not expressed</sg>,;
+<sg>tacit ,<cref>526 <i>latent</i></cref></sg>,;
+<sg>inexpressible, undefinable, incommunicable</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,71 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#21#</sectionNumber>
+<headword>#<b>#[001] #534# Foresight #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>foresight, </i>prospicience, prevision, long- sightedness</sg>,;
+<sg>anticipation</sg>,;
+<sg>providence ,<cref>673 <i>preparation</i></cref></sg>,;
+<sg>forethought, forecast</sg>,;
+<sg>predeliberation, presurmise</sg>,;
+<sg>foregone conclusion ,<cref>481 <i>prejudgment</i></cref></sg>,;
+<sg>prudence ,<cref>864 <i>caution</i></cref></sg>,;
+<sg>foreknowledge</sg>,;
+<sg>prognosis</sg>,;
+<sg>precognition, prescience, prenotion, presentiment</sg>,;
+<sg>second sight</sg>,;
+<sg>sagacity ,<cref>498 <i>intelligence</i></cref></sg>,;
+<sg>antepast, prelibation, prophasis</sg>,;
+<sg>prospect ,<cref>507 <i>expectation</i></cref></sg>,;
+<sg>foretaste</sg>,;
+<sg>prospectus ,<cref>626 <i>plan</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>foresee</sg>,;
+<sg>look forwards to, look ahead, look beyond</sg>,;
+<sg>scent from afar</sg>,;
+<sg>look into the future, pry into the future, peer into the future</sg>,;
+<sg>see one's way</sg>,;
+<sg>see how the land lies, get the lay of the land, see how the wind blows, test the waters, see how the cat jumps</sg>,;
+<sg>anticipate</sg>,;
+<sg>expect ,<cref> 507 <i>underestimation</i></cref></sg>,;
+<sg>be beforehand ,<cref>132 <i>early</i></cref></sg>,;
+<sg>predict ,<cref> 511 <i>incredulity</i></cref></sg>,;
+<sg>foreknow, forejudge, forecast</sg>,;
+<sg>presurmise</sg>,;
+<sg>have an eye to the future, have an eye to the main chance</sg>,;
+<sg>respicere finem</sg>,;
+<sg>keep a sharp lookout ,<cref>459 <i>vigilance</i></cref></sg>,;
+<sg>forewarn ,<cref> 668 <i>sufficiency</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>foreseeing</sg>,;
+<sg>prescient</sg>,;
+<sg>farseeing, farsighted</sg>,;
+<sg>sagacious ,<cref>498 <i>intelligent</i></cref></sg>,;
+<sg>weatherwise</sg>,;
+<sg>provident ,<cref>673 <i>prepared</i></cref></sg>,;
+<sg>prospective ,<cref> 507 <i>underestimation</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>against the time when</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>cernit omnia Deus vindex</sg>,;
+<sg>mihi cura futuri</sg>,;
+<sg>run it up the flagpole and see who salutes</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,71 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#6#</sectionNumber>
+<headword>#<b>#[001] #127# Futurity #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>futurity, </i>futurition</sg>,;
+<sg>future, hereafter, time to come</sg>,;
+<sg>approaching time, coming time, subsequent time, after time, approaching age, coming age, subsequent age, after age, approaching days, coming days, subsequent days, after days, approaching hours, coming hours, subsequent hours, after hours, approaching ages, coming ages, subsequent ages, after ages, approaching life, coming life, subsequent life, after life, approaching years, coming years, subsequent years, after years</sg>,;
+<sg>morrow</sg>,;
+<sg>millennium, doomsday, day of judgment, crack of doom, remote future</sg>,;
+<sg>approach of time advent, time drawing on, womb of time</sg>,;
+<sg>destiny ,<cref> 152 <i>reversion</i></cref></sg>,;
+<sg>eventuality</sg>,;
+<sg>heritage, heirs posterity</sg>,;
+<sg>prospect ,<cref>507 <i>expectation</i></cref></sg>,;
+<sg>foresight ,<cref> 510 <i>credulity</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>look forwards</sg>,;
+<sg>anticipate ,<cref>510 <i>expect) 507, (foresee</i></cref></sg>,;
+<sg>forestall ,<cref>132 <i>be early</i></cref></sg>,;
+<sg>come on, draw on</sg>,;
+<sg>draw near</sg>,;
+<sg>approach, await, threaten</sg>,;
+<sg>impend ,<cref>152 <i>be destined</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>future, to come</sg>,;
+<sg>coming ,<cref>152 <i>impending</i></cref></sg>,;
+<sg>next, near</sg>,;
+<sg>close at hand</sg>,;
+<sg>eventual, ulterior</sg>,;
+<sg>in prospect ,<cref>507 <i>expectation</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>prospectively, hereafter, in future</sg>,;
+<sg>kal, tomorrow, the day after tomorrow</sg>,;
+<sg>in course of time, in process of time, in the fullness of time</sg>,;
+<sg>eventually, ultimately, sooner or later</sg>,;
+<sg>proximo</sg>,;
+<sg>paulo post futurum</sg>,;
+<sg>in after time</sg>,;
+<sg>one of these days</sg>,;
+<sg>after a time, after a while</sg>,;
+<sg>from this time</sg>,;
+<sg>henceforth, henceforwards</sg>,;
+<sg>thence</sg>,;
+<sg>thenceforth, thenceforward</sg>,;
+<sg>whereupon, upon which</sg>,;
+<sg>soon ,<cref>132 <i>early</i></cref></sg>,;
+<sg>on the eve of, on the point of, on the brink of</sg>,;
+<sg>about to</sg>,;
+<sg>close upon</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>quid sit futurum cras fuge quaerere</sg>,;
+<br>
+</paragraph>

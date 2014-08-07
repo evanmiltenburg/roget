@@ -1,0 +1,63 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#8#</sectionNumber>
+<headword>#<b>#[001] #161# Effect #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>effect, </i>consequence</sg>,;
+<sg>aftergrowth, aftercome</sg>,;
+<sg>derivative, derivation</sg>,;
+<sg>result</sg>,;
+<sg>resultant, resultance</sg>,;
+<sg>upshot, issue, denouement</sg>,;
+<sg>end ,<cref> 67 <i>sequence</i></cref></sg>,;
+<sg>development, outgrowth, fruit, crop, harvest, product, bud</sg>,;
+<sg>production, produce, work, handiwork, fabric, performance</sg>,;
+<sg>creature, creation</sg>,;
+<sg>offspring, offshoot</sg>,;
+<sg>firstfruits, firstlings</sg>,;
+<sg>heredity, telegony</sg>,;
+<sg>premices premises</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be the effect of</sg>,;
+<sg>be due to, be owing to</sg>,;
+<sg>originate in, originate from</sg>,;
+<sg>rise from, arise, take its rise spring from, proceed from, emanate from, come from, grow from, bud from, sprout from, germinate from, issue from, flow from, result from, follow from, derive its origin from, accrue from</sg>,;
+<sg>come to, come of, come out of</sg>,;
+<sg>depend upon, hang upon, hinge upon, turn upon</sg>,;
+<sg>take the consequences, sow the wind and reap the whirlwind</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>owing to</sg>,;
+<sg>resulting from</sg>,;
+<sg>derivable from</sg>,;
+<sg>due to</sg>,;
+<sg>caused by ,<cref> 153 <i>revolution</i></cref></sg>,;
+<sg>dependent upon</sg>,;
+<sg>derived from, evolved from</sg>,;
+<sg>derivative</sg>,;
+<sg>hereditary</sg>,;
+<sg>telegonous</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>of course, it follows that, naturally, consequently</sg>,;
+<sg>as a consequence, in consequence</sg>,;
+<sg>through, all along of, necessarily, eventually</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>cela va sans dire, thereby hangs a tale</sg>,;
+<br>
+</paragraph>

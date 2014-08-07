@@ -1,0 +1,39 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#27#</sectionNumber>
+<headword>#<b>#[001] #685# Salubrity #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>salubrity</i></sg>,;
+<sg>healthiness</sg>,;
+<sg>fine air, fine climate</sg>,;
+<sg>eudiometer</sg>,;
+<sg>hygiene</sg>,;
+<sg>valetudinarian, valetudinarianism</sg>,;
+<sg>sanitarian</sg>,;
+<sg>sanitarium, sanitOrium</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be salubrious</sg>,;
+<sg>agree with</sg>,;
+<sg>assimilate ,<cref> 23 <i>copy</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>salubrious, salutary, salutiferous</sg>,;
+<sg>wholesome</sg>,;
+<sg>healthy, healthful</sg>,;
+<sg>sanitary, prophYlactic, benign, bracing, tonic, invigorating, good for, nutritious</sg>,;
+<sg>hygeian, hygienic</sg>,;
+<sg>innoxious, innocuous, innocent</sg>,;
+<sg>harmless, uninjurious, uninfectious</sg>,;
+<sg>sanative ,<cref>662 <i>remedial</i></cref></sg>,;
+<sg>restorative ,<cref>660 <i>reinstate</i></cref></sg>,;
+<sg>useful ,<cref> 644 <i>absence of motive</i></cref></sg>,;
+<br>
+</paragraph>

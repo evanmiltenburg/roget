@@ -1,0 +1,28 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#38#</sectionNumber>
+<headword>#<b>#[001] #1017# Penalty #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>penalty</i></sg>,;
+<sg>retribution ,<cref>972 <i>punishment</i></cref></sg>,;
+<sg>pain, pains and penalties</sg>,;
+<sg>weregild, wergild</sg>,;
+<sg>peine forte et dure</sg>,;
+<sg>penance ,<cref>952 <i>atonement</i></cref></sg>,;
+<sg>the devil to pay</sg>,;
+<sg>fine, mulct, amercement</sg>,;
+<sg>forfeit, forfeiture</sg>,;
+<sg>escheat, damages, deodand, sequestration, confiscation, premunire</sg>,;
+<sg>doomage</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>fine, mulct, amerce, sconce, confiscate</sg>,;
+<sg>sequestrate, sequester</sg>,;
+<sg>escheat</sg>,;
+<sg>estreat, forfeit</sg>,;
+<br>
+</paragraph>

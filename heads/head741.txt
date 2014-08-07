@@ -1,0 +1,70 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#29#</sectionNumber>
+<headword>#<b>#[001] #741# Party #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>party, </i>faction, side, denomination, communion, set, crew, band</sg>,;
+<sg>horde, posse, phalanx</sg>,;
+<sg>family, clan, ,<cref> 166 <i>strength</i></cref></sg>,;
+<sg>team</sg>,;
+<sg>tong</sg>,;
+<sg>council ,<cref> 696 <i>pitfall</i></cref></sg>,;
+<sg>community, body, fellowship, sodality, solidarity</sg>,;
+<sg>confraternity</sg>,;
+<sg>familistere, familistery</sg>,;
+<sg>brotherhood, sisterhood</sg>,;
+<sg>knot, gang, clique, ring, circle, group, crowd, in-crowd</sg>,;
+<sg>coterie, club, casino</sg>,;
+<sg>machine</sg>,;
+<sg>Tammany, Tammany Hall</sg>,;
+<sg>corporation, corporate body, guild</sg>,;
+<sg>establishment, company</sg>,;
+<sg>copartnership, partnership</sg>,;
+<sg>firm, house</sg>,;
+<sg>joint concern, joint-stock company</sg>,;
+<sg>cahoot, combine, trust</sg>,;
+<sg>society, association</sg>,;
+<sg>institute, institution</sg>,;
+<sg>union</sg>,;
+<sg>trades union</sg>,;
+<sg>league, syndicate, alliance, Verein, Bund, Zollverein, combination</sg>,;
+<sg>Turnverein</sg>,;
+<sg>league offensive and defensive, alliance offensive and defensive</sg>,;
+<sg>coalition</sg>,;
+<sg>federation</sg>,;
+<sg>confederation, confederacy</sg>,;
+<sg>junto, cabal, camarilla, camorra, brigue</sg>,;
+<sg>freemasonry</sg>,;
+<sg>party spirit ,<cref>709 <i>cooperation</i></cref></sg>,;
+<sg>Confederates, Conservatives, Democrats, Federalists, Federals, Freemason, Knight Templar</sg>,;
+<sg>Kuklux, Kuklux Klan, KKK</sg>,;
+<sg>Liberals, Luddites, Republicans, Socialists, Tories, Whigs  staff</sg>,;
+<sg>dramatis personae</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>unite, join</sg>,;
+<sg>club together ,<cref>709 <i>cooperate</i></cref></sg>,;
+<sg>cement a party, form a party</sg>,;
+<sg>associate ,<cref>72 <i>assemble</i></cref></sg>,;
+<sg>enleague, federalize, go cahoots</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>in league, in partnership, in alliance</sg>,;
+<sg>bonded together, banded together, linked ,<cref>43 <i>joined</i></cref>, joined together</sg>,;
+<sg>embattled</sg>,;
+<sg>confederated, federative, joint</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>hand in hand, side by side, shoulder to shoulder, en masse, in the same boat</sg>,;
+<br>
+</paragraph>

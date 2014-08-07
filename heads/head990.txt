@@ -1,0 +1,31 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#38#</sectionNumber>
+<headword>#<b>#[001] #990# Good Man #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>good man, </i>honest man, worthy</sg>,;
+<sg>good woman, perfect lady, Madonna</sg>,;
+<sg>model, paragon ,<cref>650 <i>perfection</i></cref></sg>,;
+<sg>good example</sg>,;
+<sg>hero, heroine, demigod, seraph, angel</sg>,;
+<sg>innocent ,<cref> 946 <i>benevolence</i></cref></sg>,;
+<sg>saint ,<cref>987 <i>piety</i></cref></sg>,;
+<sg>benefactor ,<cref> 912 <i>repute</i></cref></sg>,;
+<sg>philanthropist ,<cref> 910 <i>expectance</i></cref></sg>,;
+<sg>Aristides</sg>,;
+<sg>noble liver, pattern</sg>,;
+<sg>brick, trump, gem, jewel, good fellow, prince, diamond in the rough, rough diamond, ugly duckling</sg>,;
+<sg>salt of the earth</sg>,;
+<sg>one in ten thousand</sg>,;
+<sg>one in a million</sg>,;
+<sg>a gentleman and a scholar</sg>,;
+<sg>pillar of society, pillar of the community, a man among men</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>si sic omnes!</sg>,;
+<br>
+</paragraph>

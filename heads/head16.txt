@@ -1,0 +1,58 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#2#</sectionNumber>
+<headword>#<b>#[001] #16# Uniformity #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>uniformity</i></sg>,;
+<sg>homogeneity, homogeneousness</sg>,;
+<sg>consistency</sg>,;
+<sg>connaturality, connaturalness</sg>,;
+<sg>homology</sg>,;
+<sg>accordance</sg>,;
+<sg>conformity ,<cref> 82 <i>generality</i></cref></sg>,;
+<sg>agreement ,<cref> 23 <i>copy</i></cref></sg>,;
+<sg>consonance, uniformness</sg>,;
+<sg>regularity, constancy, even tenor, routine</sg>,;
+<sg>monotony</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be uniform</sg>,;
+<sg>accord with ,<cref> 23 <i>copy</i></cref></sg>,;
+<sg>run through</sg>,;
+<sg>become uniform</sg>,;
+<sg>conform to ,<cref> 82 <i>generality</i></cref></sg>,;
+<sg>render uniform, homogenize</sg>,;
+<sg>assimilate, level, smooth, dress</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>uniform</sg>,;
+<sg>homogeneous, homologous</sg>,;
+<sg>of a piece, consistent, connatural</sg>,;
+<sg>monotonous, even, invariable</sg>,;
+<sg>regular, unchanged, undeviating, unvaried, unvarying</sg>,;
+<sg>unsegmented</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>uniformly</sg>,;
+<sg>uniformly with ,<cref>82 <i>conformably</i></cref></sg>,;
+<sg>in harmony with ,<cref>23 <i>agreeing</i></cref></sg>,;
+<sg>always, invariably, without exception, without fail, unfailingly, never otherwise</sg>,;
+<sg>by clockwork</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>ab uno disce omnes</sg>,;
+<br>
+</paragraph>

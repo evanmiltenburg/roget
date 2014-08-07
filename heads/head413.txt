@@ -1,0 +1,42 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#15#</sectionNumber>
+<headword>#<b>#[001] #413# Sourness #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>sourness</i></sg>,;
+<sg>acid, acidity, low pH</sg>,;
+<sg>acetous fermentation, lactic fermentation</sg>,;
+<sg>vinegar, verjuice, crab, alum</sg>,;
+<sg>acetic acid, lactic acid</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be sour</sg>,;
+<sg>sour, turn sour</sg>,;
+<sg>set the teeth on edge</sg>,;
+<sg>render sour</sg>,;
+<sg>acidify, acidulate</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>sour</sg>,;
+<sg>acid, acidulous, acidulated</sg>,;
+<sg>tart, crabbed</sg>,;
+<sg>acetous, acetose</sg>,;
+<sg>acerb, acetic</sg>,;
+<sg>sour as vinegar, sourish, acescent, subacid</sg>,;
+<sg>styptic, hard, rough</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>sour as a lemon</sg>,;
+<sg>(4) Odor</sg>,;
+<br>
+</paragraph>

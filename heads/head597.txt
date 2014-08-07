@@ -1,0 +1,23 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#25#</sectionNumber>
+<headword>#<b>#[001] #597# Obscurity #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>obscurity</i> ,<cref>519 <i>unintelligibility</i></cref></sg>,;
+<sg>involution</sg>,;
+<sg>hard words</sg>,;
+<sg>ambiguity ,<cref> 520 <i>maxim</i></cref></sg>,;
+<sg>unintelligibleness</sg>,;
+<sg>vagueness &c 475, inexactness ,<cref> 495 <i>probability</i></cref></sg>,;
+<sg>what d'ye call 'em ,<cref>563 <i>neologism</i></cref></sg>,;
+<sg>darkness of meaning</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>obscure</sg>,;
+<sg>crabbed, involved, confused</sg>,;
+<br>
+</paragraph>

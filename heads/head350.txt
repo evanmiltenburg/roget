@@ -1,0 +1,47 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#14#</sectionNumber>
+<headword>#<b>#[001] #350# Moisture #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>moisture</i></sg>,;
+<sg>moistness</sg>,;
+<sg>humidity, humectation</sg>,;
+<sg>madefaction, dew</sg>,;
+<sg>serein</sg>,;
+<sg>marsh ,<cref> 345 <i>gaseity</i></cref></sg>,;
+<sg>hygrometry, hygrometer</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>moisten, wet</sg>,;
+<sg>humect, humectate</sg>,;
+<sg>sponge, damp, bedew</sg>,;
+<sg>imbue, imbrue, infiltrate, saturate</sg>,;
+<sg>soak, drench ,<cref>337 <i>water</i></cref></sg>,;
+<sg>be moist</sg>,;
+<sg>not have a dry thread</sg>,;
+<sg>perspire ,<cref>295 <i>exude</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>moist, damp</sg>,;
+<sg>watery ,<cref> 337 <i>inelasticity</i></cref></sg>,;
+<sg>madid, roric</sg>,;
+<sg>undried, humid, sultry, wet, dank, luggy, dewy</sg>,;
+<sg>roral, rorid</sg>,;
+<sg>roscid</sg>,;
+<sg>juicy</sg>,;
+<sg>wringing wet, soaking wet</sg>,;
+<sg>wet through to the skin</sg>,;
+<sg>saturated</sg>,;
+<sg>swashy, soggy, dabbled</sg>,;
+<sg>reeking, dripping, soaking, soft, sodden, sloppy, muddy</sg>,;
+<sg>swampy ,<cref>345 <i>marshy</i></cref></sg>,;
+<sg>irriguous</sg>,;
+<br>
+</paragraph>

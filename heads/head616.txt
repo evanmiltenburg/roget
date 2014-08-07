@@ -1,0 +1,113 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#25#</sectionNumber>
+<headword>#<b>#[001] #616# Writing #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>writing</i></sg>,;
+<sg>chirography, stelography, cerography</sg>,;
+<sg>penmanship, craftmanship</sg>,;
+<sg>quill driving</sg>,;
+<sg>typewriting</sg>,;
+<sg>writing, manuscript, MS</sg>,;
+<sg>, literae scriptae</sg>,;
+<sg>these presents</sg>,;
+<sg>stroke of the pen, dash of the pen</sg>,;
+<sg>coupe de plume</sg>,;
+<sg>line</sg>,;
+<sg>headline</sg>,;
+<sg>pen and ink</sg>,;
+<sg>letter ,<cref> 561 <i>affirmation</i></cref></sg>,;
+<sg>uncial writing, cuneiform character, arrowhead, Ogham, Runes, hieroglyphic</sg>,;
+<sg>contraction</sg>,;
+<sg>Brahmi, Devanagari, Nagari</sg>,;
+<sg>script</sg>,;
+<sg>shorthand</sg>,;
+<sg>stenography, brachygraphy, tachygraphy</sg>,;
+<sg>secret writing, writing in cipher</sg>,;
+<sg>cryptography, stenography</sg>,;
+<sg>phonography, pasigraphy, Polygraphy, logography</sg>,;
+<sg>copy</sg>,;
+<sg>transcript, rescript</sg>,;
+<sg>rough copy, fair copy</sg>,;
+<sg>handwriting</sg>,;
+<sg>signature, sign manual</sg>,;
+<sg>autograph, monograph, holograph</sg>,;
+<sg>hand, fist</sg>,;
+<sg>calligraphy</sg>,;
+<sg>good hand, running hand, flowing hand, cursive hand, legible hand, bold hand</sg>,;
+<sg>cacography, griffonage, barbouillage</sg>,;
+<sg>bad hand, cramped hand, crabbed hand, illegible hand</sg>,;
+<sg>scribble</sg>,;
+<sg>pattes de mouche</sg>,;
+<sg>ill-formed letters</sg>,;
+<sg>pothooks and hangers</sg>,;
+<sg>stationery</sg>,;
+<sg>pen, quill, goose quill</sg>,;
+<sg>pencil, style</sg>,;
+<sg>paper, foolscap, parchment, vellum, papyrus, tablet, slate, marble, pillar, table</sg>,;
+<sg>blackboard</sg>,;
+<sg>ink bottle, ink horn, ink pot, ink stand, ink well</sg>,;
+<sg>typewriter</sg>,;
+<sg>transcription ,<cref>21 <i>copy</i></cref></sg>,;
+<sg>inscription ,<cref>551 <i>record</i></cref></sg>,;
+<sg>superscription ,<cref>550 <i>indication</i></cref></sg>,;
+<sg>graphology</sg>,;
+<sg>composition, authorship</sg>,;
+<sg>cacoethes scribendi</sg>,;
+<sg>graphoidea, graphomania</sg>,;
+<sg>phrenoia</sg>,;
+<sg>writer, scribe, amanuensis, scrivener, secretary, clerk, penman, copyist, transcriber, quill driver</sg>,;
+<sg>stenographer, typewriter, typist</sg>,;
+<sg>writer for the press ,<cref>593 <i>author</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>write, pen</sg>,;
+<sg>copy, engross</sg>,;
+<sg>write out, write out fair</sg>,;
+<sg>transcribe</sg>,;
+<sg>scribble, scrawl, scrabble, scratch</sg>,;
+<sg>interline</sg>,;
+<sg>stain paper</sg>,;
+<sg>write down ,<cref>551 <i>record</i></cref></sg>,;
+<sg>sign ,<cref>467 <i>attest</i></cref></sg>,;
+<sg>enface</sg>,;
+<sg>compose, indite, draw up, draft, formulate</sg>,;
+<sg>dictate</sg>,;
+<sg>inscribe, throw on paper, dash off</sg>,;
+<sg>manifold</sg>,;
+<sg>take up the pen, take pen in hand</sg>,;
+<sg>shed ink, spill ink, dip one's pen in ink</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>writing</sg>,;
+<sg>written</sg>,;
+<sg>in writing, in black and white</sg>,;
+<sg>under one's hand</sg>,;
+<sg>uncial, Runic, cuneiform, hieroglyphical</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>currente calamo</sg>,;
+<sg>pen in hand</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>audacter et sincere</sg>,;
+<sg>le style est l'homme meme</sg>,;
+<sg>nature's noblest gift - my gray goose quill</sg>,;
+<sg>scribendi recte sapere et principium et fons</sg>,;
+<sg>that mighty instrument of little men</sg>,;
+<sg>the pen became a clarion</sg>,;
+<br>
+</paragraph>

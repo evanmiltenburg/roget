@@ -1,0 +1,69 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#15#</sectionNumber>
+<headword>#<b>#[001] #467# Appearance #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>appearance, </i>phenomenon, sight, spectacle, show, premonstration, scene, species, view, coup d'oeil</sg>,;
+<sg>lookout, outlook, prospect, vista, perspective, bird's-eye view, scenery, landscape, picture, tableau</sg>,;
+<sg>display, exposure, mise en sc ne</sg>,;
+<sg>rising of the curtain</sg>,;
+<sg>phantasm, phantom ,<cref>443 <i>fallacy of vision</i></cref></sg>,;
+<sg>pageant, spectacle</sg>,;
+<sg>peep-show, raree-show, gallanty-show</sg>,;
+<sg>ombres chinoises</sg>,;
+<sg>magic lantern, phantasmagoria, dissolving views</sg>,;
+<sg>biograph, cinematograph, moving pictures</sg>,;
+<sg>panorama, diorama, cosmorama, georama</sg>,;
+<sg>coup de theatre, jeu de theatre</sg>,;
+<sg>pageantry ,<cref>882 <i>ostentation</i></cref></sg>,;
+<sg>insignia ,<cref>550 <i>indication</i></cref></sg>,;
+<sg>aspect, angle, phase, phasis, seeming</sg>,;
+<sg>shape ,<cref>240 <i>form</i></cref></sg>,;
+<sg>guise, look, complexion, color, image, mien, air, cast, carriage, port, demeanor</sg>,;
+<sg>presence, expression, first blush, face of the thing</sg>,;
+<sg>point of view, light</sg>,;
+<sg>lineament feature trait lines</sg>,;
+<sg>outline, outside</sg>,;
+<sg>contour, face, countenance, physiognomy, visage, phiz</sg>,;
+<sg>, cast of countenance, profile, tournure, cut of one s jib, metoposcopy</sg>,;
+<sg>outside ,<cref> 220 <i>base</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>appear</sg>,;
+<sg>be visible, become visible ,<cref> 446 <i>semitransparency</i></cref></sg>,;
+<sg>seem, look, show</sg>,;
+<sg>present the appearance of, wear the appearance of, carry the appearance of, have the appearance of, bear the appearance of, exhibit the appearance of, take the appearance of, take on the appearance of, assume the appearance, present the semblance of, wear the semblance of, carry the semblance of, have the semblance of, bear the semblance of, exhibit the semblance of, take the semblance of, take on the semblance of, assume the semblance of</sg>,;
+<sg>look like</sg>,;
+<sg>cut a figure, figure</sg>,;
+<sg>present to the view</sg>,;
+<sg>show ,<cref>525 <i>make manifest</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>apparent, seeming, ostensible</sg>,;
+<sg>on view</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>apparently</sg>,;
+<sg>to all seeming, to all appearance</sg>,;
+<sg>ostensibly, seemingly, as it seems, on the face of it, prima facie</sg>,;
+<sg>at the first blush, at first sight</sg>,;
+<sg>in the eyes of</sg>,;
+<sg>to the eye</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>editio princeps</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,38 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#38#</sectionNumber>
+<headword>#<b>#[001] #1014# Condemnation #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>condemnation, </i>conviction, judgment, penalty, sentence</sg>,;
+<sg>proscription, damnation</sg>,;
+<sg>death warrant</sg>,;
+<sg>attainder, attainture, attaintment</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>condemn, convict, cast, bring home to, find guilty, damn, doom, sign the death warrant, sentence, pass sentence on, attaint, confiscate, proscribe, sequestrate</sg>,;
+<sg>nonsuit</sg>,;
+<sg>disapprove ,<cref> 932 <i>exclusion</i></cref></sg>,;
+<sg>accuse ,<cref> 938 <i>favorite</i></cref></sg>,;
+<sg>stand condemned</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>condemnatory, damnatory</sg>,;
+<sg>guilty, condemned</sg>,;
+<sg>nonsuited ,<cref>732 <i>failure</i></cref></sg>,;
+<sg>self-convicted</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>mutato nomine de te fabula narratur</sg>,;
+<sg>unrespited, unpitied, unreprieved</sg>,;
+<br>
+</paragraph>

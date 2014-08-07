@@ -1,0 +1,35 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#14#</sectionNumber>
+<headword>#<b>#[001] #345# Gaseity #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>gaseity</i></sg>,;
+<sg>vaporousness</sg>,;
+<sg>flatulence, flatulency</sg>,;
+<sg>volatility</sg>,;
+<sg>aeration, aerification</sg>,;
+<sg>elastic fluid, gas, air, vapor, ether, steam, essence, fume, reek, effluvium, flatus</sg>,;
+<sg>cloud ,<cref> 353 <i>land</i></cref></sg>,;
+<sg>ammonia, ammoniacal gas</sg>,;
+<sg>volatile alkali</sg>,;
+<sg>vacuum, partial vacuum</sg>,;
+<sg>pneumatics, pneumatostatics</sg>,;
+<sg>aerostatics, aerodynamics</sg>,;
+<sg>gasmeter, gasometer</sg>,;
+<sg>air bladder, swimming bladder, sound, (of a fish)</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>vaporize, evaporate, evanesce, gasify, emit vapor ,<cref> 336 <i>elasticity</i></cref></sg>,;
+<sg>diffuse</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>gaseous, aeriform, ethereal, aerial, airy, vaporous, volatile, evaporable, flatulent</sg>,;
+<br>
+</paragraph>

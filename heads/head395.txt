@@ -1,0 +1,98 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#15#</sectionNumber>
+<headword>#<b>#[001] #395# Heat #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>heat, </i>caloric</sg>,;
+<sg>temperature, warmth, fervor, calidity</sg>,;
+<sg>incalescence, incandescence</sg>,;
+<sg>glow, flush</sg>,;
+<sg>fever, hectic</sg>,;
+<sg>phlogiston</sg>,;
+<sg>fire, spark, scintillation, flash, flame, blaze</sg>,;
+<sg>bonfire</sg>,;
+<sg>firework, pyrotechnics, pyrotechny</sg>,;
+<sg>wildfire</sg>,;
+<sg>sheet of fire, lambent flame</sg>,;
+<sg>devouring element</sg>,;
+<sg>adiathermancy</sg>,;
+<sg>recalescence</sg>,;
+<sg>summer, dog days</sg>,;
+<sg>canicular days</sg>,;
+<sg>baking ,<cref> 384 <i>mankind</i></cref></sg>,;
+<sg>heat, white heat, tropical heat, Afric heat, Bengal heat, summer heat, blood heat</sg>,;
+<sg>sirocco, simoom</sg>,;
+<sg>broiling sun</sg>,;
+<sg>insolation</sg>,;
+<sg>warming ,<cref> 384 <i>mankind</i></cref></sg>,;
+<sg>sun ,<cref>423 <i>luminary</i></cref></sg>,;
+<sg>pyrology</sg>,;
+<sg>thermology, thermotics, thermodynamics</sg>,;
+<sg>thermometer ,<cref> 389 <i>physical insensibility</i></cref></sg>,;
+<sg>calorie, gram-calorie, small calorie</sg>,;
+<sg>kilocalorie, kilogram calorie, large calorie</sg>,;
+<sg>British Thermal Unit, B</sg>,;
+<sg>T</sg>,;
+<sg>U</sg>,;
+<sg>therm, quad</sg>,;
+<sg>degrees Kelvin, kelvins, degrees centigrade, degrees Celsius</sg>,;
+<sg>degrees Fahrenheit</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be hot</sg>,;
+<sg>glow, flush, sweat, swelter, bask, smoke, reek, stew, simmer, seethe, boil, burn, blister, broil, blaze, flame</sg>,;
+<sg>smolder</sg>,;
+<sg>parch, fume, pant</sg>,;
+<sg>heat ,<cref>384 <i>make hot</i></cref></sg>,;
+<sg>recalesce</sg>,;
+<sg>thaw, give</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>hot, warm, mild, genial, tepid, lukewarm, unfrozen</sg>,;
+<sg>thermal, thermic</sg>,;
+<sg>calorific</sg>,;
+<sg>fervent, fervid</sg>,;
+<sg>ardent</sg>,;
+<sg>aglow</sg>,;
+<sg>sunny, torrid, tropical, estival, canicular, steamy</sg>,;
+<sg>close, sultry, stifling, stuffy, suffocating, oppressive</sg>,;
+<sg>reeking</sg>,;
+<sg>baking ,<cref> 384 <i>mankind</i></cref></sg>,;
+<sg>red hot, white hot, smoking hot, burning</sg>,;
+<sg>hot, piping hot</sg>,;
+<sg>like a furnace, like an oven</sg>,;
+<sg>burning, hot as fire, hot as pepper</sg>,;
+<sg>hot enough to roast an ox, hot enough to boil an egg</sg>,;
+<sg>fiery</sg>,;
+<sg>incandescent, incalescent</sg>,;
+<sg>candent, ebullient, glowing, smoking</sg>,;
+<sg>live</sg>,;
+<sg>on fire</sg>,;
+<sg>dazzling</sg>,;
+<sg>in flames, blazing, in a blaze</sg>,;
+<sg>alight, afire, ablaze</sg>,;
+<sg>unquenched, unextinguished</sg>,;
+<sg>smoldering</sg>,;
+<sg>in a heat, in a glow, in a fever, in a perspiration, in a sweat</sg>,;
+<sg>sudorific</sg>,;
+<sg>sweltering, sweltered</sg>,;
+<sg>blood hot, blood warm</sg>,;
+<sg>warm as a toast, warm as wool</sg>,;
+<sg>volcanic, plutonic, igneous</sg>,;
+<sg>isothermal, isothermic, isotheral</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>not a breath of air</sg>,;
+<sg>whirlwinds of tempestuous fire</sg>,;
+<br>
+</paragraph>

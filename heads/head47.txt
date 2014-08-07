@@ -1,0 +1,120 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#3#</sectionNumber>
+<headword>#<b>#[001] #47# Disjunction #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>disjunction, </i>disconnection, disunity, disunion, disassociation, disengagement</sg>,;
+<sg>discontinuity ,<cref> 70 <i>beginning</i></cref></sg>,;
+<sg>abjunction</sg>,;
+<sg>cataclasm</sg>,;
+<sg>inconnection</sg>,;
+<sg>abstraction, abstractedness</sg>,;
+<sg>isolation</sg>,;
+<sg>insularity, insulation</sg>,;
+<sg>oasis</sg>,;
+<sg>island</sg>,;
+<sg>separateness</sg>,;
+<sg>severalty</sg>,;
+<sg>disjecta membra</sg>,;
+<sg>dispersion ,<cref> 73 <i>continuity</i></cref></sg>,;
+<sg>apportionment ,<cref> 786 <i>commission</i></cref></sg>,;
+<sg>separation</sg>,;
+<sg>parting</sg>,;
+<sg>circumcision</sg>,;
+<sg>detachment, segregation</sg>,;
+<sg>divorce, sejunction, seposition, diduction, diremption, discerption</sg>,;
+<sg>elision</sg>,;
+<sg>caesura, break, fracture, division, subdivision, rupture</sg>,;
+<sg>compartition</sg>,;
+<sg>dismemberment, dislocation</sg>,;
+<sg>luxation</sg>,;
+<sg>severance, disseverance</sg>,;
+<sg>scission</sg>,;
+<sg>rescission, abscission</sg>,;
+<sg>laceration, dilaceration</sg>,;
+<sg>disruption, abruption</sg>,;
+<sg>avulsion, divulsion</sg>,;
+<sg>section, resection, cleavage</sg>,;
+<sg>fission</sg>,;
+<sg>partibility, separability</sg>,;
+<sg>fissure, breach, rent, split, rift, crack, slit, incision</sg>,;
+<sg>dissection anatomy</sg>,;
+<sg>decomposition ,<cref> 49 <i>coherence</i></cref></sg>,;
+<sg>cutting instrument ,<cref>253 <i>sharpness</i></cref></sg>,;
+<sg>buzzsaw, circular saw, rip saw</sg>,;
+<sg>separatist</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be disjoined </sg>,;
+<sg>come off, fall off, come to pieces, fall to pieces</sg>,;
+<sg>peel off</sg>,;
+<sg>get loose</sg>,;
+<sg>disjoin, disconnect, disengage, disunite, dissociate, dispair</sg>,;
+<sg>divorce, part, dispart, detach, separate, cut off, rescind, segregate</sg>,;
+<sg>set apart, keep apart</sg>,;
+<sg>insulate, isolate</sg>,;
+<sg>throw out of gear</sg>,;
+<sg>cut adrift</sg>,;
+<sg>loose</sg>,;
+<sg>unloose, undo, unbind, unchain, unlock ,<cref>43 <i>fix</i></cref>, unpack, unravel</sg>,;
+<sg>disentangle</sg>,;
+<sg>set free ,<cref>750 <i>liberate</i></cref></sg>,;
+<sg>sunder, divide, subdivide, sever, dissever, abscind</sg>,;
+<sg>circumcise</sg>,;
+<sg>cut</sg>,;
+<sg>incide, incise</sg>,;
+<sg>saw, snip, nib, nip, cleave, rive, rend, slit, split, splinter, chip, crack, snap, break, tear, burst</sg>,;
+<sg>rend , rend asunder, rend in twain</sg>,;
+<sg>wrench, rupture, shatter, shiver, cranch, crunch, craunch, chop</sg>,;
+<sg>cut up, rip up</sg>,;
+<sg>hack, hew, slash</sg>,;
+<sg>whittle</sg>,;
+<sg>haggle, hackle, discind, lacerate, scamble, mangle, gash, hash, slice</sg>,;
+<sg>cut up, carve, dissect, anatomize</sg>,;
+<sg>dislimb</sg>,;
+<sg>take to pieces, pull to pieces, pick to pieces, tear to pieces</sg>,;
+<sg>tear to tatters, tear piecemeal, tear limb from limb</sg>,;
+<sg>divellicate</sg>,;
+<sg>skin ,<cref> 226 <i>perpendicularity</i></cref></sg>,;
+<sg>disintegrate, dismember, disbranch, disband</sg>,;
+<sg>disperse ,<cref> 73 <i>continuity</i></cref></sg>,;
+<sg>dislocate, disjoint</sg>,;
+<sg>break up</sg>,;
+<sg>mince</sg>,;
+<sg>comminute ,<cref>330 <i>pulverize</i></cref></sg>,;
+<sg>apportion ,<cref> 786 <i>commission</i></cref></sg>,;
+<sg>part, part company</sg>,;
+<sg>separate, leave</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>disjoined</sg>,;
+<sg>discontinuous ,<cref> 70 <i>beginning</i></cref></sg>,;
+<sg>multipartite, abstract</sg>,;
+<sg>disjunctive</sg>,;
+<sg>secant</sg>,;
+<sg>isolated</sg>,;
+<sg>insular, separate, disparate, discrete, apart, asunder, far between, loose, free</sg>,;
+<sg>unattached, unannexed, unassociated, unconnected</sg>,;
+<sg>distinct</sg>,;
+<sg>adrift</sg>,;
+<sg>straggling</sg>,;
+<sg>rift, reft</sg>,;
+<sg>scissile, divisible, discerptible, partible, separable</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>separately</sg>,;
+<sg>one by one, severally, apart</sg>,;
+<sg>adrift, asunder, in twain</sg>,;
+<sg>in the abstract, abstractedly</sg>,;
+<br>
+</paragraph>

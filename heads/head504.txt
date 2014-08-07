@@ -1,0 +1,50 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#20#</sectionNumber>
+<headword>#<b>#[001] #504# Discovery #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>discovery, </i>detection, disenchantment</sg>,;
+<sg>ascertainment, disclosure, find, revelation</sg>,;
+<sg>trover  ,<cref>775 <i>recovery</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>discover, find, determine, evolve, learn ,<cref> 539 <i>analogy</i></cref></sg>,;
+<sg>fix upon</sg>,;
+<sg>pick up</sg>,;
+<sg>find out, trace out, make out, hunt out, fish out, worm out, ferret out, root out</sg>,;
+<sg>fathom</sg>,;
+<sg>bring out, draw out</sg>,;
+<sg>educe, elicit, bring to light</sg>,;
+<sg>dig out, grub up, fish up</sg>,;
+<sg>unearth, disinter</sg>,;
+<sg>solve, resolve, elucidate</sg>,;
+<sg>unriddle, unravel, unlock, crack, crack open</sg>,;
+<sg>pick up, open the lock</sg>,;
+<sg>find a clue, find clew a to, find the key to the riddle</sg>,;
+<sg>interpret ,<cref> 522 <i>wisdom</i></cref></sg>,;
+<sg>disclose ,<cref> 529 <i>memory</i></cref></sg>,;
+<sg>trace, get at</sg>,;
+<sg>hit it, have it</sg>,;
+<sg>lay one's finger, lay one's hands upon</sg>,;
+<sg>spot</sg>,;
+<sg>get at the truth, arrive at the truth ,<cref> 494 <i>impossibility</i></cref></sg>,;
+<sg>put the saddle on the right horse, hit the right nail on the head</sg>,;
+<sg>be near the truth, be warm, get warmer, burn</sg>,;
+<sg>smoke, scent, sniff, catch a whiff of, smell a rat</sg>,;
+<sg>open the eyes to</sg>,;
+<sg>see through, see daylight, see in its true colors, see the cloven foot</sg>,;
+<sg>detect</sg>,;
+<sg>catch, catch tripping</sg>,;
+<sg>pitch upon, fall upon, light upon, hit upon, stumble upon, pop upon</sg>,;
+<sg>come across, come onto</sg>,;
+<sg>meet with, meet up with, fall in with</sg>,;
+<sg>recognize, realize</sg>,;
+<sg>verify, make certain of, identify</sg>,;
+<sg>Int</sg>,;
+<sg>eureka!, aha!, I've got it!,</sg>,;
+<br>
+</paragraph>

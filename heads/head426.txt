@@ -1,0 +1,27 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#15#</sectionNumber>
+<headword>#<b>#[001] #426# Nonresonance #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>nonresonance, </i>thud, thump, dead sound</sg>,;
+<sg>nonresonance</sg>,;
+<sg>muffled drums, cracked bell</sg>,;
+<sg>damper</sg>,;
+<sg>silencer</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>sound dead</sg>,;
+<sg>stop the sound, damp the sound, deaden the sound, deaden the reverberations, dampen the reverberations</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>nonresonant, dead</sg>,;
+<sg>dampened, muffled</sg>,;
+<br>
+</paragraph>

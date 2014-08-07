@@ -1,0 +1,80 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#29#</sectionNumber>
+<headword>#<b>#[001] #743# Concord #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>concord, </i>accord, harmony, symphony</sg>,;
+<sg>homologue</sg>,;
+<sg>agreement ,<cref> 23 <i>copy</i></cref></sg>,;
+<sg>sympathy, empathy ,<cref>897 <i>love</i></cref></sg>,;
+<sg>response</sg>,;
+<sg>union, unison, unity</sg>,;
+<sg>bonds of harmony</sg>,;
+<sg>peace ,<cref> 721 <i>conduct</i></cref></sg>,;
+<sg>unanimity ,<cref>488 <i>assent</i></cref></sg>,;
+<sg>league ,<cref> 712 <i>inactivity</i></cref></sg>,;
+<sg>happy family</sg>,;
+<sg>rapprochement</sg>,;
+<sg>reunion</sg>,;
+<sg>amity ,<cref>888 <i>friendship</i></cref></sg>,;
+<sg>alliance, entente cordiale, good understanding, conciliation, peacemaker</sg>,;
+<sg>intercessor, mediator</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>agree ,<cref> 23 <i>copy</i></cref></sg>,;
+<sg>accord, harmonize with</sg>,;
+<sg>fraternize</sg>,;
+<sg>be concordant</sg>,;
+<sg>go hand in hand</sg>,;
+<sg>run parallel ,<cref>178 <i>concur</i></cref></sg>,;
+<sg>understand one another, pull together ,<cref>709 <i>cooperate</i></cref></sg>,;
+<sg>put up one's horses together, sing in chorus</sg>,;
+<sg>side with, sympathize with, go with, chime in with, fall in with</sg>,;
+<sg>come round</sg>,;
+<sg>be pacified ,<cref> 723 <i>director</i></cref></sg>,;
+<sg>assent ,<cref> 488 <i>identification</i></cref></sg>,;
+<sg>empathize with, enter into the ideas of, enter into the feelings of</sg>,;
+<sg>reciprocate</sg>,;
+<sg>hurler avec les loups</sg>,;
+<sg>go with the stream, swim with the stream</sg>,;
+<sg>keep in good humor, render accordant, put in tune</sg>,;
+<sg>come to an understanding, meet halfway</sg>,;
+<sg>keep the peace, remain at peace</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>concordant, congenial</sg>,;
+<sg>agreeing</sg>,;
+<sg>in accord</sg>,;
+<sg>harmonious, united, cemented</sg>,;
+<sg>banded together ,<cref> 712 <i>inactivity</i></cref></sg>,;
+<sg>allied</sg>,;
+<sg>friendly ,<cref> 888 <i>simplicity</i></cref></sg>,;
+<sg>fraternal</sg>,;
+<sg>conciliatory</sg>,;
+<sg>at one with</sg>,;
+<sg>of one mind ,<cref>488 <i>assent</i></cref></sg>,;
+<sg>at peace, in still water</sg>,;
+<sg>tranquil ,<cref>721 <i>pacific</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>with one voice ,<cref>488 <i>assent</i></cref></sg>,;
+<sg>in concert with, hand in hand</sg>,;
+<sg>on one's side</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>commune periculum concordiam parit</sg>,;
+<br>
+</paragraph>

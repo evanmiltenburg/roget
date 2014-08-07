@@ -1,0 +1,117 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#38#</sectionNumber>
+<headword>#<b>#[001] #973# Approbation #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>approbation</i></sg>,;
+<sg>approval, approvement</sg>,;
+<sg>sanction, advocacy</sg>,;
+<sg>nod of approbation</sg>,;
+<sg>esteem, estimation, good opinion, golden opinions, admiration</sg>,;
+<sg>love ,<cref> 897 <i>hope</i></cref></sg>,;
+<sg>appreciation, regard, account, popularity, kudos, credit</sg>,;
+<sg>repute ,<cref> 873 <i>aggravation</i></cref></sg>,;
+<sg>best seller</sg>,;
+<sg>commendation, praise</sg>,;
+<sg>laud, laudation</sg>,;
+<sg>good word</sg>,;
+<sg>meed of praise, tribute of praise</sg>,;
+<sg>encomium</sg>,;
+<sg>eulogy, eulogium</sg>,;
+<sg>eloge, panegyric</sg>,;
+<sg>homage, hero worship</sg>,;
+<sg>benediction, blessing, benison</sg>,;
+<sg>applause, plaudit, clap</sg>,;
+<sg>clapping, clapping of hands</sg>,;
+<sg>acclaim, acclamation</sg>,;
+<sg>cheer</sg>,;
+<sg>paean, hosannah</sg>,;
+<sg>shout of applause, peal of applause, chorus of applause, chorus of praise </sg>,;
+<sg>Prytaneum</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>approve</sg>,;
+<sg>approbate, think good, think much of, think well of, think highly of</sg>,;
+<sg>esteem, value, prize</sg>,;
+<sg>set great store by, set great store on</sg>,;
+<sg>do justice to, appreciate</sg>,;
+<sg>honor, hold in esteem, look up to, admire</sg>,;
+<sg>like ,<cref> 897 <i>hope</i></cref></sg>,;
+<sg>be in favor of, wish Godspeed</sg>,;
+<sg>hail, hail with satisfaction</sg>,;
+<sg>stand up for, stick up for</sg>,;
+<sg>uphold, hold up, countenance, sanction</sg>,;
+<sg>clap on the back, pat on the back</sg>,;
+<sg>keep in countenance, indorse</sg>,;
+<sg>give credit, recommend</sg>,;
+<sg>mark with a white mark, mark with a stone</sg>,;
+<sg>commend, belaud, praise, laud, compliment</sg>,;
+<sg>pay a tribute, bepraise</sg>,;
+<sg>clap the hands</sg>,;
+<sg>applaud, cheer, acclamate, encore</sg>,;
+<sg>panegyrize, eulogize, cry up, proner, puff</sg>,;
+<sg>extol, extol to the skies</sg>,;
+<sg>magnify, glorify, exalt, swell, make much of</sg>,;
+<sg>flatter ,<cref> 933 <i>courtesy</i></cref></sg>,;
+<sg>bless, give a blessing to</sg>,;
+<sg>have a good word for, say a good word for</sg>,;
+<sg>speak well of, speak highly of, speak in high terms of</sg>,;
+<sg>sing the praises of, sound the praises of, chaunt the praises of</sg>,;
+<sg>resound the praises of</sg>,;
+<sg>sing praises to</sg>,;
+<sg>cheer to the echo, applaud to the echo, applaud to the very echo, cheer to the very echo</sg>,;
+<sg>redound to the honor, redound to the praise, redound to the credit of</sg>,;
+<sg>do credit to</sg>,;
+<sg>deserve praise</sg>,;
+<sg>recommend itself</sg>,;
+<sg>pass muster</sg>,;
+<sg>be praised </sg>,;
+<sg>receive honorable mention</sg>,;
+<sg>be in favor with, be in high favor with</sg>,;
+<sg>ring with the praises of, win golden opinions, gain credit, find favor with, stand well in the opinion of</sg>,;
+<sg>laudari a laudato viro</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>approving</sg>,;
+<sg>in favor of</sg>,;
+<sg>lost in admiration</sg>,;
+<sg>commendatory, complimentary, benedictory, laudatory, panegyrical, eulogistic, encomiastic, lavish of praise, uncritical</sg>,;
+<sg>approved, praised</sg>,;
+<sg>uncensured, unimpeached</sg>,;
+<sg>popular, in good odor</sg>,;
+<sg>in high esteem ,<cref>928 <i>respected</i></cref></sg>,;
+<sg>in favor, in high favor</sg>,;
+<sg>deserving of praise, worthy of praise</sg>,;
+<sg>praiseworthy, commendable, of estimation</sg>,;
+<sg>good ,<cref> 648 <i>evil</i></cref></sg>,;
+<sg>meritorious, estimable, creditable, plausible, unimpeachable</sg>,;
+<sg>beyond all praise</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>with credit, to admiration</sg>,;
+<sg>well ,<cref> 618 <i>correspondence</i></cref></sg>,;
+<sg>with three times three</sg>,;
+<sg>Int</sg>,;
+<sg>hear hear!, bully for you!, well done!, bravo!, bravissimo!, euge!, macte virtute!, so far so good, that's right, quite right</sg>,;
+<sg>optime!, one cheer more</sg>,;
+<sg>may your shadow never be less!, esto perpetua!, long life to!, viva!, enviva!, Godspeed!, valete et plaudite!, encore!, bis!,</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>probatum est</sg>,;
+<sg>tacent satis laudant</sg>,;
+<sg>servant of God, well done!</sg>,;
+<br>
+</paragraph>

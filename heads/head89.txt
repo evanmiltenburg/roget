@@ -1,0 +1,63 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#5#</sectionNumber>
+<headword>#<b>#[001] #89# Numeration #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>numeration</i></sg>,;
+<sg>numbering</sg>,;
+<sg>pagination</sg>,;
+<sg>tale, recension, enumeration, summation, reckoning, computation, supputation</sg>,;
+<sg>calculation, calculus</sg>,;
+<sg>algorithm, algorism, rhabdology, dactylonomy</sg>,;
+<sg>measurement ,<cref> 466 <i>invisibility</i></cref></sg>,;
+<sg>statistics</sg>,;
+<sg>arithmetic, analysis, algebra, geometry, analytical geometry, fluxions</sg>,;
+<sg>differential calculus, integral calculus, infinitesimal calculus</sg>,;
+<sg>calculus of differences</sg>,;
+<sg>dead reckoning, muster, poll, census, capitation, roll call, recapitulation</sg>,;
+<sg>account ,<cref>86 <i>list</i></cref></sg>,;
+<sg>notation, addition, subtraction, multiplication, division, rule of three, practice, equations, extraction of roots, reduction, involution, evolution, estimation, approximation, interpolation, differentiation, integration</sg>,;
+<sg>abacus, logometer, slide rule, slipstick, tallies, Napier's bones, calculating machine, difference engine, suan- pan</sg>,;
+<sg>adding machine</sg>,;
+<sg>cash register</sg>,;
+<sg>electronic calculator, calculator, computer</sg>,;
+<sg>arithmetician, calculator, abacist, algebraist, mathematician</sg>,;
+<sg>statistician, geometer</sg>,;
+<sg>programmer</sg>,;
+<sg>accountant, auditor</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>number, count, tally, tell</sg>,;
+<sg>call over, run over</sg>,;
+<sg>take an account of, enumerate, muster, poll, recite, recapitulate</sg>,;
+<sg>sum</sg>,;
+<sg>sum up, cast up</sg>,;
+<sg>tell off, score, cipher, compute, calculate, suppute, add, subtract, multiply, divide, extract roots</sg>,;
+<sg>algebraize</sg>,;
+<sg>check, prove, demonstrate, balance, audit, overhaul, take stock</sg>,;
+<sg>affix numbers to, page</sg>,;
+<sg>amount to, add up to, come to</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>numeral, numerical</sg>,;
+<sg>arithmetical, analytic, algebraic, statistical, numerable, computable, calculable</sg>,;
+<sg>commensurable, commensurate</sg>,;
+<sg>incommensurable, incommensurate, innumerable, unfathomable, infinite</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>quantitatively</sg>,;
+<sg>arithmetically</sg>,;
+<sg>measurably</sg>,;
+<sg>in numbers</sg>,;
+<br>
+</paragraph>

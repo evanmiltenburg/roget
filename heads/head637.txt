@@ -1,0 +1,50 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#26#</sectionNumber>
+<headword>#<b>#[001] #637# Absence of Choice #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>absence of choice, </i>no choice, Hobson's choice</sg>,;
+<sg>first come first served, random selection</sg>,;
+<sg>necessity ,<cref> 601 <i>feebleness</i></cref></sg>,;
+<sg>not a pin to choose ,<cref>27 <i>equality</i></cref></sg>,;
+<sg>any, the first that comes</sg>,;
+<sg>that or nothing</sg>,;
+<sg>neutrality, indifference</sg>,;
+<sg>indecision ,<cref>605 <i>irresolution</i></cref></sg>,;
+<sg>arbitrariness</sg>,;
+<sg>coercion (compulsion) 744</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be neutral</sg>,;
+<sg>have no choice, have no election</sg>,;
+<sg>waive, not vote</sg>,;
+<sg>abstain from voting, refrain from voting</sg>,;
+<sg>leave undecided</sg>,;
+<sg>make a virtue of necessity</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>neutral, neuter</sg>,;
+<sg>indifferent, uninterested</sg>,;
+<sg>undecided ,<cref>605 <i>irresolute</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>either ,<cref>609 <i>choice</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>who cares?, what difference does it make?</sg>,;
+<sg>There's not a dime's worth of difference between them</sg>,;
+<br>
+</paragraph>

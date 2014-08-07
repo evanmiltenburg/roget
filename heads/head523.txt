@@ -1,0 +1,111 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#20#</sectionNumber>
+<headword>#<b>#[001] #523# Folly #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>imbecility folly, </i>want of intelligence &c 498, want of intellect ,<cref> 450 <i>blackness</i></cref></sg>,;
+<sg>shadowness, silliness, foolishness</sg>,;
+<sg>imbecility, incapacity, vacancy of mind, poverty of intellect, weakness of intellect, clouded perception, poor head, apartments to let</sg>,;
+<sg>stupidity, stolidity</sg>,;
+<sg>hebetude, dull understanding, meanest capacity, shortsightedness</sg>,;
+<sg>incompetence ,<cref>699 <i>unskillfulness</i></cref></sg>,;
+<sg>one's weak side, not one's strong point</sg>,;
+<sg>bias ,<cref> 481 <i>inquiry</i></cref></sg>,;
+<sg>infatuation ,<cref>503 <i>insanity</i></cref></sg>,;
+<sg>simplicity, puerility, babyhood</sg>,;
+<sg>dotage, anility, second childishness, fatuity</sg>,;
+<sg>idiocy, idiotism</sg>,;
+<sg>driveling</sg>,;
+<sg>folly, frivolity, irrationality, trifling, ineptitude, nugacity, inconsistency, lip wisdom, conceit</sg>,;
+<sg>sophistry ,<cref> 477 <i>attention</i></cref></sg>,;
+<sg>giddiness ,<cref>458 <i>inattention</i></cref></sg>,;
+<sg>eccentricity ,<cref> 503 <i>judgment</i></cref></sg>,;
+<sg>extravagance ,<cref>497 <i>absurdity</i></cref></sg>,;
+<sg>rashness ,<cref> 863 <i>excitability</i></cref></sg>,;
+<sg>act of folly ,<cref> 699 <i>preservation</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>to be an imbecile</sg>,;
+<sg>have no brains, have no sense ,<cref> 498 <i>uncertainty</i></cref></sg>,;
+<sg>trifle, drivel, radoter, dote</sg>,;
+<sg>ramble ,<cref>503 <i>madness</i></cref></sg>,;
+<sg>play the fool, play the monkey, monkey around, fool around</sg>,;
+<sg>take leave of one's senses (insanity) 503</sg>,;
+<sg>not see an inch beyond one's nose</sg>,;
+<sg>stultify oneself ,<cref> 699 <i>preservation</i></cref></sg>,;
+<sg>talk nonsense ,<cref> 497 <i>certainty</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>unintelligent, unintellectual, unreasoning</sg>,;
+<sg>mindless, witless, reasoningless, brainless</sg>,;
+<sg>halfbaked</sg>,;
+<sg>having no head ,<cref> 498 <i>uncertainty</i></cref></sg>,;
+<sg>not bright ,<cref> 498 <i>uncertainty</i></cref></sg>,;
+<sg>inapprehensible</sg>,;
+<sg>weak headed, addle headed, puzzle headed, blunder headed, muddle headed, muddy headed, pig headed, beetle headed, buffle headed, chuckle headed, mutton headed, maggoty headed, grossheaded</sg>,;
+<sg>beef headed, fat witted, fat-headed</sg>,;
+<sg>weak-minded, feeble-minded</sg>,;
+<sg>dull minded, shallow minded, lack- brained</sg>,;
+<sg>rattle-brained, rattle headed</sg>,;
+<sg>half witted, lean witted, short witted, dull witted, blunt-witted, shallow-pated, clod-pated, addle- pated, addle-brained</sg>,;
+<sg>dim-sighted, short-sighted</sg>,;
+<sg>thick-skulled</sg>,;
+<sg>weak in the upper story</sg>,;
+<sg>shallow, borne, weak, wanting, soft, sappy, spoony</sg>,;
+<sg>dull, dull as a beetle</sg>,;
+<sg>stupid, heavy, insulse, obtuse, blunt, stolid, doltish</sg>,;
+<sg>asinine</sg>,;
+<sg>inapt ,<cref> 699 <i>preservation</i></cref></sg>,;
+<sg>prosaic ,<cref> 843 <i>nonpayment</i></cref></sg>,;
+<sg>hebetudinous</sg>,;
+<sg>childish, child-like</sg>,;
+<sg>infantine, infantile, babyish, babish</sg>,;
+<sg>puerile, anile</sg>,;
+<sg>simple ,<cref>486 <i>credulous</i></cref></sg>,;
+<sg>old-womanish</sg>,;
+<sg>fatuous, idiotic, imbecile, driveling</sg>,;
+<sg>blatant, babbling</sg>,;
+<sg>vacant</sg>,;
+<sg>sottish</sg>,;
+<sg>bewildered ,<cref> 475 <i>curiosity</i></cref></sg>,;
+<sg>blockish, unteachable Boeotian, Boeotic</sg>,;
+<sg>bovine</sg>,;
+<sg>ungifted, undiscerning, unenlightened, unwise, unphilosophical</sg>,;
+<sg>apish</sg>,;
+<sg>simious</sg>,;
+<sg>foolish, silly, senseless, irrational, insensate, nonsensical, inept</sg>,;
+<sg>maudlin</sg>,;
+<sg>narrow-minded ,<cref> 481 <i>inquiry</i></cref></sg>,;
+<sg>bigoted ,<cref>606 <i>obstinate</i></cref></sg>,;
+<sg>giddy ,<cref>458 <i>thoughtless</i></cref></sg>,;
+<sg>rash ,<cref> 863 <i>excitability</i></cref></sg>,;
+<sg>eccentric ,<cref>503 <i>crazed</i></cref></sg>,;
+<sg>foolish, unwise, injudicious, improper, unreasonable, without reason, ridiculous, absurd, idiotic, silly, stupid, asinine</sg>,;
+<sg>ill-imagined, ill-advised, ill-judged, ill-devised</sg>,;
+<sg>mal entendu</sg>,;
+<sg>inconsistent, irrational, unphilosophical</sg>,;
+<sg>extravagant ,<cref>497 <i>nonsensical</i></cref></sg>,;
+<sg>sleeveless, idle</sg>,;
+<sg>pointless, useless ,<cref> 645 <i>dissuasion</i></cref></sg>,;
+<sg>inexpedient ,<cref> 647 <i>good</i></cref></sg>,;
+<sg>frivolous ,<cref>643 <i>trivial</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>Davus sum non</sg>,;
+<sg>a fool's bolt is soon shot  clitellae bovi sunt impositae</sg>,;
+<sg>fools rush in where angels fear to tread</sg>,;
+<sg>il n' a ni bouche ni eperon</sg>,;
+<sg>the bookful blockhead, ignorantly read</sg>,;
+<sg>to varnish nonsense with the charms of sound</sg>,;
+<br>
+</paragraph>

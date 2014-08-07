@@ -1,0 +1,72 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#15#</sectionNumber>
+<headword>#<b>#[001] #379# Vegetable #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>vegetable, </i>vegetable kingdom</sg>,;
+<sg>flora, verdure</sg>,;
+<sg>plant</sg>,;
+<sg>tree, shrub, bush</sg>,;
+<sg>creeper</sg>,;
+<sg>herb, herbage</sg>,;
+<sg>grass</sg>,;
+<sg>annual</sg>,;
+<sg>perennial, biennial, triennial</sg>,;
+<sg>exotic</sg>,;
+<sg>timber, forest</sg>,;
+<sg>wood, woodlands</sg>,;
+<sg>timberland</sg>,;
+<sg>hurst, frith, holt, weald, park, chase, greenwood, brake, grove, copse, coppice, bocage, tope, clump of trees, thicket, spinet, spinney</sg>,;
+<sg>underwood, brushwood</sg>,;
+<sg>scrub</sg>,;
+<sg>boscage, bosk, ceja, chaparal, motte</sg>,;
+<sg>arboretum ,<cref> 371 <i>life</i></cref></sg>,;
+<sg>bush, jungle, prairie</sg>,;
+<sg>heath, heather</sg>,;
+<sg>fern, bracken</sg>,;
+<sg>furze, gorse, whin</sg>,;
+<sg>grass, turf</sg>,;
+<sg>pasture, pasturage</sg>,;
+<sg>turbary</sg>,;
+<sg>sedge, rush, weed</sg>,;
+<sg>fungus, mushroom, toadstool</sg>,;
+<sg>lichen, moss, conferva, mold</sg>,;
+<sg>growth</sg>,;
+<sg>alfalfa, alfilaria, banyan</sg>,;
+<sg>blow, blowth</sg>,;
+<sg>floret, petiole</sg>,;
+<sg>pin grass, timothy, yam, yew, zinnia</sg>,;
+<sg>foliage, branch, bough, ramage, stem, tigella</sg>,;
+<sg>spray ,<cref> 51 <i>combination</i></cref></sg>,;
+<sg>leaf</sg>,;
+<sg>flower, blossom, bine</sg>,;
+<sg>flowering plant</sg>,;
+<sg>timber tree, fruit tree</sg>,;
+<sg>pulse, legume</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>vegetable, vegetal, vegetive, vegitous</sg>,;
+<sg>herbaceous, herbal</sg>,;
+<sg>botanic</sg>,;
+<sg>sylvan, silvan</sg>,;
+<sg>arborary, arboreous, arborescent, arborical</sg>,;
+<sg>woody, grassy</sg>,;
+<sg>verdant, verdurous</sg>,;
+<sg>floral, mossy</sg>,;
+<sg>lignous, ligneous</sg>,;
+<sg>wooden, leguminous</sg>,;
+<sg>vosky, cespitose, turf-like, turfy</sg>,;
+<sg>endogenous, exogenous</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>green-robed senators of mighty woods</sg>,;
+<sg>this is the forest primeval</sg>,;
+<br>
+</paragraph>

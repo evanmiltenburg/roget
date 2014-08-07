@@ -1,0 +1,54 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#25#</sectionNumber>
+<headword>#<b>#[001] #622# Compendium #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>compend, compendium</sg>,;
+<sg>abstract, precis, epitome, multum in parvo, analysis, pandect, digest, sum and substance, brief, abridgment, summary, apercu, draft, minute, note</sg>,;
+<sg>excerpt</sg>,;
+<sg>synopsis, textbook, conspectus, outlines, syllabus, contents, heads, prospectus</sg>,;
+<sg>album</sg>,;
+<sg>scrap book, note book, memorandum book, commonplace book</sg>,;
+<sg>extracts, excerpta, cuttings</sg>,;
+<sg>fugitive pieces, fugitive writing</sg>,;
+<sg>spicilegium, flowers, anthology, collectanea, analecta</sg>,;
+<sg>compilation</sg>,;
+<sg>recapitulation, resume, review</sg>,;
+<sg>abbreviation, abbreviature</sg>,;
+<sg>contraction</sg>,;
+<sg>shortening ,<cref> 201 <i>size</i></cref></sg>,;
+<sg>compression ,<cref> 195 <i>presence</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>abridge, abstract, epitomize, summarize</sg>,;
+<sg>make an abstract, prepare an abstract, draw an abstract, compile an abstract</sg>,;
+<sg>recapitulate, review, skim, run over, sum up</sg>,;
+<sg>abbreviate ,<cref>201 <i>shorten</i></cref></sg>,;
+<sg>condense ,<cref>195 <i>compress</i></cref></sg>,;
+<sg>compile ,<cref>72 <i>collect</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>compendious, synoptic, analectic</sg>,;
+<sg>abrege, abridged</sg>,;
+<sg>variorum</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>in short, in epitome, in substance, in few words</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>it lies in a nutshell</sg>,;
+<br>
+</paragraph>

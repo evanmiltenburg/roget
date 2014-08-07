@@ -1,0 +1,62 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#36#</sectionNumber>
+<headword>#<b>#[001] #876# Rejoicing #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>rejoicing, </i>exultation, triumph, jubilation, heyday, flush, revelling</sg>,;
+<sg>merrymaking ,<cref>840 <i>amusement</i></cref></sg>,;
+<sg>jubilee ,<cref>883 <i>celebration</i></cref></sg>,;
+<sg>paean, Te Deum ,<cref>990 <i>thanksgiving</i></cref></sg>,;
+<sg>congratulation ,<cref> 896 <i>laughingstock</i></cref></sg>,;
+<sg>smile, simper, smirk, grin</sg>,;
+<sg>broad grin, sardonic grin</sg>,;
+<sg>laughter (amusement) 840</sg>,;
+<sg>risibility</sg>,;
+<sg>derision ,<cref> 856 <i>prodigality</i></cref></sg>,;
+<sg>Momus</sg>,;
+<sg>Democritus the Abderite</sg>,;
+<sg>rollicker</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>rejoice, thank one's stars, bless one's stars</sg>,;
+<sg>congratulate oneself, hug oneself</sg>,;
+<sg>rub one's hands, clap one's hands</sg>,;
+<sg>smack the lips, fling up one's cap</sg>,;
+<sg>dance, skip</sg>,;
+<sg>sing, carol, chirrup, chirp</sg>,;
+<sg>hurrah</sg>,;
+<sg>cry for joy, jump for joy, leap with joy</sg>,;
+<sg>exult ,<cref>884 <i>boast</i></cref></sg>,;
+<sg>triumph</sg>,;
+<sg>hold jubilee ,<cref>883 <i>celebrate</i></cref></sg>,;
+<sg>make merry ,<cref>840 <i>sport</i></cref></sg>,;
+<sg>laugh, raise laughter ,<cref>840 <i>amuse</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>rejoicing</sg>,;
+<sg>jubilant, exultant, triumphant</sg>,;
+<sg>flushed, elated, pleased, delighted, tickled pink</sg>,;
+<sg>amused ,<cref> 840 <i>credit</i></cref></sg>,;
+<sg>cheerful ,<cref> 836 <i>treasurer</i></cref></sg>,;
+<sg>laughable ,<cref>853 <i>ludicrous</i></cref></sg>,;
+<sg>Int</sg>,;
+<sg>hurrah!, Huzza!, aha!, hail!, tolderolloll!, Heaven be praised!, io triumphe!, tant mieux!, so much the better</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>the heart leaping with joy</sg>,;
+<sg>ce n'est pas etre bien aise que de rire</sg>,;
+<sg>Laughter holding both his sides</sg>,;
+<sg>le roi est mort, vive le roi</sg>,;
+<sg>with his eyes in flood with laughter</sg>,;
+<br>
+</paragraph>

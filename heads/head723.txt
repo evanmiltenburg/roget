@@ -1,0 +1,60 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#28#</sectionNumber>
+<headword>#<b>#[001] #723# Director #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>director, </i>manager, governor, rector, comptroller</sg>,;
+<sg>superintendent, supervisor, straw boss</sg>,;
+<sg>intendant</sg>,;
+<sg>overseer, overlooker</sg>,;
+<sg>supercargo, husband, inspector, visitor, ranger, surveyor, aedile</sg>,;
+<sg>moderator, monitor, taskmaster</sg>,;
+<sg>master ,<cref> 745 <i>attack</i></cref></sg>,;
+<sg>leader, ringleader, demagogue, corypheus, conductor, fugleman, precentor, bellwether, agitator</sg>,;
+<sg>caporal, choregus, collector, file leader, flugelman, linkboy</sg>,;
+<sg>guiding star ,<cref>693 <i>guidance</i></cref></sg>,;
+<sg>adviser ,<cref> 695 <i>refuge</i></cref></sg>,;
+<sg>guide ,<cref>527 <i>information</i></cref></sg>,;
+<sg>pilot</sg>,;
+<sg>helmsman</sg>,;
+<sg>steersman, steermate</sg>,;
+<sg>wire-puller</sg>,;
+<sg>driver, whip, Jehu, charioteer</sg>,;
+<sg>coachman, carman, cabman</sg>,;
+<sg>postilion, vetturino, muleteer, arriero, teamster</sg>,;
+<sg>whipper in</sg>,;
+<sg>head, head man, head center, boss</sg>,;
+<sg>principal, president, speaker</sg>,;
+<sg>chair, chairman, chairwoman, chairperson</sg>,;
+<sg>captain ,<cref>745 <i>master</i></cref></sg>,;
+<sg>superior</sg>,;
+<sg>mayor ,<cref>745 <i>civil authority</i></cref></sg>,;
+<sg>vice president, prime minister, premier, vizier, grand vizier, eparch</sg>,;
+<sg>officer, functionary, minister, official, red-tapist, bureaucrat</sg>,;
+<sg>man in office, Jack in office</sg>,;
+<sg>office bearer</sg>,;
+<sg>person in authority ,<cref> 745 <i>attack</i></cref></sg>,;
+<sg>statesman, strategist, legislator, lawgiver, politician, statist, statemonger</sg>,;
+<sg>Minos, Draco</sg>,;
+<sg>arbiter ,<cref>967 <i>judge</i></cref></sg>,;
+<sg>boss, political dictator</sg>,;
+<sg>board ,<cref>696 <i>council</i></cref></sg>,;
+<sg>secretary, secretary of state</sg>,;
+<sg>Reis Effendi</sg>,;
+<sg>vicar ,<cref>759 <i>deputy</i></cref></sg>,;
+<sg>steward, factor</sg>,;
+<sg>agent ,<cref> 758 <i>completion</i></cref></sg>,;
+<sg>bailiff, middleman</sg>,;
+<sg>foreman, clerk of works</sg>,;
+<sg>landreeve</sg>,;
+<sg>factotum, major-domo, seneschal, housekeeper, shepherd, croupier</sg>,;
+<sg>proctor, procurator</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>ex officio</sg>,;
+<br>
+</paragraph>

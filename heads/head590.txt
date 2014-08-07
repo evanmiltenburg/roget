@@ -1,0 +1,60 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#25#</sectionNumber>
+<headword>#<b>#[001] #590# Nomenclature #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>nomenclature</i></sg>,;
+<sg>naming</sg>,;
+<sg>nuncupation, nomination, baptism</sg>,;
+<sg>orismology</sg>,;
+<sg>onomatopoeia</sg>,;
+<sg>antonomasia</sg>,;
+<sg>name</sg>,;
+<sg>appelation, appelative</sg>,;
+<sg>designation, title</sg>,;
+<sg>heading, rubric</sg>,;
+<sg>caption</sg>,;
+<sg>denomination</sg>,;
+<sg>by-name, epithet</sg>,;
+<sg>style, proper name</sg>,;
+<sg>praenomen, agnomen, cognomen</sg>,;
+<sg>patronymic, surname</sg>,;
+<sg>cognomination</sg>,;
+<sg>eponym</sg>,;
+<sg>compellation, description, antonym</sg>,;
+<sg>empty title, empty name</sg>,;
+<sg>handle to one's name</sg>,;
+<sg>namesake</sg>,;
+<sg>term, expression, noun</sg>,;
+<sg>byword</sg>,;
+<sg>convertible terms ,<cref> 522 <i>wisdom</i></cref></sg>,;
+<sg>technical term</sg>,;
+<sg>cant ,<cref> 563 <i>teaching</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>name, call, term, denominate designate, style, entitle, clepe, dub, christen, baptize, characterize, specify, define, distinguish by the name of</sg>,;
+<sg>label ,<cref>550 <i>mark</i></cref></sg>,;
+<sg>be called</sg>,;
+<sg>take the name of, bean the name of, go by the name of, be known by the name of, go under the name of, pass under the name of, rejoice in the name of</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>named</sg>,;
+<sg>hight, ycleped, known as</sg>,;
+<sg>what one may well, call fairly, call properly, call fitly</sg>,;
+<sg>nuncupatory, nuncupative</sg>,;
+<sg>cognominal, titular, nominal, orismological</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>beggar'd all description</sg>,;
+<br>
+</paragraph>

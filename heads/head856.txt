@@ -1,0 +1,63 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#34#</sectionNumber>
+<headword>#<b>#[001] #856# Prodigality #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>prodigality, </i>prodigence</sg>,;
+<sg>unthriftiness, waste</sg>,;
+<sg>profusion, profuseness</sg>,;
+<sg>extravagance</sg>,;
+<sg>squandering</sg>,;
+<sg>malversation</sg>,;
+<sg>prodigal</sg>,;
+<sg>spendthrift, waste thrift</sg>,;
+<sg>losel, squanderer, locust</sg>,;
+<sg>high roller</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be prodigal</sg>,;
+<sg>squander, lavish, sow broadcast</sg>,;
+<sg>pour forth like water</sg>,;
+<sg>blow, blow in</sg>,;
+<sg>pay through the nose ,<cref>814 <i>dear</i></cref></sg>,;
+<sg>spill, waste, dissipate, exhaust, drain, eat out of house and home, overdraw, outrun the constable</sg>,;
+<sg>run out, run through</sg>,;
+<sg>misspend</sg>,;
+<sg>throw good money after bad, throw the helve after the hatchet</sg>,;
+<sg>burn the candle at both ends</sg>,;
+<sg>make ducks and drakes of one's money</sg>,;
+<sg>fool away one's money, potter away one's money, muddle away one's money, fritter away one's money, throw away one's money, run through one's money</sg>,;
+<sg>pour water into a sieve, kill the goose that lays the golden eggs</sg>,;
+<sg>manger son ble en herbe</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>prodigal, profuse, thriftless, unthrifty, improvident, wasteful, losel, extravagant, lavish, dissipated, overliberal</sg>,;
+<sg>full-handed ,<cref>816 <i>liberal</i></cref></sg>,;
+<sg>penny wise and pound foolish</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>with an unsparing hand</sg>,;
+<sg>money burning a hole in one's pocket</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>amor nummi</sg>,;
+<sg>facile largiri de alieno</sg>,;
+<sg>wie gewonnen so zerronnen</sg>,;
+<sg>les fous font les festins et les sages les mangent</sg>,;
+<sg>spendthrift alike of money and of wit</sg>,;
+<sg>squandering wealth was his peculiar art</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,110 @@
+<classNumber>#2#</classNumber>
+<sectionNumber>#9#</sectionNumber>
+<headword>#<b>#[001] #198# Abode #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>abode, </i>dwelling, lodging, domicile, residence, apartment, place, digs, pad, address, habitation, where one's lot is cast, local habitation, berth, diggings, seat, lap, sojourn, housing, quarters, headquarters, resiance, tabernacle, throne, ark</sg>,;
+<sg>home, fatherland</sg>,;
+<sg>country</sg>,;
+<sg>homestead, homestall</sg>,;
+<sg>fireside</sg>,;
+<sg>hearth, hearth stone</sg>,;
+<sg>chimney corner, inglenook, ingle side</sg>,;
+<sg>harem, seraglio, zenana</sg>,;
+<sg>household gods, lares et penates, roof, household, housing, dulce domum, paternal domicile</sg>,;
+<sg>native soil, native land</sg>,;
+<sg>habitat, range, stamping ground</sg>,;
+<sg>haunt, hangout</sg>,;
+<sg>biosphere</sg>,;
+<sg>environment, ecological niche</sg>,;
+<sg>nest, nidus, snuggery</sg>,;
+<sg>arbor, bower, ,<cref> 191 <i>place</i></cref></sg>,;
+<sg>lair, den, cave, hole, hiding place, cell, sanctum sanctorum, aerie, eyrie, eyry, rookery, hive</sg>,;
+<sg>covert, resort, retreat, perch, roost</sg>,;
+<sg>nidification</sg>,;
+<sg>kala jagah</sg>,;
+<sg>bivouac, camp, encampment, cantonment, castrametation</sg>,;
+<sg>barrack, casemate, casern</sg>,;
+<sg>tent ,<cref>223 <i>covering</i></cref></sg>,;
+<sg>building ,<cref>161 <i>construction</i></cref></sg>,;
+<sg>chamber ,<cref>191 <i>receptacle</i></cref></sg>,;
+<sg>xenodochium</sg>,;
+<sg>tenement, messuage, farm, farmhouse, grange, hacienda, toft</sg>,;
+<sg>cot, cabin, hut, chalet, croft, shed, booth, stall, hovel, bothy, shanty, dugout, wigwam</sg>,;
+<sg>pen ,<cref>232 <i>inclosure</i></cref></sg>,;
+<sg>barn, bawn</sg>,;
+<sg>kennel, sty, doghold, cote, coop, hutch, byre</sg>,;
+<sg>cow house, cow shed</sg>,;
+<sg>stable, dovecote, columbary, columbarium</sg>,;
+<sg>shippen</sg>,;
+<sg>igloo, iglu, jacal</sg>,;
+<sg>lacustrine dwelling, lacuslake dwelling, lacuspile dwelling</sg>,;
+<sg>log cabin, log house</sg>,;
+<sg>shack, shebang, tepee, topek</sg>,;
+<sg>house, mansion, place, villa, cottage, box, lodge, hermitage, rus in urbe, folly, rotunda, tower, chateau, castle, pavilion, hotel, court, manor-house, capital messuage, hall, palace</sg>,;
+<sg>kiosk, bungalow</sg>,;
+<sg>casa, country seat, apartment house, flat house, frame house, shingle house, tenement house</sg>,;
+<sg>temple ,<cref> 1000 <i>gluttony</i></cref></sg>,;
+<sg>hamlet, village, thorp, dorp, ham, kraal</sg>,;
+<sg>borough, burgh, town, city, capital, metropolis</sg>,;
+<sg>suburb</sg>,;
+<sg>province, country</sg>,;
+<sg>county town, county seat</sg>,;
+<sg>courthouse</sg>,;
+<sg>ghetto</sg>,;
+<sg>street, place, terrace, parade, esplanade, alameda, board walk, embankment, road, row, lane, alley, court, quadrangle, quad, wynd, close, yard, passage, rents, buildings, mews</sg>,;
+<sg>square, polygon, circus, crescent, mall, piazza, arcade, colonnade, peristyle, cloister</sg>,;
+<sg>gardens, grove, residences</sg>,;
+<sg>block of buildings, market place, place, plaza</sg>,;
+<sg>anchorage, roadstead, roads</sg>,;
+<sg>dock, basin, wharf, quay, port, harbor</sg>,;
+<sg>quarter, parish ,<cref>181 <i>region</i></cref></sg>,;
+<sg>assembly room, meetinghouse, pump room, spa, watering place</sg>,;
+<sg>inn</sg>,;
+<sg>hostel, hostelry</sg>,;
+<sg>hotel, tavern, caravansary, dak bungalow, khan, hospice</sg>,;
+<sg>public house, pub, pot house, mug house</sg>,;
+<sg>gin mill, gin palace</sg>,;
+<sg>bar, bar room</sg>,;
+<sg>barrel house, cabaret, chophouse</sg>,;
+<sg>club, clubhouse</sg>,;
+<sg>cookshop, dive, exchange</sg>,;
+<sg>grill room, saloon, shebeen</sg>,;
+<sg>coffee house, eating house</sg>,;
+<sg>canteen, restaurant, buffet, cafe, estaminet, posada</sg>,;
+<sg>almshouse, poorhouse, townhouse</sg>,;
+<sg>garden, park, pleasure ground, plaisance, demesne</sg>,;
+<sg>cage, terrarium, doghouse</sg>,;
+<sg>pen, aviary</sg>,;
+<sg>barn, stall</sg>,;
+<sg>zoo</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>take up one's abode ,<cref>184 <i>locate oneself</i></cref></sg>,;
+<sg>inhabit ,<cref>186 <i>be present</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>urban, metropolitan</sg>,;
+<sg>suburban</sg>,;
+<sg>provincial, rural, rustic</sg>,;
+<sg>domestic</sg>,;
+<sg>cosmopolitan</sg>,;
+<sg>palatial</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>eigner Hert ist goldes Werth</sg>,;
+<sg>even cities have their graves</sg>,;
+<sg>ubi libertas ibi patria</sg>,;
+<sg>home sweet home</sg>,;
+<br>
+</paragraph>

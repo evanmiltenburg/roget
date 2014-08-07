@@ -1,0 +1,46 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#25#</sectionNumber>
+<headword>#<b>#[001] #592# Phrase #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>phrase, </i>expression, set phrase</sg>,;
+<sg>sentence, paragraph</sg>,;
+<sg>figure of speech ,<cref> 521 <i>absurdity</i></cref></sg>,;
+<sg>idiom, idiotism</sg>,;
+<sg>turn of expression</sg>,;
+<sg>style</sg>,;
+<sg>paraphrase ,<cref>522 <i>synonym</i></cref></sg>,;
+<sg>periphrase ,<cref>573 <i>circumlocution</i></cref></sg>,;
+<sg>motto ,<cref>496 <i>proverb</i></cref></sg>,;
+<sg>phraseology ,<cref> 569 <i>veracity</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>express, phrase</sg>,;
+<sg>word, word it</sg>,;
+<sg>give words to, give expression to</sg>,;
+<sg>voice</sg>,;
+<sg>arrange in words, clothe in words, put into words, express by words</sg>,;
+<sg>couch in terms</sg>,;
+<sg>find words to express</sg>,;
+<sg>speak by the card</sg>,;
+<sg>call, denominate, designate, dub</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>expressed</sg>,;
+<sg>idiomatic</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>in round terms, in set terms, in good set terms, set terms</sg>,;
+<sg>in set phrases</sg>,;
+<br>
+</paragraph>

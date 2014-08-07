@@ -1,0 +1,26 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#29#</sectionNumber>
+<headword>#<b>#[001] #757# Arena #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>arena, </i>field, platform</sg>,;
+<sg>scene of action, theater</sg>,;
+<sg>walk, course</sg>,;
+<sg>hustings</sg>,;
+<sg>stare, boards ,<cref>599 <i>playhouse</i></cref></sg>,;
+<sg>amphitheater</sg>,;
+<sg>Coliseum, Colosseum</sg>,;
+<sg>Flavian amphitheater, hippodrome, circus, race course, corso, turf, cockpit, bear garden, playground, gymnasium, palestra, ring, lists</sg>,;
+<sg>tiltyard, tilting ground</sg>,;
+<sg>Campus Martins, Champ de Allars</sg>,;
+<sg>campus</sg>,;
+<sg>boxing ring, canvas</sg>,;
+<sg>theater of war, seat of war</sg>,;
+<sg>battle-field, battle-ground</sg>,;
+<sg>field of battle, field of slaughter</sg>,;
+<sg>Aceldama, camp</sg>,;
+<sg>the enemy's camp</sg>,;
+<sg>trusting place ,<cref>74 <i>place of meeting</i></cref></sg>,;
+<br>
+</paragraph>

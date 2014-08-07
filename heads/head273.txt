@@ -1,0 +1,15 @@
+<classNumber>#2#</classNumber>
+<sectionNumber>#11#</sectionNumber>
+<headword>#<b>#[001] #273# Perforator #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>perforator, </i>piercer, borer, auger, chisel, gimlet, stylet, drill, wimble, awl, bradawl, scoop, terrier, corkscrew, dibble, trocar, trepan, probe, bodkin, needle, stiletto, rimer, warder, lancet</sg>,;
+<sg>punch, puncheon</sg>,;
+<sg>spikebit, gouge</sg>,;
+<sg>spear ,<cref>727 <i>weapon</i></cref></sg>,;
+<sg>puncher</sg>,;
+<sg>punching machine, punching press</sg>,;
+<sg>punch pliers</sg>,;
+<br>
+</paragraph>

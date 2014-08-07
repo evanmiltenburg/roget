@@ -1,0 +1,25 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#25#</sectionNumber>
+<headword>#<b>#[001] #601# Feebleness #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>feebleness</i></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>feeble, bald, tame, meager, jejune, vapid, bland, trashy, lukewarm, cold, frigid, poor, dull, dry, languid</sg>,;
+<sg>colorless, enervated</sg>,;
+<sg>proposing, prosy, prosaic</sg>,;
+<sg>unvaried, monotonous, weak, washy, wishy- washy</sg>,;
+<sg>sketchy, slight</sg>,;
+<sg>careless, slovenly, loose, lax (negligent) 460</sg>,;
+<sg>slipshod, slipslop</sg>,;
+<sg>inexact</sg>,;
+<sg>puerile, childish</sg>,;
+<sg>flatulent</sg>,;
+<sg>rambling ,<cref>573 <i>diffuse</i></cref></sg>,;
+<br>
+</paragraph>

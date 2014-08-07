@@ -1,0 +1,63 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#39#</sectionNumber>
+<headword>#<b>#[001] #1039# Churchdom #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>church, churchdom</sg>,;
+<sg>ministry, apostleship, priesthood, prelacy, hierarch, church government, christendom, pale of the church</sg>,;
+<sg>clericalism, sacerdotalism, episcopalianism, ultramontanism</sg>,;
+<sg>theocracy</sg>,;
+<sg>ecclesiology, ecclesiologist</sg>,;
+<sg>priestcraft, odium theologicum</sg>,;
+<sg>monachism, monachy</sg>,;
+<sg>monasticism, monkhood</sg>,;
+<sg>pontificate, primacy, archbishopric, archiepiscopacy</sg>,;
+<sg>prelacy</sg>,;
+<sg>bishopric, bishopdom</sg>,;
+<sg>episcopate, episcopacy</sg>,;
+<sg>see, diocese</sg>,;
+<sg>deanery, stall</sg>,;
+<sg>canonry, canonicate</sg>,;
+<sg>prebend, prebendaryship</sg>,;
+<sg>benefice, incumbency, glebe, advowson, living, cure</sg>,;
+<sg>rectorship</sg>,;
+<sg>vicariate, vicarship</sg>,;
+<sg>deaconry, deaconship</sg>,;
+<sg>curacy</sg>,;
+<sg>chaplain, chaplaincy, chaplainship</sg>,;
+<sg>cardinalate, cardinalship</sg>,;
+<sg>abbacy, presbytery</sg>,;
+<sg>holy orders, ordination, institution, consecration, induction, reading in, preferment, translation, presentation</sg>,;
+<sg>popedom</sg>,;
+<sg>the Vatican, the apostolic see</sg>,;
+<sg>religious sects ,<cref> 984 <i>disinterestedness</i></cref></sg>,;
+<sg>council ,<cref> 696 <i>pitfall</i></cref></sg>,;
+<sg>conclave, convocation, synod, consistory, chapter, vestry</sg>,;
+<sg>sanhedrim, conge d'elire</sg>,;
+<sg>ecclesiastical courts, consistorial court, court of Arches</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>call, ordain, induct, prefer, translate, consecrate, present</sg>,;
+<sg>take orders, take the tonsure, take the veil, take vows</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>ecclesiastical, ecclesiological</sg>,;
+<sg>clerical, sacerdotal, priestly, prelatical, pastoral, ministerial, capitular, theocratic</sg>,;
+<sg>hierarchical, archiepiscopal</sg>,;
+<sg>episcopal, episcopalian</sg>,;
+<sg>canonical</sg>,;
+<sg>monastic, monachal</sg>,;
+<sg>monkish</sg>,;
+<sg>abbatial, abbatical</sg>,;
+<sg>Anglican</sg>,;
+<sg>pontifical, papal, apostolic, Roman, Popish</sg>,;
+<sg>ultramontane, priest-ridden</sg>,;
+<br>
+</paragraph>

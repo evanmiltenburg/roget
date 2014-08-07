@@ -1,0 +1,35 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#14#</sectionNumber>
+<headword>#<b>#[001] #338# Tenacity #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>tenacity, </i>toughness, strength</sg>,;
+<sg>(cohesion) 46</sg>,;
+<sg>grip, grasp, stickiness, (cohesion) 46</sg>,;
+<sg>sequacity</sg>,;
+<sg>stubbornness  (obstinacy)</sg>,;
+<sg>glue, cement, glutinousness, sequaciousness, viscidity, (semiliquidity) 352</sg>,;
+<sg>leather</sg>,;
+<sg>white leather, whitleather</sg>,;
+<sg>gristle, cartilage</sg>,;
+<sg>unbreakability, tensile strength</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be tenacious</sg>,;
+<sg>resist fracture</sg>,;
+<sg>grip, grasp, stick (cohesion) 46</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>tenacious, tough, strong, resisting, sequacious, stringy, gristly cartilaginous, leathery, coriaceous, tough as whitleather</sg>,;
+<sg>stubborn ,<cref>606 <i>obstinate</i></cref></sg>,;
+<sg>unbreakable, indivisible</sg>,;
+<sg>atomic</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,51 @@
+<classNumber>#2#</classNumber>
+<sectionNumber>#12#</sectionNumber>
+<headword>#<b>#[001] #318# Elevation #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>elevation</i></sg>,;
+<sg>raising</sg>,;
+<sg>erection, lift</sg>,;
+<sg>sublevation, upheaval</sg>,;
+<sg>sublimation, exaltation</sg>,;
+<sg>prominence ,<cref>250 <i>convexity</i></cref></sg>,;
+<sg>lever ,<cref> 633 <i>obstinacy</i></cref></sg>,;
+<sg>crane, derrick, windlass, capstan, winch</sg>,;
+<sg>dredge, dredger, dredging machine</sg>,;
+<sg>dumbwaiter, elevator, escalator, lift</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>heighten, elevate, raise, lift, erect</sg>,;
+<sg>set up, stick up, perch up, perk up, tilt up</sg>,;
+<sg>rear, hoist, heave</sg>,;
+<sg>uplift, upraise, uprear, upbear, upcast, uphoist, upheave</sg>,;
+<sg>buoy, weigh mount, give a lift</sg>,;
+<sg>exalt</sg>,;
+<sg>sublimate</sg>,;
+<sg>place on a pedestal, set on a pedestal</sg>,;
+<sg>escalate ,<cref>35 <i>increase</i></cref> 102 194</sg>,;
+<sg>take up, drag up, fish up</sg>,;
+<sg>dredge</sg>,;
+<sg>stand up, rise up, get up, jump up</sg>,;
+<sg>spring to one's feet</sg>,;
+<sg>hold oneself, hold one's head up</sg>,;
+<sg>drawn oneself up to his full height</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>elevated</sg>,;
+<sg>stilted, attollent, rampant</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>on stilts, on the shoulders of, on one's legs, on one's hind legs</sg>,;
+<br>
+</paragraph>

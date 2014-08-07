@@ -1,0 +1,63 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#3#</sectionNumber>
+<headword>#<b>#[001] #37# Increase #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>increase, </i>augmentation, enlargement, extension</sg>,;
+<sg>dilatation ,<cref>194 <i>expansion</i></cref></sg>,;
+<sg>increment, accretion</sg>,;
+<sg>accession ,<cref> 37 <i>increase</i></cref></sg>,;
+<sg>development, growth</sg>,;
+<sg>aggrandizement, aggravation</sg>,;
+<sg>rise</sg>,;
+<sg>ascent ,<cref> 305 <i>ingress</i></cref></sg>,;
+<sg>exaggeration exacerbation</sg>,;
+<sg>spread ,<cref>73 <i>dispersion</i></cref></sg>,;
+<sg>flood tide</sg>,;
+<sg>gain, produce, product, profit</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>increase, augment, add to, enlarge</sg>,;
+<sg>dilate ,<cref>194 <i>expand</i></cref></sg>,;
+<sg>grow, wax, get ahead</sg>,;
+<sg>gain strength</sg>,;
+<sg>advance</sg>,;
+<sg>run up, shoot up</sg>,;
+<sg>rise</sg>,;
+<sg>ascend ,<cref> 305 <i>ingress</i></cref></sg>,;
+<sg>sprout ,<cref> 194 <i>displacement</i></cref></sg>,;
+<sg>aggrandize</sg>,;
+<sg>raise, exalt</sg>,;
+<sg>deepen, heighten</sg>,;
+<sg>strengthen</sg>,;
+<sg>intensify, enhance, magnify, redouble</sg>,;
+<sg>aggravate, exaggerate</sg>,;
+<sg>exasperate, exacerbate</sg>,;
+<sg>add fuel to the flame, oleum addere camino, superadd ,<cref>37 <i>add</i></cref></sg>,;
+<sg>spread ,<cref>73 <i>disperse</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>increased</sg>,;
+<sg>on the increase, undiminished</sg>,;
+<sg>additional ,<cref>37 <i>added</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>crescendo</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>vires acquirit eundo</sg>,;
+<br>
+</paragraph>

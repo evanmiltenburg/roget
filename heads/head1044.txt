@@ -1,0 +1,61 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#39#</sectionNumber>
+<headword>#<b>#[001] #1044# Temple #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>temple, </i>place of worship</sg>,;
+<sg>house of God, house of prayer</sg>,;
+<sg>temple, cathedral, minster, church, kirk, chapel, meetinghouse, bethel, tabernacle, conventicle, basilica, fane, holy place, chantry, oratory</sg>,;
+<sg>synagogue</sg>,;
+<sg>mosque</sg>,;
+<sg>marabout</sg>,;
+<sg>pantheon</sg>,;
+<sg>pagoda</sg>,;
+<sg>joss house</sg>,;
+<sg>dogobah, tope</sg>,;
+<sg>kiosk</sg>,;
+<sg>kiack, masjid</sg>,;
+<sg>parsonage, rectory, vicarage, manse, deanery, glebe</sg>,;
+<sg>Vatican</sg>,;
+<sg>bishop's palace</sg>,;
+<sg>Lambeth</sg>,;
+<sg>altar, shrine, sanctuary, Holy of Holies, sanctum sanctorum, sacristy</sg>,;
+<sg>sacrarium</sg>,;
+<sg>communion table, holy table, Lord's table</sg>,;
+<sg>table of the Lord</sg>,;
+<sg>pyx</sg>,;
+<sg>baptistery, font</sg>,;
+<sg>piscina, stoup</sg>,;
+<sg>aumbry</sg>,;
+<sg>sedile</sg>,;
+<sg>reredos</sg>,;
+<sg>rood loft, rood screen</sg>,;
+<sg>chancel, quire, choir, nave, aisle, transept, vestry, crypt, golgotha, calvary, Easter sepulcher</sg>,;
+<sg>stall, pew</sg>,;
+<sg>pulpit, ambo, lectern, reading desk, confessional, prothesis, credence, baldachin, baldacchino</sg>,;
+<sg>apse, belfry</sg>,;
+<sg>chapter house</sg>,;
+<sg>presbytery</sg>,;
+<sg>anxious-bench, anxious-seat</sg>,;
+<sg>diaconicum, jube</sg>,;
+<sg>mourner's bench, mourner's seat</sg>,;
+<sg>cloisters, churchyard</sg>,;
+<sg>monastery, priory, abbey, friary, convent, nunnery, cloister</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>claustral, cloistered</sg>,;
+<sg>monastic, monasterial</sg>,;
+<sg>conventual</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>ne vile fano</sg>,;
+<sg>there's nothing ill can dwell in such a temple</sg>,;
+<br>
+</paragraph>

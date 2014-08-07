@@ -1,0 +1,116 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#36#</sectionNumber>
+<headword>#<b>#[001] #867# Pleasurableness #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>pleasurableness, </i>pleasantness, agreeableness</sg>,;
+<sg>pleasure giving, jucundity, delectability</sg>,;
+<sg>amusement ,<cref> 840 <i>credit</i></cref></sg>,;
+<sg>attraction ,<cref>615 <i>motive</i></cref></sg>,;
+<sg>attractiveness, attractability</sg>,;
+<sg>invitingness</sg>,;
+<sg>harm, fascination, enchantment, witchery, seduction, winning ways, amenity, amiability</sg>,;
+<sg>winsomeness</sg>,;
+<sg>loveliness ,<cref>845 <i>beauty</i></cref></sg>,;
+<sg>sunny side, bright side</sg>,;
+<sg>sweets ,<cref>396 <i>sugar</i></cref></sg>,;
+<sg>goodness ,<cref> 648 <i>evil</i></cref></sg>,;
+<sg>manna in the wilderness, land flowing with milk and honey</sg>,;
+<sg>bittersweet</sg>,;
+<sg>fair weather</sg>,;
+<sg>treat</sg>,;
+<sg>regale ,<cref>377 <i>physical pleasure</i></cref></sg>,;
+<sg>dainty</sg>,;
+<sg>titbit, tidbit</sg>,;
+<sg>nuts, sauce piquante</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>cause pleasure, produce pleasure, create pleasure, give pleasure, afford pleasure, procure pleasure, offer pleasure, present pleasure, yield pleasure ,<cref> 827 <i>barter</i></cref></sg>,;
+<sg>please, charm, delight, becharm, imparadise</sg>,;
+<sg>gladden ,<cref>836 <i>make cheerful</i></cref></sg>,;
+<sg>take, captivate, fascinate</sg>,;
+<sg>enchant, entrance, enrapture, transport, bewitch</sg>,;
+<sg>enravish</sg>,;
+<sg>bless, beatify</sg>,;
+<sg>satisfy</sg>,;
+<sg>gratify, desire</sg>,;
+<sg>,<cref> 865 <i>pleasure</i></cref></sg>,;
+<sg>slake, satiate, quench</sg>,;
+<sg>indulge, humor, flatter, tickle</sg>,;
+<sg>tickle the palate ,<cref>394 <i>savory</i></cref></sg>,;
+<sg>regale, refresh</sg>,;
+<sg>enliven</sg>,;
+<sg>treat</sg>,;
+<sg>amuse ,<cref> 840 <i>credit</i></cref></sg>,;
+<sg>take one's fancy, tickle one's fancy, hit one's fancy</sg>,;
+<sg>meet one's wishes</sg>,;
+<sg>win the heart, gladden the heart, rejoice the heart, warm the cockles of the heart</sg>,;
+<sg>do one's heart good</sg>,;
+<sg>attract, allure ,<cref>615 <i>move</i></cref></sg>,;
+<sg>stimulate ,<cref>824 <i>excite</i></cref></sg>,;
+<sg>interest</sg>,;
+<sg>make things pleasant, popularize, gild the pill, sugar-coat the pill, sweeten</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>causing pleasure</sg>,;
+<sg>laetificant</sg>,;
+<sg>pleasure-giving, pleasing, pleasant, pleasurable</sg>,;
+<sg>agreeable</sg>,;
+<sg>grateful, gratifying</sg>,;
+<sg>leef, lief, acceptable</sg>,;
+<sg>welcome, welcome as the roses in May</sg>,;
+<sg>welcomed</sg>,;
+<sg>favorite</sg>,;
+<sg>to one's taste, to one's mind, to one's liking</sg>,;
+<sg>satisfactory ,<cref>648 <i>good</i></cref></sg>,;
+<sg>refreshing</sg>,;
+<sg>comfortable</sg>,;
+<sg>cordial</sg>,;
+<sg>genial</sg>,;
+<sg>glad, gladsome</sg>,;
+<sg>sweet, delectable, nice, dainty</sg>,;
+<sg>delicate, delicious</sg>,;
+<sg>dulcet</sg>,;
+<sg>luscious ,<cref> 396 <i>cold</i></cref></sg>,;
+<sg>palatable ,<cref> 394 <i>numbness</i></cref></sg>,;
+<sg>luxurious, voluptuous</sg>,;
+<sg>sensual ,<cref> 377 <i>vegetability^</i></cref></sg>,;
+<sg>attractive ,<cref> 615 <i>soliloquy</i></cref></sg>,;
+<sg>inviting, prepossessing, engaging</sg>,;
+<sg>winning, winsome</sg>,;
+<sg>taking, fascinating, captivating, killing</sg>,;
+<sg>seducing, seductive</sg>,;
+<sg>heart-robbing, alluring, enticing</sg>,;
+<sg>appetizing ,<cref>824 <i>exciting</i></cref></sg>,;
+<sg>cheering ,<cref> 836 <i>treasurer</i></cref></sg>,;
+<sg>bewitching</sg>,;
+<sg>enchanting, entrancing, enravishing</sg>,;
+<sg>charming</sg>,;
+<sg>delightful, felicitous, exquisite</sg>,;
+<sg>lovely ,<cref>845 <i>beautiful</i></cref></sg>,;
+<sg>ravishing, rapturous</sg>,;
+<sg>heartfelt, thrilling, ecstatic</sg>,;
+<sg>beatic</sg>,;
+<sg>beatific</sg>,;
+<sg>seraphic</sg>,;
+<sg>empyrean</sg>,;
+<sg>elysian ,<cref>981 <i>heavenly</i></cref></sg>,;
+<sg>palmy, halcyon, Saturnian</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>decies repetita placebit</sg>,;
+<sg>charms strike the sight but merit wins the soul</sg>,;
+<sg>sweetness and light</sg>,;
+<sg>beauty is only skin deep</sg>,;
+<br>
+</paragraph>

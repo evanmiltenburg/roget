@@ -1,0 +1,91 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#15#</sectionNumber>
+<headword>#<b>#[001] #441# Luminary #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>luminary</i></sg>,;
+<sg>light ,<cref> 420 <i>silence</i></cref></sg>,;
+<sg>flame ,<cref>382 <i>fire</i></cref></sg>,;
+<sg>spark, scintilla</sg>,;
+<sg>phosphorescence, fluorescence</sg>,;
+<sg>sun, orb of day, Phoebus, Apollo, Aurora</sg>,;
+<sg>star, orb</sg>,;
+<sg>meteor, falling star, shooting star</sg>,;
+<sg>blazing star, dog star, Sirius</sg>,;
+<sg>canicula, Aldebaran</sg>,;
+<sg>constellation, galaxy</sg>,;
+<sg>zodiacal light</sg>,;
+<sg>anthelion</sg>,;
+<sg>day star, morning star</sg>,;
+<sg>Lucifer</sg>,;
+<sg>mock sun, parhelion</sg>,;
+<sg>phosphor, phosphorus</sg>,;
+<sg>sun dog</sg>,;
+<sg>Venus</sg>,;
+<sg>aurora, polar lights</sg>,;
+<sg>northern lights, aurora borealis</sg>,;
+<sg>southern lights, aurora australis</sg>,;
+<sg>lightning</sg>,;
+<sg>chain lightning, fork lightning, sheet lightning, summer lightning</sg>,;
+<sg>ball lightning, kugelblitz</sg>,;
+<sg>phosphorus, yellow phosphorus</sg>,;
+<sg>scintillator, phosphor</sg>,;
+<sg>firefly luminescence</sg>,;
+<sg>ignis fatuus</sg>,;
+<sg>Jack o'lantern, Friar's lantern</sg>,;
+<sg>will-o'-the- wisp, firedrake, Fata Morgana</sg>,;
+<sg>Saint Elmo's fire</sg>,;
+<sg>glowworm, firefly, June bug, lightning bug</sg>,;
+<sg>anglerfish</sg>,;
+<sg>gas</sg>,;
+<sg>gas light, lime light, lantern, lanthorn</sg>,;
+<sg>dark lantern, bull's-eye</sg>,;
+<sg>candle, bougie, taper, rushlight</sg>,;
+<sg>oil ,<cref>356 <i>grease</i></cref></sg>,;
+<sg>wick, burner</sg>,;
+<sg>Argand, moderator, duplex</sg>,;
+<sg>torch, flambeau, link, brand</sg>,;
+<sg>gaselier, chandelier, electrolier, candelabrum, candelabra, girandole, sconce, luster, candlestick</sg>,;
+<sg>lamp, light</sg>,;
+<sg>incandescent lamp, tungsten bulb, light bulb</sg>,;
+<sg>flashlight, torch</sg>,;
+<sg>arc light</sg>,;
+<sg>laser</sg>,;
+<sg>maser neon bulb, neon sign</sg>,;
+<sg>fluorescent lamp</sg>,;
+<sg>filament</sg>,;
+<sg>socket</sg>,;
+<sg>contacts</sg>,;
+<sg>filler gas</sg>,;
+<sg>firework, fizgig</sg>,;
+<sg>pyrotechnics</sg>,;
+<sg>rocket, lighthouse ,<cref>550 <i>signal</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>illuminate ,<cref>420 <i>light</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>self-luminous, glowing</sg>,;
+<sg>phosphoric, phosphorescent, fluorescent</sg>,;
+<sg>incandescent</sg>,;
+<sg>luminescent, chemiluminescent</sg>,;
+<sg>radiant ,<cref>420 <i>light</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>blossomed the lovely stars, the forget-me-nots of the angels</sg>,;
+<sg>the sentinel stars set their watch in the sky</sg>,;
+<sg>the planets in their station list'ning stood</sg>,;
+<sg>the Scriptures of the skies</sg>,;
+<sg>that orbed continent, the fire that severs day from night</sg>,;
+<br>
+</paragraph>

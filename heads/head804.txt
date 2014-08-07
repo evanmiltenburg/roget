@@ -1,0 +1,57 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#33#</sectionNumber>
+<headword>#<b>#[001] #804# Observance #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>observance, </i>performance, compliance, acquiescence, concurrence</sg>,;
+<sg>obedience ,<cref> 743 <i>concord</i></cref></sg>,;
+<sg>fulfillment, satisfaction, discharge</sg>,;
+<sg>acquittance, acquittal</sg>,;
+<sg>adhesion, acknowledgment</sg>,;
+<sg>fidelity ,<cref>939 <i>probity</i></cref></sg>,;
+<sg>exact ,<cref> 494 <i>impossibility</i></cref></sg>,;
+<sg>observance</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>observe, comply with, respect, acknowledge, abide by</sg>,;
+<sg>cling to, adhere to, be faithful to, act up to</sg>,;
+<sg>meet, fulfill</sg>,;
+<sg>carry out, carry into execution</sg>,;
+<sg>execute, perform, keep, satisfy, discharge</sg>,;
+<sg>do one's office</sg>,;
+<sg>perform an obligation, fulfill an obligation, discharge an obligation, acquit oneself of an obligation</sg>,;
+<sg>make good</sg>,;
+<sg>make good one's word, make good one's promise, keep one's word, keep one's promise</sg>,;
+<sg>redeem one's pledge</sg>,;
+<sg>keep faith with, stand to one's engagement</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>observant, faithful, true, loyal</sg>,;
+<sg>honorable ,<cref> 939 <i>resentment</i></cref></sg>,;
+<sg>true as the dial to the sun, true as the needle to the pole</sg>,;
+<sg>punctual, punctilious</sg>,;
+<sg>literal ,<cref>494 <i>exact</i></cref></sg>,;
+<sg>as good as one's word</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>faithfully</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>ignoscito saepe alteri nunquam tibi</sg>,;
+<sg>tempori parendum</sg>,;
+<sg>to God, thy country, and thy friend be true</sg>,;
+<br>
+</paragraph>

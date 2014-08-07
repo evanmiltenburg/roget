@@ -1,0 +1,78 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#36#</sectionNumber>
+<headword>#<b>#[001] #923# Boasting #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>boasting</i></sg>,;
+<sg>boast, vaunt, crake</sg>,;
+<sg>pretense, pretensions</sg>,;
+<sg>puff, puffery</sg>,;
+<sg>flourish, fanfaronade</sg>,;
+<sg>gasconade</sg>,;
+<sg>blague, bluff, gas</sg>,;
+<sg>highfalutin, highfaluting</sg>,;
+<sg>hot air, spread-eagleism</sg>,;
+<sg>brag, braggardism</sg>,;
+<sg>bravado, bunkum, buncombe</sg>,;
+<sg>jactitation, jactancy</sg>,;
+<sg>bounce</sg>,;
+<sg>venditation, vaporing, rodomontade, bombast, fine talking, tall talk, magniloquence, teratology, heroics</sg>,;
+<sg>Chauvinism</sg>,;
+<sg>exaggeration ,<cref> 549 <i>interpreter</i></cref></sg>,;
+<sg>vanity ,<cref> 880 <i>wit</i></cref></sg>,;
+<sg>vox et praeterea nihil</sg>,;
+<sg>much cry and little wool, brutum fulmen</sg>,;
+<sg>exultation</sg>,;
+<sg>gloriation, glorification</sg>,;
+<sg>flourish of trumpets</sg>,;
+<sg>triumph ,<cref> 883 <i>beauty</i></cref></sg>,;
+<sg>boaster</sg>,;
+<sg>braggart, braggadocio</sg>,;
+<sg>Gascon, fanfaron, pretender, soi-disant</sg>,;
+<sg>blower, bluffer, Foxy Quiller</sg>,;
+<sg>blusterer ,<cref> 887 <i>blemish</i></cref></sg>,;
+<sg>charlatan, jack-pudding, trumpeter</sg>,;
+<sg>puppy ,<cref>854 <i>fop</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>boast, make a boast of, brag, vaunt, Puff, show off, flourish, crake, crack, trumpet, strut, swagger, vapor</sg>,;
+<sg>blague, blow, four-flush, bluff</sg>,;
+<sg>exult, crow, crow over, neigh, chuckle, triumph</sg>,;
+<sg>throw up one's cap</sg>,;
+<sg>talk big, se faire valoir, faire claquer son fouet, take merit to oneself, make a merit of, sing Io triumphe, holloa before one is out of the wood</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>boasting</sg>,;
+<sg>magniloquent, flaming, Thrasonic, stilted, gasconading, braggart, boastful, pretentious, soi-disant</sg>,;
+<sg>vainglorious ,<cref>880 <i>conceited</i></cref></sg>,;
+<sg>highfalutin, highfaluting</sg>,;
+<sg>spread- eagle</sg>,;
+<sg>elate, elated</sg>,;
+<sg>jubilant, triumphant, exultant</sg>,;
+<sg>in high feather</sg>,;
+<sg>flushed, flushed with victory</sg>,;
+<sg>cock-a-hoop</sg>,;
+<sg>on stilts</sg>,;
+<sg>vaunted</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>vauntingly</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>let the galled jade wince</sg>,;
+<sg>facta non verba</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,68 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#34#</sectionNumber>
+<headword>#<b>#[001] #809# Possession #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>possession, </i>seizin, seisin</sg>,;
+<sg>ownership ,<cref> 780 <i>subjection</i></cref></sg>,;
+<sg>occupancy</sg>,;
+<sg>hold, holding</sg>,;
+<sg>tenure, tenancy, feodality, dependency</sg>,;
+<sg>villenage, villeinage</sg>,;
+<sg>socage, chivalry, knight service</sg>,;
+<sg>exclusive possession, impropriation, monopoly, retention ,<cref> 781 <i>liberation</i></cref></sg>,;
+<sg>prepossession, preoccupancy</sg>,;
+<sg>nine points of the law</sg>,;
+<sg>corner, usucaption</sg>,;
+<sg>future possession, heritage, inheritance, heirship, reversion, fee, seigniority</sg>,;
+<sg>primogeniture, ultimogeniture</sg>,;
+<sg>futures contract, warrant, put, call, option</sg>,;
+<sg>right of first refusal</sg>,;
+<sg>bird in hand, uti possidetis, chose in possession</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>possess, have, hold, occupy, enjoy</sg>,;
+<sg>be possessed of</sg>,;
+<sg>have in hand</sg>,;
+<sg>own ,<cref> 780 <i>subjection</i></cref></sg>,;
+<sg>command</sg>,;
+<sg>inherit</sg>,;
+<sg>come to, come in for</sg>,;
+<sg>engross, monopolize, forestall, regrate, impropriate, have all to oneself</sg>,;
+<sg>corner</sg>,;
+<sg>have a firmhold of ,<cref>781 <i>retain</i></cref></sg>,;
+<sg>get into one's hand ,<cref>775 <i>acquire</i></cref></sg>,;
+<sg>belong to, appertain to, pertain to</sg>,;
+<sg>be in one's possession</sg>,;
+<sg>vest in</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>possessing</sg>,;
+<sg>worth</sg>,;
+<sg>possessed of, seized of, master of, in possession of</sg>,;
+<sg>usucapient</sg>,;
+<sg>endowed with, blest with, instinct with, fraught with, laden with, charged with</sg>,;
+<sg>possessed</sg>,;
+<sg>on hand, by one</sg>,;
+<sg>in hand, in store, in stock</sg>,;
+<sg>in one's hands, in one's grasp, in one's possession</sg>,;
+<sg>at one's command, at one's disposal</sg>,;
+<sg>one's own ,<cref>780 <i>property</i></cref></sg>,;
+<sg>unsold, unshared</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>entbehre gern was du nicht hast</sg>,;
+<sg>meum et tuum</sg>,;
+<sg>tuum est</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,59 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#38#</sectionNumber>
+<headword>#<b>#[001] #1007# Illegality #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>illegality, </i>lawlessness</sg>,;
+<sg>illicitness</sg>,;
+<sg>breach of law, violation of law, infraction of the law</sg>,;
+<sg>disobedience ,<cref> 742 <i>discord</i></cref></sg>,;
+<sg>unconformity ,<cref> 83 <i>speciality</i></cref></sg>,;
+<sg>arbitrariness</sg>,;
+<sg>antinomy, violence, brute force, despotism, outlawry</sg>,;
+<sg>mob law, lynch law, club law, Lydford law, martial law, drumhead law</sg>,;
+<sg>coup d'etat</sg>,;
+<sg>le droit du plus fort</sg>,;
+<sg>argumentum baculinum</sg>,;
+<sg>illegality, informality, unlawfulness, illegitimacy, bar sinister</sg>,;
+<sg>trover and conversion</sg>,;
+<sg>smuggling, poaching</sg>,;
+<sg>simony</sg>,;
+<sg>outlaw, bad man ,<cref> 949 <i>threat</i></cref></sg>,;
+<sg>v</sg>,;
+<sg>offend against the law</sg>,;
+<sg>violate the law, infringe the law, break the law</sg>,;
+<sg>set the law at defiance, ride roughshod over, drive a coach and six through a statute</sg>,;
+<sg>ignore the law, make the law a dead letter, take the law into one's own hands</sg>,;
+<sg>smuggle, run, poach</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>illegal, unlawful, illegitimate</sg>,;
+<sg>not allowed, prohibited ,<cref> 761 <i>failure</i></cref></sg>,;
+<sg>illicit, contraband</sg>,;
+<sg>actionable</sg>,;
+<sg>unwarranted, unwarrantable</sg>,;
+<sg>unauthorized</sg>,;
+<sg>informal, unofficial</sg>,;
+<sg>injudicial, extrajudicial</sg>,;
+<sg>lawless, arbitrary</sg>,;
+<sg>despotic, despotical</sg>,;
+<sg>corrupt, summary, irresponsible</sg>,;
+<sg>unanswerable, unaccountable</sg>,;
+<sg>expired, invalid</sg>,;
+<sg>unchartered, unconstitutional</sg>,;
+<sg>null and void</sg>,;
+<sg>a dead letter</sg>,;
+<sg>lawless, unregulated</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>illegally</sg>,;
+<sg>with a high hand, in violation of law</sg>,;
+<br>
+</paragraph>

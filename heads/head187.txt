@@ -1,0 +1,65 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#8#</sectionNumber>
+<headword>#<b>#[001] #187# Counteraction #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>counteraction, </i>opposition</sg>,;
+<sg>contrariety ,<cref> 14 <i>contrariety</i></cref></sg>,;
+<sg>antagonism, polarity</sg>,;
+<sg>clashing</sg>,;
+<sg>collision, interference, inhibition, resistance, renitency, friction</sg>,;
+<sg>reaction</sg>,;
+<sg>retroaction ,<cref>277 <i>recoil</i></cref></sg>,;
+<sg>counterblast</sg>,;
+<sg>neutralization ,<cref>30 <i>compensation</i></cref></sg>,;
+<sg>vis inertiae</sg>,;
+<sg>check ,<cref>706 <i>hindrance</i></cref></sg>,;
+<sg>voluntary opposition &c 708, voluntary resistance ,<cref> 719 <i>agent</i></cref></sg>,;
+<sg>repression ,<cref>751 <i>restraint</i></cref></sg>,;
+<sg>opposites, action and reaction, yang and yin, yang-yin (contrariety) 14</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>counteract</sg>,;
+<sg>run counter, clash, cross</sg>,;
+<sg>interfere with, conflict with</sg>,;
+<sg>contravene</sg>,;
+<sg>jostle</sg>,;
+<sg>go against, run against, beat against, militate against</sg>,;
+<sg>stultify</sg>,;
+<sg>antagonize, block, oppose ,<cref> 708 <i>misuse</i></cref></sg>,;
+<sg>traverse</sg>,;
+<sg>withstand ,<cref>719 <i>resist</i></cref></sg>,;
+<sg>hinder ,<cref> 706 <i>use</i></cref></sg>,;
+<sg>repress ,<cref>751 <i>restrain</i></cref></sg>,;
+<sg>react ,<cref>277 <i>recoil</i></cref></sg>,;
+<sg>undo, neutralize</sg>,;
+<sg>counterpoise ,<cref>30 <i>compensate</i></cref></sg>,;
+<sg>overpoise</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>counteracting</sg>,;
+<sg>antagonistic, conflicting, retroactive, renitent, reactionary</sg>,;
+<sg>contrary ,<cref> 14 <i>contrariety</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>although ,<cref> 30 <i>inequality</i></cref></sg>,;
+<sg>in spite of ,<cref> 708 <i>misuse</i></cref></sg>,;
+<sg>against</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>for every action there is a reaction, equal in force and opposite in direction</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,48 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#6#</sectionNumber>
+<headword>#<b>#[001] #126# Synchronism #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>synchronism</i></sg>,;
+<sg>coexistence, coincidence</sg>,;
+<sg>simultaneousness, simultaneity</sg>,;
+<sg>concurrence, concomitance, unity of time, interim</sg>,;
+<sg>isochronism</sg>,;
+<sg>contemporary, coetanian</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>coexist, concur, accompany, go hand in hand, keep pace with</sg>,;
+<sg>synchronize</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>synchronous, synchronal, synchronic, synchronical, synchronistical</sg>,;
+<sg>simultaneous, coexisting, coincident, concomitant, concurrent</sg>,;
+<sg>coeval, coevous</sg>,;
+<sg>contemporary, contemporaneous</sg>,;
+<sg>coetaneous</sg>,;
+<sg>coeternal</sg>,;
+<sg>isochronous</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>at the same time</sg>,;
+<sg>simultaneously</sg>,;
+<sg>together, in concert, during the same time</sg>,;
+<sg>in the same breath</sg>,;
+<sg>pari passu</sg>,;
+<sg>in the interim</sg>,;
+<sg>as one</sg>,;
+<sg>at the very moment ,<cref> 113 <i>period</i></cref></sg>,;
+<sg>just as, as soon as</sg>,;
+<sg>meanwhile ,<cref>106 <i>while</i></cref></sg>,;
+<br>
+</paragraph>

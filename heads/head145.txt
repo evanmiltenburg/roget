@@ -1,0 +1,79 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#6#</sectionNumber>
+<headword>#<b>#[001] #145# Periodicity #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>regularity of recurrence, </i>periodicity, intermittence</sg>,;
+<sg>beat</sg>,;
+<sg>oscillation ,<cref> 314 <i>transcursion</i></cref></sg>,;
+<sg>pulse, pulsation</sg>,;
+<sg>rhythm</sg>,;
+<sg>alternation, alternateness, alternativeness, alternity</sg>,;
+<sg>bout, round, revolution, rotation, turn, say</sg>,;
+<sg>anniversary, jubilee, centenary</sg>,;
+<sg>catamenia, courses, menses, menstrual flux</sg>,;
+<sg>rota, cycle, period, stated time, routine</sg>,;
+<sg>days of the week</sg>,;
+<sg>Sunday, Monday </sg>,;
+<sg>months of the year</sg>,;
+<sg>January </sg>,;
+<sg>feast, fast </sg>,;
+<sg>Christmas, Easter, New Year's day </sg>,;
+<sg>Allhallows, Allhallowmas, All Saints' Day</sg>,;
+<sg>All Souls', All Souls' Day</sg>,;
+<sg>Ash Wednesday, bicentennial, birthday, bissextile, Candlemas, Dewali, groundhog day, Halloween, Hallowmas, Lady day, leap year, Midsummer day, Muharram, woodchuck day, St</sg>,;
+<sg>Swithin's day, natal day</sg>,;
+<sg>yearbook</sg>,;
+<sg>yuletide</sg>,;
+<sg>punctuality, regularity, steadiness</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>recur in regular order, recur in regular succession</sg>,;
+<sg>return, revolve</sg>,;
+<sg>come again, come in its turn</sg>,;
+<sg>come round, come round again</sg>,;
+<sg>beat, pulsate</sg>,;
+<sg>alternate</sg>,;
+<sg>intermit</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>periodic, periodical</sg>,;
+<sg>serial, recurrent, cyclical, rhythmical</sg>,;
+<sg>recurring</sg>,;
+<sg>intermittent, remittent</sg>,;
+<sg>alternate, every other</sg>,;
+<sg>hourly</sg>,;
+<sg>diurnal, daily</sg>,;
+<sg>quotidian, tertian, weekly</sg>,;
+<sg>hebdomadal, hebdomadary</sg>,;
+<sg>biweekly, fortnightly</sg>,;
+<sg>bimonthly</sg>,;
+<sg>catamenial</sg>,;
+<sg>monthly, menstrual</sg>,;
+<sg>yearly, annual</sg>,;
+<sg>biennial, triennial, </sg>,;
+<sg>centennial, secular</sg>,;
+<sg>paschal, lenten,  regular, steady, punctual, regular as clockwork</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>periodically</sg>,;
+<sg>at regular intervals, at stated times</sg>,;
+<sg>at fixed established, at established periods</sg>,;
+<sg>punctually</sg>,;
+<sg>de die in diem</sg>,;
+<sg>from day to day, day by day</sg>,;
+<sg>by turns</sg>,;
+<sg>in turn, in rotation</sg>,;
+<sg>alternately, every other day, off and on, ride and tie, round and round</sg>,;
+<br>
+</paragraph>

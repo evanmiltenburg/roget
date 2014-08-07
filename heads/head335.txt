@@ -1,0 +1,55 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#14#</sectionNumber>
+<headword>#<b>#[001] #335# Softness #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>softness, </i>pliableness</sg>,;
+<sg>flexibility</sg>,;
+<sg>pliancy, pliability</sg>,;
+<sg>sequacity, malleability</sg>,;
+<sg>ductility, tractility</sg>,;
+<sg>extendibility, extensibility</sg>,;
+<sg>plasticity</sg>,;
+<sg>inelasticity, flaccidity, laxity</sg>,;
+<sg>penetrability</sg>,;
+<sg>clay, wax, butter, dough, pudding</sg>,;
+<sg>alumina, argil</sg>,;
+<sg>cushion, pillow, feather bed, down, padding, wadding</sg>,;
+<sg>foam</sg>,;
+<sg>mollification</sg>,;
+<sg>softening</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>render soft</sg>,;
+<sg>soften, mollify, mellow, relax, temper</sg>,;
+<sg>mash, knead, squash</sg>,;
+<sg>bend, yield, relent, relax, give</sg>,;
+<sg>plasticize'</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>soft, tender, supple</sg>,;
+<sg>pliant, pliable</sg>,;
+<sg>flexible, flexile</sg>,;
+<sg>lithe, lithesome</sg>,;
+<sg>lissom, limber, plastic</sg>,;
+<sg>ductile</sg>,;
+<sg>tractile, tractable</sg>,;
+<sg>malleable, extensile, sequacious, inelastic</sg>,;
+<sg>aluminous</sg>,;
+<sg>remollient</sg>,;
+<sg>yielding</sg>,;
+<sg>flabby, limp, flimsy</sg>,;
+<sg>doughy, spongy, penetrable, foamy, cushiony</sg>,;
+<sg>flaccid, flocculent, downy</sg>,;
+<sg>edematous, oedematous, medullary, argillaceous, mellow</sg>,;
+<sg>soft as butter, soft as down, soft as silk</sg>,;
+<sg>yielding as wax, tender as chicken</sg>,;
+<br>
+</paragraph>

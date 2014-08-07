@@ -1,0 +1,53 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#38#</sectionNumber>
+<headword>#<b>#[001] #1000# Gluttony #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>gluttony</i></sg>,;
+<sg>greed, avarice</sg>,;
+<sg>greediness</sg>,;
+<sg>voracity</sg>,;
+<sg>epicurism</sg>,;
+<sg>good living, high living</sg>,;
+<sg>edacity, gulosity, crapulence</sg>,;
+<sg>guttling, guzzling</sg>,;
+<sg>pantophagy</sg>,;
+<sg>good cheer, blow out</sg>,;
+<sg>feast ,<cref>298 <i>food</i></cref></sg>,;
+<sg>gastronomy, batterie de cuisine</sg>,;
+<sg>epicure, bon vivant, gourmand</sg>,;
+<sg>glutton, cormorant, hog, belly god, Apicius, gastronome</sg>,;
+<sg>gourmet ,<cref> 954 <i>pity</i></cref></sg>,;
+<sg>1, 868</sg>,;
+<sg>v</sg>,;
+<sg>gormandize, gorge</sg>,;
+<sg>overgorge, overeat oneself</sg>,;
+<sg>engorge, eat one's fill, cram, stuff</sg>,;
+<sg>guttle, guzzle</sg>,;
+<sg>bolt, devour, gobble up</sg>,;
+<sg>gulp ,<cref>298 <i>swallow food</i></cref></sg>,;
+<sg>raven, eat out of house and home</sg>,;
+<sg>have the stomach of an ostrich</sg>,;
+<sg>play a good knife and fork ,<cref>865 <i>appetite</i></cref></sg>,;
+<sg>pamper</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>gluttonous, greedy</sg>,;
+<sg>gormandizing</sg>,;
+<sg>edacious, omnivorous, crapulent, swinish</sg>,;
+<sg>avaricious ,<cref> 819 <i>apportionment</i></cref></sg>,;
+<sg>selfish ,<cref> 918 <i>humility</i></cref></sg>,;
+<sg>pampered</sg>,;
+<sg>overfed, overgorged</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>jejunus raro stomachus vulgaria temnit</sg>,;
+<br>
+</paragraph>

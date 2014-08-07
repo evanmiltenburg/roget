@@ -1,0 +1,50 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#2#</sectionNumber>
+<headword>#<b>#[001] #12# Correlation #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>correlation, </i>reciprocalness</sg>,;
+<sg>reciprocity, reciprocation</sg>,;
+<sg>mutuality, correlation, interdependence, interrelation, connection, link, association</sg>,;
+<sg>interchange ,<cref> 148 <i>permanence</i></cref></sg>,;
+<sg>exchange, barter</sg>,;
+<sg>reciprocator, reprocitist</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>reciprocate, alternate</sg>,;
+<sg>interchange ,<cref> 148 <i>permanence</i></cref></sg>,;
+<sg>exchange</sg>,;
+<sg>counterchange</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>reciprocal, mutual, commutual, correlative, reciprocative, interrelated, closely related</sg>,;
+<sg>alternate</sg>,;
+<sg>interchangeable</sg>,;
+<sg>interdependent</sg>,;
+<sg>international</sg>,;
+<sg>complemental, complementary</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>mutually, mutatis mutandis</sg>,;
+<sg>vice versa</sg>,;
+<sg>each other, one another</sg>,;
+<sg>by turns ,<cref> 148 <i>permanence</i></cref></sg>,;
+<sg>reciprocally</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>happy in our mutual help</sg>,;
+<br>
+</paragraph>

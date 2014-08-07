@@ -1,0 +1,111 @@
+<classNumber>#2#</classNumber>
+<sectionNumber>#12#</sectionNumber>
+<headword>#<b>#[001] #276# Quiescence #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>quiescence, </i>rest</sg>,;
+<sg>stillness</sg>,;
+<sg>quiescence</sg>,;
+<sg>stagnation, stagnancy</sg>,;
+<sg>fixity, immobility, catalepsy</sg>,;
+<sg>indisturbance</sg>,;
+<sg>quietism</sg>,;
+<sg>quiet, tranquility, calm</sg>,;
+<sg>repose ,<cref> 687 <i>improvement</i></cref></sg>,;
+<sg>peace</sg>,;
+<sg>dead calm, anticyclone</sg>,;
+<sg>statue-like repose</sg>,;
+<sg>silence ,<cref> 203 <i>expansion</i></cref></sg>,;
+<sg>not a breath of air, not a mouse stirring</sg>,;
+<sg>sleep ,<cref>683 <i>inactivity</i></cref></sg>,;
+<sg>pause, lull ,<cref>142 <i>cessation</i></cref></sg>,;
+<sg>stand still</sg>,;
+<sg>standing still</sg>,;
+<sg>lock</sg>,;
+<sg>dead lock, dead stop, dead stand</sg>,;
+<sg>full stop</sg>,;
+<sg>fix</sg>,;
+<sg>embargo</sg>,;
+<sg>resting place</sg>,;
+<sg>gite</sg>,;
+<sg>bivouac</sg>,;
+<sg>home ,<cref>189 <i>abode</i></cref></sg>,;
+<sg>pillow ,<cref>215 <i>support</i></cref></sg>,;
+<sg>haven ,<cref>666 <i>refuge</i></cref></sg>,;
+<sg>goal ,<cref>292 <i>arrival</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be quiescent</sg>,;
+<sg>stand still, lie still</sg>,;
+<sg>keep quiet, repose, hold the breath</sg>,;
+<sg>remain, stay</sg>,;
+<sg>stand, lie to, ride at anchor, remain in situ, tarry, mark time</sg>,;
+<sg>bring to, heave to, lay to</sg>,;
+<sg>pull up, draw up</sg>,;
+<sg>hold, halt</sg>,;
+<sg>stop, stop short</sg>,;
+<sg>rest, pause, anchor</sg>,;
+<sg>cast to an anchor, come to an anchor</sg>,;
+<sg>rest on one's oars</sg>,;
+<sg>repose on one's laurels, take breath</sg>,;
+<sg>stop ,<cref>142 <i>discontinue</i></cref></sg>,;
+<sg>stagnate</sg>,;
+<sg>quieta non movere</sg>,;
+<sg>let alone</sg>,;
+<sg>abide, rest and be thankful</sg>,;
+<sg>keep within doors, stay at home, go to bed</sg>,;
+<sg>dwell ,<cref>186 <i>be present</i></cref></sg>,;
+<sg>settle ,<cref>184 <i>be located</i></cref></sg>,;
+<sg>alight ,<cref>292 <i>arrive</i></cref></sg>,;
+<sg>stick, stick fast</sg>,;
+<sg>stand like a post</sg>,;
+<sg>not stir a peg, not stir a step</sg>,;
+<sg>be at a stand</sg>,;
+<sg>quell, becalm, hush, stay, lull to sleep, lay an embargo on</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>quiescent, still</sg>,;
+<sg>motionless, moveless</sg>,;
+<sg>fixed</sg>,;
+<sg>stationary</sg>,;
+<sg>immotile</sg>,;
+<sg>at rest at a stand, at a standstill, at anchor</sg>,;
+<sg>stock, still</sg>,;
+<sg>standing still</sg>,;
+<sg>sedentary, untraveled, stay-at-home</sg>,;
+<sg>becalmed, stagnant, quiet</sg>,;
+<sg>unmoved, undisturbed, unruffled</sg>,;
+<sg>calm, restful</sg>,;
+<sg>cataleptic</sg>,;
+<sg>immovable ,<cref>150 <i>stable</i></cref></sg>,;
+<sg>sleeping ,<cref>683 <i>inactive</i></cref></sg>,;
+<sg>silent ,<cref> 403 <i>thermometer</i></cref></sg>,;
+<sg>still as a statue, still as a post, still as a mouse, still as death</sg>,;
+<sg>vegetative, vegetating</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>at a stand</sg>,;
+<sg>tout court</sg>,;
+<sg>at the halt</sg>,;
+<sg>Int</sg>,;
+<sg>stop!, stay!, avast!, halt!, hold hard!, whoa!, hold!, sabr karo!</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>requiescat in pace</sg>,;
+<sg>Deus nobis haec otia fecit</sg>,;
+<sg>the noonday quiet holds the hill</sg>,;
+<br>
+</paragraph>

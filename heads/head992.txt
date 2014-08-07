@@ -1,0 +1,73 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#38#</sectionNumber>
+<headword>#<b>#[001] #992# Penitence #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>penitence, </i>contrition, compunction, repentance, remorse</sg>,;
+<sg>regret ,<cref> 833 <i>stock market</i></cref></sg>,;
+<sg>self-reproach, self-reproof, self-accusation, self-condemnation, self-humiliation</sg>,;
+<sg>stings of conscience, pangs of conscience, qualms of conscience, prickings of conscience, twinge of conscience, twitch of conscience, touch of conscience, voice of conscience</sg>,;
+<sg>compunctious visitings of nature</sg>,;
+<sg>acknowledgment, confession ,<cref>529 <i>disclosure</i></cref></sg>,;
+<sg>apology ,<cref> 952 <i>benefactor</i></cref></sg>,;
+<sg>recantation ,<cref> 607 <i>aphony</i></cref></sg>,;
+<sg>penance ,<cref> 952 <i>benefactor</i></cref></sg>,;
+<sg>resipiscence</sg>,;
+<sg>awakened conscience, deathbed repentance, locus paenitentiae, stool of repentance, cuttystool</sg>,;
+<sg>penitent, repentant, Magdalen, prodigal son, a sadder and a wiser man</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>repent, be sorry for</sg>,;
+<sg>be penitent</sg>,;
+<sg>rue</sg>,;
+<sg>regret ,<cref> 833 <i>stock market</i></cref></sg>,;
+<sg>think better of</sg>,;
+<sg>recant ,<cref> 607 <i>aphony</i></cref></sg>,;
+<sg>knock under ,<cref>725 <i>submit</i></cref></sg>,;
+<sg>plead guilty</sg>,;
+<sg>sing miserere, sing de profundis</sg>,;
+<sg>cry peccavi</sg>,;
+<sg>own oneself in the wrong</sg>,;
+<sg>acknowledge, confess , (disclose) 529</sg>,;
+<sg>humble oneself</sg>,;
+<sg>beg pardon ,<cref>952 <i>apologize</i></cref></sg>,;
+<sg>turn over a new leaf, put on the new man, turn from sin</sg>,;
+<sg>reclaim</sg>,;
+<sg>repent in sackcloth and ashes , (do penance) 952</sg>,;
+<sg>learn by experience</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>penitent</sg>,;
+<sg>repenting</sg>,;
+<sg>repentant, contrite</sg>,;
+<sg>conscience- smitten, conscience-stricken</sg>,;
+<sg>self-accusing, self-convicted</sg>,;
+<sg>penitential, penitentiary</sg>,;
+<sg>reclaimed, reborn</sg>,;
+<sg>not hardened</sg>,;
+<sg>unhardened</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>mea culpa</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>peccavi</sg>,;
+<sg>erubuit</sg>,;
+<sg>salva res est</sg>,;
+<sg>Tu l'as voulu, Georges Dandin</sg>,;
+<sg>and wet his grave with my repentant tears</sg>,;
+<br>
+</paragraph>

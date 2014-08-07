@@ -1,0 +1,18 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#15#</sectionNumber>
+<headword>#<b>#[001] #445# Turbidity #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>turbidity, </i>cloudiness, fog, haze, muddiness, haziness, obscurity</sg>,;
+<sg>nephelometer</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>turbid, thick, muddy, obfuscated, fuliginous, hazy, misty, foggy, vaporous, nubiferous</sg>,;
+<sg>cloudy (cloud) 353</sg>,;
+<sg>smoky, fumid, murky, dirty</sg>,;
+<br>
+</paragraph>

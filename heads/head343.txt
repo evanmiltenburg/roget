@@ -1,0 +1,33 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#14#</sectionNumber>
+<headword>#<b>#[001] #343# Lubrication #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>lubrication, </i>smoothness ,<cref> 255 <i>curvature</i></cref></sg>,;
+<sg>unctuousness ,<cref> 355 <i>plain</i></cref></sg>,;
+<sg>lubrication, lubrification</sg>,;
+<sg>anointment</sg>,;
+<sg>oiling</sg>,;
+<sg>synovia</sg>,;
+<sg>glycerine, oil, lubricating oil, grease ,<cref> 356 <i>marsh</i></cref></sg>,;
+<sg>saliva</sg>,;
+<sg>lather</sg>,;
+<sg>teflon</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>lubricate, lubricitate</sg>,;
+<sg>oil, grease, lather, soap</sg>,;
+<sg>wax</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>lubricated</sg>,;
+<sg>lubricous</sg>,;
+<br>
+</paragraph>

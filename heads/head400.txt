@@ -1,0 +1,17 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#15#</sectionNumber>
+<headword>#<b>#[001] #400# Refrigerator #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>refrigerator, </i>refrigeratory</sg>,;
+<sg>frigidarium</sg>,;
+<sg>cold storage, cold room, cold laboratory</sg>,;
+<sg>icehouse, icepail, icebag, icebox</sg>,;
+<sg>cooler, damper, polyurethane cooler</sg>,;
+<sg>wine cooler</sg>,;
+<sg>freezer, deep freeze, dry ice freezer, liquid nitrogen freezer, refigerator-freezer</sg>,;
+<sg>freezing mixture, ice, ice cubes, blocks of ice, chipped ice</sg>,;
+<sg>liquid nitrogen, dry ice, dry ice-acetone, liquid helium</sg>,;
+<br>
+</paragraph>

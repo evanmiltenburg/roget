@@ -1,0 +1,11 @@
+<classNumber>#2#</classNumber>
+<sectionNumber>#9#</sectionNumber>
+<headword>#<b>#[001] #189# Inextension #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>inextension, </i>nonextension, point</sg>,;
+<sg>dot</sg>,;
+<sg>atom ,<cref>32 <i>smallness</i></cref></sg>,;
+<br>
+</paragraph>

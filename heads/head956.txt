@@ -1,0 +1,22 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#37#</sectionNumber>
+<headword>#<b>#[001] #956# Condolence #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>condolence</i></sg>,;
+<sg>lamentation ,<cref> 839 <i>poverty</i></cref></sg>,;
+<sg>sympathy, consolation</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>condole with, console, sympathize express pity, testify pity</sg>,;
+<sg>afford consolation, supply consolation</sg>,;
+<sg>lament with ,<cref> 839 <i>poverty</i></cref></sg>,;
+<sg>express sympathy for</sg>,;
+<sg>feel grief in common with, feel sorrow in common with</sg>,;
+<sg>share one's sorrow</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,103 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#15#</sectionNumber>
+<headword>#<b>#[001] #433# Music #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>music</i></sg>,;
+<sg>concert</sg>,;
+<sg>strain, tune, air</sg>,;
+<sg>melody ,<cref> 413 <i>sourness</i></cref></sg>,;
+<sg>aria, arietta</sg>,;
+<sg>piece of music, work, number, opus</sg>,;
+<sg>sonata</sg>,;
+<sg>rondo, rondeau</sg>,;
+<sg>pastorale, cavatina, roulade, fantasia, concerto, overture, symphony, variations, cadenza</sg>,;
+<sg>cadence</sg>,;
+<sg>fugue, canon, quodlibet, serenade, notturno, dithyramb</sg>,;
+<sg>opera, operetta</sg>,;
+<sg>oratorio</sg>,;
+<sg>composition, movement</sg>,;
+<sg>stave</sg>,;
+<sg>passamezzo, toccata, Vorspiel</sg>,;
+<sg>instrumental music</sg>,;
+<sg>full score</sg>,;
+<sg>minstrelsy, tweedledum and tweedledee, band, orchestra</sg>,;
+<sg>concerted piece, potpourri, capriccio</sg>,;
+<sg>vocal music, vocalism</sg>,;
+<sg>chaunt, chant</sg>,;
+<sg>psalm, psalmody</sg>,;
+<sg>hymn</sg>,;
+<sg>song ,<cref>597 <i>poem</i></cref></sg>,;
+<sg>canticle, canzonet, cantata, bravura, lay, ballad, ditty, carol, pastoral, recitative, recitativo, solfeggio</sg>,;
+<sg>Lydian measures</sg>,;
+<sg>slow music, slow movement</sg>,;
+<sg>adagio</sg>,;
+<sg>minuet</sg>,;
+<sg>siren strains, soft music, lullaby</sg>,;
+<sg>dump</sg>,;
+<sg>dirge ,<cref>839 <i>lament</i></cref></sg>,;
+<sg>pibroch</sg>,;
+<sg>martial music, march</sg>,;
+<sg>dance music</sg>,;
+<sg>waltz ,<cref>840 <i>dance</i></cref></sg>,;
+<sg>solo, duet, duo, trio</sg>,;
+<sg>quartet, quartett</sg>,;
+<sg>septett</sg>,;
+<sg>part song, descant, glee, madrigal, catch, round, chorus, chorale</sg>,;
+<sg>antiphon, antiphony</sg>,;
+<sg>accompaniment, second, bass</sg>,;
+<sg>score</sg>,;
+<sg>bourdon, drone, morceau, terzetto</sg>,;
+<sg>composer ,<cref> 413 <i>sourness</i></cref></sg>,;
+<sg>musician ,<cref> 416 <i>fragrance</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>compose, perform ,<cref> 416 <i>fragrance</i></cref></sg>,;
+<sg>attune</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>musical</sg>,;
+<sg>instrumental, vocal, choral, lyric, operatic</sg>,;
+<sg>harmonious ,<cref> 413 <i>sourness</i></cref></sg>,;
+<sg>Wagnerian</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>adagio</sg>,;
+<sg>largo, larghetto, andante, andantino</sg>,;
+<sg>alla capella</sg>,;
+<sg>maestoso, moderato</sg>,;
+<sg>allegro, allegretto</sg>,;
+<sg>spiritoso, vivace, veloce</sg>,;
+<sg>presto, prestissimo</sg>,;
+<sg>con brio</sg>,;
+<sg>capriccioso</sg>,;
+<sg>scherzo, scherzando</sg>,;
+<sg>legato, staccato, crescendo, diminuendo, rallentando, affettuoso</sg>,;
+<sg>obbligato</sg>,;
+<sg>pizzicato</sg>,;
+<sg>desto</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>in notes by distance made more sweet</sg>,;
+<sg>like the faint exquisite music of a dream</sg>,;
+<sg>music arose with its voluptuous swell</sg>,;
+<sg>music is the universal language of mankind</sg>,;
+<sg>music's golden tongue</sg>,;
+<sg>the speech of angels</sg>,;
+<sg>will sing the savageness out of a bear</sg>,;
+<sg>music hath charms to soothe the savage beast</sg>,;
+<br>
+</paragraph>

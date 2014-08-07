@@ -1,0 +1,112 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#28#</sectionNumber>
+<headword>#<b>#[001] #727# Skill #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>skill, </i>skillfulness, address</sg>,;
+<sg>dexterity, dexterousness</sg>,;
+<sg>adroitness, expertness</sg>,;
+<sg>proficiency, competence, technical competence, craft, callidity, facility, knack, trick, sleight</sg>,;
+<sg>mastery, mastership, excellence, panurgy</sg>,;
+<sg>ambidexterity, ambidextrousness</sg>,;
+<sg>sleight of hand ,<cref>545 <i>deception</i></cref></sg>,;
+<sg>seamanship, airmanship, marksmanship, horsemanship</sg>,;
+<sg>rope-dancing</sg>,;
+<sg>accomplishment, acquirement, attainment</sg>,;
+<sg>art, science</sg>,;
+<sg>technicality, technology</sg>,;
+<sg>practical knowledge, technical knowledge</sg>,;
+<sg>knowledge of the world, world wisdom, savoir faire</sg>,;
+<sg>tact</sg>,;
+<sg>mother wit ,<cref>498 <i>sagacity</i></cref></sg>,;
+<sg>discretion ,<cref>864 <i>caution</i></cref></sg>,;
+<sg>finesse</sg>,;
+<sg>craftiness ,<cref>702 <i>cunning</i></cref></sg>,;
+<sg>management ,<cref>692 <i>conduct</i></cref></sg>,;
+<sg>self-help</sg>,;
+<sg>cleverness, talent, ability, ingenuity, capacity, parts, talents, faculty, endowment, forte, turn, gift, genius</sg>,;
+<sg>intelligence ,<cref> 498 <i>uncertainty</i></cref></sg>,;
+<sg>sharpness, readiness ,<cref>682 <i>activity</i></cref></sg>,;
+<sg>invention ,<cref> 515 <i>ignorance</i></cref></sg>,;
+<sg>aptness, aptitude</sg>,;
+<sg>turn for, capacity for, genius for</sg>,;
+<sg>felicity, capability, curiosa felicitas, qualification, habilitation</sg>,;
+<sg>proficient ,<cref> 700 <i>escape</i></cref></sg>,;
+<sg>masterpiece, coup de maitre, chef d'euvre, tour de force</sg>,;
+<sg>good stroke ,<cref>626 <i>plan</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be skillful</sg>,;
+<sg>excel in, be master of</sg>,;
+<sg>have a turn for</sg>,;
+<sg>know what's what, know a hawk from a handsaw, know what one is about, know on which side one's bread is buttered, know what's o'clock</sg>,;
+<sg>have cut one's eye teeth, have cut one's wisdom teeth</sg>,;
+<sg>see one's way, see where the wind lies, see which way the wind blows</sg>,;
+<sg>have all one's wits about one, have one's hand in</sg>,;
+<sg>savoir vivre</sg>,;
+<sg>scire quid valeant humeri quid ferre recusent</sg>,;
+<sg>look after the main chance</sg>,;
+<sg>cut one's coat according to one's cloth</sg>,;
+<sg>live by one's wits</sg>,;
+<sg>exercise one's discretion, feather the oar, sail near the wind</sg>,;
+<sg>stoop to conquer ,<cref>702 <i>cunning</i></cref></sg>,;
+<sg>play one's cards well, play one's best card</sg>,;
+<sg>hit the right nail on the head, put the saddle on the right horse</sg>,;
+<sg>take advantage of, make the most of</sg>,;
+<sg>profit by ,<cref>677 <i>use</i></cref></sg>,;
+<sg>make a hit ,<cref>731 <i>succeed</i></cref></sg>,;
+<sg>make a virtue of necessity</sg>,;
+<sg>make hay while the sun shines ,<cref>134 <i>occasion</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>skillful, dexterous, adroit, expert, apt, handy, quick, deft, ready, gain</sg>,;
+<sg>slick, smart ,<cref>682 <i>active</i></cref></sg>,;
+<sg>proficient, good at, up to, at home in, master of, a good hand at, au fait, thoroughbred, masterly, crack, accomplished</sg>,;
+<sg>conversant ,<cref>490 <i>knowing</i></cref></sg>,;
+<sg>experienced, practiced, skilled, hackneyed</sg>,;
+<sg>up in, well up in</sg>,;
+<sg>in practice, in proper cue</sg>,;
+<sg>competent, efficient, qualified, capable, fitted, fit for, up to the mark, trained, initiated, prepared, primed, finished</sg>,;
+<sg>clever, cute, able, ingenious, felicitous, gifted, talented, endowed</sg>,;
+<sg>inventive ,<cref> 515 <i>ignorance</i></cref></sg>,;
+<sg>shrewd, sharp, on the ball ,<cref>498 <i>intelligent</i></cref></sg>,;
+<sg>cunning ,<cref> 702 <i>preparation</i></cref></sg>,;
+<sg>alive to, up to snuff, not to be caught with chaff</sg>,;
+<sg>discreet</sg>,;
+<sg>neat-handed, fine-fingered, nimble-fingered, ambidextrous, sure- footed</sg>,;
+<sg>cut out for, fitted for</sg>,;
+<sg>technical, artistic, scientific, daedalian, shipshape</sg>,;
+<sg>workman- like, business-like, statesman-like</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>skillfully</sg>,;
+<sg>well ,<cref> 618 <i>correspondence</i></cref></sg>,;
+<sg>artistically</sg>,;
+<sg>with skill, with consummate skill</sg>,;
+<sg>secundum artem, suo Marte</sg>,;
+<sg>to the best of one's abilities ,<cref>686 <i>exertion</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>ars celare artem</sg>,;
+<sg>artes honorabit</sg>,;
+<sg>celui qui veut celui-la peut</sg>,;
+<sg>c'est une grande habilite que de savoir cacher sonhabilite</sg>,;
+<sg>expertus metuit</sg>,;
+<sg>es bildet ein Talent sich in der Stille sich ein Charakter in dem Strom der Welt</sg>,;
+<sg>heart to conceive, the understanding to direct, or the hand to execute</sg>,;
+<sg>if you have lemons, make lemonade</sg>,;
+<br>
+</paragraph>

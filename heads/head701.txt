@@ -1,0 +1,37 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#27#</sectionNumber>
+<headword>#<b>#[001] #701# Deliverance #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>deliverance, </i>extrication, rescue</sg>,;
+<sg>reprieve, reprieval</sg>,;
+<sg>respite</sg>,;
+<sg>liberation ,<cref> 750 <i>peace</i></cref></sg>,;
+<sg>emancipation</sg>,;
+<sg>redemption, salvation</sg>,;
+<sg>riddance</sg>,;
+<sg>gaol delivery</sg>,;
+<sg>redeemableness</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>deliver, extricate, rescue, save, emancipate, redeem, ransom</sg>,;
+<sg>bring off, bring through</sg>,;
+<sg>tirer d'affaire, get the wheel out of the rut, snatch from the jaws of death, come to the rescue</sg>,;
+<sg>rid</sg>,;
+<sg>retrieve ,<cref>660 <i>restore</i></cref></sg>,;
+<sg>be rid of, get rid of</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>saved</sg>,;
+<sg>extricable, redeemable, rescuable</sg>,;
+<sg>Int</sg>,;
+<sg>to the rescue!,</sg>,;
+<br>
+</paragraph>

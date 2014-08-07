@@ -1,0 +1,60 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#15#</sectionNumber>
+<headword>#<b>#[001] #461# Blindness #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>blindness, </i>cecity, excecation, amaurosis, cataract, ablepsy, ablepsia, prestriction</sg>,;
+<sg>dim-sightedness ,<cref> 443 <i>transparency</i></cref></sg>,;
+<sg>Braille, Braille-type</sg>,;
+<sg>guttaserena (drop serene), noctograph, teichopsia</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be blind</sg>,;
+<sg>not see</sg>,;
+<sg>lose sight of</sg>,;
+<sg>have the eyes bandaged</sg>,;
+<sg>grope in the dark</sg>,;
+<sg>not look</sg>,;
+<sg>close the eyes, shut the eyes-, turn away the eyes, avert the eyes</sg>,;
+<sg>look another way</sg>,;
+<sg>wink ,<cref>443 <i>limited vision</i></cref></sg>,;
+<sg>shut the eyes to, be blind to, wink at, blink at</sg>,;
+<sg>render blind</sg>,;
+<sg>blind, blindfold</sg>,;
+<sg>hoodwink, dazzle, put one's eyes out</sg>,;
+<sg>throw dust into one's eyes, pull the wool over one's eyes</sg>,;
+<sg>jeter de la poudre aux yeux</sg>,;
+<sg>screen from sight ,<cref>528 <i>hide</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>blind</sg>,;
+<sg>eyeless, sightless, visionless</sg>,;
+<sg>dark</sg>,;
+<sg>stone-blind, sand- blind, stark-blind</sg>,;
+<sg>undiscerning</sg>,;
+<sg>dimsighted ,<cref> 443 <i>transparency</i></cref></sg>,;
+<sg>blind as a bat, blind as a buzzard, blind as a beetle, blind as a mole, blind as an owl</sg>,;
+<sg>wall-eyed</sg>,;
+<sg>blinded</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>blindly, blindfold, blindfolded</sg>,;
+<sg>darkly</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>O dark, dark, dark, amid the blaze of noon</sg>,;
+<br>
+</paragraph>

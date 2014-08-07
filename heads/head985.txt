@@ -1,0 +1,68 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#38#</sectionNumber>
+<headword>#<b>#[001] #985# Selfishness #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>selfishness</i></sg>,;
+<sg>self-love, self-indulgence, self-worship, self-interest</sg>,;
+<sg>egotism, egoism</sg>,;
+<sg>amour propre, ,<cref>880 <i>vanity</i></cref></sg>,;
+<sg>nepotism</sg>,;
+<sg>worldliness</sg>,;
+<sg>world wisdom</sg>,;
+<sg>illiberality</sg>,;
+<sg>meanness</sg>,;
+<sg>time-pleaser, time-server</sg>,;
+<sg>tuft- hunter, fortune-hunter</sg>,;
+<sg>jobber, worldling</sg>,;
+<sg>egotist, egoist, monopolist, nepotist</sg>,;
+<sg>dog in the manger, charity that begins at home</sg>,;
+<sg>canis in praesepi, foes to nobleness, temporizer, trimmer</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be selfish</sg>,;
+<sg>please oneself, indulge oneself, coddle oneself</sg>,;
+<sg>consult one's own wishes, consult one's own pleasure</sg>,;
+<sg>look after one's own interest</sg>,;
+<sg>feather one's nest</sg>,;
+<sg>take care of number one, have an eye to the main chance, know on which side one's bread is buttered</sg>,;
+<sg>give an inch and take an ell</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>selfish</sg>,;
+<sg>self-seeking, self-indulgent, self-interested, self- centered</sg>,;
+<sg>wrapped up in self, wrapt up in self, centered in self</sg>,;
+<sg>egotistic, egotistical</sg>,;
+<sg>egoistical</sg>,;
+<sg>illiberal, mean, ungenerous, narrow-minded</sg>,;
+<sg>mercenary, venal</sg>,;
+<sg>covetous ,<cref> 819 <i>apportionment</i></cref></sg>,;
+<sg>unspiritual, earthly, earthly-minded</sg>,;
+<sg>mundane</sg>,;
+<sg>worldly, worldly- minded</sg>,;
+<sg>worldly-wise</sg>,;
+<sg>timeserving</sg>,;
+<sg>interested</sg>,;
+<sg>alieni appetens sui profusus</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>ungenerously</sg>,;
+<sg>to gain some private ends, from interested motives</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>apres nous le deluge</sg>,;
+<br>
+</paragraph>

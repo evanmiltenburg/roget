@@ -1,0 +1,87 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#31#</sectionNumber>
+<headword>#<b>#[001] #770# Severity #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>severity</i></sg>,;
+<sg>strictness, harshness</sg>,;
+<sg>rigor, stringency, austerity</sg>,;
+<sg>inclemency ,<cref>914 <i>pitilessness</i></cref></sg>,;
+<sg>1</sg>,;
+<sg>arrogance ,<cref> 885 <i>ornament</i></cref></sg>,;
+<sg>precisianism</sg>,;
+<sg>arbitrary power</sg>,;
+<sg>absolutism, despotism</sg>,;
+<sg>dictatorship, autocracy, tyranny, domineering, oppression</sg>,;
+<sg>assumption, usurpation</sg>,;
+<sg>inquisition, reign of terror, martial law</sg>,;
+<sg>iron heel, iron rule, iron hand, iron sway</sg>,;
+<sg>tight grasp</sg>,;
+<sg>brute force, brute strength</sg>,;
+<sg>coercion ,<cref> 744 <i>defiance</i></cref></sg>,;
+<sg>strong hand, tight hand</sg>,;
+<sg>hard lines, hard measure</sg>,;
+<sg>tender mercies</sg>,;
+<sg>sharp practice</sg>,;
+<sg>pipe-clay, officialism</sg>,;
+<sg>tyrant, disciplinarian, precisian, martinet, stickler, bashaw, despot, hard master, Draco, oppressor, inquisitor, extortioner, harpy, vulture</sg>,;
+<sg>accipitres, birds of prey, raptorials, raptors</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be severe</sg>,;
+<sg>assume, usurp, arrogate, take liberties</sg>,;
+<sg>domineer, bully ,<cref> 885 <i>ornament</i></cref></sg>,;
+<sg>tyrannize, inflict, wreak, stretch a point, put on the screw</sg>,;
+<sg>be hard upon</sg>,;
+<sg>bear a heavy hand on, lay a heavy hand on</sg>,;
+<sg>be down upon, come down upon</sg>,;
+<sg>ill treat</sg>,;
+<sg>deal hardly with, deal hard measure to</sg>,;
+<sg>rule with a rod of iron, chastise with scorpions</sg>,;
+<sg>dye with blood</sg>,;
+<sg>oppress, override</sg>,;
+<sg>trample under foot</sg>,;
+<sg>tread under foot, tread upon, trample upon, tread down upon, trample down upon</sg>,;
+<sg>crush under an iron heel, ride roughshod over</sg>,;
+<sg>rivet the yoke</sg>,;
+<sg>hold a tight hand, keep a tight hand</sg>,;
+<sg>force down the throat</sg>,;
+<sg>coerce ,<cref> 744 <i>defiance</i></cref></sg>,;
+<sg>give no quarter ,<cref>914 <i>pitiless</i></cref></sg>,;
+<sg>1</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>severe</sg>,;
+<sg>strict, hard, harsh, dour, rigid, stiff, stern, rigorous, uncompromising, exacting, exigent, exigeant, inexorable, inflexible, obdurate, austere, hard-headed, hard-nosed, hard-shell, relentless, Spartan, Draconian, stringent, strait-laced, searching, unsparing, iron-handed, peremptory, absolute, positive, arbitrary, imperative</sg>,;
+<sg>coercive ,<cref> 744 <i>defiance</i></cref></sg>,;
+<sg>tyrannical, extortionate, grinding, withering, oppressive, inquisitorial</sg>,;
+<sg>inclement ,<cref>914 <i>ruthless</i></cref></sg>,;
+<sg>1</sg>,;
+<sg>cruel ,<cref>907 <i>malevolent</i></cref></sg>,;
+<sg>haughty, arrogant ,<cref> 885 <i>ornament</i></cref></sg>,;
+<sg>precisian</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>severely</sg>,;
+<sg>with a high hand, with a strong hand, with a tight hand, with a heavy hand</sg>,;
+<sg>at the point of the sword, at the point of the bayonet</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>Delirant reges plectuntur Achivi</sg>,;
+<sg>manu forti</sg>,;
+<sg>ogni debole ha sempre il suo tiranno</sg>,;
+<br>
+</paragraph>

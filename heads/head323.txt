@@ -1,0 +1,80 @@
+<classNumber>#2#</classNumber>
+<sectionNumber>#12#</sectionNumber>
+<headword>#<b>#[001] #323# Rotation #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>rotation, </i>revolution, spinning, gyration, turning about an axis, turning aound an axis, circulation, roll</sg>,;
+<sg>circumrotation, circumvolution, circumgyration</sg>,;
+<sg>volutation, circination, turbination, pirouette, convolution</sg>,;
+<sg>verticity, whir, whirl, eddy, vortex, whirlpool, gurge</sg>,;
+<sg>countercurrent</sg>,;
+<sg>Maelstrom, Charybdis</sg>,;
+<sg>Ixion</sg>,;
+<sg>cyclone</sg>,;
+<sg>tornado, whirlwind</sg>,;
+<sg>dust devil</sg>,;
+<sg>spin-out</sg>,;
+<sg>axis, axis of rotation, swivel, pivot, pivot point</sg>,;
+<sg>axle, spindle, pin, hinge, pole, arbor, bobbin, mandrel</sg>,;
+<sg>axle shaft</sg>,;
+<sg>gymbal</sg>,;
+<sg>hub, hub of rotation</sg>,;
+<sg>helix, helical motion</sg>,;
+<sg>angular momentum, angular velocity</sg>,;
+<sg>revolutions per minute, RPM</sg>,;
+<sg>centrifugal force</sg>,;
+<sg>surge</sg>,;
+<sg>vertigo, dizzy round</sg>,;
+<sg>coriolus force</sg>,;
+<sg>carousel, merry-go-round</sg>,;
+<sg>Ferris wheel</sg>,;
+<sg>top, dreidel, teetotum</sg>,;
+<sg>gyroscope</sg>,;
+<sg>turntable, lazy suzan</sg>,;
+<sg>screw, whirligig, rollingstone, water wheel, windmill</sg>,;
+<sg>wheel, pulley wheel, roulette wheel, potter's wheel, pinwheel, gear</sg>,;
+<sg>roller</sg>,;
+<sg>flywheel</sg>,;
+<sg>jack</sg>,;
+<sg>caster</sg>,;
+<sg>centrifuge, ultracentrifuge, bench centrifuge, refrigerated centrifuge, gas centrifuge, microfuge</sg>,;
+<sg>drill, augur, oil rig</sg>,;
+<sg>wagon wheel, wheel, tire, tyre</sg>,;
+<sg>trochilics</sg>,;
+<sg>whirling dervish</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>rotate</sg>,;
+<sg>roll along</sg>,;
+<sg>revolve, spin</sg>,;
+<sg>turn round</sg>,;
+<sg>circumvolve</sg>,;
+<sg>circulate</sg>,;
+<sg>gyre, gyrate, wheel, whirl, pirouette</sg>,;
+<sg>twirl, trundle, troll, bowl</sg>,;
+<sg>roll up, furl</sg>,;
+<sg>wallow, welter</sg>,;
+<sg>box the compass</sg>,;
+<sg>spin like a top, spin like a teetotum</sg>,;
+<sg>spin out</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>rotating</sg>,;
+<sg>rotary, rotary</sg>,;
+<sg>circumrotatory, trochilic, vertiginous, gyratory</sg>,;
+<sg>vortical, vorticose</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>head over heels, round and round, like a horse in a mill</sg>,;
+<br>
+</paragraph>

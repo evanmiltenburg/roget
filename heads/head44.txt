@@ -1,0 +1,81 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#3#</sectionNumber>
+<headword>#<b>#[001] #44# Mixture #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>mixture, </i>admixture, commixture, commixtion</sg>,;
+<sg>commixion, intermixture, alloyage, matrimony</sg>,;
+<sg>junction ,<cref> 43 <i>decrement</i></cref></sg>,;
+<sg>combination ,<cref> 48 <i>connection</i></cref></sg>,;
+<sg>miscegenation</sg>,;
+<sg>impregnation</sg>,;
+<sg>infusion, diffusion suffusion, transfusion</sg>,;
+<sg>infiltration</sg>,;
+<sg>seasoning, sprinkling, interlarding</sg>,;
+<sg>interpolation</sg>,;
+<sg>,<cref> 228 <i>inversion</i></cref> adulteration, sophistication</sg>,;
+<sg>tinge, tincture, touch, dash, smack, sprinkling, spice, seasoning, infusion, soupcon</sg>,;
+<sg>alloy, amalgam</sg>,;
+<sg>brass, chowchow, pewter</sg>,;
+<sg>magma, half-and-half, melange, tertium quid, miscellany, ambigu, medley, mess, hotchpot, pasticcio, patchwork, odds and ends, all sorts</sg>,;
+<sg>jumble ,<cref>59 <i>disorder</i></cref></sg>,;
+<sg>salad, sauce, mash, omnium gatherum, gallimaufry, olla-podrida, olio, salmagundi, potpourri, Noah's ark, caldron texture, mingled yarn</sg>,;
+<sg>mosaic ,<cref>440 <i>variegation</i></cref></sg>,;
+<sg>half-blood, half-caste</sg>,;
+<sg>mulatto</sg>,;
+<sg>terceron, quarteron, quinteron </sg>,;
+<sg>quadroon, octoroon</sg>,;
+<sg>griffo, zambo</sg>,;
+<sg>cafuzo</sg>,;
+<sg>Eurasian</sg>,;
+<sg>fustee, fustie</sg>,;
+<sg>griffe, ladino, marabou, mestee, mestizo, quintroon, sacatra zebrule</sg>,;
+<sg>catalo</sg>,;
+<sg>cross, hybrid, mongrel</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>mix</sg>,;
+<sg>join ,<cref> 43 <i>decrement</i></cref></sg>,;
+<sg>combine ,<cref> 48 <i>connection</i></cref></sg>,;
+<sg>commix, immix, intermix</sg>,;
+<sg>mix up with, mingle</sg>,;
+<sg>commingle, intermingle, bemingle</sg>,;
+<sg>shuffle ,<cref>61 <i>derange</i></cref></sg>,;
+<sg>pound together</sg>,;
+<sg>hash up, stir up</sg>,;
+<sg>knead, brew</sg>,;
+<sg>impregnate with</sg>,;
+<sg>interlard ,<cref>228 <i>interpolate</i></cref></sg>,;
+<sg>intertwine, interweave ,<cref> 219 <i>summit</i></cref></sg>,;
+<sg>associate with</sg>,;
+<sg>miscegenate</sg>,;
+<sg>be mixed </sg>,;
+<sg>get among, be entangled with</sg>,;
+<sg>instill, imbue</sg>,;
+<sg>infuse, suffuse, transfuse</sg>,;
+<sg>infiltrate, dash, tinge, tincture, season, sprinkle, besprinkle, attemper, medicate, blend, cross</sg>,;
+<sg>alloy, amalgamate, compound, adulterate, sophisticate, infect</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>mixed</sg>,;
+<sg>implex, composite, half-and-half, linsey-woolsey, chowchow, hybrid, mongrel, heterogeneous</sg>,;
+<sg>motley ,<cref>440 <i>variegated</i></cref></sg>,;
+<sg>miscellaneous, promiscuous, indiscriminate</sg>,;
+<sg>miscible</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>among, amongst, amid, amidst</sg>,;
+<sg>with</sg>,;
+<sg>in the midst of, in the crowd</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,42 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#36#</sectionNumber>
+<headword>#<b>#[001] #887# Blemish #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>blemish, </i>disfigurement, deformity</sg>,;
+<sg>adactylism</sg>,;
+<sg>flaw, defect ,<cref>651 <i>imperfection</i></cref></sg>,;
+<sg>injury ,<cref>659 <i>deterioration</i></cref></sg>,;
+<sg>spots on the sun</sg>,;
+<sg>eyesore</sg>,;
+<sg>stain, blot</sg>,;
+<sg>spot, spottiness</sg>,;
+<sg>speck, speckle, blur</sg>,;
+<sg>tarnish, smudge</sg>,;
+<sg>dirt ,<cref> 653 <i>relinquishment</i></cref></sg>,;
+<sg>freckle, mole, macula, patch, blotch, birthmark</sg>,;
+<sg>blobber lip, blubber lip</sg>,;
+<sg>blain, maculation</sg>,;
+<sg>scar, wem</sg>,;
+<sg>pustule</sg>,;
+<sg>whelk</sg>,;
+<sg>excrescence, pimple ,<cref>250 <i>protuberance</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>disfigure ,<cref>659 <i>injure</i></cref></sg>,;
+<sg>speckle</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>pitted, freckled, discolored</sg>,;
+<sg>imperfect ,<cref> 651 <i>pursuit</i></cref></sg>,;
+<sg>blobber-lipped, bloodshot</sg>,;
+<sg>injured ,<cref>659 <i>deteriorated</i></cref></sg>,;
+<br>
+</paragraph>

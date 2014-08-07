@@ -1,0 +1,43 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#15#</sectionNumber>
+<headword>#<b>#[001] #423# Snap #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>snap</i></sg>,;
+<sg>rapping</sg>,;
+<sg>decrepitation, crepitation</sg>,;
+<sg>report, thud</sg>,;
+<sg>burst, explosion, blast, boom, discharge, detonation, firing, salvo, volley</sg>,;
+<sg>squib, cracker, firecracker, cherry bomb, M80, gun, cap, cap gun, popgun</sg>,;
+<sg>implosion</sg>,;
+<sg>bomb burst, atomic explosion, nuclear explosion (arms) 727</sg>,;
+<sg>gunpowder, dynamite, gun cotton, nitroglycerine, nitrocellulose, plastic explosive, plastique, TNT, cordite, trinitrotoluene, picric acid, picrates, mercury fulminate (arms) 727</sg>,;
+<sg>whack, wham, pow</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>rap, snap, tap, knock, ping</sg>,;
+<sg>click</sg>,;
+<sg>clash</sg>,;
+<sg>crack, crackle</sg>,;
+<sg>crash</sg>,;
+<sg>pop</sg>,;
+<sg>slam, bang, blast, boom, clap, clang, clack, whack, wham</sg>,;
+<sg>brustle</sg>,;
+<sg>burst on the ear</sg>,;
+<sg>crepitate, rump</sg>,;
+<sg>blow up, blow</sg>,;
+<sg>detonate</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>rapping</sg>,;
+<sg>Int</sg>,;
+<sg>kaboom!, whamo!, Heewhack!, pow!,</sg>,;
+<br>
+</paragraph>

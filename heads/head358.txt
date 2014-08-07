@@ -1,0 +1,17 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#14#</sectionNumber>
+<headword>#<b>#[001] #358# Stream #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>stream ,<cref>349 <i>of water) 348, (of air</i></cref></sg>,;
+<sg>flowmeter</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>flow ,<cref> 348 <i>water</i></cref></sg>,;
+<sg>blow ,<cref> 349 <i>air</i></cref></sg>,;
+<br>
+</paragraph>

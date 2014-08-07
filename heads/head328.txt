@@ -1,0 +1,39 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#13#</sectionNumber>
+<headword>#<b>#[001] #328# Immateriality #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>immateriality, </i>immaterialness</sg>,;
+<sg>incorporeity, spirituality</sg>,;
+<sg>inextension</sg>,;
+<sg>astral plane</sg>,;
+<sg>personality</sg>,;
+<sg>I, myself, me</sg>,;
+<sg>ego, spirit ,<cref>450 <i>soul</i></cref></sg>,;
+<sg>astral body</sg>,;
+<sg>immaterialism</sg>,;
+<sg>spiritualism, spiritualist</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>disembody, spiritualize</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>immaterial, immateriate</sg>,;
+<sg>incorporeal, incorporal</sg>,;
+<sg>incorporate, unfleshly</sg>,;
+<sg>supersensible</sg>,;
+<sg>asomatous, unextended</sg>,;
+<sg>unembodied, disembodied</sg>,;
+<sg>extramundane, unearthly</sg>,;
+<sg>pneumatoscopic</sg>,;
+<sg>spiritual ,<cref>450 <i>psychical</i></cref></sg>,;
+<sg>personal, subjective, nonobjective</sg>,;
+<br>
+</paragraph>

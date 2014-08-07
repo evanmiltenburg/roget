@@ -1,0 +1,32 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#14#</sectionNumber>
+<headword>#<b>#[001] #368# Resin #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>resin, </i>rosin</sg>,;
+<sg>gum</sg>,;
+<sg>lac, sealing wax</sg>,;
+<sg>amber, ambergris</sg>,;
+<sg>bitumen, pitch, tar</sg>,;
+<sg>asphalt, asphaltum</sg>,;
+<sg>camphor</sg>,;
+<sg>varnish, copal, mastic, magilp, lacquer, japan</sg>,;
+<sg>artificial resin, polymer</sg>,;
+<sg>ion-exchange resin, cation-exchange resin, anion exchange resin, water softener, Amberlite, Dowex, Diaion</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>varnish ,<cref>223 <i>overlay</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>resiny, resinous</sg>,;
+<sg>bituminous, pitchy, tarry</sg>,;
+<sg>asphaltic, asphaltite</sg>,;
+<br>
+</paragraph>

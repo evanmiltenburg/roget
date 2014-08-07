@@ -1,0 +1,31 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#24#</sectionNumber>
+<headword>#<b>#[001] #573# Dupe #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>dupe, </i>gull, gudgeon, gobemouche, cull, cully, victim, pigeon, April fool</sg>,;
+<sg>jay, sucker</sg>,;
+<sg>laughingstock ,<cref> 857 <i>parsimony</i></cref></sg>,;
+<sg>Cyclops, simple Simon, flat</sg>,;
+<sg>greenhorn</sg>,;
+<sg>fool ,<cref> 501 <i>demonstration</i></cref></sg>,;
+<sg>puppet, cat's paw</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be deceived ,<cref> 545 <i>equivocalness</i></cref>, be the dupe of</sg>,;
+<sg>fall into a trap</sg>,;
+<sg>swallow the bait, nibble at the bait</sg>,;
+<sg>bite, catch a Tartar</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>credulous ,<cref> 486 <i>discrimination</i></cref></sg>,;
+<sg>mistaken ,<cref>495 <i>error</i></cref></sg>,;
+<br>
+</paragraph>

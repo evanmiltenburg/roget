@@ -1,0 +1,31 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#31#</sectionNumber>
+<headword>#<b>#[001] #789# Consignee #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>consignee, </i>trustee, nominee, committee</sg>,;
+<sg>agent, delegate</sg>,;
+<sg>commissary, commissioner</sg>,;
+<sg>emissary, envoy, commissionaire</sg>,;
+<sg>messenger ,<cref> 534 <i>foresight</i></cref></sg>,;
+<sg>diplomatist, diplomat, diplomate, corps diplomatique, embassy</sg>,;
+<sg>ambassador, embassador</sg>,;
+<sg>representative, resident, consul, legate, nuncio, internuncio, charge d'affaires, attache</sg>,;
+<sg>vicegerent ,<cref>759 <i>deputy</i></cref></sg>,;
+<sg>plenipotentiary</sg>,;
+<sg>functionary, placeman, curator</sg>,;
+<sg>treasurer ,<cref> 801 <i>compact</i></cref></sg>,;
+<sg>factor, bailiff, clerk, secretary, attorney, advocate, solicitor, proctor, broker, underwriter, commission agent, auctioneer, one's man of business</sg>,;
+<sg>factotum ,<cref>694 <i>director</i></cref></sg>,;
+<sg>caretaker</sg>,;
+<sg>dalal, dubash, garnishee, gomashta</sg>,;
+<sg>negotiator, go-between</sg>,;
+<sg>middleman</sg>,;
+<sg>under agent, employe</sg>,;
+<sg>servant ,<cref> 746 <i>defense</i></cref></sg>,;
+<sg>referee, arbitrator ,<cref>967 <i>judge</i></cref></sg>,;
+<sg>traveler, bagman, commis-voyageur, touter, commercial traveler, drummer, traveling man</sg>,;
+<sg>newspaper correspondent, own correspondent, special correspondent</sg>,;
+<br>
+</paragraph>

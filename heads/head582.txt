@@ -1,0 +1,101 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#25#</sectionNumber>
+<headword>#<b>#[001] #582# Painting #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>painting</i></sg>,;
+<sg>depicting</sg>,;
+<sg>drawing</sg>,;
+<sg>design</sg>,;
+<sg>perspective, sciagraphy, skiagraphy</sg>,;
+<sg>chiaroscuro ,<cref>420 <i>light</i></cref></sg>,;
+<sg>composition</sg>,;
+<sg>treatment</sg>,;
+<sg>historical painting, portrait painting, miniature painting</sg>,;
+<sg>landscape painting, marine painting</sg>,;
+<sg>still life, flower painting, scene painting</sg>,;
+<sg>scenography</sg>,;
+<sg>school, style</sg>,;
+<sg>the grand style, high art, genre, portraiture</sg>,;
+<sg>ornamental art ,<cref> 847 <i>price</i></cref></sg>,;
+<sg>monochrome, polychrome</sg>,;
+<sg>grisaille</sg>,;
+<sg>pallet, palette</sg>,;
+<sg>easel</sg>,;
+<sg>brush, pencil, stump</sg>,;
+<sg>black lead, charcoal, crayons, chalk, pastel</sg>,;
+<sg>paint ,<cref>428 <i>coloring matter</i></cref></sg>,;
+<sg>watercolor, body color, oil color</sg>,;
+<sg>oils, oil paint</sg>,;
+<sg>varnish ,<cref> 356 <i>marsh</i></cref></sg>,;
+<sg>1, priming</sg>,;
+<sg>gouache, tempera, distemper, fresco, water glass</sg>,;
+<sg>enamel</sg>,;
+<sg>encaustic painting</sg>,;
+<sg>mosaic</sg>,;
+<sg>tapestry</sg>,;
+<sg>photography, heliography, color photography</sg>,;
+<sg>sun painting</sg>,;
+<sg>graphics, computer graphics</sg>,;
+<sg>picture, painting, piece, tableau, canvas</sg>,;
+<sg>oil painting </sg>,;
+<sg>fresco, cartoon</sg>,;
+<sg>easel picture, cabinet picture, draught, draft</sg>,;
+<sg>pencil drawing , water color drawing, etching, charcoal, pen-and-ink</sg>,;
+<sg>sketch, outline, study</sg>,;
+<sg>photograph, color photograph, black-and-white photograph, holograph, heliograph</sg>,;
+<sg>daguerreotype, talbotype, calotype, heliotype</sg>,;
+<sg>negative, positive</sg>,;
+<sg>print, glossy print, matte print</sg>,;
+<sg>enlargement, reduction, life-size print</sg>,;
+<sg>instant photo, Polaroid photo</sg>,;
+<sg>technicolor, Kodachrome, Ektachrome</sg>,;
+<sg>Polaroid</sg>,;
+<sg>portrait ,<cref>554 <i>representation</i></cref></sg>,;
+<sg>whole length, full length, half length</sg>,;
+<sg>kitcat, head</sg>,;
+<sg>miniature</sg>,;
+<sg>shade, silhouette</sg>,;
+<sg>profile</sg>,;
+<sg>landscape, seapiece</sg>,;
+<sg>view, scene, prospect</sg>,;
+<sg>panorama, diorama</sg>,;
+<sg>still life</sg>,;
+<sg>picture gallery, exhibit</sg>,;
+<sg>studio, atelier</sg>,;
+<sg>pinacotheca</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>paint, design, limn draw, sketch, pencil, scratch, shade, stipple, hatch, dash off, chalk out, square up</sg>,;
+<sg>color, dead color, wash, varnish</sg>,;
+<sg>draw in pencil</sg>,;
+<sg>paint in oils</sg>,;
+<sg>stencil</sg>,;
+<sg>depict ,<cref>554 <i>represent</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>painted</sg>,;
+<sg>pictorial, graphic, picturesque</sg>,;
+<sg>pencil, oil</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>in pencil</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>fecit, delineavit</sg>,;
+<sg>mutum est pictura poema</sg>,;
+<br>
+</paragraph>

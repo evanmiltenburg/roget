@@ -1,0 +1,157 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#30#</sectionNumber>
+<headword>#<b>#[001] #760# Success #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>success, </i>successfulness</sg>,;
+<sg>speed</sg>,;
+<sg>advance ,<cref>282 <i>progress</i></cref></sg>,;
+<sg>trump card</sg>,;
+<sg>hit, stroke, score</sg>,;
+<sg>lucky hit, fortunate hit, good hit, good stroke</sg>,;
+<sg>direct hit, bull's eye</sg>,;
+<sg>goal, point, touchdown</sg>,;
+<sg>home run, homer, hole-in-one, grand slam</sg>,;
+<sg>killing, windfall bold stroke, master stroke</sg>,;
+<sg>ten strike</sg>,;
+<sg>coup de maitre, checkmate</sg>,;
+<sg>half the battle, prize</sg>,;
+<sg>profit ,<cref>775 <i>acquisition</i></cref></sg>,;
+<sg>continued success</sg>,;
+<sg>good fortune ,<cref>734 <i>prosperity</i></cref></sg>,;
+<sg>time well spent</sg>,;
+<sg>advantage over</sg>,;
+<sg>upper hand, whip hand</sg>,;
+<sg>ascendancy, mastery</sg>,;
+<sg>expugnation, conquest, victory, subdual</sg>,;
+<sg>subjugation ,<cref>749 <i>subjection</i></cref></sg>,;
+<sg>triumph ,<cref>884 <i>exultation</i></cref></sg>,;
+<sg>proficiency ,<cref>698 <i>skill</i></cref></sg>,;
+<sg>conqueror, victor, winner</sg>,;
+<sg>master of the situation, master of the position, top of the heap, king of the hill</sg>,;
+<sg>achiever, success, success story</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>succeed</sg>,;
+<sg>be successful</sg>,;
+<sg>gain one's end, gain one's ends</sg>,;
+<sg>crown with success</sg>,;
+<sg>gain a point, attain a point, carry a point, secure a point, win a point, win an object</sg>,;
+<sg>get there</sg>,;
+<sg>manage to, contrive to</sg>,;
+<sg>accomplish ,<cref>729 <i>effect) (complete</i></cref></sg>,;
+<sg>do wonders, work wonders</sg>,;
+<sg>make a go of it</sg>,;
+<sg>come off well, come off successful, come off with flying colors</sg>,;
+<sg>make short work of</sg>,;
+<sg>take by storm, carry by storm</sg>,;
+<sg>bear away the bell</sg>,;
+<sg>win one's wings, win one's spurs, win the battle</sg>,;
+<sg>win the day, carry the day, gain the day, gain the prize, gain the palm</sg>,;
+<sg>have the best of it, have it all one's own way, have the game in one's owns hands, have the ball at one's feet, have one on the hop</sg>,;
+<sg>walk over the course</sg>,;
+<sg>carry all before one, remain in possession of the field</sg>,;
+<sg>score a success</sg>,;
+<sg>speed</sg>,;
+<sg>make progress ,<cref>282 <i>advance</i></cref></sg>,;
+<sg>win one's way, make one's way, work one's way, find one's way</sg>,;
+<sg>strive to some purpose</sg>,;
+<sg>prosper ,<cref> 734 <i>facility</i></cref></sg>,;
+<sg>drive a roaring trade</sg>,;
+<sg>make profit ,<cref>775 <i>acquire</i></cref></sg>,;
+<sg>reap the fruits, gather the fruits, reap the benefit of, reap the harvest</sg>,;
+<sg>strike oil, gain a windfall</sg>,;
+<sg>make one's fortune, get in the harvest, turn to good account</sg>,;
+<sg>turn to account ,<cref>677 <i>use</i></cref></sg>,;
+<sg>triumph, be triumphant</sg>,;
+<sg>gain a victory, obtain a victory, gain an advantage</sg>,;
+<sg>chain victory to one's car</sg>,;
+<sg>nail a coonskin to the wall</sg>,;
+<sg>surmount a difficulty, overcome a difficulty, get over a difficulty, get over an obstacle ,<cref> 706 <i>use</i></cref></sg>,;
+<sg>se tirer d'affaire</sg>,;
+<sg>make head against</sg>,;
+<sg>stem the torrent, stem the tide, stem the current</sg>,;
+<sg>weather the storm, weather a point</sg>,;
+<sg>turn a corner, keep one's head above water, tide over</sg>,;
+<sg>master</sg>,;
+<sg>get the better of, have the better of, gain the better of, gain the best of, gain the upper hand, gain the ascendancy, gain the whip hand, gain the start of</sg>,;
+<sg>distance</sg>,;
+<sg>surpass ,<cref>33 <i>superiority</i></cref></sg>,;
+<sg>defeat, conquer, vanquish, discomfit</sg>,;
+<sg>euchre</sg>,;
+<sg>overcome, overthrow, overpower, overmaster, overmatch, overset, override, overreach</sg>,;
+<sg>outwit, outdo, outflank, outmaneuver, outgeneral, outvote</sg>,;
+<sg>take the wind out of one's adversary's sails</sg>,;
+<sg>beat, beat hollow</sg>,;
+<sg>rout, lick, drub, floor, worst</sg>,;
+<sg>put down, put to flight, put to the rout, put hors de combat, put out of court</sg>,;
+<sg>silence, quell, nonsuit, checkmate, upset, confound, nonplus, stalemate, trump</sg>,;
+<sg>baffle ,<cref>706 <i>hinder</i></cref></sg>,;
+<sg>circumvent, elude</sg>,;
+<sg>trip up, trip up the heels of</sg>,;
+<sg>drive into a corner, drive to the wall</sg>,;
+<sg>run hard, put one's nose out of joint</sg>,;
+<sg>settle, do for</sg>,;
+<sg>break the neck of, break the back of</sg>,;
+<sg>capsize, sink, shipwreck, drown, swamp</sg>,;
+<sg>subdue</sg>,;
+<sg>subjugate ,<cref>749 <i>subject</i></cref></sg>,;
+<sg>reduce</sg>,;
+<sg>make the enemy bite the dust</sg>,;
+<sg>victimize, roll in the dust, trample under foot, put an extinguisher upon</sg>,;
+<sg>answer, answer the purpose</sg>,;
+<sg>avail, prevail, take effect, do, turn out well, work well, take, tell, bear fruit</sg>,;
+<sg>hit it, hit the mark, hit the right nail on the head</sg>,;
+<sg>nick it</sg>,;
+<sg>turn up trumps, make a hit</sg>,;
+<sg>find one's account in</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>succeeding</sg>,;
+<sg>successful</sg>,;
+<sg>prosperous ,<cref> 734 <i>facility</i></cref></sg>,;
+<sg>triumphant</sg>,;
+<sg>flushed with success, crowned with success</sg>,;
+<sg>victorious, on top</sg>,;
+<sg>set up</sg>,;
+<sg>in the ascendant</sg>,;
+<sg>unbeaten  (beat)</sg>,;
+<sg>well-spent</sg>,;
+<sg>felicitous, effective, in full swing</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>successfully</sg>,;
+<sg>well flying colors, in triumph, swimmingly</sg>,;
+<sg>a merveille, beyond all hope</sg>,;
+<sg>to some purpose, to good purpose</sg>,;
+<sg>to one's heart's content</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>veni vidi vici, the day being one's own, one's star in the ascendant</sg>,;
+<sg>omne tulit punctum</sg>,;
+<sg>bis vincit qui se vincit in victoria</sg>,;
+<sg>cede repugnanti cedendo victor abibis</sg>,;
+<sg>chacun est l'artisan de sa fortune</sg>,;
+<sg>dies faustus</sg>,;
+<sg>l'art de vaincre est celui de mepriser la mort</sg>,;
+<sg>omnia vincit amor, love conquers all</sg>,;
+<sg>peace hath her victories no less renowned than war</sg>,;
+<sg>the race by vigor not by vaunts is won</sg>,;
+<sg>vincit qui patitur</sg>,;
+<sg>vincit qui se vincit</sg>,;
+<sg>The race is not always to the swift, nor the battle to the strong, but that's the way to bet</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,94 @@
+<classNumber>#2#</classNumber>
+<sectionNumber>#10#</sectionNumber>
+<headword>#<b>#[001] #202# Littleness #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>littleness</i></sg>,;
+<sg>smallness ,<cref>32 <i>of quantity</i></cref></sg>,;
+<sg>exiguity, inextension</sg>,;
+<sg>parvitude, parvity</sg>,;
+<sg>duodecimo</sg>,;
+<sg>Elzevir edition, epitome, microcosm</sg>,;
+<sg>rudiment</sg>,;
+<sg>vanishing point</sg>,;
+<sg>thinness ,<cref> 203 <i>expansion</i></cref></sg>,;
+<sg>dwarf, pygmy, pigmy, Liliputian, chit, pigwidgeon, urchin, elf</sg>,;
+<sg>atomy, dandiprat</sg>,;
+<sg>doll, puppet</sg>,;
+<sg>Tom Thumb, Hop-o'-my-thumb</sg>,;
+<sg>manikin, mannikin</sg>,;
+<sg>homunculus, dapperling, cock-sparrow</sg>,;
+<sg>animalcule, monad, mite, insect, emmet, fly, midge, gnat, shrimp, minnow, worm, maggot, entozoon</sg>,;
+<sg>bacteria</sg>,;
+<sg>infusoria</sg>,;
+<sg>microzoa</sg>,;
+<sg>phytozoaria</sg>,;
+<sg>microbe</sg>,;
+<sg>grub</sg>,;
+<sg>tit, tomtit, runt, mouse, small fry</sg>,;
+<sg>millet seed, mustard seed</sg>,;
+<sg>barleycorn</sg>,;
+<sg>pebble, grain of sand</sg>,;
+<sg>molehill, button, bubble</sg>,;
+<sg>point</sg>,;
+<sg>atom ,<cref>32 <i>small quantity</i></cref></sg>,;
+<sg>fragment ,<cref>51 <i>small part</i></cref></sg>,;
+<sg>powder ,<cref> 330 <i>gravity</i></cref></sg>,;
+<sg>point of a pin, mathematical point</sg>,;
+<sg>minutiae ,<cref>643 <i>unimportance</i></cref></sg>,;
+<sg>micrometer</sg>,;
+<sg>vernier</sg>,;
+<sg>scale</sg>,;
+<sg>microphotography, photomicrography, micrography</sg>,;
+<sg>photomicrograph, microphotograph</sg>,;
+<sg>microscopy</sg>,;
+<sg>microscope (optical instruments) 445</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be little</sg>,;
+<sg>lie in a nutshell</sg>,;
+<sg>become small ,<cref>195 <i>decrease) 36, (contract</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>little</sg>,;
+<sg>small ,<cref>32 <i>in quantity</i></cref></sg>,;
+<sg>minute, diminutive, microscopic</sg>,;
+<sg>microzoal</sg>,;
+<sg>inconsiderable ,<cref>643 <i>unimportant</i></cref></sg>,;
+<sg>exiguous, puny, tiny, wee, petty, minikin, miniature, pygmy, pigmy, elfin</sg>,;
+<sg>undersized</sg>,;
+<sg>dwarf, dwarfed, dwarfish</sg>,;
+<sg>spare, stunted, limited</sg>,;
+<sg>cramp, cramped</sg>,;
+<sg>pollard, Liliputian, dapper, pocket</sg>,;
+<sg>portative, portable</sg>,;
+<sg>duodecimo</sg>,;
+<sg>dumpy, squat</sg>,;
+<sg>short ,<cref> 201 <i>size</i></cref></sg>,;
+<sg>impalpable, intangible, evanescent, imperceptible, invisible, inappreciable, insignificant, inconsiderable, trivial</sg>,;
+<sg>infinitesimal, homoeopathic</sg>,;
+<sg>atomic, subatomic, corpuscular, molecular</sg>,;
+<sg>rudimentary, rudimental</sg>,;
+<sg>embryonic, vestigial</sg>,;
+<sg>weazen, scant, scraggy, scrubby</sg>,;
+<sg>thin ,<cref>203 <i>narrow</i></cref></sg>,;
+<sg>granular ,<cref>330 <i>powdery</i></cref></sg>,;
+<sg>shrunk ,<cref> 195 <i>presence</i></cref></sg>,;
+<sg>brevipennate</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>in a small compass, in a nutshell</sg>,;
+<sg>on a small scale</sg>,;
+<sg>minutely, microscopically</sg>,;
+<br>
+</paragraph>

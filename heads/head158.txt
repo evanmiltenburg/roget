@@ -1,0 +1,84 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#7#</sectionNumber>
+<headword>#<b>#[001] #158# Eventuality #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>eventuality, </i>event, occurrence, incident, affair, matter, thing, episode, happening, proceeding, contingency, juncture, experience, fact</sg>,;
+<sg>matter of fact</sg>,;
+<sg>naked fact, bare facts, just the facts</sg>,;
+<sg>phenomenon</sg>,;
+<sg>advent</sg>,;
+<sg>business, concern, transaction, dealing, proceeding</sg>,;
+<sg>circumstance, particular, casualty, accident, adventure, passage, crisis, pass, emergency, contingency, consequence</sg>,;
+<sg>opportunity (occasion) 143</sg>,;
+<sg>the world, life, things, doings, affairs in general</sg>,;
+<sg>things in general, affairs in general</sg>,;
+<sg>the times, state of affairs, order of the day</sg>,;
+<sg>course of things, tide of things, stream of things, current of things, run of things, march of things, course of events</sg>,;
+<sg>ups and downs of life, vicissitudes of life</sg>,;
+<sg>chapter of accidents ,<cref>156 <i>chance</i></cref></sg>,;
+<sg>situation ,<cref>8 <i>circumstances</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>happen, occur</sg>,;
+<sg>take place, take effect</sg>,;
+<sg>come, become of</sg>,;
+<sg>come off, comeabout, come round, come into existence, come forth, come to pass, come on</sg>,;
+<sg>pass, present itself</sg>,;
+<sg>fall</sg>,;
+<sg>fall out, turn out</sg>,;
+<sg>run, be on foot, fall in</sg>,;
+<sg>befall, betide, bechance</sg>,;
+<sg>prove, eventuate, draw on</sg>,;
+<sg>turn up, crop up, spring up, pop up, arise, show up, show its face, appear, come forth, cast up</sg>,;
+<sg>supervene, survene</sg>,;
+<sg>issue, arrive, ensue, arise, start, hold, take its course</sg>,;
+<sg>pass off ,<cref>122 <i>be past</i></cref></sg>,;
+<sg>meet with</sg>,;
+<sg>experience, enjoy, encounter, undergo, suffer, pass through, go through, be subjected to, be exposed to</sg>,;
+<sg>fall to the lot of</sg>,;
+<sg>be one's chance, be one's fortune, be one's lot</sg>,;
+<sg>find</sg>,;
+<sg>endure ,<cref>821 <i>feel</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>happening</sg>,;
+<sg>going on, doing, current</sg>,;
+<sg>in the wind, in the air, afloat</sg>,;
+<sg>on foot, afoot, on the tapis</sg>,;
+<sg>at issue, in question</sg>,;
+<sg>incidental</sg>,;
+<sg>eventful, stirring, bustling, full of incident</sg>,;
+<sg>memorable, momentous, signal</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>eventually</sg>,;
+<sg>in the event of, in case, just in case</sg>,;
+<sg>in the course of things</sg>,;
+<sg>as things, times go</sg>,;
+<sg>as the world goes, wags</sg>,;
+<sg>as the tree falls, cat jumps</sg>,;
+<sg>as it may turn out, happen</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>that's the way the ball bounces, that's the way the cookie crumbles</sg>,;
+<sg>you never know what may turn up, you never know what the future will bring</sg>,;
+<sg>the plot thickens</sg>,;
+<sg>breasts the blows of circumstance</sg>,;
+<sg>so runs round of life from hour to hour</sg>,;
+<sg>sprinkled along the waste of years</sg>,;
+<br>
+</paragraph>

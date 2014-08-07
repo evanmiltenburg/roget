@@ -1,0 +1,34 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#2#</sectionNumber>
+<headword>#<b>#[001] #24# Prototype #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>prototype, </i>original, model, pattern, precedent, standard, ideal, reference, scantling, type</sg>,;
+<sg>archetype, antitype</sg>,;
+<sg>protoplast, module, exemplar, example, ensample, paradigm</sg>,;
+<sg>lay-figure</sg>,;
+<sg>text, copy, design</sg>,;
+<sg>fugleman, keynote</sg>,;
+<sg>die, mold</sg>,;
+<sg>matrix, last, plasm</sg>,;
+<sg>proplasm, protoplasm</sg>,;
+<sg>mint</sg>,;
+<sg>seal, punch, intaglio, negative</sg>,;
+<sg>stamp</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be an example, be a role model, set an example</sg>,;
+<sg>set a copy</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>a precedent embalms a principle</sg>,;
+<sg>exempla sunt odiosa</sg>,;
+<br>
+</paragraph>

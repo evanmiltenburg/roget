@@ -1,0 +1,64 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#27#</sectionNumber>
+<headword>#<b>#[001] #695# Refuge #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>refuge, </i>sanctuary, retreat, fastness</sg>,;
+<sg>acropolis</sg>,;
+<sg>keep, last resort</sg>,;
+<sg>ward</sg>,;
+<sg>prison ,<cref> 752 <i>pacification</i></cref></sg>,;
+<sg>asylum, ark, home, refuge for the destitute</sg>,;
+<sg>almshouse</sg>,;
+<sg>hiding place ,<cref>530 <i>ambush</i></cref></sg>,;
+<sg>sanctum sanctorum ,<cref>893 <i>privacy</i></cref></sg>,;
+<sg>roadstead, anchorage</sg>,;
+<sg>breakwater, mole, port, haven</sg>,;
+<sg>harbor, harbor of refuge</sg>,;
+<sg>seaport</sg>,;
+<sg>pier, jetty, embankment, quay</sg>,;
+<sg>covert, cover, shelter, screen, lee wall, wing, shield, umbrella</sg>,;
+<sg>barrier</sg>,;
+<sg>dashboard, dasher</sg>,;
+<sg>wall ,<cref>232 <i>inclosure</i></cref></sg>,;
+<sg>fort ,<cref>717 <i>defense</i></cref></sg>,;
+<sg>anchor, kedge</sg>,;
+<sg>grapnel, grappling iron</sg>,;
+<sg>sheet anchor, killick</sg>,;
+<sg>mainstay</sg>,;
+<sg>support ,<cref> 215 <i>height</i></cref></sg>,;
+<sg>cheek ,<cref> 706 <i>use</i></cref></sg>,;
+<sg>ballast</sg>,;
+<sg>jury mast</sg>,;
+<sg>vent-peg</sg>,;
+<sg>safety valve, blow-off valve</sg>,;
+<sg>safety lamp</sg>,;
+<sg>lightning rod, lightning conductor</sg>,;
+<sg>safety belt, airbag, seat belt</sg>,;
+<sg>antilock brakes, antiskid tires, snow tires</sg>,;
+<sg>means of escape ,<cref>671 <i>escape</i></cref></sg>,;
+<sg>lifeboat, lifejacket, life buoy, swimming belt, cork jacket</sg>,;
+<sg>parachute, plank, steppingstone</sg>,;
+<sg>emergency landing</sg>,;
+<sg>safeguard ,<cref>664 <i>protection</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>seek refuge, take refuge, find refuge</sg>,;
+<sg>seek safety, find safety ,<cref> 664 <i>materials</i></cref></sg>,;
+<sg>throw oneself into the arms of</sg>,;
+<sg>break for taller timber</sg>,;
+<sg>create a diversion</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>any port in a storm</sg>,;
+<sg>bibere venenum in auro</sg>,;
+<sg>valet anchora virtus</sg>,;
+<br>
+</paragraph>

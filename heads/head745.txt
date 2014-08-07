@@ -1,0 +1,116 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#29#</sectionNumber>
+<headword>#<b>#[001] #745# Attack #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>attack</i></sg>,;
+<sg>assault, assault and battery</sg>,;
+<sg>onset, onslaught, charge</sg>,;
+<sg>aggression, offense</sg>,;
+<sg>incursion, inroad, invasion</sg>,;
+<sg>irruption</sg>,;
+<sg>outbreak</sg>,;
+<sg>estrapade, ruade</sg>,;
+<sg>coupe de main, sally, sortie, camisade, raid, foray</sg>,;
+<sg>run at, run against</sg>,;
+<sg>dead set at</sg>,;
+<sg>storm, storming</sg>,;
+<sg>boarding, escalade</sg>,;
+<sg>siege, investment, obsession, bombardment, cannonade</sg>,;
+<sg>fire, volley</sg>,;
+<sg>platoon fire, file fire</sg>,;
+<sg>fusillade</sg>,;
+<sg>sharpshooting, broadside</sg>,;
+<sg>raking fire, cross fire</sg>,;
+<sg>volley of grapeshot, whiff of the grape, feu d'enfer</sg>,;
+<sg>cut, thrust, lunge, pass, passado, carte and tierce, home thrust</sg>,;
+<sg>coupe de bec</sg>,;
+<sg>kick, punch ,<cref>276 <i>impulse</i></cref></sg>,;
+<sg>battue, razzia, Jacquerie, dragonnade</sg>,;
+<sg>devastation ,<cref> 162 <i>attribution</i></cref></sg>,;
+<sg>eboulement</sg>,;
+<sg>assailant, aggressor, invader</sg>,;
+<sg>base of operations, point of attack</sg>,;
+<sg>echelon</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>attack, assault, assail</sg>,;
+<sg>invade</sg>,;
+<sg>set upon, fall upon</sg>,;
+<sg>charge, impugn, break a lance with, enter the lists</sg>,;
+<sg>assume the offensive, take the offensive</sg>,;
+<sg>be the aggressor, become the aggressor</sg>,;
+<sg>strike the first blow, draw first blood, throw the first stone at</sg>,;
+<sg>lift a hand against, draw the sword against</sg>,;
+<sg>take up the cudgels</sg>,;
+<sg>advance against, march against</sg>,;
+<sg>march upon, harry</sg>,;
+<sg>come on, show fight</sg>,;
+<sg>strike at, poke at, thrust at</sg>,;
+<sg>aim a blow at, deal a blow at</sg>,;
+<sg>give one a blow, fetch one a blow, fetch one a kick, give one a kick</sg>,;
+<sg>have a cut at, have a shot at, take a cut at, take a shot at, have a fling at, have a shy at</sg>,;
+<sg>be down upon, pounce upon</sg>,;
+<sg>fall foul of, pitch into, launch out against</sg>,;
+<sg>bait, slap on the face</sg>,;
+<sg>make a thrust at, make a pass at, make a set at, make a dead set at</sg>,;
+<sg>bear down upon</sg>,;
+<sg>close with, come to close quarters</sg>,;
+<sg>bring to bay</sg>,;
+<sg>ride full tilt against</sg>,;
+<sg>attack tooth and nail, go at hammer and tongs</sg>,;
+<sg>let fly at, dash at, run a tilt at, rush at, tilt at, run at, fly at, hawk at, have at, let out at</sg>,;
+<sg>make a dash, make a rush at</sg>,;
+<sg>strike home</sg>,;
+<sg>drive one hard</sg>,;
+<sg>press one hard</sg>,;
+<sg>be hard upon, run down, strike at the root of</sg>,;
+<sg>lay about one, run amuck</sg>,;
+<sg>aim at, draw a bead on</sg>,;
+<sg>fire upon, fire at, fire a shot at</sg>,;
+<sg>shoot at, pop at, level at, let off a gun at</sg>,;
+<sg>open fire, pepper, bombard, shell, pour a broadside into</sg>,;
+<sg>fire a volley, fire red-hot shot</sg>,;
+<sg>spring a mine</sg>,;
+<sg>throw a stone, throw stones at</sg>,;
+<sg>stone, lapidate, pelt</sg>,;
+<sg>hurl at, hurl against, hurl at the head of</sg>,;
+<sg>rock beset, besiege, beleaguer</sg>,;
+<sg>lay siege to, invest, open the trenches, plant a battery, sap, mine</sg>,;
+<sg>storm, board, scale the walls</sg>,;
+<sg>cut and thrust, bayonet, butt</sg>,;
+<sg>kick, strike ,<cref>276 <i>impulse</i></cref></sg>,;
+<sg>whip ,<cref>972 <i>punish</i></cref></sg>,;
+<sg>assail, impugn</sg>,;
+<sg>malign (detract) 934</sg>,;
+<sg>bomb, rocket, blast</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>attacking</sg>,;
+<sg>aggressive, offensive, obsidional</sg>,;
+<sg>up in arms</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>on the offensive</sg>,;
+<sg>Int</sg>,;
+<sg>up and at them!</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>the din of arms, the yell of savage rage, the shriek of agony, the groan of death</sg>,;
+<sg>their fatal hands no second stroke intend</sg>,;
+<sg>thirst for glory quells the love of life</sg>,;
+<br>
+</paragraph>

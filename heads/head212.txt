@@ -1,0 +1,63 @@
+<classNumber>#2#</classNumber>
+<sectionNumber>#10#</sectionNumber>
+<headword>#<b>#[001] #212# Thinness #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>narrowness, thinness, </i>narrowness</sg>,;
+<sg>closeness, exility</sg>,;
+<sg>exiguity ,<cref>193 <i>little</i></cref></sg>,;
+<sg>line</sg>,;
+<sg>hair's breadth, finger's breadth</sg>,;
+<sg>strip, streak, vein</sg>,;
+<sg>monolayer</sg>,;
+<sg>epitaxial deposition</sg>,;
+<sg>thinness</sg>,;
+<sg>tenuity</sg>,;
+<sg>emaciation, macilency, marcor</sg>,;
+<sg>shaving, slip ,<cref>205 <i>filament</i></cref></sg>,;
+<sg>thread paper, skeleton, shadow, anatomy, spindleshanks, lantern jaws, mere skin and bone</sg>,;
+<sg>middle constriction, stricture, neck, waist, isthmus, wasp, hourglass</sg>,;
+<sg>ridge, ghaut, ghat, pass</sg>,;
+<sg>ravine ,<cref> 198 <i>abode</i></cref></sg>,;
+<sg>narrowing, coarctation, angustation, tapering</sg>,;
+<sg>contraction ,<cref> 195 <i>presence</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be narrow</sg>,;
+<sg>narrow, taper, contract ,<cref> 195 <i>presence</i></cref></sg>,;
+<sg>render narrow</sg>,;
+<sg>waste away</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>narrow, close</sg>,;
+<sg>slender, thin, fine</sg>,;
+<sg>thread-like ,<cref>205 <i>filament</i></cref></sg>,;
+<sg>finespun, gossamer</sg>,;
+<sg>paper-thin</sg>,;
+<sg>taper, slim, slight-made</sg>,;
+<sg>scant, scanty</sg>,;
+<sg>spare, delicate, incapacious</sg>,;
+<sg>contracted ,<cref> 195 <i>presence</i></cref></sg>,;
+<sg>unexpanded &c (expand) ,<cref> 194 <i>displacement</i></cref></sg>,;
+<sg>slender as a thread</sg>,;
+<sg>emaciated, lean, meager, gaunt, macilent</sg>,;
+<sg>lank, lanky</sg>,;
+<sg>weedy, skinny</sg>,;
+<sg>scrawny slinky</sg>,;
+<sg>starved, starveling</sg>,;
+<sg>herring gutted</sg>,;
+<sg>worn to a shadow, lean as a rake</sg>,;
+<sg>thin as a lath, thin as a whipping post, thin as a wafer</sg>,;
+<sg>hatchet-faced</sg>,;
+<sg>lantern-jawed</sg>,;
+<sg>attenuated, shriveled, extenuated, tabid, marcid, barebone, rawboned</sg>,;
+<sg>monomolecular</sg>,;
+<br>
+</paragraph>

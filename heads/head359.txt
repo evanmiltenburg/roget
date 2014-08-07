@@ -1,0 +1,106 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#14#</sectionNumber>
+<headword>#<b>#[001] #359# River #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>river, </i>running water</sg>,;
+<sg>jet, spirt, spurt, squirt, spout, spray, splash, rush, gush, jet d'eau</sg>,;
+<sg>sluice</sg>,;
+<sg>water spout, water fall</sg>,;
+<sg>cascade, force, foss</sg>,;
+<sg>lin, linn</sg>,;
+<sg>ghyll, Niagara</sg>,;
+<sg>cataract, rapids, white water, catadupe, cataclysm</sg>,;
+<sg>debacle, inundation, deluge</sg>,;
+<sg>chute, washout</sg>,;
+<sg>rain, rainfall</sg>,;
+<sg>serein</sg>,;
+<sg>shower, scud</sg>,;
+<sg>downpour</sg>,;
+<sg>driving rain, drenching rain, cloudburst</sg>,;
+<sg>hyetology, hyetography</sg>,;
+<sg>predominance of Aquarius, reign of St</sg>,;
+<sg>Swithin</sg>,;
+<sg>mizzle, drizzle, stillicidum, plash</sg>,;
+<sg>dropping</sg>,;
+<sg>falling weather</sg>,;
+<sg>northeaster, hurricane, typhoon</sg>,;
+<sg>stream, course, flux, flow, profluence</sg>,;
+<sg>effluence ,<cref>295 <i>egress</i></cref></sg>,;
+<sg>defluxion</sg>,;
+<sg>flowing</sg>,;
+<sg>current, tide, race, coulee</sg>,;
+<sg>spring, artesian well, fount, fountain</sg>,;
+<sg>rill, rivulet, gill, gullet, rillet</sg>,;
+<sg>streamlet, brooklet</sg>,;
+<sg>branch</sg>,;
+<sg>runnel, sike, burn, beck, creek, brook, bayou, stream, river</sg>,;
+<sg>reach, tributary</sg>,;
+<sg>geyser, spout, waterspout</sg>,;
+<sg>body of water, torrent, rapids, flush, flood, swash</sg>,;
+<sg>spring tide, high tide, full tide</sg>,;
+<sg>bore, tidal bore, eagre, hygre</sg>,;
+<sg>fresh, freshet</sg>,;
+<sg>indraught, reflux, undercurrent, eddy, vortex, gurge, whirlpool, Maelstrom, regurgitation, overflow</sg>,;
+<sg>confluence, corrivation</sg>,;
+<sg>wave, billow, surge, swell, ripple</sg>,;
+<sg>anerythmon gelasma</sg>,;
+<sg>beach comber, riffle, rollers, ground swell, surf, breakers, white horses, whitecaps</sg>,;
+<sg>rough sea, heavy sea, high seas, cross sea, long sea, short sea, chopping sea</sg>,;
+<sg>hydrodynamics</sg>,;
+<sg>hydraulics, hydraulicostatics</sg>,;
+<sg>rain gauge, flowmeter</sg>,;
+<sg>pegology</sg>,;
+<sg>irrigation ,<cref>337 <i>water</i></cref></sg>,;
+<sg>pump</sg>,;
+<sg>watering pot, watering cart</sg>,;
+<sg>hydrant, syringe</sg>,;
+<sg>garden hose, lawn spray</sg>,;
+<sg>bhisti, mussuk</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>flow, run</sg>,;
+<sg>meander</sg>,;
+<sg>gush, pour, spout, roll, jet, well, issue</sg>,;
+<sg>drop, drip, dribble, plash, spirtle, trill, trickle, distill, percolate</sg>,;
+<sg>stream, overflow, inundate, deluge, flow over, splash, swash</sg>,;
+<sg>guggle, murmur, babble, bubble, purl, gurgle, sputter, spurt, spray, regurgitate</sg>,;
+<sg>ooze, flow out ,<cref>295 <i>egress</i></cref></sg>,;
+<sg>rain hard, rain in torrents, rain cats and dogs, rain pitchforks</sg>,;
+<sg>pour with rain, drizzle, spit, set in</sg>,;
+<sg>mizzle</sg>,;
+<sg>flow into, fall into, open into, drain into</sg>,;
+<sg>discharge itself, disembogue</sg>,;
+<sg>pour</sg>,;
+<sg>pour out ,<cref>297 <i>discharge</i></cref></sg>,;
+<sg>shower down, irrigate, drench ,<cref>337 <i>wet</i></cref></sg>,;
+<sg>spill, splash</sg>,;
+<sg>stanch</sg>,;
+<sg>dam, up ,<cref>261 <i>close</i></cref></sg>,;
+<sg>obstruct ,<cref> 706 <i>use</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>fluent</sg>,;
+<sg>diffluent, profluent, affluent</sg>,;
+<sg>tidal</sg>,;
+<sg>flowing</sg>,;
+<sg>meandering, meandry, meandrous</sg>,;
+<sg>fluvial, fluviatile</sg>,;
+<sg>streamy, showery, rainy, pluvial, stillicidous</sg>,;
+<sg>stillatitious</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>for men may come and men may go but I go on forever</sg>,;
+<sg>that old man river, he just keeps rolling along</sg>,;
+<br>
+</paragraph>

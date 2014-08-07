@@ -1,0 +1,59 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#36#</sectionNumber>
+<headword>#<b>#[001] #889# Taste #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>taste</i></sg>,;
+<sg>good taste, refined taste, cultivated taste</sg>,;
+<sg>delicacy, refinement, fine feeling, gust, gusto, tact, finesse</sg>,;
+<sg>nicety ,<cref>465 <i>discrimination</i></cref></sg>,;
+<sg>to prepon</sg>,;
+<sg>polish, elegance, grace</sg>,;
+<sg>judgment, discernment ,<cref> 465 <i>visibility</i></cref></sg>,;
+<sg>dilettantism, dilettanteism</sg>,;
+<sg>virtu</sg>,;
+<sg>fine art</sg>,;
+<sg>culture, cultivation</sg>,;
+<sg>aesthetics</sg>,;
+<sg>man of taste </sg>,;
+<sg>connoisseur, judge, critic, conoscente, virtuoso, amateur, dilettante, Aristarchus, Corinthian, arbiter elegantiarum, stagirite, euphemist</sg>,;
+<sg>caviare to the general</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>appreciate, judge, criticise, discriminate ,<cref> 465 <i>visibility</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>in good taste, cute, tasteful, tasty</sg>,;
+<sg>unaffected, pure, chaste, classical, attic</sg>,;
+<sg>cultivated, refined</sg>,;
+<sg>dainty</sg>,;
+<sg>esthetic, aesthetic, artistic</sg>,;
+<sg>elegant ,<cref> 578 <i>obliteration</i></cref></sg>,;
+<sg>euphemistic</sg>,;
+<sg>to one's taste, to one's mind</sg>,;
+<sg>after one's fancy</sg>,;
+<sg>comme il faut</sg>,;
+<sg>tire a quatre epingles</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>elegantly</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>nihil tetigit quod non ornavit</sg>,;
+<sg>chacun a son gout</sg>,;
+<sg>oculi pictura tenentur aures cantibus</sg>,;
+<br>
+</paragraph>

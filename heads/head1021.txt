@@ -1,0 +1,38 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#39#</sectionNumber>
+<headword>#<b>#[001] #1021# Satan #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>satan, </i>the Devil, Lucifer, Mephistopheles, Ahriman, Belial</sg>,;
+<sg>Samael, Zamiel, Beelzebub, the Prince of the Devils</sg>,;
+<sg>the tempter</sg>,;
+<sg>the evil one, the evil spirit</sg>,;
+<sg>the Adversary</sg>,;
+<sg>the archenemy</sg>,;
+<sg>the author of evil, the wicked one, the old Serpent</sg>,;
+<sg>the Prince of darkness, the Prince of this world, the Prince of the power of the air</sg>,;
+<sg>the foul fiend, the arch fiend</sg>,;
+<sg>the devil incarnate</sg>,;
+<sg>the common enemy, the angel of the bottomless pit</sg>,;
+<sg>Abaddon, Apollyon</sg>,;
+<sg>fallen angels, unclean spirits, devils</sg>,;
+<sg>the rulers, the powers of darkness</sg>,;
+<sg>inhabitants of Pandemonium</sg>,;
+<sg>demon ,<cref> 980 <i>accusation</i></cref></sg>,;
+<sg>diabolism</sg>,;
+<sg>devilism, devilship</sg>,;
+<sg>diabolology</sg>,;
+<sg>satanism, devil worship</sg>,;
+<sg>manicheism</sg>,;
+<sg>the cloven foot</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>satanic, diabolic, devilish</sg>,;
+<sg>infernal, hellborn</sg>,;
+<sg>Mythological and other fabulous Deities and Powers</sg>,;
+<br>
+</paragraph>

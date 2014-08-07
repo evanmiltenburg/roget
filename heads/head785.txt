@@ -1,0 +1,27 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#31#</sectionNumber>
+<headword>#<b>#[001] #785# Prisoner #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>prisoner, </i>prisoner of war, POW, captive, inmate, detainee, hostage, abductee, detenu, close prisoner</sg>,;
+<sg>jail bird, ticket of leave man, chevronne</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>stand committed</sg>,;
+<sg>be imprisoned ,<cref> 751 <i>warfare</i></cref></sg>,;
+<sg>take prisoner, take hostage (capture) 789</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>imprisoned ,<cref> 751 <i>warfare</i></cref></sg>,;
+<sg>in prison, in quod, in durance vile, in limbo, in custody, doing time, in charge, in chains</sg>,;
+<sg>under lock and key, under hatches</sg>,;
+<sg>on parole</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,50 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#4#</sectionNumber>
+<headword>#<b>#[001] #67# Sequence #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>sequence, </i>coming after</sg>,;
+<sg>going after ,<cref>281 <i>following</i></cref></sg>,;
+<sg>consecution, succession</sg>,;
+<sg>posteriority ,<cref> 117 <i>transientness</i></cref></sg>,;
+<sg>continuation</sg>,;
+<sg>order of succession</sg>,;
+<sg>successiveness</sg>,;
+<sg>paracme</sg>,;
+<sg>secondariness</sg>,;
+<sg>subordinancy ,<cref>34 <i>inferiority</i></cref></sg>,;
+<sg>afterbirth, afterburden</sg>,;
+<sg>placenta, secundines</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>succeed</sg>,;
+<sg>come after, come on, come next</sg>,;
+<sg>follow, ensue, step into the shoes of</sg>,;
+<sg>alternate</sg>,;
+<sg>place after, suffix, append</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>succeeding </sg>,;
+<sg>v</sg>,;
+<sg>sequent</sg>,;
+<sg>subsequent, consequent, sequacious, proximate, next</sg>,;
+<sg>consecutive ,<cref>69 <i>continuity</i></cref></sg>,;
+<sg>alternate, amoebean</sg>,;
+<sg>latter</sg>,;
+<sg>posterior ,<cref> 117 <i>transientness</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>after, subsequently</sg>,;
+<sg>behind ,<cref>235 <i>rear</i></cref></sg>,;
+<br>
+</paragraph>

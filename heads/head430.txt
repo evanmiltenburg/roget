@@ -1,0 +1,70 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#15#</sectionNumber>
+<headword>#<b>#[001] #430# Ululation #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>ululation, </i>cry</sg>,;
+<sg>crying</sg>,;
+<sg>bowwow, ululation, latration, belling</sg>,;
+<sg>reboation</sg>,;
+<sg>wood-note</sg>,;
+<sg>insect cry, fritiniancy, drone</sg>,;
+<sg>screech owl</sg>,;
+<sg>cuckoo</sg>,;
+<sg>wailing (lamentation) 839</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>cry, roar, bellow, blare, rebellow</sg>,;
+<sg>growl, snarl</sg>,;
+<sg>bark</sg>,;
+<sg>bow-wow, yelp</sg>,;
+<sg>bay, bay at the moon</sg>,;
+<sg>yap, yip, yipe, growl, yarr, yawl, snarl, howl</sg>,;
+<sg>grunt, gruntle</sg>,;
+<sg>snort</sg>,;
+<sg>squeak,</sg>,;
+<sg>neigh, whinny</sg>,;
+<sg>bray</sg>,;
+<sg>mew, mewl</sg>,;
+<sg>meow</sg>,;
+<sg>purr</sg>,;
+<sg>caterwaul, pule</sg>,;
+<sg>baa, bleat</sg>,;
+<sg>low, moo</sg>,;
+<sg>troat, croak, peep</sg>,;
+<sg>coo</sg>,;
+<sg>gobble</sg>,;
+<sg>quack</sg>,;
+<sg>honk, gaggle, guggle</sg>,;
+<sg>crow, caw, squawk, screech,</sg>,;
+<sg>cackle, cluck, clack</sg>,;
+<sg>chuck, chuckle</sg>,;
+<sg>hoot, hoo</sg>,;
+<sg>chirp, cheep, chirrup, twitter, cuckoo, warble, trill, tweet, pipe, whistle</sg>,;
+<sg>hum</sg>,;
+<sg>buzz</sg>,;
+<sg>hiss</sg>,;
+<sg>blatter</sg>,;
+<sg>ratatat</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>crying</sg>,;
+<sg>blatant, latrant, remugient, mugient</sg>,;
+<sg>deep-mouthed, full-mouthed</sg>,;
+<sg>rebellowing, reboant</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>in full cry</sg>,;
+<sg>(iii) MUSICAL SOUNDS</sg>,;
+<br>
+</paragraph>

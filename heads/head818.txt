@@ -1,0 +1,55 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#34#</sectionNumber>
+<headword>#<b>#[001] #818# Receiving #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>receiving</i></sg>,;
+<sg>acquisition ,<cref> 775 <i>compulsion</i></cref></sg>,;
+<sg>reception ,<cref>296 <i>introduction</i></cref></sg>,;
+<sg>suscipiency, acceptance, admission</sg>,;
+<sg>recipient, accipient</sg>,;
+<sg>assignee, devisee</sg>,;
+<sg>legatee, legatary</sg>,;
+<sg>grantee, feoffee, donee, releasee, relessee, lessee</sg>,;
+<sg>receiver</sg>,;
+<sg>sportulary, stipendiary</sg>,;
+<sg>beneficiary</sg>,;
+<sg>pensioner, pensionary</sg>,;
+<sg>almsman</sg>,;
+<sg>income ,<cref>810 <i>receipt</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>receive</sg>,;
+<sg>take ,<cref> 789 <i>consignee</i></cref></sg>,;
+<sg>acquire ,<cref> 775 <i>compulsion</i></cref></sg>,;
+<sg>admit</sg>,;
+<sg>take in, catch, touch</sg>,;
+<sg>pocket</sg>,;
+<sg>put into one's pocket, put into one's purse</sg>,;
+<sg>accept</sg>,;
+<sg>take off one's hands</sg>,;
+<sg>be received</sg>,;
+<sg>come in, come to hand</sg>,;
+<sg>pass into one's hand, fall into one's hand</sg>,;
+<sg>go into one's pocket</sg>,;
+<sg>fall to one's lot, fall to one's share</sg>,;
+<sg>come to one, fall to one</sg>,;
+<sg>accrue</sg>,;
+<sg>have given to one ,<cref> 784 <i>keeper</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>receiving</sg>,;
+<sg>recipient, suscipient</sg>,;
+<sg>received</sg>,;
+<sg>given ,<cref> 784 <i>keeper</i></cref></sg>,;
+<sg>secondhand</sg>,;
+<sg>not given, unbestowed &c (give), (bestow) ,<cref> 784 <i>keeper</i></cref></sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,51 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#17#</sectionNumber>
+<headword>#<b>#[001] #475# Curiosity #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>curiosity, </i>interest, thirst for knowledge, thirst for truth</sg>,;
+<sg>curiosity, curiousness</sg>,;
+<sg>inquiring mind</sg>,;
+<sg>inquisitiveness</sg>,;
+<sg>omnivorous intellect, devouring mind</sg>,;
+<sg>inquirer</sg>,;
+<sg>sightseer</sg>,;
+<sg>quidnunc, newsmonger, Paul Pry, eavesdropper</sg>,;
+<sg>gossip ,<cref>532 <i>news</i></cref></sg>,;
+<sg>rubberneck</sg>,;
+<sg>intellectual</sg>,;
+<sg>seeker, seeker after truth</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be curious</sg>,;
+<sg>take an interest in, stare, gape</sg>,;
+<sg>prick up the ears, see sights, lionize</sg>,;
+<sg>pry</sg>,;
+<sg>nose</sg>,;
+<sg>rubberneck</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>curious, inquisitive, burning with curiosity, overcurious</sg>,;
+<sg>inquiring ,<cref> 461 <i>blindness</i></cref></sg>,;
+<sg>prying, snoopy, nosy, peering</sg>,;
+<sg>prurient</sg>,;
+<sg>inquisitorial, inquisitory</sg>,;
+<sg>curious as a cat</sg>,;
+<sg>agape ,<cref>507 <i>expectant</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>what's the matter? what next? consumed with curiosity</sg>,;
+<sg>curiosity killed the cat, satisfaction brought it back</sg>,;
+<sg>curiouser and curiouser</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,55 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#17#</sectionNumber>
+<headword>#<b>#[001] #486# Discrimination #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>discrimination, </i>distinction, differentiation, diagnosis, diorism</sg>,;
+<sg>nice perception</sg>,;
+<sg>perception of difference, appreciation of difference</sg>,;
+<sg>estimation ,<cref> 466 <i>invisibility</i></cref></sg>,;
+<sg>nicety, refinement</sg>,;
+<sg>taste ,<cref> 850 <i>discount</i></cref></sg>,;
+<sg>critique, judgment</sg>,;
+<sg>tact</sg>,;
+<sg>discernment ,<cref>498 <i>intelligence</i></cref></sg>,;
+<sg>acuteness, penetration</sg>,;
+<sg>nuances</sg>,;
+<sg>dope, past performances</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>discriminate, distinguish, severalize</sg>,;
+<sg>recognize, match, identify</sg>,;
+<sg>separate</sg>,;
+<sg>draw the line, sift</sg>,;
+<sg>separate the chaff from the wheat, winnow the chaff from the wheat</sg>,;
+<sg>separate the men from the boys</sg>,;
+<sg>split hairs, draw a fine line, nitpick, quibble</sg>,;
+<sg>estimate ,<cref>466 <i>measure</i></cref></sg>,;
+<sg>know which is which, know what is what, know 'a hawk from a handsaw'</sg>,;
+<sg>take into account, take into consideration</sg>,;
+<sg>give due weight to, allow due weight to</sg>,;
+<sg>weigh carefully</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>discriminating</sg>,;
+<sg>dioristic, discriminative, distinctive</sg>,;
+<sg>nice</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>il y a fagots et fagots</sg>,;
+<sg>rem acu tetigisti</sg>,;
+<sg>la critique est aisee et l'art est difficile</sg>,;
+<sg>miles apart</sg>,;
+<sg>a distinction without a difference</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,35 @@
+<classNumber>#2#</classNumber>
+<sectionNumber>#12#</sectionNumber>
+<headword>#<b>#[001] #302# Divergence #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>divergence, </i>divergency</sg>,;
+<sg>divarication, ramification, forking</sg>,;
+<sg>radiation</sg>,;
+<sg>separation ,<cref>44 <i>disjunction</i></cref></sg>,;
+<sg>dispersion ,<cref> 73 <i>continuity</i></cref></sg>,;
+<sg>deviation ,<cref> 279 <i>traveler</i></cref></sg>,;
+<sg>aberration</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>diverge, divaricate, radiate</sg>,;
+<sg>ramify</sg>,;
+<sg>branch off, glance off, file off</sg>,;
+<sg>fly off, fly off at a tangent</sg>,;
+<sg>spread, scatter, disperse ,<cref> 73 <i>continuity</i></cref></sg>,;
+<sg>deviate ,<cref> 279 <i>traveler</i></cref></sg>,;
+<sg>part ,<cref>44 <i>separate</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>diverging</sg>,;
+<sg>divergent, radiant, centrifugal</sg>,;
+<sg>aberrant</sg>,;
+<br>
+</paragraph>

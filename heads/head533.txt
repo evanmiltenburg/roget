@@ -1,0 +1,59 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#21#</sectionNumber>
+<headword>#<b>#[001] #533# Disappointment #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>disappointment</i></sg>,;
+<sg>blighted hope, balk</sg>,;
+<sg>blow</sg>,;
+<sg>anticlimax</sg>,;
+<sg>slip 'twixt cup and lip</sg>,;
+<sg>nonfulfillment of one's hopes</sg>,;
+<sg>sad disappointment, bitter disappointment</sg>,;
+<sg>trick of fortune</sg>,;
+<sg>afterclap</sg>,;
+<sg>false expectation, vain expectation</sg>,;
+<sg>miscalculation ,<cref> 481 <i>inquiry</i></cref></sg>,;
+<sg>fool's paradise</sg>,;
+<sg>much cry and little wool</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be disappointed</sg>,;
+<sg>look blank, look blue</sg>,;
+<sg>look aghast, stand aghast ,<cref>870 <i>wonder</i></cref></sg>,;
+<sg>find to one's cost</sg>,;
+<sg>laugh on the wrong side of one's mouth</sg>,;
+<sg>find one a false prophet</sg>,;
+<sg>not realize one's hope, not realize one's expectation</sg>,;
+<sg>disappoint</sg>,;
+<sg>frustrate, discomfit, crush, defeat (failure) 732</sg>,;
+<sg>crush one's hope, dash one's hope, balk one's hope, disappoint one's hope, blight one's hope, falsify one's hope, defeat one's hope, discourage</sg>,;
+<sg>balk, jilt, bilk</sg>,;
+<sg>play one false, play a trick</sg>,;
+<sg>dash the cup from the lips, tantalize</sg>,;
+<sg>dumfound, dumbfound, dumbfounder, dumfounder (astonish) 870</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>disappointed</sg>,;
+<sg>disconcerted, aghast</sg>,;
+<sg>disgruntled</sg>,;
+<sg>out of one's reckoning</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>the mountain labored and brought forth a mouse</sg>,;
+<sg>parturiunt montes</sg>,;
+<sg>nascitur ridiculus mus</sg>,;
+<sg>diis aliter visum, the bubble burst</sg>,;
+<sg>one's countenance falling</sg>,;
+<br>
+</paragraph>

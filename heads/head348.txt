@@ -1,0 +1,52 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#14#</sectionNumber>
+<headword>#<b>#[001] #348# Water #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>water</i></sg>,;
+<sg>serum, serosity</sg>,;
+<sg>lymph</sg>,;
+<sg>rheum</sg>,;
+<sg>diluent</sg>,;
+<sg>agua, aqua, pani</sg>,;
+<sg>dilution, maceration, lotion</sg>,;
+<sg>washing</sg>,;
+<sg>immersion, humectation, infiltration, spargefaction, affusion, irrigation, douche, balneation, bath</sg>,;
+<sg>deluge ,<cref>348 <i>water in motion</i></cref></sg>,;
+<sg>high water, flood tide</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be watery</sg>,;
+<sg>reek</sg>,;
+<sg>add water, water, wet</sg>,;
+<sg>moisten ,<cref> 339 <i>brittleness</i></cref></sg>,;
+<sg>dilute, dip, immerse</sg>,;
+<sg>merge</sg>,;
+<sg>immerge, submerge</sg>,;
+<sg>plunge, souse, duck, drown</sg>,;
+<sg>soak, steep, macerate, pickle, wash, sprinkle, lave, bathe, affuse, splash, swash, douse, drench</sg>,;
+<sg>dabble, slop, slobber, irrigate, inundate, deluge</sg>,;
+<sg>syringe, inject, gargle</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>watery, aqueous, aquatic, hydrous, lymphatic</sg>,;
+<sg>balneal, diluent</sg>,;
+<sg>drenching</sg>,;
+<sg>diluted</sg>,;
+<sg>weak</sg>,;
+<sg>wet ,<cref>339 <i>moist</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>the waters are out</sg>,;
+<br>
+</paragraph>

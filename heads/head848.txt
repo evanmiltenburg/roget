@@ -1,0 +1,44 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#34#</sectionNumber>
+<headword>#<b>#[001] #848# Value #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>worth, rate, <i>value, </i>intrinsic value, quality</sg>,;
+<sg>par value</sg>,;
+<sg>valuation, appraisal, assessment, appraisement</sg>,;
+<sg>price current, market price, quotation</sg>,;
+<sg>fair price, going price</sg>,;
+<sg>what it will fetch</sg>,;
+<sg>what the market will bear</sg>,;
+<sg>money's worth</sg>,;
+<sg>penny's worth </sg>,;
+<sg>worth</sg>,;
+<sg>cost (price) 812</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>value, esteem</sg>,;
+<sg>appreciate</sg>,;
+<sg>appraise, evaluate, assess</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>valuable, estimable</sg>,;
+<sg>worthwhile</sg>,;
+<sg>worthy, full of worth</sg>,;
+<sg>precious (expensive) 814</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>worth the price</sg>,;
+<sg>worth a king's ransom</sg>,;
+<sg>accountants who know the price of everything and the value of nothing</sg>,;
+<br>
+</paragraph>

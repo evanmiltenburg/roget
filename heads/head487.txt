@@ -1,0 +1,35 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#17#</sectionNumber>
+<headword>#<b>#[001] #487# Indiscrimination #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>indiscrimination, </i>indistinguishability</sg>,;
+<sg>indistinctness, indistinction</sg>,;
+<sg>uncertainty ,<cref>475 <i>doubt</i></cref></sg>,;
+<sg>incomparability ,<cref> 464 <i>optical instruments</i></cref></sg>,;
+<sg>1</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>not discriminate ,<cref> 465 <i>visibility</i></cref></sg>,;
+<sg>overlook a distinction ,<cref>460 <i>neglect</i></cref>, confound, confuse</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>indiscriminate</sg>,;
+<sg>undistinguished, indistinguishable, undistinguishable</sg>,;
+<sg>unmeasured</sg>,;
+<sg>promiscuous, undiscriminating</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>valeat quantum valere potest</sg>,;
+<br>
+</paragraph>

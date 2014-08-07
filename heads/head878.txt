@@ -1,0 +1,256 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#36#</sectionNumber>
+<headword>#<b>#[001] #878# Amusement #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>amusement, </i>entertainment, recreation, fun, game, fun and games</sg>,;
+<sg>diversion, divertissement</sg>,;
+<sg>reaction, solace</sg>,;
+<sg>pastime, passetemps, sport</sg>,;
+<sg>labor of love</sg>,;
+<sg>pleasure ,<cref> 827 <i>barter</i></cref></sg>,;
+<sg>relaxation</sg>,;
+<sg>leisure ,<cref> 685 <i>salubrity</i></cref></sg>,;
+<sg>fun, frolic, merriment, jollity</sg>,;
+<sg>joviality, jovialness</sg>,;
+<sg>heyday</sg>,;
+<sg>laughter ,<cref> 838 <i>wealth</i></cref></sg>,;
+<sg>jocosity, jocoseness</sg>,;
+<sg>drollery, buffoonery, tomfoolery</sg>,;
+<sg>mummery, pleasantry</sg>,;
+<sg>wit ,<cref> 842 <i>payment</i></cref></sg>,;
+<sg>quip, quirk</sg>,;
+<sg>giggle, titter, snigger, snicker, crow, cheer, chuckle, shout</sg>,;
+<sg>horse laugh, belly laugh, hearty laugh</sg>,;
+<sg>guffaw</sg>,;
+<sg>burst of laughter, fit of laughter, shout of laughter, roar of laughter, peal of laughter</sg>,;
+<sg>cachinnation</sg>,;
+<sg>Kentish fire</sg>,;
+<sg>tiger</sg>,;
+<sg>play</sg>,;
+<sg>game, game at romps</sg>,;
+<sg>gambol, romp, prank, antic, rig, lark, spree, skylarking, vagary, monkey trick, gambade, fredaine, escapade, echappee, bout, espieglerie</sg>,;
+<sg>practical joke ,<cref>856 <i>ridicule</i></cref></sg>,;
+<sg>dance</sg>,;
+<sg>hop, reel, rigadoon, saraband, hornpipe, bolero, ballroom dance</sg>,;
+<sg>minuet, waltz, polka, fox trot, tango, samba, rhumba, twist, stroll, hustle, cha-cha</sg>,;
+<sg>fandango, cancan</sg>,;
+<sg>bayadere</sg>,;
+<sg>breakdown, cake-walk, cornwallis, break dancing</sg>,;
+<sg>nautch-girl</sg>,;
+<sg>shindig</sg>,;
+<sg>skirtdance, stag dance, Virginia reel, square dance</sg>,;
+<sg>galop, galopade</sg>,;
+<sg>jig, Irish jig, fling, strathspey</sg>,;
+<sg>allemande</sg>,;
+<sg>gavot, gavotte, tarantella</sg>,;
+<sg>mazurka, morisco, morris dance</sg>,;
+<sg>quadrille</sg>,;
+<sg>country dance, folk dance</sg>,;
+<sg>cotillon, Sir Roger de Coverley</sg>,;
+<sg>ballet ,<cref>599 <i>drama</i></cref></sg>,;
+<sg>ball</sg>,;
+<sg>bal, bal masque, bal costume</sg>,;
+<sg>masquerade</sg>,;
+<sg>Terpsichore</sg>,;
+<sg>festivity, merrymaking</sg>,;
+<sg>party ,<cref>892 <i>social gathering</i></cref></sg>,;
+<sg>blowout, hullabaloo, hoedown, bat, bum, bust, clambake, donation party, fish fry, jamboree, kantikoy, nautch, randy, squantum, tear, Turnerfest, yule log</sg>,;
+<sg>fete, festival, gala, ridotto</sg>,;
+<sg>revels, revelry, reveling</sg>,;
+<sg>carnival, brawl, saturnalia, high jinks</sg>,;
+<sg>feast, banquet ,<cref>298 <i>food</i></cref></sg>,;
+<sg>regale, symposium, wassail</sg>,;
+<sg>carouse, carousal</sg>,;
+<sg>jollification, junket, wake, Irish wake, picnic, fete champetre, regatta, field day</sg>,;
+<sg>treat</sg>,;
+<sg>round of pleasures, dissipation, a short life and a merry one, racketing, holiday making</sg>,;
+<sg>rejoicing ,<cref> 838 <i>wealth</i></cref></sg>,;
+<sg>jubilee ,<cref>883 <i>celebration</i></cref></sg>,;
+<sg>bonfire, fireworks, feu-de-joie, firecracker</sg>,;
+<sg>holiday</sg>,;
+<sg>gala day, red letter day, play day</sg>,;
+<sg>high days and holidays</sg>,;
+<sg>high holiday, Bank holiday</sg>,;
+<sg>May day, Derby day</sg>,;
+<sg>Saint Monday, Easter Monday, Whit Monday</sg>,;
+<sg>Bairam</sg>,;
+<sg>wayz-goos, bean feast</sg>,;
+<sg>Arbor Day, Declaration Day, Independence Day, Labor Day, Memorial Day, Thanksgiving Day</sg>,;
+<sg>Mardi gras, mi-careme, feria, fiesta</sg>,;
+<sg>place of amusement, theater</sg>,;
+<sg>hall, concert room, ballroom, assemblyroom</sg>,;
+<sg>music hall</sg>,;
+<sg>park, plaisance</sg>,;
+<sg>national park, national forest, state park, county park, city park, vest-pocket park, public park (public) 737</sg>,;
+<sg>1</sg>,;
+<sg>arbor</sg>,;
+<sg>garden ,<cref>371 <i>horticulture</i></cref></sg>,;
+<sg>pleasure ground, playground, cricketground, croquet ground, archery ground, hunting ground</sg>,;
+<sg>tennis court, racket court</sg>,;
+<sg>bowling alley, green alley</sg>,;
+<sg>croquet lawn, rink, glaciarum, skating rink</sg>,;
+<sg>roundabout, merry-go-round</sg>,;
+<sg>swing</sg>,;
+<sg>montagne Russe</sg>,;
+<sg>game of chance, game of skill</sg>,;
+<sg>athletic sports, gymnastics</sg>,;
+<sg>archery, rifle shooting</sg>,;
+<sg>tournament, pugilism ,<cref>720 <i>contention</i></cref></sg>,;
+<sg>sports ,<cref> 622 <i>compendium</i></cref></sg>,;
+<sg>horse racing, the turf</sg>,;
+<sg>aquatics ,<cref> 267 <i>roughness</i></cref></sg>,;
+<sg>skating, sliding</sg>,;
+<sg>cricket, tennis, lawn tennis</sg>,;
+<sg>hockey, football, baseball, soccer, ice hockey, basketball</sg>,;
+<sg>rackets, fives, trap bat and ball, battledore and shuttlecock, la grace</sg>,;
+<sg>pall- mall, tipcat, croquet, golf, curling, pallone, polo, water polo</sg>,;
+<sg>tent pegging</sg>,;
+<sg>tilting at the ring, quintain</sg>,;
+<sg>greasy pole</sg>,;
+<sg>quoits, horseshoes, discus</sg>,;
+<sg>rounders, lacrosse</sg>,;
+<sg>tobogganing, water polo</sg>,;
+<sg>knurr and spell</sg>,;
+<sg>leapfrog, hop skip and jump</sg>,;
+<sg>mother may I</sg>,;
+<sg>French and English, tug of war</sg>,;
+<sg>blindman's bluff, hunt the slopper, hide and seek, kiss in the ring</sg>,;
+<sg>snapdragon</sg>,;
+<sg>cross questions and crooked answers</sg>,;
+<sg>crisscross, hopscotch</sg>,;
+<sg>jacks, jackstones, marbles</sg>,;
+<sg>mumblety-peg, mumble-the-peg, pushball, shinney, shinny, tag </sg>,;
+<sg>billiards, pool, pingpong, pyramids, bagatelle</sg>,;
+<sg>bowls, skittles, ninepins, kain, American bowls</sg>,;
+<sg>tenpins, tivoli</sg>,;
+<sg>cards, card games</sg>,;
+<sg>whist, rubber</sg>,;
+<sg>round game</sg>,;
+<sg>loo, cribbage, besique, euchre, drole, ecarte, picquet, allfours, quadrille, omber, reverse, Pope Joan, commit</sg>,;
+<sg>boston, boaston</sg>,;
+<sg>blackjack, twenty- one, vingtun</sg>,;
+<sg>quinze, thirty-one, put, speculation, connections, brag, cassino, lottery, commerce, snip-snap-snoren, lift smoke, blind hookey, Polish bank, Earl of Coventry, Napoleon, patience, pairs</sg>,;
+<sg>banker</sg>,;
+<sg>blind poker, draw poker, straight poker, stud poker</sg>,;
+<sg>bluff, bridge, bridge whist</sg>,;
+<sg>lotto, monte, three-card monte, nap, penny-ante, poker, reversis, squeezers, old maid, fright, beggar-my- neighbor</sg>,;
+<sg>baccarat</sg>,;
+<sg>ace, king, queen, knave, jack, ten, nine, eight, seven, six, five, four, trey, deuce</sg>,;
+<sg>joker</sg>,;
+<sg>trump, wild card</sg>,;
+<sg>spades, hearts, clubs, diamonds</sg>,;
+<sg>major suit, minor suit</sg>,;
+<sg>bower</sg>,;
+<sg>right bower, left bower</sg>,;
+<sg>dummy</sg>,;
+<sg>jackpot</sg>,;
+<sg>deck</sg>,;
+<sg>pair, two pair, three of a kind, straight, flush, full-house, four of a kind, royal flush</sg>,;
+<sg>misere   chess, draughts, checkers, checquers, backgammon, dominos, merelles, nine men's morris, go bang, solitaire</sg>,;
+<sg>game of fox and goose</sg>,;
+<sg>monopoly</sg>,;
+<sg>loto </sg>,;
+<sg>scrabble, scribbage, boggle, crossword puzzle, hangman</sg>,;
+<sg>morra</sg>,;
+<sg>gambling ,<cref>621 <i>chance</i></cref></sg>,;
+<sg>toy, plaything, bauble</sg>,;
+<sg>doll ,<cref>554 <i>puppet </i></cref></sg>,;
+<sg>teetotum</sg>,;
+<sg>knickknack ,<cref>643 <i>trifle</i></cref></sg>,;
+<sg>magic lantern ,<cref>448 <i>show</i></cref></sg>,;
+<sg>peep show, puppet show, raree show, gallanty show</sg>,;
+<sg>toy shop</sg>,;
+<sg>quips and cranks and wanton wiles, nods and becks and wreathed smiles</sg>,;
+<sg>entertainer, showman, showgirl</sg>,;
+<sg>dancer, tap dancer, song-and-dance man</sg>,;
+<sg>vaudeville act</sg>,;
+<sg>singer</sg>,;
+<sg>musician ,<cref> 416 <i>fragrance</i></cref></sg>,;
+<sg>sportsman, gamester, reveler</sg>,;
+<sg>master of ceremonies, master of revels</sg>,;
+<sg>pompom girl</sg>,;
+<sg>arbiter elegantiarum</sg>,;
+<sg>arbiter bibendi, archer, fan, toxophilite, turfman</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>amuse, entertain, divert, enliven</sg>,;
+<sg>tickle the fancy</sg>,;
+<sg>titillate, raise a smile, put in good humor</sg>,;
+<sg>cause laughter, create laughter, occasion laughter, raise laughter, excite laughter, produce laughter, convulse with laughter</sg>,;
+<sg>set the table in a roar, be the death of one</sg>,;
+<sg>recreate, solace, cheer, rejoice</sg>,;
+<sg>please ,<cref> 829 <i>sale</i></cref></sg>,;
+<sg>interest</sg>,;
+<sg>treat, regale</sg>,;
+<sg>amuse oneself, game</sg>,;
+<sg>play a game, play pranks, play tricks</sg>,;
+<sg>sport, disport, toy, wanton, revel, junket, feast, carouse, banquet, make merry, drown care</sg>,;
+<sg>drive dull care away</sg>,;
+<sg>frolic, gambol, frisk, romp</sg>,;
+<sg>caper</sg>,;
+<sg>dance ,<cref>309 <i>leap</i></cref></sg>,;
+<sg>keep up the ball</sg>,;
+<sg>run a rig, sow one's wild oats, have one's fling, take one's pleasure</sg>,;
+<sg>paint the town red</sg>,;
+<sg>see life</sg>,;
+<sg>desipere in loco, play the fool</sg>,;
+<sg>make holiday, keep holiday</sg>,;
+<sg>go a Maying</sg>,;
+<sg>while away the time, beguile the time</sg>,;
+<sg>kill time, dally</sg>,;
+<sg>smile, simper, smirk</sg>,;
+<sg>grin, grin like a Cheshire cat</sg>,;
+<sg>mock, laugh in one's sleeve</sg>,;
+<sg>laugh, laugh outright</sg>,;
+<sg>giggle, titter, snigger, crow, snicker, chuckle, cackle</sg>,;
+<sg>burst out, burst into a fit of laughter</sg>,;
+<sg>shout, split, roar</sg>,;
+<sg>shake one's sides, split one's sides, hold both one's sides</sg>,;
+<sg>roar with laughter, die with laughter</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>amusing, entertaining, diverting</sg>,;
+<sg>recreational, recreative, lusory</sg>,;
+<sg>pleasant ,<cref>829 <i>pleasing</i></cref></sg>,;
+<sg>laughable ,<cref>853 <i>ludicrous</i></cref></sg>,;
+<sg>witty ,<cref> 842 <i>payment</i></cref></sg>,;
+<sg>fun, festive, festal</sg>,;
+<sg>jovial, jolly, jocund, roguish, rompish</sg>,;
+<sg>playful, playful as a kitten</sg>,;
+<sg>sportive, ludibrious</sg>,;
+<sg>funny</sg>,;
+<sg>very funny, hilarious, uproarious, side-splitting</sg>,;
+<sg>amused</sg>,;
+<sg>pleased with a rattle, tickled with a straw</sg>,;
+<sg>laughing</sg>,;
+<sg>risible</sg>,;
+<sg>ready to burst, ready to split, ready to die with laughter</sg>,;
+<sg>convulsed with laughter, rolling in the aisles</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>on the light fantastic toe, at play, in sport</sg>,;
+<sg>Int</sg>,;
+<sg>vive la bagatelle!, vogue la galere! ,</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>deus nobis haec otia fecit</sg>,;
+<sg>dum vivimus vivamus</sg>,;
+<sg>dulce est desipere in loco</sg>,;
+<sg>(every room) hath blazed with lights and brayed with minstrelsy</sg>,;
+<sg>misce stullitiam consiliis brevem</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,59 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#5#</sectionNumber>
+<headword>#<b>#[001] #90# List #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>list, </i>catalog, catalogue, inventory</sg>,;
+<sg>register ,<cref>551 <i>record</i></cref></sg>,;
+<sg>account</sg>,;
+<sg>bill, bill of costs</sg>,;
+<sg>terrier</sg>,;
+<sg>tally, listing, itemization</sg>,;
+<sg>atlas</sg>,;
+<sg>book, ledger</sg>,;
+<sg>catalogue raisonne</sg>,;
+<sg>tableau</sg>,;
+<sg>invoice, bill of lading</sg>,;
+<sg>prospectus</sg>,;
+<sg>bill of fare, menu, carte</sg>,;
+<sg>score, census, statistics, returns</sg>,;
+<sg>contents, table of contents, outline</sg>,;
+<sg>synopsis</sg>,;
+<sg>checklist</sg>,;
+<sg>table, chart, database</sg>,;
+<sg>index, inverted file, word list, concordance</sg>,;
+<sg>dictionary, lexicon</sg>,;
+<sg>vocabulary, glossary</sg>,;
+<sg>thesaurus</sg>,;
+<sg>file, card index, card file, rolodex, address book</sg>,;
+<sg>Red book, Blue book, Domesday book</sg>,;
+<sg>cadastre</sg>,;
+<sg>directory, gazetter</sg>,;
+<sg>almanac</sg>,;
+<sg>army list, clergy list, civil service list, navy list</sg>,;
+<sg>Almanach de Gotha, cadaster</sg>,;
+<sg>Lloyd's register, nautical almanac</sg>,;
+<sg>who's who</sg>,;
+<sg>Guiness's Book of World Records</sg>,;
+<sg>roll</sg>,;
+<sg>check roll, checker roll, bead roll</sg>,;
+<sg>muster roll, muster book</sg>,;
+<sg>roster, panel, jury list</sg>,;
+<sg>cartulary, diptych</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>list, itemize</sg>,;
+<sg>sort, collate</sg>,;
+<sg>enumerate, tabulate, catalog, tally</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>cadastral</sg>,;
+<br>
+</paragraph>

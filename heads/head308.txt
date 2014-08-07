@@ -1,0 +1,111 @@
+<classNumber>#2#</classNumber>
+<sectionNumber>#12#</sectionNumber>
+<headword>#<b>#[001] #308# Ejection #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>ejection, </i>emission, effusion, rejection, expulsion, exportation, eviction, extrusion, trajection</sg>,;
+<sg>discharge</sg>,;
+<sg>emesis, vomiting, vomition</sg>,;
+<sg>egestion, evacuation</sg>,;
+<sg>ructation, eructation</sg>,;
+<sg>bloodletting, venesection, phlebotomy, paracentesis</sg>,;
+<sg>expuition, exspuition</sg>,;
+<sg>tapping, drainage</sg>,;
+<sg>clearance, clearage</sg>,;
+<sg>deportation</sg>,;
+<sg>banishment ,<cref>972 <i>punishment </i></cref></sg>,;
+<sg>rouge's march</sg>,;
+<sg>relegation, extradition</sg>,;
+<sg>dislodgment</sg>,;
+<sg>bouncer, chucker-out</sg>,;
+<sg>vomit, vomitus, puke, barf</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>give exit, give vent to</sg>,;
+<sg>let out, give out, pour out, squeeze out, send out</sg>,;
+<sg>dispatch, despatch</sg>,;
+<sg>exhale, excern, excrete</sg>,;
+<sg>embogue</sg>,;
+<sg>secrete, secern</sg>,;
+<sg>extravasate, shed, void, evacuation</sg>,;
+<sg>emit</sg>,;
+<sg>open the sluices, open the floodgates</sg>,;
+<sg>turn on the tap</sg>,;
+<sg>extrude, detrude</sg>,;
+<sg>effuse, spend, expend</sg>,;
+<sg>pour forth</sg>,;
+<sg>squirt, spirt, spurt, spill, slop</sg>,;
+<sg>perspire ,<cref>295 <i>exude</i></cref></sg>,;
+<sg>breathe, blow ,<cref>349 <i>wind</i></cref></sg>,;
+<sg>tap, draw off</sg>,;
+<sg>bale out, lade out</sg>,;
+<sg>let blood, broach</sg>,;
+<sg>eject, reject</sg>,;
+<sg>expel, discard</sg>,;
+<sg>cut, send to coventry, boycott</sg>,;
+<sg>chasser</sg>,;
+<sg>banish ,<cref>972 <i>punish</i></cref></sg>,;
+<sg>bounce</sg>,;
+<sg>fire, fire out</sg>,;
+<sg>throw ,<cref> 284 <i>ship</i></cref>, throw out, throw up, throw off, throw away, throw aside</sg>,;
+<sg>push ,<cref> 276 <i>quiescence</i></cref></sg>,;
+<sg>throw out, throw off, throw away, throw aside</sg>,;
+<sg>shovel out, shovel away, sweep out, sweep away</sg>,;
+<sg>brush off, brush away, whisk off, whisk away, turn off, turn away, send off, send away</sg>,;
+<sg>discharge</sg>,;
+<sg>send adrift, turn adrift, cast adrift</sg>,;
+<sg>turn out, bundle out</sg>,;
+<sg>throw overboard</sg>,;
+<sg>give the sack to</sg>,;
+<sg>send packing, send about one's business, send to the right about</sg>,;
+<sg>strike off the roll ,<cref>756 <i>abrogate</i></cref></sg>,;
+<sg>turn out neck and heels, turn out head and shoulders, turn out neck and crop</sg>,;
+<sg>pack off</sg>,;
+<sg>send away with a flea in the ear</sg>,;
+<sg>send to Jericho</sg>,;
+<sg>bow out, show the door to, turn out of doors, turn out of house and home</sg>,;
+<sg>evict, oust</sg>,;
+<sg>unhouse, unkennel</sg>,;
+<sg>dislodge</sg>,;
+<sg>unpeople, dispeople</sg>,;
+<sg>depopulate</sg>,;
+<sg>relegate, deport</sg>,;
+<sg>empty</sg>,;
+<sg>drain to the dregs</sg>,;
+<sg>sweep off</sg>,;
+<sg>clear off, clear out, clear away</sg>,;
+<sg>suck, draw off</sg>,;
+<sg>clean out, make a clean sweep of, clear decks, purge</sg>,;
+<sg>embowel, disbowel, disembowel</sg>,;
+<sg>eviscerate, gut</sg>,;
+<sg>unearth, root out, root up</sg>,;
+<sg>averuncate</sg>,;
+<sg>weed out, get out</sg>,;
+<sg>eliminate, get rid of, do away with, shake off</sg>,;
+<sg>exenterate</sg>,;
+<sg>vomit, throw up, regurgitate, spew, puke, keck, retch, heave, upchuck, chuck up, barf</sg>,;
+<sg>belch out</sg>,;
+<sg>cast up, bring up, be sick, get sick, worship the porcelain god</sg>,;
+<sg>disgorge</sg>,;
+<sg>expectorate, clear the throat, hawk, spit, sputter, splutter, slobber, drivel, slaver, slabber</sg>,;
+<sg>eructate</sg>,;
+<sg>drool</sg>,;
+<sg>unpack, unlade, unload, unship, offload</sg>,;
+<sg>break bulk</sg>,;
+<sg>dump</sg>,;
+<sg>be let out</sg>,;
+<sg>spew forth, erupt, ooze ,<cref>295 <i>emerge</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>emitting, emitted,</sg>,;
+<sg>Int</sg>,;
+<sg>begone!, get you gone!, get away, go away, get along, go along, get along with you, go along with you!, go your way!, away with!, off with you!, get the hell out of here!, go about your business!, be off!, avaunt!, aroynt!, allez-vous-en!, jao!, va-t'en! ,</sg>,;
+<br>
+</paragraph>

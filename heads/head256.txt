@@ -1,0 +1,39 @@
+<classNumber>#2#</classNumber>
+<sectionNumber>#11#</sectionNumber>
+<headword>#<b>#[001] #256# Straightness #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>straightness, </i>rectilinearity, directness</sg>,;
+<sg>inflexibility ,<cref>323 <i>stiffness</i></cref></sg>,;
+<sg>straight line, right line, direct line</sg>,;
+<sg>short cut</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be straight</sg>,;
+<sg>have no turning</sg>,;
+<sg>not incline to either side, not bend to either side, not turn to either side, not deviate to either side</sg>,;
+<sg>go straight</sg>,;
+<sg>steer for ,<cref>278 <i>directions</i></cref></sg>,;
+<sg>render straight, straighten, rectify</sg>,;
+<sg>set straight, put straight</sg>,;
+<sg>unbend, unfold, uncurl &c 248, unravel ,<cref> 219 <i>summit</i></cref>, unwrap</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>straight</sg>,;
+<sg>rectilinear, rectilineal</sg>,;
+<sg>direct, even, right, true, in a line</sg>,;
+<sg>unbent, virgate</sg>,;
+<sg>undeviating, unturned, undistorted, unswerving</sg>,;
+<sg>straight as an arrow ,<cref>278 <i>direct</i></cref></sg>,;
+<sg>inflexible ,<cref> 323 <i>rotation</i></cref></sg>,;
+<sg>laser-straight</sg>,;
+<sg>ramrod-straight</sg>,;
+<br>
+</paragraph>

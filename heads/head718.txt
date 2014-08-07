@@ -1,0 +1,45 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#28#</sectionNumber>
+<headword>#<b>#[001] #718# Refreshment #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>refreshment, </i>bracing</sg>,;
+<sg>recovery of strength, recuperation ,<cref> 159 <i>destiny</i></cref></sg>,;
+<sg>restoration, revival ,<cref> 660 <i>instrumentality</i></cref></sg>,;
+<sg>repair, refection, refocillation, refreshment, regalement, bait</sg>,;
+<sg>relief ,<cref> 834 <i>securities</i></cref></sg>,;
+<sg>break, spell</sg>,;
+<sg>refreshment stand</sg>,;
+<sg>refreshments</sg>,;
+<sg>ice cream, cold soda, soda pop, hot dogs (food)</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>brace ,<cref>159 <i>strengthen</i></cref></sg>,;
+<sg>reinvigorate</sg>,;
+<sg>air, freshen up, refresh, recruit</sg>,;
+<sg>repair ,<cref>660 <i>restore</i></cref></sg>,;
+<sg>fan, refocillate</sg>,;
+<sg>refresh the inner man</sg>,;
+<sg>breathe, respire</sg>,;
+<sg>drink in the ozone</sg>,;
+<sg>take a break, take a breather, take five, draw breath, take a deep breath, take breath, gather breath, take a long breath, regain breath, recover breath</sg>,;
+<sg>get better, raise one's head</sg>,;
+<sg>recover one's strength, regain one's strength, renew one's strength ,<cref> 159 <i>destiny</i></cref></sg>,;
+<sg>perk up, get one's second wind</sg>,;
+<sg>come to oneself ,<cref>660 <i>revive</i></cref></sg>,;
+<sg>feel refreshed, feel like a giant refreshed</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>refreshing</sg>,;
+<sg>recuperative ,<cref> 660 <i>instrumentality</i></cref></sg>,;
+<sg>refreshed</sg>,;
+<sg>untired, unwearied</sg>,;
+<br>
+</paragraph>

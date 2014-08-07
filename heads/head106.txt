@@ -1,0 +1,27 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#5#</sectionNumber>
+<headword>#<b>#[001] #106# Zero #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>zero, </i>nothing</sg>,;
+<sg>null, nul, naught, nought, void</sg>,;
+<sg>cipher, goose egg</sg>,;
+<sg>none, nobody, no one</sg>,;
+<sg>nichts, nixie, nix</sg>,;
+<sg>zilch, zip, zippo</sg>,;
+<sg>not a soul</sg>,;
+<sg>ame qui vive</sg>,;
+<sg>absence ,<cref> 187 <i>counteraction</i></cref></sg>,;
+<sg>unsubstantiality ,<cref> 4 <i>unsubstantiality</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>not one, not a one, not any, nary a one</sg>,;
+<sg>not a, never a</sg>,;
+<sg>not a whit of, not an iota of, not a drop of, not a speck of, not a jot</sg>,;
+<sg>not a trace of, not a hint of, not a smidgen of, not a suspicion of, not a shadow of, neither hide nor hair of</sg>,;
+<br>
+</paragraph>

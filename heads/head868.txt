@@ -1,0 +1,165 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#36#</sectionNumber>
+<headword>#<b>#[001] #868# Painfulness #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>painfulness</i></sg>,;
+<sg>trouble, care ,<cref>828 <i>pain</i></cref></sg>,;
+<sg>trial</sg>,;
+<sg>affliction, infliction</sg>,;
+<sg>blow, stroke, burden, load, curse</sg>,;
+<sg>bitter pill, bitter draught</sg>,;
+<sg>waters of bitterness</sg>,;
+<sg>annoyance, grievance, nuisance, vexation, mortification, sickener</sg>,;
+<sg>bore, bother, pother, hot water, sea of troubles, hornet's nest, plague, pest</sg>,;
+<sg>cancer, ulcer, sting, thorn</sg>,;
+<sg>canker ,<cref>663 <i>bane</i></cref></sg>,;
+<sg>scorpion ,<cref>913 <i>evil doer</i></cref></sg>,;
+<sg>dagger ,<cref>727 <i>arms</i></cref></sg>,;
+<sg>scourge ,<cref>975 <i>instrument of punishment</i></cref></sg>,;
+<sg>carking care, canker worm of care</sg>,;
+<sg>mishap, misfortune ,<cref>735 <i>adversity</i></cref></sg>,;
+<sg>desagrement, esclandre, rub</sg>,;
+<sg>source of irritation, source of annoyance</sg>,;
+<sg>wound, open sore</sg>,;
+<sg>sore subject, skeleton in the closet</sg>,;
+<sg>thorn in the flesh, thorn in one's side</sg>,;
+<sg>where the shoe pinches, gall and wormwood</sg>,;
+<sg>sorry sight, heavy news, provocation</sg>,;
+<sg>affront ,<cref> 929 <i>friend</i></cref></sg>,;
+<sg>head and front of one's offending</sg>,;
+<sg>infestation, molestation</sg>,;
+<sg>malignity ,<cref>907 <i>malevolence</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>cause pain, occasion pain, give pain, bring pain, induce pain, produce pain, create pain, inflict pain ,<cref> 828 <i>purchase</i></cref></sg>,;
+<sg>pain, hurt, wound</sg>,;
+<sg>pinch, prick, gripe ,<cref>378 <i>physical pain</i></cref></sg>,;
+<sg>pierce, lancinate, cut</sg>,;
+<sg>hurt the feelings, wound the feelings, grate upon the feelings, grate upon the nerves, jar upon the feelings</sg>,;
+<sg>wring the heart, pierce the heart, lacerate the heart, break the heart, rend the heart</sg>,;
+<sg>make the heart bleed</sg>,;
+<sg>tear the heart strings, rend the heart strings</sg>,;
+<sg>draw tears from the eyes</sg>,;
+<sg>sadden</sg>,;
+<sg>make unhappy ,<cref> 828 <i>purchase</i></cref></sg>,;
+<sg>plunge into sorrow, grieve, fash, afflict, distress</sg>,;
+<sg>cut up, cut to the heart</sg>,;
+<sg>displease, annoy, incommode, discompose, trouble, disquiet</sg>,;
+<sg>faze, feaze, feeze</sg>,;
+<sg>disturb, cross, perplex, molest, tease, tire, irk, vex, mortify, wherret, worry, plague, bother, pester, bore, pother, harass, harry, badger, heckle, bait, beset, infest, persecute, importune</sg>,;
+<sg>wring, harrow, torment, torture</sg>,;
+<sg>bullyrag</sg>,;
+<sg>put to the rack, put to the question</sg>,;
+<sg>break on the wheel, rack, scarify</sg>,;
+<sg>cruciate, crucify</sg>,;
+<sg>convulse, agonize</sg>,;
+<sg>barb the dart</sg>,;
+<sg>plant a dagger in the breast, plant a thorn in one's side</sg>,;
+<sg>irritate, provoke, sting, nettle, try the patience, pique, fret, rile, tweak the nose, chafe, gall</sg>,;
+<sg>sting to the quick, wound to the quick, cut to the quick</sg>,;
+<sg>aggrieve, affront, enchafe, enrage, ruffle, sour the temper</sg>,;
+<sg>give offense ,<cref>900 <i>resentment</i></cref></sg>,;
+<sg>maltreat, bite, snap at, assail</sg>,;
+<sg>smite ,<cref>972 <i>punish</i></cref></sg>,;
+<sg>sicken, disgust, revolt, nauseate, disenchant, repel, offend, shock, stink in the nostrils</sg>,;
+<sg>go against the stomach, turn the stomach</sg>,;
+<sg>make one sick, set the teeth on edge, go against the grain, grate on the ear</sg>,;
+<sg>stick in one's throat, stick in one's gizzard</sg>,;
+<sg>rankle, gnaw, corrode, horrify, appal, appall, freeze the blood</sg>,;
+<sg>make the flesh creep, make the hair stand on end</sg>,;
+<sg>make the blood curdle, make the blood run cold</sg>,;
+<sg>make one shudder</sg>,;
+<sg>haunt the memory</sg>,;
+<sg>weigh on the heart, prey on the heart, weigh on the mind, prey on the mind, weigh on the spirits, prey on the spirits</sg>,;
+<sg>bring one's gray hairs with sorrow to the grave</sg>,;
+<sg>add a nail to one's coffin</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>causing pain, hurting</sg>,;
+<sg>hurtful ,<cref>649 <i>bad</i></cref></sg>,;
+<sg>painful</sg>,;
+<sg>dolorific, dolorous</sg>,;
+<sg>unpleasant</sg>,;
+<sg>unpleasing, displeasing</sg>,;
+<sg>disagreeable, unpalatable, bitter, distasteful</sg>,;
+<sg>uninviting</sg>,;
+<sg>unwelcome</sg>,;
+<sg>undesirable, undesired</sg>,;
+<sg>obnoxious</sg>,;
+<sg>unacceptable, unpopular, thankless</sg>,;
+<sg>unsatisfactory, untoward, unlucky, uncomfortable</sg>,;
+<sg>distressing</sg>,;
+<sg>afflicting, afflictive</sg>,;
+<sg>joyless, cheerless, comfortless</sg>,;
+<sg>dismal, disheartening</sg>,;
+<sg>depressing, depressive</sg>,;
+<sg>dreary, melancholy, grievous, piteous</sg>,;
+<sg>woeful, rueful, mournful, deplorable, pitiable, lamentable</sg>,;
+<sg>sad, affecting, touching, pathetic</sg>,;
+<sg>irritating, provoking, stinging, annoying, aggravating, mortifying, galling</sg>,;
+<sg>unaccommodating, invidious, vexatious</sg>,;
+<sg>troublesome, tiresome, irksome, wearisome</sg>,;
+<sg>plaguing, plaguy</sg>,;
+<sg>awkward</sg>,;
+<sg>importunate</sg>,;
+<sg>teasing, pestering, bothering, harassing, worrying, tormenting, carking</sg>,;
+<sg>intolerable, insufferable, insupportable</sg>,;
+<sg>unbearable, unendurable</sg>,;
+<sg>past bearing</sg>,;
+<sg>not to be borne, not to be endured</sg>,;
+<sg>more than flesh and blood can bear</sg>,;
+<sg>enough to drive one mad, enough to provoke a saint, enough to make a parson swear, enough to gag a maggot</sg>,;
+<sg>shocking, terrific, grim, appalling, crushing</sg>,;
+<sg>dreadful, fearful, frightful</sg>,;
+<sg>thrilling, tremendous, dire</sg>,;
+<sg>heart-breaking, heart-rending, heart-wounding, heart-corroding, heart-sickening</sg>,;
+<sg>harrowing, rending</sg>,;
+<sg>odious, hateful, execrable, repulsive, repellent, abhorrent</sg>,;
+<sg>horrid, horrible, horrific, horrifying</sg>,;
+<sg>offensive</sg>,;
+<sg>nauseous, nauseating</sg>,;
+<sg>disgusting, sickening, revolting</sg>,;
+<sg>nasty</sg>,;
+<sg>loathsome, loathful</sg>,;
+<sg>fulsome</sg>,;
+<sg>vile ,<cref>649 <i>bad</i></cref></sg>,;
+<sg>hideous ,<cref> 846 <i>accounts</i></cref></sg>,;
+<sg>sharp, acute, sore, severe, grave, hard, harsh, cruel, biting, caustic</sg>,;
+<sg>cutting, corroding, consuming, racking, excruciating, searching, grinding, grating, agonizing</sg>,;
+<sg>envenomed</sg>,;
+<sg>catheretic, pyrotic</sg>,;
+<sg>ruinous, disastrous, calamitous, tragical</sg>,;
+<sg>desolating, withering</sg>,;
+<sg>burdensome, onerous, oppressive</sg>,;
+<sg>cumbrous, cumbersome</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>painfully</sg>,;
+<sg>with pain ,<cref> 828 <i>purchase</i></cref></sg>,;
+<sg>deuced</sg>,;
+<sg>Int</sg>,;
+<sg>hinc illae lachrymae! ,</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>surgit amari aliquid</sg>,;
+<sg>the place being too hot to hold one</sg>,;
+<sg>the iron entering into the soul</sg>,;
+<sg>he jests at scars that never felt a wound</sg>,;
+<sg>I must be cruel only to be kind</sg>,;
+<sg>what deep wounds ever closed without a scar?</sg>,;
+<br>
+</paragraph>

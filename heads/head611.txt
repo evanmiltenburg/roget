@@ -1,0 +1,56 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#25#</sectionNumber>
+<headword>#<b>#[001] #611# Taciturnity #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>taciturnity, </i>silence, muteness, obmutescence</sg>,;
+<sg>taciturnity, pauciloquy, costiveness, curtness</sg>,;
+<sg>reserve, reticence ,<cref>528 <i>concealment</i></cref></sg>,;
+<sg>man of few words</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be silent</sg>,;
+<sg>keep silence, keep mum</sg>,;
+<sg>hold one's tongue, hold one's peace, hold one's jaw</sg>,;
+<sg>not speak</sg>,;
+<sg>,<cref> 582 <i>painting</i></cref></sg>,;
+<sg>say nothing, keep one's counsel</sg>,;
+<sg>seal the lips, close the lips, button the lips, zipper the lips, put a padlock on the lips, put a padlock on the mouth</sg>,;
+<sg>put a bridle on one's tongue</sg>,;
+<sg>bite one's tongue, keep one's tongue between one's teeth</sg>,;
+<sg>make no sign, not let a word escape one</sg>,;
+<sg>keep a secret ,<cref> 528 <i>madman</i></cref></sg>,;
+<sg>not have a word to say</sg>,;
+<sg>hush up, hush, lay the finger on the lips, place the finger on the lips</sg>,;
+<sg>render mute ,<cref> 581 <i>misrepresentation</i></cref></sg>,;
+<sg>stick in one's throat</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>silent, mute, mum</sg>,;
+<sg>silent as a post, silent as a stone, silent as the grave ,<cref>403 <i>still</i></cref></sg>,;
+<sg>dumb ,<cref> 581 <i>misrepresentation</i></cref></sg>,;
+<sg>unconversable</sg>,;
+<sg>taciturn, sparing of words</sg>,;
+<sg>closetongued</sg>,;
+<sg>costive, inconversable, curt</sg>,;
+<sg>reserved</sg>,;
+<sg>reticent ,<cref>528 <i>concealing</i></cref></sg>,;
+<sg>Int</sg>,;
+<sg>shush!, tush!, silence!, mum!, hush!, chut!, hist!, tut!, chup!, mum's the word</sg>,;
+<sg>keep your mouth shut!</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>cave quid dicis quando et cui</sg>,;
+<sg>volto sciolto i pensieri stretti</sg>,;
+<br>
+</paragraph>

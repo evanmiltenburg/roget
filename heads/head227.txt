@@ -1,0 +1,29 @@
+<classNumber>#2#</classNumber>
+<sectionNumber>#10#</sectionNumber>
+<headword>#<b>#[001] #227# Obliquity #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>obliquity, </i>inclination, slope, slant, crookedness</sg>,;
+<sg>slopeness</sg>,;
+<sg>leaning</sg>,;
+<sg>bevel, tilt</sg>,;
+<sg>bias, list, twist, swag, cant, lurch</sg>,;
+<sg>distortion ,<cref> 243 <i>limit</i></cref></sg>,;
+<sg>bend ,<cref>245 <i>curve</i></cref></sg>,;
+<sg>tower of Pisa</sg>,;
+<sg>acclivity, rise, ascent, gradient, khudd, rising ground, hill, bank, declivity, downhill, dip, fall, devexity</sg>,;
+<sg>gentle slope, rapid slope, easy ascent, easy descent</sg>,;
+<sg>shelving beach</sg>,;
+<sg>talus</sg>,;
+<sg>monagne Russe</sg>,;
+<sg>facilis descensus averni</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>intersect</sg>,;
+<sg>lack parallelism</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,39 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#15#</sectionNumber>
+<headword>#<b>#[001] #468# Disappearance #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>disappearance, </i>evanescence, eclipse, occultation</sg>,;
+<sg>departure ,<cref> 293 <i>progression</i></cref></sg>,;
+<sg>exit</sg>,;
+<sg>vanishing point</sg>,;
+<sg>dissolving views</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>disappear, vanish, dissolve, fade, melt away, pass, go, avaunt, evaporate, vaporize</sg>,;
+<sg>be gone</sg>,;
+<sg>leave no trace, leave 'not a rack behind'</sg>,;
+<sg>go off the stage ,<cref>293 <i>depart</i></cref></sg>,;
+<sg>suffer an eclipse, undergo an eclipse</sg>,;
+<sg>retire from sight</sg>,;
+<sg>be lost to view, pass out of sight</sg>,;
+<sg>lose sight of</sg>,;
+<sg>efface ,<cref> 552 <i>information</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>disappearing</sg>,;
+<sg>evanescent</sg>,;
+<sg>missing, lost</sg>,;
+<sg>lost to sight, lost to view</sg>,;
+<sg>gone</sg>,;
+<sg>Int</sg>,;
+<sg>vanish!, disappear!, avaunt!, get lost!, get out of here ,<cref>297 <i>ejection</i></cref></sg>,;
+<br>
+</paragraph>

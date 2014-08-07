@@ -1,0 +1,60 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#25#</sectionNumber>
+<headword>#<b>#[001] #598# Conciseness #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>conciseness</i></sg>,;
+<sg>brevity, the soul of wit, laconism</sg>,;
+<sg>Tacitus</sg>,;
+<sg>ellipsis</sg>,;
+<sg>syncope</sg>,;
+<sg>abridgment ,<cref>201 <i>shortening</i></cref></sg>,;
+<sg>compression ,<cref> 195 <i>presence</i></cref></sg>,;
+<sg>epitome ,<cref> 596 <i>perspicuity</i></cref></sg>,;
+<sg>monostich</sg>,;
+<sg>brunch word, portmanteau word</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be concise</sg>,;
+<sg>condense ,<cref> 195 <i>presence</i></cref></sg>,;
+<sg>abridge ,<cref> 201 <i>size</i></cref></sg>,;
+<sg>abstract ,<cref> 596 <i>perspicuity</i></cref></sg>,;
+<sg>come to the point</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>concise, brief, short, terse, close</sg>,;
+<sg>to the point, exact</sg>,;
+<sg>neat, compact</sg>,;
+<sg>compressed, condensed, pointed</sg>,;
+<sg>laconic, curt, pithy, trenchant, summary</sg>,;
+<sg>pregnant</sg>,;
+<sg>compendious ,<cref>596 <i>compendium</i></cref></sg>,;
+<sg>succinct</sg>,;
+<sg>elliptical, epigrammatic, quaint, crisp</sg>,;
+<sg>sententious</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>concisely</sg>,;
+<sg>briefly, summarily</sg>,;
+<sg>in brief, in short, in a word, in a few words</sg>,;
+<sg>for shortness sake</sg>,;
+<sg>to come to the point, to make a long story short, to cut the matter short, to be brief</sg>,;
+<sg>it comes to this, the long and the short of it is</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>brevis esse laboro obscurus fio</sg>,;
+<br>
+</paragraph>

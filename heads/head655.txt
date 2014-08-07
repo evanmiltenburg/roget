@@ -1,0 +1,90 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#27#</sectionNumber>
+<headword>#<b>#[001] #655# Plan #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>plan, </i>scheme, design, project</sg>,;
+<sg>proposal, proposition, suggestion</sg>,;
+<sg>resolution, motion</sg>,;
+<sg>precaution ,<cref>673 <i>provision</i></cref></sg>,;
+<sg>deep- laid plan ,<cref>611 <i>premeditated</i></cref></sg>,;
+<sg>system ,<cref>58 <i>order</i></cref></sg>,;
+<sg>organization ,<cref>60 <i>arrangement</i></cref></sg>,;
+<sg>germ ,<cref>153 <i>cause</i></cref></sg>,;
+<sg>sketch, skeleton, outline, draught, draft, ebauche, brouillon</sg>,;
+<sg>rough cast, rough draft, draught copy</sg>,;
+<sg>copy</sg>,;
+<sg>proof, revise</sg>,;
+<sg>drawing, scheme, schematic, graphic, chart, flow chart (representation) 554</sg>,;
+<sg>forecast, program, programme, prospectus</sg>,;
+<sg>carte du pays</sg>,;
+<sg>card</sg>,;
+<sg>bill, protocol</sg>,;
+<sg>order of the day, list of agenda</sg>,;
+<sg>bill of fare ,<cref>298 <i>food</i></cref></sg>,;
+<sg>base of operations</sg>,;
+<sg>platform, plank, slate, ticket</sg>,;
+<sg>role</sg>,;
+<sg>policy ,<cref>692 <i>line of conduct</i></cref></sg>,;
+<sg>contrivance, invention, expedient, receipt, nostrum, artifice, device</sg>,;
+<sg>pipelaying</sg>,;
+<sg>stratagem ,<cref>702 <i>cunning</i></cref></sg>,;
+<sg>trick ,<cref>545 <i>deception</i></cref></sg>,;
+<sg>alternative, loophole</sg>,;
+<sg>shift ,<cref>147 <i>substitute</i></cref></sg>,;
+<sg>last shift ,<cref>601 <i>necessity</i></cref></sg>,;
+<sg>measure, step</sg>,;
+<sg>stroke, stroke of policy</sg>,;
+<sg>master stroke</sg>,;
+<sg>trump card, court card</sg>,;
+<sg>cheval de bataille, great gun</sg>,;
+<sg>coup, coup d'etat</sg>,;
+<sg>clever stroke, bold stroke, good move, good hit, good stroke</sg>,;
+<sg>bright thought, bright idea</sg>,;
+<sg>intrigue, cabal, plot, conspiracy, complot, machination</sg>,;
+<sg>subplot, underplot, counterplot</sg>,;
+<sg>schemer, schemist, schematist</sg>,;
+<sg>strategist, machinator</sg>,;
+<sg>projector, artist, promoter, designer</sg>,;
+<sg>conspirator</sg>,;
+<sg>intrigant ,<cref>702 <i>cunning</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>plan, scheme, design, frame, contrive, project, forecast, sketch</sg>,;
+<sg>devise, invent ,<cref>515 <i>imagine</i></cref></sg>,;
+<sg>set one's wits to work ,<cref> 515 <i>ignorance</i></cref></sg>,;
+<sg>spring a project</sg>,;
+<sg>fall upon, hit upon</sg>,;
+<sg>strike out, chalk out, cut out, lay out, map out</sg>,;
+<sg>lay down a plan</sg>,;
+<sg>shape out a course, mark out a course</sg>,;
+<sg>predetermine ,<cref> 611 <i>taciturnity</i></cref></sg>,;
+<sg>concert, preconcert, preestablish</sg>,;
+<sg>prepare ,<cref> 673 <i>utility</i></cref></sg>,;
+<sg>hatch, hatch a plot concoct</sg>,;
+<sg>take steps, take measures</sg>,;
+<sg>cast, recast, systematize, organize</sg>,;
+<sg>arrange ,<cref> 60 <i>extraneousness</i></cref></sg>,;
+<sg>digest, mature</sg>,;
+<sg>plot</sg>,;
+<sg>counter-plot, counter-mine</sg>,;
+<sg>dig a mine</sg>,;
+<sg>lay a train</sg>,;
+<sg>intrigue ,<cref>702 <i>cunning</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>planned</sg>,;
+<sg>strategic, strategical</sg>,;
+<sg>planning</sg>,;
+<sg>prepared, in course of preparation ,<cref> 673 <i>utility</i></cref></sg>,;
+<sg>under consideration</sg>,;
+<sg>on the tapis, on the carpet, on the floor</sg>,;
+<br>
+</paragraph>

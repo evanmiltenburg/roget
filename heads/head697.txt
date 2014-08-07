@@ -1,0 +1,76 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#27#</sectionNumber>
+<headword>#<b>#[001] #697# Warning #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>warning, </i>early warning, caution, caveat</sg>,;
+<sg>notice ,<cref>527 <i>information</i></cref></sg>,;
+<sg>premonition, premonishment</sg>,;
+<sg>prediction ,<cref> 511 <i>incredulity</i></cref></sg>,;
+<sg>contraindication, lesson, dehortation</sg>,;
+<sg>admonition, monition</sg>,;
+<sg>alarm ,<cref> 669 <i>insufficiency</i></cref></sg>,;
+<sg>handwriting on the wall, mene mene tekel upharsin, red flag, yellow flag</sg>,;
+<sg>fog-signal, foghorn</sg>,;
+<sg>siren</sg>,;
+<sg>monitor, warning voice, Cassandra, signs of the times, Mother Cary's chickens, stormy petrel, bird of ill omen, gathering clouds, clouds in the horizon, death watch</sg>,;
+<sg>watchtower, beacon, signal post</sg>,;
+<sg>lighthouse ,<cref>550 <i>indication of locality</i></cref></sg>,;
+<sg>sentinel, sentry, watch, watchman</sg>,;
+<sg>watch and ward</sg>,;
+<sg>watchdog, bandog, housedog</sg>,;
+<sg>patrol, patrolman, vedette, picket, bivouac, scout, spy, spial</sg>,;
+<sg>undercover agent, mole, plainclothesman</sg>,;
+<sg>advanced guard, rear guard</sg>,;
+<sg>lookout</sg>,;
+<sg>cautiousness ,<cref> 864 <i>inexcitability</i></cref></sg>,;
+<sg>monitor, guard camera, radar, AWACS, spy satellite, spy-in-the- sky, U2 plane, spy plane</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>warn, caution</sg>,;
+<sg>forewarn, prewarn</sg>,;
+<sg>admonish, premonish</sg>,;
+<sg>give notice, give warning, dehort</sg>,;
+<sg>menace ,<cref>909 <i>threaten</i></cref></sg>,;
+<sg>put on one's guard</sg>,;
+<sg>sound the alarm ,<cref> 669 <i>insufficiency</i></cref></sg>,;
+<sg>croak</sg>,;
+<sg>beware, ware</sg>,;
+<sg>take warning, take heed at one's peril</sg>,;
+<sg>keep watch and ward ,<cref>459 <i>care</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>warning</sg>,;
+<sg>premonitory, monitory, cautionary</sg>,;
+<sg>admonitory, admonitive</sg>,;
+<sg>sematic</sg>,;
+<sg>warned, forewarned</sg>,;
+<sg>on one's guard ,<cref>864 <i>careful) 459, (cautious</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>in terrorem  ,<cref>909 <i>threat</i></cref></sg>,;
+<sg>Int</sg>,;
+<sg>beware!, ware!, take care!, look out!, fore (golf), mind what you are about!, take care what you are about!, mind!,</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>ne reveillez pas le chat qui dort, don't wake a sleeping cat</sg>,;
+<sg>foenum habet in cornu</sg>,;
+<sg>caveat actor</sg>,;
+<sg>le silence du people est la legon des rois</sg>,;
+<sg>verbum sat sapienti, a word to the wise is sufficient</sg>,;
+<sg>un averti en vaut deux</sg>,;
+<br>
+</paragraph>

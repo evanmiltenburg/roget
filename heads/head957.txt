@@ -1,0 +1,41 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#37#</sectionNumber>
+<headword>#<b>#[001] #957# Gratitude #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>gratitude, </i>thankfulness, feeling of obligation, sense of obligation</sg>,;
+<sg>acknowledgment, recognition, thanksgiving, thanksgiving, giving thanks</sg>,;
+<sg>thankful good will</sg>,;
+<sg>thanks, praise, benediction</sg>,;
+<sg>paean</sg>,;
+<sg>Te Deum ,<cref>990 <i>worship</i></cref></sg>,;
+<sg>grace, grace before meat, grace after meat, grace before meals, grace after meals</sg>,;
+<sg>thank offering</sg>,;
+<sg>requital</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be grateful</sg>,;
+<sg>thank</sg>,;
+<sg>give thanks, render thanks, return thanks, offer thanks, tender thanks</sg>,;
+<sg>acknowledge, requite</sg>,;
+<sg>feel under an obligation, be under an obligation, lie under an obligation</sg>,;
+<sg>savoir gr_e</sg>,;
+<sg>not look a gift horse in the mouth</sg>,;
+<sg>never forget, overflow with gratitude</sg>,;
+<sg>thank one's stars, thank one's lucky stars, bless one's stars</sg>,;
+<sg>fall on one's knees</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>grateful, thankful, obliged, beholden, indebted to, under obligation</sg>,;
+<sg>Int</sg>,;
+<sg>thanks!, many thanks!, gramercy!, much obliged!, thank you!, thank you very much!, thanks a lot!, thanks a heap, thanks loads</sg>,;
+<sg>thank Heaven!, Heaven be praised!, Gott sei Dank!</sg>,;
+<br>
+</paragraph>

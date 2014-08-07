@@ -1,0 +1,118 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#36#</sectionNumber>
+<headword>#<b>#[001] #865# Pleasure #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>pleasure, </i>gratification, enjoyment, fruition</sg>,;
+<sg>oblectation, delectation, delection</sg>,;
+<sg>relish, zest</sg>,;
+<sg>gusto ,<cref>377 <i>physical pleasure</i></cref></sg>,;
+<sg>satisfaction ,<cref>831 <i>content</i></cref></sg>,;
+<sg>complacency</sg>,;
+<sg>well-being</sg>,;
+<sg>good ,<cref> 618 <i>correspondence</i></cref></sg>,;
+<sg>snugness, comfort, ease</sg>,;
+<sg>cushion ,<cref> 215 <i>height</i></cref></sg>,;
+<sg>sans souci, without worry, mind at ease</sg>,;
+<sg>joy, gladness, delight, glee, cheer, sunshine</sg>,;
+<sg>cheerfulness ,<cref> 836 <i>treasurer</i></cref></sg>,;
+<sg>treat, refreshment</sg>,;
+<sg>amusement ,<cref> 840 <i>credit</i></cref></sg>,;
+<sg>luxury ,<cref> 377 <i>vegetability^</i></cref></sg>,;
+<sg>mens sana in corpore sano , a sound mind in a sound body</sg>,;
+<sg>happiness, felicity, bliss</sg>,;
+<sg>beatitude, beautification</sg>,;
+<sg>enchantment, transport, rapture, ravishment, ecstasy</sg>,;
+<sg>summum bonum</sg>,;
+<sg>paradise, elysium ,<cref>981 <i>heaven</i></cref></sg>,;
+<sg>third heaven, seventh heaven, cloud nine</sg>,;
+<sg>unalloyed happiness </sg>,;
+<sg>hedonics, hedonism</sg>,;
+<sg>honeymoon</sg>,;
+<sg>palmy days, halcyon days</sg>,;
+<sg>golden age, golden time</sg>,;
+<sg>Dixie, Dixie's land</sg>,;
+<sg>Saturnia regna, Arcadia, Shangri-La, happy valley, Agapemone</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be pleased ,<cref> 829 <i>sale</i></cref></sg>,;
+<sg>feel pleasure, experience pleasure</sg>,;
+<sg>joy</sg>,;
+<sg>enjoy oneself, hug oneself</sg>,;
+<sg>be in clover &c 377, be in elysium ,<cref> 981 <i>probity</i></cref></sg>,;
+<sg>tread on enchanted ground</sg>,;
+<sg>fall into raptures, go into raptures</sg>,;
+<sg>feel at home, breathe freely, bask in the sunshine</sg>,;
+<sg>be pleased with ,<cref> 829 <i>sale</i></cref></sg>,;
+<sg>receive pleasure, derive pleasure</sg>,;
+<sg>from</sg>,;
+<sg>take pleasure</sg>,;
+<sg>in</sg>,;
+<sg>delight in, rejoice in, indulge in, luxuriate in</sg>,;
+<sg>gloat over ,<cref>377 <i>physical pleasure</i></cref></sg>,;
+<sg>enjoy, relish, like</sg>,;
+<sg>love ,<cref> 897 <i>hope</i></cref></sg>,;
+<sg>take to, take a fancy to</sg>,;
+<sg>have a liking for</sg>,;
+<sg>enter into the spirit of</sg>,;
+<sg>take in good part</sg>,;
+<sg>treat oneself to, solace oneself with</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>pleased ,<cref> 829 <i>sale</i></cref></sg>,;
+<sg>not sorry</sg>,;
+<sg>glad, gladsome</sg>,;
+<sg>pleased as Punch</sg>,;
+<sg>happy, blest, blessed, blissful, beatified</sg>,;
+<sg>happy as a clam at high water, happy as a clam, happy as a king, happy as the day is long</sg>,;
+<sg>thrice happy, ter quaterque beatus</sg>,;
+<sg>enjoying</sg>,;
+<sg>joyful ,<cref>836 <i>in spirits</i></cref></sg>,;
+<sg>hedonic</sg>,;
+<sg>in a blissful state, in paradise ,<cref> 981 <i>probity</i></cref>, in raptures, in ecstasies, in a transport of delight</sg>,;
+<sg>comfortable ,<cref>377 <i>physical pleasure</i></cref></sg>,;
+<sg>at ease</sg>,;
+<sg>content ,<cref> 831 <i>merchandise</i></cref></sg>,;
+<sg>sans souci</sg>,;
+<sg>overjoyed, entranced, enchanted</sg>,;
+<sg>enraptures</sg>,;
+<sg>enravished</sg>,;
+<sg>transported</sg>,;
+<sg>fascinated, captivated</sg>,;
+<sg>with a joyful face, with sparkling eyes</sg>,;
+<sg>pleasing ,<cref> 829 <i>sale</i></cref></sg>,;
+<sg>ecstatic, beatic</sg>,;
+<sg>painless, unalloyed, without alloy, cloudless</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>happily</sg>,;
+<sg>with pleasure ,<cref>602 <i>willingfully</i></cref></sg>,;
+<sg>with glee</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>one's heart leaping with joy</sg>,;
+<sg>a wilderness of sweets</sg>,;
+<sg>I wish you all the joy that you can wish</sg>,;
+<sg>jour de ma vie</sg>,;
+<sg>joy ruled the day and love the night</sg>,;
+<sg>joys season'd high and tasting strong of guilt</sg>,;
+<sg>oh happiness, our being's end and aim!</sg>,;
+<sg>there is a pleasure that is born of pain</sg>,;
+<sg>throned on highest bliss</sg>,;
+<sg>vedi Napoli e poi muori</sg>,;
+<sg>zwischen Freud und Leid ist die Brucke nicht weit, the bridge between joy and sorrow is not wide</sg>,;
+<br>
+</paragraph>

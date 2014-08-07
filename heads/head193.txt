@@ -1,0 +1,71 @@
+<classNumber>#2#</classNumber>
+<sectionNumber>#9#</sectionNumber>
+<headword>#<b>#[001] #193# Location #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>location, </i>localization</sg>,;
+<sg>lodgment</sg>,;
+<sg>deposition, reposition</sg>,;
+<sg>stowage, package</sg>,;
+<sg>collocation</sg>,;
+<sg>packing, lading</sg>,;
+<sg>establishment, settlement, installation</sg>,;
+<sg>fixation</sg>,;
+<sg>insertion ,<cref> 300 <i>repulsion</i></cref></sg>,;
+<sg>habitat, environment, surroundings (situation) 183</sg>,;
+<sg>circumjacence ,<cref> 227 <i>obliquity</i></cref></sg>,;
+<sg>anchorage, mooring, encampment</sg>,;
+<sg>plantation, colony, settlement, cantonment</sg>,;
+<sg>colonization, domestication, situation</sg>,;
+<sg>habitation ,<cref>189 <i>abode</i></cref></sg>,;
+<sg>cohabitation</sg>,;
+<sg>a local habitation and a name</sg>,;
+<sg>endenization, naturalization</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>place, situate, locate, localize, make a place for, put, lay, set, seat, station, lodge, quarter, post, install</sg>,;
+<sg>house, stow</sg>,;
+<sg>establish, fix, pin, root</sg>,;
+<sg>graft</sg>,;
+<sg>plant ,<cref>300 <i>insert</i></cref></sg>,;
+<sg>shelve, pitch, camp, lay down, deposit, reposit</sg>,;
+<sg>cradle</sg>,;
+<sg>moor, tether, picket</sg>,;
+<sg>pack, tuck in</sg>,;
+<sg>embed, imbed</sg>,;
+<sg>vest, invest in</sg>,;
+<sg>billet on, quarter upon, saddle with</sg>,;
+<sg>load, lade, freight</sg>,;
+<sg>pocket, put up, bag</sg>,;
+<sg>inhabit ,<cref>186 <i>be present</i></cref></sg>,;
+<sg>domesticate, colonize</sg>,;
+<sg>take root, strike root</sg>,;
+<sg>anchor</sg>,;
+<sg>cast anchor, come to an anchor</sg>,;
+<sg>sit down, settle down</sg>,;
+<sg>settle</sg>,;
+<sg>take up one's abode, take up one's quarters</sg>,;
+<sg>plant oneself, establish oneself, locate oneself</sg>,;
+<sg>squat, perch, hive, se nicher, bivouac, burrow, get a footing</sg>,;
+<sg>encamp, pitch one's tent</sg>,;
+<sg>put up at, put up one's horses at</sg>,;
+<sg>keep house</sg>,;
+<sg>endenizen, naturalize, adopt</sg>,;
+<sg>put back, replace ,<cref>660 <i>restore</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>placed</sg>,;
+<sg>situate, posited, ensconced, imbedded, embosomed, rooted</sg>,;
+<sg>domesticated</sg>,;
+<sg>vested in, unremoved</sg>,;
+<sg>moored</sg>,;
+<sg>at anchor</sg>,;
+<br>
+</paragraph>

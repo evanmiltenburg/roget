@@ -1,0 +1,47 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#20#</sectionNumber>
+<headword>#<b>#[001] #506# Overestimation #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>overestimation</i></sg>,;
+<sg>exaggeration ,<cref> 549 <i>interpreter</i></cref></sg>,;
+<sg>vanity ,<cref> 880 <i>wit</i></cref></sg>,;
+<sg>optimism, pessimism, pessimist</sg>,;
+<sg>much cry and little wool, much ado about nothing</sg>,;
+<sg>storm in a teacup, tempest in a teacup</sg>,;
+<sg>fine talking</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>overestimate, overrate, overvalue, overprize, overweigh, overreckon, overstrain, overpraise</sg>,;
+<sg>eulogize</sg>,;
+<sg>estimate too highly, attach too much importance to, make mountains of molehills, catch at straws</sg>,;
+<sg>strain, magnify</sg>,;
+<sg>exaggerate ,<cref> 549 <i>interpreter</i></cref></sg>,;
+<sg>set too high a value upon</sg>,;
+<sg>think much of, make much of, think too much of, make too much of</sg>,;
+<sg>outreckon</sg>,;
+<sg>panegyrize</sg>,;
+<sg>extol, extol to the skies</sg>,;
+<sg>make the most of, make the best of, make the worst of</sg>,;
+<sg>make two bites of a cherry</sg>,;
+<sg>have too high an opinion of oneself ,<cref>880 <i>vanity</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>overestimated</sg>,;
+<sg>oversensitive ,<cref>822 <i>sensibility</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>all his geese are swans</sg>,;
+<sg>parturiunt montes</sg>,;
+<br>
+</paragraph>

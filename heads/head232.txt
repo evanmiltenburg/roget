@@ -1,0 +1,51 @@
+<classNumber>#2#</classNumber>
+<sectionNumber>#10#</sectionNumber>
+<headword>#<b>#[001] #232# Centrality #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>centrality, </i>centricalness, center</sg>,;
+<sg>middle ,<cref> 68 <i>precursor</i></cref></sg>,;
+<sg>focus ,<cref> 74 <i>discontinuity</i></cref></sg>,;
+<sg>core, kernel</sg>,;
+<sg>nucleus, nucleolus</sg>,;
+<sg>heart, pole axis, bull's eye</sg>,;
+<sg>nave, navel</sg>,;
+<sg>umbilicus, backbone, marrow, pith</sg>,;
+<sg>vertebra, vertebral column</sg>,;
+<sg>hotbed</sg>,;
+<sg>concentration ,<cref>290 <i>convergence</i></cref></sg>,;
+<sg>centralization</sg>,;
+<sg>symmetry</sg>,;
+<sg>center of gravity, center of pressure, center of percussion, center of oscillation, center of buoyancy </sg>,;
+<sg>metacenter</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be central</sg>,;
+<sg>converge ,<cref> 290 <i>deviation</i></cref></sg>,;
+<sg>render central, centralize, concentrate</sg>,;
+<sg>bring to a focus</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>central, centrical</sg>,;
+<sg>middle ,<cref> 68 <i>precursor</i></cref></sg>,;
+<sg>azygous, axial, focal, umbilical, concentric</sg>,;
+<sg>middlemost</sg>,;
+<sg>rachidian</sg>,;
+<sg>spinal, vertebral</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>middle</sg>,;
+<sg>midst</sg>,;
+<sg>centrally</sg>,;
+<br>
+</paragraph>

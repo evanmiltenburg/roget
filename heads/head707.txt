@@ -1,0 +1,45 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#27#</sectionNumber>
+<headword>#<b>#[001] #707# Disuse #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>disuse, </i>forbearance, abstinence</sg>,;
+<sg>disuse</sg>,;
+<sg>relinquishment ,<cref> 782 <i>restraint</i></cref></sg>,;
+<sg>desuetude ,<cref>614 <i>want of habit</i></cref></sg>,;
+<sg>disusage</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>not use</sg>,;
+<sg>do without, dispense with, let alone, not touch, forbear, abstain, spare, waive, neglect</sg>,;
+<sg>keep back, reserve</sg>,;
+<sg>lay up, lay by, lay on the shelf, keep on the shelf, lay up in ordinary</sg>,;
+<sg>lay up in a napkin</sg>,;
+<sg>shelve</sg>,;
+<sg>set aside, put aside, lay aside</sg>,;
+<sg>disuse, leave off, have done with</sg>,;
+<sg>supersede</sg>,;
+<sg>discard ,<cref>297 <i>eject</i></cref></sg>,;
+<sg>dismiss, give warning</sg>,;
+<sg>throw aside ,<cref>782 <i>relinquish</i></cref></sg>,;
+<sg>make away with ,<cref>162 <i>destroy</i></cref></sg>,;
+<sg>cast overboard, heave overboard, throw overboard</sg>,;
+<sg>cast to the dogs, cast to the winds</sg>,;
+<sg>dismantle ,<cref>645 <i>Render useless</i></cref></sg>,;
+<sg>lie unemployed, remain unemployed</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>not used</sg>,;
+<sg>unemployed, unapplied, undisposed of, unspent, unexercised, untouched, untrodden, unessayed, ungathered, unculled</sg>,;
+<sg>uncalled for, not required</sg>,;
+<sg>disused</sg>,;
+<sg>done with</sg>,;
+<br>
+</paragraph>

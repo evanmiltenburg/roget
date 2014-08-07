@@ -1,0 +1,177 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#38#</sectionNumber>
+<headword>#<b>#[001] #974# Disapprobation #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>disapprobation, </i>disapproval</sg>,;
+<sg>improbation</sg>,;
+<sg>disesteem, disvaluation, displacency</sg>,;
+<sg>odium</sg>,;
+<sg>dislike ,<cref> 867 <i>pleasurableness</i></cref></sg>,;
+<sg>dispraise, discommendation</sg>,;
+<sg>blame, censure, obloquy</sg>,;
+<sg>detraction ,<cref> 934 <i>discourtesy</i></cref></sg>,;
+<sg>disparagement, depreciation</sg>,;
+<sg>denunciation</sg>,;
+<sg>condemnation ,<cref> 971 <i>disrespect</i></cref></sg>,;
+<sg>ostracism</sg>,;
+<sg>black list</sg>,;
+<sg>animadversion, reflection, stricture, objection, exception, criticism</sg>,;
+<sg>sardonic grin, sardonic laugh</sg>,;
+<sg>sarcasm, insinuation, innuendo</sg>,;
+<sg>bad compliment, poor compliment, left-handed compliment</sg>,;
+<sg>satire</sg>,;
+<sg>sneer ,<cref>930 <i>contempt</i></cref></sg>,;
+<sg>taunt ,<cref>929 <i>disrespect</i></cref></sg>,;
+<sg>cavil, carping, censoriousness</sg>,;
+<sg>hypercriticism ,<cref>868 <i>fastidiousness</i></cref></sg>,;
+<sg>reprehension, remonstrance, expostulation, reproof, reprobation, admonition, increpation, reproach</sg>,;
+<sg>rebuke, reprimand, castigation, jobation, lecture, curtain lecture, blow up, wigging, dressing, rating, scolding, trimming</sg>,;
+<sg>correction, set down, rap on the knuckles, coup de bec, rebuff</sg>,;
+<sg>slap, slap on the face</sg>,;
+<sg>home thrust, hit</sg>,;
+<sg>frown, scowl, black look</sg>,;
+<sg>diatribe</sg>,;
+<sg>jeremiad, jeremiade</sg>,;
+<sg>tirade, philippic</sg>,;
+<sg>clamor, outcry, hue and cry</sg>,;
+<sg>hiss, hissing</sg>,;
+<sg>sibilance, sibilation, catcall</sg>,;
+<sg>execration ,<cref> 908 <i>satiety</i></cref></sg>,;
+<sg>chiding, upbraiding</sg>,;
+<sg>exprobation, abuse, vituperation, invective, objurgation, contumely</sg>,;
+<sg>hard words, cutting words, bitter words</sg>,;
+<sg>evil-speaking</sg>,;
+<sg>bad language ,<cref> 908 <i>satiety</i></cref></sg>,;
+<sg>personality</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>disapprove</sg>,;
+<sg>dislike ,<cref> 867 <i>pleasurableness</i></cref></sg>,;
+<sg>lament ,<cref> 839 <i>poverty</i></cref></sg>,;
+<sg>object to, take exception to</sg>,;
+<sg>be scandalized at, think ill of</sg>,;
+<sg>view with disfavor, view with dark eyes, view with jaundiced eyes</sg>,;
+<sg>nil admirari, disvalue</sg>,;
+<sg>improbate</sg>,;
+<sg>frown upon, look grave</sg>,;
+<sg>bend the brows, knit the brows</sg>,;
+<sg>shake the head at, shrug the shoulders</sg>,;
+<sg>turn up the nose ,<cref>930 <i>contempt</i></cref></sg>,;
+<sg>look askance, look black upon</sg>,;
+<sg>look with an evil eye</sg>,;
+<sg>make a wry face, make a wry mouth at</sg>,;
+<sg>set one's face against</sg>,;
+<sg>dispraise, discommend, disparage</sg>,;
+<sg>deprecate, speak ill of, not speak well of</sg>,;
+<sg>condemn ,<cref>971 <i>find guilty</i></cref></sg>,;
+<sg>blame</sg>,;
+<sg>lay blame upon, cast blame upon</sg>,;
+<sg>censure, fronder, reproach, pass censure on, reprobate, impugn</sg>,;
+<sg>remonstrate, expostulate, recriminate</sg>,;
+<sg>reprehend, chide, admonish</sg>,;
+<sg>berate, betongue</sg>,;
+<sg>bring to account, call to account, call over the coals, rake over the coals, call to order</sg>,;
+<sg>take to task, reprove, lecture, bring to book</sg>,;
+<sg>read a lesson, read a lecture to</sg>,;
+<sg>rebuke, correct</sg>,;
+<sg>reprimand, chastise, castigate, lash, blow up, trounce, trim, laver la tete, overhaul</sg>,;
+<sg>give it one, give it one finely</sg>,;
+<sg>gibbet</sg>,;
+<sg>accuse ,<cref> 938 <i>favorite</i></cref></sg>,;
+<sg>impeach, denounce</sg>,;
+<sg>hold up to reprobation, hold up to execration</sg>,;
+<sg>expose, brand, gibbet, stigmatize</sg>,;
+<sg>show up, pull up, take up</sg>,;
+<sg>cry 'shame' upon</sg>,;
+<sg>be outspoken</sg>,;
+<sg>raise a hue and cry against</sg>,;
+<sg>execrate ,<cref> 908 <i>satiety</i></cref></sg>,;
+<sg>exprobate, speak daggers, vituperate</sg>,;
+<sg>abuse, abuse like a pickpocket</sg>,;
+<sg>scold, rate, objurgate, upbraid, fall foul of</sg>,;
+<sg>jaw</sg>,;
+<sg>rail, rail at, rail in good set terms</sg>,;
+<sg>bark at</sg>,;
+<sg>anathematize, call names</sg>,;
+<sg>call by hard names, call by ugly names</sg>,;
+<sg>avile, revile</sg>,;
+<sg>vilify, vilipend</sg>,;
+<sg>bespatter</sg>,;
+<sg>backbite</sg>,;
+<sg>clapperclaw</sg>,;
+<sg>rave against, thunder against, fulminate against</sg>,;
+<sg>load with reproaches</sg>,;
+<sg>exclaim against, protest against, inveigh against, declaim against, cry out against, raise one's voice against</sg>,;
+<sg>decry</sg>,;
+<sg>cry down, run down, frown down</sg>,;
+<sg>clamor, hiss, hoot, mob, ostracize, blacklist</sg>,;
+<sg>draw up a round robin, sign a round robin</sg>,;
+<sg>animadvert upon, reflect upon</sg>,;
+<sg>glance at</sg>,;
+<sg>cast reflection, cast reproach, cast a slur upon</sg>,;
+<sg>insinuate, damn with faint praise</sg>,;
+<sg>hint a fault and hesitate dislike</sg>,;
+<sg>not to be able to say much for</sg>,;
+<sg>scoff at, point at</sg>,;
+<sg>twit, taunt ,<cref>929 <i>disrespect</i></cref></sg>,;
+<sg>sneer at ,<cref>230 <i>despise</i></cref></sg>,;
+<sg>satirize, lampoon</sg>,;
+<sg>defame ,<cref>934 <i>detract</i></cref></sg>,;
+<sg>depreciate, find fault with, criticize, cut up</sg>,;
+<sg>pull to pieces, pick to pieces</sg>,;
+<sg>take exception</sg>,;
+<sg>cavil</sg>,;
+<sg>peck at, nibble at, carp at</sg>,;
+<sg>be censorious</sg>,;
+<sg>pick holes, pick a hole, pick a hole in one's coat</sg>,;
+<sg>make a fuss about</sg>,;
+<sg>take down, take down a peg, set down</sg>,;
+<sg>snub, snap one up, give a rap on the knuckles</sg>,;
+<sg>throw a stone at, throw a stone in one's garden</sg>,;
+<sg>have a fling, have a snap at</sg>,;
+<sg>have words with, pluck a crow with</sg>,;
+<sg>give one a wipe, give one a lick with the rough side of the tongue</sg>,;
+<sg>incur blame, excite disapprobation, scandalize, shock, revolt</sg>,;
+<sg>get a bad name, forfeit one's good opinion, be under a cloud, come under the ferule, bring a hornet's nest about one's ears</sg>,;
+<sg>take blame, stand corrected</sg>,;
+<sg>have to answer for</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>disapproving</sg>,;
+<sg>scandalized</sg>,;
+<sg>disparaging, condemnatory, damnatory, denunciatory, reproachful, abusive, objurgatory, clamorous, vituperative</sg>,;
+<sg>defamatory ,<cref> 934 <i>discourtesy</i></cref></sg>,;
+<sg>satirical, sarcastic, sardonic, cynical, dry, sharp, cutting, biting, severe, withering, trenchant, hard upon</sg>,;
+<sg>censorious, critical, captious, carping, hypercritical</sg>,;
+<sg>fastidious ,<cref> 868 <i>painfulness</i></cref></sg>,;
+<sg>sparing of praise, grudging praise</sg>,;
+<sg>disapproved, chid</sg>,;
+<sg>in bad odor, blown upon, unapproved</sg>,;
+<sg>unblest</sg>,;
+<sg>at a discount, exploded</sg>,;
+<sg>weighed in the balance and found wanting</sg>,;
+<sg>blameworthy, reprehensible ,<cref>947 <i>guilt</i></cref></sg>,;
+<sg>to blame, worthy of blame</sg>,;
+<sg>answerable, uncommendable, exceptionable, not to be thought of</sg>,;
+<sg>bad ,<cref> 649 <i>intention</i></cref></sg>,;
+<sg>vicious ,<cref> 945 <i>divorce</i></cref></sg>,;
+<sg>unlamented, unbewailed, unpitied</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>with a wry face</sg>,;
+<sg>reproachfully</sg>,;
+<sg>Int</sg>,;
+<sg>it is too bad!, it won't do, it will never do!, marry come up!, Oh!, come!, 'sdeath!, forbid it Heaven!, God forbid, Heaven forbid!, out upon, fie upon it!, away with!, tut!, O tempora!, O mores!, shame!, fie, fie for shame!, out on you!, tell it not in Gath!,</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,160 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#36#</sectionNumber>
+<headword>#<b>#[001] #912# Repute #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>repute, </i>distinction, mark, name, figure</sg>,;
+<sg>repute, reputation</sg>,;
+<sg>good repute, high repute</sg>,;
+<sg>note, notability, notoriety, eclat, the bubble reputation, vogue, celebrity</sg>,;
+<sg>fame, famousness</sg>,;
+<sg>renown</sg>,;
+<sg>popularity, aura popularis</sg>,;
+<sg>approbation ,<cref> 931 <i>sociality</i></cref></sg>,;
+<sg>credit, succes d'estime, prestige, talk of the town</sg>,;
+<sg>name to conjure with</sg>,;
+<sg>glory, honor</sg>,;
+<sg>luster ,<cref>420 <i>light</i></cref></sg>,;
+<sg>illustriousness</sg>,;
+<sg>account, regard, respect</sg>,;
+<sg>reputableness</sg>,;
+<sg>respectability ,<cref>939 <i>probity</i></cref></sg>,;
+<sg>good name, good report</sg>,;
+<sg>fair name</sg>,;
+<sg>dignity</sg>,;
+<sg>stateliness</sg>,;
+<sg>solemnity, grandeur, splendor, nobility, majesty, sublimity</sg>,;
+<sg>rank, standing, brevet rank, precedence, pas, station, place, status</sg>,;
+<sg>position, position in society</sg>,;
+<sg>order, degree, baccalaureate, locus standi, caste, condition</sg>,;
+<sg>greatness</sg>,;
+<sg>eminence</sg>,;
+<sg>height ,<cref> 206 <i>nearness</i></cref></sg>,;
+<sg>importance ,<cref> 642 <i>desuetude</i></cref></sg>,;
+<sg>preeminence, supereminence</sg>,;
+<sg>high mightiness, primacy</sg>,;
+<sg>top of the ladder, top of the tree</sg>,;
+<sg>elevation</sg>,;
+<sg>ascent ,<cref> 305 <i>ingress</i></cref></sg>,;
+<sg>superaltation, exaltation</sg>,;
+<sg>dignification, aggrandizement</sg>,;
+<sg>dedication, consecration, enthronement, canonization, celebration, enshrinement, glorification</sg>,;
+<sg>hero, man of mark, great card, celebrity, worthy, lion, rara avis, notability, somebody</sg>,;
+<sg>classman</sg>,;
+<sg>man of rank ,<cref>875 <i>nobleman</i></cref></sg>,;
+<sg>pillar of the state, pillar of the church, pillar of the community</sg>,;
+<sg>chief ,<cref>745 <i>master</i></cref></sg>,;
+<sg>first fiddle ,<cref>700 <i>proficient</i></cref></sg>,;
+<sg>cynosure, mirror</sg>,;
+<sg>flower, pink, pearl</sg>,;
+<sg>paragon ,<cref>650 <i>perfection</i></cref></sg>,;
+<sg>choice and master spirits of the age</sg>,;
+<sg>elite</sg>,;
+<sg>star, sun, constellation, galaxy</sg>,;
+<sg>ornament, honor, feather in one's cap, halo, aureole, nimbus</sg>,;
+<sg>halo of glory, blaze of glory, blushing honors</sg>,;
+<sg>laurels ,<cref>733 <i>trophy</i></cref></sg>,;
+<sg>memory, posthumous fame, niche in the temple of fame</sg>,;
+<sg>immortality, immortal name</sg>,;
+<sg>magni nominis umbra</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be conscious of glory</sg>,;
+<sg>be proud of ,<cref>878 <i>pride</i></cref></sg>,;
+<sg>exult ,<cref>884 <i>boast</i></cref></sg>,;
+<sg>be vain of ,<cref>880 <i>vanity</i></cref></sg>,;
+<sg>be distinguished</sg>,;
+<sg>shine ,<cref>420 <i>light</i></cref></sg>,;
+<sg>shine forth, figure</sg>,;
+<sg>cut a figure, make a dash, make a splash</sg>,;
+<sg>rival, surpass</sg>,;
+<sg>outshine, outrival, outvie, outjump</sg>,;
+<sg>emulate, eclipse</sg>,;
+<sg>throw into the shade, cast into the shade</sg>,;
+<sg>overshadow</sg>,;
+<sg>live, flourish, glitter, flaunt, gain honor, acquire honor</sg>,;
+<sg>play first fiddle ,<cref>642 <i>be of importance</i></cref>, bear the palm, bear the bell</sg>,;
+<sg>lead the way</sg>,;
+<sg>take precedence, take the wall of</sg>,;
+<sg>gain laurels, win laurels, gain spurs, gain golden opinions ,<cref>931 <i>approbation</i></cref></sg>,;
+<sg>take one's degree, pass one's examination</sg>,;
+<sg>make a noise, make some noise, make a noise in the world</sg>,;
+<sg>leave one's mark, exalt one's horn, blow one's horn, star it, have a run, be run after</sg>,;
+<sg>come into vogue, come to the front</sg>,;
+<sg>raise one's head</sg>,;
+<sg>enthrone, signalize, immortalize, deify, exalt to the skies</sg>,;
+<sg>hand one's name down to posterity</sg>,;
+<sg>consecrate</sg>,;
+<sg>dedicate to, devote to</sg>,;
+<sg>enshrine, inscribe, blazon, lionize, blow the trumpet, crown with laurel</sg>,;
+<sg>confer honor on, reflect honor on</sg>,;
+<sg>shed a luster on</sg>,;
+<sg>redound</sg>,;
+<sg>to one's honor, ennoble</sg>,;
+<sg>give honor to, do honor to, pay honor to, render honor to</sg>,;
+<sg>honor, accredit, pay regard to, dignify, glorify</sg>,;
+<sg>sing praises to ,<cref>931 <i>approve</i></cref></sg>,;
+<sg>lock up to</sg>,;
+<sg>exalt, aggrandize, elevate, nobilitate</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>distinguished, distingue, noted</sg>,;
+<sg>of note</sg>,;
+<sg>honored</sg>,;
+<sg>popular</sg>,;
+<sg>fashionable ,<cref> 852 <i>cheapness</i></cref></sg>,;
+<sg>in good odor in</sg>,;
+<sg>favor, in high favor</sg>,;
+<sg>reputable, respectable, creditable</sg>,;
+<sg>remarkable ,<cref>642 <i>important</i></cref></sg>,;
+<sg>notable, notorious</sg>,;
+<sg>celebrated, renowned, ion every one's mouth, talked of</sg>,;
+<sg>famous, famed</sg>,;
+<sg>far-famed</sg>,;
+<sg>conspicuous, to the front</sg>,;
+<sg>foremost</sg>,;
+<sg>in the front rank, in the ascendant</sg>,;
+<sg>imperishable, deathless, immortal, never fading, aere perennius</sg>,;
+<sg>time honored</sg>,;
+<sg>illustrious, glorious, splendid, brilliant, radiant</sg>,;
+<sg>bright ,<cref> 420 <i>silence</i></cref></sg>,;
+<sg>full-blown</sg>,;
+<sg>honorific</sg>,;
+<sg>eminent, prominent</sg>,;
+<sg>high ,<cref> 206 <i>nearness</i></cref></sg>,;
+<sg>in the zenith</sg>,;
+<sg>at the head of, at the top of the tree</sg>,;
+<sg>peerless, of the first water</sg>,;
+<sg>superior ,<cref> 33 <i>greatness</i></cref></sg>,;
+<sg>supereminent, preeminent</sg>,;
+<sg>great, dignified, proud, noble, honorable, worshipful, lordly, grand, stately, august, princely</sg>,;
+<sg>imposing, solemn, transcendent, majestic, sacred, sublime, heaven- born, heroic, sans peur et sans reproche</sg>,;
+<sg>sacrosanct</sg>,;
+<sg>Int</sg>,;
+<sg>hail!, all hail!, ave!, viva!, vive!, long life to!, banzai!</sg>,;
+<sg>glory be to, honor be to?</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>one's name being in every mouth, one's name living for ever</sg>,;
+<sg>sic itur ad astra, fama volat, aut Caesar aut nullus</sg>,;
+<sg>not to know him argues oneself unknown</sg>,;
+<sg>none but himself could be his parallel, palmam qui meruit ferat</sg>,;
+<sg>above all Greek above all Roman fame</sg>,;
+<sg>cineri gloria sera est</sg>,;
+<sg>great is the glory for the strife is hard</sg>,;
+<sg>honor virtutis praemium</sg>,;
+<sg>immensum gloria calcar habet</sg>,;
+<sg>the glory dies not and the grief is past</sg>,;
+<sg>vivit post funera virtus</sg>,;
+<br>
+</paragraph>

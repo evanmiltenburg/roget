@@ -1,0 +1,141 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#27#</sectionNumber>
+<headword>#<b>#[001] #693# Safety #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>safety, </i>security, surety, impregnability</sg>,;
+<sg>invulnerability, invulnerableness</sg>,;
+<sg>danger past, danger over</sg>,;
+<sg>storm blown over</sg>,;
+<sg>coast clear</sg>,;
+<sg>escape ,<cref> 671 <i>importance</i></cref></sg>,;
+<sg>means of escape</sg>,;
+<sg>blow valve, safety valve, release valve, sniffing valve</sg>,;
+<sg>safeguard, palladium</sg>,;
+<sg>guardianship, wardship, wardenship</sg>,;
+<sg>tutelage, custody, safekeeping</sg>,;
+<sg>preservation ,<cref> 670 <i>redundancy</i></cref></sg>,;
+<sg>protection, auspices</sg>,;
+<sg>safe-conduct, escort, convoy</sg>,;
+<sg>guard, shield ,<cref>717 <i>defense</i></cref></sg>,;
+<sg>guardian angel</sg>,;
+<sg>tutelary god, tutelary deity, tutelary saint</sg>,;
+<sg>genius loci</sg>,;
+<sg>protector, guardian</sg>,;
+<sg>warden, warder</sg>,;
+<sg>preserver, custodian, duenna, chaperon, third person</sg>,;
+<sg>watchdog, bandog</sg>,;
+<sg>Cerberus</sg>,;
+<sg>watchman, patrolman, policeman</sg>,;
+<sg>cop, dick, fuzz, smokey, peeler, zarp</sg>,;
+<sg>sentinel, sentry, scout ,<cref>668 <i>warning</i></cref></sg>,;
+<sg>garrison</sg>,;
+<sg>guardship</sg>,;
+<sg>refuge &c, anchor ,<cref> 666 <i>provision</i></cref></sg>,;
+<sg>precaution ,<cref>673 <i>preparation</i></cref></sg>,;
+<sg>quarantine, cordon sanitaire</sg>,;
+<sg>confidence ,<cref> 858 <i>affections</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be safe</sg>,;
+<sg>keep one's head above water, tide over, save one's bacon</sg>,;
+<sg>ride out the storm, weather the storm</sg>,;
+<sg>light upon one's feet, land on one's feet</sg>,;
+<sg>bear a charmed life</sg>,;
+<sg>escape ,<cref> 671 <i>importance</i></cref></sg>,;
+<sg>make safe, render safe  Adj</sg>,;
+<sg>protect</sg>,;
+<sg>take care of ,<cref>459 <i>care</i></cref></sg>,;
+<sg>preserve ,<cref> 670 <i>redundancy</i></cref></sg>,;
+<sg>cover, screen, shelter, shroud, flank, ward</sg>,;
+<sg>guard ,<cref>717 <i>defend</i></cref></sg>,;
+<sg>secure ,<cref>751 <i>restrain</i></cref></sg>,;
+<sg>entrench, intrench, fence round ,<cref>229 <i>circumscribe</i></cref></sg>,;
+<sg>house, nestle, ensconce</sg>,;
+<sg>take charge of</sg>,;
+<sg>escort, convoy</sg>,;
+<sg>garrison</sg>,;
+<sg>watch, mount guard, patrol</sg>,;
+<sg>make assurance doubly sure ,<cref>864 <i>caution</i></cref></sg>,;
+<sg>take up a loose thread</sg>,;
+<sg>take precautions ,<cref>673 <i>prepare for</i></cref></sg>,;
+<sg>double reef topsails</sg>,;
+<sg>seek safety</sg>,;
+<sg>take shelter, find shelter ,<cref> 666 <i>provision</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>protect</sg>,;
+<sg>take care of ,<cref>459 <i>care</i></cref></sg>,;
+<sg>preserve ,<cref> 670 <i>redundancy</i></cref></sg>,;
+<sg>cover, screen, shelter, shroud, flank, ward</sg>,;
+<sg>guard ,<cref>717 <i>defend</i></cref></sg>,;
+<sg>secure ,<cref>751 <i>restrain</i></cref></sg>,;
+<sg>entrench, intrench, fence round ,<cref>229 <i>circumscribe</i></cref></sg>,;
+<sg>house, nestle, ensconce</sg>,;
+<sg>take charge of</sg>,;
+<sg>escort, convoy</sg>,;
+<sg>garrison</sg>,;
+<sg>watch, mount guard, patrol</sg>,;
+<sg>make assurance doubly sure ,<cref>864 <i>caution</i></cref></sg>,;
+<sg>take up a loose thread</sg>,;
+<sg>take precautions ,<cref>673 <i>prepare for</i></cref></sg>,;
+<sg>double reef topsails</sg>,;
+<sg>seek safety</sg>,;
+<sg>take shelter, find shelter ,<cref> 666 <i>provision</i></cref></sg>,;
+<sg>Adj</sg>,;
+<sg>safe, secure, sure</sg>,;
+<sg>in safety, in security</sg>,;
+<sg>on the safe side</sg>,;
+<sg>under the shield of, under the shade of, under the wing of, under the shadow of one's wing</sg>,;
+<sg>under cover, under lock and key</sg>,;
+<sg>out of danger, out of the woods, out of the meshes, out of harm's way</sg>,;
+<sg>unharmed, unscathed</sg>,;
+<sg>on sure ground, at anchor, high and dry, above water</sg>,;
+<sg>unthreatened, unmolested</sg>,;
+<sg>protected</sg>,;
+<sg>cavendo tutus</sg>,;
+<sg>panoplied ,<cref>717 <i>defended</i></cref></sg>,;
+<sg>snug, seaworthy</sg>,;
+<sg>weatherproof, waterproof, fireproof</sg>,;
+<sg>defensible, tenable, proof against, invulnerable</sg>,;
+<sg>unassailable, unattackable, impenetrable</sg>,;
+<sg>impregnable, imperdible</sg>,;
+<sg>inexpugnable</sg>,;
+<sg>Achillean</sg>,;
+<sg>safe and sound ,<cref>670 <i>preserved</i></cref></sg>,;
+<sg>scathless ,<cref>650 <i>perfect</i></cref></sg>,;
+<sg>unhazarded</sg>,;
+<sg>not dangerous ,<cref> 665 <i>store</i></cref></sg>,;
+<sg>unthreatening, harmless</sg>,;
+<sg>friendly (cooperative) 709</sg>,;
+<sg>protecting, protective</sg>,;
+<sg>guardian, tutelary</sg>,;
+<sg>preservative ,<cref> 670 <i>redundancy</i></cref></sg>,;
+<sg>trustworthy ,<cref> 939 <i>resentment</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>ex abundanti cautela</sg>,;
+<sg>with impunity</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>all's well</sg>,;
+<sg>salva res est</sg>,;
+<sg>suave mari magno</sg>,;
+<sg>a couvert</sg>,;
+<sg>e terra alterius spectare laborem</sg>,;
+<sg>Dieu vous garde</sg>,;
+<br>
+</paragraph>

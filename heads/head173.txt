@@ -1,0 +1,41 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#8#</sectionNumber>
+<headword>#<b>#[001] #173# Paternity #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>paternity</i></sg>,;
+<sg>parentage</sg>,;
+<sg>consanguinity ,<cref> 11 <i>consanguinity</i></cref></sg>,;
+<sg>parent</sg>,;
+<sg>father, sire, dad, papa, paterfamilias, abba</sg>,;
+<sg>genitor, progenitor, procreator</sg>,;
+<sg>ancestor</sg>,;
+<sg>grandsire, grandfather</sg>,;
+<sg>great- grandfather</sg>,;
+<sg>fathership, fatherhood</sg>,;
+<sg>mabap</sg>,;
+<sg>house, stem, trunk, tree, stock, stirps, pedigree, lineage, line, family, tribe, sept, race, clan</sg>,;
+<sg>genealogy, descent, extraction, birth, ancestry</sg>,;
+<sg>forefathers, forbears, patriarchs</sg>,;
+<sg>motherhood, maternity</sg>,;
+<sg>mother, dam, mamma, materfamilias, grandmother</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>paternal, parental</sg>,;
+<sg>maternal</sg>,;
+<sg>family, ancestral, linear, patriarchal</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>avi numerantur avorum</sg>,;
+<sg>happy he with such a mother</sg>,;
+<sg>hombre bueno no le busquen abolengo</sg>,;
+<sg>philosophia stemma non inspicit</sg>,;
+<br>
+</paragraph>

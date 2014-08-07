@@ -1,0 +1,65 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#25#</sectionNumber>
+<headword>#<b>#[001] #589# Neologism #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>neology, neologism</sg>,;
+<sg>newfangled expression, nonce expression</sg>,;
+<sg>back-formation</sg>,;
+<sg>caconym</sg>,;
+<sg>barbarism</sg>,;
+<sg>archaism, black letter, monkish Latin</sg>,;
+<sg>corruption, missaying, malapropism, antiphrasis</sg>,;
+<sg>pun, paranomasia, play upon words</sg>,;
+<sg>word play ,<cref>842 <i>wit</i></cref></sg>,;
+<sg>double- entendre ,<cref>520 <i>ambiguity</i></cref></sg>,;
+<sg>palindrome, paragram, anagram, clinch</sg>,;
+<sg>abuse of language, abuse of terms</sg>,;
+<sg>dialect, brogue, idiom, accent, patois</sg>,;
+<sg>provincialism, regionalism, localism</sg>,;
+<sg>broken English, lingua franca</sg>,;
+<sg>Anglicism, Briticism, Gallicism, Scotticism, Hibernicism</sg>,;
+<sg>Americanism</sg>,;
+<sg>Gypsy lingo, Romany</sg>,;
+<sg>pidgin, pidgin English, pigeon English</sg>,;
+<sg>Volapuk, Chinook, Esperanto, Hindustani, kitchen Kaffir</sg>,;
+<sg>dog Latin, macaronics, gibberish</sg>,;
+<sg>confusion of tongues, Babel</sg>,;
+<sg>babu English, chi-chi</sg>,;
+<sg>figure of speech ,<cref>521 <i>metaphor</i></cref></sg>,;
+<sg>byword</sg>,;
+<sg>colloquialism, informal speech, informal language</sg>,;
+<sg>substandard language, vernacular</sg>,;
+<sg>vulgar language, obscene language, obscenity, vulgarity</sg>,;
+<sg>jargon, technical terms, technicality, lingo, slang, cant, argot</sg>,;
+<sg>St</sg>,;
+<sg>Gile's Greek, thieves' Latin, peddler's French, flash tongue, Billingsgate, Wall Street slang</sg>,;
+<sg>pseudology</sg>,;
+<sg>pseudonym ,<cref>565 <i>misnomer</i></cref></sg>,;
+<sg>Mr</sg>,;
+<sg>So-and-so</sg>,;
+<sg>wha d'ye call 'em, whatchacallim, what's his name</sg>,;
+<sg>thingummy, thingumbob</sg>,;
+<sg>je ne sais quoi</sg>,;
+<sg>neologist, coiner of words</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>coin words, coin a term</sg>,;
+<sg>backform</sg>,;
+<sg>Americanize, Anglicize</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>neologic, neological</sg>,;
+<sg>archaic</sg>,;
+<sg>obsolete ,<cref>124 <i>old</i></cref></sg>,;
+<sg>colloquial</sg>,;
+<sg>Anglice</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,37 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#28#</sectionNumber>
+<headword>#<b>#[001] #729# Proficient #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>proficient, </i>expert, adept, dab</sg>,;
+<sg>dabster, crackerjack</sg>,;
+<sg>connoisseur ,<cref>492 <i>scholar</i></cref></sg>,;
+<sg>master, master hand</sg>,;
+<sg>prima donna, first fiddle, top gun, chef de cuisine, top sawyer</sg>,;
+<sg>protagonist</sg>,;
+<sg>past master</sg>,;
+<sg>mahatma</sg>,;
+<sg>picked man</sg>,;
+<sg>medallist, prizeman</sg>,;
+<sg>veteran</sg>,;
+<sg>old stager, old campaigner, old soldier, old file, old hand</sg>,;
+<sg>man of business, man of the world</sg>,;
+<sg>nice hand, good hand, clean hand</sg>,;
+<sg>practiced hand, experienced eye, experienced hand</sg>,;
+<sg>marksman</sg>,;
+<sg>good shot, dead shot, crack shot</sg>,;
+<sg>ropedancer, funambulist, acrobat</sg>,;
+<sg>cunning man</sg>,;
+<sg>conjuror ,<cref>548 <i>deceiver</i></cref></sg>,;
+<sg>wizard ,<cref> 994 <i>atonement</i></cref></sg>,;
+<sg>genius</sg>,;
+<sg>mastermind, master head, master spirit</sg>,;
+<sg>cunning blade, sharp blade, sharp fellow</sg>,;
+<sg>jobber</sg>,;
+<sg>cracksman ,<cref>792 <i>thief</i></cref></sg>,;
+<sg>politician, tactician, strategist</sg>,;
+<sg>pantologist, admirable Crichton, Jack of all trades</sg>,;
+<sg>prodigy of learning</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,30 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#14#</sectionNumber>
+<headword>#<b>#[001] #355# Plain #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>plain, </i>table-land, face of the country</sg>,;
+<sg>open country, champaign country</sg>,;
+<sg>basin, downs, waste, weary waste, desert, wild, steppe, pampas, savanna, prairie, heath, common, wold, veldt</sg>,;
+<sg>moor, moorland</sg>,;
+<sg>bush</sg>,;
+<sg>plateau ,<cref>213 <i>level</i></cref></sg>,;
+<sg>campagna</sg>,;
+<sg>alkali flat, llano</sg>,;
+<sg>mesa, mesilla, playa</sg>,;
+<sg>shaking prairie, trembling prairie</sg>,;
+<sg>vega</sg>,;
+<sg>meadow, mead, haugh, pasturage, park, field, lawn, green, plat, plot, grassplat, greensward, sward, turf, sod, heather</sg>,;
+<sg>lea, ley, lay</sg>,;
+<sg>grounds</sg>,;
+<sg>maidan, agostadero</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>champaign, alluvial</sg>,;
+<sg>campestral, campestrial, campestrian, campestrine</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,32 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#24#</sectionNumber>
+<headword>#<b>#[001] #560# Messenger #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>messenger, </i>envoy, emissary, legate</sg>,;
+<sg>nuncio, internuncio</sg>,;
+<sg>ambassador ,<cref>758 <i>diplomatist</i></cref></sg>,;
+<sg>marshal, flag bearer, herald, crier, trumpeter, bellman, pursuivant, parlementaire, apparitor</sg>,;
+<sg>courier, runner</sg>,;
+<sg>dak, estafette</sg>,;
+<sg>Mercury, Iris, Ariel</sg>,;
+<sg>commissionaire</sg>,;
+<sg>errand boy, chore boy</sg>,;
+<sg>newsboy</sg>,;
+<sg>mail, overnight mail, express mail, next-day delivery</sg>,;
+<sg>post, post office</sg>,;
+<sg>letter bag</sg>,;
+<sg>delivery service</sg>,;
+<sg>United Parcel Service, UPS</sg>,;
+<sg>Federal Express, Fedex</sg>,;
+<sg>telegraph, telephone</sg>,;
+<sg>cable, wire (electronic information transmission)</sg>,;
+<sg>carrier pigeon</sg>,;
+<sg>(news) 532 reporter, gentleman of the press, representative of the press</sg>,;
+<sg>penny-a-liner</sg>,;
+<sg>special correspondent, own correspondent</sg>,;
+<sg>spy, scout</sg>,;
+<sg>informer ,<cref> 527 <i>insanity</i></cref></sg>,;
+<br>
+</paragraph>

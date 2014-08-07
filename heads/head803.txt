@@ -1,0 +1,64 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#33#</sectionNumber>
+<headword>#<b>#[001] #803# Security #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>security</i></sg>,;
+<sg>guaranty, guarantee</sg>,;
+<sg>gage, warranty, bond, tie, pledge, plight, mortgage, collateral, debenture, hypothecation, bill of sale, lien, pawn, pignoration</sg>,;
+<sg>real security</sg>,;
+<sg>vadium</sg>,;
+<sg>stake, deposit, earnest, handsel, caution</sg>,;
+<sg>promissory note</sg>,;
+<sg>bill, bill of exchange</sg>,;
+<sg>I</sg>,;
+<sg>O</sg>,;
+<sg>U</sg>,;
+<sg>personal security, covenant, specialty</sg>,;
+<sg>parole ,<cref>768 <i>promise</i></cref></sg>,;
+<sg>acceptance, indorsement, signature, execution, stamp, seal</sg>,;
+<sg>sponsor, cosponsor, sponsion, sponsorship</sg>,;
+<sg>surety, bail</sg>,;
+<sg>mainpernor, hostage</sg>,;
+<sg>godchild, godfather, godmother</sg>,;
+<sg>recognizance</sg>,;
+<sg>deed of indemnity, covenant of indemnity</sg>,;
+<sg>authentication, verification, warrant, certificate, voucher, docket, doquet</sg>,;
+<sg>record ,<cref> 551 <i>implication</i></cref></sg>,;
+<sg>probate, attested copy</sg>,;
+<sg>receipt</sg>,;
+<sg>acquittance, quittance</sg>,;
+<sg>discharge, release</sg>,;
+<sg>muniment, title deed, instrument</sg>,;
+<sg>deed, deed poll</sg>,;
+<sg>assurance, indenture</sg>,;
+<sg>charter ,<cref>769 <i>compact</i></cref></sg>,;
+<sg>charter poll</sg>,;
+<sg>paper, parchment, settlement, will, testament, last will and testament, codicil</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>give security, give bail, give substantial bail</sg>,;
+<sg>go bail</sg>,;
+<sg>pawn, impawn, spout, mortgage, hypothecate, impignorate</sg>,;
+<sg>guarantee, warrant, warrantee, assure</sg>,;
+<sg>accept, indorse, underwrite, insure</sg>,;
+<sg>cosign, countersign, sponsor, cosponsor</sg>,;
+<sg>execute, stamp</sg>,;
+<sg>sign, seal ,<cref>467 <i>evidence</i></cref></sg>,;
+<sg>let, sett</sg>,;
+<sg>grant a lease, take a lease, hold a lease</sg>,;
+<sg>hold in pledge</sg>,;
+<sg>lend on security ,<cref> 787 <i>abrogation</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>bonis avibus</sg>,;
+<sg>gone where the woodbine twineth</sg>,;
+<br>
+</paragraph>

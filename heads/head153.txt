@@ -1,0 +1,35 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#7#</sectionNumber>
+<headword>#<b>#[001] #153# Revolution #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>revolution, </i>bouleversement, subversion, break up</sg>,;
+<sg>destruction ,<cref> 162 <i>attribution</i></cref></sg>,;
+<sg>sudden change, radical change, sweeping organic change</sg>,;
+<sg>change of state, phase change</sg>,;
+<sg>quantum leap, quantum jump</sg>,;
+<sg>clean sweep, coup d'etat, counter revolution</sg>,;
+<sg>jump, leap, plunge, jerk, start, transilience</sg>,;
+<sg>explosion</sg>,;
+<sg>spasm, convulsion, throe, revulsion</sg>,;
+<sg>storm, earthquake, cataclysm</sg>,;
+<sg>legerdemain ,<cref>545 <i>trick</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>revolutionize</sg>,;
+<sg>new model, remodel, recast</sg>,;
+<sg>strike out something new, break with the past</sg>,;
+<sg>change the face of, unsex</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>unrecognizable</sg>,;
+<sg>revolutionary</sg>,;
+<br>
+</paragraph>

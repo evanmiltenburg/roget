@@ -1,0 +1,107 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#27#</sectionNumber>
+<headword>#<b>#[001] #677# Goodness #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>goodness</i></sg>,;
+<sg>excellence, merit</sg>,;
+<sg>virtue ,<cref> 944 <i>celibacy</i></cref></sg>,;
+<sg>value, worth, price</sg>,;
+<sg>super-excellence, supereminence</sg>,;
+<sg>superiority ,<cref> 33 <i>greatness</i></cref></sg>,;
+<sg>perfection ,<cref> 650 <i>chance</i></cref></sg>,;
+<sg>coup de maitre</sg>,;
+<sg>masterpiece, chef d'ouvre, prime, flower, cream, elite, pick, A 1, nonesuch, nonpareil, creme de la creme, flower of the flock, cock of the roost, salt of the earth</sg>,;
+<sg>champion</sg>,;
+<sg>prodigy</sg>,;
+<sg>tidbit</sg>,;
+<sg>gem, gem of the first water</sg>,;
+<sg>bijou, precious stone, jewel, pearl, diamond, ruby, brilliant, treasure</sg>,;
+<sg>good thing</sg>,;
+<sg>rara avis, one in a thousand</sg>,;
+<sg>beneficence ,<cref> 906 <i>dislike</i></cref></sg>,;
+<sg>good man ,<cref> 948 <i>malediction</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be beneficial</sg>,;
+<sg>produce good, do good ,<cref> 618 <i>correspondence</i></cref></sg>,;
+<sg>profit ,<cref>644 <i>be of use</i></cref></sg>,;
+<sg>benefit</sg>,;
+<sg>confer a benefit ,<cref> 618 <i>correspondence</i></cref></sg>,;
+<sg>be the making of, do a world of good, make a man of</sg>,;
+<sg>produce a good effect</sg>,;
+<sg>do a good turn, confer an obligation</sg>,;
+<sg>improve ,<cref> 658 <i>circuit</i></cref></sg>,;
+<sg>do no harm, break no bones</sg>,;
+<sg>be good</sg>,;
+<sg>excel, transcend ,<cref>33 <i>be superior</i></cref></sg>,;
+<sg>bear away the bell</sg>,;
+<sg>stand the proof, stand the test</sg>,;
+<sg>pass muster, pass an examination</sg>,;
+<sg>challenge comparison, vie, emulate, rival</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>harmless, hurtless</sg>,;
+<sg>unobnoxious, innocuous, innocent, inoffensive</sg>,;
+<sg>beneficial, valuable, of value</sg>,;
+<sg>serviceable ,<cref>644 <i>useful</i></cref></sg>,;
+<sg>advantageous, edifying, profitable</sg>,;
+<sg>salutary ,<cref>656 <i>healthful</i></cref></sg>,;
+<sg>favorable</sg>,;
+<sg>propitious ,<cref>858 <i>hope-giving</i></cref></sg>,;
+<sg>fair</sg>,;
+<sg>good, good as gold</sg>,;
+<sg>excellent</sg>,;
+<sg>better</sg>,;
+<sg>superior ,<cref> 33 <i>greatness</i></cref></sg>,;
+<sg>above par</sg>,;
+<sg>nice, fine</sg>,;
+<sg>genuine ,<cref>494 <i>true</i></cref></sg>,;
+<sg>best, choice, select, picked, elect, recherche, rare, priceless</sg>,;
+<sg>unparagoned, unparalleled ,<cref>33 <i>supreme</i></cref></sg>,;
+<sg>superlatively ,<cref> 33 <i>greatness</i></cref></sg>,;
+<sg>good</sg>,;
+<sg>bully, crackajack, giltedged</sg>,;
+<sg>superfine, superexcellent</sg>,;
+<sg>of the first water</sg>,;
+<sg>first-rate, first-class</sg>,;
+<sg>high- wrought, exquisite, very best, crack, prime, tiptop, capital, cardinal</sg>,;
+<sg>standard ,<cref>650 <i>perfect</i></cref></sg>,;
+<sg>inimitable</sg>,;
+<sg>admirable, estimable</sg>,;
+<sg>praiseworthy ,<cref>931 <i>approve</i></cref></sg>,;
+<sg>pleasing ,<cref> 829 <i>sale</i></cref></sg>,;
+<sg>couleur de rose, precious, of great price</sg>,;
+<sg>costly ,<cref>814 <i>dear</i></cref></sg>,;
+<sg>worth its weight in gold, worth a Jew's eye</sg>,;
+<sg>priceless, invaluable, inestimable, precious as the apple of the eye</sg>,;
+<sg>tolerable ,<cref>651 <i>not very good</i></cref></sg>,;
+<sg>up to the mark, unexceptionable, unobjectionable</sg>,;
+<sg>satisfactory, tidy</sg>,;
+<sg>in good condition, in fair condition</sg>,;
+<sg>fresh</sg>,;
+<sg>sound ,<cref>650 <i>perfect</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>beneficially</sg>,;
+<sg>well ,<cref> 618 <i>correspondence</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>Jewels five words long</sg>,;
+<sg>long may such goodness live!</sg>,;
+<sg>the luxury of doing good</sg>,;
+<br>
+</paragraph>

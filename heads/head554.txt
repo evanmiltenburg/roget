@@ -1,0 +1,168 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#24#</sectionNumber>
+<headword>#<b>#[001] #554# Concealment #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>concealment</i></sg>,;
+<sg>hiding</sg>,;
+<sg>occultation, mystification</sg>,;
+<sg>seal of secrecy</sg>,;
+<sg>screen ,<cref> 530 <i>oblivion</i></cref></sg>,;
+<sg>disguise ,<cref> 530 <i>oblivion</i></cref></sg>,;
+<sg>masquerade</sg>,;
+<sg>masked battery</sg>,;
+<sg>hiding place ,<cref> 530 <i>oblivion</i></cref></sg>,;
+<sg>cryptography, steganography</sg>,;
+<sg>freemasonry</sg>,;
+<sg>stealth, stealthiness, sneakiness</sg>,;
+<sg>obreption</sg>,;
+<sg>slyness ,<cref>702 <i>cunning</i></cref></sg>,;
+<sg>latitancy, latitation</sg>,;
+<sg>seclusion ,<cref> 893 <i>fop</i></cref></sg>,;
+<sg>privacy, secrecy, secretness</sg>,;
+<sg>incognita</sg>,;
+<sg>reticence</sg>,;
+<sg>reserve</sg>,;
+<sg>mental reserve, reservation</sg>,;
+<sg>arriere pensee, suppression, evasion, white lie, misprision</sg>,;
+<sg>silence ,<cref>585 <i>taciturnity</i></cref></sg>,;
+<sg>suppression of truth ,<cref> 544 <i>unintelligibility</i></cref></sg>,;
+<sg>underhand dealing</sg>,;
+<sg>closeness, secretiveness</sg>,;
+<sg>mystery</sg>,;
+<sg>latency ,<cref> 526 <i>sanity</i></cref></sg>,;
+<sg>snake in the grass</sg>,;
+<sg>secret ,<cref> 533 <i>disappointment</i></cref></sg>,;
+<sg>stowaway</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>conceal, hide, secrete, put out of sight</sg>,;
+<sg>lock up, seal up, bottle up</sg>,;
+<sg>encrypt, encode, cipher</sg>,;
+<sg>cover, screen, cloak, veil, shroud</sg>,;
+<sg>cover up one's tracks</sg>,;
+<sg>screen from sight, screen from observation</sg>,;
+<sg>drawing the veil</sg>,;
+<sg>draw the curtain, close the curtain</sg>,;
+<sg>curtain, shade, eclipse, throw a view over</sg>,;
+<sg>be cloud, be mask</sg>,;
+<sg>mask, disguise</sg>,;
+<sg>ensconce, muffle, smother</sg>,;
+<sg>befog</sg>,;
+<sg>whisper</sg>,;
+<sg>keep from</sg>,;
+<sg>keep back, keep to oneself</sg>,;
+<sg>keep snug, keep close, keep secret, keep dark</sg>,;
+<sg>bury</sg>,;
+<sg>sink, suppress</sg>,;
+<sg>keep from, keep from out of view, keep from out of sight</sg>,;
+<sg>keep in the shade, throw into the shade, throw into background</sg>,;
+<sg>stifle, hush up, smother, withhold, reserve</sg>,;
+<sg>fence with a question</sg>,;
+<sg>ignore ,<cref> 460 <i>vision</i></cref></sg>,;
+<sg>keep a secret, keep one's own counsel</sg>,;
+<sg>hold one's tongue ,<cref>585 <i>silence</i></cref></sg>,;
+<sg>make no sign, not let it go further</sg>,;
+<sg>not breathe a word, not breathe a syllable about</sg>,;
+<sg>not let the right hand know what the left is doing</sg>,;
+<sg>hide one's light under a bushel, bury one's talent in a napkin</sg>,;
+<sg>keep in the dark, leave in the dark, keep in the ignorance</sg>,;
+<sg>blind, blind the eyes</sg>,;
+<sg>blindfold, hoodwink, mystify</sg>,;
+<sg>puzzle ,<cref>475 <i>render uncertain</i></cref></sg>,;
+<sg>bamboozle ,<cref>545 <i>deceive</i></cref></sg>,;
+<sg>be concealed</sg>,;
+<sg>suffer an eclipse</sg>,;
+<sg>retire from sight, couch</sg>,;
+<sg>hide oneself</sg>,;
+<sg>lie hid, lie in perdu, lie in close</sg>,;
+<sg>lie in ambush (ambush) 530</sg>,;
+<sg>seclude oneself ,<cref> 893 <i>fop</i></cref></sg>,;
+<sg>lurk, sneak, skulk, slink, prowl</sg>,;
+<sg>steal into, steal out of, steal by, steal along</sg>,;
+<sg>play at bopeep, play at hide and seek</sg>,;
+<sg>hide in holes and corners</sg>,;
+<sg>still hunt</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>concealed</sg>,;
+<sg>hidden</sg>,;
+<sg>secret, recondite, mystic, cabalistic, occult, dark</sg>,;
+<sg>cryptic, cryptical</sg>,;
+<sg>private, privy, in petto, auricular, clandestine, close, inviolate</sg>,;
+<sg>tortuous</sg>,;
+<sg>behind a screen ,<cref> 530 <i>oblivion</i></cref></sg>,;
+<sg>undercover, under an eclipse</sg>,;
+<sg>in ambush, in hiding, in disguise</sg>,;
+<sg>in a cloud, in a fog, in a mist, in a haze, in a dark corner</sg>,;
+<sg>in the shade, in the dark</sg>,;
+<sg>clouded, wrapped in clouds, wrapt in clouds</sg>,;
+<sg>invisible ,<cref> 447 <i>color</i></cref></sg>,;
+<sg>buried, underground, perdu</sg>,;
+<sg>secluded ,<cref> 893 <i>fop</i></cref></sg>,;
+<sg>undisclosed &c 529, untold ,<cref> 527 <i>insanity</i></cref></sg>,;
+<sg>covert ,<cref>526 <i>latent</i></cref></sg>,;
+<sg>untraceable</sg>,;
+<sg>mysterious ,<cref>519 <i>unintelligible</i></cref></sg>,;
+<sg>irrevealable, inviolable</sg>,;
+<sg>confidential</sg>,;
+<sg>esoteric</sg>,;
+<sg>not to be spoken of</sg>,;
+<sg>unmentionable</sg>,;
+<sg>obreptitious, furtive, stealthy, feline</sg>,;
+<sg>skulking</sg>,;
+<sg>surreptitious, underhand, hole and corner</sg>,;
+<sg>sly ,<cref>702 <i>cunning</i></cref></sg>,;
+<sg>secretive, evasive</sg>,;
+<sg>reserved, reticent, uncommunicative, buttoned up</sg>,;
+<sg>close, close as wax</sg>,;
+<sg>taciturn ,<cref> 585 <i>artist</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>secretly</sg>,;
+<sg>in secret, in private, in one's sleeve, in holes and corners</sg>,;
+<sg>in the dark</sg>,;
+<sg>januis clausis, with closed doors, a huis clos</sg>,;
+<sg>hugger mugger, a la derobee</sg>,;
+<sg>under the cloak of, under the rose, under the table</sg>,;
+<sg>sub rosa, en tapinois, in the background, aside, on the sly, with bated breath, sotto voce, in a whisper, without beat of drum, a la sourdine</sg>,;
+<sg>behind the veil</sg>,;
+<sg>beyond mortal ken, beyond the grave, beyond the veil</sg>,;
+<sg>hid from mortal vision</sg>,;
+<sg>into the eternal secret, into the realms supersensible, into the supreme mystery</sg>,;
+<sg>in confidence, in strict confidence, in strictest confidence</sg>,;
+<sg>confidentially</sg>,;
+<sg>between ourselves, between you and me</sg>,;
+<sg>between you and me and the bedpost</sg>,;
+<sg>entre nous, inter nos, under the seal of secrecy</sg>,;
+<sg>a couvert</sg>,;
+<sg>underhand, by stealth, like a thief in the night</sg>,;
+<sg>stealthily</sg>,;
+<sg>behind the scenes, behind the curtain, behind one's back, behind a screen ,<cref> 530 <i>oblivion</i></cref></sg>,;
+<sg>incognito</sg>,;
+<sg>in camera</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>it must go no further, it will go no further</sg>,;
+<sg>don't tell a soul</sg>,;
+<sg>tell it not in Gath, nobody the wiser</sg>,;
+<sg>alitur vitium vivitque tegendo</sg>,;
+<sg>let it be tenable in your silence still</sg>,;
+<sg>background information, deep background information, deep background</sg>,;
+<sg>background session, backgrounder</sg>,;
+<sg>not for attribution</sg>,;
+<br>
+</paragraph>

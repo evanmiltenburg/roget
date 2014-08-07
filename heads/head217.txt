@@ -1,0 +1,58 @@
+<classNumber>#2#</classNumber>
+<sectionNumber>#10#</sectionNumber>
+<headword>#<b>#[001] #217# Depth #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>depth</i></sg>,;
+<sg>deepness</sg>,;
+<sg>profundity, depression ,<cref>252 <i>concavity</i></cref></sg>,;
+<sg>hollow, pit, shaft, well, crater</sg>,;
+<sg>gulf ,<cref> 198 <i>abode</i></cref></sg>,;
+<sg>bowels of the earth, botttomless pit, hell</sg>,;
+<sg>soundings, depth of water, water, draught, submersion</sg>,;
+<sg>plummet, sound, probe</sg>,;
+<sg>sounding rod, sounding line</sg>,;
+<sg>lead</sg>,;
+<sg>bathymetry</sg>,;
+<sg>sonar, side-looking sonar</sg>,;
+<sg>bathometer</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be deep</sg>,;
+<sg>render deep</sg>,;
+<sg>deepen</sg>,;
+<sg>plunge ,<cref> 310 <i>excretion</i></cref></sg>,;
+<sg>sound, fathom, plumb, cast the lead, heave the lead, take soundings, make soundings</sg>,;
+<sg>dig ,<cref>252 <i>excavate</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>deep, deep seated</sg>,;
+<sg>profound, sunk, buried</sg>,;
+<sg>submerged ,<cref> 310 <i>excretion</i></cref></sg>,;
+<sg>subaqueous, submarine, subterranean, subterraneous, subterrene</sg>,;
+<sg>underground</sg>,;
+<sg>bottomless, soundless, fathomless</sg>,;
+<sg>unfathomed, unfathomable</sg>,;
+<sg>abysmal</sg>,;
+<sg>deep as a well</sg>,;
+<sg>bathycolpian</sg>,;
+<sg>benthal, benthopelagic</sg>,;
+<sg>downreaching, yawning</sg>,;
+<sg>knee deep, ankle deep</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>beyond one's depth, out of one's depth</sg>,;
+<sg>over head and ears</sg>,;
+<sg>mark twine, mark twain</sg>,;
+<br>
+</paragraph>

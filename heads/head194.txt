@@ -1,0 +1,41 @@
+<classNumber>#2#</classNumber>
+<sectionNumber>#9#</sectionNumber>
+<headword>#<b>#[001] #194# Displacement #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>displacement, </i>elocation, transposition</sg>,;
+<sg>ejectment ,<cref> 297 <i>approach</i></cref></sg>,;
+<sg>exile ,<cref>893 <i>banishment</i></cref></sg>,;
+<sg>removal ,<cref>270 <i>transference</i></cref></sg>,;
+<sg>misplacement, dislocation ,<cref> 61 <i>order</i></cref></sg>,;
+<sg>fish out of water</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>displace, misplace, displant, dislodge, disestablish</sg>,;
+<sg>exile ,<cref>893 <i>seclude</i></cref></sg>,;
+<sg>ablegate, set aside, remove</sg>,;
+<sg>take away, cart away</sg>,;
+<sg>take off, draft off</sg>,;
+<sg>lade ,<cref> 184 <i>tendency</i></cref></sg>,;
+<sg>unload, empty ,<cref>297 <i>eject</i></cref></sg>,;
+<sg>transfer ,<cref> 270 <i>furrow</i></cref></sg>,;
+<sg>dispel</sg>,;
+<sg>vacate</sg>,;
+<sg>depart ,<cref> 293 <i>progression</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>displaced</sg>,;
+<sg>unplaced, unhoused, unharbored, unestablished, unsettled</sg>,;
+<sg>houseless, homeless</sg>,;
+<sg>out of place, out of a situation</sg>,;
+<sg>in the wrong place</sg>,;
+<sg>misplaced, out of its element</sg>,;
+<br>
+</paragraph>

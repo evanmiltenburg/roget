@@ -1,0 +1,26 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#33#</sectionNumber>
+<headword>#<b>#[001] #806# Compromise #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>compromise, </i>commutation, composition</sg>,;
+<sg>middle term, mezzo termine</sg>,;
+<sg>compensation ,<cref> 30 <i>inequality</i></cref></sg>,;
+<sg>abatement of differences, adjustment, mutual concession</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>compromise, commute, compound</sg>,;
+<sg>take the mean</sg>,;
+<sg>split the difference, meet one halfway, give and take</sg>,;
+<sg>come to terms ,<cref>769 <i>contract</i></cref></sg>,;
+<sg>submit to arbitration, abide by arbitration</sg>,;
+<sg>patch up, bridge over, arrange</sg>,;
+<sg>straighten out, adjust, differences, agree</sg>,;
+<sg>make the best of, make a virtue of necessity</sg>,;
+<sg>take the will for the deed</sg>,;
+<br>
+</paragraph>

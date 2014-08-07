@@ -1,0 +1,73 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#28#</sectionNumber>
+<headword>#<b>#[001] #724# Advice #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>advice, </i>counsel, adhortation</sg>,;
+<sg>word to the wise</sg>,;
+<sg>suggestion, submonition, recommendation, advocacy</sg>,;
+<sg>advisement</sg>,;
+<sg>exhortation ,<cref>615 <i>persuasion</i></cref></sg>,;
+<sg>expostulation ,<cref>616 <i>dissuasion</i></cref></sg>,;
+<sg>admonition ,<cref>668 <i>warning</i></cref></sg>,;
+<sg>guidance ,<cref>693 <i>direction</i></cref></sg>,;
+<sg>instruction, charge, injunction, obtestation</sg>,;
+<sg>Governor's message, President's message</sg>,;
+<sg>King's message, Queen's speech</sg>,;
+<sg>message, speech from the throne</sg>,;
+<sg>adviser, prompter</sg>,;
+<sg>counsel, counselor</sg>,;
+<sg>monitor, mentor, Nestor, magnus Apollo, senator</sg>,;
+<sg>teacher ,<cref> 540 <i>imagination</i></cref></sg>,;
+<sg>guide, manual, chart ,<cref>527 <i>information</i></cref></sg>,;
+<sg>physician, doctor, leech, archiater</sg>,;
+<sg>arbiter ,<cref>967 <i>judge</i></cref></sg>,;
+<sg>reference, referment</sg>,;
+<sg>consultation, conference, pourparler</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>advise, counsel</sg>,;
+<sg>give advice, give counsel, give a piece of advice</sg>,;
+<sg>suggest, prompt, submonish, recommend, prescribe, advocate</sg>,;
+<sg>exhort ,<cref>615 <i>persuade</i></cref></sg>,;
+<sg>enjoin, enforce, charge, instruct, call</sg>,;
+<sg>call upon ,<cref>765 <i>request</i></cref></sg>,;
+<sg>dictate</sg>,;
+<sg>expostulate ,<cref>616 <i>dissuade</i></cref></sg>,;
+<sg>admonish ,<cref>668 <i>warn</i></cref></sg>,;
+<sg>advise with</sg>,;
+<sg>lay heads together, consult together</sg>,;
+<sg>compare notes</sg>,;
+<sg>hold a council, deliberate, be closeted with</sg>,;
+<sg>confer, consult, refer to, call in</sg>,;
+<sg>take advice, follow advice</sg>,;
+<sg>be advised by, have at one's elbow, take one's cue from</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>recommendatory</sg>,;
+<sg>hortative ,<cref>615 <i>persuasive</i></cref></sg>,;
+<sg>dehortatory ,<cref>616 <i>dissuasive</i></cref></sg>,;
+<sg>admonitory ,<cref>668 <i>warning</i></cref></sg>,;
+<sg>Int</sg>,;
+<sg>go to!,</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>give every man thine ear but few thy voice</sg>,;
+<sg>I pray thee cease thy counsel</sg>,;
+<sg>my guide, philosopher, and friend</sg>,;
+<sg>'twas good advice and meant, my son be good</sg>,;
+<sg>verbum sat sapienti, a word to the wise is sufficient</sg>,;
+<sg>vive memor leti</sg>,;
+<sg>we, ask advice but we mean approbation</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,54 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#34#</sectionNumber>
+<headword>#<b>#[001] #857# Parsimony #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>parsimony, </i>parcity</sg>,;
+<sg>parsimoniousness, stinginess</sg>,;
+<sg>stint</sg>,;
+<sg>illiberality, tenacity</sg>,;
+<sg>avarice, greed ,<cref> 817 <i>giving</i></cref></sg>,;
+<sg>1</sg>,;
+<sg>miser, niggard, churl, screw, skinflint, crib, codger, muckworm, scrimp, lickpenny, hunks, curmudgeon, Harpagon, harpy, extortioner, Jew, usurer</sg>,;
+<sg>Hessian</sg>,;
+<sg>pinch fist, pinch penny</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be parsimonious</sg>,;
+<sg>grudge, begrudge, stint, pinch, gripe, screw, dole out, hold back, withhold, starve, famish, live upon nothing, skin a flint</sg>,;
+<sg>drive a bargain, drive a hard bargain</sg>,;
+<sg>cheapen, beat down</sg>,;
+<sg>stop one hole in a sieve</sg>,;
+<sg>have an itching palm, grasp, grab</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>parsimonious, penurious, stingy, miserly, mean, shabby, peddling, scrubby, penny wise, near, niggardly, close</sg>,;
+<sg>fast handed, close handed, strait handed</sg>,;
+<sg>close fisted, hard fisted, tight fisted</sg>,;
+<sg>tight, sparing</sg>,;
+<sg>chary</sg>,;
+<sg>grudging, griping</sg>,;
+<sg>illiberal, ungenerous, churlish, hidebound, sordid, mercenary, venal, covetous, usurious, avaricious, greedy, extortionate, rapacious</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>with a sparing hand</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>desunt inopioe multa avaritiae omnia</sg>,;
+<sg>hoards after hoards his rising raptures fill</sg>,;
+<sg>the unsunn'd heaps of miser's treasures</sg>,;
+<br>
+</paragraph>

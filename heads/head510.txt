@@ -1,0 +1,57 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#20#</sectionNumber>
+<headword>#<b>#[001] #510# Credulity #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>credulity, </i>credulousness</sg>,;
+<sg>cullibility, gullibility</sg>,;
+<sg>gross credulity, infatuation</sg>,;
+<sg>self delusion, self deception</sg>,;
+<sg>superstition</sg>,;
+<sg>one's blind side</sg>,;
+<sg>bigotry ,<cref>606 <i>obstinacy</i></cref></sg>,;
+<sg>hyperorthodoxy ,<cref> 984 <i>disinterestedness</i></cref></sg>,;
+<sg>misjudgment ,<cref> 481 <i>inquiry</i></cref></sg>,;
+<sg>credulous person ,<cref>547 <i>dupe</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be credulous</sg>,;
+<sg>jurare in verba magistri</sg>,;
+<sg>follow implicitly</sg>,;
+<sg>swallow, gulp down</sg>,;
+<sg>take on trust</sg>,;
+<sg>take for granted, take for gospel</sg>,;
+<sg>run away with a notion, run away with an idea</sg>,;
+<sg>jump to a conclusion, rush to a conclusion</sg>,;
+<sg>think the moon is made of green cheese</sg>,;
+<sg>take for granted, grasp the shadow for the substance</sg>,;
+<sg>catch at straws, grasp at straws</sg>,;
+<sg>impose upon ,<cref>545 <i>deceive</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>credulous, gullible</sg>,;
+<sg>easily deceived ,<cref> 545 <i>equivocalness</i></cref></sg>,;
+<sg>simple, green, soft, childish, silly, stupid</sg>,;
+<sg>easily convinced</sg>,;
+<sg>over-credulous, over confident, over trustful</sg>,;
+<sg>infatuated, superstitious</sg>,;
+<sg>confiding ,<cref>484 <i>believing</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>the wish the father to the thought</sg>,;
+<sg>credo quia impossibile</sg>,;
+<sg>all is not gold that glitters</sg>,;
+<sg>no es oro todo lo que reluce</sg>,;
+<sg>omne ignotum pro magnifico</sg>,;
+<br>
+</paragraph>

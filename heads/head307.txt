@@ -1,0 +1,40 @@
+<classNumber>#2#</classNumber>
+<sectionNumber>#12#</sectionNumber>
+<headword>#<b>#[001] #307# Reception #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>reception</i></sg>,;
+<sg>admission, admittance, entree, importation</sg>,;
+<sg>introduction, intromission</sg>,;
+<sg>immission, ingestion, imbibation, introception, absorption, ingurgitation, inhalation</sg>,;
+<sg>suction, sucking</sg>,;
+<sg>eating, drinking ,<cref>298 <i>food</i></cref></sg>,;
+<sg>insertion ,<cref> 300 <i>repulsion</i></cref></sg>,;
+<sg>interjection ,<cref> 228 <i>inversion</i></cref></sg>,;
+<sg>introit</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>give entrance to, give admittance to, give the entree</sg>,;
+<sg>introduce, intromit</sg>,;
+<sg>usher, admit, receive, import, bring in, open the door to, throw in, ingest, absorb, imbibe, inhale, breathe in</sg>,;
+<sg>let in, take in, suck in, draw in</sg>,;
+<sg>readmit, resorb, reabsorb</sg>,;
+<sg>snuff up, swallow, ingurgitate</sg>,;
+<sg>engulf, engorge</sg>,;
+<sg>gulp</sg>,;
+<sg>eat, drink ,<cref>298 <i>food</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>admitting</sg>,;
+<sg>, admitted</sg>,;
+<sg>admissable</sg>,;
+<sg>absorbent</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,53 @@
+<classNumber>#2#</classNumber>
+<sectionNumber>#11#</sectionNumber>
+<headword>#<b>#[001] #250# Form #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>form, </i>figure, shape</sg>,;
+<sg>conformation, configuration</sg>,;
+<sg>make, formation, frame, construction, cut, set, build, trim, cut of one's jib</sg>,;
+<sg>stamp, type, cast, mold</sg>,;
+<sg>fashion</sg>,;
+<sg>contour ,<cref>230 <i>outline</i></cref></sg>,;
+<sg>structure ,<cref> 329 <i>world</i></cref></sg>,;
+<sg>plasmature</sg>,;
+<sg>feature, lineament, turn</sg>,;
+<sg>phase ,<cref>448 <i>aspect</i></cref></sg>,;
+<sg>posture, attitude, pose</sg>,;
+<sg>morphism</sg>,;
+<sg>isomorphism</sg>,;
+<sg>forming</sg>,;
+<sg>formation, figuration, efformation</sg>,;
+<sg>sculpture</sg>,;
+<sg>plasmation</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>form, shape, figure, fashion, efform, carve, cut, chisel, hew, cast</sg>,;
+<sg>rough hew, rough cast</sg>,;
+<sg>sketch</sg>,;
+<sg>block out, hammer out</sg>,;
+<sg>trim</sg>,;
+<sg>lick into shape, put into shape</sg>,;
+<sg>model, knead, work up into, set, mold, sculpture</sg>,;
+<sg>cast, stamp</sg>,;
+<sg>build ,<cref>161 <i>construct</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>formed</sg>,;
+<sg>plastic, fictile</sg>,;
+<sg>formative</sg>,;
+<sg>fluid</sg>,;
+<sg>plasmic</sg>,;
+<sg>isomorphous</sg>,;
+<sg>pleomorphic</sg>,;
+<sg>protean</sg>,;
+<sg>changeable, ,<cref> 149 <i>cessation</i></cref></sg>,;
+<br>
+</paragraph>

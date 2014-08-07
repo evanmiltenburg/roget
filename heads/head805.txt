@@ -1,0 +1,40 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#33#</sectionNumber>
+<headword>#<b>#[001] #805# Nonobservance #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>nonobservance</i> ,<cref> 772 <i>command</i></cref></sg>,;
+<sg>evasion, inobservance, failure, omission, neglect, laches, laxity, informality</sg>,;
+<sg>infringement, infraction</sg>,;
+<sg>violation, transgression</sg>,;
+<sg>piracy</sg>,;
+<sg>retraction, retractation, repudiation, nullification</sg>,;
+<sg>protest</sg>,;
+<sg>forfeiture</sg>,;
+<sg>lawlessness</sg>,;
+<sg>disobedience ,<cref> 742 <i>discord</i></cref></sg>,;
+<sg>bad faith ,<cref> 940 <i>irascibility</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>fail, neglect, omit, elude, evade, give the go-by to, set aside, ignore</sg>,;
+<sg>shut one's eyes to, close one's eyes to</sg>,;
+<sg>infringe, transgress, violate, pirate, break, trample under foot, do violence to, drive a coach and six through</sg>,;
+<sg>discard, protest, repudiate, fling to the winds, set at naught, nullify, declare null and void</sg>,;
+<sg>cancel ,<cref>552 <i>wipe off</i></cref></sg>,;
+<sg>retract, go back from, be off, forfeit, go from one's word, palter</sg>,;
+<sg>stretch a point, strain a point</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>violating</sg>,;
+<sg>lawless, transgressive</sg>,;
+<sg>elusive, evasive</sg>,;
+<sg>unfulfilled &c (fulfill) ,<cref> 772 <i>command</i></cref></sg>,;
+<br>
+</paragraph>

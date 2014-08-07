@@ -1,0 +1,83 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#17#</sectionNumber>
+<headword>#<b>#[001] #489# Measurement #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>measurement, </i>admeasurement, mensuration, survey, valuation, appraisement, assessment, assize</sg>,;
+<sg>estimate, estimation</sg>,;
+<sg>dead reckoning, reckoning ,<cref>85 <i>numeration</i></cref></sg>,;
+<sg>gauging</sg>,;
+<sg>horse power</sg>,;
+<sg>metrology, weights and measures, compound arithmetic</sg>,;
+<sg>measure, yard measure, standard, rule, foot rule, compass, calipers</sg>,;
+<sg>gage, gauge</sg>,;
+<sg>meter, line, rod, check</sg>,;
+<sg>dividers</sg>,;
+<sg>velo</sg>,;
+<sg>flood mark, high water mark</sg>,;
+<sg>Plimsoll line</sg>,;
+<sg>index ,<cref> 550 <i>manifestation</i></cref></sg>,;
+<sg>scale</sg>,;
+<sg>graduation, graduated scale</sg>,;
+<sg>nonius</sg>,;
+<sg>vernier ,<cref>193 <i>minuteness</i></cref></sg>,;
+<sg>bathometer, galvanometer, heliometer, interferometer, odometer, ombrometer, pantometer, pluviometer, pneumatometer, pneumometer, radiometer, refractometer, respirometer, rheometer, spirometer, telemeter, udometer, vacuometer, variometer, viameter, thermometer, thermistor (heat) &c 382, barometer (air) ,<cref> 338 <i>tenacity</i></cref>, anemometer (wind) 349, dynamometer, goniometer, (angle) 244 meter</sg>,;
+<sg>landmark ,<cref>233 <i>limit</i></cref></sg>,;
+<sg>balance, scale ,<cref>319 <i>weight</i></cref></sg>,;
+<sg>marigraph, pneumatograph, stethograph</sg>,;
+<sg>rain gauge, rain gage</sg>,;
+<sg>voltmeter (volts), ammeter (amps)</sg>,;
+<sg>spectrophotometer (light absorbance)</sg>,;
+<sg>mass spectrophotometer (molecular mass)</sg>,;
+<sg>geiger counter, scintillation counter (radioactivity)</sg>,;
+<sg>pycnometer (liquid density)</sg>,;
+<sg>graduated cylinder, volumetric flask (volume)</sg>,;
+<sg>radar gun (velocity)</sg>,;
+<sg>radar (distance)</sg>,;
+<sg>side-looking radar, (shape, topography)</sg>,;
+<sg>sonar (depth in water)</sg>,;
+<sg>light meter (light intensity)</sg>,;
+<sg>clock, watch, stopwatch, chronometer (time)</sg>,;
+<sg>anemometer (wind velocity)</sg>,;
+<sg>densitometer (color intensity)</sg>,;
+<sg>measurability, computability, determinability</sg>,;
+<sg>coordinates, ordinate and abscissa, polar coordinates, latitude and longitude, declination and right ascension, altitude and azimuth</sg>,;
+<sg>geometry, stereometry, hypsometry</sg>,;
+<sg>metage</sg>,;
+<sg>surveying, land surveying</sg>,;
+<sg>geodesy, geodetics, geodesia</sg>,;
+<sg>orthometry, altimetry</sg>,;
+<sg>cadastre</sg>,;
+<sg>astrolabe, armillary sphere</sg>,;
+<sg>land surveyor</sg>,;
+<sg>geometer</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>measure, mete</sg>,;
+<sg>determine, assay</sg>,;
+<sg>evaluate, value, assess, rate, appraise, estimate, form an estimate, set a value on</sg>,;
+<sg>appreciate</sg>,;
+<sg>standardize</sg>,;
+<sg>span, pace step</sg>,;
+<sg>apply the compass</sg>,;
+<sg>gauge, plumb, probe, sound, fathom</sg>,;
+<sg>heave the log, heave the lead</sg>,;
+<sg>survey</sg>,;
+<sg>weigh</sg>,;
+<sg>take an average ,<cref> 29 <i>equality</i></cref></sg>,;
+<sg>graduate</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>measuring</sg>,;
+<sg>metric, metrical</sg>,;
+<sg>measurable, perceptible, noticeable, detectable, appreciable, ponderable, determinable, fathomable</sg>,;
+<sg>geodetical, topographic, topographical, cartographic, cartographical</sg>,;
+<br>
+</paragraph>

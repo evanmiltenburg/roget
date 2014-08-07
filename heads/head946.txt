@@ -1,0 +1,94 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#37#</sectionNumber>
+<headword>#<b>#[001] #946# Benevolence #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>benevolence, </i>Christian charity</sg>,;
+<sg>God's love, God's grace</sg>,;
+<sg>good will</sg>,;
+<sg>philanthropy ,<cref> 910 <i>expectance</i></cref></sg>,;
+<sg>unselfishness ,<cref> 942 <i>endearment</i></cref></sg>,;
+<sg>good nature, good feeling, good wishes</sg>,;
+<sg>kindness, kindliness</sg>,;
+<sg>loving-kindness, benignity, brotherly love, charity, humanity, fellow-feeling, sympathy</sg>,;
+<sg>goodness of heart, warmth of heart</sg>,;
+<sg>bonhomie</sg>,;
+<sg>kind-heartedness</sg>,;
+<sg>amiability, milk of human kindness, tenderness</sg>,;
+<sg>love ,<cref> 897 <i>hope</i></cref></sg>,;
+<sg>friendship ,<cref> 888 <i>simplicity</i></cref></sg>,;
+<sg>toleration, consideration, generosity</sg>,;
+<sg>mercy ,<cref>914 <i>pity</i></cref></sg>,;
+<sg>charitableness</sg>,;
+<sg>bounty, almsgiving</sg>,;
+<sg>good works, beneficence, the luxury of doing good</sg>,;
+<sg>acts of kindness, a good turn</sg>,;
+<sg>good offices, kind offices good treatment, kind treatment</sg>,;
+<sg>good Samaritan, sympathizer, bon enfant</sg>,;
+<sg>altruist</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be benevolent</sg>,;
+<sg>have one's heart in the right place, bear good will</sg>,;
+<sg>wish well, wish Godspeed</sg>,;
+<sg>view with an eye of favor, regard with an eye of favor</sg>,;
+<sg>take in good part</sg>,;
+<sg>take an interest in, feel an interest in</sg>,;
+<sg>be interested in, feel interested in</sg>,;
+<sg>sympathize with, empathize with, feel for</sg>,;
+<sg>fraternize ,<cref>888 <i>be friendly</i></cref></sg>,;
+<sg>enter into the feelings of others, do as you would be done by, meet halfway</sg>,;
+<sg>treat well</sg>,;
+<sg>give comfort, smooth the bed of death</sg>,;
+<sg>do good, do a good turn</sg>,;
+<sg>benefit ,<cref>648 <i>goodness</i></cref></sg>,;
+<sg>render a service, be of use</sg>,;
+<sg>aid ,<cref> 707 <i>disuse</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>benevolent</sg>,;
+<sg>kind, kindly</sg>,;
+<sg>well-meaning</sg>,;
+<sg>amiable</sg>,;
+<sg>obliging, accommodating, indulgent, gracious, complacent, good-humored</sg>,;
+<sg>warm-hearted, kind-hearted, tender-hearted, large-hearted, broad- hearted</sg>,;
+<sg>merciful ,<cref> 914 <i>nobility</i></cref></sg>,;
+<sg>charitable, beneficent, humane, benignant</sg>,;
+<sg>bounteous, bountiful</sg>,;
+<sg>good-natured, well-natured</sg>,;
+<sg>spleenless</sg>,;
+<sg>sympathizing, sympathetic</sg>,;
+<sg>complaisant ,<cref>894 <i>courteous</i></cref></sg>,;
+<sg>well-meant, well-intentioned</sg>,;
+<sg>fatherly, motherly, brotherly, sisterly</sg>,;
+<sg>paternal, maternal, fraternal</sg>,;
+<sg>sororal</sg>,;
+<sg>friendly ,<cref> 888 <i>simplicity</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>with a good intention, with the best intentions</sg>,;
+<sg>Int</sg>,;
+<sg>Godspeed!, much good may it do!,</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>act a charity sometimes</sg>,;
+<sg>a tender heart, a will inflexible</sg>,;
+<sg>de mortuis nil nisi bonum, say only good things about the dead, don't speak ill of the dead</sg>,;
+<sg>kind words are more than coronets</sg>,;
+<sg>quando amigo pide no hay manana</sg>,;
+<sg>the social smile, the sympathetic tear</sg>,;
+<br>
+</paragraph>

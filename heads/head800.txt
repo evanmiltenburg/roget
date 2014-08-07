@@ -1,0 +1,16 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#33#</sectionNumber>
+<headword>#<b>#[001] #800# Release from engagement #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>release from engagement, </i>release ,<cref>750 <i>liberation</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>absolute</sg>,;
+<sg>unconditional ,<cref>748 <i>free</i></cref></sg>,;
+<br>
+</paragraph>

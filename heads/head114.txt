@@ -1,0 +1,10 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#6#</sectionNumber>
+<headword>#<b>#[001] #114# Contingent Duration #</b>#</headword>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>during pleasure, during good behavior</sg>,;
+<sg>quamdiu se bene gesserit</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,74 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#31#</sectionNumber>
+<headword>#<b>#[001] #776# Master #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>master, </i>padrone</sg>,;
+<sg>lord, lord paramount</sg>,;
+<sg>commander, commandant</sg>,;
+<sg>captain</sg>,;
+<sg>chief, chieftain</sg>,;
+<sg>sirdar, sachem, sheik, head, senior, governor, ruler, dictator</sg>,;
+<sg>leader ,<cref>694 <i>director</i></cref></sg>,;
+<sg>boss, cockarouse, sagamore, werowance</sg>,;
+<sg>lord of the ascendant</sg>,;
+<sg>cock of the walk, cock of the roost</sg>,;
+<sg>gray mare</sg>,;
+<sg>mistress</sg>,;
+<sg>potentate</sg>,;
+<sg>liege, liege lord</sg>,;
+<sg>suzerain, sovereign, monarch, autocrat, despot, tyrant, oligarch</sg>,;
+<sg>crowned head, emperor, king, anointed king, majesty, imperator, protector, president, stadholder, judge</sg>,;
+<sg>ceasar, kaiser, czar, tsar, sultan, soldan, grand Turk, caliph, imaum, shah, padishah, sophi, mogul, great mogul, khan, lama, tycoon, mikado, tenno, inca, cazique</sg>,;
+<sg>voivode</sg>,;
+<sg>landamman</sg>,;
+<sg>seyyid</sg>,;
+<sg>Abuna, cacique, czarowitz, grand seignior</sg>,;
+<sg>prince, duke ,<cref>875 <i>nobility</i></cref></sg>,;
+<sg>archduke, doge, elector</sg>,;
+<sg>seignior</sg>,;
+<sg>marland, margrave</sg>,;
+<sg>rajah, emir, wali, sheik nizam, nawab</sg>,;
+<sg>empress, queen, sultana, czarina, princess, infanta, duchess, margravine</sg>,;
+<sg>czarevna, czarita</sg>,;
+<sg>maharani, rani, rectrix</sg>,;
+<sg>regent, viceroy, exarch, palatine, khedive, hospodar, beglerbeg, three-tailed bashaw, pasha, bashaw, bey, beg, dey, scherif, tetrarch, satrap, mandarin, subahdar, nabob, maharajah</sg>,;
+<sg>burgrave</sg>,;
+<sg>laird ,<cref>779 <i>proprietor</i></cref></sg>,;
+<sg>collector, commissioner, deputy commissioner, woon</sg>,;
+<sg>the authorities, the powers that be, the government</sg>,;
+<sg>staff, etat major, aga, official, man in office, person in authority</sg>,;
+<sg>sircar, sirkar, Sublime Porte</sg>,;
+<sg>marshal, field marshal, marechal</sg>,;
+<sg>general, generalissimo</sg>,;
+<sg>commander in chief, seraskier, hetman</sg>,;
+<sg>lieutenant general, major general</sg>,;
+<sg>colonel, lieutenant colonel, major, captain, centurion, skipper, lieutenant, first lieutenant, second lieutenant, sublieutenant, officer, staff officer, aide-de-camp, brigadier, brigade major, adjutant, jemidar, ensign, cornet, cadet, subaltern, noncommissioned officer, warrant officer</sg>,;
+<sg>sergeant, sergeant major</sg>,;
+<sg>color sergeant</sg>,;
+<sg>corporal, corporal major</sg>,;
+<sg>lance corporal, acting corporal</sg>,;
+<sg>drum major</sg>,;
+<sg>captain general, dizdar, knight marshal, naik, pendragon</sg>,;
+<sg>mayor, mayoralty</sg>,;
+<sg>prefect, chancellor, archon, provost, magistrate, syndic</sg>,;
+<sg>alcalde, alcaid</sg>,;
+<sg>burgomaster, corregidor, seneschal, alderman, councilman, committeeman, councilwoman, warden, constable, portreeve</sg>,;
+<sg>lord mayor</sg>,;
+<sg>officer ,<cref>965 <i>executive</i></cref></sg>,;
+<sg>dewan, fonctionnaire</sg>,;
+<sg>admiral, admiralty</sg>,;
+<sg>rear admiral, vice admiral, port admiral</sg>,;
+<sg>commodore, captain, commander, lieutenant, ensign, skipper, mate, master, officer of the day, OD</sg>,;
+<sg>navarch</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>da locum melioribus</sg>,;
+<sg>der Furst ist der erste Diener seines Staats, the prince is the first servant of his state</sg>,;
+<sg>lord of thy presence and no land beside</sg>,;
+<br>
+</paragraph>

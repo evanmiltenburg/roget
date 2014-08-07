@@ -1,0 +1,57 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#37#</sectionNumber>
+<headword>#<b>#[001] #941# Sullenness #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>sullenness</i></sg>,;
+<sg>morosity, spleen</sg>,;
+<sg>churlishness ,<cref>895 <i>discourtesy</i></cref></sg>,;
+<sg>irascibility ,<cref> 901 <i>cowardice</i></cref></sg>,;
+<sg>moodiness</sg>,;
+<sg>perversity</sg>,;
+<sg>obstinacy ,<cref> 606 <i>voice</i></cref></sg>,;
+<sg>torvity, spinosity</sg>,;
+<sg>crabbedness</sg>,;
+<sg>ill temper, bad temper, ill humor, bad humor</sg>,;
+<sg>sulks, dudgeon, mumps, dumps, doldrums, fit of the sulks, bouderie, black looks, scowl</sg>,;
+<sg>grouch</sg>,;
+<sg>huff ,<cref>900 <i>resentment</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be sullen</sg>,;
+<sg>sulk</sg>,;
+<sg>frown, scowl, lower, glower, gloam, pout, have a hangdog look, glout</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>sullen, sulky</sg>,;
+<sg>ill-tempered, ill-humored, ill-affected, ill- disposed</sg>,;
+<sg>grouty</sg>,;
+<sg>in an ill temper, in a bad temper, in a shocking temper, in an ill humor, in a bad humor, in a shocking humor</sg>,;
+<sg>out of temper, out of humor</sg>,;
+<sg>knaggy, torvous, crusty, crabbed</sg>,;
+<sg>sour, sour as a crab</sg>,;
+<sg>surly ,<cref>895 <i>discourteous</i></cref></sg>,;
+<sg>moody</sg>,;
+<sg>spleenish, spleenly</sg>,;
+<sg>splenetic, cankered</sg>,;
+<sg>cross, crossgrained</sg>,;
+<sg>perverse, wayward, humorsome</sg>,;
+<sg>restiff, restive</sg>,;
+<sg>cantankerous, intractable, exceptious, sinistrous, deaf to reason, unaccommodating, rusty, froward</sg>,;
+<sg>cussed</sg>,;
+<sg>dogged ,<cref>606 <i>stubborn</i></cref></sg>,;
+<sg>grumpy, glum, grim, grum, morose, frumpish</sg>,;
+<sg>in the sulks</sg>,;
+<sg>out of sorts</sg>,;
+<sg>scowling, glowering, growling</sg>,;
+<sg>grouchy</sg>,;
+<sg>peevish ,<cref>901 <i>irascible</i></cref></sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,41 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#36#</sectionNumber>
+<headword>#<b>#[001] #888# Simplicity #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>simplicity</i></sg>,;
+<sg>plainness, homeliness</sg>,;
+<sg>undress, chastity</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be simple</sg>,;
+<sg>render simple</sg>,;
+<sg>simplify, uncomplicate</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>simple, plain</sg>,;
+<sg>homely, homespun</sg>,;
+<sg>ordinary, household</sg>,;
+<sg>unaffected</sg>,;
+<sg>ingenuous, sincere (artless) 703</sg>,;
+<sg>free from affectation, free from ornament</sg>,;
+<sg>simplex munditiis</sg>,;
+<sg>sans facon, en deshabille</sg>,;
+<sg>chaste, inornate, severe</sg>,;
+<sg>unadorned, bare, unornamented, undecked, ungarnished, unarranged, untrimmed, unvarnished</sg>,;
+<sg>bald, flat, dull</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>veritatis simplex oratio est</sg>,;
+<br>
+</paragraph>

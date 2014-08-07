@@ -1,0 +1,23 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#39#</sectionNumber>
+<headword>#<b>#[001] #1020# Angel #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>angel, </i>archangel</sg>,;
+<sg>guardian angel</sg>,;
+<sg>heavenly host, host of heaven, sons of God</sg>,;
+<sg>seraph, seraphim</sg>,;
+<sg>cherub, cherubim</sg>,;
+<sg>ministering spirit, morning star</sg>,;
+<sg>saint, patron saint, Madonna</sg>,;
+<sg>invisible helpers</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>angelic, seraphic, cherubic</sg>,;
+<sg>saintly</sg>,;
+<br>
+</paragraph>

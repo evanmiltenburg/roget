@@ -1,0 +1,94 @@
+<classNumber>#2#</classNumber>
+<sectionNumber>#11#</sectionNumber>
+<headword>#<b>#[001] #255# Curvature #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>curvature, </i>curvity, curvation</sg>,;
+<sg>incurvature, incurvity</sg>,;
+<sg>incurvation</sg>,;
+<sg>bend</sg>,;
+<sg>flexure, flexion, flection</sg>,;
+<sg>conflexure</sg>,;
+<sg>crook, hook, bought, bending</sg>,;
+<sg>deflection, deflexion</sg>,;
+<sg>inflection, inflexion</sg>,;
+<sg>concameration</sg>,;
+<sg>arcuation, devexity, turn, deviation, detour, sweep</sg>,;
+<sg>curl, curling</sg>,;
+<sg>bough</sg>,;
+<sg>recurvity, recurvation</sg>,;
+<sg>sinuosity ,<cref> 248 <i>dextrality</i></cref></sg>,;
+<sg>kink</sg>,;
+<sg>carve, arc, arch, arcade, vault, bow, crescent, half-moon, lunule, horseshoe, loop, crane neck</sg>,;
+<sg>parabola, hyperbola</sg>,;
+<sg>helix, spiral</sg>,;
+<sg>catenary, festoon</sg>,;
+<sg>conchoid, cardioid</sg>,;
+<sg>caustic</sg>,;
+<sg>tracery</sg>,;
+<sg>arched ceiling, arched roof</sg>,;
+<sg>bay window, bow window</sg>,;
+<sg>sine curve</sg>,;
+<sg>spline, spline curve, spline function</sg>,;
+<sg>obliquity ,<cref> 217 <i>depth</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be curved,</sg>,;
+<sg>curve, sweep, sway, swag, sag</sg>,;
+<sg>deviate ,<cref> 279 <i>traveler</i></cref></sg>,;
+<sg>curl, turn</sg>,;
+<sg>reenter</sg>,;
+<sg>render curved</sg>,;
+<sg>flex, bend, curve, incurvate</sg>,;
+<sg>inflect</sg>,;
+<sg>deflect, scatter</sg>,;
+<sg>refract (light) 420</sg>,;
+<sg>crook</sg>,;
+<sg>turn, round, arch, arcuate, arch over, concamerate</sg>,;
+<sg>bow, curl, recurve, frizzle</sg>,;
+<sg>rotundity ,<cref> 249 <i>sinistrality</i></cref></sg>,;
+<sg>convexity ,<cref> 250 <i>form</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>curved</sg>,;
+<sg>curviform, curvilineal, curvilinear</sg>,;
+<sg>devex, devious</sg>,;
+<sg>recurved, recurvous</sg>,;
+<sg>crump</sg>,;
+<sg>bowed</sg>,;
+<sg>vaulted, hooked</sg>,;
+<sg>falciform, falcated</sg>,;
+<sg>semicircular, crescentic</sg>,;
+<sg>sinusoid, parabolic, paraboloid</sg>,;
+<sg>luniform, lunular</sg>,;
+<sg>semilunar, conchoidal</sg>,;
+<sg>helical, double helical, spiral</sg>,;
+<sg>kinky</sg>,;
+<sg>cordiform, cordated</sg>,;
+<sg>cardioid</sg>,;
+<sg>heart shaped, bell shaped, boat shaped, crescent shaped, lens shaped, moon shaped, oar shaped, shield shaped, sickle shaped, tongue shaped, pear shaped, fig shaped</sg>,;
+<sg>kidney-shaped, reniform</sg>,;
+<sg>lentiform, lenticular</sg>,;
+<sg>bow-legged ,<cref>243 <i>distorted</i></cref></sg>,;
+<sg>oblique ,<cref> 217 <i>depth</i></cref></sg>,;
+<sg>circular ,<cref> 247 <i>contraposition</i></cref></sg>,;
+<sg>aduncated, arclike, arcuate, arched, beaked</sg>,;
+<sg>bicorn, bicornuous, bicornute</sg>,;
+<sg>clypeate, clypeiform</sg>,;
+<sg>cymbiform, embowed, galeiform</sg>,;
+<sg>hamate, hamiform, hamous</sg>,;
+<sg>hooked</sg>,;
+<sg>linguiform, lingulate</sg>,;
+<sg>lobiform, lunate, navicular, peltate, remiform, rhamphoid</sg>,;
+<sg>rostrate, rostriferous, rostroid</sg>,;
+<sg>scutate, scaphoid, uncate</sg>,;
+<sg>unguiculate, unguiform</sg>,;
+<br>
+</paragraph>

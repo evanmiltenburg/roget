@@ -1,0 +1,86 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#34#</sectionNumber>
+<headword>#<b>#[001] #817# Giving #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>giving</i></sg>,;
+<sg>bestowal, bestowment, donation</sg>,;
+<sg>presentation, presentment</sg>,;
+<sg>accordance</sg>,;
+<sg>concession</sg>,;
+<sg>delivery, consignment, dispensation, communication, endowment</sg>,;
+<sg>investment, investiture</sg>,;
+<sg>award</sg>,;
+<sg>almsgiving, charity, liberality, generosity</sg>,;
+<sg>gift, donation, present, cadeau</sg>,;
+<sg>fairing</sg>,;
+<sg>free gift, boon, favor, benefaction, grant, offering, oblation, sacrifice, immolation</sg>,;
+<sg>lagniappe, pilon</sg>,;
+<sg>grace, act of grace, bonus</sg>,;
+<sg>allowance, contribution, subscription, subsidy, tribute, subvention</sg>,;
+<sg>bequest, legacy, devise, will, dotation, dot, appanage</sg>,;
+<sg>voluntary settlement, voluntary conveyance ,<cref> 783 <i>prison</i></cref></sg>,;
+<sg>amortization</sg>,;
+<sg>alms, largess, bounty, dole, sportule, donative, help, oblation, offertory, honorarium, gratuity, Peter pence, sportula, Christmas box, Easter offering, vail, douceur, drink money, pourboire, trinkgeld, bakshish</sg>,;
+<sg>fee ,<cref>973 <i>recompense</i></cref></sg>,;
+<sg>consideration</sg>,;
+<sg>bribe, bait, ground bait</sg>,;
+<sg>peace offering, handsel</sg>,;
+<sg>boodle, graft, grease</sg>,;
+<sg>blat</sg>,;
+<sg>giver, grantor</sg>,;
+<sg>donor, feoffer, settlor</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>deliver, hand, pass, put into the hands of</sg>,;
+<sg>hand over, make over, deliver over, pass over, turn over</sg>,;
+<sg>assign dower</sg>,;
+<sg>present, give away, dispense, dispose of</sg>,;
+<sg>give out, deal out, dole out, mete out, fork out, squeeze out</sg>,;
+<sg>pay ,<cref> 807 <i>acquisition</i></cref></sg>,;
+<sg>render, impart, communicate</sg>,;
+<sg>concede, cede, yield, part with, shed, cast</sg>,;
+<sg>spend ,<cref> 809 <i>possession</i></cref></sg>,;
+<sg>give, bestow, confer, grant, accord, award, assign</sg>,;
+<sg>intrust, consign, vest in</sg>,;
+<sg>make a present</sg>,;
+<sg>allow, contribute, subscribe, furnish its quota</sg>,;
+<sg>invest, endow, settle upon</sg>,;
+<sg>bequeath, leave, devise</sg>,;
+<sg>furnish, supply, help</sg>,;
+<sg>administer to</sg>,;
+<sg>afford, spare</sg>,;
+<sg>accommodate with, indulge with, favor with</sg>,;
+<sg>shower down upon</sg>,;
+<sg>lavish, pour on, thrust upon</sg>,;
+<sg>tip, bribe</sg>,;
+<sg>tickle the palm, grease the palm</sg>,;
+<sg>offer ,<cref> 763 <i>prosperity</i></cref></sg>,;
+<sg>sacrifice, immolate</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>giving</sg>,;
+<sg>given</sg>,;
+<sg>allowed, allowable</sg>,;
+<sg>concessional</sg>,;
+<sg>communicable</sg>,;
+<sg>charitable, eleemosynary, sportulary, tributary</sg>,;
+<sg>gratis ,<cref> 815 <i>relinquishment</i></cref></sg>,;
+<sg>donative</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>auctor pretiosa facit</sg>,;
+<sg>ex dono</sg>,;
+<sg>res est ingeniosa dare</sg>,;
+<br>
+</paragraph>

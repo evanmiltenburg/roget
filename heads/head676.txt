@@ -1,0 +1,55 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#27#</sectionNumber>
+<headword>#<b>#[001] #676# Inexpedience #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>inexpedience, </i>inexpediency</sg>,;
+<sg>undesirableness, undesirability</sg>,;
+<sg>discommodity, impropriety</sg>,;
+<sg>unfitness ,<cref>24 <i>disagreement</i></cref></sg>,;
+<sg>inutility ,<cref> 645 <i>dissuasion</i></cref></sg>,;
+<sg>disadvantage</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be inexpedient</sg>,;
+<sg>come amiss ,<cref>24 <i>disagree</i></cref></sg>,;
+<sg>embarrass ,<cref>706 <i>hinder</i></cref></sg>,;
+<sg>put to inconvenience</sg>,;
+<sg>pay too dear for one's whistle</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>inexpedient, undesirable</sg>,;
+<sg>unadvisable, inadvisable</sg>,;
+<sg>objectionable</sg>,;
+<sg>inapt, ineligible, inadmissible, inconvenient</sg>,;
+<sg>incommodious, discommodious</sg>,;
+<sg>disadvantageous</sg>,;
+<sg>inappropriate, unfit ,<cref>24 <i>inconsonant</i></cref></sg>,;
+<sg>ill-contrived, ill-advised</sg>,;
+<sg>unsatisfactory</sg>,;
+<sg>unprofitable </sg>,;
+<sg>unsubservient ,<cref>645 <i>useless</i></cref></sg>,;
+<sg>inopportune ,<cref>135 <i>unseasonable</i></cref></sg>,;
+<sg>out of place, in the wrong place</sg>,;
+<sg>improper, unseemly</sg>,;
+<sg>clumsy, awkward</sg>,;
+<sg>cumbrous, cumbersome</sg>,;
+<sg>lumbering, unwieldy, hulky</sg>,;
+<sg>unmanageable ,<cref>704 <i>impracticable</i></cref></sg>,;
+<sg>impedient ,<cref>706 <i>in the way</i></cref></sg>,;
+<sg>unnecessary ,<cref>641 <i>redundant</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>it will never do</sg>,;
+<br>
+</paragraph>

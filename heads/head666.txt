@@ -1,0 +1,47 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#27#</sectionNumber>
+<headword>#<b>#[001] #666# Provision #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>provision, </i>supply</sg>,;
+<sg>grist, grist for the mill</sg>,;
+<sg>subvention ,<cref>707 <i>aid</i></cref></sg>,;
+<sg>resources ,<cref>632 <i>means</i></cref></sg>,;
+<sg>groceries, grocery</sg>,;
+<sg>providing</sg>,;
+<sg>purveyance</sg>,;
+<sg>reinforcement, reenforcement</sg>,;
+<sg>commissariat</sg>,;
+<sg>provender ,<cref>298 <i>food</i></cref></sg>,;
+<sg>ensilage</sg>,;
+<sg>viaticum</sg>,;
+<sg>caterer, purveyor, commissary, quartermaster, manciple, feeder, batman, victualer, grocer, comprador, restaurateur</sg>,;
+<sg>jackal, pelican</sg>,;
+<sg>sutler ,<cref>797 <i>merchant</i></cref></sg>,;
+<sg>grocery shop, grocery store</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>provide</sg>,;
+<sg>make provision, make due provision for</sg>,;
+<sg>lay in, lay in a stock, lay in a store</sg>,;
+<sg>supply, suppeditate</sg>,;
+<sg>furnish</sg>,;
+<sg>find, find one in</sg>,;
+<sg>arm</sg>,;
+<sg>cater, victual, provision, purvey, forage</sg>,;
+<sg>beat up for</sg>,;
+<sg>stock, stock with</sg>,;
+<sg>make good, replenish</sg>,;
+<sg>fill, fill up</sg>,;
+<sg>recruit, feed</sg>,;
+<sg>have in store, have in reserve</sg>,;
+<sg>keep, keep by one, keep on foot, keep on hand</sg>,;
+<sg>have to fall back upon</sg>,;
+<sg>store ,<cref> 636 <i>choice</i></cref></sg>,;
+<sg>provide against a rainy day ,<cref>817 <i>economy</i></cref></sg>,;
+<br>
+</paragraph>

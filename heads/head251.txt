@@ -1,0 +1,34 @@
+<classNumber>#2#</classNumber>
+<sectionNumber>#11#</sectionNumber>
+<headword>#<b>#[001] #251# Amorphism #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>amorphism, </i>informity</sg>,;
+<sg>unlicked cub</sg>,;
+<sg>rudis indigestaque moles</sg>,;
+<sg>disorder ,<cref> 59 <i>component</i></cref></sg>,;
+<sg>deformity ,<cref> 243 <i>limit</i></cref></sg>,;
+<sg>disfigurement, defacement</sg>,;
+<sg>mutilation</sg>,;
+<sg>deforming</sg>,;
+<sg>chaos, randomness (disorder) 59</sg>,;
+<sg>fluid ,<cref> 333 <i>rarity</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>deface, disfigure, deform, mutilate, truncate</sg>,;
+<sg>derange ,<cref> 61 <i>order</i></cref></sg>,;
+<sg>blemish, mar</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>shapeless, amorphous, formless</sg>,;
+<sg>unformed, unhewn, unfashioned, unshaped, unshapen</sg>,;
+<sg>rough, rude, Gothic, barbarous, rugged</sg>,;
+<br>
+</paragraph>

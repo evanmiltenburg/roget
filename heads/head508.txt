@@ -1,0 +1,136 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#20#</sectionNumber>
+<headword>#<b>#[001] #508# Belief #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>belief</i></sg>,;
+<sg>credence</sg>,;
+<sg>credit</sg>,;
+<sg>assurance</sg>,;
+<sg>faith, trust, troth, confidence, presumption, sanguine expectation ,<cref>858 <i>hope</i></cref></sg>,;
+<sg>dependence on, reliance on</sg>,;
+<sg>persuasion, conviction, convincement, plerophory, self- conviction</sg>,;
+<sg>certainty ,<cref> 474 <i>topic</i></cref></sg>,;
+<sg>opinion, mind, view</sg>,;
+<sg>conception, thinking</sg>,;
+<sg>impression ,<cref>453 <i>idea</i></cref></sg>,;
+<sg>surmise ,<cref> 514 <i>knowledge</i></cref></sg>,;
+<sg>conclusion ,<cref>480 <i>judgment</i></cref></sg>,;
+<sg>tenet, dogma, principle, way of thinking</sg>,;
+<sg>popular belief ,<cref>488 <i>assent</i></cref></sg>,;
+<sg>firm belief, implicit belief, settled belief, fixed rooted deep- rooted belief, staunch belief, unshaken belief, steadfast belief, inveterate belief, calm belief, sober belief, dispassionate belief, impartial belief, well-founded belief, firm opinion, implicit opinion, settled opinion, fixed rooted deep-rooted opinion, staunch opinion, unshaken opinion, steadfast opinion, inveterate opinion, calm opinion, sober opinion, dispassionate opinion, impartial opinion, well-founded opinion </sg>,;
+<sg>uberrima fides</sg>,;
+<sg>system of opinions, school, doctrine, articles, canons</sg>,;
+<sg>article of faith, declaration of faith, profession of faith</sg>,;
+<sg>tenets, credenda, creed</sg>,;
+<sg>thirty-nine articles ,<cref>983 <i>orthodoxy</i></cref></sg>,;
+<sg>1</sg>,;
+<sg>catechism</sg>,;
+<sg>assent ,<cref> 488 <i>identification</i></cref></sg>,;
+<sg>propaganda ,<cref>537 <i>teaching</i></cref></sg>,;
+<sg>credibility ,<cref>472 <i>probability</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>believe, credit</sg>,;
+<sg>give faith to, give credit to, credence to</sg>,;
+<sg>see, realize</sg>,;
+<sg>assume, receive</sg>,;
+<sg>set down for, take for</sg>,;
+<sg>have it, take it</sg>,;
+<sg>consider, esteem, presume</sg>,;
+<sg>count upon, depend upon, calculate upon, pin one's faith upon, reckon upon, lean upon, build upon, rely upon, rest upon</sg>,;
+<sg>lay one's account for</sg>,;
+<sg>make sure of</sg>,;
+<sg>make oneself easy about, on that score</sg>,;
+<sg>take on trust, take on credit</sg>,;
+<sg>take for granted, take for gospel</sg>,;
+<sg>allow some weight to, attach some weight to</sg>,;
+<sg>know, know for certain</sg>,;
+<sg>have know, make no doubt</sg>,;
+<sg>doubt not</sg>,;
+<sg>be, rest assured</sg>,;
+<sg>persuade oneself, assure oneself, satisfy oneself</sg>,;
+<sg>make up one's mind</sg>,;
+<sg>give one credit for</sg>,;
+<sg>confide in, believe in, put one's trust in</sg>,;
+<sg>place in, repose in, implicit confidence in</sg>,;
+<sg>take one's word for, at one's word</sg>,;
+<sg>place reliance on, rely upon, swear by, regard to</sg>,;
+<sg>think, hold</sg>,;
+<sg>take, take it</sg>,;
+<sg>opine, be of opinion, conceive, trow, ween, fancy, apprehend</sg>,;
+<sg>have it, hold a belief, possess, entertain a belief, adopt a belief, imbibe a belief, embrace a belief, get hold of a belief, hazard, foster, nurture a belief, cherish a belief, have an opinion, hold an opinion, possess, entertain an opinion, adopt an opinion, imbibe an opinion, embrace an opinion, get hold of an opinion, hazard an opinion, foster an opinion, nurture an opinion, cherish an opinion</sg>,;
+<sg>view as, consider as, take as, hold as, conceive as, regard as, esteem as, deem as, look upon as, account as, set down as</sg>,;
+<sg>surmise ,<cref> 514 <i>knowledge</i></cref></sg>,;
+<sg>get it into one's head, take it into one's head</sg>,;
+<sg>come round to an opinion</sg>,;
+<sg>swallow ,<cref>486 <i>credulity</i></cref></sg>,;
+<sg>cause to be believed</sg>,;
+<sg>satisfy, persuade, have the ear of, gain the confidence of, assure</sg>,;
+<sg>convince, convict, convert</sg>,;
+<sg>wean, bring round</sg>,;
+<sg>bring over, win over</sg>,;
+<sg>indoctrinate ,<cref>537 <i>teach</i></cref></sg>,;
+<sg>cram down the throat</sg>,;
+<sg>produce conviction, carry conviction</sg>,;
+<sg>bring home to, drive home to</sg>,;
+<sg>go down, find credence, pass current</sg>,;
+<sg>be received</sg>,;
+<sg>, be current</sg>,;
+<sg>possess, take hold of, take possession of the mind</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>believing</sg>,;
+<sg>certain, sure, assured, positive, cocksure, satisfied, confident, unhesitating, convinced, secure</sg>,;
+<sg>under the impression</sg>,;
+<sg>impressed with, imbued with, penetrated with</sg>,;
+<sg>confiding, suspectless</sg>,;
+<sg>unsuspecting, unsuspicious</sg>,;
+<sg>void of suspicion</sg>,;
+<sg>credulous ,<cref> 486 <i>discrimination</i></cref></sg>,;
+<sg>wedded to</sg>,;
+<sg>believed</sg>,;
+<sg>accredited, putative</sg>,;
+<sg>unsuspected</sg>,;
+<sg>worthy of, deserving of, commanding belief</sg>,;
+<sg>credible, reliable, trustworthy, to be depended on</sg>,;
+<sg>satisfactory</sg>,;
+<sg>probably ,<cref> 472 <i>incogitancy</i></cref></sg>,;
+<sg>fiducial, fiduciary</sg>,;
+<sg>persuasive, impressive</sg>,;
+<sg>relating to belief, doctrinal</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>in the opinion of, in the eyes of</sg>,;
+<sg>me judice</sg>,;
+<sg>meseems, methinks</sg>,;
+<sg>to the best of one's belief</sg>,;
+<sg>I dare say, I doubt not, I have no doubt, I am sure</sg>,;
+<sg>sure enough ,<cref>474 <i>certainty</i></cref></sg>,;
+<sg>depend upon, rely upon it</sg>,;
+<sg>be assured, rest assured</sg>,;
+<sg>I'll warrant you ,<cref>535 <i>affirmation</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>experto crede</sg>,;
+<sg>fata viam invenient</sg>,;
+<sg>Justitiae soror incorrupta Fides</sg>,;
+<sg>live to explain thy doctrine by thy life</sg>,;
+<sg>stands not within the prospect of belief</sg>,;
+<sg>tarde quae credita laedunt credimus</sg>,;
+<sg>vide et crede</sg>,;
+<br>
+</paragraph>

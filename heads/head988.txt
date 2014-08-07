@@ -1,0 +1,65 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#38#</sectionNumber>
+<headword>#<b>#[001] #988# Innocence #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>innocence</i></sg>,;
+<sg>guiltlessness</sg>,;
+<sg>incorruption, impeccability</sg>,;
+<sg>clean hands, clear conscience, mens sibi conscia recti</sg>,;
+<sg>innocent, lamb, dove</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be innocent</sg>,;
+<sg>nil conscire sibi nulla pallescere culpa</sg>,;
+<sg>acquit ,<cref> 970 <i>respect</i></cref></sg>,;
+<sg>exculpate ,<cref>937 <i>vindicate</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>innocent, not guilty</sg>,;
+<sg>unguilty</sg>,;
+<sg>guiltless, faultless, sinless, stainless, bloodless, spotless</sg>,;
+<sg>clear, immaculate</sg>,;
+<sg>rectus in curia</sg>,;
+<sg>unspotted, unblemished, unerring</sg>,;
+<sg>undefiled ,<cref> 939 <i>resentment</i></cref></sg>,;
+<sg>unhardened, Saturnian</sg>,;
+<sg>Arcadian ,<cref>703 <i>artless</i></cref></sg>,;
+<sg>inculpable, unculpable</sg>,;
+<sg>unblamed, unblamable</sg>,;
+<sg>blameless, unfallen, inerrable, above suspicion</sg>,;
+<sg>irreproachable, irreprovable, irreprehensible</sg>,;
+<sg>unexceptionable, unobjectionable, unimpeachable</sg>,;
+<sg>salvable</sg>,;
+<sg>venial ,<cref> 937 <i>hate</i></cref></sg>,;
+<sg>harmless</sg>,;
+<sg>inoffensive, innoxious, innocuous</sg>,;
+<sg>dove-like, lamb-like</sg>,;
+<sg>pure, harmless as doves</sg>,;
+<sg>innocent as a lamb, innocent as the babe unborn</sg>,;
+<sg>more sinned against than sinning</sg>,;
+<sg>virtuous ,<cref> 944 <i>celibacy</i></cref></sg>,;
+<sg>unreproved, unimpeached, unreproached</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>innocently</sg>,;
+<sg>with clean hands</sg>,;
+<sg>with a clear conscience, with a safe conscience</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>murus aeneus conscientia sana</sg>,;
+<br>
+</paragraph>

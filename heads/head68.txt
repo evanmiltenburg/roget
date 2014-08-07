@@ -1,0 +1,37 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#4#</sectionNumber>
+<headword>#<b>#[001] #68# Precursor #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>precursor, </i>antecedent, precedent, predecessor</sg>,;
+<sg>forerunner, vancourier, avant-coureur, pioneer, prodrome, prodromos, prodromus, outrider</sg>,;
+<sg>leader, bellwether</sg>,;
+<sg>herald, harbinger</sg>,;
+<sg>foreboding</sg>,;
+<sg>dawn</sg>,;
+<sg>avant-courier, avant-garde, bellmare, forelooper, foreloper, stalking-horse, voorlooper, voortrekker</sg>,;
+<sg>prelude, preamble, preface, prologue, foreword, avant-propos, protasis, proemium, prolusion, proem, prolepsis, prolegomena, prefix, introduction</sg>,;
+<sg>heading, frontispiece, groundwork</sg>,;
+<sg>preparation ,<cref> 673 <i>utility</i></cref></sg>,;
+<sg>overture, exordium, symphony</sg>,;
+<sg>premises</sg>,;
+<sg>prefigurement ,<cref> 511 <i>incredulity</i></cref></sg>,;
+<sg>omen ,<cref> 512 <i>assent</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>precursory</sg>,;
+<sg>prelusive, prelusory, preludious</sg>,;
+<sg>proemial, introductory, prefatory, prodromous, inaugural, preliminary</sg>,;
+<sg>precedent ,<cref>116 <i>prior</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>a precedent embalms a principle</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,32 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#38#</sectionNumber>
+<headword>#<b>#[001] #993# Impenitence #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>impenitence, </i>irrepentance, recusance</sg>,;
+<sg>lack of contrition</sg>,;
+<sg>hardness of heart, seared conscience, induration, obduracy</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be impenitent</sg>,;
+<sg>steel the heart, harden the heart</sg>,;
+<sg>die game, die and make no sign, die unshriven, die without benefit of clergy</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>impenitent, uncontrite, obdurate</sg>,;
+<sg>hard, hardened</sg>,;
+<sg>seared, recusant</sg>,;
+<sg>unrepentant</sg>,;
+<sg>relentless, remorseless, graceless, shriftless</sg>,;
+<sg>lost, incorrigible, irreclaimable</sg>,;
+<sg>unreconstructed, unregenerate, unreformed</sg>,;
+<sg>unrepented, unreclaimed, unatoned</sg>,;
+<br>
+</paragraph>

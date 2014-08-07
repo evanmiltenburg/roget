@@ -1,0 +1,129 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#29#</sectionNumber>
+<headword>#<b>#[001] #746# Defense #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>defense, </i>protection, guard, ward</sg>,;
+<sg>shielding</sg>,;
+<sg>propugnation, preservation ,<cref> 670 <i>redundancy</i></cref></sg>,;
+<sg>guardianship</sg>,;
+<sg>area defense</sg>,;
+<sg>site defense</sg>,;
+<sg>self-defense, self-preservation</sg>,;
+<sg>resistance ,<cref> 719 <i>agent</i></cref></sg>,;
+<sg>safeguard ,<cref>664 <i>safety</i></cref></sg>,;
+<sg>balistraria</sg>,;
+<sg>bunker, screen ,<cref>666 <i>shelter</i></cref></sg>,;
+<sg>camouflage ,<cref>530 <i>concealment</i></cref></sg>,;
+<sg>fortification</sg>,;
+<sg>munition, muniment</sg>,;
+<sg>trench, foxhole</sg>,;
+<sg>bulwark, fosse, moat, ditch, entrenchment, intrenchment</sg>,;
+<sg>kila</sg>,;
+<sg>dike, dyke</sg>,;
+<sg>parapet, sunk fence, embankment, mound, mole, bank, sandbag, revetment</sg>,;
+<sg>earth work, field- work</sg>,;
+<sg>fence, wall dead wall, contravallation</sg>,;
+<sg>paling ,<cref>232 <i>inclosure</i></cref></sg>,;
+<sg>palisade, haha, stockade, stoccado, laager, sangar</sg>,;
+<sg>barrier, barricade</sg>,;
+<sg>boom</sg>,;
+<sg>portcullis, chevaux de frise</sg>,;
+<sg>abatis, abattis, abbatis</sg>,;
+<sg>vallum, circumvallation, battlement, rampart, scarp</sg>,;
+<sg>escarp, counter-scarp</sg>,;
+<sg>glacis, casemate</sg>,;
+<sg>vallation, vanfos</sg>,;
+<sg>buttress, abutment</sg>,;
+<sg>shore ,<cref>215 <i>support</i></cref></sg>,;
+<sg>breastwork, banquette, curtain, mantlet, bastion, redan, ravelin</sg>,;
+<sg>vauntmure</sg>,;
+<sg>advance work, horn work, outwork</sg>,;
+<sg>barbacan, barbican</sg>,;
+<sg>redoubt</sg>,;
+<sg>fort-elage, fort-alice</sg>,;
+<sg>lines</sg>,;
+<sg>loophole, machicolation</sg>,;
+<sg>sally port</sg>,;
+<sg>hold, stronghold, fastness</sg>,;
+<sg>asylum ,<cref>666 <i>refuge</i></cref></sg>,;
+<sg>keep, donjon, dungeon, fortress, citadel, capitol, castle</sg>,;
+<sg>tower of strength, tower of strength</sg>,;
+<sg>fort, barracoon, pah, sconce, martello tower, peelhouse, blockhouse, rath</sg>,;
+<sg>wooden walls</sg>,;
+<sg>bulletproof vest, armored vest, buffer, corner stone, fender, apron, mask, gauntlet, thimble, carapace, armor, shield, buckler, aegis, breastplate, backplate, cowcatcher, face guard, scutum, cuirass, habergeon, mail, coat of mail, brigandine, hauberk, lorication, helmet, helm, bassinet, salade, heaume, morion, murrion, armet, cabaset, vizor, casquetel, siege cap, headpiece, casque, pickelhaube, vambrace, shako ,<cref>225 <i>dress</i></cref></sg>,;
+<sg>bearskin</sg>,;
+<sg>panoply</sg>,;
+<sg>truncheon ,<cref>727 <i>weapon</i></cref></sg>,;
+<sg>garrison, picket, piquet</sg>,;
+<sg>defender, protector</sg>,;
+<sg>guardian ,<cref>664 <i>safety</i></cref></sg>,;
+<sg>bodyguard, champion</sg>,;
+<sg>knight-errant, Paladin</sg>,;
+<sg>propugner</sg>,;
+<sg>bulletproof window</sg>,;
+<sg>hardened site</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>defend, forfend, fend</sg>,;
+<sg>shield, screen, shroud</sg>,;
+<sg>engarrison</sg>,;
+<sg>fend round ,<cref>229 <i>circumscribe</i></cref></sg>,;
+<sg>fence, entrench, intrench</sg>,;
+<sg>guard ,<cref>664 <i>keep safe</i></cref></sg>,;
+<sg>guard against</sg>,;
+<sg>take care of ,<cref>459 <i>vigilance</i></cref></sg>,;
+<sg>bear harmless</sg>,;
+<sg>fend off, keep off, ward off, beat off, beat back</sg>,;
+<sg>hinder ,<cref> 706 <i>use</i></cref></sg>,;
+<sg>parry, repel, propugn, put to flight</sg>,;
+<sg>give a warm reception to</sg>,;
+<sg>hold at bay, keep at bay, keep arm's length</sg>,;
+<sg>stand on the defensive, act on the defensive</sg>,;
+<sg>show fight</sg>,;
+<sg>maintain one's ground, stand one's ground</sg>,;
+<sg>stand by</sg>,;
+<sg>hold one's own</sg>,;
+<sg>bear the brunt, stand the brunt</sg>,;
+<sg>fall back upon, hold, stand in the gap</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>defending</sg>,;
+<sg>defensive</sg>,;
+<sg>mural</sg>,;
+<sg>armed, armed at all points, armed cap-a-pie, armed to the teeth</sg>,;
+<sg>panoplied</sg>,;
+<sg>iron-plated, ironclad</sg>,;
+<sg>loopholed, castellated, machicolated, casemated</sg>,;
+<sg>defended</sg>,;
+<sg>proof against</sg>,;
+<sg>armored, ballproof, bulletproof</sg>,;
+<sg>hardened</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>defensively</sg>,;
+<sg>on the defense, on the defensive</sg>,;
+<sg>in defense</sg>,;
+<sg>at bay, pro aris et focis</sg>,;
+<sg>Int</sg>,;
+<sg>no surrender!,</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>defense not defiance</sg>,;
+<sg>Dieu defend le droit</sg>,;
+<sg>fidei defensor, defender of the faith</sg>,;
+<br>
+</paragraph>

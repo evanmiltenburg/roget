@@ -1,0 +1,21 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#15#</sectionNumber>
+<headword>#<b>#[001] #463# Spectator #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>spectator, </i>beholder, observer, looker-on, onlooker, witness, eyewitness, bystander, passer by</sg>,;
+<sg>sightseer</sg>,;
+<sg>rubberneck, rubbernecker</sg>,;
+<sg>spy</sg>,;
+<sg>sentinel ,<cref>668 <i>warning</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>witness, behold ,<cref>441 <i>see</i></cref></sg>,;
+<sg>look on ,<cref>186 <i>be present</i></cref></sg>,;
+<sg>gawk, rubber, rubberneck</sg>,;
+<br>
+</paragraph>

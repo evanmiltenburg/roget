@@ -1,0 +1,37 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#15#</sectionNumber>
+<headword>#<b>#[001] #455# Yellowness #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>yellowness, </i>yellow</sg>,;
+<sg>or</sg>,;
+<sg>gamboge</sg>,;
+<sg>cadmium-yellow, chrome-yellow, Indian-yellow king's-yellow, lemonyellow</sg>,;
+<sg>orpiment, yellow ocher, Claude tint, aureolin</sg>,;
+<sg>xanthein, xanthin</sg>,;
+<sg>zaofulvin</sg>,;
+<sg>crocus, saffron, topaz</sg>,;
+<sg>xanthite</sg>,;
+<sg>yolk</sg>,;
+<sg>jaundice</sg>,;
+<sg>London fog</sg>,;
+<sg>yellowness</sg>,;
+<sg>icterus</sg>,;
+<sg>xantho- cyanopia, xanthopsia</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>yellow, aureate, golden, flavous, citrine, fallow</sg>,;
+<sg>fulvous, fulvid</sg>,;
+<sg>sallow, luteous, tawny, creamy, sandy</sg>,;
+<sg>xanthic, xanthous</sg>,;
+<sg>jaundiced, auricomous</sg>,;
+<sg>gold-colored, citron-colored, saffron-colored, lemon-colored, lemon yellow, sulphur-colored, amber-colored, straw-colored, primrose- colored, creamcolored</sg>,;
+<sg>xanthocarpous, xanthochroid, xanthopous</sg>,;
+<sg>yellow as a quince, yellow as a guinea, yellow as a crow's foot</sg>,;
+<sg>warm, advancing</sg>,;
+<br>
+</paragraph>

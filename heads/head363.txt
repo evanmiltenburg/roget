@@ -1,0 +1,58 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#14#</sectionNumber>
+<headword>#<b>#[001] #363# Semiliquidity #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>semiliquidity</i></sg>,;
+<sg>stickiness</sg>,;
+<sg>viscidity, viscosity</sg>,;
+<sg>gummosity, glutinosity, mucosity</sg>,;
+<sg>spissitude, crassitude</sg>,;
+<sg>lentor</sg>,;
+<sg>adhesiveness ,<cref>46 <i>cohesion</i></cref></sg>,;
+<sg>inspissation, incrassation</sg>,;
+<sg>thickening</sg>,;
+<sg>jelly, mucilage, gelatin, gluten</sg>,;
+<sg>carlock, fish glue</sg>,;
+<sg>ichthyocol, ichthycolla</sg>,;
+<sg>isinglass</sg>,;
+<sg>mucus, phlegm, goo</sg>,;
+<sg>pituite, lava</sg>,;
+<sg>glair, starch, gluten, albumen, milk, cream, protein</sg>,;
+<sg>treacle</sg>,;
+<sg>gum, size, glue (tenacity) 327</sg>,;
+<sg>wax, beeswax</sg>,;
+<sg>emulsion, soup</sg>,;
+<sg>squash, mud, slush, slime, ooze</sg>,;
+<sg>moisture ,<cref> 339 <i>brittleness</i></cref></sg>,;
+<sg>marsh ,<cref> 345 <i>gaseity</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>inspissate, incrassate</sg>,;
+<sg>thicken, mash, squash, churn, beat up</sg>,;
+<sg>sinter</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>semifluid, semiliquid</sg>,;
+<sg>tremellose</sg>,;
+<sg>half melted, half frozen</sg>,;
+<sg>milky, muddy</sg>,;
+<sg>lacteal, lactean, lacteous, lactescent, lactiferous</sg>,;
+<sg>emulsive, curdled, thick, succulent, uliginous</sg>,;
+<sg>gelatinous, albuminous, mucilaginous, glutinous</sg>,;
+<sg>glutenous, gelatin, mastic, amylaceous, ropy, clammy, clotted</sg>,;
+<sg>viscid, viscous</sg>,;
+<sg>sticky, tacky, gooey</sg>,;
+<sg>slab, slabby</sg>,;
+<sg>lentous, pituitous</sg>,;
+<sg>mucid, muculent, mucous</sg>,;
+<sg>gummy</sg>,;
+<br>
+</paragraph>

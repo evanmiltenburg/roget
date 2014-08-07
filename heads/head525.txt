@@ -1,0 +1,55 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#20#</sectionNumber>
+<headword>#<b>#[001] #525# Fool #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>fool, </i>idiot, tomfool, wiseacre, simpleton, witling, dizzard, donkey, ass</sg>,;
+<sg>ninny, ninnyhammer</sg>,;
+<sg>chowderhead, chucklehead</sg>,;
+<sg>dolt, booby, Tom Noddy, looby, hoddy-doddy, noddy, nonny, noodle, nizy, owl</sg>,;
+<sg>goose, goosecap</sg>,;
+<sg>imbecile</sg>,;
+<sg>gaby</sg>,;
+<sg>radoteur, nincompoop, badaud, zany</sg>,;
+<sg>trifler, babbler</sg>,;
+<sg>pretty fellow</sg>,;
+<sg>natural, niais</sg>,;
+<sg>child, baby, infant, innocent, milksop, sop</sg>,;
+<sg>oaf, lout, loon, lown, dullard, doodle, calf, colt, buzzard, block, put, stick, stock, numps, tony</sg>,;
+<sg>bull head, dunderhead, addlehead, blockhead, dullhead, loggerhead, jolthead, jolterhead, beetlehead, beetlebrain, grosshead, muttonhead, noodlehead, giddyhead</sg>,;
+<sg>numbskull, thickskull</sg>,;
+<sg>lackbrain, shallowbrain</sg>,;
+<sg>dimwit, halfwit, lackwit</sg>,;
+<sg>dunderpate</sg>,;
+<sg>lunkhead sawney, gowk</sg>,;
+<sg>clod, clod-hopper</sg>,;
+<sg>clod-poll, clot-poll, clot-pate</sg>,;
+<sg>bull calf</sg>,;
+<sg>gawk, Gothamite, lummox, rube</sg>,;
+<sg>men of Boeotia, wise men of Gotham</sg>,;
+<sg>un sot a triple etage, sot</sg>,;
+<sg>jobbernowl, changeling, mooncalf, gobemouche</sg>,;
+<sg>dotard, driveler</sg>,;
+<sg>old fogey, old woman, crock</sg>,;
+<sg>crone, grandmother</sg>,;
+<sg>cotquean, henhussy</sg>,;
+<sg>incompetent (insanity) 503</sg>,;
+<sg>greenhorn ,<cref>547 <i>dupe</i></cref></sg>,;
+<sg>dunce ,<cref>493 <i>ignoramus</i></cref></sg>,;
+<sg>lubber ,<cref>701 <i>bungler</i></cref></sg>,;
+<sg>madman ,<cref> 504 <i>discovery</i></cref></sg>,;
+<sg>one who will not set the Thames on fire</sg>,;
+<sg>one who did not invent gunpowder, qui n'a pas invente' la poudre</sg>,;
+<sg>no conjuror</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>fortuna favet fatuis</sg>,;
+<sg>les fous font les festinas et les sages les mangent</sg>,;
+<sg>nomina stultorum parietibus harrent</sg>,;
+<sg>stultorum plena sunt omnia</sg>,;
+<br>
+</paragraph>

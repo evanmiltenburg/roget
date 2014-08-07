@@ -1,0 +1,22 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#32#</sectionNumber>
+<headword>#<b>#[001] #798# Petitioner #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>petitioner, </i>solicitor, applicant</sg>,;
+<sg>suppliant, supplicant</sg>,;
+<sg>suitor, candidate, claimant, postulant, aspirant, competitor, bidder</sg>,;
+<sg>place hunter, pot hunter</sg>,;
+<sg>prizer</sg>,;
+<sg>seeker</sg>,;
+<sg>beggar, mendicant, moocher, panhandler, freeloader, sponger, mumper, sturdy beggar, cadger</sg>,;
+<sg>hotel runner, runner, steerer, tout, touter</sg>,;
+<sg>pauper, homeless person, hobo, bum, tramp, bindle stiff, bo, knight of the road (poverty) 804</sg>,;
+<sg>hippie, flower child</sg>,;
+<sg>hard core unemployed</sg>,;
+<sg>welfare client, welfare case</sg>,;
+<sg>canvasser, bagman ,<cref> 758 <i>completion</i></cref></sg>,;
+<sg>salesman</sg>,;
+<br>
+</paragraph>

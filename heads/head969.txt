@@ -1,0 +1,38 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#38#</sectionNumber>
+<headword>#<b>#[001] #969# Exemption #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>exemption, </i>freedom, irresponsibility, immunity, liberty, license, release, exoneration, excuse, dispensation, absolution, franchise, renunciation, discharge</sg>,;
+<sg>exculpation ,<cref> 970 <i>respect</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be exempt</sg>,;
+<sg>exempt, release, acquit, discharge, quitclaim, remise, remit</sg>,;
+<sg>free, set at liberty, let off, pass over, spare, excuse, dispense with, give dispensation, license</sg>,;
+<sg>stretch a point</sg>,;
+<sg>absolve ,<cref>918 <i>forgive</i></cref></sg>,;
+<sg>exonerate ,<cref>970 <i>exculpate</i></cref></sg>,;
+<sg>save the necessity</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>exempt, free, immune, at liberty, scot-free</sg>,;
+<sg>released</sg>,;
+<sg>unbound, unencumbered</sg>,;
+<sg>irresponsible, unaccountable, not answerable</sg>,;
+<sg>excusable</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>bonis nocet quisquis pepercerit malis</sg>,;
+<br>
+</paragraph>

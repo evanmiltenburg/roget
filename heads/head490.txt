@@ -1,0 +1,103 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#18#</sectionNumber>
+<headword>#<b>#[001] #490# Evidence #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>evidence</i></sg>,;
+<sg>facts, premises, data, praecognita, grounds</sg>,;
+<sg>indication ,<cref> 550 <i>manifestation</i></cref></sg>,;
+<sg>criterion ,<cref>463 <i>test</i></cref></sg>,;
+<sg>testimony, testification, expert testimony</sg>,;
+<sg>attestation</sg>,;
+<sg>deposition ,<cref>535 <i>affirmation</i></cref></sg>,;
+<sg>examination</sg>,;
+<sg>admission ,<cref>488 <i>assent</i></cref></sg>,;
+<sg>authority, warrant, credential, diploma, voucher, certificate, doquet, docket</sg>,;
+<sg>testamur</sg>,;
+<sg>record ,<cref> 551 <i>implication</i></cref></sg>,;
+<sg>document</sg>,;
+<sg>pi ce justificative</sg>,;
+<sg>deed, warranty ,<cref>771 <i>security</i></cref></sg>,;
+<sg>signature, seal ,<cref>550 <i>identification</i></cref></sg>,;
+<sg>exhibit, material evidence, objective evidence</sg>,;
+<sg>witness, indicator, hostile witness</sg>,;
+<sg>eyewitness, earwitness, material witness, state's evidence</sg>,;
+<sg>deponent</sg>,;
+<sg>sponsor</sg>,;
+<sg>cojuror</sg>,;
+<sg>oral evidence, documentary evidence, hearsay evidence, external evidence, extrinsic evidence, internal evidence, intrinsic evidence, circumstantial evidence, cumulative evidence, ex parte evidence, presumptive evidence, collateral evidence, constructive evidence</sg>,;
+<sg>proof ,<cref>478 <i>demonstration</i></cref></sg>,;
+<sg>evidence in chief</sg>,;
+<sg>secondary evidence</sg>,;
+<sg>confirmation, corroboration, support</sg>,;
+<sg>ratification ,<cref>488 <i>assent</i></cref></sg>,;
+<sg>authentication</sg>,;
+<sg>compurgation, wager of law, comprobation</sg>,;
+<sg>citation, reference</sg>,;
+<sg>legal research, literature search (experiment) 463</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be evidence</sg>,;
+<sg>evince, show, betoken, tell of</sg>,;
+<sg>indicate ,<cref>550 <i>denote</i></cref></sg>,;
+<sg>imply, involve, argue, bespeak, breathe</sg>,;
+<sg>have weight, carry weight</sg>,;
+<sg>tell, speak volumes</sg>,;
+<sg>speak for itself ,<cref>525 <i>manifest</i></cref></sg>,;
+<sg>rest upon, depend upon</sg>,;
+<sg>repose on</sg>,;
+<sg>bear witness</sg>,;
+<sg>give evidence</sg>,;
+<sg>testify, depose, witness, vouch for</sg>,;
+<sg>sign, seal, undersign, set one's hand and seal, sign and seal, deliver as one's act and deed, certify, attest</sg>,;
+<sg>acknowledge ,<cref>488 <i>assent</i></cref></sg>,;
+<sg>make absolute, confirm, prove (demonstrate) 478</sg>,;
+<sg>indorse, countersign, corroborate, support, ratify, bear out, uphold, warrant</sg>,;
+<sg>adduce, attest, cite, quote</sg>,;
+<sg>refer to, appeal to</sg>,;
+<sg>call, call to witness</sg>,;
+<sg>bring forward, bring into court</sg>,;
+<sg>allege, plead</sg>,;
+<sg>produce witnesses, confront witnesses</sg>,;
+<sg>place into evidence, mark into evidence</sg>,;
+<sg>collect evidence, bring together evidence, rake up evidence</sg>,;
+<sg>experiment ,<cref> 463 <i>spectator</i></cref></sg>,;
+<sg>have a case, make out a case</sg>,;
+<sg>establish, authenticate, substantiate, verify, make good, quote chapter and verse</sg>,;
+<sg>bring home to, bring to book</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>showing</sg>,;
+<sg>indicative, indicatory</sg>,;
+<sg>deducible ,<cref> 478 <i>inattention</i></cref></sg>,;
+<sg>grounded on, founded on, based on</sg>,;
+<sg>corroborative, confirmatory</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>by inference</sg>,;
+<sg>according to, witness, a fortiori</sg>,;
+<sg>still more, still less</sg>,;
+<sg>raison de plus</sg>,;
+<sg>in corroboration</sg>,;
+<sg>of</sg>,;
+<sg>valeat quantum</sg>,;
+<sg>under seal, under one's hand and seal</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>dictum de dicto</sg>,;
+<sg>mise en evidence</sg>,;
+<br>
+</paragraph>

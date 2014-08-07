@@ -1,0 +1,67 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#15#</sectionNumber>
+<headword>#<b>#[001] #386# Woman #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>woman, </i>she, her, female, petticoat</sg>,;
+<sg>feminality, muliebrity</sg>,;
+<sg>womanhood ,<cref>131 <i>adolescence</i></cref></sg>,;
+<sg>womankind</sg>,;
+<sg>the sex, the fair</sg>,;
+<sg>fair sex, softer sex</sg>,;
+<sg>weaker vessel</sg>,;
+<sg>dame, madam, madame, mistress, Mrs</sg>,;
+<sg>lady, donna belle, matron, dowager, goody, gammer</sg>,;
+<sg>Frau, frow, Vrouw, rani</sg>,;
+<sg>good woman, good wife</sg>,;
+<sg>squaw</sg>,;
+<sg>wife ,<cref>903 <i>marriage</i></cref></sg>,;
+<sg>matronage, matronhood</sg>,;
+<sg>bachelor girl, new woman, feminist, suffragette, suffragist</sg>,;
+<sg>nymph, wench, grisette</sg>,;
+<sg>girl ,<cref>129 <i>youth</i></cref></sg>,;
+<sg>sissy, betty, cot betty, cotquean, henhussy, mollycoddle, muff, old woman</sg>,;
+<sg>hen, bitch, sow, doe, roe, mare</sg>,;
+<sg>she goat, Nanny goat, tabita</sg>,;
+<sg>ewe, cow</sg>,;
+<sg>lioness, tigress</sg>,;
+<sg>vixen</sg>,;
+<sg>gynecaeum</sg>,;
+<sg>estrogen, oestrogen</sg>,;
+<sg>consanguinity &c 166, paternity ,<cref> 11 <i>consanguinity</i></cref></sg>,;
+<sg>lesbian, dyke</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>feminize</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>female, she-</sg>,;
+<sg>feminine, womanly, ladylike, matronly, maidenly, wifely</sg>,;
+<sg>womanish, effeminate, unmanly</sg>,;
+<sg>gynecic, gynaecic</sg>,;
+<sg>Pron</sg>,;
+<sg>she, her, hers</sg>,;
+<sg>'</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>a perfect woman nobly planned</sg>,;
+<sg>a lovely lady garmented in white</sg>,;
+<sg>das Ewig-Weibliche zieht uns hinan</sg>,;
+<sg>earth's noblest thing, a woman perfected</sg>,;
+<sg>es de vidrio la mujer</sg>,;
+<sg>she moves a goddess and she looks a queen</sg>,;
+<sg>the beauty of a lovely woman is like music</sg>,;
+<sg>varium et mutabile semper femina</sg>,;
+<sg>woman is the lesser man</sg>,;
+<br>
+</paragraph>

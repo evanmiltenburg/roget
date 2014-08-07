@@ -1,0 +1,85 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#37#</sectionNumber>
+<headword>#<b>#[001] #943# Marriage #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>marriage, </i>matrimony, wedlock, union, intermarriage, miscegenation, the bonds of marriage, vinculum matrimonii, nuptial tie</sg>,;
+<sg>married state, coverture, bed, cohabitation</sg>,;
+<sg>match</sg>,;
+<sg>betrothment ,<cref>768 <i>promise</i></cref></sg>,;
+<sg>wedding, nuptials, Hymen, bridal</sg>,;
+<sg>espousals, spousals</sg>,;
+<sg>leading to the altar</sg>,;
+<sg>nuptial benediction, epithalamium</sg>,;
+<sg>sealing</sg>,;
+<sg>torch of Hymen, temple of Hymen</sg>,;
+<sg>hymeneal altar</sg>,;
+<sg>honeymoon</sg>,;
+<sg>bridesmaid, bridesman, best man</sg>,;
+<sg>bride, bridegroom</sg>,;
+<sg>married man, married woman, married couple</sg>,;
+<sg>neogamist, Benedict, partner, spouse, mate, yokemate</sg>,;
+<sg>husband, man, consort, baron</sg>,;
+<sg>old man, good man</sg>,;
+<sg>wife of one's bosom</sg>,;
+<sg>helpmate, rib, better half, gray mare, old woman, old lady, good wife, goodwife</sg>,;
+<sg>feme, feme coverte</sg>,;
+<sg>squaw, lady</sg>,;
+<sg>matron, matronage, matronhood</sg>,;
+<sg>man and wife</sg>,;
+<sg>wedded pair, Darby and Joan</sg>,;
+<sg>spiritual wife</sg>,;
+<sg>monogamy, bigamy, digamy, deuterogamy, trigamy, polygamy</sg>,;
+<sg>mormonism</sg>,;
+<sg>levirate</sg>,;
+<sg>spiritual wifery, spiritual wifeism</sg>,;
+<sg>polyandrism</sg>,;
+<sg>Turk, bluebeard</sg>,;
+<sg>unlawful marriage, left-handed marriage, morganatic marriage, ill- assorted marriage</sg>,;
+<sg>mesalliance</sg>,;
+<sg>mariage de convenance</sg>,;
+<sg>marriage broker</sg>,;
+<sg>matrimonial agency, matrimonial agent, matrimonial bureau, matchmaker</sg>,;
+<sg>schatchen</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>marry, wive, take to oneself a wife</sg>,;
+<sg>be married, be spliced</sg>,;
+<sg>go off, pair off</sg>,;
+<sg>wed, espouse, get hitched, lead to the hymeneal altar, take 'for better for worse', give one's hand to, bestow one's hand upon</sg>,;
+<sg>marry, join, handfast</sg>,;
+<sg>couple ,<cref>43 <i>unit</i></cref></sg>,;
+<sg>tie the nuptial knot</sg>,;
+<sg>give away, give away in marriage</sg>,;
+<sg>seal</sg>,;
+<sg>ally, affiance</sg>,;
+<sg>betroth ,<cref>768 <i>promise</i></cref></sg>,;
+<sg>publish the banns, bid the banns</sg>,;
+<sg>be asked in church</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>married</sg>,;
+<sg>one, one bone and one flesh</sg>,;
+<sg>marriageable, nubile</sg>,;
+<sg>engaged, betrothed, affianced</sg>,;
+<sg>matrimonial, marital, conjugal, connubial, wedded</sg>,;
+<sg>nuptial, hymeneal, spousal, bridal</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>the gray mare the better horse</sg>,;
+<sg>a world-without-end bargain</sg>,;
+<sg>marriages are made in Heaven</sg>,;
+<sg>render me worthy of this noble wife</sg>,;
+<sg>si qua voles apte nubere nube pari</sg>,;
+<br>
+</paragraph>

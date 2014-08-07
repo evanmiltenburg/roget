@@ -1,0 +1,46 @@
+<classNumber>#2#</classNumber>
+<sectionNumber>#10#</sectionNumber>
+<headword>#<b>#[001] #208# Contiguity #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>contiguity, </i>contact, proximity, apposition, abuttal, juxtaposition</sg>,;
+<sg>abutment, osculation</sg>,;
+<sg>meeting, appulse, rencontre, rencounter, syzygy, coincidence, coexistence</sg>,;
+<sg>adhesion ,<cref> 46 <i>junction</i></cref></sg>,;
+<sg>touching</sg>,;
+<sg>(touch) 379</sg>,;
+<sg>borderland</sg>,;
+<sg>frontier ,<cref>233 <i>limit</i></cref></sg>,;
+<sg>tangent</sg>,;
+<sg>abutter</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be contiguous</sg>,;
+<sg>join, adjoin, abut on, march with</sg>,;
+<sg>graze, touch, meet, osculate, come in contact, coincide</sg>,;
+<sg>coexist</sg>,;
+<sg>adhere ,<cref> 46 <i>junction</i></cref></sg>,;
+<sg>juxtapose</sg>,;
+<sg>contact</sg>,;
+<sg>join (unite) 43</sg>,;
+<sg>link (vinculum) 45</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>contiguous</sg>,;
+<sg>touching</sg>,;
+<sg>in contact</sg>,;
+<sg>conterminous, end to end, osculatory</sg>,;
+<sg>pertingent</sg>,;
+<sg>tangential</sg>,;
+<sg>hand to hand</sg>,;
+<sg>close to ,<cref>197 <i>near</i></cref></sg>,;
+<sg>with no interval ,<cref> 198 <i>abode</i></cref></sg>,;
+<br>
+</paragraph>

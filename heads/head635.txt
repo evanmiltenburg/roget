@@ -1,0 +1,54 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#26#</sectionNumber>
+<headword>#<b>#[001] #635# Caprice #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>caprice, </i>fancy, humor</sg>,;
+<sg>whim, whimsy, whimsey, whimwham</sg>,;
+<sg>crotchet, capriccio, quirk, freak, maggot, fad, vagary, prank, fit, flimflam, escapade, boutade, wild-goose chase</sg>,;
+<sg>capriciousness</sg>,;
+<sg>kink</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be capricious</sg>,;
+<sg>have a maggot in the brain</sg>,;
+<sg>take it into one's head, strain at a gnat and swallow a camel</sg>,;
+<sg>blow hot and cold</sg>,;
+<sg>play fast and loose, play fantastic tricks</sg>,;
+<sg>tourner casaque</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>capricious</sg>,;
+<sg>erratic, eccentric, fitful, hysterical</sg>,;
+<sg>full of whims</sg>,;
+<sg>maggoty</sg>,;
+<sg>inconsistent, fanciful, fantastic, whimsical, crotchety, kinky, particular, humorsome, freakish, skittish, wanton, wayward</sg>,;
+<sg>contrary</sg>,;
+<sg>captious</sg>,;
+<sg>arbitrary</sg>,;
+<sg>unconformable ,<cref> 83 <i>speciality</i></cref></sg>,;
+<sg>penny wise and pound foolish</sg>,;
+<sg>fickle ,<cref>605 <i>irresolute</i></cref></sg>,;
+<sg>frivolous, sleeveless, giddy, volatile</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>by fits and starts, without rhyme or reason</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>nil fuit unquain sic inipar sibi</sg>,;
+<sg>the deuce is in him</sg>,;
+<br>
+</paragraph>

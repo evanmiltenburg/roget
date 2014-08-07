@@ -1,0 +1,35 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#3#</sectionNumber>
+<headword>#<b>#[001] #60# Extraneousness #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>extraneousness</i></sg>,;
+<sg>extrinsicality ,<cref> 6 <i>extrinsicality</i></cref></sg>,;
+<sg>exteriority ,<cref> 220 <i>base</i></cref></sg>,;
+<sg>alienage, alienism</sg>,;
+<sg>foreign body, foreign substance, foreign element</sg>,;
+<sg>alien, stranger, intruder, interloper, foreigner, novus homo, newcomer, immigrant, emigrant</sg>,;
+<sg>creole, Africander</sg>,;
+<sg>outsider</sg>,;
+<sg>Dago, wop, mick, polak, greaser, slant, Easterner, Dutchman, tenderfoot</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>extraneous, foreign, alien, ulterior</sg>,;
+<sg>tramontane, ultramontane</sg>,;
+<sg>excluded ,<cref> 55 <i>completeness</i></cref></sg>,;
+<sg>inadmissible</sg>,;
+<sg>exceptional</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>in foreign parts, in foreign lands</sg>,;
+<sg>abroad, beyond seas</sg>,;
+<sg>over sea on one's travels</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,41 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#14#</sectionNumber>
+<headword>#<b>#[001] #340# Texture #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>texture, </i>structure (form) 240, organization, anatomy, frame, mold, fabric, construction</sg>,;
+<sg>framework, carcass, architecture</sg>,;
+<sg>stratification, cleavage</sg>,;
+<sg>substance, stuff, compages, parenchyma</sg>,;
+<sg>constitution, staple, organism</sg>,;
+<sg>organography, osteology, myology, splanchnology, neurology, angiography, adeology</sg>,;
+<sg>angiography, adenography</sg>,;
+<sg>texture, surface texture</sg>,;
+<sg>intertexture, contexture</sg>,;
+<sg>tissue, grain, web, surface</sg>,;
+<sg>warp and woof, warp and weft</sg>,;
+<sg>tooth, nap ,<cref>256 <i>roughness</i></cref></sg>,;
+<sg>flatness (smoothness) 255</sg>,;
+<sg>fineness of grain</sg>,;
+<sg>coarseness of grain, dry goods</sg>,;
+<sg>silk, satin</sg>,;
+<sg>muslin, burlap</sg>,;
+<sg>histology</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>structural, organic</sg>,;
+<sg>anatomic, anatomical</sg>,;
+<sg>textural, textile</sg>,;
+<sg>fine grained, coarse grained</sg>,;
+<sg>fine, delicate, subtile, gossamery, filmy, silky, satiny</sg>,;
+<sg>coarse</sg>,;
+<sg>homespun</sg>,;
+<sg>rough, gritty</sg>,;
+<sg>smooth</sg>,;
+<sg>smooth as silk, smooth as satin</sg>,;
+<br>
+</paragraph>

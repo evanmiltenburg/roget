@@ -1,0 +1,113 @@
+<classNumber>#2#</classNumber>
+<sectionNumber>#12#</sectionNumber>
+<headword>#<b>#[001] #285# Velocity #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>velocity, </i>speed, celerity</sg>,;
+<sg>swiftness</sg>,;
+<sg>rapidity, eagle speed</sg>,;
+<sg>expedition ,<cref>682 <i>activity</i></cref></sg>,;
+<sg>pernicity</sg>,;
+<sg>acceleration</sg>,;
+<sg>haste ,<cref> 684 <i>disease</i></cref></sg>,;
+<sg>spurt, rush, dash, race, steeple chase</sg>,;
+<sg>smart rate, lively rate, swift rate</sg>,;
+<sg>rattling rate, spanking rate, strapping rate, smart pace, lively pace, swift pace, rattling pace, spanking pace, strapping pace</sg>,;
+<sg>round pace</sg>,;
+<sg>flying, flight</sg>,;
+<sg>lightning, greased lightning, light, electricity, wind</sg>,;
+<sg>cannon ball, rocket, arrow, dart, hydrargyrum, quicksilver</sg>,;
+<sg>telegraph, express train</sg>,;
+<sg>torrent</sg>,;
+<sg>eagle, antelope, courser, race horse, gazelle, greyhound, hare, doe, squirrel, camel bird, chickaree, chipmunk, hackee, ostrich, scorcher</sg>,;
+<sg>Mercury, Ariel, Camilla, Harlequin</sg>,;
+<sg>log, log line</sg>,;
+<sg>speedometer, odometer, tachometer, strobe, radar speed detector, radar trap, air speed gauge, wind sock, wind speed meter</sg>,;
+<sg>pedometer</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>move quickly, trip, fisk</sg>,;
+<sg>speed, hie, hasten, post, spank, scuttle</sg>,;
+<sg>scud, scuddle</sg>,;
+<sg>scour, scour the plain</sg>,;
+<sg>scamper</sg>,;
+<sg>run like mad, beat it</sg>,;
+<sg>fly, race, run a race, cut away, shot, tear, whisk, zoom, swoosh, sweep, skim, brush</sg>,;
+<sg>cut along, bowl along, barrel along, barrel</sg>,;
+<sg>scorch, burn up the track</sg>,;
+<sg>rush ,<cref>173 <i>be violent</i></cref></sg>,;
+<sg>dash on, dash off, dash forward</sg>,;
+<sg>bolt</sg>,;
+<sg>trot, gallop, amble, troll, bound, flit, spring, dart, boom</sg>,;
+<sg>march in quick time, march in double time</sg>,;
+<sg>ride hard, get over the ground</sg>,;
+<sg>hurry ,<cref>684 <i>hasten</i></cref></sg>,;
+<sg>accelerate, put on</sg>,;
+<sg>quicken</sg>,;
+<sg>quicken one's pace, mend one's pace</sg>,;
+<sg>clap spurs to one's horse</sg>,;
+<sg>make haste, make rapid strides, make forced marches, make the best of one's way</sg>,;
+<sg>put one's best leg foremost, stir one's stumps, wing one's way, set off at a score</sg>,;
+<sg>carry sail, crowd sail</sg>,;
+<sg>go off like a shot, go like a shot, go ahead, gain ground</sg>,;
+<sg>outstrip the wind, fly on the wings of the wind</sg>,;
+<sg>keep up with, keep pace with</sg>,;
+<sg>outstrip ,<cref> 303 <i>arrival</i></cref></sg>,;
+<sg>outmarch</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>fast, speedy, swift, rapid, quick, fleet</sg>,;
+<sg>aliped</sg>,;
+<sg>nimble, agile, expeditious</sg>,;
+<sg>express</sg>,;
+<sg>active ,<cref> 682 <i>uncleanness</i></cref></sg>,;
+<sg>flying, galloping</sg>,;
+<sg>light footed, nimble footed</sg>,;
+<sg>winged, eagle winged, mercurial, electric, telegraphic</sg>,;
+<sg>light-legged, light of heel</sg>,;
+<sg>swift as an arrow</sg>,;
+<sg>quick as lightning</sg>,;
+<sg>, quick as a thought</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>swiftly</sg>,;
+<sg>with speed</sg>,;
+<sg>apace</sg>,;
+<sg>at a great rate, at full speed, at railway speed</sg>,;
+<sg>full drive, full gallop</sg>,;
+<sg>posthaste, in full sail, tantivy</sg>,;
+<sg>trippingly</sg>,;
+<sg>instantaneously ,<cref> 113 <i>period</i></cref></sg>,;
+<sg>under press of sail, under press of canvas, under press of sail and steam</sg>,;
+<sg>velis et remis, on eagle's wing, in double quick time</sg>,;
+<sg>with rapid strides, with giant strides</sg>,;
+<sg>a pas de geant</sg>,;
+<sg>in seven league boots</sg>,;
+<sg>whip and spur</sg>,;
+<sg>ventre a terre</sg>,;
+<sg>as fast as one's legs will carry one, as fast as one's heels will carry one</sg>,;
+<sg>as fast as one can lay legs to the ground, at the top of one's speed</sg>,;
+<sg>by leaps and bounds</sg>,;
+<sg>with haste ,<cref> 684 <i>disease</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>vires acquirit eundo</sg>,;
+<sg>I'll put a girdle about the earth in forty minutes</sg>,;
+<sg>swifter than arrow from the Tartar's bow</sg>,;
+<sg>go like a bat out of hell</sg>,;
+<sg>tempus fugit</sg>,;
+<br>
+</paragraph>

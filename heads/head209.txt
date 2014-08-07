@@ -1,0 +1,66 @@
+<classNumber>#2#</classNumber>
+<sectionNumber>#10#</sectionNumber>
+<headword>#<b>#[001] #209# Length #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>length, </i>longitude, span</sg>,;
+<sg>mileage</sg>,;
+<sg>distance ,<cref> 196 <i>absence</i></cref></sg>,;
+<sg>line, bar, rule, stripe, streak, spoke, radius</sg>,;
+<sg>lengthening</sg>,;
+<sg>prolongation, production, protraction</sg>,;
+<sg>tension, tensure</sg>,;
+<sg>extension</sg>,;
+<sg>line, nail, inch, hand, palm, foot, cubit, yard, ell, fathom, rood, pole, furlong, mile, league</sg>,;
+<sg>chain, link</sg>,;
+<sg>arpent, handbreadth, jornada, kos, vara</sg>,;
+<sg>astronomical unit, AU, light- year, parsec</sg>,;
+<sg>nanometer, nm, micron, micrometer, millimicron, millimeter, mm, centimeter, cm, meter, kilometer, km</sg>,;
+<sg>pedometer, perambulator</sg>,;
+<sg>scale ,<cref>466 <i>measurement</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be long</sg>,;
+<sg>stretch out, sprawl</sg>,;
+<sg>extend to, reach to, stretch to</sg>,;
+<sg>make a long arm, drag its slow length along</sg>,;
+<sg>render long</sg>,;
+<sg>lengthen, extend, elongate</sg>,;
+<sg>stretch</sg>,;
+<sg>prolong, produce, protract</sg>,;
+<sg>let out, draw out, spin out</sg>,;
+<sg>drawl</sg>,;
+<sg>enfilade, look along, view in perspective</sg>,;
+<sg>distend (expand) 194</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>long, longsome</sg>,;
+<sg>lengthy, wiredrawn, outstretched</sg>,;
+<sg>lengthened</sg>,;
+<sg>sesquipedalian ,<cref>577 <i>words</i></cref></sg>,;
+<sg>interminable, no end of</sg>,;
+<sg>macrocolous</sg>,;
+<sg>linear, lineal</sg>,;
+<sg>longitudinal, oblong</sg>,;
+<sg>as long as my arm, as long as today and tomorrow</sg>,;
+<sg>unshortened &c (shorten) ,<cref> 201 <i>size</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>lengthwise, at length, longitudinally, endlong, along</sg>,;
+<sg>tandem</sg>,;
+<sg>in a line ,<cref>69 <i>continuously</i></cref></sg>,;
+<sg>in perspective</sg>,;
+<sg>from end to end, from stem to stern, from head to foot, from the crown of the head to the sole of the foot, from top to toe</sg>,;
+<sg>fore and aft</sg>,;
+<br>
+</paragraph>

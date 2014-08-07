@@ -1,0 +1,52 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#15#</sectionNumber>
+<headword>#<b>#[001] #384# Mankind #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>man, mankind</sg>,;
+<sg>human race, human species, human kind, human nature</sg>,;
+<sg>humanity, mortality, flesh, generation</sg>,;
+<sg>anthropology, anthropogeny, anthropography, anthroposophy</sg>,;
+<sg>ethnology, ethnography</sg>,;
+<sg>humanitarian</sg>,;
+<sg>human being</sg>,;
+<sg>person, personage</sg>,;
+<sg>individual, creature, fellow creature, mortal, body, somebody</sg>,;
+<sg>one</sg>,;
+<sg>such a one, some one</sg>,;
+<sg>soul, living soul</sg>,;
+<sg>earthling</sg>,;
+<sg>party, head, hand</sg>,;
+<sg>dramatis personae</sg>,;
+<sg>quidam</sg>,;
+<sg>people, persons, folk, public, society, world</sg>,;
+<sg>community, community at large</sg>,;
+<sg>general public</sg>,;
+<sg>nation, nationality</sg>,;
+<sg>state, realm</sg>,;
+<sg>commonweal, commonwealth</sg>,;
+<sg>republic, body politic</sg>,;
+<sg>million ,<cref>876 <i>commonalty</i></cref></sg>,;
+<sg>population ,<cref>188 <i>inhabitant</i></cref></sg>,;
+<sg>tribe, clan (paternity) 166</sg>,;
+<sg>family (consanguinity) 11</sg>,;
+<sg>cosmopolite</sg>,;
+<sg>lords of the creation</sg>,;
+<sg>ourselves</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>human, mortal, personal, individual, national, civic, public, social</sg>,;
+<sg>cosmopolitan</sg>,;
+<sg>anthropoid</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>am I not a man and a brother?</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,148 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#24#</sectionNumber>
+<headword>#<b>#[001] #570# Falsehood #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>falsehood, </i>falseness</sg>,;
+<sg>falsity, falsification</sg>,;
+<sg>deception ,<cref> 545 <i>equivocalness</i></cref></sg>,;
+<sg>untruth ,<cref> 546 <i>metaphor</i></cref></sg>,;
+<sg>guile</sg>,;
+<sg>lying ,<cref> 454 <i>greenness</i></cref></sg>,;
+<sg>untruth ,<cref> 546 <i>metaphor</i></cref></sg>,;
+<sg>guile</sg>,;
+<sg>lying</sg>,;
+<sg>misrepresentation</sg>,;
+<sg>mendacity, perjury, false swearing</sg>,;
+<sg>forgery, invention, fabrication</sg>,;
+<sg>subreption</sg>,;
+<sg>covin</sg>,;
+<sg>perversion of truth, suppression of truth</sg>,;
+<sg>suppressio veri</sg>,;
+<sg>perversion, distortion, false coloring</sg>,;
+<sg>exaggeration ,<cref> 549 <i>interpreter</i></cref></sg>,;
+<sg>prevarication, equivocation, shuffling, fencing, evasion, fraud</sg>,;
+<sg>suggestio falsi ,<cref>546 <i>lie</i></cref></sg>,;
+<sg>mystification ,<cref>528 <i>concealment</i></cref></sg>,;
+<sg>simulation ,<cref>19 <i>imitation</i></cref></sg>,;
+<sg>dissimulation, dissembling</sg>,;
+<sg>deceit</sg>,;
+<sg>blague</sg>,;
+<sg>sham</sg>,;
+<sg>pretense, pretending, malingering</sg>,;
+<sg>lip homage, lip service</sg>,;
+<sg>mouth honor</sg>,;
+<sg>hollowness</sg>,;
+<sg>mere show, mere outside</sg>,;
+<sg>duplicity, double dealing, insincerity, hypocrisy, cant, humbug</sg>,;
+<sg>jesuitism, jesuitry</sg>,;
+<sg>pharisaism</sg>,;
+<sg>Machiavelism, organized hypocrisy</sg>,;
+<sg>crocodile tears, mealy-mouthedness, quackery</sg>,;
+<sg>charlatanism, charlatanry</sg>,;
+<sg>gammon</sg>,;
+<sg>bun-kum, bumcombe, flam</sg>,;
+<sg>bam, flimflam, cajolery, flattery</sg>,;
+<sg>Judas kiss</sg>,;
+<sg>perfidy ,<cref>940 <i>bad faith</i></cref></sg>,;
+<sg>il volto sciolto i pensieri stretti</sg>,;
+<sg>unfairness ,<cref>940 <i>dishonesty</i></cref></sg>,;
+<sg>artfulness ,<cref>702 <i>cunning</i></cref></sg>,;
+<sg>misstatement ,<cref>495 <i>error</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be false</sg>,;
+<sg>, be a liar ,<cref> 548 <i>misinterpretation</i></cref></sg>,;
+<sg>speak falsely</sg>,;
+<sg>tell a lie ,<cref> 546 <i>metaphor</i></cref></sg>,;
+<sg>lie, fib</sg>,;
+<sg>lie like a trooper</sg>,;
+<sg>swear false, forswear, perjure oneself, bear false witness</sg>,;
+<sg>misstate, misquote, miscite, misreport, misrepresent</sg>,;
+<sg>belie, falsify, pervert, distort</sg>,;
+<sg>put a false construction upon  (misinterpret)</sg>,;
+<sg>prevaricate, equivocate, quibble</sg>,;
+<sg>palter, palter to the understanding</sg>,;
+<sg>repondre en Normand</sg>,;
+<sg>trim, shuffle, fence, mince the truth, beat about the bush, blow hot and cold, play fast and loose</sg>,;
+<sg>garble, gloss over, disguise, give a color to</sg>,;
+<sg>give a gloss, put a gloss, put false coloring upon</sg>,;
+<sg>color, varnish, cook, dress up, embroider</sg>,;
+<sg>varnish right and puzzle wrong</sg>,;
+<sg>exaggerate ,<cref> 549 <i>interpreter</i></cref></sg>,;
+<sg>blague</sg>,;
+<sg>invent, fabricate</sg>,;
+<sg>trump up, get up</sg>,;
+<sg>force, fake, hatch, concoct</sg>,;
+<sg>romance ,<cref>515 <i>imagine</i></cref></sg>,;
+<sg>cry 'wolf!'</sg>,;
+<sg>dissemble, dissimulate</sg>,;
+<sg>feign, assume, put on, pretend, make believe</sg>,;
+<sg>play possum</sg>,;
+<sg>play false, play a double game</sg>,;
+<sg>coquet</sg>,;
+<sg>act a part, play a part</sg>,;
+<sg>affect ,<cref> 855 <i>greed</i></cref></sg>,;
+<sg>simulate, pass off for</sg>,;
+<sg>counterfeit, sham, make a show of</sg>,;
+<sg>malinger</sg>,;
+<sg>say the grapes are sour</sg>,;
+<sg>cant, play the hypocrite, sham Abraham, faire pattes de velours, put on the mask, clean the outside of the platter, lie like a conjuror</sg>,;
+<sg>hand out false colors, hold out false colors, sail under false colors</sg>,;
+<sg>commend the poisoned chalice to the lips</sg>,;
+<sg>ambiguas in vulgum spargere voces</sg>,;
+<sg>deceive ,<cref> 545 <i>equivocalness</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>false, deceitful, mendacious, unveracious, fraudulent, dishonest, faithless, truthless, trothless</sg>,;
+<sg>unfair, uncandid</sg>,;
+<sg>hollow-hearted</sg>,;
+<sg>evasive</sg>,;
+<sg>uningenuous, disingenuous</sg>,;
+<sg>hollow, sincere, Parthis mendacior</sg>,;
+<sg>forsworn</sg>,;
+<sg>artificial, contrived</sg>,;
+<sg>canting</sg>,;
+<sg>hypocritical, jesuitical, pharisaical</sg>,;
+<sg>tartuffish</sg>,;
+<sg>Machiavelian</sg>,;
+<sg>double, double tongued, double faced, double handed, double minded, double hearted, double dealing</sg>,;
+<sg>Janus faced</sg>,;
+<sg>smooth-faced, smooth spoken, smooth tongued</sg>,;
+<sg>plausible</sg>,;
+<sg>mealy-mouthed</sg>,;
+<sg>affected ,<cref> 855 <i>greed</i></cref></sg>,;
+<sg>collusive, collusory</sg>,;
+<sg>artful ,<cref>702 <i>cunning</i></cref></sg>,;
+<sg>perfidious ,<cref> 940 <i>irascibility</i></cref></sg>,;
+<sg>spurious ,<cref>545 <i>deceptive</i></cref></sg>,;
+<sg>untrue ,<cref> 546 <i>metaphor</i></cref></sg>,;
+<sg>falsified</sg>,;
+<sg>covinous</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>falsely</sg>,;
+<sg>a la tartufe, with a double tongue</sg>,;
+<sg>silly ,<cref>702 <i>cunning</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>blandae mendacia lingua</sg>,;
+<sg>falsus in uno falsus in omnibus</sg>,;
+<sg>I give him joy that's awkward at a lie</sg>,;
+<sg>la mentira tiene las piernas cortas</sg>,;
+<sg>O what a goodly outside falsehood hath</sg>,;
+<br>
+</paragraph>

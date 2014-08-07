@@ -1,0 +1,89 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#26#</sectionNumber>
+<headword>#<b>#[001] #636# Choice #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>choice, </i>option</sg>,;
+<sg>discretion ,<cref>600 <i>volition</i></cref></sg>,;
+<sg>preoption</sg>,;
+<sg>alternative</sg>,;
+<sg>dilemma, embarras de choix</sg>,;
+<sg>adoption, cooptation</sg>,;
+<sg>novation</sg>,;
+<sg>decision ,<cref>480 <i>judgment</i></cref></sg>,;
+<sg>election</sg>,;
+<sg>political election (politics) 737</sg>,;
+<sg>1</sg>,;
+<sg>selection, excerption, gleaning, eclecticism</sg>,;
+<sg>excerpta, gleanings, cuttings, scissors and paste</sg>,;
+<sg>pick ,<cref>650 <i>best</i></cref></sg>,;
+<sg>preference, prelation, opinion poll, survey</sg>,;
+<sg>predilection ,<cref>865 <i>desire</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>offers one's choice, set before</sg>,;
+<sg>hold out the alternative, present the alternative, offer the alternative</sg>,;
+<sg>put to the vote</sg>,;
+<sg>use option, use discretion, exercise option, exercise discretion, one's option</sg>,;
+<sg>adopt, take up, embrace, espouse</sg>,;
+<sg>choose, elect, opt for</sg>,;
+<sg>take one's choice, make one's choice</sg>,;
+<sg>make choice of, fix upon</sg>,;
+<sg>vote, poll, hold up one's hand</sg>,;
+<sg>divide</sg>,;
+<sg>settle</sg>,;
+<sg>decide ,<cref>480 <i>adjudge</i></cref></sg>,;
+<sg>list ,<cref>600 <i>will</i></cref></sg>,;
+<sg>make up one's mind ,<cref>604 <i>resolve</i></cref></sg>,;
+<sg>select</sg>,;
+<sg>pick and choose</sg>,;
+<sg>pick out, single out</sg>,;
+<sg>cull, glean, winnow</sg>,;
+<sg>sift the chaff from the wheat, separate the chaff from the wheat, winnow the chaff from the wheat</sg>,;
+<sg>pick up, pitch upon</sg>,;
+<sg>pick one's way</sg>,;
+<sg>indulge one's fancy</sg>,;
+<sg>set apart, mark out for</sg>,;
+<sg>mark ,<cref> 550 <i>manifestation</i></cref></sg>,;
+<sg>prefer</sg>,;
+<sg>have rather, have as lief</sg>,;
+<sg>fancy ,<cref>865 <i>desire</i></cref></sg>,;
+<sg>be persuaded ,<cref> 615 <i>soliloquy</i></cref></sg>,;
+<sg>take a decided step, take a decisive step</sg>,;
+<sg>commit oneself to a course</sg>,;
+<sg>pass the Rubicon, cross the Rubicon</sg>,;
+<sg>cast in one's lot with</sg>,;
+<sg>take for better or for worse</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>optional</sg>,;
+<sg>discretional ,<cref>600 <i>voluntary</i></cref></sg>,;
+<sg>eclectic</sg>,;
+<sg>choosing</sg>,;
+<sg>preferential</sg>,;
+<sg>chosen</sg>,;
+<sg>choice ,<cref>648 <i>good</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>optionally</sg>,;
+<sg>at pleasure ,<cref>600 <i>will</i></cref></sg>,;
+<sg>either the one or the other</sg>,;
+<sg>or at the option of</sg>,;
+<sg>whether or not</sg>,;
+<sg>once and for all</sg>,;
+<sg>for one's money</sg>,;
+<sg>by choice, by preference</sg>,;
+<sg>in preference</sg>,;
+<sg>rather, before</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,68 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#4#</sectionNumber>
+<headword>#<b>#[001] #64# Arrangement #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>arrangement</i></sg>,;
+<sg>plan ,<cref> 626 <i>will</i></cref></sg>,;
+<sg>preparation ,<cref> 673 <i>utility</i></cref></sg>,;
+<sg>disposal, disposition</sg>,;
+<sg>collocation, allocation</sg>,;
+<sg>distribution</sg>,;
+<sg>sorting</sg>,;
+<sg>assortment, allotment, apportionment, taxis, taxonomy, syntaxis, graduation, organization</sg>,;
+<sg>grouping</sg>,;
+<sg>tabulation</sg>,;
+<sg>analysis, classification, clustering, division, digestion</sg>,;
+<sg>digest</sg>,;
+<sg>synopsis ,<cref>596 <i>compendium</i></cref></sg>,;
+<sg>syntagma, table, atlas</sg>,;
+<sg>file, database</sg>,;
+<sg>register</sg>,;
+<sg>,<cref>551 <i>record</i></cref></sg>,;
+<sg>organism, architecture</sg>,;
+<sg>sieve, riddle, screen, sorter</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>reduce to order, bring into order</sg>,;
+<sg>introduce order into</sg>,;
+<sg>rally</sg>,;
+<sg>arrange, dispose, place, form</sg>,;
+<sg>put in order, set in order, place in order</sg>,;
+<sg>set out, collocate, pack, marshal, range, size, rank, group, parcel out, allot, distribute, deal</sg>,;
+<sg>cast the parts, assign the parts</sg>,;
+<sg>dispose of, assign places to</sg>,;
+<sg>assort, sort</sg>,;
+<sg>sift, riddle</sg>,;
+<sg>put to rights, set to rights, put into shape, put in trim, put in array</sg>,;
+<sg>apportion</sg>,;
+<sg>class, classify</sg>,;
+<sg>divide</sg>,;
+<sg>file, string together, thread</sg>,;
+<sg>register ,<cref>551 <i>record</i></cref></sg>,;
+<sg>catalogue, tabulate, index, graduate, digest, grade</sg>,;
+<sg>methodize, regulate, systematize, coordinate, organize, settle, fix</sg>,;
+<sg>unravel, disentangle, ravel, card</sg>,;
+<sg>disembroil</sg>,;
+<sg>feaze</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>arranged</sg>,;
+<sg>embattled, in battle array</sg>,;
+<sg>cut and dried</sg>,;
+<sg>methodical, orderly, regular, systematic</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>In vast cumbrous array</sg>,;
+<br>
+</paragraph>

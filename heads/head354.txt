@@ -1,0 +1,32 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#14#</sectionNumber>
+<headword>#<b>#[001] #354# Lake #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>gulf, lake, </i>land covered with water, gulf, gulph, bay, inlet, bight, estuary, arm of the sea, bayou, fiord, armlet</sg>,;
+<sg>frith, firth, ostiary, mouth</sg>,;
+<sg>lagune, lagoon</sg>,;
+<sg>indraught</sg>,;
+<sg>cove, creek</sg>,;
+<sg>natural harbor</sg>,;
+<sg>roads</sg>,;
+<sg>strait</sg>,;
+<sg>narrows</sg>,;
+<sg>Euripus</sg>,;
+<sg>sound, belt, gut, kyles</sg>,;
+<sg>continental slope, continental shelf</sg>,;
+<sg>lake, loch, lough, mere, tarn, plash, broad, pond, pool, lin, puddle, slab, well, artesian well</sg>,;
+<sg>standing water, dead water, sheet of water</sg>,;
+<sg>fish pond, mill pond</sg>,;
+<sg>ditch, dike, dyke, dam</sg>,;
+<sg>reservoir ,<cref>636 <i>store</i></cref></sg>,;
+<sg>alberca, barachois, hog wallow</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>lacustrine</sg>,;
+<br>
+</paragraph>

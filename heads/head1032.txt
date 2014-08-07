@@ -1,0 +1,80 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#39#</sectionNumber>
+<headword>#<b>#[001] #1032# Impiety #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>impiety</i></sg>,;
+<sg>sin ,<cref> 945 <i>divorce</i></cref></sg>,;
+<sg>irreverence</sg>,;
+<sg>profaneness</sg>,;
+<sg>profanity, profanation</sg>,;
+<sg>blasphemy, desecration, sacrilege</sg>,;
+<sg>scoffing</sg>,;
+<sg>hypocrisy ,<cref>544 <i>falsehood</i></cref></sg>,;
+<sg>pietism, cant, pious fraud</sg>,;
+<sg>lip devotion, lip service, lip reverence</sg>,;
+<sg>misdevotion, formalism, austerity</sg>,;
+<sg>sanctimony, sanctimoniousness</sg>,;
+<sg>pharisaism, precisianism</sg>,;
+<sg>sabbatism, sabbatarianism</sg>,;
+<sg>odium theologicum, sacerdotalism</sg>,;
+<sg>bigotry ,<cref>481 <i>obstinacy) 606, (prejudice</i></cref></sg>,;
+<sg>blue laws</sg>,;
+<sg>hardening, backsliding, declension, perversion, reprobation</sg>,;
+<sg>sinner ,<cref> 949 <i>threat</i></cref></sg>,;
+<sg>scoffer, blasphemer</sg>,;
+<sg>sacrilegist</sg>,;
+<sg>sabbath breaker</sg>,;
+<sg>worldling</sg>,;
+<sg>hypocrite ,<cref>548 <i>dissembler</i></cref></sg>,;
+<sg>Tartufe, Mawworm</sg>,;
+<sg>bigot</sg>,;
+<sg>saint</sg>,;
+<sg>Pharisee</sg>,;
+<sg>sabbatarian, formalist, methodist, puritan, pietist, precisian, religionist, devotee</sg>,;
+<sg>ranter, fanatic, juramentado</sg>,;
+<sg>the wicked, the evil, the unjust, the reprobate</sg>,;
+<sg>sons of men, sons of Belial, the wicked one</sg>,;
+<sg>children of darkness</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be impious</sg>,;
+<sg>, profane, desecrate, blaspheme, revile, scoff</sg>,;
+<sg>swear ,<cref>908 <i>malediction</i></cref></sg>,;
+<sg>commit sacrilege</sg>,;
+<sg>snuffle</sg>,;
+<sg>turn up the whites of the eyes</sg>,;
+<sg>idolize</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>impious</sg>,;
+<sg>irreligious ,<cref> 989 <i>guilt</i></cref></sg>,;
+<sg>desecrating</sg>,;
+<sg>profane, irreverent, sacrilegious, blasphemous</sg>,;
+<sg>un-hallowed, un-sanctified, un-regenerate</sg>,;
+<sg>hardened, perverted, reprobate</sg>,;
+<sg>hypocritical ,<cref>544 <i>false</i></cref></sg>,;
+<sg>canting, pietistical, sanctimonious, unctuous, pharisaical, overrighteous, righteous over much</sg>,;
+<sg>bigoted, fanatical</sg>,;
+<sg>priest-ridden</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>under the mask of religion, under the cloak of religion, under the pretense of religion, under the form of religion, under the guise of religion</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>giovane santo diavolo vecchio</sg>,;
+<br>
+</paragraph>

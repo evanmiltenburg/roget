@@ -1,0 +1,67 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#38#</sectionNumber>
+<headword>#<b>#[001] #966# Undueness #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>undueness</i></sg>,;
+<sg>malum prohibitum</sg>,;
+<sg>impropriety</sg>,;
+<sg>illegality ,<cref> 964 <i>wrong</i></cref></sg>,;
+<sg>falseness</sg>,;
+<sg>emptiness of title, invalidity of title</sg>,;
+<sg>illegitimacy</sg>,;
+<sg>loss of right, disfranchisement, forfeiture</sg>,;
+<sg>usurpation, tort, violation, breach, encroachment, presumption, assumption, seizure</sg>,;
+<sg>stretch, exaction, imposition, lion's share</sg>,;
+<sg>usurper, pretender</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be undue</sg>,;
+<sg>not be due ,<cref> 924 <i>insolence</i></cref></sg>,;
+<sg>infringe, encroach, trench on, exact</sg>,;
+<sg>arrogate, arrogate to oneself</sg>,;
+<sg>give an inch and take an ell</sg>,;
+<sg>stretch a point, strain a point</sg>,;
+<sg>usurp, violate, do violence to</sg>,;
+<sg>disfranchise, disentitle, disqualify</sg>,;
+<sg>invalidate</sg>,;
+<sg>relax ,<cref>738 <i>be lax</i></cref></sg>,;
+<sg>misbehave ,<cref>945 <i>vice</i></cref></sg>,;
+<sg>misbecome</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>undue</sg>,;
+<sg>unlawful ,<cref>964 <i>illegal</i></cref></sg>,;
+<sg>unconstitutional</sg>,;
+<sg>illicit</sg>,;
+<sg>unauthorized, unwarranted, disallowed, unallowed, unsanctioned, unjustified</sg>,;
+<sg>unentitled, disentitled, unqualified, disqualified</sg>,;
+<sg>unprivileged, unchartered</sg>,;
+<sg>illegitimate, bastard, spurious, supposititious, false</sg>,;
+<sg>usurped</sg>,;
+<sg>tortious</sg>,;
+<sg>undeserved, unmerited, unearned</sg>,;
+<sg>unfulfilled</sg>,;
+<sg>forfeited, disfranchised</sg>,;
+<sg>improper</sg>,;
+<sg>unmeet, unfit, unbefitting, unseemly</sg>,;
+<sg>unbecoming, misbecoming</sg>,;
+<sg>seemless</sg>,;
+<sg>contra bonos mores</sg>,;
+<sg>not the thing, out of the question, not to be thought of</sg>,;
+<sg>preposterous, pretentious, would-be</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>filius nullius</sg>,;
+<br>
+</paragraph>

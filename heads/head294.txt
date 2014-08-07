@@ -1,0 +1,75 @@
+<classNumber>#2#</classNumber>
+<sectionNumber>#12#</sectionNumber>
+<headword>#<b>#[001] #294# Regression #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>regress, regression</sg>,;
+<sg>retrocession, retrogression, retrograduation, retroaction</sg>,;
+<sg>reculade</sg>,;
+<sg>retreat, withdrawal, retirement, remigration</sg>,;
+<sg>recession ,<cref>287 <i>motion from</i></cref></sg>,;
+<sg>recess</sg>,;
+<sg>crab-like motion</sg>,;
+<sg>refluence, reflux</sg>,;
+<sg>backwater, regurgitation, ebb, return</sg>,;
+<sg>resilience reflection, reflexion  (recoil) 277</sg>,;
+<sg>flip-flop, volte-face</sg>,;
+<sg>counter motion, retrograde motion, backward movement, motion in reverse, counter movement, counter march</sg>,;
+<sg>veering, tergiversation, recidivation, backsliding, fall</sg>,;
+<sg>deterioration ,<cref> 659 <i>requirement</i></cref></sg>,;
+<sg>recidivism, recidivity</sg>,;
+<sg>reversal, relapse, turning point ,<cref>145 <i>reversion</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>recede, regrade, return, revert, retreat, retire</sg>,;
+<sg>retrograde, retrocede</sg>,;
+<sg>back out</sg>,;
+<sg>back down</sg>,;
+<sg>balk</sg>,;
+<sg>crawfish, crawl</sg>,;
+<sg>withdraw</sg>,;
+<sg>rebound ,<cref> 277 <i>journey</i></cref></sg>,;
+<sg>go back, come back, turn back, hark back, draw back, fall back, get back, put back, run back</sg>,;
+<sg>lose ground</sg>,;
+<sg>fall astern, drop astern</sg>,;
+<sg>backwater, put about</sg>,;
+<sg>backtrack, take the back track</sg>,;
+<sg>veer round</sg>,;
+<sg>double, wheel, countermarch</sg>,;
+<sg>ebb, regurgitate</sg>,;
+<sg>jib, shrink, shy</sg>,;
+<sg>turn tail, turn round, turn upon one's heel, turn one's back upon</sg>,;
+<sg>retrace one's steps, dance the back step</sg>,;
+<sg>sound a retreat, beat a retreat</sg>,;
+<sg>go home</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>receding</sg>,;
+<sg>retrograde, retrogressive</sg>,;
+<sg>regressive, refluent, reflex, recidivous, resilient</sg>,;
+<sg>crab-like</sg>,;
+<sg>balky</sg>,;
+<sg>reactionary ,<cref> 277 <i>journey</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>back, backwards</sg>,;
+<sg>reflexively, to the right about</sg>,;
+<sg>a reculons, a rebours</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>revenons a nos moutons, as you were</sg>,;
+<br>
+</paragraph>

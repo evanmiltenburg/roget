@@ -1,0 +1,151 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#29#</sectionNumber>
+<headword>#<b>#[001] #735# Hindrance #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>hindrance, </i>prevention, preclusion, obstruction, stoppage</sg>,;
+<sg>embolus, embolism</sg>,;
+<sg>infarct</sg>,;
+<sg>interruption, interception, interclusion</sg>,;
+<sg>hindrance, impedition</sg>,;
+<sg>retardment, retardation</sg>,;
+<sg>embarrassment, oppilation</sg>,;
+<sg>coarctation, stricture, restriction</sg>,;
+<sg>restraint ,<cref> 751 <i>warfare</i></cref></sg>,;
+<sg>inhibition ,<cref> 761 <i>failure</i></cref></sg>,;
+<sg>blockade ,<cref>261 <i>closure</i></cref></sg>,;
+<sg>interference, interposition</sg>,;
+<sg>obtrusion</sg>,;
+<sg>discouragement, discountenance</sg>,;
+<sg>impediment, let, obstacle, obstruction, knot, knag</sg>,;
+<sg>check, hitch, contretemps, screw loose, grit in the oil</sg>,;
+<sg>bar, stile, barrier</sg>,;
+<sg>turnstile, turnpike</sg>,;
+<sg>gate, portcullis</sg>,;
+<sg>beaver dam</sg>,;
+<sg>trocha</sg>,;
+<sg>barricade ,<cref>717 <i>defense</i></cref></sg>,;
+<sg>wall, dead wall, sea wall, levee breakwater, groyne</sg>,;
+<sg>bulkhead, block, buffer</sg>,;
+<sg>stopper ,<cref> 263 <i>sponge</i></cref></sg>,;
+<sg>boom, dam, weir, burrock</sg>,;
+<sg>drawback, objection</sg>,;
+<sg>stumbling-block, stumbling-stone</sg>,;
+<sg>lion in the path, snag</sg>,;
+<sg>snags and sawyers</sg>,;
+<sg>encumbrance, incumbrance</sg>,;
+<sg>clog, skid, shoe, spoke</sg>,;
+<sg>drag, drag chain, drag weight</sg>,;
+<sg>stay, stop</sg>,;
+<sg>preventive, prophylactic</sg>,;
+<sg>load, burden, fardel, onus, millstone round one's neck, impedimenta</sg>,;
+<sg>dead weight</sg>,;
+<sg>lumber, pack</sg>,;
+<sg>nightmare, Ephialtes, incubus, old man of the sea</sg>,;
+<sg>remora</sg>,;
+<sg>difficulty ,<cref> 704 <i>essay</i></cref></sg>,;
+<sg>insuperable ,<cref> 471 <i>thought</i></cref></sg>,;
+<sg>obstacle</sg>,;
+<sg>estoppel</sg>,;
+<sg>ill wind</sg>,;
+<sg>head wind ,<cref>708 <i>opposition</i></cref></sg>,;
+<sg>trammel, tether ,<cref>752 <i>means of restraint</i></cref></sg>,;
+<sg>hold back, counterpoise</sg>,;
+<sg>damper, wet blanket, hinderer, marplot, killjoy</sg>,;
+<sg>party pooper</sg>,;
+<sg>party crasher, interloper</sg>,;
+<sg>trail of a red herring</sg>,;
+<sg>opponent ,<cref> 710 <i>inaction</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>hinder, impede, filibuster, impedite, embarrass</sg>,;
+<sg>keep off, stave off, ward off</sg>,;
+<sg>obviate</sg>,;
+<sg>avert, antevert</sg>,;
+<sg>turn aside, draw off, prevent, forefend, nip in the bud</sg>,;
+<sg>retard, slacken, check, let</sg>,;
+<sg>counteract, countercheck</sg>,;
+<sg>preclude, debar, foreclose, estop</sg>,;
+<sg>inhibit ,<cref> 761 <i>failure</i></cref></sg>,;
+<sg>shackle ,<cref>751 <i>restrain</i></cref></sg>,;
+<sg>restrict</sg>,;
+<sg>obstruct, stop, stay, bar, bolt, lock</sg>,;
+<sg>block, block up</sg>,;
+<sg>choke off</sg>,;
+<sg>belay, barricade</sg>,;
+<sg>block the way, bar the way, stop the way</sg>,;
+<sg>forelay</sg>,;
+<sg>dam up ,<cref>261 <i>close</i></cref></sg>,;
+<sg>put on the brake</sg>,;
+<sg>scotch the wheel, lock the wheel, put a spoke in the wheel</sg>,;
+<sg>put a stop to ,<cref> 142 <i>untimeliness</i></cref></sg>,;
+<sg>traverse, contravene</sg>,;
+<sg>interrupt, intercept</sg>,;
+<sg>oppose ,<cref> 708 <i>misuse</i></cref></sg>,;
+<sg>hedge in, hedge round</sg>,;
+<sg>cut off</sg>,;
+<sg>inerclude</sg>,;
+<sg>interpose, interfere, intermeddle ,<cref> 682 <i>uncleanness</i></cref></sg>,;
+<sg>cramp, hamper</sg>,;
+<sg>clog, clog the wheels</sg>,;
+<sg>cumber</sg>,;
+<sg>encumber, incumber</sg>,;
+<sg>handicap</sg>,;
+<sg>choke</sg>,;
+<sg>saddle with, load with</sg>,;
+<sg>overload, lay</sg>,;
+<sg>lumber, trammel, tie one's hands, put to inconvenience</sg>,;
+<sg>incommode, discommode</sg>,;
+<sg>discompose</sg>,;
+<sg>hustle, corner, drive into a corner</sg>,;
+<sg>run foul of, fall foul of</sg>,;
+<sg>cross the path of, break in upon</sg>,;
+<sg>thwart, frustrate, disconcert, balk, foil</sg>,;
+<sg>faze, feaze, feeze</sg>,;
+<sg>baffle, snub, override, circumvent</sg>,;
+<sg>defeat ,<cref> 731 <i>cunning</i></cref></sg>,;
+<sg>spike guns ,<cref>645 <i>render useless</i></cref></sg>,;
+<sg>spoil, mar, clip the wings of</sg>,;
+<sg>cripple ,<cref>659 <i>injure</i></cref></sg>,;
+<sg>put an extinguisher on</sg>,;
+<sg>damp</sg>,;
+<sg>dishearten ,<cref>616 <i>dissuade</i></cref></sg>,;
+<sg>discountenance, throw cold water on, spoil sport</sg>,;
+<sg>lay a wet blanket, throw a wet blanket on</sg>,;
+<sg>cut the ground from under one, take the wind out of one's sails, undermine</sg>,;
+<sg>be in the way of, stand in the way of</sg>,;
+<sg>act as a drag</sg>,;
+<sg>hang like a millstone round one's neck</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>hindering</sg>,;
+<sg>obstructive, obstruent</sg>,;
+<sg>impeditive, impedient</sg>,;
+<sg>intercipient</sg>,;
+<sg>prophylactic ,<cref>662 <i>remedial</i></cref></sg>,;
+<sg>impedimentary</sg>,;
+<sg>in the way of, unfavorable</sg>,;
+<sg>onerous, burdensome</sg>,;
+<sg>cumbrous, cumbersome</sg>,;
+<sg>obtrusive</sg>,;
+<sg>hindered</sg>,;
+<sg>windbound, waterlogged, heavy laden</sg>,;
+<sg>hard pressed</sg>,;
+<sg>unassisted &c (assist) ,<cref> 707 <i>disuse</i></cref></sg>,;
+<sg>single-handed, alone</sg>,;
+<sg>deserted ,<cref> 624 <i>prose</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>occurrent nubes</sg>,;
+<br>
+</paragraph>

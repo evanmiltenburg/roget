@@ -1,0 +1,128 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#37#</sectionNumber>
+<headword>#<b>#[001] #947# Malevolence #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>malevolence</i></sg>,;
+<sg>bad intent, bad intention</sg>,;
+<sg>unkindness, diskindness</sg>,;
+<sg>ill nature, ill will, ill blood</sg>,;
+<sg>bad blood</sg>,;
+<sg>enmity ,<cref> 889 <i>taste</i></cref></sg>,;
+<sg>hate ,<cref> 898 <i>hopelessness</i></cref></sg>,;
+<sg>malignity</sg>,;
+<sg>malice, malice prepense</sg>,;
+<sg>maliciousness</sg>,;
+<sg>spite, despite</sg>,;
+<sg>resentment ,<cref> 900 <i>courage</i></cref></sg>,;
+<sg>uncharitableness</sg>,;
+<sg>incompassionateness ,<cref> 914 <i>nobility</i></cref></sg>,;
+<sg>1</sg>,;
+<sg>gall, venom, rancor, rankling, virulence, mordacity, acerbity churlishness ,<cref>895 <i>discourtesy</i></cref></sg>,;
+<sg>hardness of heart, heart of stone, obduracy</sg>,;
+<sg>cruelty</sg>,;
+<sg>cruelness</sg>,;
+<sg>brutality, savagery</sg>,;
+<sg>ferity, ferocity</sg>,;
+<sg>barbarity, inhumanity, immanity, truculence, ruffianism</sg>,;
+<sg>evil eye, cloven foot</sg>,;
+<sg>torture, vivisection</sg>,;
+<sg>ill turn, bad turn</sg>,;
+<sg>affront ,<cref>929 <i>disrespect</i></cref></sg>,;
+<sg>outrage, atrocity</sg>,;
+<sg>ill usage</sg>,;
+<sg>intolerance, persecution</sg>,;
+<sg>tender mercies</sg>,;
+<sg>unkindest cut of all</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be malevolent</sg>,;
+<sg>bear spleen, harbor spleen, bear a grudge, harbor a grudge, bear malice</sg>,;
+<sg>betray the cloven foot, show the cloven foot</sg>,;
+<sg>hurt ,<cref>378 <i>physical pain</i></cref></sg>,;
+<sg>annoy ,<cref> 830 <i>merchant</i></cref></sg>,;
+<sg>injure</sg>,;
+<sg>, harm, wrong</sg>,;
+<sg>do harm to, do an ill office to</sg>,;
+<sg>outrage</sg>,;
+<sg>disoblige, malign, plant a thorn in the breast</sg>,;
+<sg>molest, worry, harass, haunt, harry, bait, tease</sg>,;
+<sg>throw stones at</sg>,;
+<sg>play the devil with</sg>,;
+<sg>hunt down, dragoon, hound</sg>,;
+<sg>persecute, oppress, grind</sg>,;
+<sg>maltreat</sg>,;
+<sg>illtreat, ill-use</sg>,;
+<sg>wreak one's malice on, do one's worst, break a butterfly on the wheel</sg>,;
+<sg>dip one's hands in blood, imbrue one's hands in blood</sg>,;
+<sg>have no mercy ,<cref> 914 <i>nobility</i></cref></sg>,;
+<sg>1</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>malevolent, unbenevolent</sg>,;
+<sg>unbenign</sg>,;
+<sg>ill-disposed, ill-intentioned, ill-natured, ill-conditioned, ill-contrived</sg>,;
+<sg>evil-minded, evil- disposed</sg>,;
+<sg>black-browed</sg>,;
+<sg>malicious</sg>,;
+<sg>malign, malignant</sg>,;
+<sg>rancorous</sg>,;
+<sg>despiteful, spiteful</sg>,;
+<sg>mordacious, caustic, bitter, envenomed, acrimonious, virulent</sg>,;
+<sg>unamiable, uncharitable</sg>,;
+<sg>maleficent, venomous, grinding, galling</sg>,;
+<sg>harsh, disobliging</sg>,;
+<sg>unkind, unfriendly, ungracious</sg>,;
+<sg>inofficious</sg>,;
+<sg>invidious</sg>,;
+<sg>uncandid</sg>,;
+<sg>churlish ,<cref>895 <i>discourteous</i></cref></sg>,;
+<sg>surly, sullen ,<cref> 901 <i>cowardice</i></cref></sg>,;
+<sg>1</sg>,;
+<sg>cold, cold-blooded, cold-hearted</sg>,;
+<sg>black-hearted, hard-hearted, flint-hearted, marble-hearted, stony-hearted</sg>,;
+<sg>hard of heart, unnatural</sg>,;
+<sg>ruthless ,<cref>914 <i>unmerciful</i></cref></sg>,;
+<sg>1</sg>,;
+<sg>relentless ,<cref>919 <i>revengeful</i></cref></sg>,;
+<sg>cruel</sg>,;
+<sg>brutal, brutish</sg>,;
+<sg>savage, savage as a bear, savage as a tiger</sg>,;
+<sg>ferine, ferocious</sg>,;
+<sg>inhuman</sg>,;
+<sg>barbarous, barbaric, semibarbaric, fell, untamed, tameless, truculent, incendiary</sg>,;
+<sg>bloodthirsty ,<cref>361 <i>murderous</i></cref></sg>,;
+<sg>atrocious</sg>,;
+<sg>bloodyminded</sg>,;
+<sg>fiendish, fiendlike</sg>,;
+<sg>demoniacal</sg>,;
+<sg>diabolic, diabolical</sg>,;
+<sg>devilish, infernal, hellish, Satanic</sg>,;
+<sg>Tartaran</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>malevolently</sg>,;
+<sg>with bad intent</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>cruel as death</sg>,;
+<sg>hard unkindness' alter'd eye</sg>,;
+<sg>homo homini lupus</sg>,;
+<sg>mala mens, malus animus</sg>,;
+<sg>rich gifts wax poor when givers prove unkind</sg>,;
+<sg>sharp-tooth'd unkindness</sg>,;
+<br>
+</paragraph>

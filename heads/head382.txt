@@ -1,0 +1,46 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#15#</sectionNumber>
+<headword>#<b>#[001] #382# Husbandry #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>husbandry, </i>taming</sg>,;
+<sg>circuration, zoohygiantics</sg>,;
+<sg>domestication, domesticity</sg>,;
+<sg>manege, veterinary art</sg>,;
+<sg>farriery</sg>,;
+<sg>breeding, pisciculture</sg>,;
+<sg>menagerie, vivarium, zoological garden</sg>,;
+<sg>bear pit</sg>,;
+<sg>aviary, apiary, alveary, beehive</sg>,;
+<sg>hive</sg>,;
+<sg>aquarium, fishery</sg>,;
+<sg>duck pond, fish pond</sg>,;
+<sg>phthisozoics ,<cref>361 <i>killing</i></cref></sg>,;
+<sg>euthanasia, sacrifice, humane destruction</sg>,;
+<sg>neatherd, cowherd, shepherd</sg>,;
+<sg>grazier, drover, cowkeeper</sg>,;
+<sg>trainer, breeder</sg>,;
+<sg>apiarian, apiarist</sg>,;
+<sg>bull whacker, cowboy, cow puncher, farrier</sg>,;
+<sg>horse leech, horse doctor</sg>,;
+<sg>vaquero, veterinarian, vet, veterinary surgeon</sg>,;
+<sg>cage ,<cref>752 <i>prison</i></cref></sg>,;
+<sg>hencoop, bird cage, cauf</sg>,;
+<sg>range, sheepfold, ,<cref>232 <i>inclosure</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>tame, domesticate, acclimatize, breed, tend, break in, train</sg>,;
+<sg>cage, bridle, ,<cref>751 <i>restrain</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>pastoral, bucolic</sg>,;
+<sg>tame, domestic</sg>,;
+<br>
+</paragraph>

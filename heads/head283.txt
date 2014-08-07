@@ -1,0 +1,79 @@
+<classNumber>#2#</classNumber>
+<sectionNumber>#12#</sectionNumber>
+<headword>#<b>#[001] #283# Vehicle #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>vehicle, </i>conveyance, carriage, caravan, van</sg>,;
+<sg>common carrier</sg>,;
+<sg>wagon, waggon, wain, dray, cart, lorry</sg>,;
+<sg>truck, tram</sg>,;
+<sg>cariole, carriole</sg>,;
+<sg>limber, tumbrel, pontoon</sg>,;
+<sg>barrow</sg>,;
+<sg>wheel barrow, hand barrow</sg>,;
+<sg>perambulator</sg>,;
+<sg>Bath chair, wheel chair, sedan chair</sg>,;
+<sg>chaise</sg>,;
+<sg>palankeen, palanquin</sg>,;
+<sg>litter, brancard, crate, hurdle, stretcher, ambulance</sg>,;
+<sg>black Maria</sg>,;
+<sg>conestoga wagon, conestoga wain</sg>,;
+<sg>jinrikisha, ricksha, brett, dearborn, dump cart, hack, hackery, jigger, kittereen, mailstate, manomotor, rig, rockaway, prairie schooner, shay, sloven, team, tonga, wheel</sg>,;
+<sg>hobbyhorse, go-cart</sg>,;
+<sg>cycle</sg>,;
+<sg>bicycle, bike, two-wheeler</sg>,;
+<sg>tricycle, velocipede, quadricycle</sg>,;
+<sg>equipage, turn-out</sg>,;
+<sg>coach, chariot, phaeton, break, mail phaeton, wagonette, drag, curricle, tilbury, whisky, landau, barouche, victoria, brougham, clarence, calash, caleche, britzka, araba, kibitka</sg>,;
+<sg>berlin</sg>,;
+<sg>sulky, desobligeant, sociable, vis-a-vis, dormeuse</sg>,;
+<sg>jaunting car, outside car</sg>,;
+<sg>dandi</sg>,;
+<sg>doolie, dooly</sg>,;
+<sg>munchil, palki</sg>,;
+<sg>roller skates, skate</sg>,;
+<sg>runabout</sg>,;
+<sg>ski</sg>,;
+<sg>tonjon</sg>,;
+<sg>vettura</sg>,;
+<sg>post chaise, diligence, stage</sg>,;
+<sg>stage coach, mail coach, hackney coach, glass coach</sg>,;
+<sg>stage wagon, car, omnibus, fly, cabriolet, cab, hansom, shofle, four-wheeler, growler, droshki, drosky</sg>,;
+<sg>dogcart, trap, whitechapel, buggy, four-in-hand, unicorn, random, tandem</sg>,;
+<sg>shandredhan, char-a-bancs</sg>,;
+<sg>motor car, automobile, limousine, car, auto, jalopy, clunker, lemon, flivver, coupe, sedan, two-door sedan, four-door sedan, luxury sedan</sg>,;
+<sg>wheels, sports car, roadster, gran turismo, jeep, four-wheel drive vehicle, electric car, steamer</sg>,;
+<sg>golf cart, electric wagon</sg>,;
+<sg>taxicab, cab, taxicoach, checker cab, yellow cab</sg>,;
+<sg>station wagon, family car</sg>,;
+<sg>motorcycle, motor bike, side car</sg>,;
+<sg>van, minivan, bus, minibus, microbus</sg>,;
+<sg>truck, wagon, pick-up wagon, pick-up, tractor- trailer, road train, articulated vehicle</sg>,;
+<sg>racing car, racer, hot rod, stock car, souped-up car</sg>,;
+<sg>bob, bobsled, bobsleigh</sg>,;
+<sg>cutter</sg>,;
+<sg>double ripper, double runner</sg>,;
+<sg>jumper, sled, sledge, sleigh, toboggan</sg>,;
+<sg>train</sg>,;
+<sg>accommodation train, passenger train, express trail, special train, corridor train, parliamentary train, luggage train, freight train, goods train</sg>,;
+<sg>1st class train, 2nd class train, 3rd class train, 1st class carriage, 2nd class carriage, 3rd class carriage, 1st class compartment, 2nd class compartment, 3rd class compartment</sg>,;
+<sg>rolling stock</sg>,;
+<sg>horse box, cattle truck</sg>,;
+<sg>baggage car, express car, freight car, parlor car, dining car, Pullman car, sleeping car, sleeper, dome car</sg>,;
+<sg>surface car, tram car, trolley car</sg>,;
+<sg>box car, box wagon</sg>,;
+<sg>horse car</sg>,;
+<sg>bullet train, shinkansen, cannonball, the Wabash cannonball, lightning express</sg>,;
+<sg>luggage van</sg>,;
+<sg>mail, mail car, mail van</sg>,;
+<sg>shovel, spool, spatula, ladle, hod, hoe</sg>,;
+<sg>spade, spaddle, loy</sg>,;
+<sg>spud</sg>,;
+<sg>pitchfork</sg>,;
+<sg>post hole digger</sg>,;
+<sg>tractor, steamshovel, backhoe, fork lift, earth mover, dump truck, bulldozer, grader, caterpillar, trench digger, steamroller</sg>,;
+<sg>pile driver</sg>,;
+<sg>crane, wrecking crane</sg>,;
+<br>
+</paragraph>

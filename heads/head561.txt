@@ -1,0 +1,99 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#24#</sectionNumber>
+<headword>#<b>#[001] #561# Affirmation #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>affirmance, affirmation</sg>,;
+<sg>statement, allegation, assertion, predication, declaration, word, averment</sg>,;
+<sg>confirmation</sg>,;
+<sg>asseveration, adjuration, swearing, oath, affidavit</sg>,;
+<sg>deposition ,<cref>551 <i>record</i></cref></sg>,;
+<sg>avouchment</sg>,;
+<sg>assurance</sg>,;
+<sg>protest, protestation</sg>,;
+<sg>profession</sg>,;
+<sg>acknowledgment ,<cref>488 <i>assent</i></cref></sg>,;
+<sg>legal pledge, pronouncement</sg>,;
+<sg>solemn averment, solemn avowal, solemn declaration</sg>,;
+<sg>remark, observation</sg>,;
+<sg>position ,<cref>514 <i>proposition</i></cref>, saying, dictum, sentence, ipse dixit</sg>,;
+<sg>emphasis</sg>,;
+<sg>weight</sg>,;
+<sg>dogmatism ,<cref>474 <i>certainty</i></cref></sg>,;
+<sg>dogmatics ,<cref> 887 <i>blemish</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>assert</sg>,;
+<sg>make an assertion</sg>,;
+<sg>have one's say</sg>,;
+<sg>say, affirm, predicate, declare, state</sg>,;
+<sg>protest, profess</sg>,;
+<sg>put forth, put forward</sg>,;
+<sg>advance, allege, propose, propound, enunciate, broach, set forth, hold out, maintain, contend, pronounce, pretend</sg>,;
+<sg>depose, depone, aver, avow, avouch, asseverate, swear</sg>,;
+<sg>make oath, take one's oath</sg>,;
+<sg>make an affidavit, swear an affidavit, put in an affidavit</sg>,;
+<sg>take one's Bible oath, kiss the book, vow, vitam impendere vero</sg>,;
+<sg>swear till one is black in the face, swear till one is blue in the face, swear till all's blue</sg>,;
+<sg>be sworn, call Heaven to witness</sg>,;
+<sg>vouch, warrant, certify, assure, swear by bell book and candle</sg>,;
+<sg>swear by ,<cref>484 <i>believe</i></cref></sg>,;
+<sg>insist upon, take one's stand upon</sg>,;
+<sg>emphasize, lay stress on</sg>,;
+<sg>assert roundly, assert positively</sg>,;
+<sg>lay down, lay down the law</sg>,;
+<sg>raise one's voice, dogmatize, have the last word</sg>,;
+<sg>rap out</sg>,;
+<sg>repeat</sg>,;
+<sg>reassert, reaffirm</sg>,;
+<sg>announce ,<cref>527 <i>information</i></cref></sg>,;
+<sg>acknowledge ,<cref>488 <i>assent</i></cref></sg>,;
+<sg>attest ,<cref>467 <i>evidence</i></cref></sg>,;
+<sg>adjure ,<cref>768 <i>put to one's oath</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>asserting</sg>,;
+<sg>declaratory, predicatory, pronunciative, affirmative, soi-disant</sg>,;
+<sg>positive</sg>,;
+<sg>certain ,<cref> 474 <i>topic</i></cref></sg>,;
+<sg>express, explicit ,<cref>525 <i>patent</i></cref></sg>,;
+<sg>absolute, emphatic, flat, broad, round, pointed, marked, distinct, decided, confident, trenchant, dogmatic, definitive, formal, solemn, categorical, peremptory</sg>,;
+<sg>unretracted</sg>,;
+<sg>predicable</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>affirmatively</sg>,;
+<sg>in the affirmative</sg>,;
+<sg>with emphasis, ex-cathedra, without fear of contradiction</sg>,;
+<sg>as God is my witness, I must say, indeed, i' faith, let me tell you, why, give me leave to say, marry, you may be sure, I'd have you to know</sg>,;
+<sg>upon my word, upon my honor</sg>,;
+<sg>by my troth, egad, I assure you</sg>,;
+<sg>by jingo, by Jove, by George, </sg>,;
+<sg>troth, seriously, sadly</sg>,;
+<sg>in sadness, in sober sadness, in truth, in earnest</sg>,;
+<sg>of a truth, truly, perdy, in all conscience, upon oath</sg>,;
+<sg>be assured ,<cref>484 <i>belief</i></cref></sg>,;
+<sg>yes ,<cref>488 <i>assent</i></cref></sg>,;
+<sg>I'll warrant, I'll warrant you, I'll engage, I'll answer for it, I'll be bound, I'll venture to say, I'll take my oath</sg>,;
+<sg>in fact, forsooth, joking apart</sg>,;
+<sg>so help me God</sg>,;
+<sg>not to mince the matter</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>quoth he</sg>,;
+<sg>dixi</sg>,;
+<br>
+</paragraph>

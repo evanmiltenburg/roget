@@ -1,0 +1,64 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#38#</sectionNumber>
+<headword>#<b>#[001] #1011# Lawyer #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>lawyer, </i>attorney, legal counsel</sg>,;
+<sg>counsel, counsellor, counsellor at law, attorney at law</sg>,;
+<sg>jurist, legist, civilian, pundit, publicist, juris consult, legal adviser, advocate</sg>,;
+<sg>barrister, barrister at law</sg>,;
+<sg>King's or Queen's counsel</sg>,;
+<sg>K</sg>,;
+<sg>C</sg>,;
+<sg>Q</sg>,;
+<sg>C</sg>,;
+<sg>silk gown, leader, sergeant-at-law, bencher</sg>,;
+<sg>tubman, judge ,<cref> 967 <i>duty</i></cref></sg>,;
+<sg>bar, legal profession, bar association, association of trial lawyers</sg>,;
+<sg>officer of the court</sg>,;
+<sg>gentleman of the long robe</sg>,;
+<sg>junior bar, outer bar, inner bar</sg>,;
+<sg>equity draftsman, conveyancer, pleader, special pleader</sg>,;
+<sg>solicitor, proctor</sg>,;
+<sg>notary, notary public</sg>,;
+<sg>scrivener, cursitor</sg>,;
+<sg>writer, writer to the signet</sg>,;
+<sg>S</sg>,;
+<sg>S</sg>,;
+<sg>C</sg>,;
+<sg>limb of the law</sg>,;
+<sg>pettifogger</sg>,;
+<sg>vakil</sg>,;
+<sg>legal beagle</sg>,;
+<sg>legal secretary</sg>,;
+<sg>legal assistant</sg>,;
+<sg>law student</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>practice law, practice at the bar, practice within the bar</sg>,;
+<sg>plead</sg>,;
+<sg>call to the bar, be called to the bar, be called within the bar</sg>,;
+<sg>take silk</sg>,;
+<sg>take to the law</sg>,;
+<sg>give legal counsel, provide legal counsel</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>learned in the law</sg>,;
+<sg>at the bar</sg>,;
+<sg>forensic</sg>,;
+<sg>esquire, esquired</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>banco regis</sg>,;
+<br>
+</paragraph>

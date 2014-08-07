@@ -1,0 +1,68 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#15#</sectionNumber>
+<headword>#<b>#[001] #462# Dimsightedness #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>dimsightedness, </i>dim sight, dull sight half sight, short sight, near sight, long sight, double sight, astigmatic sight, failing sight</sg>,;
+<sg>dimsightedness </sg>,;
+<sg>purblindness, lippitude</sg>,;
+<sg>myopia, presbyopia</sg>,;
+<sg>confusion of vision</sg>,;
+<sg>astigmatism</sg>,;
+<sg>color blindness, chromato pseudo blepsis, Daltonism</sg>,;
+<sg>nyctalopia</sg>,;
+<sg>strabismus, strabism, squint</sg>,;
+<sg>blearedness, day blindness, hemeralopia, nystagmus</sg>,;
+<sg>xanthocyanopia, xanthopsia</sg>,;
+<sg>cast in the eye, swivel eye, goggle-eyes</sg>,;
+<sg>obliquity of vision</sg>,;
+<sg>winking</sg>,;
+<sg>nictitation</sg>,;
+<sg>blinkard, albino</sg>,;
+<sg>dizziness, swimming, scotomy</sg>,;
+<sg>cataract</sg>,;
+<sg>ophthalmia</sg>,;
+<sg>blinker</sg>,;
+<sg>screen ,<cref>530 <i>hider</i></cref></sg>,;
+<sg>deceptio visus</sg>,;
+<sg>refraction, distortion, illusion, false light, anamorphosis, virtual image, spectrum, mirage, looming, phasma</sg>,;
+<sg>phantasm, phantasma, phantom</sg>,;
+<sg>vision</sg>,;
+<sg>specter, apparition, ghost</sg>,;
+<sg>ignis fatuus  ,<cref>423 <i>luminary</i></cref></sg>,;
+<sg>specter of the Brocken</sg>,;
+<sg>magic mirror</sg>,;
+<sg>magic lantern ,<cref>448 <i>show</i></cref></sg>,;
+<sg>mirror lens ,<cref>445 <i>instrument</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be dimsighted</sg>,;
+<sg>see double</sg>,;
+<sg>have a mote in the eye, have a mist before the eyes, have a film over the eyes</sg>,;
+<sg>see through a prism, see through a glass darkly</sg>,;
+<sg>wink, blink, nictitate</sg>,;
+<sg>squint</sg>,;
+<sg>look askant, askant askance</sg>,;
+<sg>screw up the eyes, glare, glower</sg>,;
+<sg>nictate</sg>,;
+<sg>dazzle, loom</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>dim-sighted</sg>,;
+<sg>myopic, presbyopic</sg>,;
+<sg>astigmatic, moon-eyed, mope-eyed, blear-eyed, goggle-eyed, gooseberry-eyed, one-eyed</sg>,;
+<sg>blind of one eye, monoculous</sg>,;
+<sg>half-blind, purblind</sg>,;
+<sg>cock-eyed, dim-eyed, mole- eyed</sg>,;
+<sg>dichroic</sg>,;
+<sg>blind as a bat ,<cref>442 <i>blind</i></cref></sg>,;
+<sg>winking</sg>,;
+<br>
+</paragraph>

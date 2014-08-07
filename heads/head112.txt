@@ -1,0 +1,23 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#6#</sectionNumber>
+<headword>#<b>#[001] #112# Neverness #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>neverness</i></sg>,;
+<sg>absence of time, no time</sg>,;
+<sg>dies non</sg>,;
+<sg>Tib's eve</sg>,;
+<sg>Greek Kalends, a blue moon</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>never, ne'er</sg>,;
+<sg>at no time, at no period</sg>,;
+<sg>on the second Tuesday of the week, when Hell freezes over</sg>,;
+<sg>on no occasion, never in all one's born days, nevermore, sine die</sg>,;
+<sg>in no degree</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,33 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#38#</sectionNumber>
+<headword>#<b>#[001] #994# Atonement #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>atonement, </i>reparation</sg>,;
+<sg>compromise, composition</sg>,;
+<sg>compensation ,<cref> 30 <i>inequality</i></cref></sg>,;
+<sg>quittance, quits</sg>,;
+<sg>expiation, redemption, reclamation, conciliation, propitiation</sg>,;
+<sg>indemnification, redress</sg>,;
+<sg>amends, apology, amende honorable, satisfaction</sg>,;
+<sg>peace offering, sin offering, burnt offering</sg>,;
+<sg>scapegoat, sacrifice</sg>,;
+<sg>penance, fasting, maceration, sackcloth and ashes, white sheet, shrift, flagellation, lustration</sg>,;
+<sg>purgation, purgatory</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>atone, atone for</sg>,;
+<sg>expiate</sg>,;
+<sg>propitiate</sg>,;
+<sg>make amends, make good</sg>,;
+<sg>reclaim, redeem, repair, ransom, absolve, purge, shrive, do penance, stand in a white sheet, repent in sackcloth and ashes, wear a hairshirt</sg>,;
+<sg>set one's house in order, wipe off old scores, make matters up</sg>,;
+<sg>pay the forfeit, pay the penalty</sg>,;
+<sg>apologize, beg pardon, fair l'amende honorable, give satisfaction</sg>,;
+<sg>come down on one's knees, fall down on one's knees, down on one's marrow bones</sg>,;
+<br>
+</paragraph>

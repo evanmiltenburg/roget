@@ -1,0 +1,81 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#30#</sectionNumber>
+<headword>#<b>#[001] #764# Adversity #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>adversity, </i>evil ,<cref> 619 <i>book</i></cref></sg>,;
+<sg>failure ,<cref> 732 <i>artlessness</i></cref></sg>,;
+<sg>bad luck, ill luck, evil luck, adverse luck, hard fortune, hard hap, hard luck, hard lot</sg>,;
+<sg>frowns of fortune</sg>,;
+<sg>evil dispensation, evil star, evil genius</sg>,;
+<sg>vicissitudes of life, ups and downs of life, broken fortunes</sg>,;
+<sg>hard case, hard lines, hard life</sg>,;
+<sg>sea of troubles</sg>,;
+<sg>peck of troubles</sg>,;
+<sg>hell upon earth</sg>,;
+<sg>slough of despond</sg>,;
+<sg>trouble, hardship, curse, blight, blast, load, pressure</sg>,;
+<sg>pressure of the times, iron age, evil day, time out of joint</sg>,;
+<sg>hard times, bad times, sad times</sg>,;
+<sg>rainy day, cloud, dark cloud, gathering clouds, ill wind</sg>,;
+<sg>visitation, infliction</sg>,;
+<sg>affliction ,<cref>830 <i>painfulness</i></cref></sg>,;
+<sg>bitter pill</sg>,;
+<sg>care, trial</sg>,;
+<sg>the sport of fortune</sg>,;
+<sg>mishap, mischance, misadventure, misfortune</sg>,;
+<sg>disaster, calamity, catastrophe</sg>,;
+<sg>accident, casualty, cross, reverse, check, contretemps, rub</sg>,;
+<sg>backset, comedown, setback</sg>,;
+<sg>losing game</sg>,;
+<sg>falling</sg>,;
+<sg>fall, downfall</sg>,;
+<sg>ruination, ruinousness</sg>,;
+<sg>undoing</sg>,;
+<sg>extremity</sg>,;
+<sg>ruin ,<cref>162 <i>destruction</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be ill off</sg>,;
+<sg>go hard with</sg>,;
+<sg>fall on evil, fall on evil days</sg>,;
+<sg>go on ill</sg>,;
+<sg>not prosper ,<cref> 734 <i>facility</i></cref></sg>,;
+<sg>go downhill, go to rack and ruin ,<cref>162 <i>destruction</i></cref>, go to the dogs</sg>,;
+<sg>fall, fall from one's high estate</sg>,;
+<sg>decay, sink, decline, go down in the world</sg>,;
+<sg>have seen better days</sg>,;
+<sg>bring down one's gray hairs with sorrow to the grave</sg>,;
+<sg>come to grief</sg>,;
+<sg>be all over, be up with</sg>,;
+<sg>bring a wasp's nest about one's ears, bring a hornet's nest about one's ears</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>unfortunate, unblest, unhappy, unlucky</sg>,;
+<sg>improsperous, unprosperous</sg>,;
+<sg>hoodooed</sg>,;
+<sg>luckless, hapless</sg>,;
+<sg>out of luck</sg>,;
+<sg>in trouble, in a bad way, in an evil plight</sg>,;
+<sg>under a cloud</sg>,;
+<sg>clouded</sg>,;
+<sg>ill off, badly off</sg>,;
+<sg>in adverse circumstances</sg>,;
+<sg>poor ,<cref> 804 <i>observance</i></cref></sg>,;
+<sg>behindhand, down in the world, decayed, undone</sg>,;
+<sg>on the road to ruin, on its last legs, on the wane</sg>,;
+<sg>in one's utmost need</sg>,;
+<sg>planet-struck, devoted</sg>,;
+<sg>born under an evil star, born with a wooden ladle in one's mouth</sg>,;
+<sg>ill-fated, ill-starred, ill-omened</sg>,;
+<sg>adverse, untoward</sg>,;
+<sg>disastrous, calamitous, ruinous, dire, deplorable</sg>,;
+<br>
+</paragraph>

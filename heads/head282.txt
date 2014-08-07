@@ -1,0 +1,41 @@
+<classNumber>#2#</classNumber>
+<sectionNumber>#12#</sectionNumber>
+<headword>#<b>#[001] #282# Carrier #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>carrier, </i>porter, bearer, tranter, conveyer</sg>,;
+<sg>cargador</sg>,;
+<sg>express, expressman</sg>,;
+<sg>stevedore, coolie</sg>,;
+<sg>conductor, locomotive, motor</sg>,;
+<sg>beast, beast of burden, cattle, horse, nag, palfrey, Arab, blood horse, thoroughbred, galloway, charger, courser, racer, hunter, jument, pony, filly, colt, foal, barb, roan, jade, hack, bidet, pad, cob, tit, punch, roadster, goer</sg>,;
+<sg>racehorse, pack horse, draft horse, cart horse, dray horse, post horse</sg>,;
+<sg>ketch</sg>,;
+<sg>Shetland pony, shelty, sheltie</sg>,;
+<sg>garran, garron</sg>,;
+<sg>jennet, genet, bayard, mare, stallion, gelding</sg>,;
+<sg>bronco, broncho, cayuse</sg>,;
+<sg>creature, critter</sg>,;
+<sg>cow pony, mustang, Narraganset, waler</sg>,;
+<sg>stud</sg>,;
+<sg>Pegasus, Bucephalus, Rocinante</sg>,;
+<sg>ass, donkey, jackass, mule, hinny</sg>,;
+<sg>sumpter horse, sumpter mule</sg>,;
+<sg>burro, cuddy, ladino</sg>,;
+<sg>reindeer</sg>,;
+<sg>camel, dromedary, llama, elephant</sg>,;
+<sg>carrier pigeon</sg>,;
+<sg>pallet, brace, cart, dolley</sg>,;
+<sg>support ,<cref> 215 <i>height</i></cref></sg>,;
+<sg>fork lift</sg>,;
+<sg>carriage ,<cref>272 <i>vehicle</i></cref></sg>,;
+<sg>ship ,<cref> 273 <i>perforator</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>equine, asinine</sg>,;
+<br>
+</paragraph>

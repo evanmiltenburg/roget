@@ -1,0 +1,68 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#28#</sectionNumber>
+<headword>#<b>#[001] #721# Conduct #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>conduct</i></sg>,;
+<sg>behavior</sg>,;
+<sg>deportment, comportment</sg>,;
+<sg>carriage, maintien, demeanor, guise, bearing, manner, observance</sg>,;
+<sg>dealing, transaction ,<cref>680 <i>action</i></cref></sg>,;
+<sg>business ,<cref> 625 <i>the drama</i></cref></sg>,;
+<sg>tactics, game, game plan, policy, polity</sg>,;
+<sg>generalship, statesmanship, seamanship</sg>,;
+<sg>strategy, strategics</sg>,;
+<sg>plan ,<cref> 626 <i>will</i></cref></sg>,;
+<sg>management</sg>,;
+<sg>husbandry</sg>,;
+<sg>housekeeping, housewifery</sg>,;
+<sg>stewardship</sg>,;
+<sg>menage</sg>,;
+<sg>regime</sg>,;
+<sg>economy, economics</sg>,;
+<sg>political economy</sg>,;
+<sg>government ,<cref>693 <i>direction</i></cref></sg>,;
+<sg>execution, manipulation, treatment, campaign, career, life, course, walk, race, record</sg>,;
+<sg>course of conduct, line of conduct, line of action, line of proceeding</sg>,;
+<sg>role</sg>,;
+<sg>process, ways, practice, procedure, modus operandi, MO, method of operating</sg>,;
+<sg>method </sg>,;
+<sg>path ,<cref> 627 <i>necessity</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>transact, execute</sg>,;
+<sg>despatch, dispatch</sg>,;
+<sg>proceed with, discharge</sg>,;
+<sg>carry on, carry through, carry out, carry into effect, put into effect</sg>,;
+<sg>work out</sg>,;
+<sg>go through, get through</sg>,;
+<sg>enact</sg>,;
+<sg>put into practice</sg>,;
+<sg>do ,<cref> 680 <i>imperfection</i></cref></sg>,;
+<sg>officiate ,<cref> 625 <i>the drama</i></cref></sg>,;
+<sg>bear oneself, behave oneself, comport oneself, demean oneself, carry oneself, conduct oneself, acquit oneself</sg>,;
+<sg>run a race, lead a life, play a game</sg>,;
+<sg>take a course, adopt a course</sg>,;
+<sg>steer one's course, shape one's course</sg>,;
+<sg>play one's paint, play one's cards, shift for oneself</sg>,;
+<sg>paddle one's own canoe</sg>,;
+<sg>bail one's own boat</sg>,;
+<sg>conduct</sg>,;
+<sg>manage, supervise ,<cref>693 <i>direct</i></cref></sg>,;
+<sg>participate ,<cref> 680 <i>imperfection</i></cref></sg>,;
+<sg>deal with, have to do with</sg>,;
+<sg>treat, handle a case</sg>,;
+<sg>take steps, take measures</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>conducting</sg>,;
+<sg>strategical, businesslike, practical, executive</sg>,;
+<br>
+</paragraph>

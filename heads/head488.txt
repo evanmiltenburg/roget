@@ -1,0 +1,25 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#17#</sectionNumber>
+<headword>#<b>#[001] #488# Identification #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>identification, </i>recognition, diagnosis, match</sg>,;
+<sg>apperception, assimilation</sg>,;
+<sg>dereplication</sg>,;
+<sg>classification</sg>,;
+<sg>memory ,<cref> 505 <i>misjudgment</i></cref></sg>,;
+<sg>interpretation ,<cref> 522 <i>wisdom</i></cref></sg>,;
+<sg>cognizance (knowledge) 490</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>identify, recognize, match, match up</sg>,;
+<sg>classify</sg>,;
+<sg>recall, remember ,<cref>505 <i>memory</i></cref></sg>,;
+<sg>find similarity (similarity) 17</sg>,;
+<sg>put in its proper place, put in its proper niche, place in order (arrangement) 60</sg>,;
+<br>
+</paragraph>

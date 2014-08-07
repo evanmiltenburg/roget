@@ -1,0 +1,66 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#1#</sectionNumber>
+<headword>#<b>#[001] #8# Circumstance #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>circumstance, </i>situation, phase, position, posture, attitude, place, point</sg>,;
+<sg>terms</sg>,;
+<sg>regime</sg>,;
+<sg>footing, standing, status</sg>,;
+<sg>occasion, juncture, conjunctive</sg>,;
+<sg>contingency ,<cref>151 <i>event</i></cref></sg>,;
+<sg>predicament</sg>,;
+<sg>emergence, emergency</sg>,;
+<sg>exigency, crisis, pinch, pass, push</sg>,;
+<sg>occurrence</sg>,;
+<sg>turning point</sg>,;
+<sg>bearings, how the land lies</sg>,;
+<sg>surroundings, context, environment 232</sg>,;
+<sg>location 184</sg>,;
+<sg>contingency, dependence (uncertainty) 475</sg>,;
+<sg>causation 153, attribution 155</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>circumstantial</sg>,;
+<sg>given, conditional, provisional</sg>,;
+<sg>critical</sg>,;
+<sg>modal</sg>,;
+<sg>contingent, incidental</sg>,;
+<sg>adventitious ,<cref>6 <i>extrinsic</i></cref></sg>,;
+<sg>limitative</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>in the circumstances, under the circumstances</sg>,;
+<sg>, the circumstances, conditions ,<cref> 7 <i>state</i></cref></sg>,;
+<sg>thus, in such wise</sg>,;
+<sg>accordingly</sg>,;
+<sg>that being the case, such being the case, in view of the circumstances</sg>,;
+<sg>that being so, sith, since, seeing that</sg>,;
+<sg>as matters stand</sg>,;
+<sg>as things go, as times go</sg>,;
+<sg>conditionally, provided, if, in case</sg>,;
+<sg>if so, if so be, if it be so</sg>,;
+<sg>depending on circumstances, in certain circumstances, under certain conditions</sg>,;
+<sg>if it so happen, if it so turn out</sg>,;
+<sg>in the event of</sg>,;
+<sg>in such a contingency, in such a case, in such an event</sg>,;
+<sg>provisionally, unless, without</sg>,;
+<sg>according to circumstances, according to the occasion</sg>,;
+<sg>as it may happen, as it may turn out, as it may be</sg>,;
+<sg>as the case may be, as the wind blows</sg>,;
+<sg>pro re nata</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>yet are my sins not those of circumstance</sg>,;
+<br>
+</paragraph>

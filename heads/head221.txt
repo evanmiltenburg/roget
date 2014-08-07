@@ -1,0 +1,49 @@
+<classNumber>#2#</classNumber>
+<sectionNumber>#10#</sectionNumber>
+<headword>#<b>#[001] #221# Verticality #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>verticality</i></sg>,;
+<sg>erectness</sg>,;
+<sg>perpendicularity ,<cref> 216 <i>lowness</i></cref></sg>,;
+<sg>1</sg>,;
+<sg>right angle, normal</sg>,;
+<sg>azimuth circle</sg>,;
+<sg>wall, precipice, cliff</sg>,;
+<sg>elevation, erection</sg>,;
+<sg>square, plumb line, plummet</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be vertical</sg>,;
+<sg>stand up, stand on end, stand erect, stand upright</sg>,;
+<sg>stick up, cock up</sg>,;
+<sg>render vertical</sg>,;
+<sg>set up, stick up, raise up, cock up</sg>,;
+<sg>erect, rear, raise on its legs</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>vertical, upright, erect, perpendicular, plumb, normal, straight, bolt, upright</sg>,;
+<sg>rampant</sg>,;
+<sg>standing up</sg>,;
+<sg>rectangular, orthogonal ,<cref> 216 <i>lowness</i></cref></sg>,;
+<sg>1</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>vertically</sg>,;
+<sg>up, on end</sg>,;
+<sg>up on end, right on end</sg>,;
+<sg>a plomb, endwise</sg>,;
+<sg>one one's legs</sg>,;
+<sg>at right angles</sg>,;
+<br>
+</paragraph>

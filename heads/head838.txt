@@ -1,0 +1,78 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#34#</sectionNumber>
+<headword>#<b>#[001] #838# Wealth #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>wealth, </i>riches, fortune, handsome fortune, opulence, affluence</sg>,;
+<sg>good circumstances, easy circumstances</sg>,;
+<sg>independence</sg>,;
+<sg>competence ,<cref>639 <i>sufficiency</i></cref></sg>,;
+<sg>solvency</sg>,;
+<sg>provision, livelihood, maintenance</sg>,;
+<sg>alimony, dowry</sg>,;
+<sg>means, resources, substance</sg>,;
+<sg>property ,<cref> 780 <i>subjection</i></cref></sg>,;
+<sg>command of money</sg>,;
+<sg>income ,<cref> 810 <i>exemption</i></cref></sg>,;
+<sg>capital, money</sg>,;
+<sg>round sum ,<cref>800 <i>treasure</i></cref></sg>,;
+<sg>mint of money, mine of wealth, El Dorado, bonanza, Pacatolus, Golconda, Potosi</sg>,;
+<sg>long purse, full purse, well lined purse, heavy purse, deep pockets</sg>,;
+<sg>purse of Fortunatus</sg>,;
+<sg>embarras de richesses</sg>,;
+<sg>pelf, Mammon, lucre, filthy lucre</sg>,;
+<sg>loaves and fishes</sg>,;
+<sg>rich man, moneyed man, warm man</sg>,;
+<sg>man of substance</sg>,;
+<sg>capitalist, millionaire, tippybob, Nabob, Croesus, idas, Plutus, Dives, Timon of Athens</sg>,;
+<sg>Timocracy, Plutocracy</sg>,;
+<sg>Danae</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be rich</sg>,;
+<sg>roll in wealth, roll in riches, wallow in wealth, wallow in riches</sg>,;
+<sg>afford, well afford</sg>,;
+<sg>command money, command a sum</sg>,;
+<sg>make both ends meet, hold one's head above water</sg>,;
+<sg>become rich</sg>,;
+<sg>strike it rich</sg>,;
+<sg>come into a sum of money, receive a windfall, receive an inheritance, hit the jackpot, win the lottery</sg>,;
+<sg>fill one's pocket ,<cref>802 <i>treasury</i></cref></sg>,;
+<sg>feather one's nest, make a fortune</sg>,;
+<sg>make money ,<cref>775 <i>acquire</i></cref></sg>,;
+<sg>enrich, imburse</sg>,;
+<sg>worship the golden calf, worship Mammon</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>wealthy, rich, affluent, opulent, moneyed, monied, worth much</sg>,;
+<sg>well to do, well off</sg>,;
+<sg>warm</sg>,;
+<sg>comfortable, well, well provided for</sg>,;
+<sg>made of money</sg>,;
+<sg>rich as Croesus, filthy rich, rich as a Jew</sg>,;
+<sg>rolling in riches, rolling in wealth</sg>,;
+<sg>flush, flush of cash, flush of money, flush of tin</sg>,;
+<sg>in funds, in cash, in full feather</sg>,;
+<sg>solvent, pecunious, out of debt, in the black, all straight</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>one's ship coming in</sg>,;
+<sg>amour fait beaucoup mais argent fait tout, love does much but money does everything</sg>,;
+<sg>aurea rumpunt tecta quietem</sg>,;
+<sg>magna servitus ist magna fortuna</sg>,;
+<sg>mammon, the least erected spirit that fell from Heaven</sg>,;
+<sg>opum furiata cupido</sg>,;
+<sg>vera prosperita e non aver necessita</sg>,;
+<sg>wie gewonnen so zerronnen</sg>,;
+<br>
+</paragraph>

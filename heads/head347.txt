@@ -1,0 +1,42 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#14#</sectionNumber>
+<headword>#<b>#[001] #347# Vaporization #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>vaporization, </i>volatilization</sg>,;
+<sg>gasification, evaporation, vaporation</sg>,;
+<sg>distillation, cupellation, cohobation, sublimination, exhalation</sg>,;
+<sg>volatility</sg>,;
+<sg>vaporizer, still, retort</sg>,;
+<sg>fumigation, steaming</sg>,;
+<sg>bay salt, chloride of sodium</sg>,;
+<sg>mister, spray</sg>,;
+<sg>bubble, effervescence</sg>,;
+<sg>'</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>render gaseous ,<cref> 334 <i>hardness</i></cref></sg>,;
+<sg>vaporize, volatilize</sg>,;
+<sg>distill, sublime</sg>,;
+<sg>evaporate, exhale, smoke, transpire, emit vapor, fume, reek, steam, fumigate</sg>,;
+<sg>cohobate</sg>,;
+<sg>finestill</sg>,;
+<sg>bubble, sparge, effervesce, boil</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>volatilized</sg>,;
+<sg>reeking</sg>,;
+<sg>volatile</sg>,;
+<sg>evaporable, vaporizable</sg>,;
+<sg>bubbly, effervescent, boiling</sg>,;
+<sg>2</sg>,;
+<sg>Specific Fluids</sg>,;
+<br>
+</paragraph>

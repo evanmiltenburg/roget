@@ -1,0 +1,103 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#36#</sectionNumber>
+<headword>#<b>#[001] #915# Commonalty #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>commonality, </i>commonalty, democracy</sg>,;
+<sg>obscurity</sg>,;
+<sg>low condition, low life, low society, low company</sg>,;
+<sg>bourgeoisie</sg>,;
+<sg>mass of the people, mass of society</sg>,;
+<sg>Brown Jones and Robinson</sg>,;
+<sg>lower classes, humbler classes, humbler orders</sg>,;
+<sg>vulgar herd, common herd</sg>,;
+<sg>rank and file, hoc genus omne</sg>,;
+<sg>the many, the general, the crowd, the people, the populace, the multitude, the million, the masses, the mobility, the peasantry</sg>,;
+<sg>king Mob</sg>,;
+<sg>proletariat</sg>,;
+<sg>fruges consumere nati, demos, hoi polloi, great unwashed</sg>,;
+<sg>man in the street</sg>,;
+<sg>mob</sg>,;
+<sg>rabble, rabble rout</sg>,;
+<sg>chaff, rout, horde, canaille</sg>,;
+<sg>scum of the people, residuum of the people, dregs of the people, dregs of society</sg>,;
+<sg>swinish multitude, foex populi</sg>,;
+<sg>trash</sg>,;
+<sg>profanum vulgus, ignobile vulgus</sg>,;
+<sg>vermin, riffraff, ragtag and bobtail</sg>,;
+<sg>small fry</sg>,;
+<sg>commoner, one of the people, democrat, plebeian, republican, proletary, proletaire, roturier, Mr</sg>,;
+<sg>Snooks, bourgeois, epicier, Philistine, cockney</sg>,;
+<sg>grisette, demimonde</sg>,;
+<sg>peasant, countryman, boor, carle, churl</sg>,;
+<sg>villain, villein</sg>,;
+<sg>terrae filius, son of the land</sg>,;
+<sg>serf, kern, tyke, tike, chuff, ryot, fellah</sg>,;
+<sg>longshoreman</sg>,;
+<sg>swain, clown, hind</sg>,;
+<sg>clod, clodhopper</sg>,;
+<sg>hobnail, yokel, bog-trotter, bumpkin</sg>,;
+<sg>plowman, plowboy</sg>,;
+<sg>rustic, hayseed, lunkhead, chaw-bacon, tiller of the soil</sg>,;
+<sg>hewers of wood and drawers of water, groundling</sg>,;
+<sg>gaffer, loon, put, cub, Tony Lumpkin, looby, rube, lout, underling</sg>,;
+<sg>gamin</sg>,;
+<sg>rough</sg>,;
+<sg>pot- wallopper, slubberdegullion</sg>,;
+<sg>vulgar fellow, low fellow</sg>,;
+<sg>cad, curmudgeon</sg>,;
+<sg>upstart, parvenu, skipjack</sg>,;
+<sg>nobody, nobody one knows</sg>,;
+<sg>hesterni quirites, pessoribus orti</sg>,;
+<sg>bourgeois gentilhomme, novus homo, snob, gent, mushroom, no one knows who, adventurer</sg>,;
+<sg>man of straw</sg>,;
+<sg>beggar, gaberlunzie, muckworm, mudlark, sans culotte, raff, tatterdemalion, caitiff, ragamuffin, Pariah, outcast of society, tramp, vagabond, bezonian, panhandler, sundowner, chiffonnier, Cinderella, cinderwench, scrub, jade</sg>,;
+<sg>gossoon</sg>,;
+<sg>Goth, Vandal, Hottentot, Zulu, savage, barbarian, Yahoo</sg>,;
+<sg>unlicked cub, rough diamond</sg>,;
+<sg>barbarousness, barbarism</sg>,;
+<sg>boeotia</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be ignoble</sg>,;
+<sg>, be nobody</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>ignoble, common, mean, low, base, vile, sorry, scrubby, beggarly</sg>,;
+<sg>below par</sg>,;
+<sg>no great shakes ,<cref>643 <i>unimportant</i></cref></sg>,;
+<sg>homely, homespun</sg>,;
+<sg>vulgar, low-minded</sg>,;
+<sg>snobbish</sg>,;
+<sg>plebeian, proletarian</sg>,;
+<sg>of low parentage, of low origin, of low extraction, of mean parentage, of mean origin, of mean extraction</sg>,;
+<sg>lowborn, baseborn, earthborn</sg>,;
+<sg>mushroom, dunghill, risen from the ranks</sg>,;
+<sg>unknown to fame, obscure, untitled</sg>,;
+<sg>rustic, uncivilized</sg>,;
+<sg>loutish, boorish, clownish, churlish, brutish, raffish</sg>,;
+<sg>rude, unlicked</sg>,;
+<sg>barbarous, barbarian, barbaric, barbaresque</sg>,;
+<sg>cockney, born within sound of Bow bells</sg>,;
+<sg>underling, menial, subaltern</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>below the salt</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>dummodo sit dives barbarus ipse placet</sg>,;
+<br>
+</paragraph>

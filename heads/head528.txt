@@ -1,0 +1,18 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#20#</sectionNumber>
+<headword>#<b>#[001] #528# Madman #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>madman, </i>lunatic, maniac, bedlamite, candidate for Bedlam, raver, madcap, crazy</sg>,;
+<sg>energumen</sg>,;
+<sg>automaniac, monomaniac, dipsomaniac, kleptomaniac</sg>,;
+<sg>hypochondriac  (low spirits)</sg>,;
+<sg>crank, Tom o'Bedlam</sg>,;
+<sg>dreamer ,<cref> 515 <i>ignorance</i></cref></sg>,;
+<sg>rhapsodist, seer, highflier, enthusiast, fanatic, fanatico</sg>,;
+<sg>exalte</sg>,;
+<sg>knight errant, Don Quixote</sg>,;
+<sg>idiot ,<cref> 501 <i>demonstration</i></cref></sg>,;
+<br>
+</paragraph>

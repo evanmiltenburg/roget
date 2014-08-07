@@ -1,0 +1,49 @@
+<classNumber>#2#</classNumber>
+<sectionNumber>#12#</sectionNumber>
+<headword>#<b>#[001] #311# Insertion #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>insertion, </i>implantation, introduction</sg>,;
+<sg>insinuation ,<cref>228 <i>intervention</i></cref></sg>,;
+<sg>planting,</sg>,;
+<sg>injection, inoculation, importation, infusion</sg>,;
+<sg>forcible ingress ,<cref> 294 <i>regression</i></cref></sg>,;
+<sg>immersion</sg>,;
+<sg>submersion, submergence, dip, plunge</sg>,;
+<sg>bath ,<cref>337 <i>water</i></cref></sg>,;
+<sg>interment ,<cref> 363 <i>semiliquidity</i></cref></sg>,;
+<sg>clyster, enema, glyster, lavage, lavement</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>insert</sg>,;
+<sg>introduce, intromit</sg>,;
+<sg>put into, run into</sg>,;
+<sg>import</sg>,;
+<sg>inject</sg>,;
+<sg>interject ,<cref> 298 <i>recession</i></cref></sg>,;
+<sg>infuse, instill, inoculate, impregnate, imbue, imbrue</sg>,;
+<sg>graft, ingraft, bud, plant, implant</sg>,;
+<sg>dovetail</sg>,;
+<sg>obtrude</sg>,;
+<sg>thrust in, stick in, ram in, stuff in, tuck in, press, in, drive in, pop in, whip in, drop in, put in</sg>,;
+<sg>impact</sg>,;
+<sg>empierce ,<cref>260 <i>make a hole</i></cref></sg>,;
+<sg>imbed</sg>,;
+<sg>immerse, immerge, merge</sg>,;
+<sg>bathe, soak ,<cref>337 <i>water</i></cref></sg>,;
+<sg>dip, plunge ,<cref> 310 <i>excretion</i></cref></sg>,;
+<sg>bury ,<cref>363 <i>inter</i></cref></sg>,;
+<sg>insert itself, lodge itself </sg>,;
+<sg>plunge in medias res</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>inserted</sg>,;
+<br>
+</paragraph>

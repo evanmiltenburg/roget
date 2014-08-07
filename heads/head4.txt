@@ -1,0 +1,71 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#1#</sectionNumber>
+<headword>#<b>#[001] #4# Unsubstantiality #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>unsubstantiality, </i>insubstantiality</sg>,;
+<sg>nothingness, nihility</sg>,;
+<sg>no degree, no part, no quantity, no thing</sg>,;
+<sg>nothing, naught, nil, nullity, zero, cipher, no one, nobody</sg>,;
+<sg>never a one, ne'er a one</sg>,;
+<sg>no such thing, none in the world</sg>,;
+<sg>nothing whatever, nothing at all, nothing on earth</sg>,;
+<sg>not a particle ,<cref>32 <i>smallness</i></cref></sg>,;
+<sg>all talk, moonshine, stuff and nonsense</sg>,;
+<sg>matter of no importance, matter of no consequence</sg>,;
+<sg>thing of naught, man of straw, John Doe and Richard Roe, faggot voter</sg>,;
+<sg>nominis umbra, nonentity</sg>,;
+<sg>flash in the pan, vox et praeterea nihil</sg>,;
+<sg>shadow</sg>,;
+<sg>phantom ,<cref>443 <i>fallacy of vision</i></cref></sg>,;
+<sg>dream ,<cref>515 <i>imagination</i></cref></sg>,;
+<sg>ignis fatuus ,<cref>423 <i>luminary</i></cref></sg>,;
+<sg>such stuff as dreams are made of</sg>,;
+<sg>air, thin air, vapor</sg>,;
+<sg>bubble ,<cref> 353 <i>land</i></cref></sg>,;
+<sg>baseless fabric of a vision</sg>,;
+<sg>mockery</sg>,;
+<sg>hollowness, blank</sg>,;
+<sg>void ,<cref>187 <i>absence</i></cref></sg>,;
+<sg>inanity, fool's paradise</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>vanish, evaporate, fade, dissolve, melt away</sg>,;
+<sg>disappear ,<cref> 449 <i>whiteness</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>unsubstantial</sg>,;
+<sg>baseless, groundless</sg>,;
+<sg>ungrounded</sg>,;
+<sg>without foundation, having no foundation</sg>,;
+<sg>visionary ,<cref>515 <i>imaginary</i></cref></sg>,;
+<sg>immaterial ,<cref> 137 <i>adolescence</i></cref></sg>,;
+<sg>spectral ,<cref> 980 <i>accusation</i></cref></sg>,;
+<sg>dreamy</sg>,;
+<sg>shadowy</sg>,;
+<sg>ethereal, airy</sg>,;
+<sg>cloud built, cloud formed</sg>,;
+<sg>gossamery, illusory, insubstantial, unreal</sg>,;
+<sg>vacant, vacuous</sg>,;
+<sg>empty ,<cref> 187 <i>counteraction</i></cref></sg>,;
+<sg>eviscerated</sg>,;
+<sg>blank, hollow</sg>,;
+<sg>nominal</sg>,;
+<sg>null</sg>,;
+<sg>inane</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>there's nothing in it</sg>,;
+<sg>an ocean of dreams without a sound</sg>,;
+<br>
+</paragraph>

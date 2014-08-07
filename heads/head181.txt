@@ -1,0 +1,86 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#8#</sectionNumber>
+<headword>#<b>#[001] #181# Moderation #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>moderation, </i>lenity ,<cref> 740 <i>auxiliary</i></cref></sg>,;
+<sg>temperateness, gentleness</sg>,;
+<sg>sobriety</sg>,;
+<sg>quiet</sg>,;
+<sg>mental calmness ,<cref>826 <i>inexcitability</i></cref></sg>,;
+<sg>moderating</sg>,;
+<sg>anaphrodisia</sg>,;
+<sg>relaxation, remission, mitigation, tranquilization, assuagement, contemporation, pacification</sg>,;
+<sg>measure, juste milieu, golden mean, ariston metron</sg>,;
+<sg>moderator</sg>,;
+<sg>lullaby, sedative, lenitive, demulcent, antispasmodic, carminative, laudanum</sg>,;
+<sg>rose water, balm, poppy, opiate, anodyne, milk, opium, poppy or mandragora</sg>,;
+<sg>wet blanket</sg>,;
+<sg>palliative</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be moderate</sg>,;
+<sg>keep within bounds, keep within compass</sg>,;
+<sg>sober down, settle down</sg>,;
+<sg>keep the peace, remit, relent, take in sail</sg>,;
+<sg>moderate, soften, mitigate, temper, accoy</sg>,;
+<sg>attemper, contemper</sg>,;
+<sg>mollify, lenify, dulcify, dull, take off the edge, blunt, obtund, sheathe, subdue, chasten</sg>,;
+<sg>sober down, tone down, smooth down</sg>,;
+<sg>weaken ,<cref> 160 <i>cause</i></cref></sg>,;
+<sg>lessen ,<cref>36 <i>decrease</i></cref></sg>,;
+<sg>check palliate</sg>,;
+<sg>tranquilize, pacify, assuage, appease, swag, lull, soothe, compose, still, calm, calm down, cool, quiet, hush, quell, sober, pacify, tame, damp, lay, allay, rebate, slacken, smooth, alleviate, rock to sleep, deaden, smooth, throw cold water on, throw a wet blanket over, turn off</sg>,;
+<sg>slake</sg>,;
+<sg>curb ,<cref>751 <i>restrain</i></cref></sg>,;
+<sg>tame ,<cref>749 <i>subjugate</i></cref></sg>,;
+<sg>smooth over</sg>,;
+<sg>pour oil on the waves, pour oil on the troubled waters</sg>,;
+<sg>pour balm into, mattre de l'eau dans son vin</sg>,;
+<sg>go out like a lamb, roar you as gently as any sucking dove</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>moderate</sg>,;
+<sg>lenient ,<cref> 740 <i>auxiliary</i></cref></sg>,;
+<sg>gentle, mild, mellow</sg>,;
+<sg>cool, sober, temperate, reasonable, measured</sg>,;
+<sg>tempered</sg>,;
+<sg>calm, unruffled, quiet, tranquil, still</sg>,;
+<sg>slow, smooth, untroubled</sg>,;
+<sg>tame</sg>,;
+<sg>peaceful, peaceable</sg>,;
+<sg>pacific, halcyon</sg>,;
+<sg>unexciting, unirritating</sg>,;
+<sg>soft, bland, oily, demulcent, lenitive, anodyne</sg>,;
+<sg>hypnotic ,<cref> 683 <i>health</i></cref></sg>,;
+<sg>sedative</sg>,;
+<sg>antiorgastic, anaphrodisiac</sg>,;
+<sg>mild as mother's milk</sg>,;
+<sg>milk and water</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>moderately</sg>,;
+<sg>gingerly</sg>,;
+<sg>piano</sg>,;
+<sg>under easy sail, at half speed</sg>,;
+<sg>within bounds, within compass</sg>,;
+<sg>in reason</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>est modue in rebus</sg>,;
+<sg>pour oil on troubled waters</sg>,;
+<br>
+</paragraph>

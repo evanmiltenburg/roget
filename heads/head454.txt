@@ -1,0 +1,40 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#15#</sectionNumber>
+<headword>#<b>#[001] #454# Greenness #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>greenness, </i>green</sg>,;
+<sg>blue and yellow</sg>,;
+<sg>vert</sg>,;
+<sg>emerald, verd antique, verdigris, malachite, beryl, aquamarine</sg>,;
+<sg>absinthe, cr=eme de menthe</sg>,;
+<sg>terre verte, verditer, verdine, copperas</sg>,;
+<sg>greenness, verdure</sg>,;
+<sg>viridity, viridescence</sg>,;
+<sg>verditure</sg>,;
+<sg>glaucoma, rokunaisho</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>green, verdant</sg>,;
+<sg>glaucous, olive, olive green</sg>,;
+<sg>green as grass</sg>,;
+<sg>verdurous</sg>,;
+<sg>emerald green, pea green, grass green, apple green, sea green, olive green, bottle green, coke bottle green</sg>,;
+<sg>greenish</sg>,;
+<sg>virent, virescent</sg>,;
+<sg>green (learner) 541, new, inexperienced, novice, (unskillful) 699</sg>,;
+<sg>green (ill, sick)</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>green with envy</sg>,;
+<sg>the green grass of Ireland</sg>,;
+<sg>the wearing of the green</sg>,;
+<br>
+</paragraph>

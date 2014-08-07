@@ -1,0 +1,53 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#15#</sectionNumber>
+<headword>#<b>#[001] #440# Dimness #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>dimness</i></sg>,;
+<sg>darkness ,<cref> 421 <i>loudness</i></cref></sg>,;
+<sg>paleness ,<cref>429 <i>light color</i></cref></sg>,;
+<sg>half light, demi-jour</sg>,;
+<sg>partial shadow, partial eclipse</sg>,;
+<sg>shadow of a shade</sg>,;
+<sg>glimmer, gliming</sg>,;
+<sg>nebulosity</sg>,;
+<sg>cloud ,<cref> 353 <i>land</i></cref></sg>,;
+<sg>eclipse</sg>,;
+<sg>aurora, dusk, twilight, shades of evening, crepuscule, cockshut time</sg>,;
+<sg>break of day, daybreak, dawn</sg>,;
+<sg>moonlight, moonbeam, moonglade, moonshine</sg>,;
+<sg>starlight, owl's light, candlelight, rushlight, firelight</sg>,;
+<sg>farthing candle</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be dim, grow dim</sg>,;
+<sg>flicker, twinkle, glimmer</sg>,;
+<sg>loom, lower</sg>,;
+<sg>fade</sg>,;
+<sg>pale, pale its ineffectual fire</sg>,;
+<sg>render dim</sg>,;
+<sg>dim, bedim, obscure</sg>,;
+<sg>darken, tone down</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>dim, dull, lackluster, dingy, darkish, shorn of its beams, dark 421</sg>,;
+<sg>faint, shadowed forth</sg>,;
+<sg>glassy</sg>,;
+<sg>cloudy</sg>,;
+<sg>misty ,<cref>426 <i>opaque</i></cref></sg>,;
+<sg>blear</sg>,;
+<sg>muggy, fuliginous</sg>,;
+<sg>nebulous, nebular</sg>,;
+<sg>obnubilated, overcast, crepuscular, muddy, lurid, leaden, dun, dirty</sg>,;
+<sg>looming</sg>,;
+<sg>pale ,<cref>429 <i>colorless</i></cref></sg>,;
+<sg>confused ,<cref>447 <i>invisible</i></cref></sg>,;
+<br>
+</paragraph>

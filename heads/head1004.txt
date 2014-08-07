@@ -1,0 +1,67 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#38#</sectionNumber>
+<headword>#<b>#[001] #1004# Impurity #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>impurity</i></sg>,;
+<sg>uncleanness ,<cref>653 <i>filth</i></cref></sg>,;
+<sg>immodesty</sg>,;
+<sg>grossness</sg>,;
+<sg>indelicacy, indecency</sg>,;
+<sg>impudicity</sg>,;
+<sg>obscenity, ribaldry, Fescennine, smut, bawdry, double entente, equivoque</sg>,;
+<sg>concupiscence, lust, carnality, flesh, salacity</sg>,;
+<sg>pruriency, lechery, lasciviency, lubricity</sg>,;
+<sg>Sadism, sapphism</sg>,;
+<sg>incontinence, intrigue, faux pas</sg>,;
+<sg>amour, amourette</sg>,;
+<sg>gallantry</sg>,;
+<sg>debauchery, libertinish, libertinage, fornication</sg>,;
+<sg>liaison</sg>,;
+<sg>wenching, venery, dissipation</sg>,;
+<sg>seduction</sg>,;
+<sg>defloration, defilement, abuse, violation, rape</sg>,;
+<sg>incest</sg>,;
+<sg>prostitution, social evil, harlotry, stupration, whoredom, concubinage, cuckoldom, adultery, advoutry, crim</sg>,;
+<sg>con</sg>,;
+<sg>free love</sg>,;
+<sg>seraglio, harem</sg>,;
+<sg>brothel, bagnio, stew, bawdyhouse, cat house, lupanar, house of ill fame, bordel, bordello</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be impure</sg>,;
+<sg>intrigue</sg>,;
+<sg>debauch, defile, seduce</sg>,;
+<sg>prostitute</sg>,;
+<sg>abuse, violate, deflower</sg>,;
+<sg>commit adultery</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>impure</sg>,;
+<sg>unclean ,<cref>653 <i>dirty</i></cref></sg>,;
+<sg>not to be mentioned to ears polite</sg>,;
+<sg>immodest, shameless</sg>,;
+<sg>indecorous, indelicate, indecent</sg>,;
+<sg>Fescennine</sg>,;
+<sg>loose, risque, coarse, gross, broad, free, equivocal, smutty, fulsome, ribald, obscene, bawdy, pornographic</sg>,;
+<sg>concupiscent, prurient, lickerish, rampant, lustful</sg>,;
+<sg>carnal, carnal-minded</sg>,;
+<sg>lewd, lascivious, lecherous, libidinous, erotic, ruttish, salacious</sg>,;
+<sg>Paphian</sg>,;
+<sg>voluptuous</sg>,;
+<sg>goatish, must, musty</sg>,;
+<sg>unchaste, light, wanton, licentious, debauched, dissolute</sg>,;
+<sg>of loose character, of easy virtue</sg>,;
+<sg>frail, gay, riggish, incontinent, meretricious, rakish, gallant, dissipated</sg>,;
+<sg>no better than she should be</sg>,;
+<sg>on the town, on the streets, on the pave, on the loose</sg>,;
+<sg>adulterous, incestuous, bestial</sg>,;
+<br>
+</paragraph>

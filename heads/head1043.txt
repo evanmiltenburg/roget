@@ -1,0 +1,23 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#39#</sectionNumber>
+<headword>#<b>#[001] #1043# Canonicals #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>canonicals, </i>vestments</sg>,;
+<sg>robe, gown, Geneva gown frock, pallium, surplice, cassock, dalmatic, scapulary, cope, mozetta, scarf, tunicle, chasuble, alb, alba, stole</sg>,;
+<sg>fanon, fannel</sg>,;
+<sg>tonsure, cowl, hood</sg>,;
+<sg>calote, calotte</sg>,;
+<sg>bands</sg>,;
+<sg>capouch, amice</sg>,;
+<sg>vagas, vakas, vakass</sg>,;
+<sg>apron, lawn sleeves, pontificals, pall</sg>,;
+<sg>miter, tiara, triple crown</sg>,;
+<sg>shovel hat, cardinal's hat</sg>,;
+<sg>biretta</sg>,;
+<sg>crosier</sg>,;
+<sg>pastoral staff, thurifer</sg>,;
+<sg>costume ,<cref> 225 <i>parallelism</i></cref></sg>,;
+<br>
+</paragraph>

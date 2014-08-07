@@ -1,0 +1,46 @@
+<classNumber>#1#</classNumber>
+<sectionNumber>#8#</sectionNumber>
+<headword>#<b>#[001] #175# Productiveness #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>productiveness</i></sg>,;
+<sg>fecundity, fertility, luxuriance, uberty</sg>,;
+<sg>pregnancy, pullulation, fructification, multiplication, propagation, procreation</sg>,;
+<sg>superfetation</sg>,;
+<sg>milch cow, rabbit, hydra, warren, seed plot, land flowing with milk and honey</sg>,;
+<sg>second crop, aftermath</sg>,;
+<sg>aftercrop, aftergrowth</sg>,;
+<sg>arrish, eddish, rowen</sg>,;
+<sg>protoplasm</sg>,;
+<sg>fertilization</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>make productive</sg>,;
+<sg>fructify</sg>,;
+<sg>procreate, generate, fertilize, spermative, impregnate</sg>,;
+<sg>fecundate, fecundify</sg>,;
+<sg>teem, multiply</sg>,;
+<sg>produce ,<cref> 161 <i>effect</i></cref></sg>,;
+<sg>conceive</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>productive, prolific</sg>,;
+<sg>teeming, teemful</sg>,;
+<sg>fertile, fruitful, frugiferous, fruit-bearing</sg>,;
+<sg>fecund, luxuriant</sg>,;
+<sg>pregnant, uberous</sg>,;
+<sg>procreant, procreative</sg>,;
+<sg>generative, life-giving, spermatic</sg>,;
+<sg>multiparous</sg>,;
+<sg>omnific, propagable</sg>,;
+<sg>parturient ,<cref>161 <i>producing</i></cref></sg>,;
+<sg>profitable ,<cref>644 <i>useful</i></cref></sg>,;
+<br>
+</paragraph>

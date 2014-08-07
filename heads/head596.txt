@@ -1,0 +1,21 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#25#</sectionNumber>
+<headword>#<b>#[001] #596# Perspicuity #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>perspicuity, </i>perspicuousness ,<cref>518 <i>intelligibility</i></cref></sg>,;
+<sg>plain speaking ,<cref>525 <i>manifestation</i></cref></sg>,;
+<sg>definiteness, definition</sg>,;
+<sg>exactness ,<cref> 494 <i>impossibility</i></cref></sg>,;
+<sg>explicitness, lucidness</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>lucid ,<cref>518 <i>intelligible</i></cref></sg>,;
+<sg>explicit ,<cref>525 <i>manifest</i></cref></sg>,;
+<sg>exact ,<cref> 494 <i>impossibility</i></cref></sg>,;
+<br>
+</paragraph>

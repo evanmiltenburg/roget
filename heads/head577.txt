@@ -1,0 +1,102 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#25#</sectionNumber>
+<headword>#<b>#[001] #577# Record #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>record, </i>trace, vestige, relic, remains</sg>,;
+<sg>scar, cicatrix</sg>,;
+<sg>footstep, footmark, footprint</sg>,;
+<sg>pug</sg>,;
+<sg>track mark, wake, trail, scent, piste</sg>,;
+<sg>monument, hatchment, slab, tablet, trophy, achievement</sg>,;
+<sg>obelisk, pillar, column, monolith</sg>,;
+<sg>memorial</sg>,;
+<sg>memento ,<cref>505 <i>memory</i></cref></sg>,;
+<sg>testimonial, medal</sg>,;
+<sg>commemoration ,<cref>883 <i>celebration</i></cref></sg>,;
+<sg>record, note, minute</sg>,;
+<sg>register, registry</sg>,;
+<sg>roll ,<cref>86 <i>list</i></cref></sg>,;
+<sg>cartulary, diptych, Domesday book</sg>,;
+<sg>catalogue raisonne</sg>,;
+<sg>entry, memorandum, indorsement, inscription, copy, duplicate, docket</sg>,;
+<sg>notch ,<cref>550 <i>mark</i></cref></sg>,;
+<sg>muniment, deed ,<cref>771 <i>security</i></cref></sg>,;
+<sg>document</sg>,;
+<sg>deposition, proces verbal</sg>,;
+<sg>affidavit</sg>,;
+<sg>certificate ,<cref>467 <i>evidence</i></cref></sg>,;
+<sg>notebook, memorandum book, memo book, pocketbook, commonplace book</sg>,;
+<sg>portfolio</sg>,;
+<sg>pigeonholes, excerpta, adversaria, jottings, dottings</sg>,;
+<sg>gazette, gazetteer</sg>,;
+<sg>newspaper, daily, magazine</sg>,;
+<sg>almanac, almanack</sg>,;
+<sg>calendar, ephemeris, diary, log, journal, daybook, ledger</sg>,;
+<sg>cashbook, petty cashbook</sg>,;
+<sg>professional journal, scientific literature, the literature, primary literature, secondary literature, article, review article</sg>,;
+<sg>archive, scroll, state paper, return, blue book</sg>,;
+<sg>statistics ,<cref> 86 <i>conformity</i></cref></sg>,;
+<sg>compte rendu</sg>,;
+<sg>Acts of, Transactions of, Proceedings of</sg>,;
+<sg>Hansard's Debates</sg>,;
+<sg>chronicle, annals, legend</sg>,;
+<sg>history, biography ,<cref> 594 <i>solecism</i></cref></sg>,;
+<sg>Congressional Records</sg>,;
+<sg>registration</sg>,;
+<sg>registry</sg>,;
+<sg>enrollment, inrollment</sg>,;
+<sg>tabulation</sg>,;
+<sg>entry, booking</sg>,;
+<sg>signature ,<cref>550 <i>identification</i></cref></sg>,;
+<sg>recorder ,<cref> 553 <i>correction</i></cref></sg>,;
+<sg>journalism</sg>,;
+<sg>recording, tape recording, videotape</sg>,;
+<sg>compact disk</sg>,;
+<sg>floppy disk, diskette</sg>,;
+<sg>hard disk, Winchester disk</sg>,;
+<sg>read-only memory, ROM</sg>,;
+<sg>write once read mostly memory, WORM</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>record</sg>,;
+<sg>put on record, place on record</sg>,;
+<sg>chronicle, calendar, hand down to posterity</sg>,;
+<sg>keep up the memory ,<cref>505 <i>remember</i></cref></sg>,;
+<sg>commemorate ,<cref>883 <i>celebrate</i></cref></sg>,;
+<sg>report ,<cref>527 <i>inform</i></cref></sg>,;
+<sg>write, commit to writing, reduce to writing</sg>,;
+<sg>put in writing, set down in writing, writing in black and white</sg>,;
+<sg>put down, jot down, take down, write down, note down, set down</sg>,;
+<sg>note, minute, put on paper</sg>,;
+<sg>take note, make a note, take minute, take memorandum</sg>,;
+<sg>make a return</sg>,;
+<sg>mark ,<cref>550 <i>indicate</i></cref></sg>,;
+<sg>sign ,<cref>467 <i>attest</i></cref></sg>,;
+<sg>enter, book</sg>,;
+<sg>post, post up, insert, make an entry of</sg>,;
+<sg>mark off, tick off</sg>,;
+<sg>register, enroll, inscroll</sg>,;
+<sg>file ,<cref>636 <i>store</i></cref></sg>,;
+<sg>burn into memory</sg>,;
+<sg>carve in stone</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>on record</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>exegi monumentum aere perennium</sg>,;
+<sg>read their history in a nation's eyes</sg>,;
+<sg>records that defy the tooth of time</sg>,;
+<br>
+</paragraph>

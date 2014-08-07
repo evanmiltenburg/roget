@@ -1,0 +1,30 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#21#</sectionNumber>
+<headword>#<b>#[001] #537# Oracle #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>oracle</i></sg>,;
+<sg>prophet, prophesier, seer, soothsayer, augur, fortune teller, crystal gazer, witch, geomancer, aruspex</sg>,;
+<sg>aruspice, haruspice</sg>,;
+<sg>haruspex</sg>,;
+<sg>astrologer, star gazer</sg>,;
+<sg>Sibyl</sg>,;
+<sg>Python, Pythoness</sg>,;
+<sg>Pythia</sg>,;
+<sg>Pythian oracle, Delphian oracle</sg>,;
+<sg>Monitor, Sphinx, Tiresias, Cassandra, Sibylline leaves</sg>,;
+<sg>Zadkiel, Old Moore</sg>,;
+<sg>sorcerer ,<cref> 994 <i>atonement</i></cref></sg>,;
+<sg>interpreter, ,<cref> 524 <i>sage</i></cref></sg>,;
+<sg>predictor, prognosticator, forecaster</sg>,;
+<sg>weather forecaster, weatherman</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>a prophet is without honor in his own country</sg>,;
+<sg>you don't need a weatherman to know which way the wind blows</sg>,;
+<br>
+</paragraph>

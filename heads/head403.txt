@@ -1,0 +1,15 @@
+<classNumber>#3#</classNumber>
+<sectionNumber>#15#</sectionNumber>
+<headword>#<b>#[001] #403# Thermometer #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>thermometer, </i>thermometrograph, mercury thermometer, alcohol thermometer, clinical thermometer, dry-bulb thermometer, wet-bulb thermometer, Anschutz thermometer, gas thermometer, telethermometer</sg>,;
+<sg>color-changing temperature indicator</sg>,;
+<sg>thermopile, thermoscope</sg>,;
+<sg>pyrometer, calorimeter, bomb calorimeter</sg>,;
+<sg>thermistor, thermocouple</sg>,;
+<sg>thermostat, thermoregulator</sg>,;
+<sg>(3) Taste</sg>,;
+<br>
+</paragraph>

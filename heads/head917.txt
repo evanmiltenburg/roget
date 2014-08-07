@@ -1,0 +1,82 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#36#</sectionNumber>
+<headword>#<b>#[001] #917# Pride #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>pride, </i>dignity, self-respect, mens sibi conscia recti</sg>,;
+<sg>pride</sg>,;
+<sg>haughtiness</sg>,;
+<sg>high notions, hauteur</sg>,;
+<sg>vainglory, crest</sg>,;
+<sg>arrogance ,<cref>885 <i>assumption</i></cref></sg>,;
+<sg>proud man, highflier</sg>,;
+<sg>fine gentleman, fine lady</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be proud</sg>,;
+<sg>put a good face on</sg>,;
+<sg>look one in the face</sg>,;
+<sg>stalk abroad, perk oneself up</sg>,;
+<sg>think no small beer of oneself</sg>,;
+<sg>presume, swagger, strut</sg>,;
+<sg>rear one's head, lift up one's head, hold up one's head</sg>,;
+<sg>hold one's head high, look big, take the wall, bear like the Turk no rival near the throne, carry with a high hand</sg>,;
+<sg>ride the high horse, mount on one's high horse</sg>,;
+<sg>set one's back up, bridle, toss the head</sg>,;
+<sg>give oneself airs ,<cref>885 <i>assume</i></cref></sg>,;
+<sg>boast ,<cref> 884 <i>ugliness</i></cref></sg>,;
+<sg>pride oneself on</sg>,;
+<sg>glory in, take a pride in</sg>,;
+<sg>pique oneself, plume oneself, hug oneself</sg>,;
+<sg>stand upon, be proud of</sg>,;
+<sg>put a good face on</sg>,;
+<sg>not hide one's light under a bushel, not put one's talent in a napkin</sg>,;
+<sg>not think small beer of oneself ,<cref>880 <i>vanity</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>dignified</sg>,;
+<sg>stately</sg>,;
+<sg>proud, proud-crested</sg>,;
+<sg>lordly, baronial</sg>,;
+<sg>lofty- minded</sg>,;
+<sg>highsouled, high-minded, high-mettled, high-handed, high- plumed, high-flown, high-toned</sg>,;
+<sg>haughty lofty, high, mighty, swollen, puffed up, flushed, blown</sg>,;
+<sg>vainglorious</sg>,;
+<sg>purse-proud, fine</sg>,;
+<sg>proud as a peacock, proud as Lucifer</sg>,;
+<sg>bloated with pride</sg>,;
+<sg>supercilious, disdainful, bumptious, magisterial, imperious, high and mighty, overweening, consequential</sg>,;
+<sg>arrogant ,<cref> 885 <i>ornament</i></cref></sg>,;
+<sg>unblushing ,<cref> 880 <i>wit</i></cref></sg>,;
+<sg>stiff, stiff-necked</sg>,;
+<sg>starch</sg>,;
+<sg>perked stuck-up</sg>,;
+<sg>in buckram, strait- laced</sg>,;
+<sg>prim ,<cref>855 <i>affected</i></cref></sg>,;
+<sg>on one's dignity, on one's high horses, on one's tight ropes, on one's high ropes</sg>,;
+<sg>on stilts</sg>,;
+<sg>en grand seigneur</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>with head erect</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>odi profanum vulgus et arceo</sg>,;
+<sg>a duke's revenues on her back</sg>,;
+<sg>disdains the shadow which he treads on at noon</sg>,;
+<sg>pride in their port, defiance in their eye</sg>,;
+<br>
+</paragraph>

@@ -1,0 +1,123 @@
+<classNumber>#4#</classNumber>
+<sectionNumber>#17#</sectionNumber>
+<headword>#<b>#[001] #477# Attention #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>attention</i></sg>,;
+<sg>mindfulness, presence of mind</sg>,;
+<sg>intentness, intentiveness</sg>,;
+<sg>alertness</sg>,;
+<sg>thought ,<cref> 451 <i>gray</i></cref></sg>,;
+<sg>advertence, advertency</sg>,;
+<sg>observance, observation</sg>,;
+<sg>consideration, reflection, perpension</sg>,;
+<sg>heed</sg>,;
+<sg>heedfulness</sg>,;
+<sg>particularity</sg>,;
+<sg>notice, regard</sg>,;
+<sg>circumspection, diligence ,<cref>459 <i>care</i></cref></sg>,;
+<sg>study, scrutiny inspection, introspection</sg>,;
+<sg>revision, revisal</sg>,;
+<sg>active application, diligent application, exclusive application, minute application, close application, intense application, deep application, profound application, abstract application, labored application, deliberate application, active attention, diligent attention, exclusive attention, minute attention, close attention, intense attention, deep attention, profound attention, abstract attention, labored attention, deliberate attention, active thought, diligent thought, exclusive thought, minute thought, close thought, intense thought, deep thought, profound thought, abstract thought, labored thought, deliberate thought, active study, diligent study, exclusive study, minute study, close study, intense study, deep study, profound study, abstract study, labored study, deliberate study</sg>,;
+<sg>minuteness, attention to detail</sg>,;
+<sg>absorption of mind ,<cref>458 <i>abstraction</i></cref></sg>,;
+<sg>indication, calling attention to</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>be attentive</sg>,;
+<sg>attend, advert to, observe, look, see, view, remark, notice, regard, take notice, mark</sg>,;
+<sg>give attention to, pay attention to, pay heed to, give heed to</sg>,;
+<sg>incline an ear to, lend an ear to</sg>,;
+<sg>trouble one's head about</sg>,;
+<sg>give a thought to, animadvert to</sg>,;
+<sg>occupy oneself with</sg>,;
+<sg>contemplate ,<cref>451 <i>think of</i></cref></sg>,;
+<sg>look at, look to, look after, look into, look over</sg>,;
+<sg>see to</sg>,;
+<sg>turn the mind to, bend the mind to, apply the mind to, direct the mind to, give the mind to, turn the eye to, bend the eye to, apply the eye to, direct the eye to, give the eye to, turn the attention to, bend the attention to, apply the attention to, direct the attention to, give the attention to</sg>,;
+<sg>have an eye to, have in one's eye</sg>,;
+<sg>bear in mind</sg>,;
+<sg>take into account, take into consideration</sg>,;
+<sg>keep in sight, keep in view</sg>,;
+<sg>have regard to, heed, mind, take cognizance of entertain, recognize</sg>,;
+<sg>make note of, take note of</sg>,;
+<sg>note</sg>,;
+<sg>examine cursorily</sg>,;
+<sg>glance at, glance upon, glance over</sg>,;
+<sg>cast the eyes over, pass the eyes over</sg>,;
+<sg>run over, turn over the leaves, dip into, perstringe</sg>,;
+<sg>skim ,<cref>460 <i>neglect</i></cref></sg>,;
+<sg>take a cursory view of</sg>,;
+<sg>examine, examine closely, examine intently</sg>,;
+<sg>scan, scrutinize, consider</sg>,;
+<sg>give one's mind to, bend one's mind to</sg>,;
+<sg>overhaul, revise, pore over</sg>,;
+<sg>inspect, review, pass under review</sg>,;
+<sg>take stock of</sg>,;
+<sg>fix the eye on, rivet attention on, fix attention on, devote the eye to, fix the mind on, devote the thoughts to</sg>,;
+<sg>hear out, think out</sg>,;
+<sg>mind one's business</sg>,;
+<sg>revert to</sg>,;
+<sg>watch ,<cref>459 <i>expect) 507, (take care of</i></cref></sg>,;
+<sg>hearken to, listen to</sg>,;
+<sg>prick up the ears</sg>,;
+<sg>have the eyes open, keep the eyes open</sg>,;
+<sg>come to the point</sg>,;
+<sg>meet with attention</sg>,;
+<sg>fall under one's notice, fall under one's observation</sg>,;
+<sg>be under consideration ,<cref>454 <i>topic</i></cref></sg>,;
+<sg>catch the eye, strike the eye</sg>,;
+<sg>attract notice</sg>,;
+<sg>catch the attention, awaken the attention, wake the attention, invite the attention, solicit the attention, attract the attention, claim the attention excite the attention, engage the attention, occupy the attention, strike the attention, arrest the attention, fix the attention, engross the attention, absorb the attention, rivet the attention, catch the mind, awaken the mind, wake the mind, invite the mind, solicit the mind, attract the mind, claim the mind excite the mind, engage the mind, occupy the mind, strike the mind, arrest the mind, fix the mind, engross the mind, absorb the mind, rivet the mind, catch the thoughts, awaken the thoughts, wake the thoughts, invite the thoughts, solicit the thoughts, attract the thoughts, claim the thoughts excite the thoughts, engage the thoughts, occupy the thoughts, strike the thoughts, arrest the thoughts, fix the thoughts, engross the thoughts, absorb the thoughts, rivet the thoughts</sg>,;
+<sg>be present to the mind, be uppermost in the mind</sg>,;
+<sg>bring under one's notice</sg>,;
+<sg>point out, point to, point at, point the finger at</sg>,;
+<sg>lay the finger on, indigitate, indicate</sg>,;
+<sg>direct attention to, call attention to</sg>,;
+<sg>show</sg>,;
+<sg>put a mark upon ,<cref>550 <i>sign</i></cref></sg>,;
+<sg>call soldiers to 'attention'</sg>,;
+<sg>bring forward ,<cref>525 <i>make manifest</i></cref></sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>attentive, mindful, observant, regardful</sg>,;
+<sg>alive to, awake to</sg>,;
+<sg>observing</sg>,;
+<sg>alert, open-eyed</sg>,;
+<sg>intent on, taken up with, occupied with, engaged in</sg>,;
+<sg>engrossed in, wrapped in, absorbed, rapt, transfixed, riveted, mesmerized, hypnotized</sg>,;
+<sg>glued to (the TV, the window, a book)</sg>,;
+<sg>breathless</sg>,;
+<sg>preoccupied ,<cref>458 <i>inattentive</i></cref></sg>,;
+<sg>watchful ,<cref>459 <i>careful</i></cref></sg>,;
+<sg>breathless, undistracted, upon the stretch</sg>,;
+<sg>on the watch ,<cref>507 <i>expectant</i></cref></sg>,;
+<sg>steadfast</sg>,;
+<sg>interesting, engrossing, mesmerizing, riveting</sg>,;
+<sg>Int</sg>,;
+<sg>see!, look, look here, look you, look to it!, mark!, lo!, behold!, soho!, hark, hark ye!, mind!, halloo!, observe!, lo and behold!, attention!, nota bene, N</sg>,;
+<sg>B</sg>,;
+<sg>, note well</sg>,;
+<sg>I'd have you to know</sg>,;
+<sg>notice!, O yes!, Oyez!, dekko!, ecco!, yoho!,</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#INT.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>this is to give notice, these are to give notice</sg>,;
+<sg>dictum sapienti sat est, a word to the wise is sufficient</sg>,;
+<sg>finem respice</sg>,;
+<sg>Attention! Now hear this! Oyez!</sg>,;
+<sg>Achtung</sg>,;
+<sg>vnimanie</sg>,;
+<sg>chui</sg>,;
+<br>
+</paragraph>

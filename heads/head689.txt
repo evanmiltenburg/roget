@@ -1,0 +1,119 @@
+<classNumber>#5#</classNumber>
+<sectionNumber>#27#</sectionNumber>
+<headword>#<b>#[001] #689# Restoration #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>restoration, </i>restoral</sg>,;
+<sg>reinstatement, replacement, rehabilitation, reestablishment, reconstitution, reconstruction</sg>,;
+<sg>reproduction ,<cref> 163 <i>chance</i></cref></sg>,;
+<sg>renovation, renewal</sg>,;
+<sg>revival, revivessence, reviviscence</sg>,;
+<sg>refreshment ,<cref> 689 <i>restoration</i></cref></sg>,;
+<sg>resuscitation, reanimation, revivification, reviction</sg>,;
+<sg>Phenix</sg>,;
+<sg>reorganization</sg>,;
+<sg>renaissance, second youth, rejuvenescence, new birth</sg>,;
+<sg>regeneration, regeneracy, regenerateness</sg>,;
+<sg>palingenesis, reconversion</sg>,;
+<sg>redress, retrieval, reclamation, recovery</sg>,;
+<sg>convalescence</sg>,;
+<sg>resumption, resumption</sg>,;
+<sg>sanativeness</sg>,;
+<sg>recurrence ,<cref>104 <i>repetition</i></cref></sg>,;
+<sg>rechauffe, rifacimento</sg>,;
+<sg>cure, recure, sanation</sg>,;
+<sg>healing</sg>,;
+<sg>redintegration</sg>,;
+<sg>rectification</sg>,;
+<sg>instauration</sg>,;
+<sg>repair, reparation, remanufacture</sg>,;
+<sg>recruiting</sg>,;
+<sg>cicatrization</sg>,;
+<sg>disinfection</sg>,;
+<sg>tinkering</sg>,;
+<sg>reaction</sg>,;
+<sg>redemption ,<cref>672 <i>deliverance</i></cref></sg>,;
+<sg>restitution ,<cref> 790 <i>deputy</i></cref></sg>,;
+<sg>relief ,<cref> 834 <i>securities</i></cref></sg>,;
+<sg>tinker, cobbler</sg>,;
+<sg>vis medicatrix ,<cref>662 <i>remedy</i></cref></sg>,;
+<sg>curableness</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#VB.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>return to the original state</sg>,;
+<sg>recover, rally, revive</sg>,;
+<sg>come come to, come round, come to oneself</sg>,;
+<sg>pull through, weather the storm, be oneself again</sg>,;
+<sg>get well, get round, get the better of, get over, get about</sg>,;
+<sg>rise from one's ashes, rise from the grave</sg>,;
+<sg>survive ,<cref>110 <i>outlive</i></cref></sg>,;
+<sg>resume, reappear</sg>,;
+<sg>come to, come to life again</sg>,;
+<sg>live again, rise again</sg>,;
+<sg>heal, skin over, cicatrize</sg>,;
+<sg>right itself</sg>,;
+<sg>restore, put back, place in statu quo</sg>,;
+<sg>reinstate, replace, reseat, rehabilitate, reestablish, reestate, reinstall</sg>,;
+<sg>reconstruct, rebuild, reorganize, reconstitute</sg>,;
+<sg>reconvert</sg>,;
+<sg>renew, renovate</sg>,;
+<sg>regenerate</sg>,;
+<sg>rejuvenate</sg>,;
+<sg>redeem, reclaim, recover, retrieve</sg>,;
+<sg>rescue ,<cref>672 <i>deliver</i></cref></sg>,;
+<sg>redress, recure</sg>,;
+<sg>cure, heal, remedy, doctor, physic, medicate</sg>,;
+<sg>break of</sg>,;
+<sg>bring round, set on one's legs</sg>,;
+<sg>resuscitate, revive, reanimate, revivify, recall to life</sg>,;
+<sg>reproduce ,<cref> 163 <i>chance</i></cref></sg>,;
+<sg>warm up</sg>,;
+<sg>reinvigorate, refresh ,<cref> 689 <i>restoration</i></cref></sg>,;
+<sg>make whole, redintegrate</sg>,;
+<sg>recoup ,<cref> 790 <i>deputy</i></cref></sg>,;
+<sg>make good, make all square</sg>,;
+<sg>rectify, correct</sg>,;
+<sg>put right, put to rights, set right, set to rights, set straight</sg>,;
+<sg>set up</sg>,;
+<sg>put in order ,<cref>60 <i>arrange</i></cref></sg>,;
+<sg>refit, recruit</sg>,;
+<sg>fill up, fill up the ranks</sg>,;
+<sg>reinforce</sg>,;
+<sg>repair</sg>,;
+<sg>put in repair, remanufacture, put in thorough repair, put in complete repair</sg>,;
+<sg>retouch, refashion, botch, vamp, tinker, cobble</sg>,;
+<sg>do up, patch up, touch up, plaster up, vamp up</sg>,;
+<sg>darn, finedraw, heelpiece</sg>,;
+<sg>stop a gap, stanch, staunch, caulk, calk, careen, splice, bind up wounds</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADJ.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>restored</sg>,;
+<sg>redivivus, convalescent</sg>,;
+<sg>in a fair way</sg>,;
+<sg>none the worse</sg>,;
+<sg>rejuvenated</sg>,;
+<sg>restoring</sg>,;
+<sg>restorative, recuperative</sg>,;
+<sg>sanative, reparative, sanatory, reparatory</sg>,;
+<sg>curative, remedial</sg>,;
+<sg>restorable, recoverable, sanable, remediable, retrievable, curable</sg>,;
+<br>
+</paragraph>
+<pos>#<size=-1>#<b>#ADV.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg>in statu quo</sg>,;
+<sg>as you were</sg>,;
+<sg>phr</sg>,;
+<sg>revenons a nos moutons</sg>,;
+<sg>medecin, gueris-toi toi- meme</sg>,;
+<sg>vestigia nulla retrorsum</sg>,;
+<br>
+</paragraph>

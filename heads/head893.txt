@@ -1,0 +1,17 @@
+<classNumber>#6#</classNumber>
+<sectionNumber>#36#</sectionNumber>
+<headword>#<b>#[001] #893# Fop #</b>#</headword>
+<pos>#<size=-1>#<b>#N.#</b>#</size>#</pos>
+<br>
+<paragraph>
+<sg><i>fop, </i>fine gentleman</sg>,;
+<sg>swell</sg>,;
+<sg>dandy, dandiprat</sg>,;
+<sg>exquisite, coxcomb, beau, macaroni, blade, blood, buck, man about town, fast man</sg>,;
+<sg>fribble, milliner</sg>,;
+<sg>Jemmy Jessamy, carpet knight</sg>,;
+<sg>masher, dude</sg>,;
+<sg>fine lady, coquette</sg>,;
+<sg>flirt, vamp</sg>,;
+<br>
+</paragraph>
